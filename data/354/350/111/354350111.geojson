@@ -2,13 +2,14 @@
   "id": 354350111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136811,36.099326,-115.136811,36.099326",
     "geom:latitude":36.099326,
     "geom:longitude":-115.136811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354350111,
-    "wof:lastmodified":1449066797,
+    "wof:lastmodified":1466706111,
     "wof:name":"Los Tejabands Seafood Mexican",
     "wof:parent_id":85879743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.136811,36.099326,-115.136811,36.099326],
-  "geometry": {"coordinates":[-115.136811,36.099326],"type":"Point"}
+  "bbox": [
+    -115.136811,
+    36.099326,
+    -115.136811,
+    36.099326
+],
+  "geometry": {"coordinates":[-115.13681099999999,36.099326],"type":"Point"}
 }

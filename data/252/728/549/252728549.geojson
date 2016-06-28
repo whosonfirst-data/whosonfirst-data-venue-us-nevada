@@ -2,13 +2,14 @@
   "id": 252728549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.833119,35.989503,-114.833119,35.989503",
     "geom:latitude":35.989503,
     "geom:longitude":-114.833119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Lighthouse Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252728549,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466701899,
     "wof:name":"In Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-114.833119,35.989503,-114.833119,35.989503],
+  "bbox": [
+    -114.833119,
+    35.989503,
+    -114.833119,
+    35.989503
+],
   "geometry": {"coordinates":[-114.833119,35.989503],"type":"Point"}
 }

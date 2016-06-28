@@ -2,13 +2,14 @@
   "id": 219348615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137003,36.151562,-115.137003,36.151562",
     "geom:latitude":36.151562,
     "geom:longitude":-115.137003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219348615,
-    "wof:lastmodified":1449070524,
+    "wof:lastmodified":1466703395,
     "wof:name":"Fabella Cecilia B MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.137003,36.151562,-115.137003,36.151562],
-  "geometry": {"coordinates":[-115.137003,36.151562],"type":"Point"}
+  "bbox": [
+    -115.137003,
+    36.151562,
+    -115.137003,
+    36.151562
+],
+  "geometry": {"coordinates":[-115.13700300000001,36.151562],"type":"Point"}
 }

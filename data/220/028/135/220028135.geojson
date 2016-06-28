@@ -2,13 +2,14 @@
   "id": 220028135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815902,39.519028,-119.815902,39.519028",
     "geom:latitude":39.519028,
     "geom:longitude":-119.815902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Marsh Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220028135,
-    "wof:lastmodified":1449074486,
+    "wof:lastmodified":1466701777,
     "wof:name":"Law Offices Jonathan H King",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.815902,39.519028,-119.815902,39.519028],
-  "geometry": {"coordinates":[-119.815902,39.519028],"type":"Point"}
+  "bbox": [
+    -119.815902,
+    39.519028,
+    -119.815902,
+    39.519028
+],
+  "geometry": {"coordinates":[-119.81590199999999,39.519028],"type":"Point"}
 }

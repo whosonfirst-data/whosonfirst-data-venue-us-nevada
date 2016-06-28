@@ -2,13 +2,14 @@
   "id": 370158549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.246665,36.204961,-115.246665,36.204961",
     "geom:latitude":36.204961,
     "geom:longitude":-115.246665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7040 Smoke Ranch Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370158549,
-    "wof:lastmodified":1449031333,
+    "wof:lastmodified":1466701747,
     "wof:name":"Yu Larry MD",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nose"
     ]
 },
-  "bbox": [-115.246665,36.204961,-115.246665,36.204961],
-  "geometry": {"coordinates":[-115.246665,36.204961],"type":"Point"}
+  "bbox": [
+    -115.246665,
+    36.204961,
+    -115.246665,
+    36.204961
+],
+  "geometry": {"coordinates":[-115.24666499999999,36.204961],"type":"Point"}
 }

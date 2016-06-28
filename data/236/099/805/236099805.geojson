@@ -2,13 +2,14 @@
   "id": 236099805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752824,39.537792,-119.752824,39.537792",
     "geom:latitude":39.537792,
     "geom:longitude":-119.752824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Pyramid Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236099805,
-    "wof:lastmodified":1449003870,
+    "wof:lastmodified":1466701535,
     "wof:name":"For Kids Foundation",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.752824,39.537792,-119.752824,39.537792],
+  "bbox": [
+    -119.752824,
+    39.537792,
+    -119.752824,
+    39.537792
+],
   "geometry": {"coordinates":[-119.752824,39.537792],"type":"Point"}
 }

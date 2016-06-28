@@ -2,13 +2,14 @@
   "id": 370220989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.319605,36.165498,-115.319605,36.165498",
     "geom:latitude":36.165498,
     "geom:longitude":-115.319605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Canyon Brook Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370220989,
-    "wof:lastmodified":1449032352,
+    "wof:lastmodified":1466703070,
     "wof:name":"Nicco Construction Llc",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.319605,36.165498,-115.319605,36.165498],
+  "bbox": [
+    -115.319605,
+    36.165498,
+    -115.319605,
+    36.165498
+],
   "geometry": {"coordinates":[-115.319605,36.165498],"type":"Point"}
 }

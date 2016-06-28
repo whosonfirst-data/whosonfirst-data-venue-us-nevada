@@ -2,13 +2,14 @@
   "id": 236599055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.759977,40.825269,-115.759977,40.825269",
     "geom:latitude":40.825269,
     "geom:longitude":-115.759977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 S 1st St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236599055,
-    "wof:lastmodified":1449003131,
+    "wof:lastmodified":1466706247,
     "wof:name":"Tropical Tan & Tone Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-115.759977,40.825269,-115.759977,40.825269],
-  "geometry": {"coordinates":[-115.759977,40.825269],"type":"Point"}
+  "bbox": [
+    -115.759977,
+    40.825269,
+    -115.759977,
+    40.825269
+],
+  "geometry": {"coordinates":[-115.75997700000001,40.825269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370328081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772911,39.443909,-119.772911,39.443909",
     "geom:latitude":39.443909,
     "geom:longitude":-119.772911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":370328081,
-    "wof:lastmodified":1449031071,
+    "wof:lastmodified":1466704826,
     "wof:name":"Les Schwab Tire Centers",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.772911,39.443909,-119.772911,39.443909],
-  "geometry": {"coordinates":[-119.772911,39.443909],"type":"Point"}
+  "bbox": [
+    -119.772911,
+    39.443909,
+    -119.772911,
+    39.443909
+],
+  "geometry": {"coordinates":[-119.77291099999999,39.443909],"type":"Point"}
 }

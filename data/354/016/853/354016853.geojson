@@ -2,13 +2,14 @@
   "id": 354016853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.982002,36.034801,-114.982002,36.034801",
     "geom:latitude":36.034801,
     "geom:longitude":-114.982002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 E Texas Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354016853,
-    "wof:lastmodified":1449066233,
+    "wof:lastmodified":1466701930,
     "wof:name":"Cascade Car Wash",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.982002,36.034801,-114.982002,36.034801],
-  "geometry": {"coordinates":[-114.982002,36.034801],"type":"Point"}
+  "bbox": [
+    -114.982002,
+    36.034801,
+    -114.982002,
+    36.034801
+],
+  "geometry": {"coordinates":[-114.98200199999999,36.034801],"type":"Point"}
 }

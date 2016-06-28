@@ -2,13 +2,14 @@
   "id": 219435889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.012432,36.024523,-115.012432,36.024523",
     "geom:latitude":36.024523,
     "geom:longitude":-115.012432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Backbone Mountain Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219435889,
-    "wof:lastmodified":1449073594,
+    "wof:lastmodified":1466703811,
     "wof:name":"Horizon Pest Control",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.012432,36.024523,-115.012432,36.024523],
+  "bbox": [
+    -115.012432,
+    36.024523,
+    -115.012432,
+    36.024523
+],
   "geometry": {"coordinates":[-115.012432,36.024523],"type":"Point"}
 }

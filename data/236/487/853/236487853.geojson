@@ -2,13 +2,14 @@
   "id": 236487853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.730927,40.833435,-115.730927,40.833435",
     "geom:latitude":40.833435,
     "geom:longitude":-115.730927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Stitzel Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236487853,
-    "wof:lastmodified":1449002577,
+    "wof:lastmodified":1466705621,
     "wof:name":"Sierra Estates",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.730927,40.833435,-115.730927,40.833435],
-  "geometry": {"coordinates":[-115.730927,40.833435],"type":"Point"}
+  "bbox": [
+    -115.730927,
+    40.833435,
+    -115.730927,
+    40.833435
+],
+  "geometry": {"coordinates":[-115.73092699999999,40.833435],"type":"Point"}
 }

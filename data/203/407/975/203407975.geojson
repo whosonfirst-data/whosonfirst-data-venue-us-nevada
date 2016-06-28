@@ -2,13 +2,14 @@
   "id": 203407975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171839,36.188562,-115.171839,36.188562",
     "geom:latitude":36.188562,
     "geom:longitude":-115.171839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203407975,
-    "wof:lastmodified":1449026004,
+    "wof:lastmodified":1466703360,
     "wof:name":"Pedrigal House",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-115.171839,36.188562,-115.171839,36.188562],
-  "geometry": {"coordinates":[-115.171839,36.188562],"type":"Point"}
+  "bbox": [
+    -115.171839,
+    36.188562,
+    -115.171839,
+    36.188562
+],
+  "geometry": {"coordinates":[-115.17183900000001,36.188562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236477875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221816,36.245893,-115.221816,36.245893",
     "geom:latitude":36.245893,
     "geom:longitude":-115.221816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Red Bluff Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236477875,
-    "wof:lastmodified":1449002097,
+    "wof:lastmodified":1466705725,
     "wof:name":"Have Gloves Will Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.221816,36.245893,-115.221816,36.245893],
+  "bbox": [
+    -115.221816,
+    36.245893,
+    -115.221816,
+    36.245893
+],
   "geometry": {"coordinates":[-115.221816,36.245893],"type":"Point"}
 }

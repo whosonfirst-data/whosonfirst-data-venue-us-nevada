@@ -2,13 +2,14 @@
   "id": 236633045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758102,39.538843,-119.758102,39.538843",
     "geom:latitude":39.538843,
     "geom:longitude":-119.758102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 12th St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236633045,
-    "wof:lastmodified":1449005220,
+    "wof:lastmodified":1466706352,
     "wof:name":"On Point Translations",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-119.758102,39.538843,-119.758102,39.538843],
-  "geometry": {"coordinates":[-119.758102,39.538843],"type":"Point"}
+  "bbox": [
+    -119.758102,
+    39.538843,
+    -119.758102,
+    39.538843
+],
+  "geometry": {"coordinates":[-119.75810199999999,39.538843],"type":"Point"}
 }

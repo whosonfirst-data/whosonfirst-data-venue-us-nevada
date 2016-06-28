@@ -2,13 +2,14 @@
   "id": 220116435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789929,39.493028,-119.789929,39.493028",
     "geom:latitude":39.493028,
     "geom:longitude":-119.789929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 E Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220116435,
-    "wof:lastmodified":1449074150,
+    "wof:lastmodified":1466702501,
     "wof:name":"Bobo's Mogul Mouse Ski & Patio",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skiing"
     ]
 },
-  "bbox": [-119.789929,39.493028,-119.789929,39.493028],
+  "bbox": [
+    -119.789929,
+    39.493028,
+    -119.789929,
+    39.493028
+],
   "geometry": {"coordinates":[-119.789929,39.493028],"type":"Point"}
 }

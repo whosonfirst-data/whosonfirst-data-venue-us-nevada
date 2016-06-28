@@ -2,13 +2,14 @@
   "id": 354044851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160794,36.239335,-115.160794,36.239335",
     "geom:latitude":36.239335,
     "geom:longitude":-115.160794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 W Craig Road",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354044851,
-    "wof:lastmodified":1449066822,
+    "wof:lastmodified":1466702638,
     "wof:name":"Michael's Arts & Crafts",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.160794,36.239335,-115.160794,36.239335],
+  "bbox": [
+    -115.160794,
+    36.239335,
+    -115.160794,
+    36.239335
+],
   "geometry": {"coordinates":[-115.160794,36.239335],"type":"Point"}
 }

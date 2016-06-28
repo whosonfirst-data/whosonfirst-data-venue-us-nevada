@@ -2,13 +2,14 @@
   "id": 203180105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232368,36.125624,-115.232368,36.125624",
     "geom:latitude":36.125624,
     "geom:longitude":-115.232368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6376 W Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203180105,
-    "wof:lastmodified":1449025029,
+    "wof:lastmodified":1466701829,
     "wof:name":"J & S Lease & Rental Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "leasing"
     ]
 },
-  "bbox": [-115.232368,36.125624,-115.232368,36.125624],
-  "geometry": {"coordinates":[-115.232368,36.125624],"type":"Point"}
+  "bbox": [
+    -115.232368,
+    36.125624,
+    -115.232368,
+    36.125624
+],
+  "geometry": {"coordinates":[-115.23236799999999,36.125624],"type":"Point"}
 }

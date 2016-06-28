@@ -2,13 +2,14 @@
   "id": 354333319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135169,36.115413,-115.135169,36.115413",
     "geom:latitude":36.115413,
     "geom:longitude":-115.135169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 E Flamingo Rd #3324",
     "sg:city":"Paradise",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354333319,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1466705933,
     "wof:name":"MobileCommand Detail",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "detailing"
     ]
 },
-  "bbox": [-115.135169,36.115413,-115.135169,36.115413],
+  "bbox": [
+    -115.135169,
+    36.115413,
+    -115.135169,
+    36.115413
+],
   "geometry": {"coordinates":[-115.135169,36.115413],"type":"Point"}
 }

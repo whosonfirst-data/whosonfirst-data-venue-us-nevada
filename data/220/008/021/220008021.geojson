@@ -2,13 +2,14 @@
   "id": 220008021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.340901,36.189001,-115.340901,36.189001",
     "geom:latitude":36.189001,
     "geom:longitude":-115.340901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11220 Rose Reflet Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220008021,
-    "wof:lastmodified":1449074274,
+    "wof:lastmodified":1466704189,
     "wof:name":"Interavant-It Web Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.340901,36.189001,-115.340901,36.189001],
+  "bbox": [
+    -115.340901,
+    36.189001,
+    -115.340901,
+    36.189001
+],
   "geometry": {"coordinates":[-115.340901,36.189001],"type":"Point"}
 }

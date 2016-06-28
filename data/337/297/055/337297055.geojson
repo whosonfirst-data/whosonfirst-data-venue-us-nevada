@@ -2,13 +2,14 @@
   "id": 337297055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222703,36.198661,-115.222703,36.198661",
     "geom:latitude":36.198661,
     "geom:longitude":-115.222703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Eugene Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337297055,
-    "wof:lastmodified":1449027471,
+    "wof:lastmodified":1466701657,
     "wof:name":"T & K Balloons",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.222703,36.198661,-115.222703,36.198661],
+  "bbox": [
+    -115.222703,
+    36.198661,
+    -115.222703,
+    36.198661
+],
   "geometry": {"coordinates":[-115.222703,36.198661],"type":"Point"}
 }

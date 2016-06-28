@@ -2,13 +2,14 @@
   "id": 252734291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238105,36.265938,-115.238105,36.265938",
     "geom:latitude":36.265938,
     "geom:longitude":-115.238105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 W el Campo Grande Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252734291,
-    "wof:lastmodified":1449006379,
+    "wof:lastmodified":1466702015,
     "wof:name":"E & M Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-115.238105,36.265938,-115.238105,36.265938],
+  "bbox": [
+    -115.238105,
+    36.265938,
+    -115.238105,
+    36.265938
+],
   "geometry": {"coordinates":[-115.238105,36.265938],"type":"Point"}
 }

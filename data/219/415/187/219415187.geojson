@@ -2,13 +2,14 @@
   "id": 219415187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199302,36.115891,-115.199302,36.115891",
     "geom:latitude":36.115891,
     "geom:longitude":-115.199302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4070 S Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219415187,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466703715,
     "wof:name":"Terrible Herbst Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-115.199302,36.115891,-115.199302,36.115891],
+  "bbox": [
+    -115.199302,
+    36.115891,
+    -115.199302,
+    36.115891
+],
   "geometry": {"coordinates":[-115.199302,36.115891],"type":"Point"}
 }

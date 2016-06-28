@@ -2,13 +2,14 @@
   "id": 219502425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761532,39.527749,-119.761532,39.527749",
     "geom:latitude":39.527749,
     "geom:longitude":-119.761532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1248 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219502425,
-    "wof:lastmodified":1449072013,
+    "wof:lastmodified":1466704166,
     "wof:name":"Oak Furniture Mart LLC",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761532,39.527749,-119.761532,39.527749],
+  "bbox": [
+    -119.761532,
+    39.527749,
+    -119.761532,
+    39.527749
+],
   "geometry": {"coordinates":[-119.761532,39.527749],"type":"Point"}
 }

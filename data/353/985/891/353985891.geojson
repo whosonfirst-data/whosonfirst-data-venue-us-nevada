@@ -2,13 +2,14 @@
   "id": 353985891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.990845,36.008452,-114.990845,36.008452",
     "geom:latitude":36.008452,
     "geom:longitude":-114.990845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 East Horizon Ridge Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353985891,
-    "wof:lastmodified":1449019531,
+    "wof:lastmodified":1466701469,
     "wof:name":"Morningstar Mini-Storage - Henderson",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-114.990845,36.008452,-114.990845,36.008452],
-  "geometry": {"coordinates":[-114.990845,36.008452],"type":"Point"}
+  "bbox": [
+    -114.990845,
+    36.008452,
+    -114.990845,
+    36.008452
+],
+  "geometry": {"coordinates":[-114.99084499999999,36.008452],"type":"Point"}
 }

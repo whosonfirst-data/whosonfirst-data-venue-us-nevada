@@ -2,13 +2,14 @@
   "id": 219262115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.721697,39.498535,-119.721697,39.498535",
     "geom:latitude":39.498535,
     "geom:longitude":-119.721697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2775 Piping Rock Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219262115,
-    "wof:lastmodified":1449072577,
+    "wof:lastmodified":1466702647,
     "wof:name":"Bill's Drapery Installation",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.721697,39.498535,-119.721697,39.498535],
-  "geometry": {"coordinates":[-119.721697,39.498535],"type":"Point"}
+  "bbox": [
+    -119.721697,
+    39.498535,
+    -119.721697,
+    39.498535
+],
+  "geometry": {"coordinates":[-119.72169700000001,39.498535],"type":"Point"}
 }

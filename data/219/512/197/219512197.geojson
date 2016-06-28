@@ -2,13 +2,14 @@
   "id": 219512197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066772,36.207953,-115.066772,36.207953",
     "geom:latitude":36.207953,
     "geom:longitude":-115.066772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 N Lamont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219512197,
-    "wof:lastmodified":1449072969,
+    "wof:lastmodified":1466701519,
     "wof:name":"Southwest Paving & Grading",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.066772,36.207953,-115.066772,36.207953],
+  "bbox": [
+    -115.066772,
+    36.207953,
+    -115.066772,
+    36.207953
+],
   "geometry": {"coordinates":[-115.066772,36.207953],"type":"Point"}
 }

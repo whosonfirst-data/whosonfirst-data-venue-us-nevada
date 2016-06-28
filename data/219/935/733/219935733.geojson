@@ -2,13 +2,14 @@
   "id": 219935733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281578,36.16669,-115.281578,36.16669",
     "geom:latitude":36.16669,
     "geom:longitude":-115.281578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Stone Harbor Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219935733,
-    "wof:lastmodified":1449073288,
+    "wof:lastmodified":1466705827,
     "wof:name":"Danville Services Corp",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dev"
     ]
 },
-  "bbox": [-115.281578,36.16669,-115.281578,36.16669],
+  "bbox": [
+    -115.281578,
+    36.16669,
+    -115.281578,
+    36.16669
+],
   "geometry": {"coordinates":[-115.281578,36.16669],"type":"Point"}
 }

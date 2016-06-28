@@ -2,13 +2,14 @@
   "id": 236378477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769859,39.13343,-119.769859,39.13343",
     "geom:latitude":39.13343,
     "geom:longitude":-119.769859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3667 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236378477,
-    "wof:lastmodified":1449003957,
+    "wof:lastmodified":1466705207,
     "wof:name":"Espresso To Go Carson",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769859,39.13343,-119.769859,39.13343],
+  "bbox": [
+    -119.769859,
+    39.13343,
+    -119.769859,
+    39.13343
+],
   "geometry": {"coordinates":[-119.769859,39.13343],"type":"Point"}
 }

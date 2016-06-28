@@ -2,13 +2,14 @@
   "id": 236408591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104473,35.957485,-115.104473,35.957485",
     "geom:latitude":35.957485,
     "geom:longitude":-115.104473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Evergreen Oaks Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236408591,
-    "wof:lastmodified":1449001984,
+    "wof:lastmodified":1466705404,
     "wof:name":"Area 2 LLC",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advise"
     ]
 },
-  "bbox": [-115.104473,35.957485,-115.104473,35.957485],
+  "bbox": [
+    -115.104473,
+    35.957485,
+    -115.104473,
+    35.957485
+],
   "geometry": {"coordinates":[-115.104473,35.957485],"type":"Point"}
 }

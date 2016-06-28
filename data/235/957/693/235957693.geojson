@@ -2,13 +2,14 @@
   "id": 235957693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125014,36.015356,-115.125014,36.015356",
     "geom:latitude":36.015356,
     "geom:longitude":-115.125014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9652 Hawaiian Summer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235957693,
-    "wof:lastmodified":1449008544,
+    "wof:lastmodified":1466703565,
     "wof:name":"Lucid Investments",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-115.125014,36.015356,-115.125014,36.015356],
-  "geometry": {"coordinates":[-115.125014,36.015356],"type":"Point"}
+  "bbox": [
+    -115.125014,
+    36.015356,
+    -115.125014,
+    36.015356
+],
+  "geometry": {"coordinates":[-115.12501399999999,36.015356],"type":"Point"}
 }

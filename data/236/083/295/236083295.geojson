@@ -2,13 +2,14 @@
   "id": 236083295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129045,36.058181,-115.129045,36.058181",
     "geom:latitude":36.058181,
     "geom:longitude":-115.129045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Crystal Shadows Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236083295,
-    "wof:lastmodified":1449003168,
+    "wof:lastmodified":1466704113,
     "wof:name":"Shaelynn's Lawn & Garden Clnp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.129045,36.058181,-115.129045,36.058181],
+  "bbox": [
+    -115.129045,
+    36.058181,
+    -115.129045,
+    36.058181
+],
   "geometry": {"coordinates":[-115.129045,36.058181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203350445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.840977,39.639379,-119.840977,39.639379",
     "geom:latitude":39.639379,
     "geom:longitude":-119.840977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9331 Lemmon Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203350445,
-    "wof:lastmodified":1449025893,
+    "wof:lastmodified":1466703142,
     "wof:name":"Desert Dawgs Paintball",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [-119.840977,39.639379,-119.840977,39.639379],
+  "bbox": [
+    -119.840977,
+    39.639379,
+    -119.840977,
+    39.639379
+],
   "geometry": {"coordinates":[-119.840977,39.639379],"type":"Point"}
 }

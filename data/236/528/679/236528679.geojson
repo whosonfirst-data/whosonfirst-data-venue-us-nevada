@@ -2,13 +2,14 @@
   "id": 236528679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.228588,36.204727,-115.228588,36.204727",
     "geom:latitude":36.204727,
     "geom:longitude":-115.228588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2490 Maverick St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236528679,
-    "wof:lastmodified":1449002345,
+    "wof:lastmodified":1466705929,
     "wof:name":"Peterson Center",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [-115.228588,36.204727,-115.228588,36.204727],
+  "bbox": [
+    -115.228588,
+    36.204727,
+    -115.228588,
+    36.204727
+],
   "geometry": {"coordinates":[-115.228588,36.204727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236519231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095282,36.075171,-115.095282,36.075171",
     "geom:latitude":36.075171,
     "geom:longitude":-115.095282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 E Post Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236519231,
-    "wof:lastmodified":1449004988,
+    "wof:lastmodified":1466705892,
     "wof:name":"Landesign Consultant",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.095282,36.075171,-115.095282,36.075171],
+  "bbox": [
+    -115.095282,
+    36.075171,
+    -115.095282,
+    36.075171
+],
   "geometry": {"coordinates":[-115.095282,36.075171],"type":"Point"}
 }

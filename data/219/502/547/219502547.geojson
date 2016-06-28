@@ -2,13 +2,14 @@
   "id": 219502547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.935478,40.633086,-116.935478,40.633086",
     "geom:latitude":40.633086,
     "geom:longitude":-116.935478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 Wilson St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219502547,
-    "wof:lastmodified":1449072012,
+    "wof:lastmodified":1466704168,
     "wof:name":"Sweeney Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.935478,40.633086,-116.935478,40.633086],
+  "bbox": [
+    -116.935478,
+    40.633086,
+    -116.935478,
+    40.633086
+],
   "geometry": {"coordinates":[-116.935478,40.633086],"type":"Point"}
 }

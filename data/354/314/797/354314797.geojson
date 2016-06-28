@@ -2,13 +2,14 @@
   "id": 354314797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267511,36.143372,-115.267511,36.143372",
     "geom:latitude":36.143372,
     "geom:longitude":-115.267511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8095 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354314797,
-    "wof:lastmodified":1449067606,
+    "wof:lastmodified":1466705675,
     "wof:name":"Krazy Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "buffet"
     ]
 },
-  "bbox": [-115.267511,36.143372,-115.267511,36.143372],
+  "bbox": [
+    -115.267511,
+    36.143372,
+    -115.267511,
+    36.143372
+],
   "geometry": {"coordinates":[-115.267511,36.143372],"type":"Point"}
 }

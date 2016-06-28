@@ -2,13 +2,14 @@
   "id": 370280055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286658,36.277843,-115.286658,36.277843",
     "geom:latitude":36.277843,
     "geom:longitude":-115.286658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6446 N Durango",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370280055,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1466704226,
     "wof:name":"Bark Place Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "groomers"
     ]
 },
-  "bbox": [-115.286658,36.277843,-115.286658,36.277843],
+  "bbox": [
+    -115.286658,
+    36.277843,
+    -115.286658,
+    36.277843
+],
   "geometry": {"coordinates":[-115.286658,36.277843],"type":"Point"}
 }

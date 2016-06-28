@@ -2,13 +2,14 @@
   "id": 236175227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.987562,36.012598,-114.987562,36.012598",
     "geom:latitude":36.012598,
     "geom:longitude":-114.987562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Horizon Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236175227,
-    "wof:lastmodified":1449004032,
+    "wof:lastmodified":1466703087,
     "wof:name":"Money-N-Advance",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "check"
     ]
 },
-  "bbox": [-114.987562,36.012598,-114.987562,36.012598],
+  "bbox": [
+    -114.987562,
+    36.012598,
+    -114.987562,
+    36.012598
+],
   "geometry": {"coordinates":[-114.987562,36.012598],"type":"Point"}
 }

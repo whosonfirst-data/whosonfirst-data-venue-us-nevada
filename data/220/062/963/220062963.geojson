@@ -2,13 +2,14 @@
   "id": 220062963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256664,36.035898,-115.256664,36.035898",
     "geom:latitude":36.035898,
     "geom:longitude":-115.256664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8490 S Pioneer Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220062963,
-    "wof:lastmodified":1449074832,
+    "wof:lastmodified":1466702160,
     "wof:name":"Spring Valley Electric",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.256664,36.035898,-115.256664,36.035898],
+  "bbox": [
+    -115.256664,
+    36.035898,
+    -115.256664,
+    36.035898
+],
   "geometry": {"coordinates":[-115.256664,36.035898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236483677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203917,36.087231,-115.203917,36.087231",
     "geom:latitude":36.087231,
     "geom:longitude":-115.203917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5649 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236483677,
-    "wof:lastmodified":1449004399,
+    "wof:lastmodified":1466705742,
     "wof:name":"Addison Glass Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.203917,36.087231,-115.203917,36.087231],
+  "bbox": [
+    -115.203917,
+    36.087231,
+    -115.203917,
+    36.087231
+],
   "geometry": {"coordinates":[-115.203917,36.087231],"type":"Point"}
 }

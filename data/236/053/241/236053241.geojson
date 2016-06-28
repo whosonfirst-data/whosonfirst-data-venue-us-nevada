@@ -2,13 +2,14 @@
   "id": 236053241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071297,36.07135,-115.071297,36.07135",
     "geom:latitude":36.07135,
     "geom:longitude":-115.071297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sunset Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236053241,
-    "wof:lastmodified":1449002144,
+    "wof:lastmodified":1466703974,
     "wof:name":"Woodson Drmatology A Prof Corp",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.071297,36.07135,-115.071297,36.07135],
+  "bbox": [
+    -115.071297,
+    36.07135,
+    -115.071297,
+    36.07135
+],
   "geometry": {"coordinates":[-115.071297,36.07135],"type":"Point"}
 }

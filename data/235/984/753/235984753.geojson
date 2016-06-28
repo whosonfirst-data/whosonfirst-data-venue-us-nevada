@@ -2,13 +2,14 @@
   "id": 235984753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827026,39.342678,-119.827026,39.342678",
     "geom:latitude":39.342678,
     "geom:longitude":-119.827026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Joy Lake Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":235984753,
-    "wof:lastmodified":1449008437,
+    "wof:lastmodified":1466703684,
     "wof:name":"National Land Corp",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.827026,39.342678,-119.827026,39.342678],
+  "bbox": [
+    -119.827026,
+    39.342678,
+    -119.827026,
+    39.342678
+],
   "geometry": {"coordinates":[-119.827026,39.342678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236463563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722771,39.169885,-119.722771,39.169885",
     "geom:latitude":39.169885,
     "geom:longitude":-119.722771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3924 Village Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":236463563,
-    "wof:lastmodified":1449004039,
+    "wof:lastmodified":1466705646,
     "wof:name":"David Clary Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.722771,39.169885,-119.722771,39.169885],
-  "geometry": {"coordinates":[-119.722771,39.169885],"type":"Point"}
+  "bbox": [
+    -119.722771,
+    39.169885,
+    -119.722771,
+    39.169885
+],
+  "geometry": {"coordinates":[-119.72277099999999,39.169885],"type":"Point"}
 }

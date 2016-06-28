@@ -2,13 +2,14 @@
   "id": 354232975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172783,36.111835,-115.172783,36.111835",
     "geom:latitude":36.111835,
     "geom:longitude":-115.172783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Las Vegas Blvd South Le Boulevard Shops at Paris",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354232975,
-    "wof:lastmodified":1449066463,
+    "wof:lastmodified":1466705370,
     "wof:name":"Les Enfants",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [-115.172783,36.111835,-115.172783,36.111835],
+  "bbox": [
+    -115.172783,
+    36.111835,
+    -115.172783,
+    36.111835
+],
   "geometry": {"coordinates":[-115.172783,36.111835],"type":"Point"}
 }

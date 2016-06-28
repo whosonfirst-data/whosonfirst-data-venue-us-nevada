@@ -2,13 +2,14 @@
   "id": 203391871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269929,36.143883,-115.269929,36.143883",
     "geom:latitude":36.143883,
     "geom:longitude":-115.269929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Cimarron Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203391871,
-    "wof:lastmodified":1449026185,
+    "wof:lastmodified":1466703303,
     "wof:name":"Mercy Helena PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.269929,36.143883,-115.269929,36.143883],
+  "bbox": [
+    -115.269929,
+    36.143883,
+    -115.269929,
+    36.143883
+],
   "geometry": {"coordinates":[-115.269929,36.143883],"type":"Point"}
 }

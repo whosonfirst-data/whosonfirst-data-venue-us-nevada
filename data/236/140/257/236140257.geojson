@@ -2,13 +2,14 @@
   "id": 236140257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096356,36.076653,-115.096356,36.076653",
     "geom:latitude":36.076653,
     "geom:longitude":-115.096356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6180 S Pearl St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236140257,
-    "wof:lastmodified":1449002033,
+    "wof:lastmodified":1466702342,
     "wof:name":"Anixter Fasteners",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-115.096356,36.076653,-115.096356,36.076653],
+  "bbox": [
+    -115.096356,
+    36.076653,
+    -115.096356,
+    36.076653
+],
   "geometry": {"coordinates":[-115.096356,36.076653],"type":"Point"}
 }

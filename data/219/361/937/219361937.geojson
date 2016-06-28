@@ -2,13 +2,14 @@
   "id": 219361937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085847,36.027596,-115.085847,36.027596",
     "geom:latitude":36.027596,
     "geom:longitude":-115.085847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219361937,
-    "wof:lastmodified":1449072971,
+    "wof:lastmodified":1466703436,
     "wof:name":"Bizolutions By Bizco",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-115.085847,36.027596,-115.085847,36.027596],
+  "bbox": [
+    -115.085847,
+    36.027596,
+    -115.085847,
+    36.027596
+],
   "geometry": {"coordinates":[-115.085847,36.027596],"type":"Point"}
 }

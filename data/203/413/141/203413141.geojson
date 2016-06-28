@@ -2,13 +2,14 @@
   "id": 203413141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170428,36.226528,-115.170428,36.226528",
     "geom:latitude":36.226528,
     "geom:longitude":-115.170428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 Toscanini Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203413141,
-    "wof:lastmodified":1449025231,
+    "wof:lastmodified":1466703369,
     "wof:name":"Image Signs & Graphics",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-115.170428,36.226528,-115.170428,36.226528],
+  "bbox": [
+    -115.170428,
+    36.226528,
+    -115.170428,
+    36.226528
+],
   "geometry": {"coordinates":[-115.170428,36.226528],"type":"Point"}
 }

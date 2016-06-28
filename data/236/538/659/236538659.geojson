@@ -2,13 +2,14 @@
   "id": 236538659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267207,36.18989,-115.267207,36.18989",
     "geom:latitude":36.18989,
     "geom:longitude":-115.267207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Mexican Poppy St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236538659,
-    "wof:lastmodified":1449001986,
+    "wof:lastmodified":1466705994,
     "wof:name":"Make Your Mark",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.267207,36.18989,-115.267207,36.18989],
+  "bbox": [
+    -115.267207,
+    36.18989,
+    -115.267207,
+    36.18989
+],
   "geometry": {"coordinates":[-115.267207,36.18989],"type":"Point"}
 }

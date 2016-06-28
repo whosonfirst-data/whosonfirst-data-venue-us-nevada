@@ -2,13 +2,14 @@
   "id": 219154825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199713,36.126395,-115.199713,36.126395",
     "geom:latitude":36.126395,
     "geom:longitude":-115.199713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219154825,
-    "wof:lastmodified":1449073972,
+    "wof:lastmodified":1466701493,
     "wof:name":"Fashion & Co",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-115.199713,36.126395,-115.199713,36.126395],
+  "bbox": [
+    -115.199713,
+    36.126395,
+    -115.199713,
+    36.126395
+],
   "geometry": {"coordinates":[-115.199713,36.126395],"type":"Point"}
 }

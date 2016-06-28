@@ -2,13 +2,14 @@
   "id": 219202575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248393,36.168389,-115.248393,36.168389",
     "geom:latitude":36.168389,
     "geom:longitude":-115.248393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Santa Fe St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219202575,
-    "wof:lastmodified":1449073456,
+    "wof:lastmodified":1466702082,
     "wof:name":"TDG Music Inc",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.248393,36.168389,-115.248393,36.168389],
-  "geometry": {"coordinates":[-115.248393,36.168389],"type":"Point"}
+  "bbox": [
+    -115.248393,
+    36.168389,
+    -115.248393,
+    36.168389
+],
+  "geometry": {"coordinates":[-115.24839299999999,36.168389],"type":"Point"}
 }

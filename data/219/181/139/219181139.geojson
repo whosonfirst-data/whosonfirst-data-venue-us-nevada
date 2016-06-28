@@ -2,13 +2,14 @@
   "id": 219181139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.930843,35.991845,-114.930843,35.991845",
     "geom:latitude":35.991845,
     "geom:longitude":-114.930843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Conestoga Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219181139,
-    "wof:lastmodified":1449072559,
+    "wof:lastmodified":1466701944,
     "wof:name":"Wti Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-114.930843,35.991845,-114.930843,35.991845],
+  "bbox": [
+    -114.930843,
+    35.991845,
+    -114.930843,
+    35.991845
+],
   "geometry": {"coordinates":[-114.930843,35.991845],"type":"Point"}
 }

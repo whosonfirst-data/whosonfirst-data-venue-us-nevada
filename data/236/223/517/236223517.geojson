@@ -2,13 +2,14 @@
   "id": 236223517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731142,39.173246,-119.731142,39.173246",
     "geom:latitude":39.173246,
     "geom:longitude":-119.731142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Siskiyou Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236223517,
-    "wof:lastmodified":1449001847,
+    "wof:lastmodified":1466704051,
     "wof:name":"Muskat Lawns By Ron & Lee",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.731142,39.173246,-119.731142,39.173246],
-  "geometry": {"coordinates":[-119.731142,39.173246],"type":"Point"}
+  "bbox": [
+    -119.731142,
+    39.173246,
+    -119.731142,
+    39.173246
+],
+  "geometry": {"coordinates":[-119.73114200000001,39.173246],"type":"Point"}
 }

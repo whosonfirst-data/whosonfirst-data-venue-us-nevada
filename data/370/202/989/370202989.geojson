@@ -2,13 +2,14 @@
   "id": 370202989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107125,36.220996,-115.107125,36.220996",
     "geom:latitude":36.220996,
     "geom:longitude":-115.107125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Community College Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370202989,
-    "wof:lastmodified":1449032031,
+    "wof:lastmodified":1466702588,
     "wof:name":"Recovery Cafe",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "american"
     ]
 },
-  "bbox": [-115.107125,36.220996,-115.107125,36.220996],
+  "bbox": [
+    -115.107125,
+    36.220996,
+    -115.107125,
+    36.220996
+],
   "geometry": {"coordinates":[-115.107125,36.220996],"type":"Point"}
 }

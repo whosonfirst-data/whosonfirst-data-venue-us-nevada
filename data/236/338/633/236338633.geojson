@@ -2,13 +2,14 @@
   "id": 236338633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23566,36.202978,-115.23566,36.202978",
     "geom:latitude":36.202978,
     "geom:longitude":-115.23566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 Smokey Pine Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236338633,
-    "wof:lastmodified":1449002653,
+    "wof:lastmodified":1466704834,
     "wof:name":"Diamond K-9 Training",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dog"
     ]
 },
-  "bbox": [-115.23566,36.202978,-115.23566,36.202978],
+  "bbox": [
+    -115.23566,
+    36.202978,
+    -115.23566,
+    36.202978
+],
   "geometry": {"coordinates":[-115.23566,36.202978],"type":"Point"}
 }

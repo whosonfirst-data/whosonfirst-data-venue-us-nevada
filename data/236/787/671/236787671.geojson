@@ -2,13 +2,14 @@
   "id": 236787671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112723,36.158826,-115.112723,36.158826",
     "geom:latitude":36.158826,
     "geom:longitude":-115.112723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236787671,
-    "wof:lastmodified":1449003082,
+    "wof:lastmodified":1466706638,
     "wof:name":"Johnson TV Repairs",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.112723,36.158826,-115.112723,36.158826],
+  "bbox": [
+    -115.112723,
+    36.158826,
+    -115.112723,
+    36.158826
+],
   "geometry": {"coordinates":[-115.112723,36.158826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370316307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785798,39.503489,-119.785798,39.503489",
     "geom:latitude":39.503489,
     "geom:longitude":-119.785798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Harvard Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370316307,
-    "wof:lastmodified":1449031370,
+    "wof:lastmodified":1466704829,
     "wof:name":"Mor Furniture For Less",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "mattress"
     ]
 },
-  "bbox": [-119.785798,39.503489,-119.785798,39.503489],
+  "bbox": [
+    -119.785798,
+    39.503489,
+    -119.785798,
+    39.503489
+],
   "geometry": {"coordinates":[-119.785798,39.503489],"type":"Point"}
 }

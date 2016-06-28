@@ -2,13 +2,14 @@
   "id": 337300653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10551,35.993507,-115.10551,35.993507",
     "geom:latitude":35.993507,
     "geom:longitude":-115.10551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 Port Lewis Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337300653,
-    "wof:lastmodified":1449027408,
+    "wof:lastmodified":1466701737,
     "wof:name":"Linfield Consulting LLC",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.10551,35.993507,-115.10551,35.993507],
+  "bbox": [
+    -115.10551,
+    35.993507,
+    -115.10551,
+    35.993507
+],
   "geometry": {"coordinates":[-115.10551,35.993507],"type":"Point"}
 }

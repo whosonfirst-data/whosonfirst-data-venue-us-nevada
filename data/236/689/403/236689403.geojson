@@ -2,13 +2,14 @@
   "id": 236689403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150128,36.118159,-115.150128,36.118159",
     "geom:latitude":36.118159,
     "geom:longitude":-115.150128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3986 Voxna St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236689403,
-    "wof:lastmodified":1449004582,
+    "wof:lastmodified":1466706455,
     "wof:name":"Nicolas Tengler",
     "wof:parent_id":85879711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-115.150128,36.118159,-115.150128,36.118159],
+  "bbox": [
+    -115.150128,
+    36.118159,
+    -115.150128,
+    36.118159
+],
   "geometry": {"coordinates":[-115.150128,36.118159],"type":"Point"}
 }

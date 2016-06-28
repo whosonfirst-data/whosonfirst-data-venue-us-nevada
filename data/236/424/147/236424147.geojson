@@ -2,13 +2,14 @@
   "id": 236424147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218865,36.270456,-115.218865,36.270456",
     "geom:latitude":36.270456,
     "geom:longitude":-115.218865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6108 Resort Ridge St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236424147,
-    "wof:lastmodified":1449005004,
+    "wof:lastmodified":1466705579,
     "wof:name":"Diamond Snacks",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.218865,36.270456,-115.218865,36.270456],
-  "geometry": {"coordinates":[-115.218865,36.270456],"type":"Point"}
+  "bbox": [
+    -115.218865,
+    36.270456,
+    -115.218865,
+    36.270456
+],
+  "geometry": {"coordinates":[-115.21886499999999,36.270456],"type":"Point"}
 }

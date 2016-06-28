@@ -2,13 +2,14 @@
   "id": 370163639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2591,36.218342,-115.2591,36.218342",
     "geom:latitude":36.218342,
     "geom:longitude":-115.2591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7450 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370163639,
-    "wof:lastmodified":1449032394,
+    "wof:lastmodified":1466701861,
     "wof:name":"Harold's Chicken & Fish",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-115.2591,36.218342,-115.2591,36.218342],
+  "bbox": [
+    -115.2591,
+    36.218342,
+    -115.2591,
+    36.218342
+],
   "geometry": {"coordinates":[-115.2591,36.218342],"type":"Point"}
 }

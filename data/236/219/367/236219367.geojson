@@ -2,13 +2,14 @@
   "id": 236219367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139386,36.092104,-115.139386,36.092104",
     "geom:latitude":36.092104,
     "geom:longitude":-115.139386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Count Wutzke Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236219367,
-    "wof:lastmodified":1449005086,
+    "wof:lastmodified":1466703963,
     "wof:name":"Miss Ems",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prepared"
     ]
 },
-  "bbox": [-115.139386,36.092104,-115.139386,36.092104],
+  "bbox": [
+    -115.139386,
+    36.092104,
+    -115.139386,
+    36.092104
+],
   "geometry": {"coordinates":[-115.139386,36.092104],"type":"Point"}
 }

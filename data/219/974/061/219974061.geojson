@@ -2,13 +2,14 @@
   "id": 219974061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775485,39.514287,-119.775485,39.514287",
     "geom:latitude":39.514287,
     "geom:longitude":-119.775485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Bible Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219974061,
-    "wof:lastmodified":1449073454,
+    "wof:lastmodified":1466706158,
     "wof:name":"Better Business Bureau",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.775485,39.514287,-119.775485,39.514287],
+  "bbox": [
+    -119.775485,
+    39.514287,
+    -119.775485,
+    39.514287
+],
   "geometry": {"coordinates":[-119.775485,39.514287],"type":"Point"}
 }

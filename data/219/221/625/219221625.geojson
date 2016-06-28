@@ -2,13 +2,14 @@
   "id": 219221625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.684743,39.207126,-119.684743,39.207126",
     "geom:latitude":39.207126,
     "geom:longitude":-119.684743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7795 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219221625,
-    "wof:lastmodified":1449071945,
+    "wof:lastmodified":1466702248,
     "wof:name":"Carson Auto Trck Wrecking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "general"
     ]
 },
-  "bbox": [-119.684743,39.207126,-119.684743,39.207126],
+  "bbox": [
+    -119.684743,
+    39.207126,
+    -119.684743,
+    39.207126
+],
   "geometry": {"coordinates":[-119.684743,39.207126],"type":"Point"}
 }

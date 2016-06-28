@@ -2,13 +2,14 @@
   "id": 236807971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08017,36.158173,-115.08017,36.158173",
     "geom:latitude":36.158173,
     "geom:longitude":-115.08017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 S Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236807971,
-    "wof:lastmodified":1449002313,
+    "wof:lastmodified":1466706765,
     "wof:name":"Checker Auto Parts",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-115.08017,36.158173,-115.08017,36.158173],
+  "bbox": [
+    -115.08017,
+    36.158173,
+    -115.08017,
+    36.158173
+],
   "geometry": {"coordinates":[-115.08017,36.158173],"type":"Point"}
 }

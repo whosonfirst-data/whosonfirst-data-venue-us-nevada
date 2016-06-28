@@ -2,13 +2,14 @@
   "id": 252713829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763629,40.83004,-115.763629,40.83004",
     "geom:latitude":40.83004,
     "geom:longitude":-115.763629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 3rd St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252713829,
-    "wof:lastmodified":1449006413,
+    "wof:lastmodified":1466701597,
     "wof:name":"Placer Dome Exploration",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-115.763629,40.83004,-115.763629,40.83004],
-  "geometry": {"coordinates":[-115.763629,40.83004],"type":"Point"}
+  "bbox": [
+    -115.763629,
+    40.83004,
+    -115.763629,
+    40.83004
+],
+  "geometry": {"coordinates":[-115.76362899999999,40.83004],"type":"Point"}
 }

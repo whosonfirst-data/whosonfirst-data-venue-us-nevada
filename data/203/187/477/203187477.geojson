@@ -2,13 +2,14 @@
   "id": 203187477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804624,39.409326,-119.804624,39.409326",
     "geom:latitude":39.409326,
     "geom:longitude":-119.804624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 Sun Chaser Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203187477,
-    "wof:lastmodified":1449025219,
+    "wof:lastmodified":1466701898,
     "wof:name":"Native American Pharmacy",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.804624,39.409326,-119.804624,39.409326],
+  "bbox": [
+    -119.804624,
+    39.409326,
+    -119.804624,
+    39.409326
+],
   "geometry": {"coordinates":[-119.804624,39.409326],"type":"Point"}
 }

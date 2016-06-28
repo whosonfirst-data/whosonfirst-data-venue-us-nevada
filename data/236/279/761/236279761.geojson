@@ -2,13 +2,14 @@
   "id": 236279761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.991154,36.159051,-115.991154,36.159051",
     "geom:latitude":36.159051,
     "geom:longitude":-115.991154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Pioche St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236279761,
-    "wof:lastmodified":1449003113,
+    "wof:lastmodified":1466704555,
     "wof:name":"Best Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.991154,36.159051,-115.991154,36.159051],
-  "geometry": {"coordinates":[-115.991154,36.159051],"type":"Point"}
+  "bbox": [
+    -115.991154,
+    36.159051,
+    -115.991154,
+    36.159051
+],
+  "geometry": {"coordinates":[-115.99115399999999,36.159051],"type":"Point"}
 }

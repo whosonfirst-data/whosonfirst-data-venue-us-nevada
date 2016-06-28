@@ -2,13 +2,14 @@
   "id": 353987313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.964885,36.071939,-114.964885,36.071939",
     "geom:latitude":36.071939,
     "geom:longitude":-114.964885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Via Dupre St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353987313,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1466701511,
     "wof:name":"Xcess Residual Inc",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advising"
     ]
 },
-  "bbox": [-114.964885,36.071939,-114.964885,36.071939],
+  "bbox": [
+    -114.964885,
+    36.071939,
+    -114.964885,
+    36.071939
+],
   "geometry": {"coordinates":[-114.964885,36.071939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219611069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.784231,39.465515,-118.784231,39.465515",
     "geom:latitude":39.465515,
     "geom:longitude":-118.784231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1077 Deena Way",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219611069,
-    "wof:lastmodified":1449073182,
+    "wof:lastmodified":1466703112,
     "wof:name":"Tavares Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-118.784231,39.465515,-118.784231,39.465515],
-  "geometry": {"coordinates":[-118.784231,39.465515],"type":"Point"}
+  "bbox": [
+    -118.784231,
+    39.465515,
+    -118.784231,
+    39.465515
+],
+  "geometry": {"coordinates":[-118.78423100000001,39.465515],"type":"Point"}
 }

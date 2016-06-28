@@ -2,13 +2,14 @@
   "id": 236781283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.8124,39.545564,-119.8124,39.545564",
     "geom:latitude":39.545564,
     "geom:longitude":-119.8124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Bisby St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236781283,
-    "wof:lastmodified":1449002140,
+    "wof:lastmodified":1466706613,
     "wof:name":"Mushroom Productions LLC",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-119.8124,39.545564,-119.8124,39.545564],
+  "bbox": [
+    -119.8124,
+    39.545564,
+    -119.8124,
+    39.545564
+],
   "geometry": {"coordinates":[-119.8124,39.545564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236733073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171956,36.15896,-115.171956,36.15896",
     "geom:latitude":36.15896,
     "geom:longitude":-115.171956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236733073,
-    "wof:lastmodified":1449002018,
+    "wof:lastmodified":1466706670,
     "wof:name":"A Place For Miracles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.171956,36.15896,-115.171956,36.15896],
-  "geometry": {"coordinates":[-115.171956,36.15896],"type":"Point"}
+  "bbox": [
+    -115.171956,
+    36.15896,
+    -115.171956,
+    36.15896
+],
+  "geometry": {"coordinates":[-115.17195599999999,36.15896],"type":"Point"}
 }

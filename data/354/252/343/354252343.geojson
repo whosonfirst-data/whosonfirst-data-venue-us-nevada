@@ -2,13 +2,14 @@
   "id": 354252343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177002,36.134602,-115.177002,36.134602",
     "geom:latitude":36.134602,
     "geom:longitude":-115.177002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Westwood Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354252343,
-    "wof:lastmodified":1449066161,
+    "wof:lastmodified":1466705483,
     "wof:name":"Roberto's Automotive",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.177002,36.134602,-115.177002,36.134602],
+  "bbox": [
+    -115.177002,
+    36.134602,
+    -115.177002,
+    36.134602
+],
   "geometry": {"coordinates":[-115.177002,36.134602],"type":"Point"}
 }

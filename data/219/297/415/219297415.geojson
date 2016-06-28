@@ -2,13 +2,14 @@
   "id": 219297415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.056974,36.149235,-115.056974,36.149235",
     "geom:latitude":36.149235,
     "geom:longitude":-115.056974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5391 Aston Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219297415,
-    "wof:lastmodified":1449072630,
+    "wof:lastmodified":1466703051,
     "wof:name":"Crevelt Computer Systems Inc",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "consultant"
     ]
 },
-  "bbox": [-115.056974,36.149235,-115.056974,36.149235],
+  "bbox": [
+    -115.056974,
+    36.149235,
+    -115.056974,
+    36.149235
+],
   "geometry": {"coordinates":[-115.056974,36.149235],"type":"Point"}
 }

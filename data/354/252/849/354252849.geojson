@@ -2,13 +2,14 @@
   "id": 354252849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175279,36.11024,-115.175279,36.11024",
     "geom:latitude":36.11024,
     "geom:longitude":-115.175279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Cosmopolitan of Las Vegas 3700 Las Vegas Blvd S.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354252849,
-    "wof:lastmodified":1449066158,
+    "wof:lastmodified":1466705384,
     "wof:name":"STK",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-115.175279,36.11024,-115.175279,36.11024],
+  "bbox": [
+    -115.175279,
+    36.11024,
+    -115.175279,
+    36.11024
+],
   "geometry": {"coordinates":[-115.175279,36.11024],"type":"Point"}
 }

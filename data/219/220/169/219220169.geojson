@@ -2,13 +2,14 @@
   "id": 219220169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128514,36.006624,-115.128514,36.006624",
     "geom:latitude":36.006624,
     "geom:longitude":-115.128514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10068 Hawthorne Grove St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219220169,
-    "wof:lastmodified":1449073792,
+    "wof:lastmodified":1466702238,
     "wof:name":"Iron Man Landscaping",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.128514,36.006624,-115.128514,36.006624],
+  "bbox": [
+    -115.128514,
+    36.006624,
+    -115.128514,
+    36.006624
+],
   "geometry": {"coordinates":[-115.128514,36.006624],"type":"Point"}
 }

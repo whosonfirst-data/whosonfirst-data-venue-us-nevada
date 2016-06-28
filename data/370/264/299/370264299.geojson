@@ -2,13 +2,14 @@
   "id": 370264299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.289794,36.113693,-115.289794,36.113693",
     "geom:latitude":36.113693,
     "geom:longitude":-115.289794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 W Flamingo Rd Ste 2050",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370264299,
-    "wof:lastmodified":1449031275,
+    "wof:lastmodified":1466704050,
     "wof:name":"Local Marketing US",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-115.289794,36.113693,-115.289794,36.113693],
+  "bbox": [
+    -115.289794,
+    36.113693,
+    -115.289794,
+    36.113693
+],
   "geometry": {"coordinates":[-115.289794,36.113693],"type":"Point"}
 }

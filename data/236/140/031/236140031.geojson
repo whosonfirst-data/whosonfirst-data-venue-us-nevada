@@ -2,13 +2,14 @@
   "id": 236140031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.474201,40.180793,-118.474201,40.180793",
     "geom:latitude":40.180793,
     "geom:longitude":-118.474201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236140031,
-    "wof:lastmodified":1449002032,
+    "wof:lastmodified":1466702337,
     "wof:name":"Whiskey Creek Saloon",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-118.474201,40.180793,-118.474201,40.180793],
-  "geometry": {"coordinates":[-118.474201,40.180793],"type":"Point"}
+  "bbox": [
+    -118.474201,
+    40.180793,
+    -118.474201,
+    40.180793
+],
+  "geometry": {"coordinates":[-118.47420099999999,40.180793],"type":"Point"}
 }

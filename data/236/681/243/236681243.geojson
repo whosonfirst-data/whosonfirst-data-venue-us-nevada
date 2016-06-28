@@ -2,13 +2,14 @@
   "id": 236681243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.749509,40.845485,-115.749509,40.845485",
     "geom:latitude":40.845485,
     "geom:longitude":-115.749509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236681243,
-    "wof:lastmodified":1449003711,
+    "wof:lastmodified":1466706439,
     "wof:name":"Elko Broadcasting",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-115.749509,40.845485,-115.749509,40.845485],
+  "bbox": [
+    -115.749509,
+    40.845485,
+    -115.749509,
+    40.845485
+],
   "geometry": {"coordinates":[-115.749509,40.845485],"type":"Point"}
 }

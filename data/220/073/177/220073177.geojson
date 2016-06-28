@@ -2,13 +2,14 @@
   "id": 220073177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.71315,39.189878,-119.71315,39.189878",
     "geom:latitude":39.189878,
     "geom:longitude":-119.71315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Sunrise Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220073177,
-    "wof:lastmodified":1449074142,
+    "wof:lastmodified":1466702222,
     "wof:name":"Sunrise Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.71315,39.189878,-119.71315,39.189878],
+  "bbox": [
+    -119.71315,
+    39.189878,
+    -119.71315,
+    39.189878
+],
   "geometry": {"coordinates":[-119.71315,39.189878],"type":"Point"}
 }

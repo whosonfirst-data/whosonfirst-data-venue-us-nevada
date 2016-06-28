@@ -2,13 +2,14 @@
   "id": 236166881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.732634,39.170125,-119.732634,39.170125",
     "geom:latitude":39.170125,
     "geom:longitude":-119.732634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 Florentine Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236166881,
-    "wof:lastmodified":1449003510,
+    "wof:lastmodified":1466702916,
     "wof:name":"Catalinas House Cleaning",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.732634,39.170125,-119.732634,39.170125],
+  "bbox": [
+    -119.732634,
+    39.170125,
+    -119.732634,
+    39.170125
+],
   "geometry": {"coordinates":[-119.732634,39.170125],"type":"Point"}
 }

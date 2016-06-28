@@ -2,13 +2,14 @@
   "id": 236939731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242335,36.201294,-115.242335,36.201294",
     "geom:latitude":36.201294,
     "geom:longitude":-115.242335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236939731,
-    "wof:lastmodified":1449002448,
+    "wof:lastmodified":1466706866,
     "wof:name":"Bedtime Mattress Co",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-115.242335,36.201294,-115.242335,36.201294],
+  "bbox": [
+    -115.242335,
+    36.201294,
+    -115.242335,
+    36.201294
+],
   "geometry": {"coordinates":[-115.242335,36.201294],"type":"Point"}
 }

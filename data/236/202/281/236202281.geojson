@@ -2,13 +2,14 @@
   "id": 236202281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726568,38.904077,-119.726568,38.904077",
     "geom:latitude":38.904077,
     "geom:longitude":-119.726568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 S Riverview Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236202281,
-    "wof:lastmodified":1449004734,
+    "wof:lastmodified":1466703614,
     "wof:name":"Prinz Plumbing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.726568,38.904077,-119.726568,38.904077],
+  "bbox": [
+    -119.726568,
+    38.904077,
+    -119.726568,
+    38.904077
+],
   "geometry": {"coordinates":[-119.726568,38.904077],"type":"Point"}
 }

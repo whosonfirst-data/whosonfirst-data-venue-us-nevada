@@ -2,13 +2,14 @@
   "id": 354084951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241279,36.145475,-115.241279,36.145475",
     "geom:latitude":36.145475,
     "geom:longitude":-115.241279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 S Rainbow Bldg # 8 Suite 8",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354084951,
-    "wof:lastmodified":1449066120,
+    "wof:lastmodified":1466703728,
     "wof:name":"Kessler & Sons Music",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "musical"
     ]
 },
-  "bbox": [-115.241279,36.145475,-115.241279,36.145475],
-  "geometry": {"coordinates":[-115.241279,36.145475],"type":"Point"}
+  "bbox": [
+    -115.241279,
+    36.145475,
+    -115.241279,
+    36.145475
+],
+  "geometry": {"coordinates":[-115.24127900000001,36.145475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354353365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118887,36.097356,-115.118887,36.097356",
     "geom:latitude":36.097356,
     "geom:longitude":-115.118887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5025 S Eastern Avenue Suite 9",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":354353365,
-    "wof:lastmodified":1449066388,
+    "wof:lastmodified":1466706126,
     "wof:name":"Bodyworks Massage Therapy",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.118887,36.097356,-115.118887,36.097356],
+  "bbox": [
+    -115.118887,
+    36.097356,
+    -115.118887,
+    36.097356
+],
   "geometry": {"coordinates":[-115.118887,36.097356],"type":"Point"}
 }

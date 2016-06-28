@@ -2,13 +2,14 @@
   "id": 236904603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818032,39.482998,-119.818032,39.482998",
     "geom:latitude":39.482998,
     "geom:longitude":-119.818032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Manzanita Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236904603,
-    "wof:lastmodified":1449005339,
+    "wof:lastmodified":1466706905,
     "wof:name":"Family Leasing Company",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.818032,39.482998,-119.818032,39.482998],
+  "bbox": [
+    -119.818032,
+    39.482998,
+    -119.818032,
+    39.482998
+],
   "geometry": {"coordinates":[-119.818032,39.482998],"type":"Point"}
 }

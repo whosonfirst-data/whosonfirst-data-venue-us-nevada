@@ -2,13 +2,14 @@
   "id": 203332607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119029,35.981511,-115.119029,35.981511",
     "geom:latitude":35.981511,
     "geom:longitude":-115.119029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Autumn Wind Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203332607,
-    "wof:lastmodified":1449026004,
+    "wof:lastmodified":1466703049,
     "wof:name":"Custom Blinds By BDIY",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-115.119029,35.981511,-115.119029,35.981511],
+  "bbox": [
+    -115.119029,
+    35.981511,
+    -115.119029,
+    35.981511
+],
   "geometry": {"coordinates":[-115.119029,35.981511],"type":"Point"}
 }

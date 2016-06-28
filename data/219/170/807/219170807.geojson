@@ -2,13 +2,14 @@
   "id": 219170807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762576,39.489337,-119.762576,39.489337",
     "geom:latitude":39.489337,
     "geom:longitude":-119.762576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4674 Aircenter Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219170807,
-    "wof:lastmodified":1449070722,
+    "wof:lastmodified":1466701721,
     "wof:name":"Cal Pak Delivery",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.762576,39.489337,-119.762576,39.489337],
+  "bbox": [
+    -119.762576,
+    39.489337,
+    -119.762576,
+    39.489337
+],
   "geometry": {"coordinates":[-119.762576,39.489337],"type":"Point"}
 }

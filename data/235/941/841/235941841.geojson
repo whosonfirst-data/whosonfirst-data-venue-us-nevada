@@ -2,13 +2,14 @@
   "id": 235941841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074263,36.25378,-115.074263,36.25378",
     "geom:latitude":36.25378,
     "geom:longitude":-115.074263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4950 Copper Sage St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235941841,
-    "wof:lastmodified":1449008449,
+    "wof:lastmodified":1466703489,
     "wof:name":"King Auto Parts",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-115.074263,36.25378,-115.074263,36.25378],
+  "bbox": [
+    -115.074263,
+    36.25378,
+    -115.074263,
+    36.25378
+],
   "geometry": {"coordinates":[-115.074263,36.25378],"type":"Point"}
 }

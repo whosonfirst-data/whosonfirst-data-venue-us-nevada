@@ -2,13 +2,14 @@
   "id": 370345299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768997,39.133999,-119.768997,39.133999",
     "geom:latitude":39.133999,
     "geom:longitude":-119.768997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370345299,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1466705017,
     "wof:name":"West Coast Beauty Supply",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-119.768997,39.133999,-119.768997,39.133999],
+  "bbox": [
+    -119.768997,
+    39.133999,
+    -119.768997,
+    39.133999
+],
   "geometry": {"coordinates":[-119.768997,39.133999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219804945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243046,36.125916,-115.243046,36.125916",
     "geom:latitude":36.125916,
     "geom:longitude":-115.243046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219804945,
-    "wof:lastmodified":1449072849,
+    "wof:lastmodified":1466705125,
     "wof:name":"Design Tec",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.243046,36.125916,-115.243046,36.125916],
-  "geometry": {"coordinates":[-115.243046,36.125916],"type":"Point"}
+  "bbox": [
+    -115.243046,
+    36.125916,
+    -115.243046,
+    36.125916
+],
+  "geometry": {"coordinates":[-115.24304600000001,36.125916],"type":"Point"}
 }

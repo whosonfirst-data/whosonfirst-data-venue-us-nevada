@@ -2,13 +2,14 @@
   "id": 370351033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769246,39.162119,-119.769246,39.162119",
     "geom:latitude":39.162119,
     "geom:longitude":-119.769246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W 4th St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370351033,
-    "wof:lastmodified":1449031958,
+    "wof:lastmodified":1466705046,
     "wof:name":"Air & Heat Systems, Inc.",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.769246,39.162119,-119.769246,39.162119],
+  "bbox": [
+    -119.769246,
+    39.162119,
+    -119.769246,
+    39.162119
+],
   "geometry": {"coordinates":[-119.769246,39.162119],"type":"Point"}
 }

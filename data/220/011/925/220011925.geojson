@@ -2,13 +2,14 @@
   "id": 220011925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064811,36.100314,-115.064811,36.100314",
     "geom:latitude":36.100314,
     "geom:longitude":-115.064811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4940 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220011925,
-    "wof:lastmodified":1449074701,
+    "wof:lastmodified":1466701552,
     "wof:name":"Coin Laundromat & Cleaners",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-115.064811,36.100314,-115.064811,36.100314],
-  "geometry": {"coordinates":[-115.064811,36.100314],"type":"Point"}
+  "bbox": [
+    -115.064811,
+    36.100314,
+    -115.064811,
+    36.100314
+],
+  "geometry": {"coordinates":[-115.06481100000001,36.100314],"type":"Point"}
 }

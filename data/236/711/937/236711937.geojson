@@ -2,13 +2,14 @@
   "id": 236711937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077758,36.199796,-115.077758,36.199796",
     "geom:latitude":36.199796,
     "geom:longitude":-115.077758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2236 Pariva St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236711937,
-    "wof:lastmodified":1449004519,
+    "wof:lastmodified":1466706516,
     "wof:name":"Sin City Fire Protection",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-115.077758,36.199796,-115.077758,36.199796],
+  "bbox": [
+    -115.077758,
+    36.199796,
+    -115.077758,
+    36.199796
+],
   "geometry": {"coordinates":[-115.077758,36.199796],"type":"Point"}
 }

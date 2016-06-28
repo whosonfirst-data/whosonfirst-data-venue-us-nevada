@@ -2,13 +2,14 @@
   "id": 203385261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256105,36.18704,-115.256105,36.18704",
     "geom:latitude":36.18704,
     "geom:longitude":-115.256105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Pacific Terrace Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203385261,
-    "wof:lastmodified":1449026070,
+    "wof:lastmodified":1466703273,
     "wof:name":"Craigs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.256105,36.18704,-115.256105,36.18704],
-  "geometry": {"coordinates":[-115.256105,36.18704],"type":"Point"}
+  "bbox": [
+    -115.256105,
+    36.18704,
+    -115.256105,
+    36.18704
+],
+  "geometry": {"coordinates":[-115.25610500000001,36.18704],"type":"Point"}
 }

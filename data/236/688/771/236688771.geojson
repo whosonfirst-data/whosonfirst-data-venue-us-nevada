@@ -2,13 +2,14 @@
   "id": 236688771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200084,36.197004,-115.200084,36.197004",
     "geom:latitude":36.197004,
     "geom:longitude":-115.200084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 Beth Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236688771,
-    "wof:lastmodified":1449002771,
+    "wof:lastmodified":1466706462,
     "wof:name":"Total Home Repair",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.200084,36.197004,-115.200084,36.197004],
+  "bbox": [
+    -115.200084,
+    36.197004,
+    -115.200084,
+    36.197004
+],
   "geometry": {"coordinates":[-115.200084,36.197004],"type":"Point"}
 }

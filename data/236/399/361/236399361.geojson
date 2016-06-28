@@ -2,13 +2,14 @@
   "id": 236399361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081168,36.205141,-115.081168,36.205141",
     "geom:latitude":36.205141,
     "geom:longitude":-115.081168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4271 Riverstone Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236399361,
-    "wof:lastmodified":1449002113,
+    "wof:lastmodified":1466705346,
     "wof:name":"Las Vegas Weekly News",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-115.081168,36.205141,-115.081168,36.205141],
-  "geometry": {"coordinates":[-115.081168,36.205141],"type":"Point"}
+  "bbox": [
+    -115.081168,
+    36.205141,
+    -115.081168,
+    36.205141
+],
+  "geometry": {"coordinates":[-115.08116800000001,36.205141],"type":"Point"}
 }

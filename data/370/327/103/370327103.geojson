@@ -2,13 +2,14 @@
   "id": 370327103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792666,39.48165,-119.792666,39.48165",
     "geom:latitude":39.48165,
     "geom:longitude":-119.792666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370327103,
-    "wof:lastmodified":1449029342,
+    "wof:lastmodified":1466704679,
     "wof:name":"Applebee's",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "family"
     ]
 },
-  "bbox": [-119.792666,39.48165,-119.792666,39.48165],
+  "bbox": [
+    -119.792666,
+    39.48165,
+    -119.792666,
+    39.48165
+],
   "geometry": {"coordinates":[-119.792666,39.48165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236663737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.972653,36.14816,-115.972653,36.14816",
     "geom:latitude":36.14816,
     "geom:longitude":-115.972653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 Jackie St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236663737,
-    "wof:lastmodified":1449004194,
+    "wof:lastmodified":1466706418,
     "wof:name":"Pahrump Solar Screen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "window"
     ]
 },
-  "bbox": [-115.972653,36.14816,-115.972653,36.14816],
-  "geometry": {"coordinates":[-115.972653,36.14816],"type":"Point"}
+  "bbox": [
+    -115.972653,
+    36.14816,
+    -115.972653,
+    36.14816
+],
+  "geometry": {"coordinates":[-115.97265299999999,36.14816],"type":"Point"}
 }

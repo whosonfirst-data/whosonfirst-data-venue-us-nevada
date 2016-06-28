@@ -2,13 +2,14 @@
   "id": 236055187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.960499,36.015868,-114.960499,36.015868",
     "geom:latitude":36.015868,
     "geom:longitude":-114.960499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Heritage Vista Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236055187,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466703973,
     "wof:name":"R J Home Team",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-114.960499,36.015868,-114.960499,36.015868],
+  "bbox": [
+    -114.960499,
+    36.015868,
+    -114.960499,
+    36.015868
+],
   "geometry": {"coordinates":[-114.960499,36.015868],"type":"Point"}
 }

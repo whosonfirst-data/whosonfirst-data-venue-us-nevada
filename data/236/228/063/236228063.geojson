@@ -2,13 +2,14 @@
   "id": 236228063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15164,36.179148,-115.15164,36.179148",
     "geom:latitude":36.179148,
     "geom:longitude":-115.15164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 W Mc Williams Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236228063,
-    "wof:lastmodified":1449002517,
+    "wof:lastmodified":1466704138,
     "wof:name":"Grace Temple Church God-Christ",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.15164,36.179148,-115.15164,36.179148],
+  "bbox": [
+    -115.15164,
+    36.179148,
+    -115.15164,
+    36.179148
+],
   "geometry": {"coordinates":[-115.15164,36.179148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236558335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303864,36.197998,-115.303864,36.197998",
     "geom:latitude":36.197998,
     "geom:longitude":-115.303864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9512 Grenville Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236558335,
-    "wof:lastmodified":1449002361,
+    "wof:lastmodified":1466706022,
     "wof:name":"L Marias Dara",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-115.303864,36.197998,-115.303864,36.197998],
+  "bbox": [
+    -115.303864,
+    36.197998,
+    -115.303864,
+    36.197998
+],
   "geometry": {"coordinates":[-115.303864,36.197998],"type":"Point"}
 }

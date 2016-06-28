@@ -2,13 +2,14 @@
   "id": 236320993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121604,36.158783,-115.121604,36.158783",
     "geom:latitude":36.158783,
     "geom:longitude":-115.121604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236320993,
-    "wof:lastmodified":1449002306,
+    "wof:lastmodified":1466704737,
     "wof:name":"Servicios Latinos",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.121604,36.158783,-115.121604,36.158783],
+  "bbox": [
+    -115.121604,
+    36.158783,
+    -115.121604,
+    36.158783
+],
   "geometry": {"coordinates":[-115.121604,36.158783],"type":"Point"}
 }

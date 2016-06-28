@@ -2,13 +2,14 @@
   "id": 354360039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176252,36.073187,-115.176252,36.073187",
     "geom:latitude":36.073187,
     "geom:longitude":-115.176252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6370 Windy St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354360039,
-    "wof:lastmodified":1449067247,
+    "wof:lastmodified":1466705913,
     "wof:name":"Mile High Gentlemen's Club",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-115.176252,36.073187,-115.176252,36.073187],
-  "geometry": {"coordinates":[-115.176252,36.073187],"type":"Point"}
+  "bbox": [
+    -115.176252,
+    36.073187,
+    -115.176252,
+    36.073187
+],
+  "geometry": {"coordinates":[-115.17625200000001,36.073187],"type":"Point"}
 }

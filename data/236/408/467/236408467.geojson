@@ -2,13 +2,14 @@
   "id": 236408467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.215483,36.133225,-115.215483,36.133225",
     "geom:latitude":36.133225,
     "geom:longitude":-115.215483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5437 Palmyra Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236408467,
-    "wof:lastmodified":1449001983,
+    "wof:lastmodified":1466705402,
     "wof:name":"America's Touch Of Class",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-115.215483,36.133225,-115.215483,36.133225],
-  "geometry": {"coordinates":[-115.215483,36.133225],"type":"Point"}
+  "bbox": [
+    -115.215483,
+    36.133225,
+    -115.215483,
+    36.133225
+],
+  "geometry": {"coordinates":[-115.21548300000001,36.133225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354229807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172768,36.126645,-115.172768,36.126645",
     "geom:latitude":36.126645,
     "geom:longitude":-115.172768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Fashion Show Mall 3200 Las Vegas Blvd South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354229807,
-    "wof:lastmodified":1449067289,
+    "wof:lastmodified":1466705215,
     "wof:name":"Johnny Rockets",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "american"
     ]
 },
-  "bbox": [-115.172768,36.126645,-115.172768,36.126645],
+  "bbox": [
+    -115.172768,
+    36.126645,
+    -115.172768,
+    36.126645
+],
   "geometry": {"coordinates":[-115.172768,36.126645],"type":"Point"}
 }

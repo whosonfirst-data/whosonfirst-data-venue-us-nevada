@@ -2,13 +2,14 @@
   "id": 236915341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201932,36.170126,-115.201932,36.170126",
     "geom:latitude":36.170126,
     "geom:longitude":-115.201932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Meadows Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236915341,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1466706830,
     "wof:name":"Nevada Dental Refferral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.201932,36.170126,-115.201932,36.170126],
+  "bbox": [
+    -115.201932,
+    36.170126,
+    -115.201932,
+    36.170126
+],
   "geometry": {"coordinates":[-115.201932,36.170126],"type":"Point"}
 }

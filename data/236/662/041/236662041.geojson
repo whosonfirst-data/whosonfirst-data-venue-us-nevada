@@ -2,13 +2,14 @@
   "id": 236662041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722864,39.382677,-119.722864,39.382677",
     "geom:latitude":39.382677,
     "geom:longitude":-119.722864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15295 Toll Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236662041,
-    "wof:lastmodified":1449003962,
+    "wof:lastmodified":1466706583,
     "wof:name":"Blue River Jewelers",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-119.722864,39.382677,-119.722864,39.382677],
+  "bbox": [
+    -119.722864,
+    39.382677,
+    -119.722864,
+    39.382677
+],
   "geometry": {"coordinates":[-119.722864,39.382677],"type":"Point"}
 }

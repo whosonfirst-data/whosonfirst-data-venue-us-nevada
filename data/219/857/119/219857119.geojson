@@ -2,13 +2,14 @@
   "id": 219857119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326873,36.166855,-115.326873,36.166855",
     "geom:latitude":36.166855,
     "geom:longitude":-115.326873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10612 Allthorn Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219857119,
-    "wof:lastmodified":1449072674,
+    "wof:lastmodified":1466705403,
     "wof:name":"Tricomnet Computer Services",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.326873,36.166855,-115.326873,36.166855],
-  "geometry": {"coordinates":[-115.326873,36.166855],"type":"Point"}
+  "bbox": [
+    -115.326873,
+    36.166855,
+    -115.326873,
+    36.166855
+],
+  "geometry": {"coordinates":[-115.32687300000001,36.166855],"type":"Point"}
 }

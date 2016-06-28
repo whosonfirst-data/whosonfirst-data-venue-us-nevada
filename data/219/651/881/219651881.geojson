@@ -2,13 +2,14 @@
   "id": 219651881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.158762,38.986938,-119.158762,38.986938",
     "geom:latitude":38.986938,
     "geom:longitude":-119.158762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 S Oregon St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219651881,
-    "wof:lastmodified":1449071094,
+    "wof:lastmodified":1466703851,
     "wof:name":"R & S Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-119.158762,38.986938,-119.158762,38.986938],
+  "bbox": [
+    -119.158762,
+    38.986938,
+    -119.158762,
+    38.986938
+],
   "geometry": {"coordinates":[-119.158762,38.986938],"type":"Point"}
 }

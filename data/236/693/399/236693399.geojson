@@ -2,13 +2,14 @@
   "id": 236693399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125115,36.025963,-115.125115,36.025963",
     "geom:latitude":36.025963,
     "geom:longitude":-115.125115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9016 Gabro Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236693399,
-    "wof:lastmodified":1449001817,
+    "wof:lastmodified":1466706456,
     "wof:name":"Fidelity Importers & Exporters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-115.125115,36.025963,-115.125115,36.025963],
-  "geometry": {"coordinates":[-115.125115,36.025963],"type":"Point"}
+  "bbox": [
+    -115.125115,
+    36.025963,
+    -115.125115,
+    36.025963
+],
+  "geometry": {"coordinates":[-115.12511499999999,36.025963],"type":"Point"}
 }

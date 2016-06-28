@@ -2,13 +2,14 @@
   "id": 236724955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065203,36.127957,-115.065203,36.127957",
     "geom:latitude":36.127957,
     "geom:longitude":-115.065203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 S Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236724955,
-    "wof:lastmodified":1449005164,
+    "wof:lastmodified":1466706535,
     "wof:name":"ALIFTUP.ORG",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-115.065203,36.127957,-115.065203,36.127957],
+  "bbox": [
+    -115.065203,
+    36.127957,
+    -115.065203,
+    36.127957
+],
   "geometry": {"coordinates":[-115.065203,36.127957],"type":"Point"}
 }

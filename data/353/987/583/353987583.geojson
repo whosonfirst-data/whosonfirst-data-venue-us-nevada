@@ -2,13 +2,14 @@
   "id": 353987583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.026154,36.069398,-115.026154,36.069398",
     "geom:latitude":36.069398,
     "geom:longitude":-115.026154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"988 Empire Mesa Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353987583,
-    "wof:lastmodified":1449019684,
+    "wof:lastmodified":1466701520,
     "wof:name":"Cte Nevada",
     "wof:parent_id":85878125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.026154,36.069398,-115.026154,36.069398],
-  "geometry": {"coordinates":[-115.026154,36.069398],"type":"Point"}
+  "bbox": [
+    -115.026154,
+    36.069398,
+    -115.026154,
+    36.069398
+],
+  "geometry": {"coordinates":[-115.02615400000001,36.069398],"type":"Point"}
 }

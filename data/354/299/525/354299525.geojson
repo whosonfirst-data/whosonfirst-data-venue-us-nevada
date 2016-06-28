@@ -2,13 +2,14 @@
   "id": 354299525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.292655,36.143683,-115.292655,36.143683",
     "geom:latitude":36.143683,
     "geom:longitude":-115.292655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8991 West Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354299525,
-    "wof:lastmodified":1449066346,
+    "wof:lastmodified":1466705704,
     "wof:name":"Mina's Ballroom & Restaurant",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "filipino"
     ]
 },
-  "bbox": [-115.292655,36.143683,-115.292655,36.143683],
+  "bbox": [
+    -115.292655,
+    36.143683,
+    -115.292655,
+    36.143683
+],
   "geometry": {"coordinates":[-115.292655,36.143683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220179045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838962,39.593144,-119.838962,39.593144",
     "geom:latitude":39.593144,
     "geom:longitude":-119.838962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Carrington Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220179045,
-    "wof:lastmodified":1449074791,
+    "wof:lastmodified":1466702941,
     "wof:name":"Netkarts Racing",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.838962,39.593144,-119.838962,39.593144],
+  "bbox": [
+    -119.838962,
+    39.593144,
+    -119.838962,
+    39.593144
+],
   "geometry": {"coordinates":[-119.838962,39.593144],"type":"Point"}
 }

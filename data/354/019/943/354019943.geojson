@@ -2,13 +2,14 @@
   "id": 354019943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.969885,36.029752,-114.969885,36.029752",
     "geom:latitude":36.029752,
     "geom:longitude":-114.969885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":354019943,
-    "wof:lastmodified":1449066926,
+    "wof:lastmodified":1466702017,
     "wof:name":"Stetson's Saloon & Casino",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.969885,36.029752,-114.969885,36.029752],
+  "bbox": [
+    -114.969885,
+    36.029752,
+    -114.969885,
+    36.029752
+],
   "geometry": {"coordinates":[-114.969885,36.029752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220118357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765203,39.16837,-119.765203,39.16837",
     "geom:latitude":39.16837,
     "geom:longitude":-119.765203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 E Washington St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220118357,
-    "wof:lastmodified":1449074696,
+    "wof:lastmodified":1466702517,
     "wof:name":"US Justice Dept",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-119.765203,39.16837,-119.765203,39.16837],
+  "bbox": [
+    -119.765203,
+    39.16837,
+    -119.765203,
+    39.16837
+],
   "geometry": {"coordinates":[-119.765203,39.16837],"type":"Point"}
 }

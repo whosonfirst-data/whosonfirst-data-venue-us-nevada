@@ -2,13 +2,14 @@
   "id": 220140483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769935,39.543765,-119.769935,39.543765",
     "geom:latitude":39.543765,
     "geom:longitude":-119.769935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Brunetti Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220140483,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466702706,
     "wof:name":"Dust Dee Enterprises",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-119.769935,39.543765,-119.769935,39.543765],
+  "bbox": [
+    -119.769935,
+    39.543765,
+    -119.769935,
+    39.543765
+],
   "geometry": {"coordinates":[-119.769935,39.543765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203245033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300448,36.122797,-115.300448,36.122797",
     "geom:latitude":36.122797,
     "geom:longitude":-115.300448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9561 Sunshade Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203245033,
-    "wof:lastmodified":1449026810,
+    "wof:lastmodified":1466702457,
     "wof:name":"Dolls By Santarpia",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-115.300448,36.122797,-115.300448,36.122797],
+  "bbox": [
+    -115.300448,
+    36.122797,
+    -115.300448,
+    36.122797
+],
   "geometry": {"coordinates":[-115.300448,36.122797],"type":"Point"}
 }

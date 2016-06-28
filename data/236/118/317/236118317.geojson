@@ -2,13 +2,14 @@
   "id": 236118317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229192,36.259996,-115.229192,36.259996",
     "geom:latitude":36.259996,
     "geom:longitude":-115.229192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5541 Azure Ridge Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236118317,
-    "wof:lastmodified":1449004491,
+    "wof:lastmodified":1466701900,
     "wof:name":"Med Script of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "pro"
     ]
 },
-  "bbox": [-115.229192,36.259996,-115.229192,36.259996],
+  "bbox": [
+    -115.229192,
+    36.259996,
+    -115.229192,
+    36.259996
+],
   "geometry": {"coordinates":[-115.229192,36.259996],"type":"Point"}
 }

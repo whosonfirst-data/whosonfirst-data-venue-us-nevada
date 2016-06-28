@@ -2,13 +2,14 @@
   "id": 219770381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.036299,36.144519,-115.036299,36.144519",
     "geom:latitude":36.144519,
     "geom:longitude":-115.036299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6223 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219770381,
-    "wof:lastmodified":1449073992,
+    "wof:lastmodified":1466705027,
     "wof:name":"AUTOSUNBLINDS.COM",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-115.036299,36.144519,-115.036299,36.144519],
+  "bbox": [
+    -115.036299,
+    36.144519,
+    -115.036299,
+    36.144519
+],
   "geometry": {"coordinates":[-115.036299,36.144519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236370525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74089,39.437976,-119.74089,39.437976",
     "geom:latitude":39.437976,
     "geom:longitude":-119.74089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Brentford Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236370525,
-    "wof:lastmodified":1449003462,
+    "wof:lastmodified":1466705181,
     "wof:name":"Four Seasons Flowers & Gifts",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.74089,39.437976,-119.74089,39.437976],
-  "geometry": {"coordinates":[-119.74089,39.437976],"type":"Point"}
+  "bbox": [
+    -119.74089,
+    39.437976,
+    -119.74089,
+    39.437976
+],
+  "geometry": {"coordinates":[-119.74088999999999,39.437976],"type":"Point"}
 }

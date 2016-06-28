@@ -2,13 +2,14 @@
   "id": 236372123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.133485,36.160275,-115.133485,36.160275",
     "geom:latitude":36.160275,
     "geom:longitude":-115.133485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 S 14th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236372123,
-    "wof:lastmodified":1449003693,
+    "wof:lastmodified":1466705175,
     "wof:name":"Nevada Courier Svc",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-115.133485,36.160275,-115.133485,36.160275],
-  "geometry": {"coordinates":[-115.133485,36.160275],"type":"Point"}
+  "bbox": [
+    -115.133485,
+    36.160275,
+    -115.133485,
+    36.160275
+],
+  "geometry": {"coordinates":[-115.13348499999999,36.160275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219619061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085312,36.081027,-115.085312,36.081027",
     "geom:latitude":36.081027,
     "geom:longitude":-115.085312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4095 Dustin Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219619061,
-    "wof:lastmodified":1449071029,
+    "wof:lastmodified":1466703262,
     "wof:name":"Mace/Murphy Design Group LTD",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.085312,36.081027,-115.085312,36.081027],
+  "bbox": [
+    -115.085312,
+    36.081027,
+    -115.085312,
+    36.081027
+],
   "geometry": {"coordinates":[-115.085312,36.081027],"type":"Point"}
 }

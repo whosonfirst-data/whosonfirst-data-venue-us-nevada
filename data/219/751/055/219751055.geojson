@@ -2,13 +2,14 @@
   "id": 219751055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162038,36.231448,-115.162038,36.231448",
     "geom:latitude":36.231448,
     "geom:longitude":-115.162038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 N Martin L King Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219751055,
-    "wof:lastmodified":1449070578,
+    "wof:lastmodified":1466704628,
     "wof:name":"Bishop's Wife Boutique",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-115.162038,36.231448,-115.162038,36.231448],
+  "bbox": [
+    -115.162038,
+    36.231448,
+    -115.162038,
+    36.231448
+],
   "geometry": {"coordinates":[-115.162038,36.231448],"type":"Point"}
 }

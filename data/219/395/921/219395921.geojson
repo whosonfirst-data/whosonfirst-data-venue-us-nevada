@@ -2,13 +2,14 @@
   "id": 219395921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080731,36.053566,-115.080731,36.053566",
     "geom:latitude":36.053566,
     "geom:longitude":-115.080731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Greely Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219395921,
-    "wof:lastmodified":1449073397,
+    "wof:lastmodified":1466703615,
     "wof:name":"D19 Productions",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-115.080731,36.053566,-115.080731,36.053566],
+  "bbox": [
+    -115.080731,
+    36.053566,
+    -115.080731,
+    36.053566
+],
   "geometry": {"coordinates":[-115.080731,36.053566],"type":"Point"}
 }

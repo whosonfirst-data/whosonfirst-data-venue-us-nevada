@@ -2,13 +2,14 @@
   "id": 236600305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.846442,35.968458,-114.846442,35.968458",
     "geom:latitude":35.968458,
     "geom:longitude":-114.846442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Walnut Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236600305,
-    "wof:lastmodified":1449001899,
+    "wof:lastmodified":1466706254,
     "wof:name":"Tangles Studio",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.846442,35.968458,-114.846442,35.968458],
+  "bbox": [
+    -114.846442,
+    35.968458,
+    -114.846442,
+    35.968458
+],
   "geometry": {"coordinates":[-114.846442,35.968458],"type":"Point"}
 }

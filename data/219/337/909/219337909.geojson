@@ -2,13 +2,14 @@
   "id": 219337909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77675,38.959166,-119.77675,38.959166",
     "geom:latitude":38.959166,
     "geom:longitude":-119.77675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1662 US Hwy 395 N",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219337909,
-    "wof:lastmodified":1449072048,
+    "wof:lastmodified":1466703340,
     "wof:name":"Delahay Appraisal & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.77675,38.959166,-119.77675,38.959166],
-  "geometry": {"coordinates":[-119.77675,38.959166],"type":"Point"}
+  "bbox": [
+    -119.77675,
+    38.959166,
+    -119.77675,
+    38.959166
+],
+  "geometry": {"coordinates":[-119.77675000000001,38.959166],"type":"Point"}
 }

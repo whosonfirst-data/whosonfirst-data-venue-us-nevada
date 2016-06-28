@@ -2,13 +2,14 @@
   "id": 236942203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.159176,36.141695,-115.159176,36.141695",
     "geom:latitude":36.141695,
     "geom:longitude":-115.159176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236942203,
-    "wof:lastmodified":1449003099,
+    "wof:lastmodified":1466706925,
     "wof:name":"Nightclub",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-115.159176,36.141695,-115.159176,36.141695],
+  "bbox": [
+    -115.159176,
+    36.141695,
+    -115.159176,
+    36.141695
+],
   "geometry": {"coordinates":[-115.159176,36.141695],"type":"Point"}
 }

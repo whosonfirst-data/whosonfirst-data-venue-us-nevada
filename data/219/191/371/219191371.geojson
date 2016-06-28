@@ -2,13 +2,14 @@
   "id": 219191371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789202,39.487004,-119.789202,39.487004",
     "geom:latitude":39.487004,
     "geom:longitude":-119.789202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219191371,
-    "wof:lastmodified":1449072532,
+    "wof:lastmodified":1466702010,
     "wof:name":"West Coast Beauty Supply",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [-119.789202,39.487004,-119.789202,39.487004],
+  "bbox": [
+    -119.789202,
+    39.487004,
+    -119.789202,
+    39.487004
+],
   "geometry": {"coordinates":[-119.789202,39.487004],"type":"Point"}
 }

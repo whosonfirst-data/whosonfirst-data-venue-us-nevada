@@ -2,13 +2,14 @@
   "id": 236528857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248535,36.131288,-115.248535,36.131288",
     "geom:latitude":36.131288,
     "geom:longitude":-115.248535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7160 Darby Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236528857,
-    "wof:lastmodified":1449002346,
+    "wof:lastmodified":1466706055,
     "wof:name":"Jcr Homecare",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.248535,36.131288,-115.248535,36.131288],
+  "bbox": [
+    -115.248535,
+    36.131288,
+    -115.248535,
+    36.131288
+],
   "geometry": {"coordinates":[-115.248535,36.131288],"type":"Point"}
 }

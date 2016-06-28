@@ -2,13 +2,14 @@
   "id": 236713775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803173,39.522238,-119.803173,39.522238",
     "geom:latitude":39.522238,
     "geom:longitude":-119.803173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236713775,
-    "wof:lastmodified":1449004879,
+    "wof:lastmodified":1466706513,
     "wof:name":"Juicys Giant Hamburgers Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.803173,39.522238,-119.803173,39.522238],
+  "bbox": [
+    -119.803173,
+    39.522238,
+    -119.803173,
+    39.522238
+],
   "geometry": {"coordinates":[-119.803173,39.522238],"type":"Point"}
 }

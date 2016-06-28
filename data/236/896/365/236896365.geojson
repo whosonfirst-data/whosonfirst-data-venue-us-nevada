@@ -2,13 +2,14 @@
   "id": 236896365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143677,36.173382,-115.143677,36.173382",
     "geom:latitude":36.173382,
     "geom:longitude":-115.143677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N 1st St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236896365,
-    "wof:lastmodified":1449002727,
+    "wof:lastmodified":1466706887,
     "wof:name":"Transtional Living Communities",
     "wof:parent_id":85892641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.143677,36.173382,-115.143677,36.173382],
+  "bbox": [
+    -115.143677,
+    36.173382,
+    -115.143677,
+    36.173382
+],
   "geometry": {"coordinates":[-115.143677,36.173382],"type":"Point"}
 }

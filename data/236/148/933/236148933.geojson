@@ -2,13 +2,14 @@
   "id": 236148933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.854531,39.536918,-119.854531,39.536918",
     "geom:latitude":39.536918,
     "geom:longitude":-119.854531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Rayburn Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236148933,
-    "wof:lastmodified":1449004624,
+    "wof:lastmodified":1466702540,
     "wof:name":"Bill Zeme",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.854531,39.536918,-119.854531,39.536918],
-  "geometry": {"coordinates":[-119.854531,39.536918],"type":"Point"}
+  "bbox": [
+    -119.854531,
+    39.536918,
+    -119.854531,
+    39.536918
+],
+  "geometry": {"coordinates":[-119.85453099999999,39.536918],"type":"Point"}
 }

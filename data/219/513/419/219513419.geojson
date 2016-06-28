@@ -2,13 +2,14 @@
   "id": 219513419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1398,36.161549,-115.1398,36.161549",
     "geom:latitude":36.161549,
     "geom:longitude":-115.1398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S 9th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219513419,
-    "wof:lastmodified":1449072724,
+    "wof:lastmodified":1466701542,
     "wof:name":"Las Vegas NV West PM Group",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-115.1398,36.161549,-115.1398,36.161549],
-  "geometry": {"coordinates":[-115.1398,36.161549],"type":"Point"}
+  "bbox": [
+    -115.1398,
+    36.161549,
+    -115.1398,
+    36.161549
+],
+  "geometry": {"coordinates":[-115.13979999999999,36.161549],"type":"Point"}
 }

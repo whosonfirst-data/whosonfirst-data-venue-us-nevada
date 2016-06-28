@@ -2,13 +2,14 @@
   "id": 236650245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.659213,39.375111,-119.659213,39.375111",
     "geom:latitude":39.375111,
     "geom:longitude":-119.659213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21335 Saddleback Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236650245,
-    "wof:lastmodified":1449003708,
+    "wof:lastmodified":1466706389,
     "wof:name":"Dan Hennessy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.659213,39.375111,-119.659213,39.375111],
-  "geometry": {"coordinates":[-119.659213,39.375111],"type":"Point"}
+  "bbox": [
+    -119.659213,
+    39.375111,
+    -119.659213,
+    39.375111
+],
+  "geometry": {"coordinates":[-119.65921299999999,39.375111],"type":"Point"}
 }

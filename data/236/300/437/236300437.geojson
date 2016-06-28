@@ -2,13 +2,14 @@
   "id": 236300437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.332163,36.165887,-115.332163,36.165887",
     "geom:latitude":36.165887,
     "geom:longitude":-115.332163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Bianca Bay St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236300437,
-    "wof:lastmodified":1449003521,
+    "wof:lastmodified":1466704568,
     "wof:name":"Andrea Waller Photographs",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.332163,36.165887,-115.332163,36.165887],
-  "geometry": {"coordinates":[-115.332163,36.165887],"type":"Point"}
+  "bbox": [
+    -115.332163,
+    36.165887,
+    -115.332163,
+    36.165887
+],
+  "geometry": {"coordinates":[-115.33216299999999,36.165887],"type":"Point"}
 }

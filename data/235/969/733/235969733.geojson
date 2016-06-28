@@ -2,13 +2,14 @@
   "id": 235969733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075252,36.028086,-115.075252,36.028086",
     "geom:latitude":36.028086,
     "geom:longitude":-115.075252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Aspen Brook Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235969733,
-    "wof:lastmodified":1449008336,
+    "wof:lastmodified":1466703610,
     "wof:name":"Gem Bookkeeping & Tax Service",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.075252,36.028086,-115.075252,36.028086],
-  "geometry": {"coordinates":[-115.075252,36.028086],"type":"Point"}
+  "bbox": [
+    -115.075252,
+    36.028086,
+    -115.075252,
+    36.028086
+],
+  "geometry": {"coordinates":[-115.07525200000001,36.028086],"type":"Point"}
 }

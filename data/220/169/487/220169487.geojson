@@ -2,13 +2,14 @@
   "id": 220169487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.845255,35.964399,-114.845255,35.964399",
     "geom:latitude":35.964399,
     "geom:longitude":-114.845255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"974 el Camino Way",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220169487,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466702877,
     "wof:name":"Woodcrafter Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-114.845255,35.964399,-114.845255,35.964399],
-  "geometry": {"coordinates":[-114.845255,35.964399],"type":"Point"}
+  "bbox": [
+    -114.845255,
+    35.964399,
+    -114.845255,
+    35.964399
+],
+  "geometry": {"coordinates":[-114.84525499999999,35.964399],"type":"Point"}
 }

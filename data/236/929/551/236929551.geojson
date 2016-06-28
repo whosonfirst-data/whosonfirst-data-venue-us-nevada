@@ -2,13 +2,14 @@
   "id": 236929551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7318,39.635658,-119.7318,39.635658",
     "geom:latitude":39.635658,
     "geom:longitude":-119.7318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Hawks View Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236929551,
-    "wof:lastmodified":1449002810,
+    "wof:lastmodified":1466706851,
     "wof:name":"Sierra View Baptist Church",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.7318,39.635658,-119.7318,39.635658],
-  "geometry": {"coordinates":[-119.7318,39.635658],"type":"Point"}
+  "bbox": [
+    -119.7318,
+    39.635658,
+    -119.7318,
+    39.635658
+],
+  "geometry": {"coordinates":[-119.73180000000001,39.635658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354281195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229517,36.268807,-115.229517,36.268807",
     "geom:latitude":36.268807,
     "geom:longitude":-115.229517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6268 E Tropical Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354281195,
-    "wof:lastmodified":1449067388,
+    "wof:lastmodified":1466705715,
     "wof:name":"Cal Development Inc",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.229517,36.268807,-115.229517,36.268807],
+  "bbox": [
+    -115.229517,
+    36.268807,
+    -115.229517,
+    36.268807
+],
   "geometry": {"coordinates":[-115.229517,36.268807],"type":"Point"}
 }

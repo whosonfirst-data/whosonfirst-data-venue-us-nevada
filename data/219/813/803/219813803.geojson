@@ -2,13 +2,14 @@
   "id": 219813803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.887407,39.248105,-114.887407,39.248105",
     "geom:latitude":39.248105,
     "geom:longitude":-114.887407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Campton St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219813803,
-    "wof:lastmodified":1449071308,
+    "wof:lastmodified":1466705161,
     "wof:name":"White Pine County Ambulance",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-114.887407,39.248105,-114.887407,39.248105],
+  "bbox": [
+    -114.887407,
+    39.248105,
+    -114.887407,
+    39.248105
+],
   "geometry": {"coordinates":[-114.887407,39.248105],"type":"Point"}
 }

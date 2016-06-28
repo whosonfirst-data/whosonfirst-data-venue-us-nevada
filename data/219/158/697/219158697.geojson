@@ -2,13 +2,14 @@
   "id": 219158697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035156,36.10511,-115.035156,36.10511",
     "geom:latitude":36.10511,
     "geom:longitude":-115.035156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6261 Maxwood Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219158697,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466701548,
     "wof:name":"Rebel Roofing",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.035156,36.10511,-115.035156,36.10511],
+  "bbox": [
+    -115.035156,
+    36.10511,
+    -115.035156,
+    36.10511
+],
   "geometry": {"coordinates":[-115.035156,36.10511],"type":"Point"}
 }

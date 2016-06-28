@@ -2,13 +2,14 @@
   "id": 220105277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.473618,40.181555,-118.473618,40.181555",
     "geom:latitude":40.181555,
     "geom:longitude":-118.473618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220105277,
-    "wof:lastmodified":1449074336,
+    "wof:lastmodified":1466702410,
     "wof:name":"Classic Chiropractic",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.473618,40.181555,-118.473618,40.181555],
+  "bbox": [
+    -118.473618,
+    40.181555,
+    -118.473618,
+    40.181555
+],
   "geometry": {"coordinates":[-118.473618,40.181555],"type":"Point"}
 }

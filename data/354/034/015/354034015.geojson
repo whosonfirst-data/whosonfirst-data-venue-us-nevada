@@ -2,13 +2,14 @@
   "id": 354034015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16433,36.253228,-115.16433,36.253228",
     "geom:latitude":36.253228,
     "geom:longitude":-115.16433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 Santa Lucia Drive",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354034015,
-    "wof:lastmodified":1449066125,
+    "wof:lastmodified":1466702391,
     "wof:name":"Royal Property Management",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.16433,36.253228,-115.16433,36.253228],
-  "geometry": {"coordinates":[-115.16433,36.253228],"type":"Point"}
+  "bbox": [
+    -115.16433,
+    36.253228,
+    -115.16433,
+    36.253228
+],
+  "geometry": {"coordinates":[-115.16433000000001,36.253228],"type":"Point"}
 }

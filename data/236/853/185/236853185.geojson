@@ -2,13 +2,14 @@
   "id": 236853185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161399,36.056867,-115.161399,36.056867",
     "geom:latitude":36.056867,
     "geom:longitude":-115.161399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236853185,
-    "wof:lastmodified":1449002894,
+    "wof:lastmodified":1466706848,
     "wof:name":"Unisys Corp",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "datum"
     ]
 },
-  "bbox": [-115.161399,36.056867,-115.161399,36.056867],
+  "bbox": [
+    -115.161399,
+    36.056867,
+    -115.161399,
+    36.056867
+],
   "geometry": {"coordinates":[-115.161399,36.056867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219559209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.707998,39.563154,-119.707998,39.563154",
     "geom:latitude":39.563154,
     "geom:longitude":-119.707998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 Deep Creek Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219559209,
-    "wof:lastmodified":1449073161,
+    "wof:lastmodified":1466702383,
     "wof:name":"National Society of Sons",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.707998,39.563154,-119.707998,39.563154],
+  "bbox": [
+    -119.707998,
+    39.563154,
+    -119.707998,
+    39.563154
+],
   "geometry": {"coordinates":[-119.707998,39.563154],"type":"Point"}
 }

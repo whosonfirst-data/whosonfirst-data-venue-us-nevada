@@ -2,13 +2,14 @@
   "id": 219401749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176443,36.164296,-115.176443,36.164296",
     "geom:latitude":36.164296,
     "geom:longitude":-115.176443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2331 Pinto Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219401749,
-    "wof:lastmodified":1449073388,
+    "wof:lastmodified":1466703643,
     "wof:name":"Christensen Cattle Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-115.176443,36.164296,-115.176443,36.164296],
-  "geometry": {"coordinates":[-115.176443,36.164296],"type":"Point"}
+  "bbox": [
+    -115.176443,
+    36.164296,
+    -115.176443,
+    36.164296
+],
+  "geometry": {"coordinates":[-115.17644300000001,36.164296],"type":"Point"}
 }

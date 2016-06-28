@@ -2,13 +2,14 @@
   "id": 236701087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742669,39.204973,-119.742669,39.204973",
     "geom:latitude":39.204973,
     "geom:longitude":-119.742669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 Grumman Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236701087,
-    "wof:lastmodified":1449004416,
+    "wof:lastmodified":1466706475,
     "wof:name":"Thomas Built Cabinets",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.742669,39.204973,-119.742669,39.204973],
-  "geometry": {"coordinates":[-119.742669,39.204973],"type":"Point"}
+  "bbox": [
+    -119.742669,
+    39.204973,
+    -119.742669,
+    39.204973
+],
+  "geometry": {"coordinates":[-119.74266900000001,39.204973],"type":"Point"}
 }

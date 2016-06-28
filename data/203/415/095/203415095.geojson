@@ -2,13 +2,14 @@
   "id": 203415095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127963,36.042054,-115.127963,36.042054",
     "geom:latitude":36.042054,
     "geom:longitude":-115.127963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1692 Golden Horizon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203415095,
-    "wof:lastmodified":1449026332,
+    "wof:lastmodified":1466703378,
     "wof:name":"Advanced Photographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.127963,36.042054,-115.127963,36.042054],
-  "geometry": {"coordinates":[-115.127963,36.042054],"type":"Point"}
+  "bbox": [
+    -115.127963,
+    36.042054,
+    -115.127963,
+    36.042054
+],
+  "geometry": {"coordinates":[-115.12796299999999,36.042054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236499907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092046,35.970588,-115.092046,35.970588",
     "geom:latitude":35.970588,
     "geom:longitude":-115.092046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Fountainhead Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236499907,
-    "wof:lastmodified":1449002150,
+    "wof:lastmodified":1466705886,
     "wof:name":"Creative Impressions",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-115.092046,35.970588,-115.092046,35.970588],
+  "bbox": [
+    -115.092046,
+    35.970588,
+    -115.092046,
+    35.970588
+],
   "geometry": {"coordinates":[-115.092046,35.970588],"type":"Point"}
 }

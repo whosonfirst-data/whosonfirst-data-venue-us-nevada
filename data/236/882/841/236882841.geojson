@@ -2,13 +2,14 @@
   "id": 236882841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184432,36.076386,-115.184432,36.076386",
     "geom:latitude":36.076386,
     "geom:longitude":-115.184432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Birtcher Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236882841,
-    "wof:lastmodified":1449002118,
+    "wof:lastmodified":1466706787,
     "wof:name":"CDS Graphics & Imaging",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.184432,36.076386,-115.184432,36.076386],
+  "bbox": [
+    -115.184432,
+    36.076386,
+    -115.184432,
+    36.076386
+],
   "geometry": {"coordinates":[-115.184432,36.076386],"type":"Point"}
 }

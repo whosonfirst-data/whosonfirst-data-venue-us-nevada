@@ -2,13 +2,14 @@
   "id": 236492391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780245,39.485252,-119.780245,39.485252",
     "geom:latitude":39.485252,
     "geom:longitude":-119.780245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4385 Neil Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236492391,
-    "wof:lastmodified":1449001675,
+    "wof:lastmodified":1466705643,
     "wof:name":"LA Chiquita Mexican Market",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-119.780245,39.485252,-119.780245,39.485252],
-  "geometry": {"coordinates":[-119.780245,39.485252],"type":"Point"}
+  "bbox": [
+    -119.780245,
+    39.485252,
+    -119.780245,
+    39.485252
+],
+  "geometry": {"coordinates":[-119.78024499999999,39.485252],"type":"Point"}
 }

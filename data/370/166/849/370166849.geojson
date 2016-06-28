@@ -2,13 +2,14 @@
   "id": 370166849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267326,36.231617,-115.267326,36.231617",
     "geom:latitude":36.231617,
     "geom:longitude":-115.267326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Constantinople Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370166849,
-    "wof:lastmodified":1449030958,
+    "wof:lastmodified":1466701920,
     "wof:name":"Telcom Com",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.267326,36.231617,-115.267326,36.231617],
+  "bbox": [
+    -115.267326,
+    36.231617,
+    -115.267326,
+    36.231617
+],
   "geometry": {"coordinates":[-115.267326,36.231617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354066621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14361,36.162319,-115.14361,36.162319",
     "geom:latitude":36.162319,
     "geom:longitude":-115.14361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 S 6th Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354066621,
-    "wof:lastmodified":1449066400,
+    "wof:lastmodified":1466703221,
     "wof:name":"Fine & Perez Attorneys At Law",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.14361,36.162319,-115.14361,36.162319],
+  "bbox": [
+    -115.14361,
+    36.162319,
+    -115.14361,
+    36.162319
+],
   "geometry": {"coordinates":[-115.14361,36.162319],"type":"Point"}
 }

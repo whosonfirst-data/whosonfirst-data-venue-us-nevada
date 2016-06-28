@@ -2,13 +2,14 @@
   "id": 203331751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062559,36.051593,-115.062559,36.051593",
     "geom:latitude":36.051593,
     "geom:longitude":-115.062559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Vallarte Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203331751,
-    "wof:lastmodified":1449026092,
+    "wof:lastmodified":1466703042,
     "wof:name":"Squeegee Boyz",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.062559,36.051593,-115.062559,36.051593],
-  "geometry": {"coordinates":[-115.062559,36.051593],"type":"Point"}
+  "bbox": [
+    -115.062559,
+    36.051593,
+    -115.062559,
+    36.051593
+],
+  "geometry": {"coordinates":[-115.06255899999999,36.051593],"type":"Point"}
 }

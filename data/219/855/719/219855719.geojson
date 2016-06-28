@@ -2,13 +2,14 @@
   "id": 219855719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768435,39.179967,-119.768435,39.179967",
     "geom:latitude":39.179967,
     "geom:longitude":-119.768435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Jeanell Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219855719,
-    "wof:lastmodified":1449073001,
+    "wof:lastmodified":1466705515,
     "wof:name":"Check Point World Team Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "communications"
     ]
 },
-  "bbox": [-119.768435,39.179967,-119.768435,39.179967],
+  "bbox": [
+    -119.768435,
+    39.179967,
+    -119.768435,
+    39.179967
+],
   "geometry": {"coordinates":[-119.768435,39.179967],"type":"Point"}
 }

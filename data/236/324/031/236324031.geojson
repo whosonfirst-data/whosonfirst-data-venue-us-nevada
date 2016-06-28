@@ -2,13 +2,14 @@
   "id": 236324031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736028,39.553405,-119.736028,39.553405",
     "geom:latitude":39.553405,
     "geom:longitude":-119.736028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Sheffield Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236324031,
-    "wof:lastmodified":1449003597,
+    "wof:lastmodified":1466704750,
     "wof:name":"Painter",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.736028,39.553405,-119.736028,39.553405],
+  "bbox": [
+    -119.736028,
+    39.553405,
+    -119.736028,
+    39.553405
+],
   "geometry": {"coordinates":[-119.736028,39.553405],"type":"Point"}
 }

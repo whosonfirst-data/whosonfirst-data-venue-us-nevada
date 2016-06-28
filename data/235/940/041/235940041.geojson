@@ -2,13 +2,14 @@
   "id": 235940041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747946,38.941141,-119.747946,38.941141",
     "geom:latitude":38.941141,
     "geom:longitude":-119.747946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Eddy St",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235940041,
-    "wof:lastmodified":1449008341,
+    "wof:lastmodified":1466703471,
     "wof:name":"Especially For You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.747946,38.941141,-119.747946,38.941141],
+  "bbox": [
+    -119.747946,
+    38.941141,
+    -119.747946,
+    38.941141
+],
   "geometry": {"coordinates":[-119.747946,38.941141],"type":"Point"}
 }

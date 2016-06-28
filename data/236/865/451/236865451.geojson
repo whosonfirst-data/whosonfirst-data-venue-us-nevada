@@ -2,13 +2,14 @@
   "id": 236865451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095037,36.216539,-115.095037,36.216539",
     "geom:latitude":36.216539,
     "geom:longitude":-115.095037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3164 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236865451,
-    "wof:lastmodified":1449004269,
+    "wof:lastmodified":1466706753,
     "wof:name":"Meyers Western Auto Parts",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-115.095037,36.216539,-115.095037,36.216539],
+  "bbox": [
+    -115.095037,
+    36.216539,
+    -115.095037,
+    36.216539
+],
   "geometry": {"coordinates":[-115.095037,36.216539],"type":"Point"}
 }

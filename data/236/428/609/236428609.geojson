@@ -2,13 +2,14 @@
   "id": 236428609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.029443,36.137121,-115.029443,36.137121",
     "geom:latitude":36.137121,
     "geom:longitude":-115.029443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6418 Vegas Valley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236428609,
-    "wof:lastmodified":1449004985,
+    "wof:lastmodified":1466705380,
     "wof:name":"All Pro Landscape Inc",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.029443,36.137121,-115.029443,36.137121],
+  "bbox": [
+    -115.029443,
+    36.137121,
+    -115.029443,
+    36.137121
+],
   "geometry": {"coordinates":[-115.029443,36.137121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236168815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099194,36.069596,-115.099194,36.069596",
     "geom:latitude":36.069596,
     "geom:longitude":-115.099194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3541 Happy Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236168815,
-    "wof:lastmodified":1449003360,
+    "wof:lastmodified":1466702957,
     "wof:name":"A1 International Distributors",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.099194,36.069596,-115.099194,36.069596],
+  "bbox": [
+    -115.099194,
+    36.069596,
+    -115.099194,
+    36.069596
+],
   "geometry": {"coordinates":[-115.099194,36.069596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252736669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.994237,39.519268,-119.994237,39.519268",
     "geom:latitude":39.519268,
     "geom:longitude":-119.994237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Hansen Dr",
     "sg:city":"Verdi",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252736669,
-    "wof:lastmodified":1449006488,
+    "wof:lastmodified":1466702065,
     "wof:name":"Sierra Network Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.994237,39.519268,-119.994237,39.519268],
+  "bbox": [
+    -119.994237,
+    39.519268,
+    -119.994237,
+    39.519268
+],
   "geometry": {"coordinates":[-119.994237,39.519268],"type":"Point"}
 }

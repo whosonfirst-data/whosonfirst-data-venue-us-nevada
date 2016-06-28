@@ -2,13 +2,14 @@
   "id": 236007075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08817,36.037724,-115.08817,36.037724",
     "geom:latitude":36.037724,
     "geom:longitude":-115.08817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2432 Ping Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236007075,
-    "wof:lastmodified":1449004563,
+    "wof:lastmodified":1466703790,
     "wof:name":"Lina's Skin Care Products",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-115.08817,36.037724,-115.08817,36.037724],
-  "geometry": {"coordinates":[-115.08817,36.037724],"type":"Point"}
+  "bbox": [
+    -115.08817,
+    36.037724,
+    -115.08817,
+    36.037724
+],
+  "geometry": {"coordinates":[-115.08817000000001,36.037724],"type":"Point"}
 }

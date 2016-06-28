@@ -2,13 +2,14 @@
   "id": 203356579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.585386,40.757754,-115.585386,40.757754",
     "geom:latitude":40.757754,
     "geom:longitude":-115.585386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Bluecrest Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203356579,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466703160,
     "wof:name":"Bring It On Enterprises Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.585386,40.757754,-115.585386,40.757754],
+  "bbox": [
+    -115.585386,
+    40.757754,
+    -115.585386,
+    40.757754
+],
   "geometry": {"coordinates":[-115.585386,40.757754],"type":"Point"}
 }

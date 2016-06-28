@@ -2,13 +2,14 @@
   "id": 236696793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.861299,39.542675,-119.861299,39.542675",
     "geom:latitude":39.542675,
     "geom:longitude":-119.861299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3968 Kentwood Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236696793,
-    "wof:lastmodified":1449001861,
+    "wof:lastmodified":1466706466,
     "wof:name":"Pooper Scoopers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-119.861299,39.542675,-119.861299,39.542675],
+  "bbox": [
+    -119.861299,
+    39.542675,
+    -119.861299,
+    39.542675
+],
   "geometry": {"coordinates":[-119.861299,39.542675],"type":"Point"}
 }

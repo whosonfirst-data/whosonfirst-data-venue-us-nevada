@@ -2,13 +2,14 @@
   "id": 220150077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218296,36.176956,-115.218296,36.176956",
     "geom:latitude":36.176956,
     "geom:longitude":-115.218296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Kipling St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220150077,
-    "wof:lastmodified":1449074074,
+    "wof:lastmodified":1466702757,
     "wof:name":"Lending Strategies Inc",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.218296,36.176956,-115.218296,36.176956],
+  "bbox": [
+    -115.218296,
+    36.176956,
+    -115.218296,
+    36.176956
+],
   "geometry": {"coordinates":[-115.218296,36.176956],"type":"Point"}
 }

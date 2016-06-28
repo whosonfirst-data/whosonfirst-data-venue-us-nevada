@@ -2,13 +2,14 @@
   "id": 354274733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27298,36.066998,-115.27298,36.066998",
     "geom:latitude":36.066998,
     "geom:longitude":-115.27298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8359 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354274733,
-    "wof:lastmodified":1449066144,
+    "wof:lastmodified":1466705538,
     "wof:name":"Baguette Cafe",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-115.27298,36.066998,-115.27298,36.066998],
+  "bbox": [
+    -115.27298,
+    36.066998,
+    -115.27298,
+    36.066998
+],
   "geometry": {"coordinates":[-115.27298,36.066998],"type":"Point"}
 }

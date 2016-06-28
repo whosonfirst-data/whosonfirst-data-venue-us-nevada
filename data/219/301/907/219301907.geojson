@@ -2,13 +2,14 @@
   "id": 219301907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766823,39.175645,-119.766823,39.175645",
     "geom:latitude":39.175645,
     "geom:longitude":-119.766823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219301907,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466703106,
     "wof:name":"N V X Incorporated",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-119.766823,39.175645,-119.766823,39.175645],
+  "bbox": [
+    -119.766823,
+    39.175645,
+    -119.766823,
+    39.175645
+],
   "geometry": {"coordinates":[-119.766823,39.175645],"type":"Point"}
 }

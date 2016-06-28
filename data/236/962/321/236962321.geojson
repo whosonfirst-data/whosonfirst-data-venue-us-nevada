@@ -2,13 +2,14 @@
   "id": 236962321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750709,39.547512,-119.750709,39.547512",
     "geom:latitude":39.547512,
     "geom:longitude":-119.750709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Greenbrae Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236962321,
-    "wof:lastmodified":1449003615,
+    "wof:lastmodified":1466706891,
     "wof:name":"J & R Pro Shop",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.750709,39.547512,-119.750709,39.547512],
+  "bbox": [
+    -119.750709,
+    39.547512,
+    -119.750709,
+    39.547512
+],
   "geometry": {"coordinates":[-119.750709,39.547512],"type":"Point"}
 }

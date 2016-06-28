@@ -2,13 +2,14 @@
   "id": 370348261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76953,39.167023,-119.76953,39.167023",
     "geom:latitude":39.167023,
     "geom:longitude":-119.76953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 W Robinson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370348261,
-    "wof:lastmodified":1449029218,
+    "wof:lastmodified":1466705031,
     "wof:name":"Healing Arts Associates",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"
     ]
 },
-  "bbox": [-119.76953,39.167023,-119.76953,39.167023],
+  "bbox": [
+    -119.76953,
+    39.167023,
+    -119.76953,
+    39.167023
+],
   "geometry": {"coordinates":[-119.76953,39.167023],"type":"Point"}
 }

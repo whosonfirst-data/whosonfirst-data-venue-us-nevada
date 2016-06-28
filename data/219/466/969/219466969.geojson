@@ -2,13 +2,14 @@
   "id": 219466969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.783181,40.824365,-115.783181,40.824365",
     "geom:latitude":40.824365,
     "geom:longitude":-115.783181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1377 W Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219466969,
-    "wof:lastmodified":1449071455,
+    "wof:lastmodified":1466704035,
     "wof:name":"Gateway R V Center",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufactured"
     ]
 },
-  "bbox": [-115.783181,40.824365,-115.783181,40.824365],
+  "bbox": [
+    -115.783181,
+    40.824365,
+    -115.783181,
+    40.824365
+],
   "geometry": {"coordinates":[-115.783181,40.824365],"type":"Point"}
 }

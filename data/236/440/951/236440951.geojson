@@ -2,13 +2,14 @@
   "id": 236440951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.447057,36.542756,-114.447057,36.542756",
     "geom:latitude":36.542756,
     "geom:longitude":-114.447057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 N Andersen St",
     "sg:city":"Overton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236440951,
-    "wof:lastmodified":1449002683,
+    "wof:lastmodified":1466705563,
     "wof:name":"Moapa Valley Telephone Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-114.447057,36.542756,-114.447057,36.542756],
+  "bbox": [
+    -114.447057,
+    36.542756,
+    -114.447057,
+    36.542756
+],
   "geometry": {"coordinates":[-114.447057,36.542756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236109493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875834,39.64102,-119.875834,39.64102",
     "geom:latitude":39.64102,
     "geom:longitude":-119.875834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13042 Exinite Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236109493,
-    "wof:lastmodified":1449002656,
+    "wof:lastmodified":1466701720,
     "wof:name":"High Desert Home Mtc LLC",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-119.875834,39.64102,-119.875834,39.64102],
+  "bbox": [
+    -119.875834,
+    39.64102,
+    -119.875834,
+    39.64102
+],
   "geometry": {"coordinates":[-119.875834,39.64102],"type":"Point"}
 }

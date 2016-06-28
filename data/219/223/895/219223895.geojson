@@ -2,13 +2,14 @@
   "id": 219223895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791971,39.505919,-119.791971,39.505919",
     "geom:latitude":39.505919,
     "geom:longitude":-119.791971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219223895,
-    "wof:lastmodified":1449070627,
+    "wof:lastmodified":1466702271,
     "wof:name":"Centralized Operations Group",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-119.791971,39.505919,-119.791971,39.505919],
+  "bbox": [
+    -119.791971,
+    39.505919,
+    -119.791971,
+    39.505919
+],
   "geometry": {"coordinates":[-119.791971,39.505919],"type":"Point"}
 }

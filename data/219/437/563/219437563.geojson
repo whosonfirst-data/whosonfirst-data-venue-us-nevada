@@ -2,13 +2,14 @@
   "id": 219437563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.860835,39.517304,-119.860835,39.517304",
     "geom:latitude":39.517304,
     "geom:longitude":-119.860835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9600 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219437563,
-    "wof:lastmodified":1449072950,
+    "wof:lastmodified":1466703816,
     "wof:name":"Great Basin Federal CU",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.860835,39.517304,-119.860835,39.517304],
-  "geometry": {"coordinates":[-119.860835,39.517304],"type":"Point"}
+  "bbox": [
+    -119.860835,
+    39.517304,
+    -119.860835,
+    39.517304
+],
+  "geometry": {"coordinates":[-119.86083499999999,39.517304],"type":"Point"}
 }

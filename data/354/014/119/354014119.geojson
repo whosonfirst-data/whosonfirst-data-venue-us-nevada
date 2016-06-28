@@ -2,13 +2,14 @@
   "id": 354014119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.984704,36.037592,-114.984704,36.037592",
     "geom:latitude":36.037592,
     "geom:longitude":-114.984704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 E Lake Mead Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354014119,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466701855,
     "wof:name":"Weaver Matthew DDS",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.984704,36.037592,-114.984704,36.037592],
-  "geometry": {"coordinates":[-114.984704,36.037592],"type":"Point"}
+  "bbox": [
+    -114.984704,
+    36.037592,
+    -114.984704,
+    36.037592
+],
+  "geometry": {"coordinates":[-114.98470399999999,36.037592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203187975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318064,36.191661,-115.318064,36.191661",
     "geom:latitude":36.191661,
     "geom:longitude":-115.318064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 King James St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203187975,
-    "wof:lastmodified":1449025220,
+    "wof:lastmodified":1466701908,
     "wof:name":"Carlisle Apartments Pacifica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.318064,36.191661,-115.318064,36.191661],
-  "geometry": {"coordinates":[-115.318064,36.191661],"type":"Point"}
+  "bbox": [
+    -115.318064,
+    36.191661,
+    -115.318064,
+    36.191661
+],
+  "geometry": {"coordinates":[-115.31806400000001,36.191661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219174353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.533594,40.071397,-118.533594,40.071397",
     "geom:latitude":40.071397,
     "geom:longitude":-118.533594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3545 Peterson Rd",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219174353,
-    "wof:lastmodified":1449070875,
+    "wof:lastmodified":1466701880,
     "wof:name":"Knight Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-118.533594,40.071397,-118.533594,40.071397],
-  "geometry": {"coordinates":[-118.533594,40.071397],"type":"Point"}
+  "bbox": [
+    -118.533594,
+    40.071397,
+    -118.533594,
+    40.071397
+],
+  "geometry": {"coordinates":[-118.53359399999999,40.071397],"type":"Point"}
 }

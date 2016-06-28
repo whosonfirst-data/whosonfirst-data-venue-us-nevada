@@ -2,13 +2,14 @@
   "id": 236502191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.656071,39.2289,-119.656071,39.2289",
     "geom:latitude":39.2289,
     "geom:longitude":-119.656071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Stokes Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236502191,
-    "wof:lastmodified":1449003107,
+    "wof:lastmodified":1466705809,
     "wof:name":"Pacific Coast Flange Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "forging"
     ]
 },
-  "bbox": [-119.656071,39.2289,-119.656071,39.2289],
+  "bbox": [
+    -119.656071,
+    39.2289,
+    -119.656071,
+    39.2289
+],
   "geometry": {"coordinates":[-119.656071,39.2289],"type":"Point"}
 }

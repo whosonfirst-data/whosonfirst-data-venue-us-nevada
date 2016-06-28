@@ -2,13 +2,14 @@
   "id": 236853941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789369,39.094761,-119.789369,39.094761",
     "geom:latitude":39.094761,
     "geom:longitude":-119.789369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Cherokee Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236853941,
-    "wof:lastmodified":1449002896,
+    "wof:lastmodified":1466706743,
     "wof:name":"Performance Parts Wharehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789369,39.094761,-119.789369,39.094761],
-  "geometry": {"coordinates":[-119.789369,39.094761],"type":"Point"}
+  "bbox": [
+    -119.789369,
+    39.094761,
+    -119.789369,
+    39.094761
+],
+  "geometry": {"coordinates":[-119.78936899999999,39.094761],"type":"Point"}
 }

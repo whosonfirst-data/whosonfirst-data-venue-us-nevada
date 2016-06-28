@@ -2,13 +2,14 @@
   "id": 235978325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81453,39.526605,-119.81453,39.526605",
     "geom:latitude":39.526605,
     "geom:longitude":-119.81453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235978325,
-    "wof:lastmodified":1449008443,
+    "wof:lastmodified":1466703640,
     "wof:name":"Riverboat Hotel & Casino",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-119.81453,39.526605,-119.81453,39.526605],
+  "bbox": [
+    -119.81453,
+    39.526605,
+    -119.81453,
+    39.526605
+],
   "geometry": {"coordinates":[-119.81453,39.526605],"type":"Point"}
 }

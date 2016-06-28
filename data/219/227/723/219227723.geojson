@@ -2,13 +2,14 @@
   "id": 219227723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.108176,35.960602,-115.108176,35.960602",
     "geom:latitude":35.960602,
     "geom:longitude":-115.108176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2783 Scotts Valley Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227723,
-    "wof:lastmodified":1449071175,
+    "wof:lastmodified":1466702279,
     "wof:name":"Dobson Investment Inc",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.108176,35.960602,-115.108176,35.960602],
+  "bbox": [
+    -115.108176,
+    35.960602,
+    -115.108176,
+    35.960602
+],
   "geometry": {"coordinates":[-115.108176,35.960602],"type":"Point"}
 }

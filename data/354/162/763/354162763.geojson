@@ -2,13 +2,14 @@
   "id": 354162763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214987,36.114965,-115.214987,36.114965",
     "geom:latitude":36.114965,
     "geom:longitude":-115.214987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 W Flamingo Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354162763,
-    "wof:lastmodified":1449067409,
+    "wof:lastmodified":1466704641,
     "wof:name":"New West Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.214987,36.114965,-115.214987,36.114965],
-  "geometry": {"coordinates":[-115.214987,36.114965],"type":"Point"}
+  "bbox": [
+    -115.214987,
+    36.114965,
+    -115.214987,
+    36.114965
+],
+  "geometry": {"coordinates":[-115.21498699999999,36.114965],"type":"Point"}
 }

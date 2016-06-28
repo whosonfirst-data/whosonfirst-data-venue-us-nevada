@@ -2,13 +2,14 @@
   "id": 370315605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792768,39.505842,-119.792768,39.505842",
     "geom:latitude":39.505842,
     "geom:longitude":-119.792768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 E Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370315605,
-    "wof:lastmodified":1449032289,
+    "wof:lastmodified":1466704554,
     "wof:name":"Laub & Laub Law Firm",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-119.792768,39.505842,-119.792768,39.505842],
+  "bbox": [
+    -119.792768,
+    39.505842,
+    -119.792768,
+    39.505842
+],
   "geometry": {"coordinates":[-119.792768,39.505842],"type":"Point"}
 }

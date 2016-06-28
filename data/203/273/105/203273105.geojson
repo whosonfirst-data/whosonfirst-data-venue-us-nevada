@@ -2,13 +2,14 @@
   "id": 203273105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279202,36.051119,-115.279202,36.051119",
     "geom:latitude":36.051119,
     "geom:longitude":-115.279202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7415 S Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203273105,
-    "wof:lastmodified":1449025911,
+    "wof:lastmodified":1466702649,
     "wof:name":"Pets & The City",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-115.279202,36.051119,-115.279202,36.051119],
+  "bbox": [
+    -115.279202,
+    36.051119,
+    -115.279202,
+    36.051119
+],
   "geometry": {"coordinates":[-115.279202,36.051119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236142701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.30163,36.109683,-115.30163,36.109683",
     "geom:latitude":36.109683,
     "geom:longitude":-115.30163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9595 Blyth Rock Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236142701,
-    "wof:lastmodified":1449004452,
+    "wof:lastmodified":1466702400,
     "wof:name":"V1 & M Inc",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.30163,36.109683,-115.30163,36.109683],
+  "bbox": [
+    -115.30163,
+    36.109683,
+    -115.30163,
+    36.109683
+],
   "geometry": {"coordinates":[-115.30163,36.109683],"type":"Point"}
 }

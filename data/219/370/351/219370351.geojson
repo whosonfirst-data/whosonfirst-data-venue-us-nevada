@@ -2,13 +2,14 @@
   "id": 219370351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062385,36.030901,-115.062385,36.030901",
     "geom:latitude":36.030901,
     "geom:longitude":-115.062385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Ancient Hills Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219370351,
-    "wof:lastmodified":1449072303,
+    "wof:lastmodified":1466703482,
     "wof:name":"Mineralosity",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.062385,36.030901,-115.062385,36.030901],
-  "geometry": {"coordinates":[-115.062385,36.030901],"type":"Point"}
+  "bbox": [
+    -115.062385,
+    36.030901,
+    -115.062385,
+    36.030901
+],
+  "geometry": {"coordinates":[-115.06238500000001,36.030901],"type":"Point"}
 }

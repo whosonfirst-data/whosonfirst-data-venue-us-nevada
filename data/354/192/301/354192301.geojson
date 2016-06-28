@@ -2,13 +2,14 @@
   "id": 354192301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156254,36.167663,-115.156254,36.167663",
     "geom:latitude":36.167663,
     "geom:longitude":-115.156254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S Grand Central Parkway Las Vegas Ste 2203",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354192301,
-    "wof:lastmodified":1449067162,
+    "wof:lastmodified":1466704845,
     "wof:name":"Las Vegas Design Center",
     "wof:parent_id":85892701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-115.156254,36.167663,-115.156254,36.167663],
+  "bbox": [
+    -115.156254,
+    36.167663,
+    -115.156254,
+    36.167663
+],
   "geometry": {"coordinates":[-115.156254,36.167663],"type":"Point"}
 }

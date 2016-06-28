@@ -2,13 +2,14 @@
   "id": 236918831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306503,36.224737,-115.306503,36.224737",
     "geom:latitude":36.224737,
     "geom:longitude":-115.306503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Bogside Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236918831,
-    "wof:lastmodified":1449003985,
+    "wof:lastmodified":1466706913,
     "wof:name":"Silver Mountain Products Inc",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stone"
     ]
 },
-  "bbox": [-115.306503,36.224737,-115.306503,36.224737],
-  "geometry": {"coordinates":[-115.306503,36.224737],"type":"Point"}
+  "bbox": [
+    -115.306503,
+    36.224737,
+    -115.306503,
+    36.224737
+],
+  "geometry": {"coordinates":[-115.30650300000001,36.224737],"type":"Point"}
 }

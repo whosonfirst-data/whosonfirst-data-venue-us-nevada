@@ -2,13 +2,14 @@
   "id": 370322347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823206,39.527578,-119.823206,39.527578",
     "geom:latitude":39.527578,
     "geom:longitude":-119.823206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Washington St.",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370322347,
-    "wof:lastmodified":1449029030,
+    "wof:lastmodified":1466704603,
     "wof:name":"Reno Carpet Steamer Experts",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "carpet"
     ]
 },
-  "bbox": [-119.823206,39.527578,-119.823206,39.527578],
+  "bbox": [
+    -119.823206,
+    39.527578,
+    -119.823206,
+    39.527578
+],
   "geometry": {"coordinates":[-119.823206,39.527578],"type":"Point"}
 }

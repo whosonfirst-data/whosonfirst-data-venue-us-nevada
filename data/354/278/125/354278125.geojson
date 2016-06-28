@@ -2,13 +2,14 @@
   "id": 354278125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251471,36.0675,-115.251471,36.0675",
     "geom:latitude":36.0675,
     "geom:longitude":-115.251471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6640 S Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354278125,
-    "wof:lastmodified":1449066884,
+    "wof:lastmodified":1466705666,
     "wof:name":"Philippi Sport Institute",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.251471,36.0675,-115.251471,36.0675],
+  "bbox": [
+    -115.251471,
+    36.0675,
+    -115.251471,
+    36.0675
+],
   "geometry": {"coordinates":[-115.251471,36.0675],"type":"Point"}
 }

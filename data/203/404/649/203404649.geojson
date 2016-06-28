@@ -2,13 +2,14 @@
   "id": 203404649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260621,36.232349,-115.260621,36.232349",
     "geom:latitude":36.232349,
     "geom:longitude":-115.260621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203404649,
-    "wof:lastmodified":1449026239,
+    "wof:lastmodified":1466703343,
     "wof:name":"Tabernacle Of Praise Church",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.260621,36.232349,-115.260621,36.232349],
+  "bbox": [
+    -115.260621,
+    36.232349,
+    -115.260621,
+    36.232349
+],
   "geometry": {"coordinates":[-115.260621,36.232349],"type":"Point"}
 }

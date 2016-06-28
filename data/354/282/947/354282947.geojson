@@ -2,13 +2,14 @@
   "id": 354282947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080002,36.2136,-115.080002,36.2136",
     "geom:latitude":36.2136,
     "geom:longitude":-115.080002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2970 N Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354282947,
-    "wof:lastmodified":1449067018,
+    "wof:lastmodified":1466705730,
     "wof:name":"Walker Furniture Warehouse",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.080002,36.2136,-115.080002,36.2136],
-  "geometry": {"coordinates":[-115.080002,36.2136],"type":"Point"}
+  "bbox": [
+    -115.080002,
+    36.2136,
+    -115.080002,
+    36.2136
+],
+  "geometry": {"coordinates":[-115.08000199999999,36.2136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236086565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147547,36.049039,-115.147547,36.049039",
     "geom:latitude":36.049039,
     "geom:longitude":-115.147547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7754 Lofty Hill",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236086565,
-    "wof:lastmodified":1449003942,
+    "wof:lastmodified":1466704131,
     "wof:name":"Do Rite Sheet Metal & Air Cond",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.147547,36.049039,-115.147547,36.049039],
+  "bbox": [
+    -115.147547,
+    36.049039,
+    -115.147547,
+    36.049039
+],
   "geometry": {"coordinates":[-115.147547,36.049039],"type":"Point"}
 }

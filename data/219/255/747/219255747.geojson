@@ -2,13 +2,14 @@
   "id": 219255747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766974,39.474955,-119.766974,39.474955",
     "geom:latitude":39.474955,
     "geom:longitude":-119.766974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 Louie Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219255747,
-    "wof:lastmodified":1449072002,
+    "wof:lastmodified":1466702604,
     "wof:name":"Direct Window Coverings",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-119.766974,39.474955,-119.766974,39.474955],
+  "bbox": [
+    -119.766974,
+    39.474955,
+    -119.766974,
+    39.474955
+],
   "geometry": {"coordinates":[-119.766974,39.474955],"type":"Point"}
 }

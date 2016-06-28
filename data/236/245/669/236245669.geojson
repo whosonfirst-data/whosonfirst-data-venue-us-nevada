@@ -2,13 +2,14 @@
   "id": 236245669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744591,39.525653,-119.744591,39.525653",
     "geom:latitude":39.525653,
     "geom:longitude":-119.744591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236245669,
-    "wof:lastmodified":1449005117,
+    "wof:lastmodified":1466704227,
     "wof:name":"Superior Machine",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.744591,39.525653,-119.744591,39.525653],
+  "bbox": [
+    -119.744591,
+    39.525653,
+    -119.744591,
+    39.525653
+],
   "geometry": {"coordinates":[-119.744591,39.525653],"type":"Point"}
 }

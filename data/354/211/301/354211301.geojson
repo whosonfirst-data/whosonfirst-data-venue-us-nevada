@@ -2,13 +2,14 @@
   "id": 354211301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242181,36.180449,-115.242181,36.180449",
     "geom:latitude":36.180449,
     "geom:longitude":-115.242181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Rainbow Boulevard Suite 208",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354211301,
-    "wof:lastmodified":1449066332,
+    "wof:lastmodified":1466705090,
     "wof:name":"Charles Steiner Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.242181,36.180449,-115.242181,36.180449],
+  "bbox": [
+    -115.242181,
+    36.180449,
+    -115.242181,
+    36.180449
+],
   "geometry": {"coordinates":[-115.242181,36.180449],"type":"Point"}
 }

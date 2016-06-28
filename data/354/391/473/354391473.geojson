@@ -2,13 +2,14 @@
   "id": 354391473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110885,36.129797,-115.110885,36.129797",
     "geom:latitude":36.129797,
     "geom:longitude":-115.110885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 E Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354391473,
-    "wof:lastmodified":1449067056,
+    "wof:lastmodified":1466706219,
     "wof:name":"Social Diseases Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-115.110885,36.129797,-115.110885,36.129797],
+  "bbox": [
+    -115.110885,
+    36.129797,
+    -115.110885,
+    36.129797
+],
   "geometry": {"coordinates":[-115.110885,36.129797],"type":"Point"}
 }

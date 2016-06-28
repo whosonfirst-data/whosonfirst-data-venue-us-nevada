@@ -2,13 +2,14 @@
   "id": 370283107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053987,36.196192,-115.053987,36.196192",
     "geom:latitude":36.196192,
     "geom:longitude":-115.053987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5450 E Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370283107,
-    "wof:lastmodified":1449030105,
+    "wof:lastmodified":1466704410,
     "wof:name":"Fa Apartments",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.053987,36.196192,-115.053987,36.196192],
-  "geometry": {"coordinates":[-115.053987,36.196192],"type":"Point"}
+  "bbox": [
+    -115.053987,
+    36.196192,
+    -115.053987,
+    36.196192
+],
+  "geometry": {"coordinates":[-115.05398700000001,36.196192],"type":"Point"}
 }

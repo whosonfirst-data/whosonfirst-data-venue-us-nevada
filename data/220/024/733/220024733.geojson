@@ -2,13 +2,14 @@
   "id": 220024733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087539,36.011021,-115.087539,36.011021",
     "geom:latitude":36.011021,
     "geom:longitude":-115.087539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2238 Alanhurst Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024733,
-    "wof:lastmodified":1449074406,
+    "wof:lastmodified":1466701753,
     "wof:name":"K & N Construction",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.087539,36.011021,-115.087539,36.011021],
-  "geometry": {"coordinates":[-115.087539,36.011021],"type":"Point"}
+  "bbox": [
+    -115.087539,
+    36.011021,
+    -115.087539,
+    36.011021
+],
+  "geometry": {"coordinates":[-115.08753900000001,36.011021],"type":"Point"}
 }

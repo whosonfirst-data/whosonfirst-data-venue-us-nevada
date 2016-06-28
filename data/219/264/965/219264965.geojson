@@ -2,13 +2,14 @@
   "id": 219264965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119435,36.10578,-115.119435,36.10578",
     "geom:latitude":36.10578,
     "geom:longitude":-115.119435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2372 Gabriel Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219264965,
-    "wof:lastmodified":1449072680,
+    "wof:lastmodified":1466702684,
     "wof:name":"Vision House",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.119435,36.10578,-115.119435,36.10578],
+  "bbox": [
+    -115.119435,
+    36.10578,
+    -115.119435,
+    36.10578
+],
   "geometry": {"coordinates":[-115.119435,36.10578],"type":"Point"}
 }

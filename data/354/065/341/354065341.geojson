@@ -2,13 +2,14 @@
   "id": 354065341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149873,36.283188,-115.149873,36.283188",
     "geom:latitude":36.283188,
     "geom:longitude":-115.149873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6770 Cinnabar Coast Ln",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354065341,
-    "wof:lastmodified":1449067660,
+    "wof:lastmodified":1466703182,
     "wof:name":"PC Experts",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.149873,36.283188,-115.149873,36.283188],
+  "bbox": [
+    -115.149873,
+    36.283188,
+    -115.149873,
+    36.283188
+],
   "geometry": {"coordinates":[-115.149873,36.283188],"type":"Point"}
 }

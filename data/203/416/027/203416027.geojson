@@ -2,13 +2,14 @@
   "id": 203416027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128113,36.176154,-115.128113,36.176154",
     "geom:latitude":36.176154,
     "geom:longitude":-115.128113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 N 14th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203416027,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466703381,
     "wof:name":"Construction Clean Up Svcs",
     "wof:parent_id":85896897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.128113,36.176154,-115.128113,36.176154],
+  "bbox": [
+    -115.128113,
+    36.176154,
+    -115.128113,
+    36.176154
+],
   "geometry": {"coordinates":[-115.128113,36.176154],"type":"Point"}
 }

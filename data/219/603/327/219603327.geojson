@@ -2,13 +2,14 @@
   "id": 219603327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762914,39.510347,-119.762914,39.510347",
     "geom:latitude":39.510347,
     "geom:longitude":-119.762914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 S Rock Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219603327,
-    "wof:lastmodified":1449073360,
+    "wof:lastmodified":1466702971,
     "wof:name":"Arger Enterprises Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.762914,39.510347,-119.762914,39.510347],
-  "geometry": {"coordinates":[-119.762914,39.510347],"type":"Point"}
+  "bbox": [
+    -119.762914,
+    39.510347,
+    -119.762914,
+    39.510347
+],
+  "geometry": {"coordinates":[-119.76291399999999,39.510347],"type":"Point"}
 }

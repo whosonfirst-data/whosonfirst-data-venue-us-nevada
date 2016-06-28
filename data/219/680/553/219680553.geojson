@@ -2,13 +2,14 @@
   "id": 219680553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203971,36.114608,-115.203971,36.114608",
     "geom:latitude":36.114608,
     "geom:longitude":-115.203971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4152 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219680553,
-    "wof:lastmodified":1449072865,
+    "wof:lastmodified":1466704341,
     "wof:name":"Quality Food Distributor",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.203971,36.114608,-115.203971,36.114608],
+  "bbox": [
+    -115.203971,
+    36.114608,
+    -115.203971,
+    36.114608
+],
   "geometry": {"coordinates":[-115.203971,36.114608],"type":"Point"}
 }

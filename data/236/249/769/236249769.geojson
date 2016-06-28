@@ -2,13 +2,14 @@
   "id": 236249769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.529143,38.742255,-119.529143,38.742255",
     "geom:latitude":38.742255,
     "geom:longitude":-119.529143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 Slate Rd",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236249769,
-    "wof:lastmodified":1449001805,
+    "wof:lastmodified":1466704395,
     "wof:name":"RPM Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-119.529143,38.742255,-119.529143,38.742255],
+  "bbox": [
+    -119.529143,
+    38.742255,
+    -119.529143,
+    38.742255
+],
   "geometry": {"coordinates":[-119.529143,38.742255],"type":"Point"}
 }

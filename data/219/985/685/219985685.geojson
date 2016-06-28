@@ -2,13 +2,14 @@
   "id": 219985685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187786,36.101673,-115.187786,36.101673",
     "geom:latitude":36.101673,
     "geom:longitude":-115.187786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219985685,
-    "wof:lastmodified":1449072137,
+    "wof:lastmodified":1466706119,
     "wof:name":"A-1 Chemical Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-115.187786,36.101673,-115.187786,36.101673],
+  "bbox": [
+    -115.187786,
+    36.101673,
+    -115.187786,
+    36.101673
+],
   "geometry": {"coordinates":[-115.187786,36.101673],"type":"Point"}
 }

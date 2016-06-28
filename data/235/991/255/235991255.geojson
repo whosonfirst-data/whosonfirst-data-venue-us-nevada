@@ -2,13 +2,14 @@
   "id": 235991255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187765,36.105713,-115.187765,36.105713",
     "geom:latitude":36.105713,
     "geom:longitude":-115.187765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235991255,
-    "wof:lastmodified":1449008359,
+    "wof:lastmodified":1466703708,
     "wof:name":"Arcs & Arches",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-115.187765,36.105713,-115.187765,36.105713],
+  "bbox": [
+    -115.187765,
+    36.105713,
+    -115.187765,
+    36.105713
+],
   "geometry": {"coordinates":[-115.187765,36.105713],"type":"Point"}
 }

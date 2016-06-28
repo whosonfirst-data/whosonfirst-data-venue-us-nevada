@@ -2,13 +2,14 @@
   "id": 203304027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.020021,36.279206,-115.020021,36.279206",
     "geom:latitude":36.279206,
     "geom:longitude":-115.020021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6985 Speedway Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203304027,
-    "wof:lastmodified":1449026372,
+    "wof:lastmodified":1466702880,
     "wof:name":"Event Solution Intl",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-115.020021,36.279206,-115.020021,36.279206],
+  "bbox": [
+    -115.020021,
+    36.279206,
+    -115.020021,
+    36.279206
+],
   "geometry": {"coordinates":[-115.020021,36.279206],"type":"Point"}
 }

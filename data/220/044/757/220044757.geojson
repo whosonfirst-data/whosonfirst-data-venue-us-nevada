@@ -2,13 +2,14 @@
   "id": 220044757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19288,36.12532,-115.19288,36.12532",
     "geom:latitude":36.12532,
     "geom:longitude":-115.19288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3934 Vanessa Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220044757,
-    "wof:lastmodified":1449074456,
+    "wof:lastmodified":1466701939,
     "wof:name":"Pyramid Screen Printing Svc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-115.19288,36.12532,-115.19288,36.12532],
+  "bbox": [
+    -115.19288,
+    36.12532,
+    -115.19288,
+    36.12532
+],
   "geometry": {"coordinates":[-115.19288,36.12532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219159853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101694,36.129772,-115.101694,36.129772",
     "geom:latitude":36.129772,
     "geom:longitude":-115.101694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219159853,
-    "wof:lastmodified":1449070813,
+    "wof:lastmodified":1466701570,
     "wof:name":"Loan Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.101694,36.129772,-115.101694,36.129772],
-  "geometry": {"coordinates":[-115.101694,36.129772],"type":"Point"}
+  "bbox": [
+    -115.101694,
+    36.129772,
+    -115.101694,
+    36.129772
+],
+  "geometry": {"coordinates":[-115.10169399999999,36.129772],"type":"Point"}
 }

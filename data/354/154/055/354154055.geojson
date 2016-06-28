@@ -2,13 +2,14 @@
   "id": 354154055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232117,36.115045,-115.232117,36.115045",
     "geom:latitude":36.115045,
     "geom:longitude":-115.232117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6370 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354154055,
-    "wof:lastmodified":1449067682,
+    "wof:lastmodified":1466704837,
     "wof:name":"Locks Vegas",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.232117,36.115045,-115.232117,36.115045],
+  "bbox": [
+    -115.232117,
+    36.115045,
+    -115.232117,
+    36.115045
+],
   "geometry": {"coordinates":[-115.232117,36.115045],"type":"Point"}
 }

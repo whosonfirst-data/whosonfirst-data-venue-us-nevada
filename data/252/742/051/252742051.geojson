@@ -2,13 +2,14 @@
   "id": 252742051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272803,36.133754,-115.272803,36.133754",
     "geom:latitude":36.133754,
     "geom:longitude":-115.272803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8296 Palace Heights Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252742051,
-    "wof:lastmodified":1449005484,
+    "wof:lastmodified":1466702169,
     "wof:name":"A & T Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-115.272803,36.133754,-115.272803,36.133754],
+  "bbox": [
+    -115.272803,
+    36.133754,
+    -115.272803,
+    36.133754
+],
   "geometry": {"coordinates":[-115.272803,36.133754],"type":"Point"}
 }

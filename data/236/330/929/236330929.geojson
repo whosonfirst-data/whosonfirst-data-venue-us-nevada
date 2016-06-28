@@ -2,13 +2,14 @@
   "id": 236330929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818946,39.56956,-119.818946,39.56956",
     "geom:latitude":39.56956,
     "geom:longitude":-119.818946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Parr Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236330929,
-    "wof:lastmodified":1449003266,
+    "wof:lastmodified":1466704795,
     "wof:name":"Reno Iron Works Co",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-119.818946,39.56956,-119.818946,39.56956],
+  "bbox": [
+    -119.818946,
+    39.56956,
+    -119.818946,
+    39.56956
+],
   "geometry": {"coordinates":[-119.818946,39.56956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219389935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149267,36.143705,-115.149267,36.143705",
     "geom:latitude":36.143705,
     "geom:longitude":-115.149267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219389935,
-    "wof:lastmodified":1449073217,
+    "wof:lastmodified":1466703575,
     "wof:name":"Nevada Air Conditioning",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.149267,36.143705,-115.149267,36.143705],
-  "geometry": {"coordinates":[-115.149267,36.143705],"type":"Point"}
+  "bbox": [
+    -115.149267,
+    36.143705,
+    -115.149267,
+    36.143705
+],
+  "geometry": {"coordinates":[-115.14926699999999,36.143705],"type":"Point"}
 }

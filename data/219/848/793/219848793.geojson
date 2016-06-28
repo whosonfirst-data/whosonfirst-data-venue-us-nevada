@@ -2,13 +2,14 @@
   "id": 219848793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816949,39.534003,-119.816949,39.534003",
     "geom:latitude":39.534003,
     "geom:longitude":-119.816949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219848793,
-    "wof:lastmodified":1449070893,
+    "wof:lastmodified":1466705223,
     "wof:name":"Foster Shell",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-119.816949,39.534003,-119.816949,39.534003],
-  "geometry": {"coordinates":[-119.816949,39.534003],"type":"Point"}
+  "bbox": [
+    -119.816949,
+    39.534003,
+    -119.816949,
+    39.534003
+],
+  "geometry": {"coordinates":[-119.81694899999999,39.534003],"type":"Point"}
 }

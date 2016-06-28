@@ -2,13 +2,14 @@
   "id": 236964253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200872,35.99366,-115.200872,35.99366",
     "geom:latitude":35.99366,
     "geom:longitude":-115.200872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4432 Villa Toscano Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236964253,
-    "wof:lastmodified":1449004267,
+    "wof:lastmodified":1466706945,
     "wof:name":"Itravelbz",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accommodation"
     ]
 },
-  "bbox": [-115.200872,35.99366,-115.200872,35.99366],
+  "bbox": [
+    -115.200872,
+    35.99366,
+    -115.200872,
+    35.99366
+],
   "geometry": {"coordinates":[-115.200872,35.99366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219657461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752668,39.163473,-119.752668,39.163473",
     "geom:latitude":39.163473,
     "geom:longitude":-119.752668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Goldfield Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219657461,
-    "wof:lastmodified":1449070782,
+    "wof:lastmodified":1466703952,
     "wof:name":"Dreamware Company Ltd",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dream"
     ]
 },
-  "bbox": [-119.752668,39.163473,-119.752668,39.163473],
+  "bbox": [
+    -119.752668,
+    39.163473,
+    -119.752668,
+    39.163473
+],
   "geometry": {"coordinates":[-119.752668,39.163473],"type":"Point"}
 }

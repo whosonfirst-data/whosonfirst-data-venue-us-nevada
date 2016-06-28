@@ -2,13 +2,14 @@
   "id": 220081937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055277,36.073474,-115.055277,36.073474",
     "geom:latitude":36.073474,
     "geom:longitude":-115.055277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Roughrider Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220081937,
-    "wof:lastmodified":1449074268,
+    "wof:lastmodified":1466702280,
     "wof:name":"Triad Publishing",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-115.055277,36.073474,-115.055277,36.073474],
+  "bbox": [
+    -115.055277,
+    36.073474,
+    -115.055277,
+    36.073474
+],
   "geometry": {"coordinates":[-115.055277,36.073474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220125547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754115,38.894905,-119.754115,38.894905",
     "geom:latitude":38.894905,
     "geom:longitude":-119.754115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 Kimmerling Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220125547,
-    "wof:lastmodified":1449074845,
+    "wof:lastmodified":1466702563,
     "wof:name":"A Better Deal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-119.754115,38.894905,-119.754115,38.894905],
+  "bbox": [
+    -119.754115,
+    38.894905,
+    -119.754115,
+    38.894905
+],
   "geometry": {"coordinates":[-119.754115,38.894905],"type":"Point"}
 }

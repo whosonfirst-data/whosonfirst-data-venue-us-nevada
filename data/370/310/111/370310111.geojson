@@ -2,13 +2,14 @@
   "id": 370310111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765834,39.537801,-119.765834,39.537801",
     "geom:latitude":39.537801,
     "geom:longitude":-119.765834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370310111,
-    "wof:lastmodified":1449031174,
+    "wof:lastmodified":1466704664,
     "wof:name":"Kragen O'Reilly Auto Parts",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.765834,39.537801,-119.765834,39.537801],
+  "bbox": [
+    -119.765834,
+    39.537801,
+    -119.765834,
+    39.537801
+],
   "geometry": {"coordinates":[-119.765834,39.537801],"type":"Point"}
 }

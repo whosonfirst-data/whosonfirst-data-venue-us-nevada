@@ -2,13 +2,14 @@
   "id": 236179357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259649,36.243171,-115.259649,36.243171",
     "geom:latitude":36.243171,
     "geom:longitude":-115.259649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Cathedral Canyon Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236179357,
-    "wof:lastmodified":1449004839,
+    "wof:lastmodified":1466703174,
     "wof:name":"Network System Solutions",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reseller"
     ]
 },
-  "bbox": [-115.259649,36.243171,-115.259649,36.243171],
+  "bbox": [
+    -115.259649,
+    36.243171,
+    -115.259649,
+    36.243171
+],
   "geometry": {"coordinates":[-115.259649,36.243171],"type":"Point"}
 }

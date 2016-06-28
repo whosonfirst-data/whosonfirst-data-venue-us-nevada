@@ -2,13 +2,14 @@
   "id": 337300687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774218,39.498577,-119.774218,39.498577",
     "geom:latitude":39.498577,
     "geom:longitude":-119.774218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 National Guard Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337300687,
-    "wof:lastmodified":1449027408,
+    "wof:lastmodified":1466701739,
     "wof:name":"National Car Rental System",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-119.774218,39.498577,-119.774218,39.498577],
+  "bbox": [
+    -119.774218,
+    39.498577,
+    -119.774218,
+    39.498577
+],
   "geometry": {"coordinates":[-119.774218,39.498577],"type":"Point"}
 }

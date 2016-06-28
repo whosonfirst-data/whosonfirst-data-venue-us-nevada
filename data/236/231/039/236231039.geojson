@@ -2,13 +2,14 @@
   "id": 236231039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076796,36.028194,-115.076796,36.028194",
     "geom:latitude":36.028194,
     "geom:longitude":-115.076796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Majestic Peak Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236231039,
-    "wof:lastmodified":1449003319,
+    "wof:lastmodified":1466704194,
     "wof:name":"Movement Unlimited",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-115.076796,36.028194,-115.076796,36.028194],
+  "bbox": [
+    -115.076796,
+    36.028194,
+    -115.076796,
+    36.028194
+],
   "geometry": {"coordinates":[-115.076796,36.028194],"type":"Point"}
 }

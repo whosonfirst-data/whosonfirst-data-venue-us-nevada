@@ -2,13 +2,14 @@
   "id": 236516775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809327,39.491272,-119.809327,39.491272",
     "geom:latitude":39.491272,
     "geom:longitude":-119.809327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236516775,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466705904,
     "wof:name":"Dental Innovations",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.809327,39.491272,-119.809327,39.491272],
+  "bbox": [
+    -119.809327,
+    39.491272,
+    -119.809327,
+    39.491272
+],
   "geometry": {"coordinates":[-119.809327,39.491272],"type":"Point"}
 }

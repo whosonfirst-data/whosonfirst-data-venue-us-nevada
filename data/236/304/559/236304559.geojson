@@ -2,13 +2,14 @@
   "id": 236304559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.977432,36.032106,-114.977432,36.032106",
     "geom:latitude":36.032106,
     "geom:longitude":-114.977432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Nebraska Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236304559,
-    "wof:lastmodified":1449004232,
+    "wof:lastmodified":1466704725,
     "wof:name":"Bartletts Gem Shop",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.977432,36.032106,-114.977432,36.032106],
-  "geometry": {"coordinates":[-114.977432,36.032106],"type":"Point"}
+  "bbox": [
+    -114.977432,
+    36.032106,
+    -114.977432,
+    36.032106
+],
+  "geometry": {"coordinates":[-114.97743199999999,36.032106],"type":"Point"}
 }

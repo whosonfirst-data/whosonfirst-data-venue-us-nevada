@@ -2,13 +2,14 @@
   "id": 203350755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.99443,36.22117,-115.99443,36.22117",
     "geom:latitude":36.22117,
     "geom:longitude":-115.99443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Frontage Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203350755,
-    "wof:lastmodified":1449025894,
+    "wof:lastmodified":1466703146,
     "wof:name":"Community Dish LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-115.99443,36.22117,-115.99443,36.22117],
-  "geometry": {"coordinates":[-115.99443,36.22117],"type":"Point"}
+  "bbox": [
+    -115.99443,
+    36.22117,
+    -115.99443,
+    36.22117
+],
+  "geometry": {"coordinates":[-115.99442999999999,36.22117],"type":"Point"}
 }

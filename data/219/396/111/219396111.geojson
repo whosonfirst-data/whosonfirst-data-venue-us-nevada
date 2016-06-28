@@ -2,13 +2,14 @@
   "id": 219396111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799894,39.561348,-119.799894,39.561348",
     "geom:latitude":39.561348,
     "geom:longitude":-119.799894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Gamay Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219396111,
-    "wof:lastmodified":1449072702,
+    "wof:lastmodified":1466703607,
     "wof:name":"Joseph J Staab General Bus",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-119.799894,39.561348,-119.799894,39.561348],
-  "geometry": {"coordinates":[-119.799894,39.561348],"type":"Point"}
+  "bbox": [
+    -119.799894,
+    39.561348,
+    -119.799894,
+    39.561348
+],
+  "geometry": {"coordinates":[-119.79989399999999,39.561348],"type":"Point"}
 }

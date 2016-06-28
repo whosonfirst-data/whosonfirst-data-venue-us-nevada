@@ -2,13 +2,14 @@
   "id": 219931471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.867911,39.335439,-119.867911,39.335439",
     "geom:latitude":39.335439,
     "geom:longitude":-119.867911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21130 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219931471,
-    "wof:lastmodified":1449073603,
+    "wof:lastmodified":1466705815,
     "wof:name":"Reno Sky Tavern Ski Lodge",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-119.867911,39.335439,-119.867911,39.335439],
-  "geometry": {"coordinates":[-119.867911,39.335439],"type":"Point"}
+  "bbox": [
+    -119.867911,
+    39.335439,
+    -119.867911,
+    39.335439
+],
+  "geometry": {"coordinates":[-119.86791100000001,39.335439],"type":"Point"}
 }

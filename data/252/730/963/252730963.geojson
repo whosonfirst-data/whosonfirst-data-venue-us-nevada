@@ -2,13 +2,14 @@
   "id": 252730963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763579,39.130372,-119.763579,39.130372",
     "geom:latitude":39.130372,
     "geom:longitude":-119.763579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4070 Silver Sage Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252730963,
-    "wof:lastmodified":1449006345,
+    "wof:lastmodified":1466701942,
     "wof:name":"Commission On Substance Abuse",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-119.763579,39.130372,-119.763579,39.130372],
-  "geometry": {"coordinates":[-119.763579,39.130372],"type":"Point"}
+  "bbox": [
+    -119.763579,
+    39.130372,
+    -119.763579,
+    39.130372
+],
+  "geometry": {"coordinates":[-119.76357899999999,39.130372],"type":"Point"}
 }

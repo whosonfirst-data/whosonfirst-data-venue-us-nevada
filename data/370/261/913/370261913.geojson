@@ -2,13 +2,14 @@
   "id": 370261913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288168,36.116146,-115.288168,36.116146",
     "geom:latitude":36.116146,
     "geom:longitude":-115.288168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 S El Capitan Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370261913,
-    "wof:lastmodified":1449029122,
+    "wof:lastmodified":1466703983,
     "wof:name":"Mortgage Mart",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.288168,36.116146,-115.288168,36.116146],
+  "bbox": [
+    -115.288168,
+    36.116146,
+    -115.288168,
+    36.116146
+],
   "geometry": {"coordinates":[-115.288168,36.116146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236261633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213914,36.02432,-115.213914,36.02432",
     "geom:latitude":36.02432,
     "geom:longitude":-115.213914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5360 W Agate Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236261633,
-    "wof:lastmodified":1449001720,
+    "wof:lastmodified":1466704453,
     "wof:name":"Sailor Productions",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.213914,36.02432,-115.213914,36.02432],
+  "bbox": [
+    -115.213914,
+    36.02432,
+    -115.213914,
+    36.02432
+],
   "geometry": {"coordinates":[-115.213914,36.02432],"type":"Point"}
 }

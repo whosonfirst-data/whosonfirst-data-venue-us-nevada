@@ -2,13 +2,14 @@
   "id": 219551785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.986789,36.036936,-114.986789,36.036936",
     "geom:latitude":36.036936,
     "geom:longitude":-114.986789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219551785,
-    "wof:lastmodified":1449071105,
+    "wof:lastmodified":1466702263,
     "wof:name":"All Hands Therapeutic Massage",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-114.986789,36.036936,-114.986789,36.036936],
+  "bbox": [
+    -114.986789,
+    36.036936,
+    -114.986789,
+    36.036936
+],
   "geometry": {"coordinates":[-114.986789,36.036936],"type":"Point"}
 }

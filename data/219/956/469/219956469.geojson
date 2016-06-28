@@ -2,13 +2,14 @@
   "id": 219956469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11136,35.9426,-115.11136,35.9426",
     "geom:latitude":35.9426,
     "geom:longitude":-115.11136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Schaeffer Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219956469,
-    "wof:lastmodified":1449070993,
+    "wof:lastmodified":1466705848,
     "wof:name":"Archuleta Trujillo & Associate",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-115.11136,35.9426,-115.11136,35.9426],
+  "bbox": [
+    -115.11136,
+    35.9426,
+    -115.11136,
+    35.9426
+],
   "geometry": {"coordinates":[-115.11136,35.9426],"type":"Point"}
 }

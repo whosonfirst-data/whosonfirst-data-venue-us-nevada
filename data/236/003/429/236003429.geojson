@@ -2,13 +2,14 @@
   "id": 236003429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751021,39.158955,-119.751021,39.158955",
     "geom:latitude":39.158955,
     "geom:longitude":-119.751021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 S Saliman Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236003429,
-    "wof:lastmodified":1449004941,
+    "wof:lastmodified":1466703780,
     "wof:name":"Saliman Manor Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.751021,39.158955,-119.751021,39.158955],
-  "geometry": {"coordinates":[-119.751021,39.158955],"type":"Point"}
+  "bbox": [
+    -119.751021,
+    39.158955,
+    -119.751021,
+    39.158955
+],
+  "geometry": {"coordinates":[-119.75102099999999,39.158955],"type":"Point"}
 }

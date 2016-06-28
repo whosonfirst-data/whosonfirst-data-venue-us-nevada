@@ -2,13 +2,14 @@
   "id": 236064985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107448,36.136971,-115.107448,36.136971",
     "geom:latitude":36.136971,
     "geom:longitude":-115.107448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Vegas Valley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236064985,
-    "wof:lastmodified":1449002679,
+    "wof:lastmodified":1466704009,
     "wof:name":"2 Guys",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-115.107448,36.136971,-115.107448,36.136971],
-  "geometry": {"coordinates":[-115.107448,36.136971],"type":"Point"}
+  "bbox": [
+    -115.107448,
+    36.136971,
+    -115.107448,
+    36.136971
+],
+  "geometry": {"coordinates":[-115.10744800000001,36.136971],"type":"Point"}
 }

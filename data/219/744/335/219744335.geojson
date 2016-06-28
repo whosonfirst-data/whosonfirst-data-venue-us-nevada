@@ -2,13 +2,14 @@
   "id": 219744335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750906,39.170418,-119.750906,39.170418",
     "geom:latitude":39.170418,
     "geom:longitude":-119.750906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Saliman Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219744335,
-    "wof:lastmodified":1449071665,
+    "wof:lastmodified":1466704853,
     "wof:name":"Us Navy Junior Rotc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-119.750906,39.170418,-119.750906,39.170418],
+  "bbox": [
+    -119.750906,
+    39.170418,
+    -119.750906,
+    39.170418
+],
   "geometry": {"coordinates":[-119.750906,39.170418],"type":"Point"}
 }

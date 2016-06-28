@@ -2,13 +2,14 @@
   "id": 354166849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153714,36.148787,-115.153714,36.148787",
     "geom:latitude":36.148787,
     "geom:longitude":-115.153714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354166849,
-    "wof:lastmodified":1449066901,
+    "wof:lastmodified":1466704930,
     "wof:name":"Gamblers Hide Away",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.153714,36.148787,-115.153714,36.148787],
-  "geometry": {"coordinates":[-115.153714,36.148787],"type":"Point"}
+  "bbox": [
+    -115.153714,
+    36.148787,
+    -115.153714,
+    36.148787
+],
+  "geometry": {"coordinates":[-115.15371399999999,36.148787],"type":"Point"}
 }

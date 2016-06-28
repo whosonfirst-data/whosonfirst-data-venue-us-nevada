@@ -2,13 +2,14 @@
   "id": 236091683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214471,36.237576,-115.214471,36.237576",
     "geom:latitude":36.237576,
     "geom:longitude":-115.214471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Patricia Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236091683,
-    "wof:lastmodified":1449001921,
+    "wof:lastmodified":1466704153,
     "wof:name":"Haner Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.214471,36.237576,-115.214471,36.237576],
+  "bbox": [
+    -115.214471,
+    36.237576,
+    -115.214471,
+    36.237576
+],
   "geometry": {"coordinates":[-115.214471,36.237576],"type":"Point"}
 }

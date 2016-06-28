@@ -2,13 +2,14 @@
   "id": 235937541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298014,36.224143,-115.298014,36.224143",
     "geom:latitude":36.224143,
     "geom:longitude":-115.298014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3437 Golden Pedal St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235937541,
-    "wof:lastmodified":1449008323,
+    "wof:lastmodified":1466703462,
     "wof:name":"Working Project Inc",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.298014,36.224143,-115.298014,36.224143],
-  "geometry": {"coordinates":[-115.298014,36.224143],"type":"Point"}
+  "bbox": [
+    -115.298014,
+    36.224143,
+    -115.298014,
+    36.224143
+],
+  "geometry": {"coordinates":[-115.29801399999999,36.224143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236837113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.784892,39.474728,-118.784892,39.474728",
     "geom:latitude":39.474728,
     "geom:longitude":-118.784892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236837113,
-    "wof:lastmodified":1449002062,
+    "wof:lastmodified":1466706707,
     "wof:name":"Robert S Quam DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.784892,39.474728,-118.784892,39.474728],
+  "bbox": [
+    -118.784892,
+    39.474728,
+    -118.784892,
+    39.474728
+],
   "geometry": {"coordinates":[-118.784892,39.474728],"type":"Point"}
 }

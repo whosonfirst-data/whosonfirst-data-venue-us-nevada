@@ -2,13 +2,14 @@
   "id": 203198881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.73901,40.853343,-115.73901,40.853343",
     "geom:latitude":40.853343,
     "geom:longitude":-115.73901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 30th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203198881,
-    "wof:lastmodified":1449025602,
+    "wof:lastmodified":1466702042,
     "wof:name":"Ifa",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.73901,40.853343,-115.73901,40.853343],
-  "geometry": {"coordinates":[-115.73901,40.853343],"type":"Point"}
+  "bbox": [
+    -115.73901,
+    40.853343,
+    -115.73901,
+    40.853343
+],
+  "geometry": {"coordinates":[-115.73900999999999,40.853343],"type":"Point"}
 }

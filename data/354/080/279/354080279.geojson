@@ -2,13 +2,14 @@
   "id": 354080279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135536,36.163949,-115.135536,36.163949",
     "geom:latitude":36.163949,
     "geom:longitude":-115.135536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S 11th Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354080279,
-    "wof:lastmodified":1449067638,
+    "wof:lastmodified":1466703598,
     "wof:name":"Bryan Construction",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.135536,36.163949,-115.135536,36.163949],
+  "bbox": [
+    -115.135536,
+    36.163949,
+    -115.135536,
+    36.163949
+],
   "geometry": {"coordinates":[-115.135536,36.163949],"type":"Point"}
 }

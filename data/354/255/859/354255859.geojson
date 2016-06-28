@@ -2,13 +2,14 @@
   "id": 354255859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170823,36.122994,-115.170823,36.122994",
     "geom:latitude":36.122994,
     "geom:longitude":-115.170823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Palazzo 3327 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354255859,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466705261,
     "wof:name":"I Love Burgers",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "new"
     ]
 },
-  "bbox": [-115.170823,36.122994,-115.170823,36.122994],
+  "bbox": [
+    -115.170823,
+    36.122994,
+    -115.170823,
+    36.122994
+],
   "geometry": {"coordinates":[-115.170823,36.122994],"type":"Point"}
 }

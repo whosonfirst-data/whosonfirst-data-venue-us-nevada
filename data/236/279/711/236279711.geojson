@@ -2,13 +2,14 @@
   "id": 236279711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.727674,39.521434,-119.727674,39.521434",
     "geom:latitude":39.521434,
     "geom:longitude":-119.727674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"984 E Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236279711,
-    "wof:lastmodified":1449003113,
+    "wof:lastmodified":1466704691,
     "wof:name":"Cmd Products",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-119.727674,39.521434,-119.727674,39.521434],
-  "geometry": {"coordinates":[-119.727674,39.521434],"type":"Point"}
+  "bbox": [
+    -119.727674,
+    39.521434,
+    -119.727674,
+    39.521434
+],
+  "geometry": {"coordinates":[-119.72767399999999,39.521434],"type":"Point"}
 }

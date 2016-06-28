@@ -2,13 +2,14 @@
   "id": 236160209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.880539,39.497944,-119.880539,39.497944",
     "geom:latitude":39.497944,
     "geom:longitude":-119.880539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4390 Bridle Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236160209,
-    "wof:lastmodified":1449004621,
+    "wof:lastmodified":1466702779,
     "wof:name":"Educational Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "strip"
     ]
 },
-  "bbox": [-119.880539,39.497944,-119.880539,39.497944],
+  "bbox": [
+    -119.880539,
+    39.497944,
+    -119.880539,
+    39.497944
+],
   "geometry": {"coordinates":[-119.880539,39.497944],"type":"Point"}
 }

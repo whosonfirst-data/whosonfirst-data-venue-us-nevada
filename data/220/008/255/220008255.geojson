@@ -2,13 +2,14 @@
   "id": 220008255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741414,39.204506,-119.741414,39.204506",
     "geom:latitude":39.204506,
     "geom:longitude":-119.741414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Conestoga Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220008255,
-    "wof:lastmodified":1449074274,
+    "wof:lastmodified":1466701502,
     "wof:name":"American Buildings Company",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "pres"
     ]
 },
-  "bbox": [-119.741414,39.204506,-119.741414,39.204506],
-  "geometry": {"coordinates":[-119.741414,39.204506],"type":"Point"}
+  "bbox": [
+    -119.741414,
+    39.204506,
+    -119.741414,
+    39.204506
+],
+  "geometry": {"coordinates":[-119.74141400000001,39.204506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236848125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088885,36.02761,-115.088885,36.02761",
     "geom:latitude":36.02761,
     "geom:longitude":-115.088885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Corporate Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236848125,
-    "wof:lastmodified":1449002025,
+    "wof:lastmodified":1466706724,
     "wof:name":"Adventure Studios",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-115.088885,36.02761,-115.088885,36.02761],
+  "bbox": [
+    -115.088885,
+    36.02761,
+    -115.088885,
+    36.02761
+],
   "geometry": {"coordinates":[-115.088885,36.02761],"type":"Point"}
 }

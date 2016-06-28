@@ -2,13 +2,14 @@
   "id": 236870021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.993012,36.023514,-114.993012,36.023514",
     "geom:latitude":36.023514,
     "geom:longitude":-114.993012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 W Rochell Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236870021,
-    "wof:lastmodified":1449002331,
+    "wof:lastmodified":1466706765,
     "wof:name":"Fire & Safety Technicians",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-114.993012,36.023514,-114.993012,36.023514],
-  "geometry": {"coordinates":[-114.993012,36.023514],"type":"Point"}
+  "bbox": [
+    -114.993012,
+    36.023514,
+    -114.993012,
+    36.023514
+],
+  "geometry": {"coordinates":[-114.99301199999999,36.023514],"type":"Point"}
 }

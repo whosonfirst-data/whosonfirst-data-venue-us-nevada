@@ -2,13 +2,14 @@
   "id": 219838197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175982,36.133006,-115.175982,36.133006",
     "geom:latitude":36.133006,
     "geom:longitude":-115.175982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3051 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219838197,
-    "wof:lastmodified":1449070821,
+    "wof:lastmodified":1466705171,
     "wof:name":"Climate Technology",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.175982,36.133006,-115.175982,36.133006],
+  "bbox": [
+    -115.175982,
+    36.133006,
+    -115.175982,
+    36.133006
+],
   "geometry": {"coordinates":[-115.175982,36.133006],"type":"Point"}
 }

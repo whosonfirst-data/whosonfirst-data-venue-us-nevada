@@ -2,13 +2,14 @@
   "id": 236926525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266004,36.198498,-115.266004,36.198498",
     "geom:latitude":36.198498,
     "geom:longitude":-115.266004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7828 Magnolia Glen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236926525,
-    "wof:lastmodified":1449002668,
+    "wof:lastmodified":1466706917,
     "wof:name":"Forever Young Weddings",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.266004,36.198498,-115.266004,36.198498],
+  "bbox": [
+    -115.266004,
+    36.198498,
+    -115.266004,
+    36.198498
+],
   "geometry": {"coordinates":[-115.266004,36.198498],"type":"Point"}
 }

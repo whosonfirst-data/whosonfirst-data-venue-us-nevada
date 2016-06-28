@@ -2,13 +2,14 @@
   "id": 252717797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.291985,36.110242,-115.291985,36.110242",
     "geom:latitude":36.110242,
     "geom:longitude":-115.291985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Summers Shade St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252717797,
-    "wof:lastmodified":1449005428,
+    "wof:lastmodified":1466701684,
     "wof:name":"Kelley Pool Repair",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.291985,36.110242,-115.291985,36.110242],
+  "bbox": [
+    -115.291985,
+    36.110242,
+    -115.291985,
+    36.110242
+],
   "geometry": {"coordinates":[-115.291985,36.110242],"type":"Point"}
 }

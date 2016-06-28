@@ -2,13 +2,14 @@
   "id": 236813861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.002558,36.035083,-115.002558,36.035083",
     "geom:latitude":36.035083,
     "geom:longitude":-115.002558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236813861,
-    "wof:lastmodified":1449002318,
+    "wof:lastmodified":1466706568,
     "wof:name":"Wasatch Mobile Modular",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-115.002558,36.035083,-115.002558,36.035083],
-  "geometry": {"coordinates":[-115.002558,36.035083],"type":"Point"}
+  "bbox": [
+    -115.002558,
+    36.035083,
+    -115.002558,
+    36.035083
+],
+  "geometry": {"coordinates":[-115.00255799999999,36.035083],"type":"Point"}
 }

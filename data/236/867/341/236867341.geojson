@@ -2,13 +2,14 @@
   "id": 236867341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766817,39.525693,-119.766817,39.525693",
     "geom:latitude":39.525693,
     "geom:longitude":-119.766817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1171 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236867341,
-    "wof:lastmodified":1449003017,
+    "wof:lastmodified":1466706752,
     "wof:name":"Command Labor & Staffing",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-119.766817,39.525693,-119.766817,39.525693],
+  "bbox": [
+    -119.766817,
+    39.525693,
+    -119.766817,
+    39.525693
+],
   "geometry": {"coordinates":[-119.766817,39.525693],"type":"Point"}
 }

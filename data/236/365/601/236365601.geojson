@@ -2,13 +2,14 @@
   "id": 236365601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100583,36.134028,-115.100583,36.134028",
     "geom:latitude":36.134028,
     "geom:longitude":-115.100583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Pecos Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236365601,
-    "wof:lastmodified":1449002075,
+    "wof:lastmodified":1466705166,
     "wof:name":"Randy Pazik",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.100583,36.134028,-115.100583,36.134028],
+  "bbox": [
+    -115.100583,
+    36.134028,
+    -115.100583,
+    36.134028
+],
   "geometry": {"coordinates":[-115.100583,36.134028],"type":"Point"}
 }

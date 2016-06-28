@@ -2,13 +2,14 @@
   "id": 370361643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750576,39.189046,-119.750576,39.189046",
     "geom:latitude":39.189046,
     "geom:longitude":-119.750576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3094 Research Way Ste 61",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370361643,
-    "wof:lastmodified":1449031560,
+    "wof:lastmodified":1466705077,
     "wof:name":"Exyst",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-119.750576,39.189046,-119.750576,39.189046],
+  "bbox": [
+    -119.750576,
+    39.189046,
+    -119.750576,
+    39.189046
+],
   "geometry": {"coordinates":[-119.750576,39.189046],"type":"Point"}
 }

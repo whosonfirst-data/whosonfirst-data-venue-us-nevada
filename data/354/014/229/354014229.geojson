@@ -2,13 +2,14 @@
   "id": 354014229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.94373,36.019326,-114.94373,36.019326",
     "geom:latitude":36.019326,
     "geom:longitude":-114.94373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 Featherwood Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354014229,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466701857,
     "wof:name":"Fire and Safety of Nevada",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-114.94373,36.019326,-114.94373,36.019326],
+  "bbox": [
+    -114.94373,
+    36.019326,
+    -114.94373,
+    36.019326
+],
   "geometry": {"coordinates":[-114.94373,36.019326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203405225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.819528,39.534779,-119.819528,39.534779",
     "geom:latitude":39.534779,
     "geom:longitude":-119.819528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 University Ter",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203405225,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466703337,
     "wof:name":"Tau Kappa Epsilon",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-119.819528,39.534779,-119.819528,39.534779],
-  "geometry": {"coordinates":[-119.819528,39.534779],"type":"Point"}
+  "bbox": [
+    -119.819528,
+    39.534779,
+    -119.819528,
+    39.534779
+],
+  "geometry": {"coordinates":[-119.81952800000001,39.534779],"type":"Point"}
 }

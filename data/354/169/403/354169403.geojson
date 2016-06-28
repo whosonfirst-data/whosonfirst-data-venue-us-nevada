@@ -2,13 +2,14 @@
   "id": 354169403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141067,36.143965,-115.141067,36.143965",
     "geom:latitude":36.143965,
     "geom:longitude":-115.141067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354169403,
-    "wof:lastmodified":1449066992,
+    "wof:lastmodified":1466704683,
     "wof:name":"Mijori Restaurant",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.141067,36.143965,-115.141067,36.143965],
-  "geometry": {"coordinates":[-115.141067,36.143965],"type":"Point"}
+  "bbox": [
+    -115.141067,
+    36.143965,
+    -115.141067,
+    36.143965
+],
+  "geometry": {"coordinates":[-115.14106700000001,36.143965],"type":"Point"}
 }

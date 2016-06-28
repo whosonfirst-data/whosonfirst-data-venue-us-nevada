@@ -2,13 +2,14 @@
   "id": 235980299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.886916,39.250192,-114.886916,39.250192",
     "geom:latitude":39.250192,
     "geom:longitude":-114.886916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 11th St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235980299,
-    "wof:lastmodified":1449008301,
+    "wof:lastmodified":1466703657,
     "wof:name":"Bound & Forman Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "highway"
     ]
 },
-  "bbox": [-114.886916,39.250192,-114.886916,39.250192],
+  "bbox": [
+    -114.886916,
+    39.250192,
+    -114.886916,
+    39.250192
+],
   "geometry": {"coordinates":[-114.886916,39.250192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236181895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801892,39.534381,-119.801892,39.534381",
     "geom:latitude":39.534381,
     "geom:longitude":-119.801892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Morrill Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236181895,
-    "wof:lastmodified":1449003718,
+    "wof:lastmodified":1466703221,
     "wof:name":"Perfect Peace Community Church",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.801892,39.534381,-119.801892,39.534381],
+  "bbox": [
+    -119.801892,
+    39.534381,
+    -119.801892,
+    39.534381
+],
   "geometry": {"coordinates":[-119.801892,39.534381],"type":"Point"}
 }

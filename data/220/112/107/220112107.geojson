@@ -2,13 +2,14 @@
   "id": 220112107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156088,36.231371,-115.156088,36.231371",
     "geom:latitude":36.231371,
     "geom:longitude":-115.156088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3922 McGregor Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220112107,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466702461,
     "wof:name":"Vegas Green Landscape & Mntnc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.156088,36.231371,-115.156088,36.231371],
+  "bbox": [
+    -115.156088,
+    36.231371,
+    -115.156088,
+    36.231371
+],
   "geometry": {"coordinates":[-115.156088,36.231371],"type":"Point"}
 }

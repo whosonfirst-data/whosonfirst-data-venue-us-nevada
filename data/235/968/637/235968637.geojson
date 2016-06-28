@@ -2,13 +2,14 @@
   "id": 235968637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.050557,36.273905,-116.050557,36.273905",
     "geom:latitude":36.273905,
     "geom:longitude":-116.050557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3721 N Leslie St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235968637,
-    "wof:lastmodified":1449008295,
+    "wof:lastmodified":1466703605,
     "wof:name":"Wimpy's Storage & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.050557,36.273905,-116.050557,36.273905],
+  "bbox": [
+    -116.050557,
+    36.273905,
+    -116.050557,
+    36.273905
+],
   "geometry": {"coordinates":[-116.050557,36.273905],"type":"Point"}
 }

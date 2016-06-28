@@ -2,13 +2,14 @@
   "id": 354398023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160905,36.048506,-115.160905,36.048506",
     "geom:latitude":36.048506,
     "geom:longitude":-115.160905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7760 La Cienega St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354398023,
-    "wof:lastmodified":1449066061,
+    "wof:lastmodified":1466706143,
     "wof:name":"Knock Knock Holiday Decor",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-115.160905,36.048506,-115.160905,36.048506],
+  "bbox": [
+    -115.160905,
+    36.048506,
+    -115.160905,
+    36.048506
+],
   "geometry": {"coordinates":[-115.160905,36.048506],"type":"Point"}
 }

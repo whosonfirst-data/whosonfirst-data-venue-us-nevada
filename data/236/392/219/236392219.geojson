@@ -2,13 +2,14 @@
   "id": 236392219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082405,36.074088,-115.082405,36.074088",
     "geom:latitude":36.074088,
     "geom:longitude":-115.082405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2895 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236392219,
-    "wof:lastmodified":1449004456,
+    "wof:lastmodified":1466705299,
     "wof:name":"DAngelo",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.082405,36.074088,-115.082405,36.074088],
-  "geometry": {"coordinates":[-115.082405,36.074088],"type":"Point"}
+  "bbox": [
+    -115.082405,
+    36.074088,
+    -115.082405,
+    36.074088
+],
+  "geometry": {"coordinates":[-115.08240499999999,36.074088],"type":"Point"}
 }

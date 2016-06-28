@@ -2,13 +2,14 @@
   "id": 219823433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266725,36.120414,-115.266725,36.120414",
     "geom:latitude":36.120414,
     "geom:longitude":-115.266725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Wild Lily Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219823433,
-    "wof:lastmodified":1449073878,
+    "wof:lastmodified":1466705308,
     "wof:name":"Wee",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [-115.266725,36.120414,-115.266725,36.120414],
-  "geometry": {"coordinates":[-115.266725,36.120414],"type":"Point"}
+  "bbox": [
+    -115.266725,
+    36.120414,
+    -115.266725,
+    36.120414
+],
+  "geometry": {"coordinates":[-115.26672499999999,36.120414],"type":"Point"}
 }

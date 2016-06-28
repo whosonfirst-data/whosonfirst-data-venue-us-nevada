@@ -2,13 +2,14 @@
   "id": 219865485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74054,39.546601,-119.74054,39.546601",
     "geom:latitude":39.546601,
     "geom:longitude":-119.74054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 E M St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219865485,
-    "wof:lastmodified":1449073065,
+    "wof:lastmodified":1466705461,
     "wof:name":"Cpr Lady & Company",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-119.74054,39.546601,-119.74054,39.546601],
+  "bbox": [
+    -119.74054,
+    39.546601,
+    -119.74054,
+    39.546601
+],
   "geometry": {"coordinates":[-119.74054,39.546601],"type":"Point"}
 }

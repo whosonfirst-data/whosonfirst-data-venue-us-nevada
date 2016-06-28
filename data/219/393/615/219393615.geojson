@@ -2,13 +2,14 @@
   "id": 219393615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149393,36.167037,-115.149393,36.167037",
     "geom:latitude":36.167037,
     "geom:longitude":-115.149393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219393615,
-    "wof:lastmodified":1449071502,
+    "wof:lastmodified":1466703604,
     "wof:name":"Aaron's Bail Bonds",
     "wof:parent_id":85866199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-115.149393,36.167037,-115.149393,36.167037],
+  "bbox": [
+    -115.149393,
+    36.167037,
+    -115.149393,
+    36.167037
+],
   "geometry": {"coordinates":[-115.149393,36.167037],"type":"Point"}
 }

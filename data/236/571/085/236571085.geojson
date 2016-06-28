@@ -2,13 +2,14 @@
   "id": 236571085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326557,36.169449,-115.326557,36.169449",
     "geom:latitude":36.169449,
     "geom:longitude":-115.326557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10524 Pine Glen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236571085,
-    "wof:lastmodified":1449003992,
+    "wof:lastmodified":1466706313,
     "wof:name":"Nanooptic Networks",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "administrative"
     ]
 },
-  "bbox": [-115.326557,36.169449,-115.326557,36.169449],
-  "geometry": {"coordinates":[-115.326557,36.169449],"type":"Point"}
+  "bbox": [
+    -115.326557,
+    36.169449,
+    -115.326557,
+    36.169449
+],
+  "geometry": {"coordinates":[-115.32655699999999,36.169449],"type":"Point"}
 }

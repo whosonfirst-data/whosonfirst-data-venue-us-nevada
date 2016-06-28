@@ -2,13 +2,14 @@
   "id": 236539677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.817869,35.972876,-114.817869,35.972876",
     "geom:latitude":35.972876,
     "geom:longitude":-114.817869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Saddle Ln",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236539677,
-    "wof:lastmodified":1449005326,
+    "wof:lastmodified":1466705862,
     "wof:name":"National Marketing Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.817869,35.972876,-114.817869,35.972876],
+  "bbox": [
+    -114.817869,
+    35.972876,
+    -114.817869,
+    35.972876
+],
   "geometry": {"coordinates":[-114.817869,35.972876],"type":"Point"}
 }

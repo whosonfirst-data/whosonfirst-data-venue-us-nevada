@@ -2,13 +2,14 @@
   "id": 219504311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203228,36.165257,-115.203228,36.165257",
     "geom:latitude":36.165257,
     "geom:longitude":-115.203228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Kay Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219504311,
-    "wof:lastmodified":1449071007,
+    "wof:lastmodified":1466704167,
     "wof:name":"Sweethearts Massage",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-115.203228,36.165257,-115.203228,36.165257],
+  "bbox": [
+    -115.203228,
+    36.165257,
+    -115.203228,
+    36.165257
+],
   "geometry": {"coordinates":[-115.203228,36.165257],"type":"Point"}
 }

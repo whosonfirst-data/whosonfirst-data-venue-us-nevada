@@ -2,13 +2,14 @@
   "id": 235974711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15616,36.180908,-115.15616,36.180908",
     "geom:latitude":36.180908,
     "geom:longitude":-115.15616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 W Washington Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235974711,
-    "wof:lastmodified":1449008557,
+    "wof:lastmodified":1466703644,
     "wof:name":"Deborahs Lawn & Janitorial Svc",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.15616,36.180908,-115.15616,36.180908],
+  "bbox": [
+    -115.15616,
+    36.180908,
+    -115.15616,
+    36.180908
+],
   "geometry": {"coordinates":[-115.15616,36.180908],"type":"Point"}
 }

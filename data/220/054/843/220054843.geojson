@@ -2,13 +2,14 @@
   "id": 220054843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150784,36.239492,-115.150784,36.239492",
     "geom:latitude":36.239492,
     "geom:longitude":-115.150784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220054843,
-    "wof:lastmodified":1449074398,
+    "wof:lastmodified":1466702074,
     "wof:name":"Craig Ranch Golf Course",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-115.150784,36.239492,-115.150784,36.239492],
+  "bbox": [
+    -115.150784,
+    36.239492,
+    -115.150784,
+    36.239492
+],
   "geometry": {"coordinates":[-115.150784,36.239492],"type":"Point"}
 }

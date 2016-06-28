@@ -2,13 +2,14 @@
   "id": 370181119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232047,36.237161,-115.232047,36.237161",
     "geom:latitude":36.237161,
     "geom:longitude":-115.232047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4285 North Rancho Drive Suite 160",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370181119,
-    "wof:lastmodified":1449031164,
+    "wof:lastmodified":1466702141,
     "wof:name":"Go To Loan Guru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.232047,36.237161,-115.232047,36.237161],
-  "geometry": {"coordinates":[-115.232047,36.237161],"type":"Point"}
+  "bbox": [
+    -115.232047,
+    36.237161,
+    -115.232047,
+    36.237161
+],
+  "geometry": {"coordinates":[-115.23204699999999,36.237161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220057577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.746003,39.519273,-119.746003,39.519273",
     "geom:latitude":39.519273,
     "geom:longitude":-119.746003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Coney Island Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220057577,
-    "wof:lastmodified":1449074429,
+    "wof:lastmodified":1466702108,
     "wof:name":"Pure N Simple",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.746003,39.519273,-119.746003,39.519273],
+  "bbox": [
+    -119.746003,
+    39.519273,
+    -119.746003,
+    39.519273
+],
   "geometry": {"coordinates":[-119.746003,39.519273],"type":"Point"}
 }

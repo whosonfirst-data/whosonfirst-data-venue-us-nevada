@@ -2,13 +2,14 @@
   "id": 353993127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059436,36.013655,-115.059436,36.013655",
     "geom:latitude":36.013655,
     "geom:longitude":-115.059436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1669 W Horizon Ridge Pkwy Ste 120",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353993127,
-    "wof:lastmodified":1449019392,
+    "wof:lastmodified":1466701671,
     "wof:name":"Anthem Real Estate",
     "wof:parent_id":85878103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.059436,36.013655,-115.059436,36.013655],
-  "geometry": {"coordinates":[-115.059436,36.013655],"type":"Point"}
+  "bbox": [
+    -115.059436,
+    36.013655,
+    -115.059436,
+    36.013655
+],
+  "geometry": {"coordinates":[-115.05943600000001,36.013655],"type":"Point"}
 }

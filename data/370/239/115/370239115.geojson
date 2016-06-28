@@ -2,13 +2,14 @@
   "id": 370239115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224535,36.138851,-115.224535,36.138851",
     "geom:latitude":36.138851,
     "geom:longitude":-115.224535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 S Jones Blvd Ste 205",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370239115,
-    "wof:lastmodified":1449029411,
+    "wof:lastmodified":1466703440,
     "wof:name":"Builders Capital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.224535,36.138851,-115.224535,36.138851],
+  "bbox": [
+    -115.224535,
+    36.138851,
+    -115.224535,
+    36.138851
+],
   "geometry": {"coordinates":[-115.224535,36.138851],"type":"Point"}
 }

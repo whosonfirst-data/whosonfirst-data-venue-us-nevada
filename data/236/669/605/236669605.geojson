@@ -2,13 +2,14 @@
   "id": 236669605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242745,36.22433,-115.242745,36.22433",
     "geom:latitude":36.22433,
     "geom:longitude":-115.242745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6705 Willow River Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236669605,
-    "wof:lastmodified":1449001961,
+    "wof:lastmodified":1466706428,
     "wof:name":"Most Preferred Maintenance",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.242745,36.22433,-115.242745,36.22433],
+  "bbox": [
+    -115.242745,
+    36.22433,
+    -115.242745,
+    36.22433
+],
   "geometry": {"coordinates":[-115.242745,36.22433],"type":"Point"}
 }

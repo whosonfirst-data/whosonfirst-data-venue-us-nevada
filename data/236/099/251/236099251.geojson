@@ -2,13 +2,14 @@
   "id": 236099251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141844,36.144128,-115.141844,36.144128",
     "geom:latitude":36.144128,
     "geom:longitude":-115.141844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236099251,
-    "wof:lastmodified":1449003867,
+    "wof:lastmodified":1466701522,
     "wof:name":"Fit 2 Sweat",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trainer"
     ]
 },
-  "bbox": [-115.141844,36.144128,-115.141844,36.144128],
-  "geometry": {"coordinates":[-115.141844,36.144128],"type":"Point"}
+  "bbox": [
+    -115.141844,
+    36.144128,
+    -115.141844,
+    36.144128
+],
+  "geometry": {"coordinates":[-115.14184400000001,36.144128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203409289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.828606,39.51079,-119.828606,39.51079",
     "geom:latitude":39.51079,
     "geom:longitude":-119.828606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Brown St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203409289,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466703355,
     "wof:name":"L & M Designed Interiors",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.828606,39.51079,-119.828606,39.51079],
-  "geometry": {"coordinates":[-119.828606,39.51079],"type":"Point"}
+  "bbox": [
+    -119.828606,
+    39.51079,
+    -119.828606,
+    39.51079
+],
+  "geometry": {"coordinates":[-119.82860599999999,39.51079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220114365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823582,39.529471,-119.823582,39.529471",
     "geom:latitude":39.529471,
     "geom:longitude":-119.823582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220114365,
-    "wof:lastmodified":1449074374,
+    "wof:lastmodified":1466702481,
     "wof:name":"Nevada Communications Intl",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-119.823582,39.529471,-119.823582,39.529471],
+  "bbox": [
+    -119.823582,
+    39.529471,
+    -119.823582,
+    39.529471
+],
   "geometry": {"coordinates":[-119.823582,39.529471],"type":"Point"}
 }

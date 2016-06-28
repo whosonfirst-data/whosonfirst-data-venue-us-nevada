@@ -2,13 +2,14 @@
   "id": 219673967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.727347,38.928363,-119.727347,38.928363",
     "geom:latitude":38.928363,
     "geom:longitude":-119.727347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219673967,
-    "wof:lastmodified":1449071755,
+    "wof:lastmodified":1466704297,
     "wof:name":"Rhyno Built",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-119.727347,38.928363,-119.727347,38.928363],
-  "geometry": {"coordinates":[-119.727347,38.928363],"type":"Point"}
+  "bbox": [
+    -119.727347,
+    38.928363,
+    -119.727347,
+    38.928363
+],
+  "geometry": {"coordinates":[-119.72734699999999,38.928363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370338573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767478,39.156114,-119.767478,39.156114",
     "geom:latitude":39.156114,
     "geom:longitude":-119.767478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 South Carson Street US 395",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370338573,
-    "wof:lastmodified":1449030273,
+    "wof:lastmodified":1466704958,
     "wof:name":"Super Burrito",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-119.767478,39.156114,-119.767478,39.156114],
+  "bbox": [
+    -119.767478,
+    39.156114,
+    -119.767478,
+    39.156114
+],
   "geometry": {"coordinates":[-119.767478,39.156114],"type":"Point"}
 }

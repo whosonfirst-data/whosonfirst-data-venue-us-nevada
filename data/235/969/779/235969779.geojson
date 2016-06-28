@@ -2,13 +2,14 @@
   "id": 235969779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763175,40.832492,-115.763175,40.832492",
     "geom:latitude":40.832492,
     "geom:longitude":-115.763175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235969779,
-    "wof:lastmodified":1449008334,
+    "wof:lastmodified":1466703612,
     "wof:name":"Money In A Minute",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-115.763175,40.832492,-115.763175,40.832492],
+  "bbox": [
+    -115.763175,
+    40.832492,
+    -115.763175,
+    40.832492
+],
   "geometry": {"coordinates":[-115.763175,40.832492],"type":"Point"}
 }

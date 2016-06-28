@@ -2,13 +2,14 @@
   "id": 220196803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.488519,36.593606,-114.488519,36.593606",
     "geom:latitude":36.593606,
     "geom:longitude":-114.488519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 W Gubler Ave",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220196803,
-    "wof:lastmodified":1449074222,
+    "wof:lastmodified":1466703076,
     "wof:name":"Cottam Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.488519,36.593606,-114.488519,36.593606],
+  "bbox": [
+    -114.488519,
+    36.593606,
+    -114.488519,
+    36.593606
+],
   "geometry": {"coordinates":[-114.488519,36.593606],"type":"Point"}
 }

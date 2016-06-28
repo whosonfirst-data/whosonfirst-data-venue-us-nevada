@@ -2,13 +2,14 @@
   "id": 236019615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.958426,36.066612,-114.958426,36.066612",
     "geom:latitude":36.066612,
     "geom:longitude":-114.958426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 N Pueblo Blvd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236019615,
-    "wof:lastmodified":1449003558,
+    "wof:lastmodified":1466703857,
     "wof:name":"Brake Masters",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-114.958426,36.066612,-114.958426,36.066612],
+  "bbox": [
+    -114.958426,
+    36.066612,
+    -114.958426,
+    36.066612
+],
   "geometry": {"coordinates":[-114.958426,36.066612],"type":"Point"}
 }

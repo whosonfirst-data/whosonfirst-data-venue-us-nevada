@@ -2,13 +2,14 @@
   "id": 203298215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.07638,36.200915,-115.07638,36.200915",
     "geom:latitude":36.200915,
     "geom:longitude":-115.07638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2297 Penmar Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203298215,
-    "wof:lastmodified":1449025425,
+    "wof:lastmodified":1466702812,
     "wof:name":"D-N-D Cleaning Services",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-115.07638,36.200915,-115.07638,36.200915],
+  "bbox": [
+    -115.07638,
+    36.200915,
+    -115.07638,
+    36.200915
+],
   "geometry": {"coordinates":[-115.07638,36.200915],"type":"Point"}
 }

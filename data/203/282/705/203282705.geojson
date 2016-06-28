@@ -2,13 +2,14 @@
   "id": 203282705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827182,39.528973,-119.827182,39.528973",
     "geom:latitude":39.528973,
     "geom:longitude":-119.827182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203282705,
-    "wof:lastmodified":1449026143,
+    "wof:lastmodified":1466702715,
     "wof:name":"Post Dated Check Express & Nv",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-119.827182,39.528973,-119.827182,39.528973],
-  "geometry": {"coordinates":[-119.827182,39.528973],"type":"Point"}
+  "bbox": [
+    -119.827182,
+    39.528973,
+    -119.827182,
+    39.528973
+],
+  "geometry": {"coordinates":[-119.82718199999999,39.528973],"type":"Point"}
 }

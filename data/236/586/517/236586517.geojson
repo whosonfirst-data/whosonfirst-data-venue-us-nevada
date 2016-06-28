@@ -2,13 +2,14 @@
   "id": 236586517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227399,36.201454,-115.227399,36.201454",
     "geom:latitude":36.201454,
     "geom:longitude":-115.227399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6204 Rosalita Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236586517,
-    "wof:lastmodified":1449004790,
+    "wof:lastmodified":1466706227,
     "wof:name":"Connie's Cleanup Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.227399,36.201454,-115.227399,36.201454],
-  "geometry": {"coordinates":[-115.227399,36.201454],"type":"Point"}
+  "bbox": [
+    -115.227399,
+    36.201454,
+    -115.227399,
+    36.201454
+],
+  "geometry": {"coordinates":[-115.22739900000001,36.201454],"type":"Point"}
 }

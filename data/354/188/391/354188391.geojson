@@ -2,13 +2,14 @@
   "id": 354188391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1698,36.16254,-115.1698,36.16254",
     "geom:latitude":36.16254,
     "geom:longitude":-115.1698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Tonopah Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354188391,
-    "wof:lastmodified":1449066773,
+    "wof:lastmodified":1466704940,
     "wof:name":"Practice Partners",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.1698,36.16254,-115.1698,36.16254],
+  "bbox": [
+    -115.1698,
+    36.16254,
+    -115.1698,
+    36.16254
+],
   "geometry": {"coordinates":[-115.1698,36.16254],"type":"Point"}
 }

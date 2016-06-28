@@ -2,13 +2,14 @@
   "id": 236131395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.126144,36.15375,-115.126144,36.15375",
     "geom:latitude":36.15375,
     "geom:longitude":-115.126144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Pauline Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236131395,
-    "wof:lastmodified":1449002479,
+    "wof:lastmodified":1466702163,
     "wof:name":"First Nature",
     "wof:parent_id":85892673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.126144,36.15375,-115.126144,36.15375],
+  "bbox": [
+    -115.126144,
+    36.15375,
+    -115.126144,
+    36.15375
+],
   "geometry": {"coordinates":[-115.126144,36.15375],"type":"Point"}
 }

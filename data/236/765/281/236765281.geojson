@@ -2,13 +2,14 @@
   "id": 236765281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769905,39.179195,-119.769905,39.179195",
     "geom:latitude":39.179195,
     "geom:longitude":-119.769905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236765281,
-    "wof:lastmodified":1449003577,
+    "wof:lastmodified":1466706446,
     "wof:name":"Alberto's Shoe Repair",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boot"
     ]
 },
-  "bbox": [-119.769905,39.179195,-119.769905,39.179195],
-  "geometry": {"coordinates":[-119.769905,39.179195],"type":"Point"}
+  "bbox": [
+    -119.769905,
+    39.179195,
+    -119.769905,
+    39.179195
+],
+  "geometry": {"coordinates":[-119.76990499999999,39.179195],"type":"Point"}
 }

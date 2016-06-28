@@ -2,13 +2,14 @@
   "id": 219302231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298239,36.144492,-115.298239,36.144492",
     "geom:latitude":36.144492,
     "geom:longitude":-115.298239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9326 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219302231,
-    "wof:lastmodified":1449071591,
+    "wof:lastmodified":1466703099,
     "wof:name":"Angel Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.298239,36.144492,-115.298239,36.144492],
+  "bbox": [
+    -115.298239,
+    36.144492,
+    -115.298239,
+    36.144492
+],
   "geometry": {"coordinates":[-115.298239,36.144492],"type":"Point"}
 }

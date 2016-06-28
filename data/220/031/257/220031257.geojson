@@ -2,13 +2,14 @@
   "id": 220031257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.803877,39.477139,-118.803877,39.477139",
     "geom:latitude":39.477139,
     "geom:longitude":-118.803877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220031257,
-    "wof:lastmodified":1449074333,
+    "wof:lastmodified":1466701817,
     "wof:name":"Stewart Title-Churchill County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "title"
     ]
 },
-  "bbox": [-118.803877,39.477139,-118.803877,39.477139],
+  "bbox": [
+    -118.803877,
+    39.477139,
+    -118.803877,
+    39.477139
+],
   "geometry": {"coordinates":[-118.803877,39.477139],"type":"Point"}
 }

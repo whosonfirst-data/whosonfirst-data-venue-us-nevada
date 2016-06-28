@@ -2,13 +2,14 @@
   "id": 236678839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.075907,36.80406,-114.075907,36.80406",
     "geom:latitude":36.80406,
     "geom:longitude":-114.075907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W Mesquite Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236678839,
-    "wof:lastmodified":1449003201,
+    "wof:lastmodified":1466706441,
     "wof:name":"Mesquite Lube & Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-114.075907,36.80406,-114.075907,36.80406],
+  "bbox": [
+    -114.075907,
+    36.80406,
+    -114.075907,
+    36.80406
+],
   "geometry": {"coordinates":[-114.075907,36.80406],"type":"Point"}
 }

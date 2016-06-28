@@ -2,13 +2,14 @@
   "id": 236944453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157008,36.118475,-115.157008,36.118475",
     "geom:latitude":36.118475,
     "geom:longitude":-115.157008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Howard Hughes Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236944453,
-    "wof:lastmodified":1449003276,
+    "wof:lastmodified":1466706928,
     "wof:name":"Templeton Gaming Corporation",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.157008,36.118475,-115.157008,36.118475],
+  "bbox": [
+    -115.157008,
+    36.118475,
+    -115.157008,
+    36.118475
+],
   "geometry": {"coordinates":[-115.157008,36.118475],"type":"Point"}
 }

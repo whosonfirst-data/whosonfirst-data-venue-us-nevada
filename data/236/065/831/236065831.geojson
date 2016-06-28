@@ -2,13 +2,14 @@
   "id": 236065831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.707478,39.547675,-119.707478,39.547675",
     "geom:latitude":39.547675,
     "geom:longitude":-119.707478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 Wabash Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236065831,
-    "wof:lastmodified":1449005202,
+    "wof:lastmodified":1466704011,
     "wof:name":"Thunderbolt Auto Sales",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-119.707478,39.547675,-119.707478,39.547675],
-  "geometry": {"coordinates":[-119.707478,39.547675],"type":"Point"}
+  "bbox": [
+    -119.707478,
+    39.547675,
+    -119.707478,
+    39.547675
+],
+  "geometry": {"coordinates":[-119.70747799999999,39.547675],"type":"Point"}
 }

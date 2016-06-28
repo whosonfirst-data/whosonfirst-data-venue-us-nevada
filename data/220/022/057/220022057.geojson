@@ -2,13 +2,14 @@
   "id": 220022057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.715212,39.565786,-119.715212,39.565786",
     "geom:latitude":39.565786,
     "geom:longitude":-119.715212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3637 Hillsdale Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220022057,
-    "wof:lastmodified":1449074287,
+    "wof:lastmodified":1466701701,
     "wof:name":"Michael's Copier Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-119.715212,39.565786,-119.715212,39.565786],
-  "geometry": {"coordinates":[-119.715212,39.565786],"type":"Point"}
+  "bbox": [
+    -119.715212,
+    39.565786,
+    -119.715212,
+    39.565786
+],
+  "geometry": {"coordinates":[-119.71521199999999,39.565786],"type":"Point"}
 }

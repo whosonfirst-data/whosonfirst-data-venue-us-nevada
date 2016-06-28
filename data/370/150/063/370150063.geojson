@@ -2,13 +2,14 @@
   "id": 370150063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254147,36.207573,-115.254147,36.207573",
     "geom:latitude":36.207573,
     "geom:longitude":-115.254147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 Crimson Canyon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370150063,
-    "wof:lastmodified":1449029107,
+    "wof:lastmodified":1466701533,
     "wof:name":"Luxury Optical Holdings",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"
     ]
 },
-  "bbox": [-115.254147,36.207573,-115.254147,36.207573],
+  "bbox": [
+    -115.254147,
+    36.207573,
+    -115.254147,
+    36.207573
+],
   "geometry": {"coordinates":[-115.254147,36.207573],"type":"Point"}
 }

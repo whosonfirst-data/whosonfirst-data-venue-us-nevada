@@ -2,13 +2,14 @@
   "id": 219542539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.707385,39.561264,-119.707385,39.561264",
     "geom:latitude":39.561264,
     "geom:longitude":-119.707385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Myles Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219542539,
-    "wof:lastmodified":1449073149,
+    "wof:lastmodified":1466702097,
     "wof:name":"Nowakowski Marketing",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.707385,39.561264,-119.707385,39.561264],
+  "bbox": [
+    -119.707385,
+    39.561264,
+    -119.707385,
+    39.561264
+],
   "geometry": {"coordinates":[-119.707385,39.561264],"type":"Point"}
 }

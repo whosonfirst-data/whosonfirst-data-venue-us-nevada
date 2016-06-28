@@ -2,13 +2,14 @@
   "id": 203154769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261869,36.196315,-115.261869,36.196315",
     "geom:latitude":36.196315,
     "geom:longitude":-115.261869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7670 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203154769,
-    "wof:lastmodified":1449026882,
+    "wof:lastmodified":1466701550,
     "wof:name":"Backus Carazza",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-115.261869,36.196315,-115.261869,36.196315],
+  "bbox": [
+    -115.261869,
+    36.196315,
+    -115.261869,
+    36.196315
+],
   "geometry": {"coordinates":[-115.261869,36.196315],"type":"Point"}
 }

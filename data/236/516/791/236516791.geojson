@@ -2,13 +2,14 @@
   "id": 236516791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118929,36.154444,-115.118929,36.154444",
     "geom:latitude":36.154444,
     "geom:longitude":-115.118929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236516791,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466705904,
     "wof:name":"Gavin Realty Broker Realtor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-115.118929,36.154444,-115.118929,36.154444],
-  "geometry": {"coordinates":[-115.118929,36.154444],"type":"Point"}
+  "bbox": [
+    -115.118929,
+    36.154444,
+    -115.118929,
+    36.154444
+],
+  "geometry": {"coordinates":[-115.11892899999999,36.154444],"type":"Point"}
 }

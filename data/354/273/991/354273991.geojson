@@ -2,13 +2,14 @@
   "id": 354273991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.061898,36.182979,-115.061898,36.182979",
     "geom:latitude":36.182979,
     "geom:longitude":-115.061898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1282 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354273991,
-    "wof:lastmodified":1449066811,
+    "wof:lastmodified":1466705525,
     "wof:name":"Vip Tires",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.061898,36.182979,-115.061898,36.182979],
+  "bbox": [
+    -115.061898,
+    36.182979,
+    -115.061898,
+    36.182979
+],
   "geometry": {"coordinates":[-115.061898,36.182979],"type":"Point"}
 }

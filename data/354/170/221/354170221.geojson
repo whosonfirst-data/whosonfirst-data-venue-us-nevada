@@ -2,13 +2,14 @@
   "id": 354170221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080807,36.144306,-115.080807,36.144306",
     "geom:latitude":36.144306,
     "geom:longitude":-115.080807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354170221,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1466704692,
     "wof:name":"Pink Ladies Cleaning Service",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.080807,36.144306,-115.080807,36.144306],
-  "geometry": {"coordinates":[-115.080807,36.144306],"type":"Point"}
+  "bbox": [
+    -115.080807,
+    36.144306,
+    -115.080807,
+    36.144306
+],
+  "geometry": {"coordinates":[-115.08080699999999,36.144306],"type":"Point"}
 }

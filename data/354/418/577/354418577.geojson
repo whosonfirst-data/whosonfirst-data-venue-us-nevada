@@ -2,13 +2,14 @@
   "id": 354418577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250999,36.216999,-115.250999,36.216999",
     "geom:latitude":36.216999,
     "geom:longitude":-115.250999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354418577,
-    "wof:lastmodified":1449067270,
+    "wof:lastmodified":1466706484,
     "wof:name":"Internal Medical Associates",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internal"
     ]
 },
-  "bbox": [-115.250999,36.216999,-115.250999,36.216999],
-  "geometry": {"coordinates":[-115.250999,36.216999],"type":"Point"}
+  "bbox": [
+    -115.250999,
+    36.216999,
+    -115.250999,
+    36.216999
+],
+  "geometry": {"coordinates":[-115.25099899999999,36.216999],"type":"Point"}
 }

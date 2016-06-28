@@ -2,13 +2,14 @@
   "id": 370325005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.840979,39.499949,-119.840979,39.499949",
     "geom:latitude":39.499949,
     "geom:longitude":-119.840979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 Camelot Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370325005,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1466704635,
     "wof:name":"Jewel Celebrations",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wedding"
     ]
 },
-  "bbox": [-119.840979,39.499949,-119.840979,39.499949],
+  "bbox": [
+    -119.840979,
+    39.499949,
+    -119.840979,
+    39.499949
+],
   "geometry": {"coordinates":[-119.840979,39.499949],"type":"Point"}
 }

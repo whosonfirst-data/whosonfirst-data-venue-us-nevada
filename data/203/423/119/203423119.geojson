@@ -2,13 +2,14 @@
   "id": 203423119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238087,36.186714,-115.238087,36.186714",
     "geom:latitude":36.186714,
     "geom:longitude":-115.238087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 Padre Bay Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203423119,
-    "wof:lastmodified":1449025255,
+    "wof:lastmodified":1466703408,
     "wof:name":"Crafty Stitcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewing"
     ]
 },
-  "bbox": [-115.238087,36.186714,-115.238087,36.186714],
-  "geometry": {"coordinates":[-115.238087,36.186714],"type":"Point"}
+  "bbox": [
+    -115.238087,
+    36.186714,
+    -115.238087,
+    36.186714
+],
+  "geometry": {"coordinates":[-115.23808699999999,36.186714],"type":"Point"}
 }

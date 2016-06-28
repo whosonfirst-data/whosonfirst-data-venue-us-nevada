@@ -2,13 +2,14 @@
   "id": 236674149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.22244,36.25591,-115.22244,36.25591",
     "geom:latitude":36.25591,
     "geom:longitude":-115.22244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 Shady Grove Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236674149,
-    "wof:lastmodified":1449004242,
+    "wof:lastmodified":1466706423,
     "wof:name":"J & J Painting",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.22244,36.25591,-115.22244,36.25591],
-  "geometry": {"coordinates":[-115.22244,36.25591],"type":"Point"}
+  "bbox": [
+    -115.22244,
+    36.25591,
+    -115.22244,
+    36.25591
+],
+  "geometry": {"coordinates":[-115.22244000000001,36.25591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235959387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.999026,36.03039,-114.999026,36.03039",
     "geom:latitude":36.03039,
     "geom:longitude":-114.999026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Denver Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235959387,
-    "wof:lastmodified":1449008578,
+    "wof:lastmodified":1466703575,
     "wof:name":"Anitas Botanical Paradise",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.999026,36.03039,-114.999026,36.03039],
+  "bbox": [
+    -114.999026,
+    36.03039,
+    -114.999026,
+    36.03039
+],
   "geometry": {"coordinates":[-114.999026,36.03039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354041483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.179277,36.197545,-115.179277,36.197545",
     "geom:latitude":36.197545,
     "geom:longitude":-115.179277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 W Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354041483,
-    "wof:lastmodified":1449066526,
+    "wof:lastmodified":1466702567,
     "wof:name":"Affordable Concepts Inc",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.179277,36.197545,-115.179277,36.197545],
+  "bbox": [
+    -115.179277,
+    36.197545,
+    -115.179277,
+    36.197545
+],
   "geometry": {"coordinates":[-115.179277,36.197545],"type":"Point"}
 }

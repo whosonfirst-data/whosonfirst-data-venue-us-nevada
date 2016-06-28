@@ -2,13 +2,14 @@
   "id": 354326125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242703,36.081483,-115.242703,36.081483",
     "geom:latitude":36.081483,
     "geom:longitude":-115.242703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5940 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354326125,
-    "wof:lastmodified":1449066651,
+    "wof:lastmodified":1466705877,
     "wof:name":"Pinnacle Community Association Management",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.242703,36.081483,-115.242703,36.081483],
-  "geometry": {"coordinates":[-115.242703,36.081483],"type":"Point"}
+  "bbox": [
+    -115.242703,
+    36.081483,
+    -115.242703,
+    36.081483
+],
+  "geometry": {"coordinates":[-115.24270300000001,36.081483],"type":"Point"}
 }

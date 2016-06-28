@@ -2,13 +2,14 @@
   "id": 220143463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174255,36.167679,-115.174255,36.167679",
     "geom:latitude":36.167679,
     "geom:longitude":-115.174255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Rancho Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220143463,
-    "wof:lastmodified":1449074723,
+    "wof:lastmodified":1466702723,
     "wof:name":"ABC Home Inspection",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-115.174255,36.167679,-115.174255,36.167679],
+  "bbox": [
+    -115.174255,
+    36.167679,
+    -115.174255,
+    36.167679
+],
   "geometry": {"coordinates":[-115.174255,36.167679],"type":"Point"}
 }

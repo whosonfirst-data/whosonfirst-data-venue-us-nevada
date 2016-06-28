@@ -2,13 +2,14 @@
   "id": 219989269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.887014,39.500658,-119.887014,39.500658",
     "geom:latitude":39.500658,
     "geom:longitude":-119.887014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4445 Starwood Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219989269,
-    "wof:lastmodified":1449072991,
+    "wof:lastmodified":1466706266,
     "wof:name":"Stephen Missall MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.887014,39.500658,-119.887014,39.500658],
-  "geometry": {"coordinates":[-119.887014,39.500658],"type":"Point"}
+  "bbox": [
+    -119.887014,
+    39.500658,
+    -119.887014,
+    39.500658
+],
+  "geometry": {"coordinates":[-119.88701399999999,39.500658],"type":"Point"}
 }

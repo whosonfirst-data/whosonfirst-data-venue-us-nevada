@@ -2,13 +2,14 @@
   "id": 354366349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11406,36.080331,-115.11406,36.080331",
     "geom:latitude":36.080331,
     "geom:longitude":-115.11406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6038 Topaz St Ste 3",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354366349,
-    "wof:lastmodified":1449067201,
+    "wof:lastmodified":1466706161,
     "wof:name":"Sin City Millwork",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-115.11406,36.080331,-115.11406,36.080331],
-  "geometry": {"coordinates":[-115.11406,36.080331],"type":"Point"}
+  "bbox": [
+    -115.11406,
+    36.080331,
+    -115.11406,
+    36.080331
+],
+  "geometry": {"coordinates":[-115.11405999999999,36.080331],"type":"Point"}
 }

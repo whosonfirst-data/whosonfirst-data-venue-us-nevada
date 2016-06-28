@@ -2,13 +2,14 @@
   "id": 220158215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173045,36.042302,-115.173045,36.042302",
     "geom:latitude":36.042302,
     "geom:longitude":-115.173045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 W Windmill Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220158215,
-    "wof:lastmodified":1449074592,
+    "wof:lastmodified":1466702808,
     "wof:name":"Suppa Photography",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.173045,36.042302,-115.173045,36.042302],
+  "bbox": [
+    -115.173045,
+    36.042302,
+    -115.173045,
+    36.042302
+],
   "geometry": {"coordinates":[-115.173045,36.042302],"type":"Point"}
 }

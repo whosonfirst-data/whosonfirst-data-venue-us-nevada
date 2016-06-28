@@ -2,13 +2,14 @@
   "id": 219331195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.225857,39.595137,-119.225857,39.595137",
     "geom:latitude":39.595137,
     "geom:longitude":-119.225857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Jennys Ln",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219331195,
-    "wof:lastmodified":1449072542,
+    "wof:lastmodified":1466703275,
     "wof:name":"Outpost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-119.225857,39.595137,-119.225857,39.595137],
+  "bbox": [
+    -119.225857,
+    39.595137,
+    -119.225857,
+    39.595137
+],
   "geometry": {"coordinates":[-119.225857,39.595137],"type":"Point"}
 }

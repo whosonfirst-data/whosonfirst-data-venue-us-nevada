@@ -2,13 +2,14 @@
   "id": 236037265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.751453,39.460077,-118.751453,39.460077",
     "geom:latitude":39.460077,
     "geom:longitude":-118.751453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Wildes Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236037265,
-    "wof:lastmodified":1449005318,
+    "wof:lastmodified":1466703920,
     "wof:name":"Santos Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-118.751453,39.460077,-118.751453,39.460077],
+  "bbox": [
+    -118.751453,
+    39.460077,
+    -118.751453,
+    39.460077
+],
   "geometry": {"coordinates":[-118.751453,39.460077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370319233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785346,39.476903,-119.785346,39.476903",
     "geom:latitude":39.476903,
     "geom:longitude":-119.785346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5057 S Mccarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":370319233,
-    "wof:lastmodified":1449030471,
+    "wof:lastmodified":1466704732,
     "wof:name":"Purple Pumpkin, Chidrens Resale",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "wear"
     ]
 },
-  "bbox": [-119.785346,39.476903,-119.785346,39.476903],
+  "bbox": [
+    -119.785346,
+    39.476903,
+    -119.785346,
+    39.476903
+],
   "geometry": {"coordinates":[-119.785346,39.476903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203238685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268143,36.137979,-115.268143,36.137979",
     "geom:latitude":36.137979,
     "geom:longitude":-115.268143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8124 Maddingley Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203238685,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1466702431,
     "wof:name":"Quantum Equities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.268143,36.137979,-115.268143,36.137979],
-  "geometry": {"coordinates":[-115.268143,36.137979],"type":"Point"}
+  "bbox": [
+    -115.268143,
+    36.137979,
+    -115.268143,
+    36.137979
+],
+  "geometry": {"coordinates":[-115.26814299999999,36.137979],"type":"Point"}
 }

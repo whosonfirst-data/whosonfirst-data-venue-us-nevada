@@ -2,13 +2,14 @@
   "id": 370337143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.737999,39.175201,-119.737999,39.175201",
     "geom:latitude":39.175201,
     "geom:longitude":-119.737999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 US Highway 50 E",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370337143,
-    "wof:lastmodified":1449030679,
+    "wof:lastmodified":1466704927,
     "wof:name":"Tires Plus Total Car Care",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-119.737999,39.175201,-119.737999,39.175201],
+  "bbox": [
+    -119.737999,
+    39.175201,
+    -119.737999,
+    39.175201
+],
   "geometry": {"coordinates":[-119.737999,39.175201],"type":"Point"}
 }

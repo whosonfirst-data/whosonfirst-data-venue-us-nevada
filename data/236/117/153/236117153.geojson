@@ -2,13 +2,14 @@
   "id": 236117153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.705444,39.024162,-119.705444,39.024162",
     "geom:latitude":39.024162,
     "geom:longitude":-119.705444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2884 Mc Kay Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236117153,
-    "wof:lastmodified":1449003978,
+    "wof:lastmodified":1466701875,
     "wof:name":"Olson Heating Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.705444,39.024162,-119.705444,39.024162],
+  "bbox": [
+    -119.705444,
+    39.024162,
+    -119.705444,
+    39.024162
+],
   "geometry": {"coordinates":[-119.705444,39.024162],"type":"Point"}
 }

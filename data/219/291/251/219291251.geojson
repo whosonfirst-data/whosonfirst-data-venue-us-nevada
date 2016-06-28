@@ -2,13 +2,14 @@
   "id": 219291251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.954544,39.249725,-119.954544,39.249725",
     "geom:latitude":39.249725,
     "geom:longitude":-119.954544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219291251,
-    "wof:lastmodified":1449071483,
+    "wof:lastmodified":1466703003,
     "wof:name":"Tahoe Blue Gallery Wine Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.954544,39.249725,-119.954544,39.249725],
+  "bbox": [
+    -119.954544,
+    39.249725,
+    -119.954544,
+    39.249725
+],
   "geometry": {"coordinates":[-119.954544,39.249725],"type":"Point"}
 }

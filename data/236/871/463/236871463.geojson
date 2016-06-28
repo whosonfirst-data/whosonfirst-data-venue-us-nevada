@@ -2,13 +2,14 @@
   "id": 236871463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.679912,39.691621,-119.679912,39.691621",
     "geom:latitude":39.691621,
     "geom:longitude":-119.679912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 Louden Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236871463,
-    "wof:lastmodified":1449002587,
+    "wof:lastmodified":1466706771,
     "wof:name":"Rollie Family LLC",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-119.679912,39.691621,-119.679912,39.691621],
+  "bbox": [
+    -119.679912,
+    39.691621,
+    -119.679912,
+    39.691621
+],
   "geometry": {"coordinates":[-119.679912,39.691621],"type":"Point"}
 }

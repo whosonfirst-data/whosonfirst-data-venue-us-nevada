@@ -2,13 +2,14 @@
   "id": 236102047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068472,36.006562,-115.068472,36.006562",
     "geom:latitude":36.006562,
     "geom:longitude":-115.068472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1858 Eagle Mesa Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236102047,
-    "wof:lastmodified":1449004956,
+    "wof:lastmodified":1466701577,
     "wof:name":"Mesa Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.068472,36.006562,-115.068472,36.006562],
+  "bbox": [
+    -115.068472,
+    36.006562,
+    -115.068472,
+    36.006562
+],
   "geometry": {"coordinates":[-115.068472,36.006562],"type":"Point"}
 }

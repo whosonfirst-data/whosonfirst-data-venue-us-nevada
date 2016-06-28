@@ -2,13 +2,14 @@
   "id": 236312437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761655,39.000998,-119.761655,39.000998",
     "geom:latitude":39.000998,
     "geom:longitude":-119.761655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Airport Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236312437,
-    "wof:lastmodified":1449003291,
+    "wof:lastmodified":1466704911,
     "wof:name":"Kirka Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.761655,39.000998,-119.761655,39.000998],
+  "bbox": [
+    -119.761655,
+    39.000998,
+    -119.761655,
+    39.000998
+],
   "geometry": {"coordinates":[-119.761655,39.000998],"type":"Point"}
 }

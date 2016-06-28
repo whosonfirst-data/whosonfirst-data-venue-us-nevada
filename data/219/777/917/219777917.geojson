@@ -2,13 +2,14 @@
   "id": 219777917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084097,36.18758,-115.084097,36.18758",
     "geom:latitude":36.18758,
     "geom:longitude":-115.084097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1541 Linnbaker Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219777917,
-    "wof:lastmodified":1449072241,
+    "wof:lastmodified":1466705080,
     "wof:name":"Eddies Tires Express",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.084097,36.18758,-115.084097,36.18758],
+  "bbox": [
+    -115.084097,
+    36.18758,
+    -115.084097,
+    36.18758
+],
   "geometry": {"coordinates":[-115.084097,36.18758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236917633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204353,36.110061,-115.204353,36.110061",
     "geom:latitude":36.110061,
     "geom:longitude":-115.204353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4880 W University Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236917633,
-    "wof:lastmodified":1449004723,
+    "wof:lastmodified":1466706837,
     "wof:name":"Net Xs Communications",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.204353,36.110061,-115.204353,36.110061],
+  "bbox": [
+    -115.204353,
+    36.110061,
+    -115.204353,
+    36.110061
+],
   "geometry": {"coordinates":[-115.204353,36.110061],"type":"Point"}
 }

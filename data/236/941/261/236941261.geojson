@@ -2,13 +2,14 @@
   "id": 236941261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145669,36.026668,-115.145669,36.026668",
     "geom:latitude":36.026668,
     "geom:longitude":-115.145669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9037 Dulcimer Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236941261,
-    "wof:lastmodified":1449003652,
+    "wof:lastmodified":1466706870,
     "wof:name":"Okamai Consulting",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-115.145669,36.026668,-115.145669,36.026668],
+  "bbox": [
+    -115.145669,
+    36.026668,
+    -115.145669,
+    36.026668
+],
   "geometry": {"coordinates":[-115.145669,36.026668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354029105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135803,36.217803,-115.135803,36.217803",
     "geom:latitude":36.217803,
     "geom:longitude":-115.135803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Cheynne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354029105,
-    "wof:lastmodified":1449066640,
+    "wof:lastmodified":1466702246,
     "wof:name":"Cheyenne Cmpus Child Care",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.135803,36.217803,-115.135803,36.217803],
+  "bbox": [
+    -115.135803,
+    36.217803,
+    -115.135803,
+    36.217803
+],
   "geometry": {"coordinates":[-115.135803,36.217803],"type":"Point"}
 }

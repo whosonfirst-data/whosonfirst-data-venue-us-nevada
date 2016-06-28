@@ -2,13 +2,14 @@
   "id": 236935535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734576,39.541783,-119.734576,39.541783",
     "geom:latitude":39.541783,
     "geom:longitude":-119.734576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236935535,
-    "wof:lastmodified":1449004540,
+    "wof:lastmodified":1466706860,
     "wof:name":"Prater Minis",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-119.734576,39.541783,-119.734576,39.541783],
+  "bbox": [
+    -119.734576,
+    39.541783,
+    -119.734576,
+    39.541783
+],
   "geometry": {"coordinates":[-119.734576,39.541783],"type":"Point"}
 }

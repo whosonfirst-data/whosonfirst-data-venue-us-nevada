@@ -2,13 +2,14 @@
   "id": 236198315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808523,39.496548,-119.808523,39.496548",
     "geom:latitude":39.496548,
     "geom:longitude":-119.808523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Beck St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236198315,
-    "wof:lastmodified":1449002721,
+    "wof:lastmodified":1466703532,
     "wof:name":"Russian American Cultural Soc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "membership"
     ]
 },
-  "bbox": [-119.808523,39.496548,-119.808523,39.496548],
-  "geometry": {"coordinates":[-119.808523,39.496548],"type":"Point"}
+  "bbox": [
+    -119.808523,
+    39.496548,
+    -119.808523,
+    39.496548
+],
+  "geometry": {"coordinates":[-119.80852299999999,39.496548],"type":"Point"}
 }

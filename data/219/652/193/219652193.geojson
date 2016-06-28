@@ -2,13 +2,14 @@
   "id": 219652193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207964,36.11308,-115.207964,36.11308",
     "geom:latitude":36.11308,
     "geom:longitude":-115.207964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4270 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219652193,
-    "wof:lastmodified":1449072659,
+    "wof:lastmodified":1466703858,
     "wof:name":"Aria Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-115.207964,36.11308,-115.207964,36.11308],
+  "bbox": [
+    -115.207964,
+    36.11308,
+    -115.207964,
+    36.11308
+],
   "geometry": {"coordinates":[-115.207964,36.11308],"type":"Point"}
 }

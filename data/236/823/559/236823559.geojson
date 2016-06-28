@@ -2,13 +2,14 @@
   "id": 236823559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080162,36.11325,-115.080162,36.11325",
     "geom:latitude":36.11325,
     "geom:longitude":-115.080162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 Don Bonito St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236823559,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1466706692,
     "wof:name":"Joel Hotchkins",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-115.080162,36.11325,-115.080162,36.11325],
+  "bbox": [
+    -115.080162,
+    36.11325,
+    -115.080162,
+    36.11325
+],
   "geometry": {"coordinates":[-115.080162,36.11325],"type":"Point"}
 }

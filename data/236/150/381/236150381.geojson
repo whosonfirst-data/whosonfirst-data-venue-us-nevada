@@ -2,13 +2,14 @@
   "id": 236150381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.798775,40.833638,-115.798775,40.833638",
     "geom:latitude":40.833638,
     "geom:longitude":-115.798775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1379 Chaparral Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236150381,
-    "wof:lastmodified":1449001711,
+    "wof:lastmodified":1466702572,
     "wof:name":"K S Liners",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-115.798775,40.833638,-115.798775,40.833638],
-  "geometry": {"coordinates":[-115.798775,40.833638],"type":"Point"}
+  "bbox": [
+    -115.798775,
+    40.833638,
+    -115.798775,
+    40.833638
+],
+  "geometry": {"coordinates":[-115.79877500000001,40.833638],"type":"Point"}
 }

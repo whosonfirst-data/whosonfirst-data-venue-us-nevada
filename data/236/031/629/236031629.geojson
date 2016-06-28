@@ -2,13 +2,14 @@
   "id": 236031629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196085,36.148748,-115.196085,36.148748",
     "geom:latitude":36.148748,
     "geom:longitude":-115.196085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Los Altos St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236031629,
-    "wof:lastmodified":1449002760,
+    "wof:lastmodified":1466703915,
     "wof:name":"Wicca World",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.196085,36.148748,-115.196085,36.148748],
+  "bbox": [
+    -115.196085,
+    36.148748,
+    -115.196085,
+    36.148748
+],
   "geometry": {"coordinates":[-115.196085,36.148748],"type":"Point"}
 }

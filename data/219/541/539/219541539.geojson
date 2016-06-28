@@ -2,13 +2,14 @@
   "id": 219541539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125273,36.015901,-115.125273,36.015901",
     "geom:latitude":36.015901,
     "geom:longitude":-115.125273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1942 Moon Cactus Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219541539,
-    "wof:lastmodified":1449070780,
+    "wof:lastmodified":1466702074,
     "wof:name":"Nevada Legal Nurse",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nursing"
     ]
 },
-  "bbox": [-115.125273,36.015901,-115.125273,36.015901],
-  "geometry": {"coordinates":[-115.125273,36.015901],"type":"Point"}
+  "bbox": [
+    -115.125273,
+    36.015901,
+    -115.125273,
+    36.015901
+],
+  "geometry": {"coordinates":[-115.12527300000001,36.015901],"type":"Point"}
 }

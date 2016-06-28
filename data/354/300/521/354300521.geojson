@@ -2,13 +2,14 @@
   "id": 354300521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297418,36.141949,-115.297418,36.141949",
     "geom:latitude":36.141949,
     "geom:longitude":-115.297418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 S Fort Apache Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354300521,
-    "wof:lastmodified":1449066910,
+    "wof:lastmodified":1466705596,
     "wof:name":"Creative Kids Learning Center",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-115.297418,36.141949,-115.297418,36.141949],
-  "geometry": {"coordinates":[-115.297418,36.141949],"type":"Point"}
+  "bbox": [
+    -115.297418,
+    36.141949,
+    -115.297418,
+    36.141949
+],
+  "geometry": {"coordinates":[-115.29741799999999,36.141949],"type":"Point"}
 }

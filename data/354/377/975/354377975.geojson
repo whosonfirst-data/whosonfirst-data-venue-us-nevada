@@ -2,13 +2,14 @@
   "id": 354377975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112388,36.130314,-115.112388,36.130314",
     "geom:latitude":36.130314,
     "geom:longitude":-115.112388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E Desert Inn Rd #100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":354377975,
-    "wof:lastmodified":1449066558,
+    "wof:lastmodified":1466706162,
     "wof:name":"Todd V. Swanson, MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.112388,36.130314,-115.112388,36.130314],
+  "bbox": [
+    -115.112388,
+    36.130314,
+    -115.112388,
+    36.130314
+],
   "geometry": {"coordinates":[-115.112388,36.130314],"type":"Point"}
 }

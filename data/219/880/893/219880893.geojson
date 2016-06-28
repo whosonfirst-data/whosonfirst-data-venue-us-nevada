@@ -2,13 +2,14 @@
   "id": 219880893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.956337,36.056846,-114.956337,36.056846",
     "geom:latitude":36.056846,
     "geom:longitude":-114.956337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Cannes St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219880893,
-    "wof:lastmodified":1449073955,
+    "wof:lastmodified":1466705545,
     "wof:name":"Wind River Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.956337,36.056846,-114.956337,36.056846],
+  "bbox": [
+    -114.956337,
+    36.056846,
+    -114.956337,
+    36.056846
+],
   "geometry": {"coordinates":[-114.956337,36.056846],"type":"Point"}
 }

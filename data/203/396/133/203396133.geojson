@@ -2,13 +2,14 @@
   "id": 203396133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.612595,39.505133,-118.612595,39.505133",
     "geom:latitude":39.505133,
     "geom:longitude":-118.612595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Agency Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203396133,
-    "wof:lastmodified":1449026222,
+    "wof:lastmodified":1466703306,
     "wof:name":"Development Indian Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.612595,39.505133,-118.612595,39.505133],
+  "bbox": [
+    -118.612595,
+    39.505133,
+    -118.612595,
+    39.505133
+],
   "geometry": {"coordinates":[-118.612595,39.505133],"type":"Point"}
 }

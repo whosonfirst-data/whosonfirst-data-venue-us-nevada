@@ -2,13 +2,14 @@
   "id": 219631271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189761,36.105344,-115.189761,36.105344",
     "geom:latitude":36.105344,
     "geom:longitude":-115.189761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4580 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219631271,
-    "wof:lastmodified":1449071489,
+    "wof:lastmodified":1466703484,
     "wof:name":"AAA First USA Moving-Storage",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.189761,36.105344,-115.189761,36.105344],
+  "bbox": [
+    -115.189761,
+    36.105344,
+    -115.189761,
+    36.105344
+],
   "geometry": {"coordinates":[-115.189761,36.105344],"type":"Point"}
 }

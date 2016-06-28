@@ -2,13 +2,14 @@
   "id": 236742095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.240321,36.27002,-115.240321,36.27002",
     "geom:latitude":36.27002,
     "geom:longitude":-115.240321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6165 Serene Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236742095,
-    "wof:lastmodified":1449001842,
+    "wof:lastmodified":1466706546,
     "wof:name":"Sunbelts Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.240321,36.27002,-115.240321,36.27002],
-  "geometry": {"coordinates":[-115.240321,36.27002],"type":"Point"}
+  "bbox": [
+    -115.240321,
+    36.27002,
+    -115.240321,
+    36.27002
+],
+  "geometry": {"coordinates":[-115.24032099999999,36.27002],"type":"Point"}
 }

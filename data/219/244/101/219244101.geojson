@@ -2,13 +2,14 @@
   "id": 219244101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.658322,41.247605,-117.658322,41.247605",
     "geom:latitude":41.247605,
     "geom:longitude":-117.658322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 Mountain View Dr",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219244101,
-    "wof:lastmodified":1449071789,
+    "wof:lastmodified":1466702494,
     "wof:name":"S & C Mechanical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.658322,41.247605,-117.658322,41.247605],
+  "bbox": [
+    -117.658322,
+    41.247605,
+    -117.658322,
+    41.247605
+],
   "geometry": {"coordinates":[-117.658322,41.247605],"type":"Point"}
 }

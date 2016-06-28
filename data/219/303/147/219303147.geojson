@@ -2,13 +2,14 @@
   "id": 219303147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212931,36.28834,-115.212931,36.28834",
     "geom:latitude":36.28834,
     "geom:longitude":-115.212931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7028 Red Tide Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219303147,
-    "wof:lastmodified":1449070411,
+    "wof:lastmodified":1466703098,
     "wof:name":"Home Accessory Installations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.212931,36.28834,-115.212931,36.28834],
+  "bbox": [
+    -115.212931,
+    36.28834,
+    -115.212931,
+    36.28834
+],
   "geometry": {"coordinates":[-115.212931,36.28834],"type":"Point"}
 }

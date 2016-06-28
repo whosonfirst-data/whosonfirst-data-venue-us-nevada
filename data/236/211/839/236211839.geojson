@@ -2,13 +2,14 @@
   "id": 236211839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.826586,39.511483,-119.826586,39.511483",
     "geom:latitude":39.511483,
     "geom:longitude":-119.826586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Sharon Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236211839,
-    "wof:lastmodified":1449002290,
+    "wof:lastmodified":1466703811,
     "wof:name":"Pillar Consulting",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-119.826586,39.511483,-119.826586,39.511483],
-  "geometry": {"coordinates":[-119.826586,39.511483],"type":"Point"}
+  "bbox": [
+    -119.826586,
+    39.511483,
+    -119.826586,
+    39.511483
+],
+  "geometry": {"coordinates":[-119.82658600000001,39.511483],"type":"Point"}
 }

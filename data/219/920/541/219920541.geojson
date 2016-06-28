@@ -2,13 +2,14 @@
   "id": 219920541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768306,39.131195,-119.768306,39.131195",
     "geom:latitude":39.131195,
     "geom:longitude":-119.768306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Eagle Station Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219920541,
-    "wof:lastmodified":1449073131,
+    "wof:lastmodified":1466705617,
     "wof:name":"Paiute Pipeline Co",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-119.768306,39.131195,-119.768306,39.131195],
+  "bbox": [
+    -119.768306,
+    39.131195,
+    -119.768306,
+    39.131195
+],
   "geometry": {"coordinates":[-119.768306,39.131195],"type":"Point"}
 }

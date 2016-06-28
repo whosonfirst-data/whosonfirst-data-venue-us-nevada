@@ -2,13 +2,14 @@
   "id": 236597127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24185,36.01514,-115.24185,36.01514",
     "geom:latitude":36.01514,
     "geom:longitude":-115.24185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6780 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236597127,
-    "wof:lastmodified":1449005196,
+    "wof:lastmodified":1466706247,
     "wof:name":"Safway Services Inc",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.24185,36.01514,-115.24185,36.01514],
+  "bbox": [
+    -115.24185,
+    36.01514,
+    -115.24185,
+    36.01514
+],
   "geometry": {"coordinates":[-115.24185,36.01514],"type":"Point"}
 }

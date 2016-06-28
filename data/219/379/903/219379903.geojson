@@ -2,13 +2,14 @@
   "id": 219379903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.833489,39.493231,-119.833489,39.493231",
     "geom:latitude":39.493231,
     "geom:longitude":-119.833489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3265 Lapwing Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219379903,
-    "wof:lastmodified":1449072431,
+    "wof:lastmodified":1466703535,
     "wof:name":"Touchstone Marble Inc",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.833489,39.493231,-119.833489,39.493231],
+  "bbox": [
+    -119.833489,
+    39.493231,
+    -119.833489,
+    39.493231
+],
   "geometry": {"coordinates":[-119.833489,39.493231],"type":"Point"}
 }

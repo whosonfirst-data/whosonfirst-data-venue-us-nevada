@@ -2,13 +2,14 @@
   "id": 370272049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.289368,36.295342,-115.289368,36.295342",
     "geom:latitude":36.295342,
     "geom:longitude":-115.289368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7545 Oso Blanca Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370272049,
-    "wof:lastmodified":1449032229,
+    "wof:lastmodified":1466704307,
     "wof:name":"Palacio Apartments",
     "wof:parent_id":85896903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.289368,36.295342,-115.289368,36.295342],
+  "bbox": [
+    -115.289368,
+    36.295342,
+    -115.289368,
+    36.295342
+],
   "geometry": {"coordinates":[-115.289368,36.295342],"type":"Point"}
 }

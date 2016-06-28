@@ -2,13 +2,14 @@
   "id": 236796379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137507,36.120246,-115.137507,36.120246",
     "geom:latitude":36.120246,
     "geom:longitude":-115.137507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236796379,
-    "wof:lastmodified":1449003161,
+    "wof:lastmodified":1466706643,
     "wof:name":"Las Vegas Field & Focus LLC",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analysis"
     ]
 },
-  "bbox": [-115.137507,36.120246,-115.137507,36.120246],
+  "bbox": [
+    -115.137507,
+    36.120246,
+    -115.137507,
+    36.120246
+],
   "geometry": {"coordinates":[-115.137507,36.120246],"type":"Point"}
 }

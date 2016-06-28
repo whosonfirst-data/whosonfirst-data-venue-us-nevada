@@ -2,13 +2,14 @@
   "id": 219747185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252396,36.075356,-115.252396,36.075356",
     "geom:latitude":36.075356,
     "geom:longitude":-115.252396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7407 Sundown Glen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219747185,
-    "wof:lastmodified":1449071036,
+    "wof:lastmodified":1466704585,
     "wof:name":"Prestige Graphics",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.252396,36.075356,-115.252396,36.075356],
+  "bbox": [
+    -115.252396,
+    36.075356,
+    -115.252396,
+    36.075356
+],
   "geometry": {"coordinates":[-115.252396,36.075356],"type":"Point"}
 }

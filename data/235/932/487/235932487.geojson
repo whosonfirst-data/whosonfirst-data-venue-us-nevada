@@ -2,13 +2,14 @@
   "id": 235932487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205937,36.088088,-115.205937,36.088088",
     "geom:latitude":36.088088,
     "geom:longitude":-115.205937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4760 W Dewey Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235932487,
-    "wof:lastmodified":1449008383,
+    "wof:lastmodified":1466703448,
     "wof:name":"Arbon Equipment Corp",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-115.205937,36.088088,-115.205937,36.088088],
-  "geometry": {"coordinates":[-115.205937,36.088088],"type":"Point"}
+  "bbox": [
+    -115.205937,
+    36.088088,
+    -115.205937,
+    36.088088
+],
+  "geometry": {"coordinates":[-115.20593700000001,36.088088],"type":"Point"}
 }

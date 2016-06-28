@@ -2,13 +2,14 @@
   "id": 236454047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072376,36.155514,-115.072376,36.155514",
     "geom:latitude":36.155514,
     "geom:longitude":-115.072376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 E Yuma Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236454047,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466705733,
     "wof:name":"Medina Construction",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.072376,36.155514,-115.072376,36.155514],
-  "geometry": {"coordinates":[-115.072376,36.155514],"type":"Point"}
+  "bbox": [
+    -115.072376,
+    36.155514,
+    -115.072376,
+    36.155514
+],
+  "geometry": {"coordinates":[-115.07237600000001,36.155514],"type":"Point"}
 }

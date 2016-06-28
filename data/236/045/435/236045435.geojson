@@ -2,13 +2,14 @@
   "id": 236045435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300575,36.133843,-115.300575,36.133843",
     "geom:latitude":36.133843,
     "geom:longitude":-115.300575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9329 Angelfish Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236045435,
-    "wof:lastmodified":1449004783,
+    "wof:lastmodified":1466703943,
     "wof:name":"Tierra Design",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-115.300575,36.133843,-115.300575,36.133843],
-  "geometry": {"coordinates":[-115.300575,36.133843],"type":"Point"}
+  "bbox": [
+    -115.300575,
+    36.133843,
+    -115.300575,
+    36.133843
+],
+  "geometry": {"coordinates":[-115.30057499999999,36.133843],"type":"Point"}
 }

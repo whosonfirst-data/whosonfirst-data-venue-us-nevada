@@ -2,13 +2,14 @@
   "id": 203319521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243141,36.147323,-115.243141,36.147323",
     "geom:latitude":36.147323,
     "geom:longitude":-115.243141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319521,
-    "wof:lastmodified":1449025693,
+    "wof:lastmodified":1466702971,
     "wof:name":"Signs Plus-Las Vegas",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.243141,36.147323,-115.243141,36.147323],
-  "geometry": {"coordinates":[-115.243141,36.147323],"type":"Point"}
+  "bbox": [
+    -115.243141,
+    36.147323,
+    -115.243141,
+    36.147323
+],
+  "geometry": {"coordinates":[-115.24314099999999,36.147323],"type":"Point"}
 }

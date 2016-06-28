@@ -2,13 +2,14 @@
   "id": 236116393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.878918,39.259163,-114.878918,39.259163",
     "geom:latitude":39.259163,
     "geom:longitude":-114.878918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Ogden Ave",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236116393,
-    "wof:lastmodified":1449002035,
+    "wof:lastmodified":1466701862,
     "wof:name":"Carson Unlimited Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.878918,39.259163,-114.878918,39.259163],
+  "bbox": [
+    -114.878918,
+    39.259163,
+    -114.878918,
+    39.259163
+],
   "geometry": {"coordinates":[-114.878918,39.259163],"type":"Point"}
 }

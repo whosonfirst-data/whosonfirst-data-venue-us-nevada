@@ -2,13 +2,14 @@
   "id": 219229259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.246858,36.193606,-115.246858,36.193606",
     "geom:latitude":36.193606,
     "geom:longitude":-115.246858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 N Rock Springs Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229259,
-    "wof:lastmodified":1449073218,
+    "wof:lastmodified":1466702287,
     "wof:name":"Las Vegas Ethnic Yellow Pages",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-115.246858,36.193606,-115.246858,36.193606],
+  "bbox": [
+    -115.246858,
+    36.193606,
+    -115.246858,
+    36.193606
+],
   "geometry": {"coordinates":[-115.246858,36.193606],"type":"Point"}
 }

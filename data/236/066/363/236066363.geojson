@@ -2,13 +2,14 @@
   "id": 236066363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277991,36.208788,-115.277991,36.208788",
     "geom:latitude":36.208788,
     "geom:longitude":-115.277991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8417 Justine Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236066363,
-    "wof:lastmodified":1449002439,
+    "wof:lastmodified":1466704006,
     "wof:name":"Gadberrys Barbecue",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.277991,36.208788,-115.277991,36.208788],
+  "bbox": [
+    -115.277991,
+    36.208788,
+    -115.277991,
+    36.208788
+],
   "geometry": {"coordinates":[-115.277991,36.208788],"type":"Point"}
 }

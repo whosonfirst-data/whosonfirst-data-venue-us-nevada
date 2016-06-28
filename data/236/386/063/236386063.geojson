@@ -2,13 +2,14 @@
   "id": 236386063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265726,36.268426,-115.265726,36.268426",
     "geom:latitude":36.268426,
     "geom:longitude":-115.265726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7944 March Brown Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236386063,
-    "wof:lastmodified":1449003370,
+    "wof:lastmodified":1466705146,
     "wof:name":"Bradley Model Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.265726,36.268426,-115.265726,36.268426],
+  "bbox": [
+    -115.265726,
+    36.268426,
+    -115.265726,
+    36.268426
+],
   "geometry": {"coordinates":[-115.265726,36.268426],"type":"Point"}
 }

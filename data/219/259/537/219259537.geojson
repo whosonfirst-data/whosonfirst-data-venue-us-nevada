@@ -2,13 +2,14 @@
   "id": 219259537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.948307,39.00014,-119.948307,39.00014",
     "geom:latitude":39.00014,
     "geom:longitude":-119.948307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Inspiration Dr",
     "sg:city":"Zephyr Cove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219259537,
-    "wof:lastmodified":1449071195,
+    "wof:lastmodified":1466702636,
     "wof:name":"M & R Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.948307,39.00014,-119.948307,39.00014],
+  "bbox": [
+    -119.948307,
+    39.00014,
+    -119.948307,
+    39.00014
+],
   "geometry": {"coordinates":[-119.948307,39.00014],"type":"Point"}
 }

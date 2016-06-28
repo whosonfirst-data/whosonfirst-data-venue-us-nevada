@@ -2,13 +2,14 @@
   "id": 236771677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735251,38.936169,-119.735251,38.936169",
     "geom:latitude":38.936169,
     "geom:longitude":-119.735251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 Apollo Ave",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236771677,
-    "wof:lastmodified":1449003448,
+    "wof:lastmodified":1466706470,
     "wof:name":"Comstock Video & Reception",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "audio"
     ]
 },
-  "bbox": [-119.735251,38.936169,-119.735251,38.936169],
-  "geometry": {"coordinates":[-119.735251,38.936169],"type":"Point"}
+  "bbox": [
+    -119.735251,
+    38.936169,
+    -119.735251,
+    38.936169
+],
+  "geometry": {"coordinates":[-119.73525100000001,38.936169],"type":"Point"}
 }

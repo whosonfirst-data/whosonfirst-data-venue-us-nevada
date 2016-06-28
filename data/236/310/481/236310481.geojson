@@ -2,13 +2,14 @@
   "id": 236310481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.231275,39.342729,-119.231275,39.342729",
     "geom:latitude":39.342729,
     "geom:longitude":-119.231275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 6th St",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236310481,
-    "wof:lastmodified":1449003726,
+    "wof:lastmodified":1466704620,
     "wof:name":"Underwater Castles & Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-119.231275,39.342729,-119.231275,39.342729],
+  "bbox": [
+    -119.231275,
+    39.342729,
+    -119.231275,
+    39.342729
+],
   "geometry": {"coordinates":[-119.231275,39.342729],"type":"Point"}
 }

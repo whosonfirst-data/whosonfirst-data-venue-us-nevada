@@ -2,13 +2,14 @@
   "id": 236173379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208131,36.116246,-115.208131,36.116246",
     "geom:latitude":36.116246,
     "geom:longitude":-115.208131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236173379,
-    "wof:lastmodified":1449002155,
+    "wof:lastmodified":1466703049,
     "wof:name":"Holy Smokes Cigar Co",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.208131,36.116246,-115.208131,36.116246],
-  "geometry": {"coordinates":[-115.208131,36.116246],"type":"Point"}
+  "bbox": [
+    -115.208131,
+    36.116246,
+    -115.208131,
+    36.116246
+],
+  "geometry": {"coordinates":[-115.20813099999999,36.116246],"type":"Point"}
 }

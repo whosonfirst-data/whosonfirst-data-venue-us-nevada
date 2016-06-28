@@ -2,13 +2,14 @@
   "id": 236234725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15249,36.177086,-115.15249,36.177086",
     "geom:latitude":36.177086,
     "geom:longitude":-115.15249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236234725,
-    "wof:lastmodified":1449005033,
+    "wof:lastmodified":1466704507,
     "wof:name":"Home & Garden Magazine",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-115.15249,36.177086,-115.15249,36.177086],
+  "bbox": [
+    -115.15249,
+    36.177086,
+    -115.15249,
+    36.177086
+],
   "geometry": {"coordinates":[-115.15249,36.177086],"type":"Point"}
 }

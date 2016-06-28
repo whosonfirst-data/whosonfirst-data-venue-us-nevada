@@ -2,13 +2,14 @@
   "id": 203193329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.073551,36.19905,-116.073551,36.19905",
     "geom:latitude":36.19905,
     "geom:longitude":-116.073551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 Fritz Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203193329,
-    "wof:lastmodified":1449025247,
+    "wof:lastmodified":1466701975,
     "wof:name":"Talley & Sons Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.073551,36.19905,-116.073551,36.19905],
-  "geometry": {"coordinates":[-116.073551,36.19905],"type":"Point"}
+  "bbox": [
+    -116.073551,
+    36.19905,
+    -116.073551,
+    36.19905
+],
+  "geometry": {"coordinates":[-116.07355099999999,36.19905],"type":"Point"}
 }

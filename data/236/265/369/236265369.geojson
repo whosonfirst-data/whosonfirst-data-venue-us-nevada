@@ -2,13 +2,14 @@
   "id": 236265369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.636102,39.389058,-119.636102,39.389058",
     "geom:latitude":39.389058,
     "geom:longitude":-119.636102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2592 Cartwright Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236265369,
-    "wof:lastmodified":1449002638,
+    "wof:lastmodified":1466704480,
     "wof:name":"Environmental Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-119.636102,39.389058,-119.636102,39.389058],
-  "geometry": {"coordinates":[-119.636102,39.389058],"type":"Point"}
+  "bbox": [
+    -119.636102,
+    39.389058,
+    -119.636102,
+    39.389058
+],
+  "geometry": {"coordinates":[-119.63610199999999,39.389058],"type":"Point"}
 }

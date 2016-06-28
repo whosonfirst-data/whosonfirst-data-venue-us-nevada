@@ -2,13 +2,14 @@
   "id": 354200801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212733,36.172058,-115.212733,36.172058",
     "geom:latitude":36.172058,
     "geom:longitude":-115.212733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Mission Laguna Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354200801,
-    "wof:lastmodified":1449066602,
+    "wof:lastmodified":1466704915,
     "wof:name":"Meadows Condo Unit Owners Association",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.212733,36.172058,-115.212733,36.172058],
+  "bbox": [
+    -115.212733,
+    36.172058,
+    -115.212733,
+    36.172058
+],
   "geometry": {"coordinates":[-115.212733,36.172058],"type":"Point"}
 }

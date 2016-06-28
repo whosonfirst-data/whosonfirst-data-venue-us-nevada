@@ -2,13 +2,14 @@
   "id": 236229913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742504,39.046784,-119.742504,39.046784",
     "geom:latitude":39.046784,
     "geom:longitude":-119.742504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 Vicky Ln",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236229913,
-    "wof:lastmodified":1449004444,
+    "wof:lastmodified":1466704179,
     "wof:name":"Mountain Earth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-119.742504,39.046784,-119.742504,39.046784],
+  "bbox": [
+    -119.742504,
+    39.046784,
+    -119.742504,
+    39.046784
+],
   "geometry": {"coordinates":[-119.742504,39.046784],"type":"Point"}
 }

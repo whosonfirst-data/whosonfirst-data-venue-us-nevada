@@ -2,13 +2,14 @@
   "id": 370154249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.258163,36.203504,-115.258163,36.203504",
     "geom:latitude":36.203504,
     "geom:longitude":-115.258163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7190 W Smoke Ranch Rd Ste 110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370154249,
-    "wof:lastmodified":1449032520,
+    "wof:lastmodified":1466701637,
     "wof:name":"Modern Medical & Wellness",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "spa"
     ]
 },
-  "bbox": [-115.258163,36.203504,-115.258163,36.203504],
+  "bbox": [
+    -115.258163,
+    36.203504,
+    -115.258163,
+    36.203504
+],
   "geometry": {"coordinates":[-115.258163,36.203504],"type":"Point"}
 }

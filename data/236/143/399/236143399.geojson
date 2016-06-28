@@ -2,13 +2,14 @@
   "id": 236143399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199272,36.098252,-115.199272,36.098252",
     "geom:latitude":36.098252,
     "geom:longitude":-115.199272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5115 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236143399,
-    "wof:lastmodified":1449004576,
+    "wof:lastmodified":1466702418,
     "wof:name":"Patrick's Signs",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.199272,36.098252,-115.199272,36.098252],
-  "geometry": {"coordinates":[-115.199272,36.098252],"type":"Point"}
+  "bbox": [
+    -115.199272,
+    36.098252,
+    -115.199272,
+    36.098252
+],
+  "geometry": {"coordinates":[-115.19927199999999,36.098252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203364479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267645,36.130585,-115.267645,36.130585",
     "geom:latitude":36.130585,
     "geom:longitude":-115.267645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8022 Shellstone Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203364479,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1466703195,
     "wof:name":"Hrese's Unique Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.267645,36.130585,-115.267645,36.130585],
+  "bbox": [
+    -115.267645,
+    36.130585,
+    -115.267645,
+    36.130585
+],
   "geometry": {"coordinates":[-115.267645,36.130585],"type":"Point"}
 }

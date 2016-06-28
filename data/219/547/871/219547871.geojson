@@ -2,13 +2,14 @@
   "id": 219547871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128923,36.037388,-115.128923,36.037388",
     "geom:latitude":36.037388,
     "geom:longitude":-115.128923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 Crystal Downs Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219547871,
-    "wof:lastmodified":1449070746,
+    "wof:lastmodified":1466702192,
     "wof:name":"Negaard Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.128923,36.037388,-115.128923,36.037388],
+  "bbox": [
+    -115.128923,
+    36.037388,
+    -115.128923,
+    36.037388
+],
   "geometry": {"coordinates":[-115.128923,36.037388],"type":"Point"}
 }

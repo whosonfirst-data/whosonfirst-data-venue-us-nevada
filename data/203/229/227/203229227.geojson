@@ -2,13 +2,14 @@
   "id": 203229227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766692,39.524422,-119.766692,39.524422",
     "geom:latitude":39.524422,
     "geom:longitude":-119.766692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203229227,
-    "wof:lastmodified":1449026447,
+    "wof:lastmodified":1466702371,
     "wof:name":"Sun Leisure Pools",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.766692,39.524422,-119.766692,39.524422],
-  "geometry": {"coordinates":[-119.766692,39.524422],"type":"Point"}
+  "bbox": [
+    -119.766692,
+    39.524422,
+    -119.766692,
+    39.524422
+],
+  "geometry": {"coordinates":[-119.76669200000001,39.524422],"type":"Point"}
 }

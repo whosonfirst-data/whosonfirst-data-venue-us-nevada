@@ -2,13 +2,14 @@
   "id": 236814999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252566,36.192645,-115.252566,36.192645",
     "geom:latitude":36.192645,
     "geom:longitude":-115.252566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Sierra Valley Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236814999,
-    "wof:lastmodified":1449002130,
+    "wof:lastmodified":1466706681,
     "wof:name":"Action Welding",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.252566,36.192645,-115.252566,36.192645],
+  "bbox": [
+    -115.252566,
+    36.192645,
+    -115.252566,
+    36.192645
+],
   "geometry": {"coordinates":[-115.252566,36.192645],"type":"Point"}
 }

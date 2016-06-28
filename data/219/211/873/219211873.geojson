@@ -2,13 +2,14 @@
   "id": 219211873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782331,39.505808,-119.782331,39.505808",
     "geom:latitude":39.505808,
     "geom:longitude":-119.782331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219211873,
-    "wof:lastmodified":1449071267,
+    "wof:lastmodified":1466702180,
     "wof:name":"Game Force",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "video"
     ]
 },
-  "bbox": [-119.782331,39.505808,-119.782331,39.505808],
+  "bbox": [
+    -119.782331,
+    39.505808,
+    -119.782331,
+    39.505808
+],
   "geometry": {"coordinates":[-119.782331,39.505808],"type":"Point"}
 }

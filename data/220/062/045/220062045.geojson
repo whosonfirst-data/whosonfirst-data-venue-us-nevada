@@ -2,13 +2,14 @@
   "id": 220062045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190696,36.146484,-115.190696,36.146484",
     "geom:latitude":36.146484,
     "geom:longitude":-115.190696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220062045,
-    "wof:lastmodified":1449074834,
+    "wof:lastmodified":1466702143,
     "wof:name":"William Stone MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.190696,36.146484,-115.190696,36.146484],
+  "bbox": [
+    -115.190696,
+    36.146484,
+    -115.190696,
+    36.146484
+],
   "geometry": {"coordinates":[-115.190696,36.146484],"type":"Point"}
 }

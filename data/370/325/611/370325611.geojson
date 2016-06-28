@@ -2,13 +2,14 @@
   "id": 370325611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817209,39.500653,-119.817209,39.500653",
     "geom:latitude":39.500653,
     "geom:longitude":-119.817209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370325611,
-    "wof:lastmodified":1449030411,
+    "wof:lastmodified":1466704789,
     "wof:name":"Barneybell's Pro Shop",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "course"
     ]
 },
-  "bbox": [-119.817209,39.500653,-119.817209,39.500653],
-  "geometry": {"coordinates":[-119.817209,39.500653],"type":"Point"}
+  "bbox": [
+    -119.817209,
+    39.500653,
+    -119.817209,
+    39.500653
+],
+  "geometry": {"coordinates":[-119.81720900000001,39.500653],"type":"Point"}
 }

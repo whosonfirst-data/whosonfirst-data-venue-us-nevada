@@ -2,13 +2,14 @@
   "id": 354047711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086218,36.021564,-115.086218,36.021564",
     "geom:latitude":36.021564,
     "geom:longitude":-115.086218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Village Walk Drive",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354047711,
-    "wof:lastmodified":1449067066,
+    "wof:lastmodified":1466702710,
     "wof:name":"My Gym",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [-115.086218,36.021564,-115.086218,36.021564],
+  "bbox": [
+    -115.086218,
+    36.021564,
+    -115.086218,
+    36.021564
+],
   "geometry": {"coordinates":[-115.086218,36.021564],"type":"Point"}
 }

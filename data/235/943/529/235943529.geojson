@@ -2,13 +2,14 @@
   "id": 235943529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803062,39.511055,-119.803062,39.511055",
     "geom:latitude":39.511055,
     "geom:longitude":-119.803062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235943529,
-    "wof:lastmodified":1449008346,
+    "wof:lastmodified":1466703488,
     "wof:name":"Eatos Burritos",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.803062,39.511055,-119.803062,39.511055],
+  "bbox": [
+    -119.803062,
+    39.511055,
+    -119.803062,
+    39.511055
+],
   "geometry": {"coordinates":[-119.803062,39.511055],"type":"Point"}
 }

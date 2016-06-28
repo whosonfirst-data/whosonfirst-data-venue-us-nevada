@@ -2,13 +2,14 @@
   "id": 219309811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.844433,35.974647,-114.844433,35.974647",
     "geom:latitude":35.974647,
     "geom:longitude":-114.844433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219309811,
-    "wof:lastmodified":1449071184,
+    "wof:lastmodified":1466703174,
     "wof:name":"Albertsons 693",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supermarket"
     ]
 },
-  "bbox": [-114.844433,35.974647,-114.844433,35.974647],
+  "bbox": [
+    -114.844433,
+    35.974647,
+    -114.844433,
+    35.974647
+],
   "geometry": {"coordinates":[-114.844433,35.974647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219903391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798818,39.495642,-119.798818,39.495642",
     "geom:latitude":39.495642,
     "geom:longitude":-119.798818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219903391,
-    "wof:lastmodified":1449070595,
+    "wof:lastmodified":1466705559,
     "wof:name":"Sierra Stock Club Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-119.798818,39.495642,-119.798818,39.495642],
+  "bbox": [
+    -119.798818,
+    39.495642,
+    -119.798818,
+    39.495642
+],
   "geometry": {"coordinates":[-119.798818,39.495642],"type":"Point"}
 }

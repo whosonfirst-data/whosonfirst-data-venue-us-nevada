@@ -2,13 +2,14 @@
   "id": 219763743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142808,36.161415,-115.142808,36.161415",
     "geom:latitude":36.161415,
     "geom:longitude":-115.142808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 S 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219763743,
-    "wof:lastmodified":1449073904,
+    "wof:lastmodified":1466704975,
     "wof:name":"Bailard Investments LLC",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-115.142808,36.161415,-115.142808,36.161415],
+  "bbox": [
+    -115.142808,
+    36.161415,
+    -115.142808,
+    36.161415
+],
   "geometry": {"coordinates":[-115.142808,36.161415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236568741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200593,36.238667,-115.200593,36.238667",
     "geom:latitude":36.238667,
     "geom:longitude":-115.200593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4386 Valley Royal Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236568741,
-    "wof:lastmodified":1449001619,
+    "wof:lastmodified":1466706101,
     "wof:name":"Dw Pealer Backhoe Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.200593,36.238667,-115.200593,36.238667],
+  "bbox": [
+    -115.200593,
+    36.238667,
+    -115.200593,
+    36.238667
+],
   "geometry": {"coordinates":[-115.200593,36.238667],"type":"Point"}
 }

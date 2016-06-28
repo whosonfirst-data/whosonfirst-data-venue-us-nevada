@@ -2,13 +2,14 @@
   "id": 219170075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238248,36.205124,-115.238248,36.205124",
     "geom:latitude":36.205124,
     "geom:longitude":-115.238248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6577 Goldensun Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219170075,
-    "wof:lastmodified":1449070722,
+    "wof:lastmodified":1466701707,
     "wof:name":"Auto Interior Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "customizing"
     ]
 },
-  "bbox": [-115.238248,36.205124,-115.238248,36.205124],
+  "bbox": [
+    -115.238248,
+    36.205124,
+    -115.238248,
+    36.205124
+],
   "geometry": {"coordinates":[-115.238248,36.205124],"type":"Point"}
 }

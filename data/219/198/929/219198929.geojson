@@ -2,13 +2,14 @@
   "id": 219198929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208206,36.201519,-115.208206,36.201519",
     "geom:latitude":36.201519,
     "geom:longitude":-115.208206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5027 Auborn Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219198929,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466702059,
     "wof:name":"Carroll Sign Co",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.208206,36.201519,-115.208206,36.201519],
+  "bbox": [
+    -115.208206,
+    36.201519,
+    -115.208206,
+    36.201519
+],
   "geometry": {"coordinates":[-115.208206,36.201519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220111681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.30665,36.242386,-115.30665,36.242386",
     "geom:latitude":36.242386,
     "geom:longitude":-115.30665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9685 Stange Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220111681,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466702471,
     "wof:name":"Daria Clarke-Idea Master Train",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trainer"
     ]
 },
-  "bbox": [-115.30665,36.242386,-115.30665,36.242386],
+  "bbox": [
+    -115.30665,
+    36.242386,
+    -115.30665,
+    36.242386
+],
   "geometry": {"coordinates":[-115.30665,36.242386],"type":"Point"}
 }

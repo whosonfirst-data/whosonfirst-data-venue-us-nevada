@@ -2,13 +2,14 @@
   "id": 236502661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242859,36.135913,-115.242859,36.135913",
     "geom:latitude":36.135913,
     "geom:longitude":-115.242859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236502661,
-    "wof:lastmodified":1449003107,
+    "wof:lastmodified":1466705947,
     "wof:name":"Vincent Nalbone MD",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.242859,36.135913,-115.242859,36.135913],
+  "bbox": [
+    -115.242859,
+    36.135913,
+    -115.242859,
+    36.135913
+],
   "geometry": {"coordinates":[-115.242859,36.135913],"type":"Point"}
 }

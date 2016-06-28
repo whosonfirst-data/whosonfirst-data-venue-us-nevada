@@ -2,13 +2,14 @@
   "id": 219199885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111362,36.141703,-115.111362,36.141703",
     "geom:latitude":36.141703,
     "geom:longitude":-115.111362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 Klinger Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219199885,
-    "wof:lastmodified":1449070752,
+    "wof:lastmodified":1466702060,
     "wof:name":"State Of Nevada Employees Assn",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "association"
     ]
 },
-  "bbox": [-115.111362,36.141703,-115.111362,36.141703],
+  "bbox": [
+    -115.111362,
+    36.141703,
+    -115.111362,
+    36.141703
+],
   "geometry": {"coordinates":[-115.111362,36.141703],"type":"Point"}
 }

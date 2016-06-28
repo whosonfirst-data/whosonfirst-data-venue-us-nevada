@@ -2,13 +2,14 @@
   "id": 219267403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.794151,39.474945,-118.794151,39.474945",
     "geom:latitude":39.474945,
     "geom:longitude":-118.794151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219267403,
-    "wof:lastmodified":1449073599,
+    "wof:lastmodified":1466702706,
     "wof:name":"Big Horn Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-118.794151,39.474945,-118.794151,39.474945],
+  "bbox": [
+    -118.794151,
+    39.474945,
+    -118.794151,
+    39.474945
+],
   "geometry": {"coordinates":[-118.794151,39.474945],"type":"Point"}
 }

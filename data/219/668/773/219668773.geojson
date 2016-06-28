@@ -2,13 +2,14 @@
   "id": 219668773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.854051,35.969915,-114.854051,35.969915",
     "geom:latitude":35.969915,
     "geom:longitude":-114.854051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219668773,
-    "wof:lastmodified":1449072851,
+    "wof:lastmodified":1466704152,
     "wof:name":"Boulder City Lock & Key",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-114.854051,35.969915,-114.854051,35.969915],
+  "bbox": [
+    -114.854051,
+    35.969915,
+    -114.854051,
+    35.969915
+],
   "geometry": {"coordinates":[-114.854051,35.969915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236411641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242911,36.140484,-115.242911,36.140484",
     "geom:latitude":36.140484,
     "geom:longitude":-115.242911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236411641,
-    "wof:lastmodified":1449001794,
+    "wof:lastmodified":1466705405,
     "wof:name":"Fleet-Net Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "public"
     ]
 },
-  "bbox": [-115.242911,36.140484,-115.242911,36.140484],
-  "geometry": {"coordinates":[-115.242911,36.140484],"type":"Point"}
+  "bbox": [
+    -115.242911,
+    36.140484,
+    -115.242911,
+    36.140484
+],
+  "geometry": {"coordinates":[-115.24291100000001,36.140484],"type":"Point"}
 }

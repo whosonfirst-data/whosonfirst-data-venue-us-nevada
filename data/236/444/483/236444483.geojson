@@ -2,13 +2,14 @@
   "id": 236444483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150714,36.14499,-115.150714,36.14499",
     "geom:latitude":36.14499,
     "geom:longitude":-115.150714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 San Pedro Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236444483,
-    "wof:lastmodified":1449004707,
+    "wof:lastmodified":1466705679,
     "wof:name":"Desert Springs Pools and Spas",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.150714,36.14499,-115.150714,36.14499],
-  "geometry": {"coordinates":[-115.150714,36.14499],"type":"Point"}
+  "bbox": [
+    -115.150714,
+    36.14499,
+    -115.150714,
+    36.14499
+],
+  "geometry": {"coordinates":[-115.15071399999999,36.14499],"type":"Point"}
 }

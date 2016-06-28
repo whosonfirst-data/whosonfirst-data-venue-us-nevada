@@ -2,13 +2,14 @@
   "id": 354003357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.025865,36.045236,-115.025865,36.045236",
     "geom:latitude":36.045236,
     "geom:longitude":-115.025865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Auto Show Drive",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354003357,
-    "wof:lastmodified":1449067540,
+    "wof:lastmodified":1466701539,
     "wof:name":"Shack Honda Findlay",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.025865,36.045236,-115.025865,36.045236],
+  "bbox": [
+    -115.025865,
+    36.045236,
+    -115.025865,
+    36.045236
+],
   "geometry": {"coordinates":[-115.025865,36.045236],"type":"Point"}
 }

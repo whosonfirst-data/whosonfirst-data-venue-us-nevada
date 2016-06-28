@@ -2,13 +2,14 @@
   "id": 236183041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222942,36.129488,-115.222942,36.129488",
     "geom:latitude":36.129488,
     "geom:longitude":-115.222942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3275 Red Rock St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236183041,
-    "wof:lastmodified":1449003425,
+    "wof:lastmodified":1466703240,
     "wof:name":"Desert Palm Tennis Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.222942,36.129488,-115.222942,36.129488],
+  "bbox": [
+    -115.222942,
+    36.129488,
+    -115.222942,
+    36.129488
+],
   "geometry": {"coordinates":[-115.222942,36.129488],"type":"Point"}
 }

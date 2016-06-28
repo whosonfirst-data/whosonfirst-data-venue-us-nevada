@@ -2,13 +2,14 @@
   "id": 370177823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207393,36.237312,-115.207393,36.237312",
     "geom:latitude":36.237312,
     "geom:longitude":-115.207393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370177823,
-    "wof:lastmodified":1449032470,
+    "wof:lastmodified":1466702092,
     "wof:name":"Clark County Parent Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-115.207393,36.237312,-115.207393,36.237312],
+  "bbox": [
+    -115.207393,
+    36.237312,
+    -115.207393,
+    36.237312
+],
   "geometry": {"coordinates":[-115.207393,36.237312],"type":"Point"}
 }

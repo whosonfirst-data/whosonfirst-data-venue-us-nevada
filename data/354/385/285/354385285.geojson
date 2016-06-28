@@ -2,13 +2,14 @@
   "id": 354385285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097022,36.114685,-115.097022,36.114685",
     "geom:latitude":36.114685,
     "geom:longitude":-115.097022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3585 E Flamingo Rd Ste 204",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354385285,
-    "wof:lastmodified":1449066955,
+    "wof:lastmodified":1466706116,
     "wof:name":"Nannies & Housekeepers USA",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-115.097022,36.114685,-115.097022,36.114685],
+  "bbox": [
+    -115.097022,
+    36.114685,
+    -115.097022,
+    36.114685
+],
   "geometry": {"coordinates":[-115.097022,36.114685],"type":"Point"}
 }

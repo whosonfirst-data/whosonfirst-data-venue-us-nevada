@@ -2,13 +2,14 @@
   "id": 219496305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774923,38.958355,-119.774923,38.958355",
     "geom:latitude":38.958355,
     "geom:longitude":-119.774923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1679 US Hwy 395 N",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219496305,
-    "wof:lastmodified":1449073376,
+    "wof:lastmodified":1466704141,
     "wof:name":"Wild Horse Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774923,38.958355,-119.774923,38.958355],
+  "bbox": [
+    -119.774923,
+    38.958355,
+    -119.774923,
+    38.958355
+],
   "geometry": {"coordinates":[-119.774923,38.958355],"type":"Point"}
 }

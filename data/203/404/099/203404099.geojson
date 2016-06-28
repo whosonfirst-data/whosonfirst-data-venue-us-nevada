@@ -2,13 +2,14 @@
   "id": 203404099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759451,39.488422,-119.759451,39.488422",
     "geom:latitude":39.488422,
     "geom:longitude":-119.759451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4591 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203404099,
-    "wof:lastmodified":1449026237,
+    "wof:lastmodified":1466703331,
     "wof:name":"Arora Engineering Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "engineer"
     ]
 },
-  "bbox": [-119.759451,39.488422,-119.759451,39.488422],
+  "bbox": [
+    -119.759451,
+    39.488422,
+    -119.759451,
+    39.488422
+],
   "geometry": {"coordinates":[-119.759451,39.488422],"type":"Point"}
 }

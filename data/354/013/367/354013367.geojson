@@ -2,13 +2,14 @@
   "id": 354013367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.997002,36.0536,-114.997002,36.0536",
     "geom:latitude":36.0536,
     "geom:longitude":-114.997002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 N Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354013367,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1466701832,
     "wof:name":"Centerfold Lounge",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-114.997002,36.0536,-114.997002,36.0536],
-  "geometry": {"coordinates":[-114.997002,36.0536],"type":"Point"}
+  "bbox": [
+    -114.997002,
+    36.0536,
+    -114.997002,
+    36.0536
+],
+  "geometry": {"coordinates":[-114.99700199999999,36.0536],"type":"Point"}
 }

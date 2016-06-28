@@ -2,13 +2,14 @@
   "id": 354000977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055162,36.056417,-115.055162,36.056417",
     "geom:latitude":36.056417,
     "geom:longitude":-115.055162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1654 W Warm Springs Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354000977,
-    "wof:lastmodified":1449066205,
+    "wof:lastmodified":1466704279,
     "wof:name":"Golden Kitchen",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diner"
     ]
 },
-  "bbox": [-115.055162,36.056417,-115.055162,36.056417],
+  "bbox": [
+    -115.055162,
+    36.056417,
+    -115.055162,
+    36.056417
+],
   "geometry": {"coordinates":[-115.055162,36.056417],"type":"Point"}
 }

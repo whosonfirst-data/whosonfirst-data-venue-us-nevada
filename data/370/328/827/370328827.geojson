@@ -2,13 +2,14 @@
   "id": 370328827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77737,39.452761,-119.77737,39.452761",
     "geom:latitude":39.452761,
     "geom:longitude":-119.77737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8175 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370328827,
-    "wof:lastmodified":1449031071,
+    "wof:lastmodified":1466704708,
     "wof:name":"Let Us Mail",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "shipping"
     ]
 },
-  "bbox": [-119.77737,39.452761,-119.77737,39.452761],
+  "bbox": [
+    -119.77737,
+    39.452761,
+    -119.77737,
+    39.452761
+],
   "geometry": {"coordinates":[-119.77737,39.452761],"type":"Point"}
 }

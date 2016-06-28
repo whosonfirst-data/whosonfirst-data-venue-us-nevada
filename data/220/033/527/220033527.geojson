@@ -2,13 +2,14 @@
   "id": 220033527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168449,36.145152,-115.168449,36.145152",
     "geom:latitude":36.145152,
     "geom:longitude":-115.168449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2326 Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220033527,
-    "wof:lastmodified":1449074211,
+    "wof:lastmodified":1466701826,
     "wof:name":"B & A Trading",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-115.168449,36.145152,-115.168449,36.145152],
+  "bbox": [
+    -115.168449,
+    36.145152,
+    -115.168449,
+    36.145152
+],
   "geometry": {"coordinates":[-115.168449,36.145152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370147859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260002,36.199799,-115.260002,36.199799",
     "geom:latitude":36.199799,
     "geom:longitude":-115.260002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Club Pacific Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370147859,
-    "wof:lastmodified":1449032111,
+    "wof:lastmodified":1466704275,
     "wof:name":"Indigo Creek Apartments",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.260002,36.199799,-115.260002,36.199799],
+  "bbox": [
+    -115.260002,
+    36.199799,
+    -115.260002,
+    36.199799
+],
   "geometry": {"coordinates":[-115.260002,36.199799],"type":"Point"}
 }

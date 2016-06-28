@@ -2,13 +2,14 @@
   "id": 203224063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782931,39.477002,-119.782931,39.477002",
     "geom:latitude":39.477002,
     "geom:longitude":-119.782931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5089 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203224063,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466702319,
     "wof:name":"Ddatt Enterprises Limited",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [-119.782931,39.477002,-119.782931,39.477002],
+  "bbox": [
+    -119.782931,
+    39.477002,
+    -119.782931,
+    39.477002
+],
   "geometry": {"coordinates":[-119.782931,39.477002],"type":"Point"}
 }

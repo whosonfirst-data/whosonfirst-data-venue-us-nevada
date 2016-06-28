@@ -2,13 +2,14 @@
   "id": 203417175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.753007,40.841155,-115.753007,40.841155",
     "geom:latitude":40.841155,
     "geom:longitude":-115.753007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203417175,
-    "wof:lastmodified":1449025697,
+    "wof:lastmodified":1466703391,
     "wof:name":"Elko Dinner Station",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.753007,40.841155,-115.753007,40.841155],
+  "bbox": [
+    -115.753007,
+    40.841155,
+    -115.753007,
+    40.841155
+],
   "geometry": {"coordinates":[-115.753007,40.841155],"type":"Point"}
 }

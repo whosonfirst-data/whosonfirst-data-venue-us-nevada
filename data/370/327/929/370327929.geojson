@@ -2,13 +2,14 @@
   "id": 370327929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78459,39.467655,-119.78459,39.467655",
     "geom:latitude":39.467655,
     "geom:longitude":-119.78459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6425 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370327929,
-    "wof:lastmodified":1449029341,
+    "wof:lastmodified":1466704697,
     "wof:name":"Animal Emergency Center",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "hospital"
     ]
 },
-  "bbox": [-119.78459,39.467655,-119.78459,39.467655],
-  "geometry": {"coordinates":[-119.78459,39.467655],"type":"Point"}
+  "bbox": [
+    -119.78459,
+    39.467655,
+    -119.78459,
+    39.467655
+],
+  "geometry": {"coordinates":[-119.78458999999999,39.467655],"type":"Point"}
 }

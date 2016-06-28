@@ -2,13 +2,14 @@
   "id": 236216257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091059,36.058662,-115.091059,36.058662",
     "geom:latitude":36.058662,
     "geom:longitude":-115.091059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Heavenly View Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236216257,
-    "wof:lastmodified":1449004793,
+    "wof:lastmodified":1466703900,
     "wof:name":"Rainbow Design",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-115.091059,36.058662,-115.091059,36.058662],
+  "bbox": [
+    -115.091059,
+    36.058662,
+    -115.091059,
+    36.058662
+],
   "geometry": {"coordinates":[-115.091059,36.058662],"type":"Point"}
 }

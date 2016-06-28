@@ -2,13 +2,14 @@
   "id": 219658349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189681,36.188469,-115.189681,36.188469",
     "geom:latitude":36.188469,
     "geom:longitude":-115.189681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 W Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219658349,
-    "wof:lastmodified":1449070303,
+    "wof:lastmodified":1466703969,
     "wof:name":"Party Gals",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dru"
     ]
 },
-  "bbox": [-115.189681,36.188469,-115.189681,36.188469],
-  "geometry": {"coordinates":[-115.189681,36.188469],"type":"Point"}
+  "bbox": [
+    -115.189681,
+    36.188469,
+    -115.189681,
+    36.188469
+],
+  "geometry": {"coordinates":[-115.18968099999999,36.188469],"type":"Point"}
 }

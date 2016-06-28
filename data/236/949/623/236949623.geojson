@@ -2,13 +2,14 @@
   "id": 236949623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096899,36.100166,-115.096899,36.100166",
     "geom:latitude":36.100166,
     "geom:longitude":-115.096899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3514 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236949623,
-    "wof:lastmodified":1449003744,
+    "wof:lastmodified":1466706878,
     "wof:name":"Maids & More",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.096899,36.100166,-115.096899,36.100166],
-  "geometry": {"coordinates":[-115.096899,36.100166],"type":"Point"}
+  "bbox": [
+    -115.096899,
+    36.100166,
+    -115.096899,
+    36.100166
+],
+  "geometry": {"coordinates":[-115.09689899999999,36.100166],"type":"Point"}
 }

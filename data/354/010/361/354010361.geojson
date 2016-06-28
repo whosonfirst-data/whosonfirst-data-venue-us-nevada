@@ -2,13 +2,14 @@
   "id": 354010361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059463,36.063873,-115.059463,36.063873",
     "geom:latitude":36.063873,
     "geom:longitude":-115.059463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 W Sunset Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354010361,
-    "wof:lastmodified":1449067010,
+    "wof:lastmodified":1466701741,
     "wof:name":"City Stop III",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.059463,36.063873,-115.059463,36.063873],
-  "geometry": {"coordinates":[-115.059463,36.063873],"type":"Point"}
+  "bbox": [
+    -115.059463,
+    36.063873,
+    -115.059463,
+    36.063873
+],
+  "geometry": {"coordinates":[-115.05946299999999,36.063873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236374483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.866966,39.259209,-114.866966,39.259209",
     "geom:latitude":39.259209,
     "geom:longitude":-114.866966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Ave B",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236374483,
-    "wof:lastmodified":1449003027,
+    "wof:lastmodified":1466705285,
     "wof:name":"Country Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-114.866966,39.259209,-114.866966,39.259209],
-  "geometry": {"coordinates":[-114.866966,39.259209],"type":"Point"}
+  "bbox": [
+    -114.866966,
+    39.259209,
+    -114.866966,
+    39.259209
+],
+  "geometry": {"coordinates":[-114.86696600000001,39.259209],"type":"Point"}
 }

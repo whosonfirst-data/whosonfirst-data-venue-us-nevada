@@ -2,13 +2,14 @@
   "id": 219923537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283876,36.268209,-115.283876,36.268209",
     "geom:latitude":36.268209,
     "geom:longitude":-115.283876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8685 Corbett St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219923537,
-    "wof:lastmodified":1449073794,
+    "wof:lastmodified":1466705759,
     "wof:name":"McLane Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.283876,36.268209,-115.283876,36.268209],
-  "geometry": {"coordinates":[-115.283876,36.268209],"type":"Point"}
+  "bbox": [
+    -115.283876,
+    36.268209,
+    -115.283876,
+    36.268209
+],
+  "geometry": {"coordinates":[-115.28387600000001,36.268209],"type":"Point"}
 }

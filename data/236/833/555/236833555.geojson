@@ -2,13 +2,14 @@
   "id": 236833555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164218,36.054529,-115.164218,36.054529",
     "geom:latitude":36.054529,
     "geom:longitude":-115.164218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Ebb Tide Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236833555,
-    "wof:lastmodified":1449001995,
+    "wof:lastmodified":1466706707,
     "wof:name":"DLS Limousine Svc",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-115.164218,36.054529,-115.164218,36.054529],
-  "geometry": {"coordinates":[-115.164218,36.054529],"type":"Point"}
+  "bbox": [
+    -115.164218,
+    36.054529,
+    -115.164218,
+    36.054529
+],
+  "geometry": {"coordinates":[-115.16421800000001,36.054529],"type":"Point"}
 }

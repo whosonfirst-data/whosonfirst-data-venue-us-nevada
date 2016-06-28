@@ -2,13 +2,14 @@
   "id": 219569727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084141,36.052034,-115.084141,36.052034",
     "geom:latitude":36.052034,
     "geom:longitude":-115.084141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Gondola Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219569727,
-    "wof:lastmodified":1449073772,
+    "wof:lastmodified":1466702570,
     "wof:name":"Tom Vankempen",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-115.084141,36.052034,-115.084141,36.052034],
+  "bbox": [
+    -115.084141,
+    36.052034,
+    -115.084141,
+    36.052034
+],
   "geometry": {"coordinates":[-115.084141,36.052034],"type":"Point"}
 }

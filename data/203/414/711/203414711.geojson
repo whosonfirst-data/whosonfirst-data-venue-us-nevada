@@ -2,13 +2,14 @@
   "id": 203414711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08701,36.07742,-115.08701,36.07742",
     "geom:latitude":36.07742,
     "geom:longitude":-115.08701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6145 Annie Oakley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203414711,
-    "wof:lastmodified":1449025804,
+    "wof:lastmodified":1466703385,
     "wof:name":"Green Valley Turf Equipment",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mower"
     ]
 },
-  "bbox": [-115.08701,36.07742,-115.08701,36.07742],
-  "geometry": {"coordinates":[-115.08701,36.07742],"type":"Point"}
+  "bbox": [
+    -115.08701,
+    36.07742,
+    -115.08701,
+    36.07742
+],
+  "geometry": {"coordinates":[-115.08701000000001,36.07742],"type":"Point"}
 }

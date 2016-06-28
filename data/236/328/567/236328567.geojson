@@ -2,13 +2,14 @@
   "id": 236328567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093598,36.113829,-115.093598,36.113829",
     "geom:latitude":36.113829,
     "geom:longitude":-115.093598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 E Pinecrest Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236328567,
-    "wof:lastmodified":1449003622,
+    "wof:lastmodified":1466704777,
     "wof:name":"Marc Anthony Productions",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.093598,36.113829,-115.093598,36.113829],
+  "bbox": [
+    -115.093598,
+    36.113829,
+    -115.093598,
+    36.113829
+],
   "geometry": {"coordinates":[-115.093598,36.113829],"type":"Point"}
 }

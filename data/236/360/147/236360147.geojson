@@ -2,13 +2,14 @@
   "id": 236360147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.821474,35.973454,-114.821474,35.973454",
     "geom:latitude":35.973454,
     "geom:longitude":-114.821474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 Lillo Ct",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236360147,
-    "wof:lastmodified":1449004340,
+    "wof:lastmodified":1466705111,
     "wof:name":"Procare Landscape Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.821474,35.973454,-114.821474,35.973454],
-  "geometry": {"coordinates":[-114.821474,35.973454],"type":"Point"}
+  "bbox": [
+    -114.821474,
+    35.973454,
+    -114.821474,
+    35.973454
+],
+  "geometry": {"coordinates":[-114.82147399999999,35.973454],"type":"Point"}
 }

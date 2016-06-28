@@ -2,13 +2,14 @@
   "id": 220106521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183272,36.159028,-115.183272,36.159028",
     "geom:latitude":36.159028,
     "geom:longitude":-115.183272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220106521,
-    "wof:lastmodified":1449074048,
+    "wof:lastmodified":1466702425,
     "wof:name":"Solari Hospice Care LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "palliative"
     ]
 },
-  "bbox": [-115.183272,36.159028,-115.183272,36.159028],
+  "bbox": [
+    -115.183272,
+    36.159028,
+    -115.183272,
+    36.159028
+],
   "geometry": {"coordinates":[-115.183272,36.159028],"type":"Point"}
 }

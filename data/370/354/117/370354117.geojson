@@ -2,13 +2,14 @@
   "id": 370354117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792,39.112301,-119.792,39.112301",
     "geom:latitude":39.112301,
     "geom:longitude":-119.792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Old Clear Creek Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370354117,
-    "wof:lastmodified":1449032095,
+    "wof:lastmodified":1466705196,
     "wof:name":"Carson Tahoe Self Storage Warehouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-119.792,39.112301,-119.792,39.112301],
+  "bbox": [
+    -119.792,
+    39.112301,
+    -119.792,
+    39.112301
+],
   "geometry": {"coordinates":[-119.792,39.112301],"type":"Point"}
 }

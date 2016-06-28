@@ -2,13 +2,14 @@
   "id": 203188369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176113,36.132759,-115.176113,36.132759",
     "geom:latitude":36.132759,
     "geom:longitude":-115.176113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203188369,
-    "wof:lastmodified":1449025871,
+    "wof:lastmodified":1466701911,
     "wof:name":"Graphic Concepts",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-115.176113,36.132759,-115.176113,36.132759],
+  "bbox": [
+    -115.176113,
+    36.132759,
+    -115.176113,
+    36.132759
+],
   "geometry": {"coordinates":[-115.176113,36.132759],"type":"Point"}
 }

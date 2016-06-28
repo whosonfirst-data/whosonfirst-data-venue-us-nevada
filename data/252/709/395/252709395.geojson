@@ -2,13 +2,14 @@
   "id": 252709395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114623,36.225087,-115.114623,36.225087",
     "geom:latitude":36.225087,
     "geom:longitude":-115.114623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 E Gowan Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252709395,
-    "wof:lastmodified":1449005632,
+    "wof:lastmodified":1466701505,
     "wof:name":"Sunroc Corp",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "block"
     ]
 },
-  "bbox": [-115.114623,36.225087,-115.114623,36.225087],
-  "geometry": {"coordinates":[-115.114623,36.225087],"type":"Point"}
+  "bbox": [
+    -115.114623,
+    36.225087,
+    -115.114623,
+    36.225087
+],
+  "geometry": {"coordinates":[-115.11462299999999,36.225087],"type":"Point"}
 }

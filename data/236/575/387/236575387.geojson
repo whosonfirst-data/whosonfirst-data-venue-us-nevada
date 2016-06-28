@@ -2,13 +2,14 @@
   "id": 236575387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768,39.457947,-119.768,39.457947",
     "geom:latitude":39.457947,
     "geom:longitude":-119.768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7415 Offenhauser Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236575387,
-    "wof:lastmodified":1449002429,
+    "wof:lastmodified":1466706323,
     "wof:name":"Rosas Cleaning Service",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.768,39.457947,-119.768,39.457947],
+  "bbox": [
+    -119.768,
+    39.457947,
+    -119.768,
+    39.457947
+],
   "geometry": {"coordinates":[-119.768,39.457947],"type":"Point"}
 }

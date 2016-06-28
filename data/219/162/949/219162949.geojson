@@ -2,13 +2,14 @@
   "id": 219162949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.848028,39.48263,-119.848028,39.48263",
     "geom:latitude":39.48263,
     "geom:longitude":-119.848028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Bryce Canyon Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219162949,
-    "wof:lastmodified":1449073399,
+    "wof:lastmodified":1466701613,
     "wof:name":"Edward R Stimmel CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.848028,39.48263,-119.848028,39.48263],
+  "bbox": [
+    -119.848028,
+    39.48263,
+    -119.848028,
+    39.48263
+],
   "geometry": {"coordinates":[-119.848028,39.48263],"type":"Point"}
 }

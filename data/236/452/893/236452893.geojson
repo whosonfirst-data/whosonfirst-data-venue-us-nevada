@@ -2,13 +2,14 @@
   "id": 236452893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772919,39.163917,-119.772919,39.163917",
     "geom:latitude":39.163917,
     "geom:longitude":-119.772919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Mountain St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236452893,
-    "wof:lastmodified":1449002264,
+    "wof:lastmodified":1466705510,
     "wof:name":"William J Lloyd Jr MD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.772919,39.163917,-119.772919,39.163917],
+  "bbox": [
+    -119.772919,
+    39.163917,
+    -119.772919,
+    39.163917
+],
   "geometry": {"coordinates":[-119.772919,39.163917],"type":"Point"}
 }

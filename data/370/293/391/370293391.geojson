@@ -2,13 +2,14 @@
   "id": 370293391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136808,36.127762,-115.136808,36.127762",
     "geom:latitude":36.127762,
     "geom:longitude":-115.136808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370293391,
-    "wof:lastmodified":1449029757,
+    "wof:lastmodified":1466704343,
     "wof:name":"Desert Eye Care",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136808,36.127762,-115.136808,36.127762],
+  "bbox": [
+    -115.136808,
+    36.127762,
+    -115.136808,
+    36.127762
+],
   "geometry": {"coordinates":[-115.136808,36.127762],"type":"Point"}
 }

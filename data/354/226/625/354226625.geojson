@@ -2,13 +2,14 @@
   "id": 354226625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242711,36.232913,-115.242711,36.232913",
     "geom:latitude":36.232913,
     "geom:longitude":-115.242711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6731 W Alexander Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354226625,
-    "wof:lastmodified":1449067196,
+    "wof:lastmodified":1466705036,
     "wof:name":"# 007 Day",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.242711,36.232913,-115.242711,36.232913],
+  "bbox": [
+    -115.242711,
+    36.232913,
+    -115.242711,
+    36.232913
+],
   "geometry": {"coordinates":[-115.242711,36.232913],"type":"Point"}
 }

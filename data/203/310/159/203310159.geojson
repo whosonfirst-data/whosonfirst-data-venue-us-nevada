@@ -2,13 +2,14 @@
   "id": 203310159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270072,36.183538,-115.270072,36.183538",
     "geom:latitude":36.183538,
     "geom:longitude":-115.270072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8029 Cherish Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310159,
-    "wof:lastmodified":1449026105,
+    "wof:lastmodified":1466702915,
     "wof:name":"Diara International",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-115.270072,36.183538,-115.270072,36.183538],
+  "bbox": [
+    -115.270072,
+    36.183538,
+    -115.270072,
+    36.183538
+],
   "geometry": {"coordinates":[-115.270072,36.183538],"type":"Point"}
 }

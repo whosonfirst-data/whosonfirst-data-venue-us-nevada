@@ -2,13 +2,14 @@
   "id": 203239735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.16086,38.980161,-119.16086,38.980161",
     "geom:latitude":38.980161,
     "geom:longitude":-119.16086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Shipley Dr",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203239735,
-    "wof:lastmodified":1449025116,
+    "wof:lastmodified":1466702440,
     "wof:name":"K & K Aerial Applicators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-119.16086,38.980161,-119.16086,38.980161],
+  "bbox": [
+    -119.16086,
+    38.980161,
+    -119.16086,
+    38.980161
+],
   "geometry": {"coordinates":[-119.16086,38.980161],"type":"Point"}
 }

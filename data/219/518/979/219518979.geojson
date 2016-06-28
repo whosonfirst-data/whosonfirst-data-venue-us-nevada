@@ -2,13 +2,14 @@
   "id": 219518979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.766309,40.82826,-115.766309,40.82826",
     "geom:latitude":40.82826,
     "geom:longitude":-115.766309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Main St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219518979,
-    "wof:lastmodified":1449072373,
+    "wof:lastmodified":1466701640,
     "wof:name":"Blach Distributing Co",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "liquor"
     ]
 },
-  "bbox": [-115.766309,40.82826,-115.766309,40.82826],
-  "geometry": {"coordinates":[-115.766309,40.82826],"type":"Point"}
+  "bbox": [
+    -115.766309,
+    40.82826,
+    -115.766309,
+    40.82826
+],
+  "geometry": {"coordinates":[-115.76630900000001,40.82826],"type":"Point"}
 }

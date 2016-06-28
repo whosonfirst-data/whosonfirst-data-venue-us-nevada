@@ -2,13 +2,14 @@
   "id": 203280645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096018,36.036582,-115.096018,36.036582",
     "geom:latitude":36.036582,
     "geom:longitude":-115.096018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Ultra Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203280645,
-    "wof:lastmodified":1449025856,
+    "wof:lastmodified":1466702693,
     "wof:name":"Englehart Consulting LLC",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.096018,36.036582,-115.096018,36.036582],
+  "bbox": [
+    -115.096018,
+    36.036582,
+    -115.096018,
+    36.036582
+],
   "geometry": {"coordinates":[-115.096018,36.036582],"type":"Point"}
 }

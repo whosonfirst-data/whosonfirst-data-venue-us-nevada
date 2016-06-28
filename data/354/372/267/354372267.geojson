@@ -2,13 +2,14 @@
   "id": 354372267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091697,36.077618,-115.091697,36.077618",
     "geom:latitude":36.077618,
     "geom:longitude":-115.091697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 S Sandhill Rd Ste 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354372267,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1466706030,
     "wof:name":"Pure Essence Labs",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.091697,36.077618,-115.091697,36.077618],
+  "bbox": [
+    -115.091697,
+    36.077618,
+    -115.091697,
+    36.077618
+],
   "geometry": {"coordinates":[-115.091697,36.077618],"type":"Point"}
 }

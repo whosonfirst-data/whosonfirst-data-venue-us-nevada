@@ -2,13 +2,14 @@
   "id": 236811921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.888102,39.247702,-114.888102,39.247702",
     "geom:latitude":39.247702,
     "geom:longitude":-114.888102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 Campton St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236811921,
-    "wof:lastmodified":1449003198,
+    "wof:lastmodified":1466706535,
     "wof:name":"White Pine County Maintenance",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.888102,39.247702,-114.888102,39.247702],
+  "bbox": [
+    -114.888102,
+    39.247702,
+    -114.888102,
+    39.247702
+],
   "geometry": {"coordinates":[-114.888102,39.247702],"type":"Point"}
 }

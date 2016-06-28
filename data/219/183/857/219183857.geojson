@@ -2,13 +2,14 @@
   "id": 219183857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.846352,39.485326,-118.846352,39.485326",
     "geom:latitude":39.485326,
     "geom:longitude":-118.846352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219183857,
-    "wof:lastmodified":1449072277,
+    "wof:lastmodified":1466701962,
     "wof:name":"Windmill Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-118.846352,39.485326,-118.846352,39.485326],
+  "bbox": [
+    -118.846352,
+    39.485326,
+    -118.846352,
+    39.485326
+],
   "geometry": {"coordinates":[-118.846352,39.485326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236281987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281531,36.200814,-115.281531,36.200814",
     "geom:latitude":36.200814,
     "geom:longitude":-115.281531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2249 N Rampart Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236281987,
-    "wof:lastmodified":1449004644,
+    "wof:lastmodified":1466704565,
     "wof:name":"Foot Solutions Of Las Vegas",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedic"
     ]
 },
-  "bbox": [-115.281531,36.200814,-115.281531,36.200814],
+  "bbox": [
+    -115.281531,
+    36.200814,
+    -115.281531,
+    36.200814
+],
   "geometry": {"coordinates":[-115.281531,36.200814],"type":"Point"}
 }

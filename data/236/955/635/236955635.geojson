@@ -2,13 +2,14 @@
   "id": 236955635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185582,36.123931,-115.185582,36.123931",
     "geom:latitude":36.123931,
     "geom:longitude":-115.185582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3599 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236955635,
-    "wof:lastmodified":1449004037,
+    "wof:lastmodified":1466706874,
     "wof:name":"Las Vegas Painting & Drywall",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.185582,36.123931,-115.185582,36.123931],
+  "bbox": [
+    -115.185582,
+    36.123931,
+    -115.185582,
+    36.123931
+],
   "geometry": {"coordinates":[-115.185582,36.123931],"type":"Point"}
 }

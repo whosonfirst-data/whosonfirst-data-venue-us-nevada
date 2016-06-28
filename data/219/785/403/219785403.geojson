@@ -2,13 +2,14 @@
   "id": 219785403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185423,36.129562,-115.185423,36.129562",
     "geom:latitude":36.129562,
     "geom:longitude":-115.185423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219785403,
-    "wof:lastmodified":1449073319,
+    "wof:lastmodified":1466704996,
     "wof:name":"Wheeler Freightways",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.185423,36.129562,-115.185423,36.129562],
+  "bbox": [
+    -115.185423,
+    36.129562,
+    -115.185423,
+    36.129562
+],
   "geometry": {"coordinates":[-115.185423,36.129562],"type":"Point"}
 }

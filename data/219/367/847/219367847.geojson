@@ -2,13 +2,14 @@
   "id": 219367847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.06004,36.226746,-116.06004,36.226746",
     "geom:latitude":36.226746,
     "geom:longitude":-116.06004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 W Betty Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219367847,
-    "wof:lastmodified":1449072471,
+    "wof:lastmodified":1466703476,
     "wof:name":"Dale's Mobile Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.06004,36.226746,-116.06004,36.226746],
+  "bbox": [
+    -116.06004,
+    36.226746,
+    -116.06004,
+    36.226746
+],
   "geometry": {"coordinates":[-116.06004,36.226746],"type":"Point"}
 }

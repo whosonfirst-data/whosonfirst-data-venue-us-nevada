@@ -2,13 +2,14 @@
   "id": 236295771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.712093,39.543788,-119.712093,39.543788",
     "geom:latitude":39.543788,
     "geom:longitude":-119.712093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Railborne Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236295771,
-    "wof:lastmodified":1449002904,
+    "wof:lastmodified":1466704543,
     "wof:name":"H 2 Nation Publishing Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-119.712093,39.543788,-119.712093,39.543788],
+  "bbox": [
+    -119.712093,
+    39.543788,
+    -119.712093,
+    39.543788
+],
   "geometry": {"coordinates":[-119.712093,39.543788],"type":"Point"}
 }

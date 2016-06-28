@@ -2,13 +2,14 @@
   "id": 236458007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.290049,36.320694,-115.290049,36.320694",
     "geom:latitude":36.320694,
     "geom:longitude":-115.290049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8913 Sheep Ranch Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236458007,
-    "wof:lastmodified":1449004103,
+    "wof:lastmodified":1466705746,
     "wof:name":"Magic Coin Laundry",
     "wof:parent_id":85892681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-115.290049,36.320694,-115.290049,36.320694],
+  "bbox": [
+    -115.290049,
+    36.320694,
+    -115.290049,
+    36.320694
+],
   "geometry": {"coordinates":[-115.290049,36.320694],"type":"Point"}
 }

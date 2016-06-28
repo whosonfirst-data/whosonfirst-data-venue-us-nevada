@@ -2,13 +2,14 @@
   "id": 219496145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769783,39.286863,-119.769783,39.286863",
     "geom:latitude":39.286863,
     "geom:longitude":-119.769783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Magpie Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219496145,
-    "wof:lastmodified":1449073376,
+    "wof:lastmodified":1466704138,
     "wof:name":"Tryon Rentals",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "utility"
     ]
 },
-  "bbox": [-119.769783,39.286863,-119.769783,39.286863],
+  "bbox": [
+    -119.769783,
+    39.286863,
+    -119.769783,
+    39.286863
+],
   "geometry": {"coordinates":[-119.769783,39.286863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220169445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100878,36.056961,-115.100878,36.056961",
     "geom:latitude":36.056961,
     "geom:longitude":-115.100878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3273 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169445,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466702874,
     "wof:name":"Tele-Lawyer Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.100878,36.056961,-115.100878,36.056961],
-  "geometry": {"coordinates":[-115.100878,36.056961],"type":"Point"}
+  "bbox": [
+    -115.100878,
+    36.056961,
+    -115.100878,
+    36.056961
+],
+  "geometry": {"coordinates":[-115.10087799999999,36.056961],"type":"Point"}
 }

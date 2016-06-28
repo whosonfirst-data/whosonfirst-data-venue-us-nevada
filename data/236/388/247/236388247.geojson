@@ -2,13 +2,14 @@
   "id": 236388247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.551427,39.521701,-118.551427,39.521701",
     "geom:latitude":39.521701,
     "geom:longitude":-118.551427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12425 Stillwater Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236388247,
-    "wof:lastmodified":1449001773,
+    "wof:lastmodified":1466705171,
     "wof:name":"Silver Rnge Taxidermist Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.551427,39.521701,-118.551427,39.521701],
+  "bbox": [
+    -118.551427,
+    39.521701,
+    -118.551427,
+    39.521701
+],
   "geometry": {"coordinates":[-118.551427,39.521701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354364555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17315,36.09228,-115.17315,36.09228",
     "geom:latitude":36.09228,
     "geom:longitude":-115.17315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354364555,
-    "wof:lastmodified":1449066906,
+    "wof:lastmodified":1466706072,
     "wof:name":"The Fight Museum",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.17315,36.09228,-115.17315,36.09228],
-  "geometry": {"coordinates":[-115.17315,36.09228],"type":"Point"}
+  "bbox": [
+    -115.17315,
+    36.09228,
+    -115.17315,
+    36.09228
+],
+  "geometry": {"coordinates":[-115.17315000000001,36.09228],"type":"Point"}
 }

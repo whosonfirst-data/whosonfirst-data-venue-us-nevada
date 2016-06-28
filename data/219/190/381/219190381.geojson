@@ -2,13 +2,14 @@
   "id": 219190381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735017,38.884329,-119.735017,38.884329",
     "geom:latitude":38.884329,
     "geom:longitude":-119.735017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1369 Patricia Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219190381,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466702009,
     "wof:name":"Alpine Appliance & Vacuum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.735017,38.884329,-119.735017,38.884329],
+  "bbox": [
+    -119.735017,
+    38.884329,
+    -119.735017,
+    38.884329
+],
   "geometry": {"coordinates":[-119.735017,38.884329],"type":"Point"}
 }

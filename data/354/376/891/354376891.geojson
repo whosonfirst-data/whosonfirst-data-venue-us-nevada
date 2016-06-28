@@ -2,13 +2,14 @@
   "id": 354376891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118431,36.10035,-115.118431,36.10035",
     "geom:latitude":36.10035,
     "geom:longitude":-115.118431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354376891,
-    "wof:lastmodified":1449066496,
+    "wof:lastmodified":1466706152,
     "wof:name":"Walgreens",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-115.118431,36.10035,-115.118431,36.10035],
+  "bbox": [
+    -115.118431,
+    36.10035,
+    -115.118431,
+    36.10035
+],
   "geometry": {"coordinates":[-115.118431,36.10035],"type":"Point"}
 }

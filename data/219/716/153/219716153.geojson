@@ -2,13 +2,14 @@
   "id": 219716153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091385,36.231523,-115.091385,36.231523",
     "geom:latitude":36.231523,
     "geom:longitude":-115.091385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3871 Trellis View Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219716153,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466704558,
     "wof:name":"Top Notch VIP Svcs",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concierge"
     ]
 },
-  "bbox": [-115.091385,36.231523,-115.091385,36.231523],
+  "bbox": [
+    -115.091385,
+    36.231523,
+    -115.091385,
+    36.231523
+],
   "geometry": {"coordinates":[-115.091385,36.231523],"type":"Point"}
 }

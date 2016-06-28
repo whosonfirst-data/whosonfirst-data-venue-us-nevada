@@ -2,13 +2,14 @@
   "id": 354104499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190783,36.137397,-115.190783,36.137397",
     "geom:latitude":36.137397,
     "geom:longitude":-115.190783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 Pennwood Avenue Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354104499,
-    "wof:lastmodified":1449066622,
+    "wof:lastmodified":1466704200,
     "wof:name":"Greenville Park Apartments",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.190783,36.137397,-115.190783,36.137397],
+  "bbox": [
+    -115.190783,
+    36.137397,
+    -115.190783,
+    36.137397
+],
   "geometry": {"coordinates":[-115.190783,36.137397],"type":"Point"}
 }

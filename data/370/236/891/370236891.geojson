@@ -2,13 +2,14 @@
   "id": 370236891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218002,36.159,-115.218002,36.159",
     "geom:latitude":36.159,
     "geom:longitude":-115.218002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370236891,
-    "wof:lastmodified":1449029448,
+    "wof:lastmodified":1466703397,
     "wof:name":"Fellinis Italian Dining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.218002,36.159,-115.218002,36.159],
+  "bbox": [
+    -115.218002,
+    36.159,
+    -115.218002,
+    36.159
+],
   "geometry": {"coordinates":[-115.218002,36.159],"type":"Point"}
 }

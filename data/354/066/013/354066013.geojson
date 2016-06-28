@@ -2,13 +2,14 @@
   "id": 354066013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200126,36.308776,-115.200126,36.308776",
     "geom:latitude":36.308776,
     "geom:longitude":-115.200126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8129 Haven Heights St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354066013,
-    "wof:lastmodified":1449066397,
+    "wof:lastmodified":1466703201,
     "wof:name":"CLM Weddings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [-115.200126,36.308776,-115.200126,36.308776],
+  "bbox": [
+    -115.200126,
+    36.308776,
+    -115.200126,
+    36.308776
+],
   "geometry": {"coordinates":[-115.200126,36.308776],"type":"Point"}
 }

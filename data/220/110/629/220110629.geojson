@@ -2,13 +2,14 @@
   "id": 220110629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.786333,40.833332,-115.786333,40.833332",
     "geom:latitude":40.833332,
     "geom:longitude":-115.786333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Mountain City Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220110629,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466702452,
     "wof:name":"Operating Engineers Local Un 3",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-115.786333,40.833332,-115.786333,40.833332],
+  "bbox": [
+    -115.786333,
+    40.833332,
+    -115.786333,
+    40.833332
+],
   "geometry": {"coordinates":[-115.786333,40.833332],"type":"Point"}
 }

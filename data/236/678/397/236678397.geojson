@@ -2,13 +2,14 @@
   "id": 236678397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279191,36.057227,-115.279191,36.057227",
     "geom:latitude":36.057227,
     "geom:longitude":-115.279191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7123 S Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236678397,
-    "wof:lastmodified":1449003201,
+    "wof:lastmodified":1466706433,
     "wof:name":"A O Genesis",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.279191,36.057227,-115.279191,36.057227],
+  "bbox": [
+    -115.279191,
+    36.057227,
+    -115.279191,
+    36.057227
+],
   "geometry": {"coordinates":[-115.279191,36.057227],"type":"Point"}
 }

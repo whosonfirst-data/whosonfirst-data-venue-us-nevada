@@ -2,13 +2,14 @@
   "id": 354330415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206913,36.072513,-115.206913,36.072513",
     "geom:latitude":36.072513,
     "geom:longitude":-115.206913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 West Sunset Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354330415,
-    "wof:lastmodified":1449066781,
+    "wof:lastmodified":1466705899,
     "wof:name":"Not Your Average Deli",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.206913,36.072513,-115.206913,36.072513],
+  "bbox": [
+    -115.206913,
+    36.072513,
+    -115.206913,
+    36.072513
+],
   "geometry": {"coordinates":[-115.206913,36.072513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219892033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091883,36.191661,-115.091883,36.191661",
     "geom:latitude":36.191661,
     "geom:longitude":-115.091883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 E Kolanut Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219892033,
-    "wof:lastmodified":1449070907,
+    "wof:lastmodified":1466705507,
     "wof:name":"CMC Transmission Plus",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-115.091883,36.191661,-115.091883,36.191661],
+  "bbox": [
+    -115.091883,
+    36.191661,
+    -115.091883,
+    36.191661
+],
   "geometry": {"coordinates":[-115.091883,36.191661],"type":"Point"}
 }

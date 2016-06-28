@@ -2,13 +2,14 @@
   "id": 219402601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20027,36.071654,-115.20027,36.071654",
     "geom:latitude":36.071654,
     "geom:longitude":-115.20027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219402601,
-    "wof:lastmodified":1449071526,
+    "wof:lastmodified":1466703646,
     "wof:name":"Tiger Communications LLC",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.20027,36.071654,-115.20027,36.071654],
+  "bbox": [
+    -115.20027,
+    36.071654,
+    -115.20027,
+    36.071654
+],
   "geometry": {"coordinates":[-115.20027,36.071654],"type":"Point"}
 }

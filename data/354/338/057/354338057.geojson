@@ -2,13 +2,14 @@
   "id": 354338057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153,36.067799,-115.153,36.067799",
     "geom:latitude":36.067799,
     "geom:longitude":-115.153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Pilot Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354338057,
-    "wof:lastmodified":1449066504,
+    "wof:lastmodified":1466705955,
     "wof:name":"Univision Las Vegas",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.153,36.067799,-115.153,36.067799],
-  "geometry": {"coordinates":[-115.153,36.067799],"type":"Point"}
+  "bbox": [
+    -115.153,
+    36.067799,
+    -115.153,
+    36.067799
+],
+  "geometry": {"coordinates":[-115.15300000000001,36.067799],"type":"Point"}
 }

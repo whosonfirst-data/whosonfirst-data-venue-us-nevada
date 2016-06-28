@@ -2,13 +2,14 @@
   "id": 219452631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116532,36.134065,-115.116532,36.134065",
     "geom:latitude":36.134065,
     "geom:longitude":-115.116532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2481 Palora Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219452631,
-    "wof:lastmodified":1449071222,
+    "wof:lastmodified":1466703889,
     "wof:name":"J M & Sons General Contractor",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.116532,36.134065,-115.116532,36.134065],
-  "geometry": {"coordinates":[-115.116532,36.134065],"type":"Point"}
+  "bbox": [
+    -115.116532,
+    36.134065,
+    -115.116532,
+    36.134065
+],
+  "geometry": {"coordinates":[-115.11653200000001,36.134065],"type":"Point"}
 }

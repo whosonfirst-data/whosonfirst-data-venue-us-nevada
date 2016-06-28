@@ -2,13 +2,14 @@
   "id": 236224495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768318,39.618377,-119.768318,39.618377",
     "geom:latitude":39.618377,
     "geom:longitude":-119.768318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6979 Carmen Ct",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236224495,
-    "wof:lastmodified":1449004177,
+    "wof:lastmodified":1466704070,
     "wof:name":"Tellez Service",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-119.768318,39.618377,-119.768318,39.618377],
-  "geometry": {"coordinates":[-119.768318,39.618377],"type":"Point"}
+  "bbox": [
+    -119.768318,
+    39.618377,
+    -119.768318,
+    39.618377
+],
+  "geometry": {"coordinates":[-119.76831799999999,39.618377],"type":"Point"}
 }

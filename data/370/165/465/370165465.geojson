@@ -2,13 +2,14 @@
   "id": 370165465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260603,36.225793,-115.260603,36.225793",
     "geom:latitude":36.225793,
     "geom:longitude":-115.260603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 N Buffalo Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370165465,
-    "wof:lastmodified":1449032476,
+    "wof:lastmodified":1466701891,
     "wof:name":"Children's Dental Care and Orthodontics",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-115.260603,36.225793,-115.260603,36.225793],
+  "bbox": [
+    -115.260603,
+    36.225793,
+    -115.260603,
+    36.225793
+],
   "geometry": {"coordinates":[-115.260603,36.225793],"type":"Point"}
 }

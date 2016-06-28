@@ -2,13 +2,14 @@
   "id": 219188425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211714,36.11685,-115.211714,36.11685",
     "geom:latitude":36.11685,
     "geom:longitude":-115.211714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3971 Tirana Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219188425,
-    "wof:lastmodified":1449072129,
+    "wof:lastmodified":1466701995,
     "wof:name":"Vintage World Enterprises Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.211714,36.11685,-115.211714,36.11685],
+  "bbox": [
+    -115.211714,
+    36.11685,
+    -115.211714,
+    36.11685
+],
   "geometry": {"coordinates":[-115.211714,36.11685],"type":"Point"}
 }

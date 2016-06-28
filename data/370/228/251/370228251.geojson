@@ -2,13 +2,14 @@
   "id": 370228251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242762,36.145211,-115.242762,36.145211",
     "geom:latitude":36.145211,
     "geom:longitude":-115.242762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2360 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370228251,
-    "wof:lastmodified":1449030150,
+    "wof:lastmodified":1466703226,
     "wof:name":"Tiptoe Children's Shoes",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-115.242762,36.145211,-115.242762,36.145211],
+  "bbox": [
+    -115.242762,
+    36.145211,
+    -115.242762,
+    36.145211
+],
   "geometry": {"coordinates":[-115.242762,36.145211],"type":"Point"}
 }

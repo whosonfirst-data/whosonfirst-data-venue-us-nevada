@@ -2,13 +2,14 @@
   "id": 219890883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.85692,39.527502,-119.85692,39.527502",
     "geom:latitude":39.527502,
     "geom:longitude":-119.85692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Heights Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219890883,
-    "wof:lastmodified":1449071173,
+    "wof:lastmodified":1466705595,
     "wof:name":"In Your Face Advertising",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-119.85692,39.527502,-119.85692,39.527502],
+  "bbox": [
+    -119.85692,
+    39.527502,
+    -119.85692,
+    39.527502
+],
   "geometry": {"coordinates":[-119.85692,39.527502],"type":"Point"}
 }

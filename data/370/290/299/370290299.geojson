@@ -2,13 +2,14 @@
   "id": 370290299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156143,36.106255,-115.156143,36.106255",
     "geom:latitude":36.106255,
     "geom:longitude":-115.156143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370290299,
-    "wof:lastmodified":1449030541,
+    "wof:lastmodified":1466704289,
     "wof:name":"Dream Entertainment",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dj"
     ]
 },
-  "bbox": [-115.156143,36.106255,-115.156143,36.106255],
+  "bbox": [
+    -115.156143,
+    36.106255,
+    -115.156143,
+    36.106255
+],
   "geometry": {"coordinates":[-115.156143,36.106255],"type":"Point"}
 }

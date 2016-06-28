@@ -2,13 +2,14 @@
   "id": 354142333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194696,36.107616,-115.194696,36.107616",
     "geom:latitude":36.107616,
     "geom:longitude":-115.194696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Wynn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354142333,
-    "wof:lastmodified":1449067297,
+    "wof:lastmodified":1466704561,
     "wof:name":"Triple AAA Founders Mortgage Corporation",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.194696,36.107616,-115.194696,36.107616],
-  "geometry": {"coordinates":[-115.194696,36.107616],"type":"Point"}
+  "bbox": [
+    -115.194696,
+    36.107616,
+    -115.194696,
+    36.107616
+],
+  "geometry": {"coordinates":[-115.19469599999999,36.107616],"type":"Point"}
 }

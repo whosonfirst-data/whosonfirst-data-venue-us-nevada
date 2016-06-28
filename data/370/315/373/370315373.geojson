@@ -2,13 +2,14 @@
   "id": 370315373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813059,39.526214,-119.813059,39.526214",
     "geom:latitude":39.526214,
     "geom:longitude":-119.813059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 N Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370315373,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1466704687,
     "wof:name":"Reno Tattoo Co",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.813059,39.526214,-119.813059,39.526214],
+  "bbox": [
+    -119.813059,
+    39.526214,
+    -119.813059,
+    39.526214
+],
   "geometry": {"coordinates":[-119.813059,39.526214],"type":"Point"}
 }

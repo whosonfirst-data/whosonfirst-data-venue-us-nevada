@@ -2,13 +2,14 @@
   "id": 219473875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295361,36.223036,-115.295361,36.223036",
     "geom:latitude":36.223036,
     "geom:longitude":-115.295361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Summersprings",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219473875,
-    "wof:lastmodified":1449071126,
+    "wof:lastmodified":1466704058,
     "wof:name":"Magik Air",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.295361,36.223036,-115.295361,36.223036],
+  "bbox": [
+    -115.295361,
+    36.223036,
+    -115.295361,
+    36.223036
+],
   "geometry": {"coordinates":[-115.295361,36.223036],"type":"Point"}
 }

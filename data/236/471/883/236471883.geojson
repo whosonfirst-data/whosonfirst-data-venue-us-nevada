@@ -2,13 +2,14 @@
   "id": 236471883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.273637,36.200736,-115.273637,36.200736",
     "geom:latitude":36.200736,
     "geom:longitude":-115.273637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8317 Bermuda Beach Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236471883,
-    "wof:lastmodified":1449002890,
+    "wof:lastmodified":1466705827,
     "wof:name":"Kalil's",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-115.273637,36.200736,-115.273637,36.200736],
-  "geometry": {"coordinates":[-115.273637,36.200736],"type":"Point"}
+  "bbox": [
+    -115.273637,
+    36.200736,
+    -115.273637,
+    36.200736
+],
+  "geometry": {"coordinates":[-115.27363699999999,36.200736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236335659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.474253,40.180699,-118.474253,40.180699",
     "geom:latitude":40.180699,
     "geom:longitude":-118.474253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236335659,
-    "wof:lastmodified":1449003901,
+    "wof:lastmodified":1466705079,
     "wof:name":"Made In Lovelock",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-118.474253,40.180699,-118.474253,40.180699],
+  "bbox": [
+    -118.474253,
+    40.180699,
+    -118.474253,
+    40.180699
+],
   "geometry": {"coordinates":[-118.474253,40.180699],"type":"Point"}
 }

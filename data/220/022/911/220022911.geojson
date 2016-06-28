@@ -2,13 +2,14 @@
   "id": 220022911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.833353,39.608492,-119.833353,39.608492",
     "geom:latitude":39.608492,
     "geom:longitude":-119.833353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Winchester Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220022911,
-    "wof:lastmodified":1449074288,
+    "wof:lastmodified":1466701717,
     "wof:name":"Pindi Products Inc",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "engineer"
     ]
 },
-  "bbox": [-119.833353,39.608492,-119.833353,39.608492],
+  "bbox": [
+    -119.833353,
+    39.608492,
+    -119.833353,
+    39.608492
+],
   "geometry": {"coordinates":[-119.833353,39.608492],"type":"Point"}
 }

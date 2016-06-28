@@ -2,13 +2,14 @@
   "id": 219549067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768897,39.188234,-119.768897,39.188234",
     "geom:latitude":39.188234,
     "geom:longitude":-119.768897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Imperial Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219549067,
-    "wof:lastmodified":1449071371,
+    "wof:lastmodified":1466702216,
     "wof:name":"Wayne's Music Svc Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-119.768897,39.188234,-119.768897,39.188234],
+  "bbox": [
+    -119.768897,
+    39.188234,
+    -119.768897,
+    39.188234
+],
   "geometry": {"coordinates":[-119.768897,39.188234],"type":"Point"}
 }

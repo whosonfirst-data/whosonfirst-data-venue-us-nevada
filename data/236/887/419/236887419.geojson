@@ -2,13 +2,14 @@
   "id": 236887419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.94155,36.026054,-114.94155,36.026054",
     "geom:latitude":36.026054,
     "geom:longitude":-114.94155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Faultless St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236887419,
-    "wof:lastmodified":1449004463,
+    "wof:lastmodified":1466706792,
     "wof:name":"Harris Roofing",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.94155,36.026054,-114.94155,36.026054],
-  "geometry": {"coordinates":[-114.94155,36.026054],"type":"Point"}
+  "bbox": [
+    -114.94155,
+    36.026054,
+    -114.94155,
+    36.026054
+],
+  "geometry": {"coordinates":[-114.94155000000001,36.026054],"type":"Point"}
 }

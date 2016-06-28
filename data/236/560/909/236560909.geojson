@@ -2,13 +2,14 @@
   "id": 236560909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804289,39.406823,-119.804289,39.406823",
     "geom:latitude":39.406823,
     "geom:longitude":-119.804289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1386 Amado Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236560909,
-    "wof:lastmodified":1449004307,
+    "wof:lastmodified":1466706143,
     "wof:name":"Arrowcreek Soap Market",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "detergent"
     ]
 },
-  "bbox": [-119.804289,39.406823,-119.804289,39.406823],
+  "bbox": [
+    -119.804289,
+    39.406823,
+    -119.804289,
+    39.406823
+],
   "geometry": {"coordinates":[-119.804289,39.406823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354003275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.036255,36.068331,-115.036255,36.068331",
     "geom:latitude":36.068331,
     "geom:longitude":-115.036255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Marks St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354003275,
-    "wof:lastmodified":1449067537,
+    "wof:lastmodified":1466704190,
     "wof:name":"Massage Envy",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.036255,36.068331,-115.036255,36.068331],
+  "bbox": [
+    -115.036255,
+    36.068331,
+    -115.036255,
+    36.068331
+],
   "geometry": {"coordinates":[-115.036255,36.068331],"type":"Point"}
 }

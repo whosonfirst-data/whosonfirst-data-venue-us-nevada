@@ -2,13 +2,14 @@
   "id": 220121293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761191,39.165901,-119.761191,39.165901",
     "geom:latitude":39.165901,
     "geom:longitude":-119.761191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Roop St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220121293,
-    "wof:lastmodified":1449074660,
+    "wof:lastmodified":1466702537,
     "wof:name":"Hearing Care Of Carson City",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "audiologist"
     ]
 },
-  "bbox": [-119.761191,39.165901,-119.761191,39.165901],
+  "bbox": [
+    -119.761191,
+    39.165901,
+    -119.761191,
+    39.165901
+],
   "geometry": {"coordinates":[-119.761191,39.165901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236975511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173202,36.144307,-115.173202,36.144307",
     "geom:latitude":36.144307,
     "geom:longitude":-115.173202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236975511,
-    "wof:lastmodified":1449004695,
+    "wof:lastmodified":1466706956,
     "wof:name":"Hiv Wellness Center",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transportation"
     ]
 },
-  "bbox": [-115.173202,36.144307,-115.173202,36.144307],
+  "bbox": [
+    -115.173202,
+    36.144307,
+    -115.173202,
+    36.144307
+],
   "geometry": {"coordinates":[-115.173202,36.144307],"type":"Point"}
 }

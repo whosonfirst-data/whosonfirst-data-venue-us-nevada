@@ -2,13 +2,14 @@
   "id": 219602721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191149,36.097165,-115.191149,36.097165",
     "geom:latitude":36.097165,
     "geom:longitude":-115.191149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3875 W Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219602721,
-    "wof:lastmodified":1449072052,
+    "wof:lastmodified":1466702960,
     "wof:name":"Warren Distributing Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-115.191149,36.097165,-115.191149,36.097165],
+  "bbox": [
+    -115.191149,
+    36.097165,
+    -115.191149,
+    36.097165
+],
   "geometry": {"coordinates":[-115.191149,36.097165],"type":"Point"}
 }

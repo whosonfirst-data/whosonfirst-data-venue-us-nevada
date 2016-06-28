@@ -2,13 +2,14 @@
   "id": 236431837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.786829,39.310991,-119.786829,39.310991",
     "geom:latitude":39.310991,
     "geom:longitude":-119.786829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Brenda Way",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236431837,
-    "wof:lastmodified":1449002007,
+    "wof:lastmodified":1466705519,
     "wof:name":"Nevada Motorcycle Adventures",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-119.786829,39.310991,-119.786829,39.310991],
+  "bbox": [
+    -119.786829,
+    39.310991,
+    -119.786829,
+    39.310991
+],
   "geometry": {"coordinates":[-119.786829,39.310991],"type":"Point"}
 }

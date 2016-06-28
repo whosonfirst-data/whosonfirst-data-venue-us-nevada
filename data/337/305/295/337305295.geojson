@@ -2,13 +2,14 @@
   "id": 337305295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.890458,39.519521,-119.890458,39.519521",
     "geom:latitude":39.519521,
     "geom:longitude":-119.890458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1098 Chesterfield Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337305295,
-    "wof:lastmodified":1449027047,
+    "wof:lastmodified":1466701850,
     "wof:name":"Mountain Lakes Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.890458,39.519521,-119.890458,39.519521],
+  "bbox": [
+    -119.890458,
+    39.519521,
+    -119.890458,
+    39.519521
+],
   "geometry": {"coordinates":[-119.890458,39.519521],"type":"Point"}
 }

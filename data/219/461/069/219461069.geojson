@@ -2,13 +2,14 @@
   "id": 219461069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.488807,36.547062,-116.488807,36.547062",
     "geom:latitude":36.547062,
     "geom:longitude":-116.488807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Power Line Rd",
     "sg:city":"Amargosa Valley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219461069,
-    "wof:lastmodified":1449071720,
+    "wof:lastmodified":1466703954,
     "wof:name":"Lodestar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.488807,36.547062,-116.488807,36.547062],
-  "geometry": {"coordinates":[-116.488807,36.547062],"type":"Point"}
+  "bbox": [
+    -116.488807,
+    36.547062,
+    -116.488807,
+    36.547062
+],
+  "geometry": {"coordinates":[-116.48880699999999,36.547062],"type":"Point"}
 }

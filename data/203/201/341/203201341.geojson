@@ -2,13 +2,14 @@
   "id": 203201341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.785301,39.46982,-118.785301,39.46982",
     "geom:latitude":39.46982,
     "geom:longitude":-118.785301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S Bailey St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203201341,
-    "wof:lastmodified":1449026612,
+    "wof:lastmodified":1466702074,
     "wof:name":"Richard Lee General Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.785301,39.46982,-118.785301,39.46982],
+  "bbox": [
+    -118.785301,
+    39.46982,
+    -118.785301,
+    39.46982
+],
   "geometry": {"coordinates":[-118.785301,39.46982],"type":"Point"}
 }

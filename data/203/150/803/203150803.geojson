@@ -2,13 +2,14 @@
   "id": 203150803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.509639,37.614654,-114.509639,37.614654",
     "geom:latitude":37.614654,
     "geom:longitude":-114.509639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Clover St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203150803,
-    "wof:lastmodified":1449024967,
+    "wof:lastmodified":1466701488,
     "wof:name":"Lincoln True Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-114.509639,37.614654,-114.509639,37.614654],
-  "geometry": {"coordinates":[-114.509639,37.614654],"type":"Point"}
+  "bbox": [
+    -114.509639,
+    37.614654,
+    -114.509639,
+    37.614654
+],
+  "geometry": {"coordinates":[-114.50963900000001,37.614654],"type":"Point"}
 }

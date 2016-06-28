@@ -2,13 +2,14 @@
   "id": 219647395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.951164,36.037871,-114.951164,36.037871",
     "geom:latitude":36.037871,
     "geom:longitude":-114.951164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 Sagecrest Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219647395,
-    "wof:lastmodified":1449072065,
+    "wof:lastmodified":1466703768,
     "wof:name":"Rick Aguilar Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.951164,36.037871,-114.951164,36.037871],
-  "geometry": {"coordinates":[-114.951164,36.037871],"type":"Point"}
+  "bbox": [
+    -114.951164,
+    36.037871,
+    -114.951164,
+    36.037871
+],
+  "geometry": {"coordinates":[-114.95116400000001,36.037871],"type":"Point"}
 }

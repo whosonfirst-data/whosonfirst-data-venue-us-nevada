@@ -2,13 +2,14 @@
   "id": 219681839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.972226,36.048636,-114.972226,36.048636",
     "geom:latitude":36.048636,
     "geom:longitude":-114.972226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219681839,
-    "wof:lastmodified":1449072553,
+    "wof:lastmodified":1466704341,
     "wof:name":"Coast To Coast",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-114.972226,36.048636,-114.972226,36.048636],
-  "geometry": {"coordinates":[-114.972226,36.048636],"type":"Point"}
+  "bbox": [
+    -114.972226,
+    36.048636,
+    -114.972226,
+    36.048636
+],
+  "geometry": {"coordinates":[-114.97222600000001,36.048636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219790461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.036048,36.207849,-116.036048,36.207849",
     "geom:latitude":36.207849,
     "geom:longitude":-116.036048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Gold Dust Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219790461,
-    "wof:lastmodified":1449073107,
+    "wof:lastmodified":1466705159,
     "wof:name":"Auras Spanish Translations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "spanish"
     ]
 },
-  "bbox": [-116.036048,36.207849,-116.036048,36.207849],
-  "geometry": {"coordinates":[-116.036048,36.207849],"type":"Point"}
+  "bbox": [
+    -116.036048,
+    36.207849,
+    -116.036048,
+    36.207849
+],
+  "geometry": {"coordinates":[-116.03604799999999,36.207849],"type":"Point"}
 }

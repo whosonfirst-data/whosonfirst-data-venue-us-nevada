@@ -2,13 +2,14 @@
   "id": 203176025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209718,36.269343,-115.209718,36.269343",
     "geom:latitude":36.269343,
     "geom:longitude":-115.209718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 Running Rapids Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203176025,
-    "wof:lastmodified":1449026219,
+    "wof:lastmodified":1466701778,
     "wof:name":"Dream Home Financial Services",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.209718,36.269343,-115.209718,36.269343],
+  "bbox": [
+    -115.209718,
+    36.269343,
+    -115.209718,
+    36.269343
+],
   "geometry": {"coordinates":[-115.209718,36.269343],"type":"Point"}
 }

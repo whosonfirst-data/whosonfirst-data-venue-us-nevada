@@ -2,13 +2,14 @@
   "id": 236767971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046219,36.064928,-115.046219,36.064928",
     "geom:latitude":36.064928,
     "geom:longitude":-115.046219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236767971,
-    "wof:lastmodified":1449002414,
+    "wof:lastmodified":1466706609,
     "wof:name":"Saporo Sushi",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.046219,36.064928,-115.046219,36.064928],
-  "geometry": {"coordinates":[-115.046219,36.064928],"type":"Point"}
+  "bbox": [
+    -115.046219,
+    36.064928,
+    -115.046219,
+    36.064928
+],
+  "geometry": {"coordinates":[-115.04621899999999,36.064928],"type":"Point"}
 }

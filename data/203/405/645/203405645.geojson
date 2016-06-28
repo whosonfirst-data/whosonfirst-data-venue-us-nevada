@@ -2,13 +2,14 @@
   "id": 203405645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.334436,36.131126,-115.334436,36.131126",
     "geom:latitude":36.131126,
     "geom:longitude":-115.334436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Orange Sun St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203405645,
-    "wof:lastmodified":1449026698,
+    "wof:lastmodified":1466703345,
     "wof:name":"M & D Candy Sales",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-115.334436,36.131126,-115.334436,36.131126],
+  "bbox": [
+    -115.334436,
+    36.131126,
+    -115.334436,
+    36.131126
+],
   "geometry": {"coordinates":[-115.334436,36.131126],"type":"Point"}
 }

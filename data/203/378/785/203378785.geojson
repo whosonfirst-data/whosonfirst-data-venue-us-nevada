@@ -2,13 +2,14 @@
   "id": 203378785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809323,39.483572,-119.809323,39.483572",
     "geom:latitude":39.483572,
     "geom:longitude":-119.809323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 Interlaken Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203378785,
-    "wof:lastmodified":1449026258,
+    "wof:lastmodified":1466703253,
     "wof:name":"Baring Village Carwash",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-119.809323,39.483572,-119.809323,39.483572],
-  "geometry": {"coordinates":[-119.809323,39.483572],"type":"Point"}
+  "bbox": [
+    -119.809323,
+    39.483572,
+    -119.809323,
+    39.483572
+],
+  "geometry": {"coordinates":[-119.80932300000001,39.483572],"type":"Point"}
 }

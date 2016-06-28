@@ -2,13 +2,14 @@
   "id": 219447073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733108,39.598018,-119.733108,39.598018",
     "geom:latitude":39.598018,
     "geom:longitude":-119.733108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Tioga Pass Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219447073,
-    "wof:lastmodified":1449072878,
+    "wof:lastmodified":1466703856,
     "wof:name":"Axsim Technologies",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-119.733108,39.598018,-119.733108,39.598018],
+  "bbox": [
+    -119.733108,
+    39.598018,
+    -119.733108,
+    39.598018
+],
   "geometry": {"coordinates":[-119.733108,39.598018],"type":"Point"}
 }

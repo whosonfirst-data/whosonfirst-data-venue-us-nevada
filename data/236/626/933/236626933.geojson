@@ -2,13 +2,14 @@
   "id": 236626933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.515647,37.612982,-114.515647,37.612982",
     "geom:latitude":37.612982,
     "geom:longitude":-114.515647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Front St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236626933,
-    "wof:lastmodified":1449005250,
+    "wof:lastmodified":1466706235,
     "wof:name":"R & L Mini Storage",
     "wof:parent_id":85827145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-114.515647,37.612982,-114.515647,37.612982],
+  "bbox": [
+    -114.515647,
+    37.612982,
+    -114.515647,
+    37.612982
+],
   "geometry": {"coordinates":[-114.515647,37.612982],"type":"Point"}
 }

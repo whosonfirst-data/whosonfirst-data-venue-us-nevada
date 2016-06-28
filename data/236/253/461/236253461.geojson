@@ -2,13 +2,14 @@
   "id": 236253461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308914,36.184948,-115.308914,36.184948",
     "geom:latitude":36.184948,
     "geom:longitude":-115.308914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 N Town Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236253461,
-    "wof:lastmodified":1449004754,
+    "wof:lastmodified":1466704408,
     "wof:name":"Janet 1 Inc",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.308914,36.184948,-115.308914,36.184948],
+  "bbox": [
+    -115.308914,
+    36.184948,
+    -115.308914,
+    36.184948
+],
   "geometry": {"coordinates":[-115.308914,36.184948],"type":"Point"}
 }

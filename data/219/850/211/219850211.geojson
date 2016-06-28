@@ -2,13 +2,14 @@
   "id": 219850211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163118,38.988444,-119.163118,38.988444",
     "geom:latitude":38.988444,
     "geom:longitude":-119.163118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219850211,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466705227,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.163118,38.988444,-119.163118,38.988444],
+  "bbox": [
+    -119.163118,
+    38.988444,
+    -119.163118,
+    38.988444
+],
   "geometry": {"coordinates":[-119.163118,38.988444],"type":"Point"}
 }

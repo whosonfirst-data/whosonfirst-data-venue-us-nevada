@@ -2,13 +2,14 @@
   "id": 236011255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186849,36.239339,-115.186849,36.239339",
     "geom:latitude":36.239339,
     "geom:longitude":-115.186849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236011255,
-    "wof:lastmodified":1449004522,
+    "wof:lastmodified":1466703814,
     "wof:name":"Integrity Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.186849,36.239339,-115.186849,36.239339],
+  "bbox": [
+    -115.186849,
+    36.239339,
+    -115.186849,
+    36.239339
+],
   "geometry": {"coordinates":[-115.186849,36.239339],"type":"Point"}
 }

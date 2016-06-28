@@ -2,13 +2,14 @@
   "id": 370209371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243946,36.045775,-115.243946,36.045775",
     "geom:latitude":36.045775,
     "geom:longitude":-115.243946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7835 S Rainbow Blvd Ste 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370209371,
-    "wof:lastmodified":1449032120,
+    "wof:lastmodified":1466702772,
     "wof:name":"Summerlin Dance Academy - Southwest",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-115.243946,36.045775,-115.243946,36.045775],
-  "geometry": {"coordinates":[-115.243946,36.045775],"type":"Point"}
+  "bbox": [
+    -115.243946,
+    36.045775,
+    -115.243946,
+    36.045775
+],
+  "geometry": {"coordinates":[-115.24394599999999,36.045775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236793183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768585,39.167233,-119.768585,39.167233",
     "geom:latitude":39.167233,
     "geom:longitude":-119.768585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Nevada St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236793183,
-    "wof:lastmodified":1449003475,
+    "wof:lastmodified":1466706638,
     "wof:name":"Palmer & Lauder Engineers Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.768585,39.167233,-119.768585,39.167233],
+  "bbox": [
+    -119.768585,
+    39.167233,
+    -119.768585,
+    39.167233
+],
   "geometry": {"coordinates":[-119.768585,39.167233],"type":"Point"}
 }

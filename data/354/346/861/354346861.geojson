@@ -2,13 +2,14 @@
   "id": 354346861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118548,36.067787,-115.118548,36.067787",
     "geom:latitude":36.067787,
     "geom:longitude":-115.118548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Dream Vision Studios 6705 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354346861,
-    "wof:lastmodified":1449065923,
+    "wof:lastmodified":1466705983,
     "wof:name":"StuntWorld Action Camp",
     "wof:parent_id":85879705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "life"
     ]
 },
-  "bbox": [-115.118548,36.067787,-115.118548,36.067787],
+  "bbox": [
+    -115.118548,
+    36.067787,
+    -115.118548,
+    36.067787
+],
   "geometry": {"coordinates":[-115.118548,36.067787],"type":"Point"}
 }

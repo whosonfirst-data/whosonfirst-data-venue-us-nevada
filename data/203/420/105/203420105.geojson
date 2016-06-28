@@ -2,13 +2,14 @@
   "id": 203420105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.735281,40.9587,-117.735281,40.9587",
     "geom:latitude":40.9587,
     "geom:longitude":-117.735281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4095 Center St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203420105,
-    "wof:lastmodified":1449025823,
+    "wof:lastmodified":1466703399,
     "wof:name":"Tori Stephen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-117.735281,40.9587,-117.735281,40.9587],
+  "bbox": [
+    -117.735281,
+    40.9587,
+    -117.735281,
+    40.9587
+],
   "geometry": {"coordinates":[-117.735281,40.9587],"type":"Point"}
 }

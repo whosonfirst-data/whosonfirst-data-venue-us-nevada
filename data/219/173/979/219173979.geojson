@@ -2,13 +2,14 @@
   "id": 219173979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.73452,40.862762,-115.73452,40.862762",
     "geom:latitude":40.862762,
     "geom:longitude":-115.73452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219173979,
-    "wof:lastmodified":1449071074,
+    "wof:lastmodified":1466701876,
     "wof:name":"Motor Vehicle-Registration Div",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-115.73452,40.862762,-115.73452,40.862762],
+  "bbox": [
+    -115.73452,
+    40.862762,
+    -115.73452,
+    40.862762
+],
   "geometry": {"coordinates":[-115.73452,40.862762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235980959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751149,39.561781,-119.751149,39.561781",
     "geom:latitude":39.561781,
     "geom:longitude":-119.751149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9740 State Rte 445",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235980959,
-    "wof:lastmodified":1449008304,
+    "wof:lastmodified":1466703671,
     "wof:name":"Great Clip",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.751149,39.561781,-119.751149,39.561781],
+  "bbox": [
+    -119.751149,
+    39.561781,
+    -119.751149,
+    39.561781
+],
   "geometry": {"coordinates":[-119.751149,39.561781],"type":"Point"}
 }

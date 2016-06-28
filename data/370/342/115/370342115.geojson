@@ -2,13 +2,14 @@
   "id": 370342115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764884,39.149793,-119.764884,39.149793",
     "geom:latitude":39.149793,
     "geom:longitude":-119.764884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370342115,
-    "wof:lastmodified":1449032220,
+    "wof:lastmodified":1466704853,
     "wof:name":"Tanning Etc.",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.764884,39.149793,-119.764884,39.149793],
+  "bbox": [
+    -119.764884,
+    39.149793,
+    -119.764884,
+    39.149793
+],
   "geometry": {"coordinates":[-119.764884,39.149793],"type":"Point"}
 }

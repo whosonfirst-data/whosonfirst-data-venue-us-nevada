@@ -2,13 +2,14 @@
   "id": 219868415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754271,39.116403,-119.754271,39.116403",
     "geom:latitude":39.116403,
     "geom:longitude":-119.754271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5340 Snyder Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219868415,
-    "wof:lastmodified":1449070535,
+    "wof:lastmodified":1466705586,
     "wof:name":"Tahoe Indian Ministries",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.754271,39.116403,-119.754271,39.116403],
+  "bbox": [
+    -119.754271,
+    39.116403,
+    -119.754271,
+    39.116403
+],
   "geometry": {"coordinates":[-119.754271,39.116403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353998961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049603,36.056151,-115.049603,36.056151",
     "geom:latitude":36.056151,
     "geom:longitude":-115.049603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1481 W Warm Springs Road Suite 142",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353998961,
-    "wof:lastmodified":1449019104,
+    "wof:lastmodified":1466701842,
     "wof:name":"Simac Construction",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.049603,36.056151,-115.049603,36.056151],
+  "bbox": [
+    -115.049603,
+    36.056151,
+    -115.049603,
+    36.056151
+],
   "geometry": {"coordinates":[-115.049603,36.056151],"type":"Point"}
 }

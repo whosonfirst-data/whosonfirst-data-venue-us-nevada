@@ -2,13 +2,14 @@
   "id": 370267237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300199,36.076362,-115.300199,36.076362",
     "geom:latitude":36.076362,
     "geom:longitude":-115.300199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6167 New Sky Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370267237,
-    "wof:lastmodified":1449032165,
+    "wof:lastmodified":1466704134,
     "wof:name":"Las Vegas Graphic Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "design"
     ]
 },
-  "bbox": [-115.300199,36.076362,-115.300199,36.076362],
-  "geometry": {"coordinates":[-115.300199,36.076362],"type":"Point"}
+  "bbox": [
+    -115.300199,
+    36.076362,
+    -115.300199,
+    36.076362
+],
+  "geometry": {"coordinates":[-115.30019900000001,36.076362],"type":"Point"}
 }

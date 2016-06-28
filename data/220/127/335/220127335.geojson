@@ -2,13 +2,14 @@
   "id": 220127335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.997664,39.538544,-118.997664,39.538544",
     "geom:latitude":39.538544,
     "geom:longitude":-118.997664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12761 Carr Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220127335,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466702575,
     "wof:name":"Gibbons Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.997664,39.538544,-118.997664,39.538544],
+  "bbox": [
+    -118.997664,
+    39.538544,
+    -118.997664,
+    39.538544
+],
   "geometry": {"coordinates":[-118.997664,39.538544],"type":"Point"}
 }

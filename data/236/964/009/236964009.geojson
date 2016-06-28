@@ -2,13 +2,14 @@
   "id": 236964009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.832992,39.358342,-119.832992,39.358342",
     "geom:latitude":39.358342,
     "geom:longitude":-119.832992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Piney Creek Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236964009,
-    "wof:lastmodified":1449004267,
+    "wof:lastmodified":1466706945,
     "wof:name":"Eldorado Tools Distributors",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-119.832992,39.358342,-119.832992,39.358342],
+  "bbox": [
+    -119.832992,
+    39.358342,
+    -119.832992,
+    39.358342
+],
   "geometry": {"coordinates":[-119.832992,39.358342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219232369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.843898,38.920456,-119.843898,38.920456",
     "geom:latitude":38.920456,
     "geom:longitude":-119.843898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Autumn Hills Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219232369,
-    "wof:lastmodified":1449071539,
+    "wof:lastmodified":1466702324,
     "wof:name":"High Siearra Equine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-119.843898,38.920456,-119.843898,38.920456],
+  "bbox": [
+    -119.843898,
+    38.920456,
+    -119.843898,
+    38.920456
+],
   "geometry": {"coordinates":[-119.843898,38.920456],"type":"Point"}
 }

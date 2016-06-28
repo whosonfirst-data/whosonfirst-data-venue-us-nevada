@@ -2,13 +2,14 @@
   "id": 354255629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157541,36.143083,-115.157541,36.143083",
     "geom:latitude":36.143083,
     "geom:longitude":-115.157541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":354255629,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466705258,
     "wof:name":"Destination Spa Salons",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.157541,36.143083,-115.157541,36.143083],
-  "geometry": {"coordinates":[-115.157541,36.143083],"type":"Point"}
+  "bbox": [
+    -115.157541,
+    36.143083,
+    -115.157541,
+    36.143083
+],
+  "geometry": {"coordinates":[-115.15754099999999,36.143083],"type":"Point"}
 }

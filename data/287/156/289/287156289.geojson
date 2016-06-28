@@ -2,13 +2,14 @@
   "id": 287156289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.942252,38.959024,-119.942252,38.959024",
     "geom:latitude":38.959024,
     "geom:longitude":-119.942252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 Lake Tahoe Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287156289,
-    "wof:lastmodified":1449000840,
+    "wof:lastmodified":1466704267,
     "wof:name":"LA Baer Inn",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.942252,38.959024,-119.942252,38.959024],
+  "bbox": [
+    -119.942252,
+    38.959024,
+    -119.942252,
+    38.959024
+],
   "geometry": {"coordinates":[-119.942252,38.959024],"type":"Point"}
 }

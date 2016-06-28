@@ -2,13 +2,14 @@
   "id": 236707117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809478,39.481816,-119.809478,39.481816",
     "geom:latitude":39.481816,
     "geom:longitude":-119.809478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Lakewood Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236707117,
-    "wof:lastmodified":1449004622,
+    "wof:lastmodified":1466706358,
     "wof:name":"Jr Investments LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "land"
     ]
 },
-  "bbox": [-119.809478,39.481816,-119.809478,39.481816],
+  "bbox": [
+    -119.809478,
+    39.481816,
+    -119.809478,
+    39.481816
+],
   "geometry": {"coordinates":[-119.809478,39.481816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236253201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.104576,36.810198,-114.104576,36.810198",
     "geom:latitude":36.810198,
     "geom:longitude":-114.104576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Calais Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236253201,
-    "wof:lastmodified":1449004756,
+    "wof:lastmodified":1466704407,
     "wof:name":"Falcon Ridge Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-114.104576,36.810198,-114.104576,36.810198],
-  "geometry": {"coordinates":[-114.104576,36.810198],"type":"Point"}
+  "bbox": [
+    -114.104576,
+    36.810198,
+    -114.104576,
+    36.810198
+],
+  "geometry": {"coordinates":[-114.10457599999999,36.810198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354159239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189948,36.108446,-115.189948,36.108446",
     "geom:latitude":36.108446,
     "geom:longitude":-115.189948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 S Valley View Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354159239,
-    "wof:lastmodified":1449066141,
+    "wof:lastmodified":1466704597,
     "wof:name":"Costello J W Beverage Company",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.189948,36.108446,-115.189948,36.108446],
+  "bbox": [
+    -115.189948,
+    36.108446,
+    -115.189948,
+    36.108446
+],
   "geometry": {"coordinates":[-115.189948,36.108446],"type":"Point"}
 }

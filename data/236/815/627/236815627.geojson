@@ -2,13 +2,14 @@
   "id": 236815627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160358,36.069451,-115.160358,36.069451",
     "geom:latitude":36.069451,
     "geom:longitude":-115.160358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6680 Amelia Earhart Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236815627,
-    "wof:lastmodified":1449003211,
+    "wof:lastmodified":1466706807,
     "wof:name":"Millwall Inc",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandising"
     ]
 },
-  "bbox": [-115.160358,36.069451,-115.160358,36.069451],
+  "bbox": [
+    -115.160358,
+    36.069451,
+    -115.160358,
+    36.069451
+],
   "geometry": {"coordinates":[-115.160358,36.069451],"type":"Point"}
 }

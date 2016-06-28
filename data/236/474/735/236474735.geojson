@@ -2,13 +2,14 @@
   "id": 236474735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209775,36.296648,-115.209775,36.296648",
     "geom:latitude":36.296648,
     "geom:longitude":-115.209775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Soaring Springs Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236474735,
-    "wof:lastmodified":1449001785,
+    "wof:lastmodified":1466705697,
     "wof:name":"Dicor Painting & Drywall Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.209775,36.296648,-115.209775,36.296648],
-  "geometry": {"coordinates":[-115.209775,36.296648],"type":"Point"}
+  "bbox": [
+    -115.209775,
+    36.296648,
+    -115.209775,
+    36.296648
+],
+  "geometry": {"coordinates":[-115.20977499999999,36.296648],"type":"Point"}
 }

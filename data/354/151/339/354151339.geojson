@@ -2,13 +2,14 @@
   "id": 354151339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195905,36.11451,-115.195905,36.11451",
     "geom:latitude":36.11451,
     "geom:longitude":-115.195905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Palms Casino Resort 4321 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354151339,
-    "wof:lastmodified":1449065944,
+    "wof:lastmodified":1466704676,
     "wof:name":"Ghost Bar",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.195905,36.11451,-115.195905,36.11451],
+  "bbox": [
+    -115.195905,
+    36.11451,
+    -115.195905,
+    36.11451
+],
   "geometry": {"coordinates":[-115.195905,36.11451],"type":"Point"}
 }

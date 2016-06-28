@@ -2,13 +2,14 @@
   "id": 354320177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190514,36.089456,-115.190514,36.089456",
     "geom:latitude":36.089456,
     "geom:longitude":-115.190514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 South Valley View Blvd Suite 6",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354320177,
-    "wof:lastmodified":1449066344,
+    "wof:lastmodified":1466705711,
     "wof:name":"Inside Style",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-115.190514,36.089456,-115.190514,36.089456],
-  "geometry": {"coordinates":[-115.190514,36.089456],"type":"Point"}
+  "bbox": [
+    -115.190514,
+    36.089456,
+    -115.190514,
+    36.089456
+],
+  "geometry": {"coordinates":[-115.19051399999999,36.089456],"type":"Point"}
 }

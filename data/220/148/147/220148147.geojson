@@ -2,13 +2,14 @@
   "id": 220148147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875091,39.48962,-119.875091,39.48962",
     "geom:latitude":39.48962,
     "geom:longitude":-119.875091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Promontory Pointe",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220148147,
-    "wof:lastmodified":1449074742,
+    "wof:lastmodified":1466702753,
     "wof:name":"Burke Financial Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-119.875091,39.48962,-119.875091,39.48962],
+  "bbox": [
+    -119.875091,
+    39.48962,
+    -119.875091,
+    39.48962
+],
   "geometry": {"coordinates":[-119.875091,39.48962],"type":"Point"}
 }

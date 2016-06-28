@@ -2,13 +2,14 @@
   "id": 220086013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760621,39.445209,-119.760621,39.445209",
     "geom:latitude":39.445209,
     "geom:longitude":-119.760621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9475 Double R Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220086013,
-    "wof:lastmodified":1449074594,
+    "wof:lastmodified":1466704209,
     "wof:name":"S Two Corp",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [-119.760621,39.445209,-119.760621,39.445209],
+  "bbox": [
+    -119.760621,
+    39.445209,
+    -119.760621,
+    39.445209
+],
   "geometry": {"coordinates":[-119.760621,39.445209],"type":"Point"}
 }

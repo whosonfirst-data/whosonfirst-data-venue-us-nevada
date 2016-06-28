@@ -2,13 +2,14 @@
   "id": 370329379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773048,39.460985,-119.773048,39.460985",
     "geom:latitude":39.460985,
     "geom:longitude":-119.773048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7025 Longley Ln Suite 60",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":370329379,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1466704843,
     "wof:name":"AIM Associated Insurance Managers",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "employee"
     ]
 },
-  "bbox": [-119.773048,39.460985,-119.773048,39.460985],
+  "bbox": [
+    -119.773048,
+    39.460985,
+    -119.773048,
+    39.460985
+],
   "geometry": {"coordinates":[-119.773048,39.460985],"type":"Point"}
 }

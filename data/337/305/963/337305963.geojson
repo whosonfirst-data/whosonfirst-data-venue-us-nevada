@@ -2,13 +2,14 @@
   "id": 337305963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.953088,39.249621,-119.953088,39.249621",
     "geom:latitude":39.249621,
     "geom:longitude":-119.953088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337305963,
-    "wof:lastmodified":1449027045,
+    "wof:lastmodified":1466701859,
     "wof:name":"Washoe County Constable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.953088,39.249621,-119.953088,39.249621],
-  "geometry": {"coordinates":[-119.953088,39.249621],"type":"Point"}
+  "bbox": [
+    -119.953088,
+    39.249621,
+    -119.953088,
+    39.249621
+],
+  "geometry": {"coordinates":[-119.95308799999999,39.249621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236570055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251455,36.219865,-115.251455,36.219865",
     "geom:latitude":36.219865,
     "geom:longitude":-115.251455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236570055,
-    "wof:lastmodified":1449003635,
+    "wof:lastmodified":1466706172,
     "wof:name":"R & R Fitness LLC",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.251455,36.219865,-115.251455,36.219865],
-  "geometry": {"coordinates":[-115.251455,36.219865],"type":"Point"}
+  "bbox": [
+    -115.251455,
+    36.219865,
+    -115.251455,
+    36.219865
+],
+  "geometry": {"coordinates":[-115.25145500000001,36.219865],"type":"Point"}
 }

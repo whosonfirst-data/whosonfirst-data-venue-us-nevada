@@ -2,13 +2,14 @@
   "id": 219177823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.950883,36.190395,-115.950883,36.190395",
     "geom:latitude":36.190395,
     "geom:longitude":-115.950883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219177823,
-    "wof:lastmodified":1449073916,
+    "wof:lastmodified":1466701926,
     "wof:name":"C R Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.950883,36.190395,-115.950883,36.190395],
+  "bbox": [
+    -115.950883,
+    36.190395,
+    -115.950883,
+    36.190395
+],
   "geometry": {"coordinates":[-115.950883,36.190395],"type":"Point"}
 }

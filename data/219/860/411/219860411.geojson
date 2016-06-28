@@ -2,13 +2,14 @@
   "id": 219860411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244203,36.166776,-115.244203,36.166776",
     "geom:latitude":36.166776,
     "geom:longitude":-115.244203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219860411,
-    "wof:lastmodified":1449071965,
+    "wof:lastmodified":1466705433,
     "wof:name":"Hawaiian Style Cafe",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.244203,36.166776,-115.244203,36.166776],
+  "bbox": [
+    -115.244203,
+    36.166776,
+    -115.244203,
+    36.166776
+],
   "geometry": {"coordinates":[-115.244203,36.166776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203208501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288739,36.14723,-115.288739,36.14723",
     "geom:latitude":36.14723,
     "geom:longitude":-115.288739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8871 Canyon Springs Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203208501,
-    "wof:lastmodified":1449025165,
+    "wof:lastmodified":1466702128,
     "wof:name":"Sandy Kastel Creations LLC",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-115.288739,36.14723,-115.288739,36.14723],
-  "geometry": {"coordinates":[-115.288739,36.14723],"type":"Point"}
+  "bbox": [
+    -115.288739,
+    36.14723,
+    -115.288739,
+    36.14723
+],
+  "geometry": {"coordinates":[-115.28873900000001,36.14723],"type":"Point"}
 }

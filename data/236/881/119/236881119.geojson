@@ -2,13 +2,14 @@
   "id": 236881119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146699,36.035799,-115.146699,36.035799",
     "geom:latitude":36.035799,
     "geom:longitude":-115.146699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8445 Baleek Point Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236881119,
-    "wof:lastmodified":1449003585,
+    "wof:lastmodified":1466706778,
     "wof:name":"Pacific Coast Recruiters",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-115.146699,36.035799,-115.146699,36.035799],
+  "bbox": [
+    -115.146699,
+    36.035799,
+    -115.146699,
+    36.035799
+],
   "geometry": {"coordinates":[-115.146699,36.035799],"type":"Point"}
 }

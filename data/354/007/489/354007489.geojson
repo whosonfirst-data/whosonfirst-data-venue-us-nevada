@@ -2,13 +2,14 @@
   "id": 354007489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050128,36.056149,-115.050128,36.056149",
     "geom:latitude":36.056149,
     "geom:longitude":-115.050128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1489 W Warm Springs Rd Ste 110",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354007489,
-    "wof:lastmodified":1449067355,
+    "wof:lastmodified":1466701659,
     "wof:name":"Andrade & Magana Law Group",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-115.050128,36.056149,-115.050128,36.056149],
+  "bbox": [
+    -115.050128,
+    36.056149,
+    -115.050128,
+    36.056149
+],
   "geometry": {"coordinates":[-115.050128,36.056149],"type":"Point"}
 }

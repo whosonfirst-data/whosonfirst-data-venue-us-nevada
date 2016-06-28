@@ -2,13 +2,14 @@
   "id": 236665093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093431,36.798559,-114.093431,36.798559",
     "geom:latitude":36.798559,
     "geom:longitude":-114.093431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Riverside Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236665093,
-    "wof:lastmodified":1449002495,
+    "wof:lastmodified":1466706409,
     "wof:name":"Summerwind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.093431,36.798559,-114.093431,36.798559],
+  "bbox": [
+    -114.093431,
+    36.798559,
+    -114.093431,
+    36.798559
+],
   "geometry": {"coordinates":[-114.093431,36.798559],"type":"Point"}
 }

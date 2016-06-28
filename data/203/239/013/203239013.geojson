@@ -2,13 +2,14 @@
   "id": 203239013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769659,39.535182,-119.769659,39.535182",
     "geom:latitude":39.535182,
     "geom:longitude":-119.769659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1961 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203239013,
-    "wof:lastmodified":1449025116,
+    "wof:lastmodified":1466704213,
     "wof:name":"B Street Smog Ctr",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "smog"
     ]
 },
-  "bbox": [-119.769659,39.535182,-119.769659,39.535182],
+  "bbox": [
+    -119.769659,
+    39.535182,
+    -119.769659,
+    39.535182
+],
   "geometry": {"coordinates":[-119.769659,39.535182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370337827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761002,39.167,-119.761002,39.167",
     "geom:latitude":39.167,
     "geom:longitude":-119.761002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 E Robinson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370337827,
-    "wof:lastmodified":1449030677,
+    "wof:lastmodified":1466704823,
     "wof:name":"Young Frederick T DMD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761002,39.167,-119.761002,39.167],
+  "bbox": [
+    -119.761002,
+    39.167,
+    -119.761002,
+    39.167
+],
   "geometry": {"coordinates":[-119.761002,39.167],"type":"Point"}
 }

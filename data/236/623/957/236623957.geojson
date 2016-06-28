@@ -2,13 +2,14 @@
   "id": 236623957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800084,39.329879,-119.800084,39.329879",
     "geom:latitude":39.329879,
     "geom:longitude":-119.800084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 US Hwy 395",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236623957,
-    "wof:lastmodified":1449004066,
+    "wof:lastmodified":1466706323,
     "wof:name":"Nevada Lynn Emporium",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-119.800084,39.329879,-119.800084,39.329879],
+  "bbox": [
+    -119.800084,
+    39.329879,
+    -119.800084,
+    39.329879
+],
   "geometry": {"coordinates":[-119.800084,39.329879],"type":"Point"}
 }

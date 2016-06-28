@@ -2,13 +2,14 @@
   "id": 219748395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779254,39.551349,-119.779254,39.551349",
     "geom:latitude":39.551349,
     "geom:longitude":-119.779254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2522 Betsy St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219748395,
-    "wof:lastmodified":1449073049,
+    "wof:lastmodified":1466704864,
     "wof:name":"Ron's Carpet Cleaning & Mntnc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-119.779254,39.551349,-119.779254,39.551349],
-  "geometry": {"coordinates":[-119.779254,39.551349],"type":"Point"}
+  "bbox": [
+    -119.779254,
+    39.551349,
+    -119.779254,
+    39.551349
+],
+  "geometry": {"coordinates":[-119.77925399999999,39.551349],"type":"Point"}
 }

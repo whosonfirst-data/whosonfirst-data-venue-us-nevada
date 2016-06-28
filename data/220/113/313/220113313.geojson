@@ -2,13 +2,14 @@
   "id": 220113313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.034698,36.181351,-116.034698,36.181351",
     "geom:latitude":36.181351,
     "geom:longitude":-116.034698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 River Plate Dr",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220113313,
-    "wof:lastmodified":1449074806,
+    "wof:lastmodified":1466702470,
     "wof:name":"Kenzevich Backhoe Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.034698,36.181351,-116.034698,36.181351],
-  "geometry": {"coordinates":[-116.034698,36.181351],"type":"Point"}
+  "bbox": [
+    -116.034698,
+    36.181351,
+    -116.034698,
+    36.181351
+],
+  "geometry": {"coordinates":[-116.03469800000001,36.181351],"type":"Point"}
 }

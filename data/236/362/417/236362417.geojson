@@ -2,13 +2,14 @@
   "id": 236362417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.753979,40.835844,-115.753979,40.835844",
     "geom:latitude":40.835844,
     "geom:longitude":-115.753979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 River St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236362417,
-    "wof:lastmodified":1449003853,
+    "wof:lastmodified":1466705131,
     "wof:name":"Bh Minerals USA Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-115.753979,40.835844,-115.753979,40.835844],
+  "bbox": [
+    -115.753979,
+    40.835844,
+    -115.753979,
+    40.835844
+],
   "geometry": {"coordinates":[-115.753979,40.835844],"type":"Point"}
 }

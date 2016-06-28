@@ -2,13 +2,14 @@
   "id": 236040341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259983,36.168813,-115.259983,36.168813",
     "geom:latitude":36.168813,
     "geom:longitude":-115.259983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236040341,
-    "wof:lastmodified":1449005137,
+    "wof:lastmodified":1466703930,
     "wof:name":"Cheyenne Mini Storage LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.259983,36.168813,-115.259983,36.168813],
-  "geometry": {"coordinates":[-115.259983,36.168813],"type":"Point"}
+  "bbox": [
+    -115.259983,
+    36.168813,
+    -115.259983,
+    36.168813
+],
+  "geometry": {"coordinates":[-115.25998300000001,36.168813],"type":"Point"}
 }

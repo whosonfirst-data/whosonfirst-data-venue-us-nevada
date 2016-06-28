@@ -2,13 +2,14 @@
   "id": 236778811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.914513,39.668104,-119.914513,39.668104",
     "geom:latitude":39.668104,
     "geom:longitude":-119.914513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11105 Cimarron Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236778811,
-    "wof:lastmodified":1449001728,
+    "wof:lastmodified":1466706732,
     "wof:name":"James Fleming Handyman Svcs",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.914513,39.668104,-119.914513,39.668104],
+  "bbox": [
+    -119.914513,
+    39.668104,
+    -119.914513,
+    39.668104
+],
   "geometry": {"coordinates":[-119.914513,39.668104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219524289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804906,39.525716,-119.804906,39.525716",
     "geom:latitude":39.525716,
     "geom:longitude":-119.804906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219524289,
-    "wof:lastmodified":1449070346,
+    "wof:lastmodified":1466701747,
     "wof:name":"Foster Care Licensing",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-119.804906,39.525716,-119.804906,39.525716],
+  "bbox": [
+    -119.804906,
+    39.525716,
+    -119.804906,
+    39.525716
+],
   "geometry": {"coordinates":[-119.804906,39.525716],"type":"Point"}
 }

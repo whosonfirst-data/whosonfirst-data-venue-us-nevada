@@ -2,13 +2,14 @@
   "id": 219927223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23965,36.195295,-115.23965,36.195295",
     "geom:latitude":36.195295,
     "geom:longitude":-115.23965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1964 Clovis Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219927223,
-    "wof:lastmodified":1449073545,
+    "wof:lastmodified":1466705935,
     "wof:name":"Rubio Ice Cream",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.23965,36.195295,-115.23965,36.195295],
+  "bbox": [
+    -115.23965,
+    36.195295,
+    -115.23965,
+    36.195295
+],
   "geometry": {"coordinates":[-115.23965,36.195295],"type":"Point"}
 }

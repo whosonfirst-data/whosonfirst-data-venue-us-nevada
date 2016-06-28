@@ -2,13 +2,14 @@
   "id": 236081417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.739877,38.913932,-119.739877,38.913932",
     "geom:latitude":38.913932,
     "geom:longitude":-119.739877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 Arrowhead Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236081417,
-    "wof:lastmodified":1449002512,
+    "wof:lastmodified":1466704104,
     "wof:name":"Terry Ferrara Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.739877,38.913932,-119.739877,38.913932],
-  "geometry": {"coordinates":[-119.739877,38.913932],"type":"Point"}
+  "bbox": [
+    -119.739877,
+    38.913932,
+    -119.739877,
+    38.913932
+],
+  "geometry": {"coordinates":[-119.73987700000001,38.913932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219412123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267631,36.262256,-115.267631,36.262256",
     "geom:latitude":36.262256,
     "geom:longitude":-115.267631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5525 Big Sky Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219412123,
-    "wof:lastmodified":1449071114,
+    "wof:lastmodified":1466703694,
     "wof:name":"Marquis Capital USA Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.267631,36.262256,-115.267631,36.262256],
-  "geometry": {"coordinates":[-115.267631,36.262256],"type":"Point"}
+  "bbox": [
+    -115.267631,
+    36.262256,
+    -115.267631,
+    36.262256
+],
+  "geometry": {"coordinates":[-115.26763099999999,36.262256],"type":"Point"}
 }

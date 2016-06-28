@@ -2,13 +2,14 @@
   "id": 370212701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316906,36.179032,-115.316906,36.179032",
     "geom:latitude":36.179032,
     "geom:longitude":-115.316906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 N Town Center Drive Suite 512",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370212701,
-    "wof:lastmodified":1449031265,
+    "wof:lastmodified":1466702870,
     "wof:name":"Dermatherapy",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-115.316906,36.179032,-115.316906,36.179032],
+  "bbox": [
+    -115.316906,
+    36.179032,
+    -115.316906,
+    36.179032
+],
   "geometry": {"coordinates":[-115.316906,36.179032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236977477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.770983,40.826646,-115.770983,40.826646",
     "geom:latitude":40.826646,
     "geom:longitude":-115.770983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 W Main St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236977477,
-    "wof:lastmodified":1449005341,
+    "wof:lastmodified":1466706901,
     "wof:name":"United Coin",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "amusement"
     ]
 },
-  "bbox": [-115.770983,40.826646,-115.770983,40.826646],
+  "bbox": [
+    -115.770983,
+    40.826646,
+    -115.770983,
+    40.826646
+],
   "geometry": {"coordinates":[-115.770983,40.826646],"type":"Point"}
 }

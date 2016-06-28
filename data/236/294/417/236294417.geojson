@@ -2,13 +2,14 @@
   "id": 236294417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.75591,40.922438,-117.75591,40.922438",
     "geom:latitude":40.922438,
     "geom:longitude":-117.75591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6495 Germaine Dr",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236294417,
-    "wof:lastmodified":1449004106,
+    "wof:lastmodified":1466704798,
     "wof:name":"Sonoma Custom Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.75591,40.922438,-117.75591,40.922438],
+  "bbox": [
+    -117.75591,
+    40.922438,
+    -117.75591,
+    40.922438
+],
   "geometry": {"coordinates":[-117.75591,40.922438],"type":"Point"}
 }

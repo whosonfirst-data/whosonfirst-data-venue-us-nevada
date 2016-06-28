@@ -2,13 +2,14 @@
   "id": 236702815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127857,36.099292,-115.127857,36.099292",
     "geom:latitude":36.099292,
     "geom:longitude":-115.127857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236702815,
-    "wof:lastmodified":1449003272,
+    "wof:lastmodified":1466706476,
     "wof:name":"Continental Broadcasting",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-115.127857,36.099292,-115.127857,36.099292],
-  "geometry": {"coordinates":[-115.127857,36.099292],"type":"Point"}
+  "bbox": [
+    -115.127857,
+    36.099292,
+    -115.127857,
+    36.099292
+],
+  "geometry": {"coordinates":[-115.12785700000001,36.099292],"type":"Point"}
 }

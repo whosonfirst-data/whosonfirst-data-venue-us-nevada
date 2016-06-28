@@ -2,13 +2,14 @@
   "id": 370330607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807701,39.533213,-119.807701,39.533213",
     "geom:latitude":39.533213,
     "geom:longitude":-119.807701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Valley Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":370330607,
-    "wof:lastmodified":1449030763,
+    "wof:lastmodified":1466704742,
     "wof:name":"Reno-Tahoe Specialty Inc.",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-119.807701,39.533213,-119.807701,39.533213],
-  "geometry": {"coordinates":[-119.807701,39.533213],"type":"Point"}
+  "bbox": [
+    -119.807701,
+    39.533213,
+    -119.807701,
+    39.533213
+],
+  "geometry": {"coordinates":[-119.80770099999999,39.533213],"type":"Point"}
 }

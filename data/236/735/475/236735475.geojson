@@ -2,13 +2,14 @@
   "id": 236735475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.703642,39.188428,-119.703642,39.188428",
     "geom:latitude":39.188428,
     "geom:longitude":-119.703642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 N Deer Run Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236735475,
-    "wof:lastmodified":1449005156,
+    "wof:lastmodified":1466706543,
     "wof:name":"Eagle Valley Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.703642,39.188428,-119.703642,39.188428],
+  "bbox": [
+    -119.703642,
+    39.188428,
+    -119.703642,
+    39.188428
+],
   "geometry": {"coordinates":[-119.703642,39.188428],"type":"Point"}
 }

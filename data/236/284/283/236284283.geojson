@@ -2,13 +2,14 @@
   "id": 236284283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.87011,39.475897,-118.87011,39.475897",
     "geom:latitude":39.475897,
     "geom:longitude":-118.87011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 Samantha Cir",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236284283,
-    "wof:lastmodified":1449003748,
+    "wof:lastmodified":1466704438,
     "wof:name":"Better Home Inspection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.87011,39.475897,-118.87011,39.475897],
+  "bbox": [
+    -118.87011,
+    39.475897,
+    -118.87011,
+    39.475897
+],
   "geometry": {"coordinates":[-118.87011,39.475897],"type":"Point"}
 }

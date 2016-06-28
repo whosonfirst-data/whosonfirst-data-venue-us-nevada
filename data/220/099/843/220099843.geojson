@@ -2,13 +2,14 @@
   "id": 220099843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120707,36.09469,-115.120707,36.09469",
     "geom:latitude":36.09469,
     "geom:longitude":-115.120707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 Casey Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220099843,
-    "wof:lastmodified":1449074575,
+    "wof:lastmodified":1466702379,
     "wof:name":"5 Star Industries",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-115.120707,36.09469,-115.120707,36.09469],
+  "bbox": [
+    -115.120707,
+    36.09469,
+    -115.120707,
+    36.09469
+],
   "geometry": {"coordinates":[-115.120707,36.09469],"type":"Point"}
 }

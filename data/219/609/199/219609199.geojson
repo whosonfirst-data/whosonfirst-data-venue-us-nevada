@@ -2,13 +2,14 @@
   "id": 219609199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190321,36.134324,-115.190321,36.134324",
     "geom:latitude":36.134324,
     "geom:longitude":-115.190321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219609199,
-    "wof:lastmodified":1449071699,
+    "wof:lastmodified":1466703075,
     "wof:name":"Ltsa Sales",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.190321,36.134324,-115.190321,36.134324],
+  "bbox": [
+    -115.190321,
+    36.134324,
+    -115.190321,
+    36.134324
+],
   "geometry": {"coordinates":[-115.190321,36.134324],"type":"Point"}
 }

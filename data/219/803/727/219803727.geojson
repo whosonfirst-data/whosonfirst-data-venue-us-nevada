@@ -2,13 +2,14 @@
   "id": 219803727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.71637,40.976633,-117.71637,40.976633",
     "geom:latitude":40.976633,
     "geom:longitude":-117.71637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219803727,
-    "wof:lastmodified":1449073963,
+    "wof:lastmodified":1466704980,
     "wof:name":"Agriculture Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-117.71637,40.976633,-117.71637,40.976633],
+  "bbox": [
+    -117.71637,
+    40.976633,
+    -117.71637,
+    40.976633
+],
   "geometry": {"coordinates":[-117.71637,40.976633],"type":"Point"}
 }

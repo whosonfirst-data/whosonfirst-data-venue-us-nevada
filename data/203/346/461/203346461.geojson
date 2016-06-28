@@ -2,13 +2,14 @@
   "id": 203346461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081753,36.227077,-115.081753,36.227077",
     "geom:latitude":36.227077,
     "geom:longitude":-115.081753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3688 Steinbeck Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203346461,
-    "wof:lastmodified":1449024933,
+    "wof:lastmodified":1466703119,
     "wof:name":"Johnson Repairs",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.081753,36.227077,-115.081753,36.227077],
-  "geometry": {"coordinates":[-115.081753,36.227077],"type":"Point"}
+  "bbox": [
+    -115.081753,
+    36.227077,
+    -115.081753,
+    36.227077
+],
+  "geometry": {"coordinates":[-115.08175300000001,36.227077],"type":"Point"}
 }

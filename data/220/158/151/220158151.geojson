@@ -2,13 +2,14 @@
   "id": 220158151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767829,39.182087,-119.767829,39.182087",
     "geom:latitude":39.182087,
     "geom:longitude":-119.767829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220158151,
-    "wof:lastmodified":1449074588,
+    "wof:lastmodified":1466702805,
     "wof:name":"Computer Crew",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.767829,39.182087,-119.767829,39.182087],
-  "geometry": {"coordinates":[-119.767829,39.182087],"type":"Point"}
+  "bbox": [
+    -119.767829,
+    39.182087,
+    -119.767829,
+    39.182087
+],
+  "geometry": {"coordinates":[-119.76782900000001,39.182087],"type":"Point"}
 }

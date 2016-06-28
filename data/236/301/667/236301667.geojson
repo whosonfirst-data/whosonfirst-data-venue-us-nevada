@@ -2,13 +2,14 @@
   "id": 236301667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815636,39.52641,-119.815636,39.52641",
     "geom:latitude":39.52641,
     "geom:longitude":-119.815636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236301667,
-    "wof:lastmodified":1449002312,
+    "wof:lastmodified":1466704847,
     "wof:name":"Wild West Tattoo",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-119.815636,39.52641,-119.815636,39.52641],
+  "bbox": [
+    -119.815636,
+    39.52641,
+    -119.815636,
+    39.52641
+],
   "geometry": {"coordinates":[-119.815636,39.52641],"type":"Point"}
 }

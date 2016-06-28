@@ -2,13 +2,14 @@
   "id": 220075015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.706761,39.63889,-119.706761,39.63889",
     "geom:latitude":39.63889,
     "geom:longitude":-119.706761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Virgil Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220075015,
-    "wof:lastmodified":1449074491,
+    "wof:lastmodified":1466702234,
     "wof:name":"Zebras",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.706761,39.63889,-119.706761,39.63889],
+  "bbox": [
+    -119.706761,
+    39.63889,
+    -119.706761,
+    39.63889
+],
   "geometry": {"coordinates":[-119.706761,39.63889],"type":"Point"}
 }

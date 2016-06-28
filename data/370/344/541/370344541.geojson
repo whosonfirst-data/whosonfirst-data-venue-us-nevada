@@ -2,13 +2,14 @@
   "id": 370344541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766998,39.133999,-119.766998,39.133999",
     "geom:latitude":39.133999,
     "geom:longitude":-119.766998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Koontz Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370344541,
-    "wof:lastmodified":1449029246,
+    "wof:lastmodified":1466704893,
     "wof:name":"Mountain View Care Center of Carson City",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.766998,39.133999,-119.766998,39.133999],
+  "bbox": [
+    -119.766998,
+    39.133999,
+    -119.766998,
+    39.133999
+],
   "geometry": {"coordinates":[-119.766998,39.133999],"type":"Point"}
 }

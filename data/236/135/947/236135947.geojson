@@ -2,13 +2,14 @@
   "id": 236135947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.044618,36.249075,-116.044618,36.249075",
     "geom:latitude":36.249075,
     "geom:longitude":-116.044618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2096 Pearl Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236135947,
-    "wof:lastmodified":1449002816,
+    "wof:lastmodified":1466702245,
     "wof:name":"C & N Enterprises Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.044618,36.249075,-116.044618,36.249075],
+  "bbox": [
+    -116.044618,
+    36.249075,
+    -116.044618,
+    36.249075
+],
   "geometry": {"coordinates":[-116.044618,36.249075],"type":"Point"}
 }

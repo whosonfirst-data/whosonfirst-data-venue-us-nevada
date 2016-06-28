@@ -2,13 +2,14 @@
   "id": 236774069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153723,36.123058,-115.153723,36.123058",
     "geom:latitude":36.123058,
     "geom:longitude":-115.153723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Elm Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236774069,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466706603,
     "wof:name":"PRI Medical Technologies Inc",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "provider"
     ]
 },
-  "bbox": [-115.153723,36.123058,-115.153723,36.123058],
+  "bbox": [
+    -115.153723,
+    36.123058,
+    -115.153723,
+    36.123058
+],
   "geometry": {"coordinates":[-115.153723,36.123058],"type":"Point"}
 }

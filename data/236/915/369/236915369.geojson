@@ -2,13 +2,14 @@
   "id": 236915369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199171,36.104907,-115.199171,36.104907",
     "geom:latitude":36.104907,
     "geom:longitude":-115.199171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236915369,
-    "wof:lastmodified":1449005213,
+    "wof:lastmodified":1466706831,
     "wof:name":"Creative Plastic Design Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.199171,36.104907,-115.199171,36.104907],
-  "geometry": {"coordinates":[-115.199171,36.104907],"type":"Point"}
+  "bbox": [
+    -115.199171,
+    36.104907,
+    -115.199171,
+    36.104907
+],
+  "geometry": {"coordinates":[-115.19917100000001,36.104907],"type":"Point"}
 }

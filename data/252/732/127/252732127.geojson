@@ -2,13 +2,14 @@
   "id": 252732127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.761219,40.825316,-115.761219,40.825316",
     "geom:latitude":40.825316,
     "geom:longitude":-115.761219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Front St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252732127,
-    "wof:lastmodified":1449006557,
+    "wof:lastmodified":1466701966,
     "wof:name":"G & T Construction",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.761219,40.825316,-115.761219,40.825316],
+  "bbox": [
+    -115.761219,
+    40.825316,
+    -115.761219,
+    40.825316
+],
   "geometry": {"coordinates":[-115.761219,40.825316],"type":"Point"}
 }

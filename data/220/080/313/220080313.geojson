@@ -2,13 +2,14 @@
   "id": 220080313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.051906,36.054639,-115.051906,36.054639",
     "geom:latitude":36.054639,
     "geom:longitude":-115.051906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Frisco Peak Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220080313,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466702260,
     "wof:name":"Ray Stephen",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphics"
     ]
 },
-  "bbox": [-115.051906,36.054639,-115.051906,36.054639],
+  "bbox": [
+    -115.051906,
+    36.054639,
+    -115.051906,
+    36.054639
+],
   "geometry": {"coordinates":[-115.051906,36.054639],"type":"Point"}
 }

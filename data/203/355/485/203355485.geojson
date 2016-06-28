@@ -2,13 +2,14 @@
   "id": 203355485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.041164,36.148872,-115.041164,36.148872",
     "geom:latitude":36.148872,
     "geom:longitude":-115.041164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 Eclair Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355485,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466703156,
     "wof:name":"Harris Marshal Roofing",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.041164,36.148872,-115.041164,36.148872],
-  "geometry": {"coordinates":[-115.041164,36.148872],"type":"Point"}
+  "bbox": [
+    -115.041164,
+    36.148872,
+    -115.041164,
+    36.148872
+],
+  "geometry": {"coordinates":[-115.04116399999999,36.148872],"type":"Point"}
 }

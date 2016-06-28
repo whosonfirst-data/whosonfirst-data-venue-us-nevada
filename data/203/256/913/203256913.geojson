@@ -2,13 +2,14 @@
   "id": 203256913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717772,39.521261,-119.717772,39.521261",
     "geom:latitude":39.521261,
     "geom:longitude":-119.717772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 E Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203256913,
-    "wof:lastmodified":1449026387,
+    "wof:lastmodified":1466702553,
     "wof:name":"Rsw Recycling",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-119.717772,39.521261,-119.717772,39.521261],
+  "bbox": [
+    -119.717772,
+    39.521261,
+    -119.717772,
+    39.521261
+],
   "geometry": {"coordinates":[-119.717772,39.521261],"type":"Point"}
 }

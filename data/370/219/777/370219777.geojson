@@ -2,13 +2,14 @@
   "id": 370219777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260829,36.176319,-115.260829,36.176319",
     "geom:latitude":36.176319,
     "geom:longitude":-115.260829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N Buffalo Dr Suite 110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370219777,
-    "wof:lastmodified":1449032332,
+    "wof:lastmodified":1466703047,
     "wof:name":"The Balance Center Of Las Vegas",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.260829,36.176319,-115.260829,36.176319],
+  "bbox": [
+    -115.260829,
+    36.176319,
+    -115.260829,
+    36.176319
+],
   "geometry": {"coordinates":[-115.260829,36.176319],"type":"Point"}
 }

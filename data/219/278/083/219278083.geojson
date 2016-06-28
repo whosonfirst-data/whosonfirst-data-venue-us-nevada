@@ -2,13 +2,14 @@
   "id": 219278083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180189,36.133899,-115.180189,36.133899",
     "geom:latitude":36.133899,
     "geom:longitude":-115.180189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219278083,
-    "wof:lastmodified":1449072324,
+    "wof:lastmodified":1466702843,
     "wof:name":"Cigar Box",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.180189,36.133899,-115.180189,36.133899],
+  "bbox": [
+    -115.180189,
+    36.133899,
+    -115.180189,
+    36.133899
+],
   "geometry": {"coordinates":[-115.180189,36.133899],"type":"Point"}
 }

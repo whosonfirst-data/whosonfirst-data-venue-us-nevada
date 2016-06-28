@@ -2,13 +2,14 @@
   "id": 354376547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102563,36.10023,-115.102563,36.10023",
     "geom:latitude":36.10023,
     "geom:longitude":-115.102563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 E Tropicana Ave Ste E",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354376547,
-    "wof:lastmodified":1449066494,
+    "wof:lastmodified":1466706061,
     "wof:name":"Red Hookah Lounge & Internet Cafe",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.102563,36.10023,-115.102563,36.10023],
+  "bbox": [
+    -115.102563,
+    36.10023,
+    -115.102563,
+    36.10023
+],
   "geometry": {"coordinates":[-115.102563,36.10023],"type":"Point"}
 }

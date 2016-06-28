@@ -2,13 +2,14 @@
   "id": 236707595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068564,36.14768,-115.068564,36.14768",
     "geom:latitude":36.14768,
     "geom:longitude":-115.068564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4843 Patterson Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236707595,
-    "wof:lastmodified":1449004623,
+    "wof:lastmodified":1466706362,
     "wof:name":"Mbss",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.068564,36.14768,-115.068564,36.14768],
-  "geometry": {"coordinates":[-115.068564,36.14768],"type":"Point"}
+  "bbox": [
+    -115.068564,
+    36.14768,
+    -115.068564,
+    36.14768
+],
+  "geometry": {"coordinates":[-115.06856399999999,36.14768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219628829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76206,38.964187,-119.76206,38.964187",
     "geom:latitude":38.964187,
     "geom:longitude":-119.76206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1756 Tulip Ct",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219628829,
-    "wof:lastmodified":1449073256,
+    "wof:lastmodified":1466703441,
     "wof:name":"Sweat Labor Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.76206,38.964187,-119.76206,38.964187],
-  "geometry": {"coordinates":[-119.76206,38.964187],"type":"Point"}
+  "bbox": [
+    -119.76206,
+    38.964187,
+    -119.76206,
+    38.964187
+],
+  "geometry": {"coordinates":[-119.76206000000001,38.964187],"type":"Point"}
 }

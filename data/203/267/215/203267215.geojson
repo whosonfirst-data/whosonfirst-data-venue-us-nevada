@@ -2,13 +2,14 @@
   "id": 203267215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.133476,36.02315,-115.133476,36.02315",
     "geom:latitude":36.02315,
     "geom:longitude":-115.133476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9160 November Breeze St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203267215,
-    "wof:lastmodified":1449026693,
+    "wof:lastmodified":1466702616,
     "wof:name":"At Home Electric Inc",
     "wof:parent_id":85879707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.133476,36.02315,-115.133476,36.02315],
+  "bbox": [
+    -115.133476,
+    36.02315,
+    -115.133476,
+    36.02315
+],
   "geometry": {"coordinates":[-115.133476,36.02315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353990323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.963499,36.013015,-114.963499,36.013015",
     "geom:latitude":36.013015,
     "geom:longitude":-114.963499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 College D Ste D",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353990323,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1466701599,
     "wof:name":"Tan Factory",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.963499,36.013015,-114.963499,36.013015],
+  "bbox": [
+    -114.963499,
+    36.013015,
+    -114.963499,
+    36.013015
+],
   "geometry": {"coordinates":[-114.963499,36.013015],"type":"Point"}
 }

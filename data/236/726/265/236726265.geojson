@@ -2,13 +2,14 @@
   "id": 236726265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.856571,39.523966,-119.856571,39.523966",
     "geom:latitude":39.523966,
     "geom:longitude":-119.856571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Sky Mountain Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236726265,
-    "wof:lastmodified":1449004001,
+    "wof:lastmodified":1466706669,
     "wof:name":"Cal-Neva Slush",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-119.856571,39.523966,-119.856571,39.523966],
+  "bbox": [
+    -119.856571,
+    39.523966,
+    -119.856571,
+    39.523966
+],
   "geometry": {"coordinates":[-119.856571,39.523966],"type":"Point"}
 }

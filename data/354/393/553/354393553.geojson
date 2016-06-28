@@ -2,13 +2,14 @@
   "id": 354393553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.060902,36.114136,-115.060902,36.114136",
     "geom:latitude":36.114136,
     "geom:longitude":-115.060902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Sam's Town Hotel & Gambling Hall 5111 Boulder Highway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354393553,
-    "wof:lastmodified":1449066448,
+    "wof:lastmodified":1466706239,
     "wof:name":"TGI Friday's",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "american"
     ]
 },
-  "bbox": [-115.060902,36.114136,-115.060902,36.114136],
+  "bbox": [
+    -115.060902,
+    36.114136,
+    -115.060902,
+    36.114136
+],
   "geometry": {"coordinates":[-115.060902,36.114136],"type":"Point"}
 }

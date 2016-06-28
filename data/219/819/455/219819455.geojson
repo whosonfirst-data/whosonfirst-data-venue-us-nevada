@@ -2,13 +2,14 @@
   "id": 219819455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074622,36.236596,-115.074622,36.236596",
     "geom:latitude":36.236596,
     "geom:longitude":-115.074622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4198 Boratko St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219819455,
-    "wof:lastmodified":1449071234,
+    "wof:lastmodified":1466705273,
     "wof:name":"Loki Systems",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.074622,36.236596,-115.074622,36.236596],
-  "geometry": {"coordinates":[-115.074622,36.236596],"type":"Point"}
+  "bbox": [
+    -115.074622,
+    36.236596,
+    -115.074622,
+    36.236596
+],
+  "geometry": {"coordinates":[-115.07462200000001,36.236596],"type":"Point"}
 }

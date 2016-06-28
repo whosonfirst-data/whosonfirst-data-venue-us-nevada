@@ -2,13 +2,14 @@
   "id": 354345607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137853,36.116101,-115.137853,36.116101",
     "geom:latitude":36.116101,
     "geom:longitude":-115.137853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4023 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354345607,
-    "wof:lastmodified":1449067533,
+    "wof:lastmodified":1466706105,
     "wof:name":"Marlu",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "southern"
     ]
 },
-  "bbox": [-115.137853,36.116101,-115.137853,36.116101],
-  "geometry": {"coordinates":[-115.137853,36.116101],"type":"Point"}
+  "bbox": [
+    -115.137853,
+    36.116101,
+    -115.137853,
+    36.116101
+],
+  "geometry": {"coordinates":[-115.13785300000001,36.116101],"type":"Point"}
 }

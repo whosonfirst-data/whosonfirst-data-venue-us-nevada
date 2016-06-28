@@ -2,13 +2,14 @@
   "id": 220113393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.713928,39.163702,-119.713928,39.163702",
     "geom:latitude":39.163702,
     "geom:longitude":-119.713928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 Aquifer Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220113393,
-    "wof:lastmodified":1449074806,
+    "wof:lastmodified":1466702471,
     "wof:name":"Enge Translations",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.713928,39.163702,-119.713928,39.163702],
+  "bbox": [
+    -119.713928,
+    39.163702,
+    -119.713928,
+    39.163702
+],
   "geometry": {"coordinates":[-119.713928,39.163702],"type":"Point"}
 }

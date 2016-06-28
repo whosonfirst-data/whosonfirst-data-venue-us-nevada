@@ -2,13 +2,14 @@
   "id": 236366197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.822151,35.972777,-114.822151,35.972777",
     "geom:latitude":35.972777,
     "geom:longitude":-114.822151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 del Prado Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236366197,
-    "wof:lastmodified":1449004174,
+    "wof:lastmodified":1466705171,
     "wof:name":"Con Fab Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-114.822151,35.972777,-114.822151,35.972777],
-  "geometry": {"coordinates":[-114.822151,35.972777],"type":"Point"}
+  "bbox": [
+    -114.822151,
+    35.972777,
+    -114.822151,
+    35.972777
+],
+  "geometry": {"coordinates":[-114.82215100000001,35.972777],"type":"Point"}
 }

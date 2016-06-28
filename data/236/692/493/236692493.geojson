@@ -2,13 +2,14 @@
   "id": 236692493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.068218,36.804089,-114.068218,36.804089",
     "geom:latitude":36.804089,
     "geom:longitude":-114.068218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Mesquite Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236692493,
-    "wof:lastmodified":1449002337,
+    "wof:lastmodified":1466706457,
     "wof:name":"Virgin Valley Artists' Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "information"
     ]
 },
-  "bbox": [-114.068218,36.804089,-114.068218,36.804089],
+  "bbox": [
+    -114.068218,
+    36.804089,
+    -114.068218,
+    36.804089
+],
   "geometry": {"coordinates":[-114.068218,36.804089],"type":"Point"}
 }

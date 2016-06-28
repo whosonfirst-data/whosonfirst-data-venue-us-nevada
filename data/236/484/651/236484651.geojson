@@ -2,13 +2,14 @@
   "id": 236484651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.606412,40.733981,-115.606412,40.733981",
     "geom:latitude":40.733981,
     "geom:longitude":-115.606412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Blakeland Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236484651,
-    "wof:lastmodified":1449005018,
+    "wof:lastmodified":1466705740,
     "wof:name":"A Pretty Pet Grooming",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.606412,40.733981,-115.606412,40.733981],
-  "geometry": {"coordinates":[-115.606412,40.733981],"type":"Point"}
+  "bbox": [
+    -115.606412,
+    40.733981,
+    -115.606412,
+    40.733981
+],
+  "geometry": {"coordinates":[-115.60641200000001,40.733981],"type":"Point"}
 }

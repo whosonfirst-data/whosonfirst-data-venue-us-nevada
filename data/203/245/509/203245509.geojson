@@ -2,13 +2,14 @@
   "id": 203245509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.777185,39.468584,-118.777185,39.468584",
     "geom:latitude":39.468584,
     "geom:longitude":-118.777185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 S Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203245509,
-    "wof:lastmodified":1449026808,
+    "wof:lastmodified":1466702464,
     "wof:name":"Churchill County Jr High Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.777185,39.468584,-118.777185,39.468584],
+  "bbox": [
+    -118.777185,
+    39.468584,
+    -118.777185,
+    39.468584
+],
   "geometry": {"coordinates":[-118.777185,39.468584],"type":"Point"}
 }

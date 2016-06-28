@@ -2,13 +2,14 @@
   "id": 220077635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200135,36.091149,-115.200135,36.091149",
     "geom:latitude":36.091149,
     "geom:longitude":-115.200135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 Bus Center Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220077635,
-    "wof:lastmodified":1449074161,
+    "wof:lastmodified":1466702252,
     "wof:name":"Robin",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.200135,36.091149,-115.200135,36.091149],
+  "bbox": [
+    -115.200135,
+    36.091149,
+    -115.200135,
+    36.091149
+],
   "geometry": {"coordinates":[-115.200135,36.091149],"type":"Point"}
 }

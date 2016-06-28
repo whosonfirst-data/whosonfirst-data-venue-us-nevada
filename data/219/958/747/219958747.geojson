@@ -2,13 +2,14 @@
   "id": 219958747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809998,39.507421,-119.809998,39.507421",
     "geom:latitude":39.507421,
     "geom:longitude":-119.809998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 Watt St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219958747,
-    "wof:lastmodified":1449073156,
+    "wof:lastmodified":1466705861,
     "wof:name":"Hillside Design & Construction",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.809998,39.507421,-119.809998,39.507421],
-  "geometry": {"coordinates":[-119.809998,39.507421],"type":"Point"}
+  "bbox": [
+    -119.809998,
+    39.507421,
+    -119.809998,
+    39.507421
+],
+  "geometry": {"coordinates":[-119.80999799999999,39.507421],"type":"Point"}
 }

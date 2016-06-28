@@ -2,13 +2,14 @@
   "id": 219330205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748505,38.940666,-119.748505,38.940666",
     "geom:latitude":38.940666,
     "geom:longitude":-119.748505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1448 US Hwy 395 N",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219330205,
-    "wof:lastmodified":1449072138,
+    "wof:lastmodified":1466703262,
     "wof:name":"Netti's Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.748505,38.940666,-119.748505,38.940666],
-  "geometry": {"coordinates":[-119.748505,38.940666],"type":"Point"}
+  "bbox": [
+    -119.748505,
+    38.940666,
+    -119.748505,
+    38.940666
+],
+  "geometry": {"coordinates":[-119.74850499999999,38.940666],"type":"Point"}
 }

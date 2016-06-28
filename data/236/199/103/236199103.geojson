@@ -2,13 +2,14 @@
   "id": 236199103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163259,38.986657,-119.163259,38.986657",
     "geom:latitude":38.986657,
     "geom:longitude":-119.163259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 S Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236199103,
-    "wof:lastmodified":1449001930,
+    "wof:lastmodified":1466703548,
     "wof:name":"Lyon County Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-119.163259,38.986657,-119.163259,38.986657],
+  "bbox": [
+    -119.163259,
+    38.986657,
+    -119.163259,
+    38.986657
+],
   "geometry": {"coordinates":[-119.163259,38.986657],"type":"Point"}
 }

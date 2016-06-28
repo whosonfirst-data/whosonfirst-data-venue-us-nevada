@@ -2,13 +2,14 @@
   "id": 219691577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.979075,36.002604,-114.979075,36.002604",
     "geom:latitude":36.002604,
     "geom:longitude":-114.979075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Spikenard Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219691577,
-    "wof:lastmodified":1449070683,
+    "wof:lastmodified":1466704368,
     "wof:name":"Industrial Power Corp",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.979075,36.002604,-114.979075,36.002604],
-  "geometry": {"coordinates":[-114.979075,36.002604],"type":"Point"}
+  "bbox": [
+    -114.979075,
+    36.002604,
+    -114.979075,
+    36.002604
+],
+  "geometry": {"coordinates":[-114.97907499999999,36.002604],"type":"Point"}
 }

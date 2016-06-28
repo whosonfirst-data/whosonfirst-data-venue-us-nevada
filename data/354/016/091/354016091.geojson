@@ -2,13 +2,14 @@
   "id": 354016091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.979988,36.029843,-114.979988,36.029843",
     "geom:latitude":36.029843,
     "geom:longitude":-114.979988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Water Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354016091,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1466701911,
     "wof:name":"Detroit Motor City Coney Island Restaurant",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dog"
     ]
 },
-  "bbox": [-114.979988,36.029843,-114.979988,36.029843],
-  "geometry": {"coordinates":[-114.979988,36.029843],"type":"Point"}
+  "bbox": [
+    -114.979988,
+    36.029843,
+    -114.979988,
+    36.029843
+],
+  "geometry": {"coordinates":[-114.97998800000001,36.029843],"type":"Point"}
 }

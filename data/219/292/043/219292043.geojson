@@ -2,13 +2,14 @@
   "id": 219292043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.718447,38.913857,-119.718447,38.913857",
     "geom:latitude":38.913857,
     "geom:longitude":-119.718447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1064 Riverview Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219292043,
-    "wof:lastmodified":1449070686,
+    "wof:lastmodified":1466703005,
     "wof:name":"Sierra View Dental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.718447,38.913857,-119.718447,38.913857],
+  "bbox": [
+    -119.718447,
+    38.913857,
+    -119.718447,
+    38.913857
+],
   "geometry": {"coordinates":[-119.718447,38.913857],"type":"Point"}
 }

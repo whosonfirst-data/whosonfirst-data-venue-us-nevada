@@ -2,13 +2,14 @@
   "id": 354323595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.18627,36.075084,-115.18627,36.075084",
     "geom:latitude":36.075084,
     "geom:longitude":-115.18627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 W Post Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354323595,
-    "wof:lastmodified":1449066074,
+    "wof:lastmodified":1466705865,
     "wof:name":"Turney Development Llc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.18627,36.075084,-115.18627,36.075084],
-  "geometry": {"coordinates":[-115.18627,36.075084],"type":"Point"}
+  "bbox": [
+    -115.18627,
+    36.075084,
+    -115.18627,
+    36.075084
+],
+  "geometry": {"coordinates":[-115.18626999999999,36.075084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354401743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128417,36.020662,-115.128417,36.020662",
     "geom:latitude":36.020662,
     "geom:longitude":-115.128417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 E Serene Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":354401743,
-    "wof:lastmodified":1449067403,
+    "wof:lastmodified":1466706297,
     "wof:name":"Challenger School",
     "wof:parent_id":85879707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.128417,36.020662,-115.128417,36.020662],
+  "bbox": [
+    -115.128417,
+    36.020662,
+    -115.128417,
+    36.020662
+],
   "geometry": {"coordinates":[-115.128417,36.020662],"type":"Point"}
 }

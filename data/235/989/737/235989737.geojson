@@ -2,13 +2,14 @@
   "id": 235989737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287642,36.231175,-115.287642,36.231175",
     "geom:latitude":36.231175,
     "geom:longitude":-115.287642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3849 Cranbrook Hill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235989737,
-    "wof:lastmodified":1449008504,
+    "wof:lastmodified":1466703706,
     "wof:name":"Morgan Writing Instruments",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-115.287642,36.231175,-115.287642,36.231175],
-  "geometry": {"coordinates":[-115.287642,36.231175],"type":"Point"}
+  "bbox": [
+    -115.287642,
+    36.231175,
+    -115.287642,
+    36.231175
+],
+  "geometry": {"coordinates":[-115.28764200000001,36.231175],"type":"Point"}
 }

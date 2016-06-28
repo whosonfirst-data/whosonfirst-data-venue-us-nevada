@@ -2,13 +2,14 @@
   "id": 370359901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747002,39.189899,-119.747002,39.189899",
     "geom:latitude":39.189899,
     "geom:longitude":-119.747002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3352 Goni Rd Ste 162",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370359901,
-    "wof:lastmodified":1449029017,
+    "wof:lastmodified":1466705200,
     "wof:name":"Colodny Brian CPA",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-119.747002,39.189899,-119.747002,39.189899],
-  "geometry": {"coordinates":[-119.747002,39.189899],"type":"Point"}
+  "bbox": [
+    -119.747002,
+    39.189899,
+    -119.747002,
+    39.189899
+],
+  "geometry": {"coordinates":[-119.74700199999999,39.189899],"type":"Point"}
 }

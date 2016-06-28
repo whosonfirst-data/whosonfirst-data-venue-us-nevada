@@ -2,13 +2,14 @@
   "id": 220133641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091352,36.009035,-115.091352,36.009035",
     "geom:latitude":36.009035,
     "geom:longitude":-115.091352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Copper View St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220133641,
-    "wof:lastmodified":1449074715,
+    "wof:lastmodified":1466702632,
     "wof:name":"Ketch 22 The Game",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.091352,36.009035,-115.091352,36.009035],
+  "bbox": [
+    -115.091352,
+    36.009035,
+    -115.091352,
+    36.009035
+],
   "geometry": {"coordinates":[-115.091352,36.009035],"type":"Point"}
 }

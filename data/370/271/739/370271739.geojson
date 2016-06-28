@@ -2,13 +2,14 @@
   "id": 370271739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257968,36.265282,-115.257968,36.265282",
     "geom:latitude":36.265282,
     "geom:longitude":-115.257968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 Centennial Center Blvd Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370271739,
-    "wof:lastmodified":1449030854,
+    "wof:lastmodified":1466704521,
     "wof:name":"Home Consignment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.257968,36.265282,-115.257968,36.265282],
-  "geometry": {"coordinates":[-115.257968,36.265282],"type":"Point"}
+  "bbox": [
+    -115.257968,
+    36.265282,
+    -115.257968,
+    36.265282
+],
+  "geometry": {"coordinates":[-115.25796800000001,36.265282],"type":"Point"}
 }

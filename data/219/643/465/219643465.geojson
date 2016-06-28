@@ -2,13 +2,14 @@
   "id": 219643465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198884,36.202508,-115.198884,36.202508",
     "geom:latitude":36.202508,
     "geom:longitude":-115.198884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2219 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219643465,
-    "wof:lastmodified":1449073443,
+    "wof:lastmodified":1466703698,
     "wof:name":"Network 1 Sports",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.198884,36.202508,-115.198884,36.202508],
-  "geometry": {"coordinates":[-115.198884,36.202508],"type":"Point"}
+  "bbox": [
+    -115.198884,
+    36.202508,
+    -115.198884,
+    36.202508
+],
+  "geometry": {"coordinates":[-115.19888400000001,36.202508],"type":"Point"}
 }

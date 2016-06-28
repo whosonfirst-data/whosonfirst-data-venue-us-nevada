@@ -2,13 +2,14 @@
   "id": 354325381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199177,36.099636,-115.199177,36.099636",
     "geom:latitude":36.099636,
     "geom:longitude":-115.199177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 Arville Street Suite 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354325381,
-    "wof:lastmodified":1449066577,
+    "wof:lastmodified":1466706021,
     "wof:name":"Son Songs Recording Studio T-Bone",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "studio"
     ]
 },
-  "bbox": [-115.199177,36.099636,-115.199177,36.099636],
-  "geometry": {"coordinates":[-115.199177,36.099636],"type":"Point"}
+  "bbox": [
+    -115.199177,
+    36.099636,
+    -115.199177,
+    36.099636
+],
+  "geometry": {"coordinates":[-115.19917700000001,36.099636],"type":"Point"}
 }

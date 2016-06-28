@@ -2,13 +2,14 @@
   "id": 236503245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249141,36.24055,-115.249141,36.24055",
     "geom:latitude":36.24055,
     "geom:longitude":-115.249141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7150 W Craig Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236503245,
-    "wof:lastmodified":1449005262,
+    "wof:lastmodified":1466705680,
     "wof:name":"Ires Test Account",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.249141,36.24055,-115.249141,36.24055],
-  "geometry": {"coordinates":[-115.249141,36.24055],"type":"Point"}
+  "bbox": [
+    -115.249141,
+    36.24055,
+    -115.249141,
+    36.24055
+],
+  "geometry": {"coordinates":[-115.24914099999999,36.24055],"type":"Point"}
 }

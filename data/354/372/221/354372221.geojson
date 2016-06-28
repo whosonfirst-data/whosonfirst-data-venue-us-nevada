@@ -2,13 +2,14 @@
   "id": 354372221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115912,36.074254,-115.115912,36.074254",
     "geom:latitude":36.074254,
     "geom:longitude":-115.115912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Chandler Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354372221,
-    "wof:lastmodified":1449066970,
+    "wof:lastmodified":1466706128,
     "wof:name":"Lakeside Contractors",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.115912,36.074254,-115.115912,36.074254],
-  "geometry": {"coordinates":[-115.115912,36.074254],"type":"Point"}
+  "bbox": [
+    -115.115912,
+    36.074254,
+    -115.115912,
+    36.074254
+],
+  "geometry": {"coordinates":[-115.11591199999999,36.074254],"type":"Point"}
 }

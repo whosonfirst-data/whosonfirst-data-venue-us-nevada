@@ -2,13 +2,14 @@
   "id": 219840943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16053,36.195777,-115.16053,36.195777",
     "geom:latitude":36.195777,
     "geom:longitude":-115.16053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219840943,
-    "wof:lastmodified":1449073136,
+    "wof:lastmodified":1466705298,
     "wof:name":"Holy Cross Baptist Church",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.16053,36.195777,-115.16053,36.195777],
-  "geometry": {"coordinates":[-115.16053,36.195777],"type":"Point"}
+  "bbox": [
+    -115.16053,
+    36.195777,
+    -115.16053,
+    36.195777
+],
+  "geometry": {"coordinates":[-115.16052999999999,36.195777],"type":"Point"}
 }

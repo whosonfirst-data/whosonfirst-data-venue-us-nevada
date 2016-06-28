@@ -2,13 +2,14 @@
   "id": 236967207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184235,36.133657,-115.184235,36.133657",
     "geom:latitude":36.133657,
     "geom:longitude":-115.184235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 W Sirius Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236967207,
-    "wof:lastmodified":1449004958,
+    "wof:lastmodified":1466706950,
     "wof:name":"Integrity National Group",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.184235,36.133657,-115.184235,36.133657],
+  "bbox": [
+    -115.184235,
+    36.133657,
+    -115.184235,
+    36.133657
+],
   "geometry": {"coordinates":[-115.184235,36.133657],"type":"Point"}
 }

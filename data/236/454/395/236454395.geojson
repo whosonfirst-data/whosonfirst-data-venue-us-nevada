@@ -2,13 +2,14 @@
   "id": 236454395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.725461,40.963671,-117.725461,40.963671",
     "geom:latitude":40.963671,
     "geom:longitude":-117.725461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 W Minor St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236454395,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466705617,
     "wof:name":"Ready Check",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-117.725461,40.963671,-117.725461,40.963671],
+  "bbox": [
+    -117.725461,
+    40.963671,
+    -117.725461,
+    40.963671
+],
   "geometry": {"coordinates":[-117.725461,40.963671],"type":"Point"}
 }

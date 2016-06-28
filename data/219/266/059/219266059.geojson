@@ -2,13 +2,14 @@
   "id": 219266059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77918,39.175965,-119.77918,39.175965",
     "geom:latitude":39.175965,
     "geom:longitude":-119.77918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Chaise Ct",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219266059,
-    "wof:lastmodified":1449070475,
+    "wof:lastmodified":1466702688,
     "wof:name":"Home Computer House Calls",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-119.77918,39.175965,-119.77918,39.175965],
+  "bbox": [
+    -119.77918,
+    39.175965,
+    -119.77918,
+    39.175965
+],
   "geometry": {"coordinates":[-119.77918,39.175965],"type":"Point"}
 }

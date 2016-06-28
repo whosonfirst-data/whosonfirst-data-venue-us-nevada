@@ -2,13 +2,14 @@
   "id": 235960735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759425,38.947921,-119.759425,38.947921",
     "geom:latitude":38.947921,
     "geom:longitude":-119.759425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Church St",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235960735,
-    "wof:lastmodified":1449008493,
+    "wof:lastmodified":1466703583,
     "wof:name":"Motorcycle Industry Magazine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-119.759425,38.947921,-119.759425,38.947921],
-  "geometry": {"coordinates":[-119.759425,38.947921],"type":"Point"}
+  "bbox": [
+    -119.759425,
+    38.947921,
+    -119.759425,
+    38.947921
+],
+  "geometry": {"coordinates":[-119.75942499999999,38.947921],"type":"Point"}
 }

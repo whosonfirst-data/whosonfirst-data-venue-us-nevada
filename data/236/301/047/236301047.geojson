@@ -2,13 +2,14 @@
   "id": 236301047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708835,39.578631,-119.708835,39.578631",
     "geom:latitude":39.578631,
     "geom:longitude":-119.708835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1679 Crestside Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236301047,
-    "wof:lastmodified":1449002312,
+    "wof:lastmodified":1466704842,
     "wof:name":"Washoe Gardens Apts",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.708835,39.578631,-119.708835,39.578631],
-  "geometry": {"coordinates":[-119.708835,39.578631],"type":"Point"}
+  "bbox": [
+    -119.708835,
+    39.578631,
+    -119.708835,
+    39.578631
+],
+  "geometry": {"coordinates":[-119.70883499999999,39.578631],"type":"Point"}
 }

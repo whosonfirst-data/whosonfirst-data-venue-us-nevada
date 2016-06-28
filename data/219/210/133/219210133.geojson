@@ -2,13 +2,14 @@
   "id": 219210133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239681,36.133015,-115.239681,36.133015",
     "geom:latitude":36.133015,
     "geom:longitude":-115.239681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6751 Palmyra Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219210133,
-    "wof:lastmodified":1449071600,
+    "wof:lastmodified":1466702151,
     "wof:name":"Happy's Parrot Place",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bird"
     ]
 },
-  "bbox": [-115.239681,36.133015,-115.239681,36.133015],
+  "bbox": [
+    -115.239681,
+    36.133015,
+    -115.239681,
+    36.133015
+],
   "geometry": {"coordinates":[-115.239681,36.133015],"type":"Point"}
 }

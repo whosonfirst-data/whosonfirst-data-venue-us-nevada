@@ -2,13 +2,14 @@
   "id": 236959145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.873882,39.252584,-114.873882,39.252584",
     "geom:latitude":39.252584,
     "geom:longitude":-114.873882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Great Basin Blvd",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236959145,
-    "wof:lastmodified":1449004852,
+    "wof:lastmodified":1466706803,
     "wof:name":"V & S Variety",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.873882,39.252584,-114.873882,39.252584],
-  "geometry": {"coordinates":[-114.873882,39.252584],"type":"Point"}
+  "bbox": [
+    -114.873882,
+    39.252584,
+    -114.873882,
+    39.252584
+],
+  "geometry": {"coordinates":[-114.87388199999999,39.252584],"type":"Point"}
 }

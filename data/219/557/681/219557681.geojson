@@ -2,13 +2,14 @@
   "id": 219557681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297304,36.273687,-115.297304,36.273687",
     "geom:latitude":36.273687,
     "geom:longitude":-115.297304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9230 Azure Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219557681,
-    "wof:lastmodified":1449072919,
+    "wof:lastmodified":1466702359,
     "wof:name":"Centennial Child Care",
     "wof:parent_id":85896903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.297304,36.273687,-115.297304,36.273687],
+  "bbox": [
+    -115.297304,
+    36.273687,
+    -115.297304,
+    36.273687
+],
   "geometry": {"coordinates":[-115.297304,36.273687],"type":"Point"}
 }

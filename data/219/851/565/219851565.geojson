@@ -2,13 +2,14 @@
   "id": 219851565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.814222,39.525347,-119.814222,39.525347",
     "geom:latitude":39.525347,
     "geom:longitude":-119.814222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 N Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219851565,
-    "wof:lastmodified":1449072711,
+    "wof:lastmodified":1466705365,
     "wof:name":"Century Theatres Riverside 12",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.814222,39.525347,-119.814222,39.525347],
+  "bbox": [
+    -119.814222,
+    39.525347,
+    -119.814222,
+    39.525347
+],
   "geometry": {"coordinates":[-119.814222,39.525347],"type":"Point"}
 }

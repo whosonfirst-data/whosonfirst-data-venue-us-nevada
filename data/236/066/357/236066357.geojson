@@ -2,13 +2,14 @@
   "id": 236066357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801706,39.495307,-119.801706,39.495307",
     "geom:latitude":39.495307,
     "geom:longitude":-119.801706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236066357,
-    "wof:lastmodified":1449002439,
+    "wof:lastmodified":1466704005,
     "wof:name":"Joseph H Peri DDS Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.801706,39.495307,-119.801706,39.495307],
+  "bbox": [
+    -119.801706,
+    39.495307,
+    -119.801706,
+    39.495307
+],
   "geometry": {"coordinates":[-119.801706,39.495307],"type":"Point"}
 }

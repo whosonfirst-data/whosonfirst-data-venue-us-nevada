@@ -2,13 +2,14 @@
   "id": 354016555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.9962,36.035616,-114.9962,36.035616",
     "geom:latitude":36.035616,
     "geom:longitude":-114.9962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 W Lake Mead Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354016555,
-    "wof:lastmodified":1449066233,
+    "wof:lastmodified":1466701923,
     "wof:name":"Phillips Furniture New & Used",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-114.9962,36.035616,-114.9962,36.035616],
+  "bbox": [
+    -114.9962,
+    36.035616,
+    -114.9962,
+    36.035616
+],
   "geometry": {"coordinates":[-114.9962,36.035616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235967979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136802,36.143418,-115.136802,36.143418",
     "geom:latitude":36.143418,
     "geom:longitude":-115.136802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":235967979,
-    "wof:lastmodified":1449008593,
+    "wof:lastmodified":1466703609,
     "wof:name":"MSI Inventory Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-115.136802,36.143418,-115.136802,36.143418],
+  "bbox": [
+    -115.136802,
+    36.143418,
+    -115.136802,
+    36.143418
+],
   "geometry": {"coordinates":[-115.136802,36.143418],"type":"Point"}
 }

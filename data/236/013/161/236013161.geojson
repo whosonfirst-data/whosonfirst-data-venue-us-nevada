@@ -2,13 +2,14 @@
   "id": 236013161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.23626,39.601066,-119.23626,39.601066",
     "geom:latitude":39.601066,
     "geom:longitude":-119.23626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 G St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236013161,
-    "wof:lastmodified":1449003969,
+    "wof:lastmodified":1466703817,
     "wof:name":"Beary Fun Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.23626,39.601066,-119.23626,39.601066],
+  "bbox": [
+    -119.23626,
+    39.601066,
+    -119.23626,
+    39.601066
+],
   "geometry": {"coordinates":[-119.23626,39.601066],"type":"Point"}
 }

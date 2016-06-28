@@ -2,13 +2,14 @@
   "id": 354142951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242039,36.116101,-115.242039,36.116101",
     "geom:latitude":36.116101,
     "geom:longitude":-115.242039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 So. Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354142951,
-    "wof:lastmodified":1449067292,
+    "wof:lastmodified":1466704411,
     "wof:name":"CD Nails",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.242039,36.116101,-115.242039,36.116101],
-  "geometry": {"coordinates":[-115.242039,36.116101],"type":"Point"}
+  "bbox": [
+    -115.242039,
+    36.116101,
+    -115.242039,
+    36.116101
+],
+  "geometry": {"coordinates":[-115.24203900000001,36.116101],"type":"Point"}
 }

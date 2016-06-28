@@ -2,13 +2,14 @@
   "id": 236527079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781392,39.476201,-119.781392,39.476201",
     "geom:latitude":39.476201,
     "geom:longitude":-119.781392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 Meadowood Mall Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236527079,
-    "wof:lastmodified":1449004428,
+    "wof:lastmodified":1466705910,
     "wof:name":"Luxury Perfume",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "perfume"
     ]
 },
-  "bbox": [-119.781392,39.476201,-119.781392,39.476201],
+  "bbox": [
+    -119.781392,
+    39.476201,
+    -119.781392,
+    39.476201
+],
   "geometry": {"coordinates":[-119.781392,39.476201],"type":"Point"}
 }

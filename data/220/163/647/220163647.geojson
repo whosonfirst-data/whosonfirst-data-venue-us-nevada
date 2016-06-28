@@ -2,13 +2,14 @@
   "id": 220163647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312119,36.131277,-115.312119,36.131277",
     "geom:latitude":36.131277,
     "geom:longitude":-115.312119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9913 Aspen Knoll Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220163647,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466702839,
     "wof:name":"Coaching To Succeed",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.312119,36.131277,-115.312119,36.131277],
+  "bbox": [
+    -115.312119,
+    36.131277,
+    -115.312119,
+    36.131277
+],
   "geometry": {"coordinates":[-115.312119,36.131277],"type":"Point"}
 }

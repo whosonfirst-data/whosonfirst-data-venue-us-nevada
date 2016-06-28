@@ -2,13 +2,14 @@
   "id": 370362493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77117,39.110351,-119.77117,39.110351",
     "geom:latitude":39.110351,
     "geom:longitude":-119.77117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 Topsy Ln #332",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362493,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466705085,
     "wof:name":"Mattress Discounters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-119.77117,39.110351,-119.77117,39.110351],
+  "bbox": [
+    -119.77117,
+    39.110351,
+    -119.77117,
+    39.110351
+],
   "geometry": {"coordinates":[-119.77117,39.110351],"type":"Point"}
 }

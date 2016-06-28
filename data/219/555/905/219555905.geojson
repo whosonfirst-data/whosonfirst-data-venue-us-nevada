@@ -2,13 +2,14 @@
   "id": 219555905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.857001,39.603457,-119.857001,39.603457",
     "geom:latitude":39.603457,
     "geom:longitude":-119.857001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Heindel Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219555905,
-    "wof:lastmodified":1449073407,
+    "wof:lastmodified":1466702329,
     "wof:name":"Precious Days Childcare",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.857001,39.603457,-119.857001,39.603457],
+  "bbox": [
+    -119.857001,
+    39.603457,
+    -119.857001,
+    39.603457
+],
   "geometry": {"coordinates":[-119.857001,39.603457],"type":"Point"}
 }

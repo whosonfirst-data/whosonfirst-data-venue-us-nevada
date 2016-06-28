@@ -2,13 +2,14 @@
   "id": 236456265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.835375,39.524048,-119.835375,39.524048",
     "geom:latitude":39.524048,
     "geom:longitude":-119.835375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236456265,
-    "wof:lastmodified":1449002460,
+    "wof:lastmodified":1466705517,
     "wof:name":"Eagle Window & Door Inc",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-119.835375,39.524048,-119.835375,39.524048],
+  "bbox": [
+    -119.835375,
+    39.524048,
+    -119.835375,
+    39.524048
+],
   "geometry": {"coordinates":[-119.835375,39.524048],"type":"Point"}
 }

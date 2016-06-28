@@ -2,13 +2,14 @@
   "id": 236630543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807898,39.491197,-119.807898,39.491197",
     "geom:latitude":39.491197,
     "geom:longitude":-119.807898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3454 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236630543,
-    "wof:lastmodified":1449002697,
+    "wof:lastmodified":1466706261,
     "wof:name":"Marx Video Svc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-119.807898,39.491197,-119.807898,39.491197],
-  "geometry": {"coordinates":[-119.807898,39.491197],"type":"Point"}
+  "bbox": [
+    -119.807898,
+    39.491197,
+    -119.807898,
+    39.491197
+],
+  "geometry": {"coordinates":[-119.80789799999999,39.491197],"type":"Point"}
 }

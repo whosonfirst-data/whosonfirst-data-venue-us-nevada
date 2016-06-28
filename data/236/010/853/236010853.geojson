@@ -2,13 +2,14 @@
   "id": 236010853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735817,39.180229,-119.735817,39.180229",
     "geom:latitude":39.180229,
     "geom:longitude":-119.735817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Roberta Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236010853,
-    "wof:lastmodified":1449003759,
+    "wof:lastmodified":1466703820,
     "wof:name":"Doctor Fence Repair",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.735817,39.180229,-119.735817,39.180229],
+  "bbox": [
+    -119.735817,
+    39.180229,
+    -119.735817,
+    39.180229
+],
   "geometry": {"coordinates":[-119.735817,39.180229],"type":"Point"}
 }

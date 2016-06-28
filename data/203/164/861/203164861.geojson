@@ -2,13 +2,14 @@
   "id": 203164861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.512263,37.616619,-114.512263,37.616619",
     "geom:latitude":37.616619,
     "geom:longitude":-114.512263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Culverwell St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203164861,
-    "wof:lastmodified":1449025171,
+    "wof:lastmodified":1466701681,
     "wof:name":"Caliente Community Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.512263,37.616619,-114.512263,37.616619],
+  "bbox": [
+    -114.512263,
+    37.616619,
+    -114.512263,
+    37.616619
+],
   "geometry": {"coordinates":[-114.512263,37.616619],"type":"Point"}
 }

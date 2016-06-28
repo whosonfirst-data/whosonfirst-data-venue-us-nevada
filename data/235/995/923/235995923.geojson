@@ -2,13 +2,14 @@
   "id": 235995923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.003977,36.191751,-116.003977,36.191751",
     "geom:latitude":36.191751,
     "geom:longitude":-116.003977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Calvada Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235995923,
-    "wof:lastmodified":1449008576,
+    "wof:lastmodified":1466703737,
     "wof:name":"Pahrump Valley High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "senior"
     ]
 },
-  "bbox": [-116.003977,36.191751,-116.003977,36.191751],
-  "geometry": {"coordinates":[-116.003977,36.191751],"type":"Point"}
+  "bbox": [
+    -116.003977,
+    36.191751,
+    -116.003977,
+    36.191751
+],
+  "geometry": {"coordinates":[-116.00397700000001,36.191751],"type":"Point"}
 }

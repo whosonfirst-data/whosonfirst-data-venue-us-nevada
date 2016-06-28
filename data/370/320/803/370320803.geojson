@@ -2,13 +2,14 @@
   "id": 370320803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787199,39.500828,-119.787199,39.500828",
     "geom:latitude":39.500828,
     "geom:longitude":-119.787199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 E Grove St",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":370320803,
-    "wof:lastmodified":1449029953,
+    "wof:lastmodified":1466704857,
     "wof:name":"Lithia",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.787199,39.500828,-119.787199,39.500828],
+  "bbox": [
+    -119.787199,
+    39.500828,
+    -119.787199,
+    39.500828
+],
   "geometry": {"coordinates":[-119.787199,39.500828],"type":"Point"}
 }

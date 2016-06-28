@@ -2,13 +2,14 @@
   "id": 354338751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176658,36.092152,-115.176658,36.092152",
     "geom:latitude":36.092152,
     "geom:longitude":-115.176658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Mandalay Bay Resort and Casino 3950 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354338751,
-    "wof:lastmodified":1449066502,
+    "wof:lastmodified":1466705968,
     "wof:name":"Logo Store",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.176658,36.092152,-115.176658,36.092152],
+  "bbox": [
+    -115.176658,
+    36.092152,
+    -115.176658,
+    36.092152
+],
   "geometry": {"coordinates":[-115.176658,36.092152],"type":"Point"}
 }

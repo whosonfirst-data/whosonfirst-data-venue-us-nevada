@@ -2,13 +2,14 @@
   "id": 236363469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084052,36.056,-115.084052,36.056",
     "geom:latitude":36.056,
     "geom:longitude":-115.084052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236363469,
-    "wof:lastmodified":1449004766,
+    "wof:lastmodified":1466705007,
     "wof:name":"Vong Vui AMD Leong",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.084052,36.056,-115.084052,36.056],
+  "bbox": [
+    -115.084052,
+    36.056,
+    -115.084052,
+    36.056
+],
   "geometry": {"coordinates":[-115.084052,36.056],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203214911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.01997,36.279173,-115.01997,36.279173",
     "geom:latitude":36.279173,
     "geom:longitude":-115.01997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6955 Speedway Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203214911,
-    "wof:lastmodified":1449026818,
+    "wof:lastmodified":1466702201,
     "wof:name":"Z & Z Mfg Inc",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-115.01997,36.279173,-115.01997,36.279173],
+  "bbox": [
+    -115.01997,
+    36.279173,
+    -115.01997,
+    36.279173
+],
   "geometry": {"coordinates":[-115.01997,36.279173],"type":"Point"}
 }

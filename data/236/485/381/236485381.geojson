@@ -2,13 +2,14 @@
   "id": 236485381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173403,36.221965,-115.173403,36.221965",
     "geom:latitude":36.221965,
     "geom:longitude":-115.173403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Precision Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236485381,
-    "wof:lastmodified":1449003701,
+    "wof:lastmodified":1466705737,
     "wof:name":"Mc Kimmey Electric Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.173403,36.221965,-115.173403,36.221965],
-  "geometry": {"coordinates":[-115.173403,36.221965],"type":"Point"}
+  "bbox": [
+    -115.173403,
+    36.221965,
+    -115.173403,
+    36.221965
+],
+  "geometry": {"coordinates":[-115.17340299999999,36.221965],"type":"Point"}
 }

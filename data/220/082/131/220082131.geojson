@@ -2,13 +2,14 @@
   "id": 220082131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181638,36.133576,-115.181638,36.133576",
     "geom:latitude":36.133576,
     "geom:longitude":-115.181638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W Sirius Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220082131,
-    "wof:lastmodified":1449074082,
+    "wof:lastmodified":1466702269,
     "wof:name":"United Shipping Solutions",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.181638,36.133576,-115.181638,36.133576],
-  "geometry": {"coordinates":[-115.181638,36.133576],"type":"Point"}
+  "bbox": [
+    -115.181638,
+    36.133576,
+    -115.181638,
+    36.133576
+],
+  "geometry": {"coordinates":[-115.18163800000001,36.133576],"type":"Point"}
 }

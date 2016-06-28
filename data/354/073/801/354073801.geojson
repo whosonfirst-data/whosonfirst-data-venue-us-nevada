@@ -2,13 +2,14 @@
   "id": 354073801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139516,36.169497,-115.139516,36.169497",
     "geom:latitude":36.169497,
     "geom:longitude":-115.139516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Emergency Arts 520 E Fremont St Ste 162",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354073801,
-    "wof:lastmodified":1449066166,
+    "wof:lastmodified":1466703424,
     "wof:name":"flockflockflock",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.139516,36.169497,-115.139516,36.169497],
+  "bbox": [
+    -115.139516,
+    36.169497,
+    -115.139516,
+    36.169497
+],
   "geometry": {"coordinates":[-115.139516,36.169497],"type":"Point"}
 }

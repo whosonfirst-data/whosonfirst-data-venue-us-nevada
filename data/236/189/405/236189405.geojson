@@ -2,13 +2,14 @@
   "id": 236189405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798382,39.521746,-119.798382,39.521746",
     "geom:latitude":39.521746,
     "geom:longitude":-119.798382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Kirman Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236189405,
-    "wof:lastmodified":1449004085,
+    "wof:lastmodified":1466703359,
     "wof:name":"Edgil Cleaning Svc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.798382,39.521746,-119.798382,39.521746],
+  "bbox": [
+    -119.798382,
+    39.521746,
+    -119.798382,
+    39.521746
+],
   "geometry": {"coordinates":[-119.798382,39.521746],"type":"Point"}
 }

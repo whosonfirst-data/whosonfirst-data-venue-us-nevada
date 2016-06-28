@@ -2,13 +2,14 @@
   "id": 236839013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260489,36.1974,-115.260489,36.1974",
     "geom:latitude":36.1974,
     "geom:longitude":-115.260489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236839013,
-    "wof:lastmodified":1449003667,
+    "wof:lastmodified":1466706705,
     "wof:name":"University Med Ctr Suthern Nev",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.260489,36.1974,-115.260489,36.1974],
-  "geometry": {"coordinates":[-115.260489,36.1974],"type":"Point"}
+  "bbox": [
+    -115.260489,
+    36.1974,
+    -115.260489,
+    36.1974
+],
+  "geometry": {"coordinates":[-115.26048900000001,36.1974],"type":"Point"}
 }

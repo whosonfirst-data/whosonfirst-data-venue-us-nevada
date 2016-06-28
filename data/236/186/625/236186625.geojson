@@ -2,13 +2,14 @@
   "id": 236186625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.851403,39.508151,-119.851403,39.508151",
     "geom:latitude":39.508151,
     "geom:longitude":-119.851403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3070 Rowland Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236186625,
-    "wof:lastmodified":1449004386,
+    "wof:lastmodified":1466703306,
     "wof:name":"Proper Image The",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-119.851403,39.508151,-119.851403,39.508151],
+  "bbox": [
+    -119.851403,
+    39.508151,
+    -119.851403,
+    39.508151
+],
   "geometry": {"coordinates":[-119.851403,39.508151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236572697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.086594,36.797528,-114.086594,36.797528",
     "geom:latitude":36.797528,
     "geom:longitude":-114.086594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Garnet Ln",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236572697,
-    "wof:lastmodified":1449003714,
+    "wof:lastmodified":1466706177,
     "wof:name":"Holm Monte & Associates LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.086594,36.797528,-114.086594,36.797528],
-  "geometry": {"coordinates":[-114.086594,36.797528],"type":"Point"}
+  "bbox": [
+    -114.086594,
+    36.797528,
+    -114.086594,
+    36.797528
+],
+  "geometry": {"coordinates":[-114.08659400000001,36.797528],"type":"Point"}
 }

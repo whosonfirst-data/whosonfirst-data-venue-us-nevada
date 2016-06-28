@@ -2,13 +2,14 @@
   "id": 236080587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.716461,40.97667,-117.716461,40.97667",
     "geom:latitude":40.97667,
     "geom:longitude":-117.716461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 E Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236080587,
-    "wof:lastmodified":1449005137,
+    "wof:lastmodified":1466704100,
     "wof:name":"Bosch Motors & Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-117.716461,40.97667,-117.716461,40.97667],
+  "bbox": [
+    -117.716461,
+    40.97667,
+    -117.716461,
+    40.97667
+],
   "geometry": {"coordinates":[-117.716461,40.97667],"type":"Point"}
 }

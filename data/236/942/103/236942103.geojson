@@ -2,13 +2,14 @@
   "id": 236942103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.179401,39.585264,-119.179401,39.585264",
     "geom:latitude":39.585264,
     "geom:longitude":-119.179401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Farm District Rd",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236942103,
-    "wof:lastmodified":1449003099,
+    "wof:lastmodified":1466706925,
     "wof:name":"C-1 Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-119.179401,39.585264,-119.179401,39.585264],
+  "bbox": [
+    -119.179401,
+    39.585264,
+    -119.179401,
+    39.585264
+],
   "geometry": {"coordinates":[-119.179401,39.585264],"type":"Point"}
 }

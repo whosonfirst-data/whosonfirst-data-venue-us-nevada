@@ -2,13 +2,14 @@
   "id": 203393717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766663,39.159915,-119.766663,39.159915",
     "geom:latitude":39.159915,
     "geom:longitude":-119.766663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 E 7th St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203393717,
-    "wof:lastmodified":1449025511,
+    "wof:lastmodified":1466703308,
     "wof:name":"Tract Temps",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.766663,39.159915,-119.766663,39.159915],
-  "geometry": {"coordinates":[-119.766663,39.159915],"type":"Point"}
+  "bbox": [
+    -119.766663,
+    39.159915,
+    -119.766663,
+    39.159915
+],
+  "geometry": {"coordinates":[-119.76666299999999,39.159915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235982913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800192,39.525499,-119.800192,39.525499",
     "geom:latitude":39.525499,
     "geom:longitude":-119.800192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235982913,
-    "wof:lastmodified":1449008320,
+    "wof:lastmodified":1466703675,
     "wof:name":"George T Doerries DC",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.800192,39.525499,-119.800192,39.525499],
+  "bbox": [
+    -119.800192,
+    39.525499,
+    -119.800192,
+    39.525499
+],
   "geometry": {"coordinates":[-119.800192,39.525499],"type":"Point"}
 }

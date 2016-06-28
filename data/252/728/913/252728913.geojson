@@ -2,13 +2,14 @@
   "id": 252728913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137039,36.253975,-115.137039,36.253975",
     "geom:latitude":36.253975,
     "geom:longitude":-115.137039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 Eagle Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252728913,
-    "wof:lastmodified":1449005675,
+    "wof:lastmodified":1466701907,
     "wof:name":"Whitsett Builders",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.137039,36.253975,-115.137039,36.253975],
+  "bbox": [
+    -115.137039,
+    36.253975,
+    -115.137039,
+    36.253975
+],
   "geometry": {"coordinates":[-115.137039,36.253975],"type":"Point"}
 }

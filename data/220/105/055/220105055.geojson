@@ -2,13 +2,14 @@
   "id": 220105055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232417,36.234915,-115.232417,36.234915",
     "geom:latitude":36.234915,
     "geom:longitude":-115.232417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6304 Jennifer Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220105055,
-    "wof:lastmodified":1449074336,
+    "wof:lastmodified":1466702405,
     "wof:name":"Virtual Media Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-115.232417,36.234915,-115.232417,36.234915],
+  "bbox": [
+    -115.232417,
+    36.234915,
+    -115.232417,
+    36.234915
+],
   "geometry": {"coordinates":[-115.232417,36.234915],"type":"Point"}
 }

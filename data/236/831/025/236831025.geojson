@@ -2,13 +2,14 @@
   "id": 236831025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142629,35.999162,-115.142629,35.999162",
     "geom:latitude":35.999162,
     "geom:longitude":-115.142629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 E Cactus Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236831025,
-    "wof:lastmodified":1449003614,
+    "wof:lastmodified":1466706697,
     "wof:name":"ADS Garage Doors & Openers",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-115.142629,35.999162,-115.142629,35.999162],
+  "bbox": [
+    -115.142629,
+    35.999162,
+    -115.142629,
+    35.999162
+],
   "geometry": {"coordinates":[-115.142629,35.999162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236799707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092282,36.230576,-115.092282,36.230576",
     "geom:latitude":36.230576,
     "geom:longitude":-115.092282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3924 White Cedar Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236799707,
-    "wof:lastmodified":1449005270,
+    "wof:lastmodified":1466706758,
     "wof:name":"My Equity Trade",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seminar"
     ]
 },
-  "bbox": [-115.092282,36.230576,-115.092282,36.230576],
+  "bbox": [
+    -115.092282,
+    36.230576,
+    -115.092282,
+    36.230576
+],
   "geometry": {"coordinates":[-115.092282,36.230576],"type":"Point"}
 }

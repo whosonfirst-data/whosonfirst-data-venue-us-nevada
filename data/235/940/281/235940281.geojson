@@ -2,13 +2,14 @@
   "id": 235940281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75559,38.946294,-119.75559,38.946294",
     "geom:latitude":38.946294,
     "geom:longitude":-119.75559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 US Hwy 395 N",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235940281,
-    "wof:lastmodified":1449008341,
+    "wof:lastmodified":1466703476,
     "wof:name":"Farmers Insurance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.75559,38.946294,-119.75559,38.946294],
+  "bbox": [
+    -119.75559,
+    38.946294,
+    -119.75559,
+    38.946294
+],
   "geometry": {"coordinates":[-119.75559,38.946294],"type":"Point"}
 }

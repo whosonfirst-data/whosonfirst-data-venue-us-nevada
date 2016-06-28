@@ -2,13 +2,14 @@
   "id": 236723323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255034,36.196021,-115.255034,36.196021",
     "geom:latitude":36.196021,
     "geom:longitude":-115.255034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7481 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236723323,
-    "wof:lastmodified":1449003598,
+    "wof:lastmodified":1466706519,
     "wof:name":"Health Express",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-115.255034,36.196021,-115.255034,36.196021],
-  "geometry": {"coordinates":[-115.255034,36.196021],"type":"Point"}
+  "bbox": [
+    -115.255034,
+    36.196021,
+    -115.255034,
+    36.196021
+],
+  "geometry": {"coordinates":[-115.25503399999999,36.196021],"type":"Point"}
 }

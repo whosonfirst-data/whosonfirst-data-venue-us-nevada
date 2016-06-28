@@ -2,13 +2,14 @@
   "id": 203240327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.044481,36.248366,-116.044481,36.248366",
     "geom:latitude":36.248366,
     "geom:longitude":-116.044481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Pearl Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203240327,
-    "wof:lastmodified":1449025135,
+    "wof:lastmodified":1466702433,
     "wof:name":"Falcone Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.044481,36.248366,-116.044481,36.248366],
+  "bbox": [
+    -116.044481,
+    36.248366,
+    -116.044481,
+    36.248366
+],
   "geometry": {"coordinates":[-116.044481,36.248366],"type":"Point"}
 }

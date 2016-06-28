@@ -2,13 +2,14 @@
   "id": 220190559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758658,39.523193,-119.758658,39.523193",
     "geom:latitude":39.523193,
     "geom:longitude":-119.758658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220190559,
-    "wof:lastmodified":1449074837,
+    "wof:lastmodified":1466703032,
     "wof:name":"Planet DJ",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-119.758658,39.523193,-119.758658,39.523193],
+  "bbox": [
+    -119.758658,
+    39.523193,
+    -119.758658,
+    39.523193
+],
   "geometry": {"coordinates":[-119.758658,39.523193],"type":"Point"}
 }

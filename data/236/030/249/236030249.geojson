@@ -2,13 +2,14 @@
   "id": 236030249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780208,39.486983,-119.780208,39.486983",
     "geom:latitude":39.486983,
     "geom:longitude":-119.780208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Nutmeg Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236030249,
-    "wof:lastmodified":1449002739,
+    "wof:lastmodified":1466703902,
     "wof:name":"North Hill Gifts",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.780208,39.486983,-119.780208,39.486983],
+  "bbox": [
+    -119.780208,
+    39.486983,
+    -119.780208,
+    39.486983
+],
   "geometry": {"coordinates":[-119.780208,39.486983],"type":"Point"}
 }

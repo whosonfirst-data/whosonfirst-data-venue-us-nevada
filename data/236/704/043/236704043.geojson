@@ -2,13 +2,14 @@
   "id": 236704043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269361,36.230494,-115.269361,36.230494",
     "geom:latitude":36.230494,
     "geom:longitude":-115.269361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3867 Ruckman Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236704043,
-    "wof:lastmodified":1449002326,
+    "wof:lastmodified":1466706630,
     "wof:name":"JWT Specialized Communications",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-115.269361,36.230494,-115.269361,36.230494],
+  "bbox": [
+    -115.269361,
+    36.230494,
+    -115.269361,
+    36.230494
+],
   "geometry": {"coordinates":[-115.269361,36.230494],"type":"Point"}
 }

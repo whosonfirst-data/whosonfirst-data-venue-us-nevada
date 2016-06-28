@@ -2,13 +2,14 @@
   "id": 370325641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807316,39.508669,-119.807316,39.508669",
     "geom:latitude":39.508669,
     "geom:longitude":-119.807316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370325641,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1466704644,
     "wof:name":"Gamboa Rafael M DDS",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-119.807316,39.508669,-119.807316,39.508669],
+  "bbox": [
+    -119.807316,
+    39.508669,
+    -119.807316,
+    39.508669
+],
   "geometry": {"coordinates":[-119.807316,39.508669],"type":"Point"}
 }

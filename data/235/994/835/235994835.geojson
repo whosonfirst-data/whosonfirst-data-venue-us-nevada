@@ -2,13 +2,14 @@
   "id": 235994835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.830901,39.550957,-119.830901,39.550957",
     "geom:latitude":39.550957,
     "geom:longitude":-119.830901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 N McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235994835,
-    "wof:lastmodified":1449008286,
+    "wof:lastmodified":1466703726,
     "wof:name":"Sierra Home & Rv Repair",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-119.830901,39.550957,-119.830901,39.550957],
+  "bbox": [
+    -119.830901,
+    39.550957,
+    -119.830901,
+    39.550957
+],
   "geometry": {"coordinates":[-119.830901,39.550957],"type":"Point"}
 }

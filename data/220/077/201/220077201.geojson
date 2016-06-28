@@ -2,13 +2,14 @@
   "id": 220077201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.700414,39.679435,-119.700414,39.679435",
     "geom:latitude":39.679435,
     "geom:longitude":-119.700414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 Pyramid Lake Hwy",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220077201,
-    "wof:lastmodified":1449074162,
+    "wof:lastmodified":1466702245,
     "wof:name":"R T Donovan Co Inc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "granite"
     ]
 },
-  "bbox": [-119.700414,39.679435,-119.700414,39.679435],
-  "geometry": {"coordinates":[-119.700414,39.679435],"type":"Point"}
+  "bbox": [
+    -119.700414,
+    39.679435,
+    -119.700414,
+    39.679435
+],
+  "geometry": {"coordinates":[-119.70041399999999,39.679435],"type":"Point"}
 }

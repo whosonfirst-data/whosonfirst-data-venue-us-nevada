@@ -2,13 +2,14 @@
   "id": 236234733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176968,36.131135,-115.176968,36.131135",
     "geom:latitude":36.131135,
     "geom:longitude":-115.176968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236234733,
-    "wof:lastmodified":1449005031,
+    "wof:lastmodified":1466704300,
     "wof:name":"Gail's Upholstery",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-115.176968,36.131135,-115.176968,36.131135],
+  "bbox": [
+    -115.176968,
+    36.131135,
+    -115.176968,
+    36.131135
+],
   "geometry": {"coordinates":[-115.176968,36.131135],"type":"Point"}
 }

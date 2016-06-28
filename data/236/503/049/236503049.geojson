@@ -2,13 +2,14 @@
   "id": 236503049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131316,36.158881,-115.131316,36.158881",
     "geom:latitude":36.158881,
     "geom:longitude":-115.131316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236503049,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1466705679,
     "wof:name":"Lazertech Services",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laser"
     ]
 },
-  "bbox": [-115.131316,36.158881,-115.131316,36.158881],
+  "bbox": [
+    -115.131316,
+    36.158881,
+    -115.131316,
+    36.158881
+],
   "geometry": {"coordinates":[-115.131316,36.158881],"type":"Point"}
 }

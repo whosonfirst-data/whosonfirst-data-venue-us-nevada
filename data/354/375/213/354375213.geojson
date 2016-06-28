@@ -2,13 +2,14 @@
   "id": 354375213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08548,36.076397,-115.08548,36.076397",
     "geom:latitude":36.076397,
     "geom:longitude":-115.08548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4071 Silvestri Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354375213,
-    "wof:lastmodified":1449066000,
+    "wof:lastmodified":1466706136,
     "wof:name":"Simply Divine Botanicals",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.08548,36.076397,-115.08548,36.076397],
+  "bbox": [
+    -115.08548,
+    36.076397,
+    -115.08548,
+    36.076397
+],
   "geometry": {"coordinates":[-115.08548,36.076397],"type":"Point"}
 }

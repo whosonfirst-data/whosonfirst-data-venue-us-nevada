@@ -2,13 +2,14 @@
   "id": 203333111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.865265,39.527556,-119.865265,39.527556",
     "geom:latitude":39.527556,
     "geom:longitude":-119.865265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Sierra Highlands Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203333111,
-    "wof:lastmodified":1449026745,
+    "wof:lastmodified":1466703041,
     "wof:name":"B K Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-119.865265,39.527556,-119.865265,39.527556],
-  "geometry": {"coordinates":[-119.865265,39.527556],"type":"Point"}
+  "bbox": [
+    -119.865265,
+    39.527556,
+    -119.865265,
+    39.527556
+],
+  "geometry": {"coordinates":[-119.86526499999999,39.527556],"type":"Point"}
 }

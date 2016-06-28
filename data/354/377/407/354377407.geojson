@@ -2,13 +2,14 @@
   "id": 354377407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114155,36.115524,-115.114155,36.115524",
     "geom:latitude":36.115524,
     "geom:longitude":-115.114155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 E Flamingo",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354377407,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1466706277,
     "wof:name":"La Costa Grill",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mexican"
     ]
 },
-  "bbox": [-115.114155,36.115524,-115.114155,36.115524],
+  "bbox": [
+    -115.114155,
+    36.115524,
+    -115.114155,
+    36.115524
+],
   "geometry": {"coordinates":[-115.114155,36.115524],"type":"Point"}
 }

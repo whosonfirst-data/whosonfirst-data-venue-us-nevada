@@ -2,13 +2,14 @@
   "id": 370310071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754976,39.556437,-119.754976,39.556437",
     "geom:latitude":39.556437,
     "geom:longitude":-119.754976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2955 N Mccarran Blvd # 104",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370310071,
-    "wof:lastmodified":1449031172,
+    "wof:lastmodified":1466704663,
     "wof:name":"Potsticker House",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pan"
     ]
 },
-  "bbox": [-119.754976,39.556437,-119.754976,39.556437],
+  "bbox": [
+    -119.754976,
+    39.556437,
+    -119.754976,
+    39.556437
+],
   "geometry": {"coordinates":[-119.754976,39.556437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354326341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224431,36.096823,-115.224431,36.096823",
     "geom:latitude":36.096823,
     "geom:longitude":-115.224431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5052 S. Jones Blvd Suite 130",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354326341,
-    "wof:lastmodified":1449066651,
+    "wof:lastmodified":1466705878,
     "wof:name":"Fibromyalgia & Fatigue Center",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.224431,36.096823,-115.224431,36.096823],
+  "bbox": [
+    -115.224431,
+    36.096823,
+    -115.224431,
+    36.096823
+],
   "geometry": {"coordinates":[-115.224431,36.096823],"type":"Point"}
 }

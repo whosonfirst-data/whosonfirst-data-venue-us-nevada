@@ -2,13 +2,14 @@
   "id": 236764067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.946088,39.268178,-119.946088,39.268178",
     "geom:latitude":39.268178,
     "geom:longitude":-119.946088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Country Club Dr",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236764067,
-    "wof:lastmodified":1449005060,
+    "wof:lastmodified":1466706720,
     "wof:name":"Eclipse Research Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-119.946088,39.268178,-119.946088,39.268178],
+  "bbox": [
+    -119.946088,
+    39.268178,
+    -119.946088,
+    39.268178
+],
   "geometry": {"coordinates":[-119.946088,39.268178],"type":"Point"}
 }

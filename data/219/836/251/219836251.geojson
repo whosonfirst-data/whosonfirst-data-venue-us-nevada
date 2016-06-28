@@ -2,13 +2,14 @@
   "id": 219836251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146145,36.167425,-115.146145,36.167425",
     "geom:latitude":36.167425,
     "geom:longitude":-115.146145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Casino Center Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219836251,
-    "wof:lastmodified":1449072714,
+    "wof:lastmodified":1466705147,
     "wof:name":"Town Palms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "hotel"
     ]
 },
-  "bbox": [-115.146145,36.167425,-115.146145,36.167425],
+  "bbox": [
+    -115.146145,
+    36.167425,
+    -115.146145,
+    36.167425
+],
   "geometry": {"coordinates":[-115.146145,36.167425],"type":"Point"}
 }

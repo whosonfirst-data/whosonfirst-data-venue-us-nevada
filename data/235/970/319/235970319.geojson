@@ -2,13 +2,14 @@
   "id": 235970319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80945,39.527721,-119.80945,39.527721",
     "geom:latitude":39.527721,
     "geom:longitude":-119.80945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235970319,
-    "wof:lastmodified":1449008602,
+    "wof:lastmodified":1466703615,
     "wof:name":"Ultimate Bodyworks Tattoo",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-119.80945,39.527721,-119.80945,39.527721],
+  "bbox": [
+    -119.80945,
+    39.527721,
+    -119.80945,
+    39.527721
+],
   "geometry": {"coordinates":[-119.80945,39.527721],"type":"Point"}
 }

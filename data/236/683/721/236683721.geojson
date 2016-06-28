@@ -2,13 +2,14 @@
   "id": 236683721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077582,36.034623,-115.077582,36.034623",
     "geom:latitude":36.034623,
     "geom:longitude":-115.077582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2163 Eaglepath Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236683721,
-    "wof:lastmodified":1449002748,
+    "wof:lastmodified":1466706440,
     "wof:name":"Options Are Us Inc",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.077582,36.034623,-115.077582,36.034623],
-  "geometry": {"coordinates":[-115.077582,36.034623],"type":"Point"}
+  "bbox": [
+    -115.077582,
+    36.034623,
+    -115.077582,
+    36.034623
+],
+  "geometry": {"coordinates":[-115.07758200000001,36.034623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354067431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147571,36.161515,-115.147571,36.161515",
     "geom:latitude":36.161515,
     "geom:longitude":-115.147571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 South 4th Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354067431,
-    "wof:lastmodified":1449066042,
+    "wof:lastmodified":1466703242,
     "wof:name":"A Special Memory Wedding Chapel",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [-115.147571,36.161515,-115.147571,36.161515],
+  "bbox": [
+    -115.147571,
+    36.161515,
+    -115.147571,
+    36.161515
+],
   "geometry": {"coordinates":[-115.147571,36.161515],"type":"Point"}
 }

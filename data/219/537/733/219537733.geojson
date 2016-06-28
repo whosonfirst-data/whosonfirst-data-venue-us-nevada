@@ -2,13 +2,14 @@
   "id": 219537733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204083,36.11098,-115.204083,36.11098",
     "geom:latitude":36.11098,
     "geom:longitude":-115.204083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219537733,
-    "wof:lastmodified":1449071261,
+    "wof:lastmodified":1466702004,
     "wof:name":"Davis Laboritories",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.204083,36.11098,-115.204083,36.11098],
+  "bbox": [
+    -115.204083,
+    36.11098,
+    -115.204083,
+    36.11098
+],
   "geometry": {"coordinates":[-115.204083,36.11098],"type":"Point"}
 }

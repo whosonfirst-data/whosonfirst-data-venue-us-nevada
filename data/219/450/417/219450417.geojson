@@ -2,13 +2,14 @@
   "id": 219450417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.09097,36.126996,-115.09097,36.126996",
     "geom:latitude":36.126996,
     "geom:longitude":-115.09097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3897 Jewel Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219450417,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466703881,
     "wof:name":"Hitech Mobile Detailing",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.09097,36.126996,-115.09097,36.126996],
+  "bbox": [
+    -115.09097,
+    36.126996,
+    -115.09097,
+    36.126996
+],
   "geometry": {"coordinates":[-115.09097,36.126996],"type":"Point"}
 }

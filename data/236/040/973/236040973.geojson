@@ -2,13 +2,14 @@
   "id": 236040973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.947795,38.957477,-119.947795,38.957477",
     "geom:latitude":38.957477,
     "geom:longitude":-119.947795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 Pine Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236040973,
-    "wof:lastmodified":1449005134,
+    "wof:lastmodified":1466703945,
     "wof:name":"Best Tahoe West Inn",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.947795,38.957477,-119.947795,38.957477],
+  "bbox": [
+    -119.947795,
+    38.957477,
+    -119.947795,
+    38.957477
+],
   "geometry": {"coordinates":[-119.947795,38.957477],"type":"Point"}
 }

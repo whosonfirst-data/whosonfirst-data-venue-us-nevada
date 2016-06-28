@@ -2,13 +2,14 @@
   "id": 219293137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812871,39.522422,-119.812871,39.522422",
     "geom:latitude":39.522422,
     "geom:longitude":-119.812871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 S Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219293137,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466703011,
     "wof:name":"Incline Village Florists",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.812871,39.522422,-119.812871,39.522422],
+  "bbox": [
+    -119.812871,
+    39.522422,
+    -119.812871,
+    39.522422
+],
   "geometry": {"coordinates":[-119.812871,39.522422],"type":"Point"}
 }

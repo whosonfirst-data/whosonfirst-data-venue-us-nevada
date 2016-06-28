@@ -2,13 +2,14 @@
   "id": 203383999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195227,36.069904,-115.195227,36.069904",
     "geom:latitude":36.069904,
     "geom:longitude":-115.195227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Wagon Trail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203383999,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466703285,
     "wof:name":"Redrock Radiology",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.195227,36.069904,-115.195227,36.069904],
+  "bbox": [
+    -115.195227,
+    36.069904,
+    -115.195227,
+    36.069904
+],
   "geometry": {"coordinates":[-115.195227,36.069904],"type":"Point"}
 }

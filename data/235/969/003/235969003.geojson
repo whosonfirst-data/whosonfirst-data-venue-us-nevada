@@ -2,13 +2,14 @@
   "id": 235969003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.292686,36.319965,-115.292686,36.319965",
     "geom:latitude":36.319965,
     "geom:longitude":-115.292686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9057 Teetering Rock Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235969003,
-    "wof:lastmodified":1449008338,
+    "wof:lastmodified":1466704248,
     "wof:name":"Advanced Brick & Concrete",
     "wof:parent_id":85892681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.292686,36.319965,-115.292686,36.319965],
+  "bbox": [
+    -115.292686,
+    36.319965,
+    -115.292686,
+    36.319965
+],
   "geometry": {"coordinates":[-115.292686,36.319965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236763715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.889583,39.525275,-119.889583,39.525275",
     "geom:latitude":39.525275,
     "geom:longitude":-119.889583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6402 Mae Anne Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236763715,
-    "wof:lastmodified":1449005235,
+    "wof:lastmodified":1466706593,
     "wof:name":"Point Of View Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.889583,39.525275,-119.889583,39.525275],
+  "bbox": [
+    -119.889583,
+    39.525275,
+    -119.889583,
+    39.525275
+],
   "geometry": {"coordinates":[-119.889583,39.525275],"type":"Point"}
 }

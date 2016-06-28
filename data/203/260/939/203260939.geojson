@@ -2,13 +2,14 @@
   "id": 203260939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116059,36.166638,-115.116059,36.166638",
     "geom:latitude":36.166638,
     "geom:longitude":-115.116059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 E Stewart Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203260939,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466702587,
     "wof:name":"Sullins Tire & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.116059,36.166638,-115.116059,36.166638],
-  "geometry": {"coordinates":[-115.116059,36.166638],"type":"Point"}
+  "bbox": [
+    -115.116059,
+    36.166638,
+    -115.116059,
+    36.166638
+],
+  "geometry": {"coordinates":[-115.11605900000001,36.166638],"type":"Point"}
 }

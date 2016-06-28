@@ -2,13 +2,14 @@
   "id": 370244555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218509,36.125917,-115.218509,36.125917",
     "geom:latitude":36.125917,
     "geom:longitude":-115.218509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370244555,
-    "wof:lastmodified":1449030430,
+    "wof:lastmodified":1466703562,
     "wof:name":"J & J Szechuan Cuisine",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.218509,36.125917,-115.218509,36.125917],
+  "bbox": [
+    -115.218509,
+    36.125917,
+    -115.218509,
+    36.125917
+],
   "geometry": {"coordinates":[-115.218509,36.125917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236844607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781935,39.545369,-119.781935,39.545369",
     "geom:latitude":39.545369,
     "geom:longitude":-119.781935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Oddie Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236844607,
-    "wof:lastmodified":1449002989,
+    "wof:lastmodified":1466706720,
     "wof:name":"Waterbed Warehouse",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.781935,39.545369,-119.781935,39.545369],
+  "bbox": [
+    -119.781935,
+    39.545369,
+    -119.781935,
+    39.545369
+],
   "geometry": {"coordinates":[-119.781935,39.545369],"type":"Point"}
 }

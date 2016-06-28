@@ -2,13 +2,14 @@
   "id": 219576979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221146,36.203086,-115.221146,36.203086",
     "geom:latitude":36.203086,
     "geom:longitude":-115.221146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Smoke Ranch Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219576979,
-    "wof:lastmodified":1449073118,
+    "wof:lastmodified":1466702689,
     "wof:name":"Roger Durfey Mft",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-115.221146,36.203086,-115.221146,36.203086],
+  "bbox": [
+    -115.221146,
+    36.203086,
+    -115.221146,
+    36.203086
+],
   "geometry": {"coordinates":[-115.221146,36.203086],"type":"Point"}
 }

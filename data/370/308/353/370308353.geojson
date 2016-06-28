@@ -2,13 +2,14 @@
   "id": 370308353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752924,39.537113,-119.752924,39.537113",
     "geom:latitude":39.537113,
     "geom:longitude":-119.752924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Pyramid Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370308353,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1466704790,
     "wof:name":"Sierra Appraisal Service",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-119.752924,39.537113,-119.752924,39.537113],
-  "geometry": {"coordinates":[-119.752924,39.537113],"type":"Point"}
+  "bbox": [
+    -119.752924,
+    39.537113,
+    -119.752924,
+    39.537113
+],
+  "geometry": {"coordinates":[-119.75292399999999,39.537113],"type":"Point"}
 }

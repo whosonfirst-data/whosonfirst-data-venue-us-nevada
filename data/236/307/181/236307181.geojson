@@ -2,13 +2,14 @@
   "id": 236307181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125896,35.978509,-115.125896,35.978509",
     "geom:latitude":35.978509,
     "geom:longitude":-115.125896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1369 European Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236307181,
-    "wof:lastmodified":1449002320,
+    "wof:lastmodified":1466704757,
     "wof:name":"Maleiacom",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-115.125896,35.978509,-115.125896,35.978509],
+  "bbox": [
+    -115.125896,
+    35.978509,
+    -115.125896,
+    35.978509
+],
   "geometry": {"coordinates":[-115.125896,35.978509],"type":"Point"}
 }

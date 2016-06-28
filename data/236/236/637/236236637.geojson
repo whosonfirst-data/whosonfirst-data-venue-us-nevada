@@ -2,13 +2,14 @@
   "id": 236236637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176065,36.158981,-115.176065,36.158981",
     "geom:latitude":36.158981,
     "geom:longitude":-115.176065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236236637,
-    "wof:lastmodified":1449001936,
+    "wof:lastmodified":1466704211,
     "wof:name":"AML Quest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.176065,36.158981,-115.176065,36.158981],
-  "geometry": {"coordinates":[-115.176065,36.158981],"type":"Point"}
+  "bbox": [
+    -115.176065,
+    36.158981,
+    -115.176065,
+    36.158981
+],
+  "geometry": {"coordinates":[-115.17606499999999,36.158981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219626381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.783267,39.5493,-119.783267,39.5493",
     "geom:latitude":39.5493,
     "geom:longitude":-119.783267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Silverada Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219626381,
-    "wof:lastmodified":1449073916,
+    "wof:lastmodified":1466703399,
     "wof:name":"Rocksport Indoor Climbing Ctr",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "facility"
     ]
 },
-  "bbox": [-119.783267,39.5493,-119.783267,39.5493],
+  "bbox": [
+    -119.783267,
+    39.5493,
+    -119.783267,
+    39.5493
+],
   "geometry": {"coordinates":[-119.783267,39.5493],"type":"Point"}
 }

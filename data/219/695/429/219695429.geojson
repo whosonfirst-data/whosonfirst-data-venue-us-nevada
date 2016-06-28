@@ -2,13 +2,14 @@
   "id": 219695429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280832,36.149321,-115.280832,36.149321",
     "geom:latitude":36.149321,
     "geom:longitude":-115.280832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8640 Canyon View Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219695429,
-    "wof:lastmodified":1449071729,
+    "wof:lastmodified":1466704569,
     "wof:name":"Las Vgas Clark Cnty Urban Leag",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-115.280832,36.149321,-115.280832,36.149321],
+  "bbox": [
+    -115.280832,
+    36.149321,
+    -115.280832,
+    36.149321
+],
   "geometry": {"coordinates":[-115.280832,36.149321],"type":"Point"}
 }

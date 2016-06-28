@@ -2,13 +2,14 @@
   "id": 219206697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203948,36.159142,-115.203948,36.159142",
     "geom:latitude":36.159142,
     "geom:longitude":-115.203948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219206697,
-    "wof:lastmodified":1449072782,
+    "wof:lastmodified":1466702125,
     "wof:name":"Credit Counsellors-Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "counseling"
     ]
 },
-  "bbox": [-115.203948,36.159142,-115.203948,36.159142],
+  "bbox": [
+    -115.203948,
+    36.159142,
+    -115.203948,
+    36.159142
+],
   "geometry": {"coordinates":[-115.203948,36.159142],"type":"Point"}
 }

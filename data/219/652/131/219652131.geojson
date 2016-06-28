@@ -2,13 +2,14 @@
   "id": 219652131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210307,36.151768,-115.210307,36.151768",
     "geom:latitude":36.151768,
     "geom:longitude":-115.210307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219652131,
-    "wof:lastmodified":1449072659,
+    "wof:lastmodified":1466703857,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "carrie"
     ]
 },
-  "bbox": [-115.210307,36.151768,-115.210307,36.151768],
+  "bbox": [
+    -115.210307,
+    36.151768,
+    -115.210307,
+    36.151768
+],
   "geometry": {"coordinates":[-115.210307,36.151768],"type":"Point"}
 }

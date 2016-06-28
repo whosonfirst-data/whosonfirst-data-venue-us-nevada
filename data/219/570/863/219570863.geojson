@@ -2,13 +2,14 @@
   "id": 219570863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.769515,40.827584,-115.769515,40.827584",
     "geom:latitude":40.827584,
     "geom:longitude":-115.769515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Barango Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219570863,
-    "wof:lastmodified":1449072481,
+    "wof:lastmodified":1466702588,
     "wof:name":"Silver State Liquor & Wine Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquor"
     ]
 },
-  "bbox": [-115.769515,40.827584,-115.769515,40.827584],
+  "bbox": [
+    -115.769515,
+    40.827584,
+    -115.769515,
+    40.827584
+],
   "geometry": {"coordinates":[-115.769515,40.827584],"type":"Point"}
 }

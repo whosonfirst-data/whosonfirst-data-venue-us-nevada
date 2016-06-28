@@ -2,13 +2,14 @@
   "id": 236412367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140846,36.211547,-115.140846,36.211547",
     "geom:latitude":36.211547,
     "geom:longitude":-115.140846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Synergy St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236412367,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466705266,
     "wof:name":"Coast West Plumbing Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.140846,36.211547,-115.140846,36.211547],
+  "bbox": [
+    -115.140846,
+    36.211547,
+    -115.140846,
+    36.211547
+],
   "geometry": {"coordinates":[-115.140846,36.211547],"type":"Point"}
 }

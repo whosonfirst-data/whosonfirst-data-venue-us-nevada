@@ -2,13 +2,14 @@
   "id": 236138867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279636,36.210227,-115.279636,36.210227",
     "geom:latitude":36.210227,
     "geom:longitude":-115.279636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 del Webb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236138867,
-    "wof:lastmodified":1449002425,
+    "wof:lastmodified":1466702310,
     "wof:name":"Wig & Hat Boutique-Summerlin",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-115.279636,36.210227,-115.279636,36.210227],
+  "bbox": [
+    -115.279636,
+    36.210227,
+    -115.279636,
+    36.210227
+],
   "geometry": {"coordinates":[-115.279636,36.210227],"type":"Point"}
 }

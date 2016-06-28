@@ -2,13 +2,14 @@
   "id": 236529381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72607,38.924141,-119.72607,38.924141",
     "geom:latitude":38.924141,
     "geom:longitude":-119.72607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Service Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236529381,
-    "wof:lastmodified":1449003031,
+    "wof:lastmodified":1466705929,
     "wof:name":"Minden Auto Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electric"
     ]
 },
-  "bbox": [-119.72607,38.924141,-119.72607,38.924141],
-  "geometry": {"coordinates":[-119.72607,38.924141],"type":"Point"}
+  "bbox": [
+    -119.72607,
+    38.924141,
+    -119.72607,
+    38.924141
+],
+  "geometry": {"coordinates":[-119.72607000000001,38.924141],"type":"Point"}
 }

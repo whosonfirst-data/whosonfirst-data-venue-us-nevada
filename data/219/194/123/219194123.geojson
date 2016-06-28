@@ -2,13 +2,14 @@
   "id": 219194123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.483964,36.597851,-114.483964,36.597851",
     "geom:latitude":36.597851,
     "geom:longitude":-114.483964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 N Moapa Valley Blvd",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219194123,
-    "wof:lastmodified":1449073404,
+    "wof:lastmodified":1466702021,
     "wof:name":"Western States Ranches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-114.483964,36.597851,-114.483964,36.597851],
+  "bbox": [
+    -114.483964,
+    36.597851,
+    -114.483964,
+    36.597851
+],
   "geometry": {"coordinates":[-114.483964,36.597851],"type":"Point"}
 }

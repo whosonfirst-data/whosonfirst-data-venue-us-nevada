@@ -2,13 +2,14 @@
   "id": 354105825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192417,36.131917,-115.192417,36.131917",
     "geom:latitude":36.131917,
     "geom:longitude":-115.192417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 S. Valley View #F104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354105825,
-    "wof:lastmodified":1449066564,
+    "wof:lastmodified":1466704308,
     "wof:name":"MacTEK Training",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.192417,36.131917,-115.192417,36.131917],
-  "geometry": {"coordinates":[-115.192417,36.131917],"type":"Point"}
+  "bbox": [
+    -115.192417,
+    36.131917,
+    -115.192417,
+    36.131917
+],
+  "geometry": {"coordinates":[-115.19241700000001,36.131917],"type":"Point"}
 }

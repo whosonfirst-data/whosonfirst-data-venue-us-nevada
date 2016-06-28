@@ -2,13 +2,14 @@
   "id": 354062553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129163,36.259487,-115.129163,36.259487",
     "geom:latitude":36.259487,
     "geom:longitude":-115.129163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Windy Ferrell Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354062553,
-    "wof:lastmodified":1449067550,
+    "wof:lastmodified":1466703097,
     "wof:name":"Mini Skool",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.129163,36.259487,-115.129163,36.259487],
-  "geometry": {"coordinates":[-115.129163,36.259487],"type":"Point"}
+  "bbox": [
+    -115.129163,
+    36.259487,
+    -115.129163,
+    36.259487
+],
+  "geometry": {"coordinates":[-115.12916300000001,36.259487],"type":"Point"}
 }

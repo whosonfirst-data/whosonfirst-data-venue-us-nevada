@@ -2,13 +2,14 @@
   "id": 236976105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792107,39.422285,-119.792107,39.422285",
     "geom:latitude":39.422285,
     "geom:longitude":-119.792107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5017 E Albuquerque Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236976105,
-    "wof:lastmodified":1449002935,
+    "wof:lastmodified":1466706897,
     "wof:name":"A R H Consulting LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-119.792107,39.422285,-119.792107,39.422285],
+  "bbox": [
+    -119.792107,
+    39.422285,
+    -119.792107,
+    39.422285
+],
   "geometry": {"coordinates":[-119.792107,39.422285],"type":"Point"}
 }

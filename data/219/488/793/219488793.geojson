@@ -2,13 +2,14 @@
   "id": 219488793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763683,40.829125,-115.763683,40.829125",
     "geom:latitude":40.829125,
     "geom:longitude":-115.763683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Silver St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219488793,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466704111,
     "wof:name":"Torvinen & Torvinen",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.763683,40.829125,-115.763683,40.829125],
+  "bbox": [
+    -115.763683,
+    40.829125,
+    -115.763683,
+    40.829125
+],
   "geometry": {"coordinates":[-115.763683,40.829125],"type":"Point"}
 }

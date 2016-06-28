@@ -2,13 +2,14 @@
   "id": 236680079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244299,36.172842,-115.244299,36.172842",
     "geom:latitude":36.172842,
     "geom:longitude":-115.244299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236680079,
-    "wof:lastmodified":1449004064,
+    "wof:lastmodified":1466706431,
     "wof:name":"Star King Chinese Cuisine",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.244299,36.172842,-115.244299,36.172842],
+  "bbox": [
+    -115.244299,
+    36.172842,
+    -115.244299,
+    36.172842
+],
   "geometry": {"coordinates":[-115.244299,36.172842],"type":"Point"}
 }

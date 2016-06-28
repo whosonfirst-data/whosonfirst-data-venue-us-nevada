@@ -2,13 +2,14 @@
   "id": 219209993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221275,36.216912,-115.221275,36.216912",
     "geom:latitude":36.216912,
     "geom:longitude":-115.221275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219209993,
-    "wof:lastmodified":1449073543,
+    "wof:lastmodified":1466702156,
     "wof:name":"Page Webbs Projects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.221275,36.216912,-115.221275,36.216912],
-  "geometry": {"coordinates":[-115.221275,36.216912],"type":"Point"}
+  "bbox": [
+    -115.221275,
+    36.216912,
+    -115.221275,
+    36.216912
+],
+  "geometry": {"coordinates":[-115.22127500000001,36.216912],"type":"Point"}
 }

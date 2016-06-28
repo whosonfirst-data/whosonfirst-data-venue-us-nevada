@@ -2,13 +2,14 @@
   "id": 219478353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772004,39.188998,-119.772004,39.188998",
     "geom:latitude":39.188998,
     "geom:longitude":-119.772004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3289 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219478353,
-    "wof:lastmodified":1449070485,
+    "wof:lastmodified":1466704068,
     "wof:name":"A Pawsitive Experience",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-119.772004,39.188998,-119.772004,39.188998],
+  "bbox": [
+    -119.772004,
+    39.188998,
+    -119.772004,
+    39.188998
+],
   "geometry": {"coordinates":[-119.772004,39.188998],"type":"Point"}
 }

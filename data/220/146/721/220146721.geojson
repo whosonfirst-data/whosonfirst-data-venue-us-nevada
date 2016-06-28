@@ -2,13 +2,14 @@
   "id": 220146721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.047683,36.097961,-115.047683,36.097961",
     "geom:latitude":36.097961,
     "geom:longitude":-115.047683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220146721,
-    "wof:lastmodified":1449074373,
+    "wof:lastmodified":1466702747,
     "wof:name":"Finish Guys",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.047683,36.097961,-115.047683,36.097961],
-  "geometry": {"coordinates":[-115.047683,36.097961],"type":"Point"}
+  "bbox": [
+    -115.047683,
+    36.097961,
+    -115.047683,
+    36.097961
+],
+  "geometry": {"coordinates":[-115.04768300000001,36.097961],"type":"Point"}
 }

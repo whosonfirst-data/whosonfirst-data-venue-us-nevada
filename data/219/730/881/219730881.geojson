@@ -2,13 +2,14 @@
   "id": 219730881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875678,39.638599,-119.875678,39.638599",
     "geom:latitude":39.638599,
     "geom:longitude":-119.875678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10016 Atwood St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219730881,
-    "wof:lastmodified":1449073345,
+    "wof:lastmodified":1466704623,
     "wof:name":"Little Angels Child Care Ctr",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.875678,39.638599,-119.875678,39.638599],
-  "geometry": {"coordinates":[-119.875678,39.638599],"type":"Point"}
+  "bbox": [
+    -119.875678,
+    39.638599,
+    -119.875678,
+    39.638599
+],
+  "geometry": {"coordinates":[-119.87567799999999,39.638599],"type":"Point"}
 }

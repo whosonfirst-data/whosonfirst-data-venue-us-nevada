@@ -2,13 +2,14 @@
   "id": 219581871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.996548,36.069136,-114.996548,36.069136",
     "geom:latitude":36.069136,
     "geom:longitude":-114.996548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219581871,
-    "wof:lastmodified":1449071140,
+    "wof:lastmodified":1466702772,
     "wof:name":"Stone Marketing & Design Svc",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.996548,36.069136,-114.996548,36.069136],
+  "bbox": [
+    -114.996548,
+    36.069136,
+    -114.996548,
+    36.069136
+],
   "geometry": {"coordinates":[-114.996548,36.069136],"type":"Point"}
 }

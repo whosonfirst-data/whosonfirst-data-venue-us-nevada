@@ -2,13 +2,14 @@
   "id": 236304629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.839382,38.95603,-119.839382,38.95603",
     "geom:latitude":38.95603,
     "geom:longitude":-119.839382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 Foothill Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236304629,
-    "wof:lastmodified":1449004232,
+    "wof:lastmodified":1466704580,
     "wof:name":"Jubilee Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-119.839382,38.95603,-119.839382,38.95603],
+  "bbox": [
+    -119.839382,
+    38.95603,
+    -119.839382,
+    38.95603
+],
   "geometry": {"coordinates":[-119.839382,38.95603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236803751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799483,39.501021,-119.799483,39.501021",
     "geom:latitude":39.501021,
     "geom:longitude":-119.799483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 E Grove St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236803751,
-    "wof:lastmodified":1449005293,
+    "wof:lastmodified":1466706762,
     "wof:name":"You'Ll Go Bananas",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquidator"
     ]
 },
-  "bbox": [-119.799483,39.501021,-119.799483,39.501021],
+  "bbox": [
+    -119.799483,
+    39.501021,
+    -119.799483,
+    39.501021
+],
   "geometry": {"coordinates":[-119.799483,39.501021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219799681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789088,39.52433,-119.789088,39.52433",
     "geom:latitude":39.52433,
     "geom:longitude":-119.789088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219799681,
-    "wof:lastmodified":1449073937,
+    "wof:lastmodified":1466705091,
     "wof:name":"Revol Again",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789088,39.52433,-119.789088,39.52433],
-  "geometry": {"coordinates":[-119.789088,39.52433],"type":"Point"}
+  "bbox": [
+    -119.789088,
+    39.52433,
+    -119.789088,
+    39.52433
+],
+  "geometry": {"coordinates":[-119.78908800000001,39.52433],"type":"Point"}
 }

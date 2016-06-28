@@ -2,13 +2,14 @@
   "id": 219763911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.932378,38.974441,-119.932378,38.974441",
     "geom:latitude":38.974441,
     "geom:longitude":-119.932378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Pyramid Ct",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219763911,
-    "wof:lastmodified":1449073902,
+    "wof:lastmodified":1466704979,
     "wof:name":"Deriter Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-119.932378,38.974441,-119.932378,38.974441],
+  "bbox": [
+    -119.932378,
+    38.974441,
+    -119.932378,
+    38.974441
+],
   "geometry": {"coordinates":[-119.932378,38.974441],"type":"Point"}
 }

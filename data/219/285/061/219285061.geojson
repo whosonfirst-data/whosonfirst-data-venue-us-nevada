@@ -2,13 +2,14 @@
   "id": 219285061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12316,36.219108,-115.12316,36.219108",
     "geom:latitude":36.219108,
     "geom:longitude":-115.12316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219285061,
-    "wof:lastmodified":1449070467,
+    "wof:lastmodified":1466702888,
     "wof:name":"North Las Vegas Care Center",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rest"
     ]
 },
-  "bbox": [-115.12316,36.219108,-115.12316,36.219108],
+  "bbox": [
+    -115.12316,
+    36.219108,
+    -115.12316,
+    36.219108
+],
   "geometry": {"coordinates":[-115.12316,36.219108],"type":"Point"}
 }

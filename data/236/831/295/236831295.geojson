@@ -2,13 +2,14 @@
   "id": 236831295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.480208,40.177111,-118.480208,40.177111",
     "geom:latitude":40.177111,
     "geom:longitude":-118.480208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Grinnel Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236831295,
-    "wof:lastmodified":1449003610,
+    "wof:lastmodified":1466706698,
     "wof:name":"Nevada Transportation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-118.480208,40.177111,-118.480208,40.177111],
+  "bbox": [
+    -118.480208,
+    40.177111,
+    -118.480208,
+    40.177111
+],
   "geometry": {"coordinates":[-118.480208,40.177111],"type":"Point"}
 }

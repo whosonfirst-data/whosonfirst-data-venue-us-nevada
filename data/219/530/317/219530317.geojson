@@ -2,13 +2,14 @@
   "id": 219530317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307965,36.13939,-115.307965,36.13939",
     "geom:latitude":36.13939,
     "geom:longitude":-115.307965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9725 Blazing Star Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219530317,
-    "wof:lastmodified":1449072260,
+    "wof:lastmodified":1466701859,
     "wof:name":"Taylor Animation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-115.307965,36.13939,-115.307965,36.13939],
+  "bbox": [
+    -115.307965,
+    36.13939,
+    -115.307965,
+    36.13939
+],
   "geometry": {"coordinates":[-115.307965,36.13939],"type":"Point"}
 }

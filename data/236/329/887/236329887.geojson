@@ -2,13 +2,14 @@
   "id": 236329887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947785,40.643834,-116.947785,40.643834",
     "geom:latitude":40.643834,
     "geom:longitude":-116.947785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Broyles Ranch Rd",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236329887,
-    "wof:lastmodified":1449002385,
+    "wof:lastmodified":1466705022,
     "wof:name":"Portables Blue Moon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.947785,40.643834,-116.947785,40.643834],
+  "bbox": [
+    -116.947785,
+    40.643834,
+    -116.947785,
+    40.643834
+],
   "geometry": {"coordinates":[-116.947785,40.643834],"type":"Point"}
 }

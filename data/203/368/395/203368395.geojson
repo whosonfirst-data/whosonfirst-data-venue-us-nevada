@@ -2,13 +2,14 @@
   "id": 203368395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255426,36.196027,-115.255426,36.196027",
     "geom:latitude":36.196027,
     "geom:longitude":-115.255426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7465 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203368395,
-    "wof:lastmodified":1449025374,
+    "wof:lastmodified":1466703214,
     "wof:name":"Tayllon Mortgage",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.255426,36.196027,-115.255426,36.196027],
+  "bbox": [
+    -115.255426,
+    36.196027,
+    -115.255426,
+    36.196027
+],
   "geometry": {"coordinates":[-115.255426,36.196027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354099799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195543,36.141858,-115.195543,36.141858",
     "geom:latitude":36.141858,
     "geom:longitude":-115.195543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 Amarillo St.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354099799,
-    "wof:lastmodified":1449067084,
+    "wof:lastmodified":1466704120,
     "wof:name":"The Eagle Carpet and Floor Care",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.195543,36.141858,-115.195543,36.141858],
+  "bbox": [
+    -115.195543,
+    36.141858,
+    -115.195543,
+    36.141858
+],
   "geometry": {"coordinates":[-115.195543,36.141858],"type":"Point"}
 }

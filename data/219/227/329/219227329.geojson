@@ -2,13 +2,14 @@
   "id": 219227329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305918,36.19842,-115.305918,36.19842",
     "geom:latitude":36.19842,
     "geom:longitude":-115.305918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Spring Gate Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219227329,
-    "wof:lastmodified":1449071175,
+    "wof:lastmodified":1466702274,
     "wof:name":"Country Rose Estates",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.305918,36.19842,-115.305918,36.19842],
-  "geometry": {"coordinates":[-115.305918,36.19842],"type":"Point"}
+  "bbox": [
+    -115.305918,
+    36.19842,
+    -115.305918,
+    36.19842
+],
+  "geometry": {"coordinates":[-115.30591800000001,36.19842],"type":"Point"}
 }

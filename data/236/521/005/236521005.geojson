@@ -2,13 +2,14 @@
   "id": 236521005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734423,39.538904,-119.734423,39.538904",
     "geom:latitude":39.538904,
     "geom:longitude":-119.734423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N McCarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236521005,
-    "wof:lastmodified":1449005056,
+    "wof:lastmodified":1466706051,
     "wof:name":"Fancy Hair & Nails",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.734423,39.538904,-119.734423,39.538904],
-  "geometry": {"coordinates":[-119.734423,39.538904],"type":"Point"}
+  "bbox": [
+    -119.734423,
+    39.538904,
+    -119.734423,
+    39.538904
+],
+  "geometry": {"coordinates":[-119.73442300000001,39.538904],"type":"Point"}
 }

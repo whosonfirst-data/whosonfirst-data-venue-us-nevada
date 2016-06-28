@@ -2,13 +2,14 @@
   "id": 203295759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.680782,38.886883,-119.680782,38.886883",
     "geom:latitude":38.886883,
     "geom:longitude":-119.680782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 Mustang Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203295759,
-    "wof:lastmodified":1449025689,
+    "wof:lastmodified":1466702803,
     "wof:name":"Pippin's Graphic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.680782,38.886883,-119.680782,38.886883],
-  "geometry": {"coordinates":[-119.680782,38.886883],"type":"Point"}
+  "bbox": [
+    -119.680782,
+    38.886883,
+    -119.680782,
+    38.886883
+],
+  "geometry": {"coordinates":[-119.68078199999999,38.886883],"type":"Point"}
 }

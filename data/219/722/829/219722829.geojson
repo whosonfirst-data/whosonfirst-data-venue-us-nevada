@@ -2,13 +2,14 @@
   "id": 219722829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112695,36.072818,-115.112695,36.072818",
     "geom:latitude":36.072818,
     "geom:longitude":-115.112695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6392 McLeod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219722829,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466704450,
     "wof:name":"Zenus",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-115.112695,36.072818,-115.112695,36.072818],
+  "bbox": [
+    -115.112695,
+    36.072818,
+    -115.112695,
+    36.072818
+],
   "geometry": {"coordinates":[-115.112695,36.072818],"type":"Point"}
 }

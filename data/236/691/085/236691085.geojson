@@ -2,13 +2,14 @@
   "id": 236691085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772814,39.095392,-119.772814,39.095392",
     "geom:latitude":39.095392,
     "geom:longitude":-119.772814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3573 Haystack Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236691085,
-    "wof:lastmodified":1449001878,
+    "wof:lastmodified":1466706445,
     "wof:name":"Daniel Buchanan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "airshows"
     ]
 },
-  "bbox": [-119.772814,39.095392,-119.772814,39.095392],
+  "bbox": [
+    -119.772814,
+    39.095392,
+    -119.772814,
+    39.095392
+],
   "geometry": {"coordinates":[-119.772814,39.095392],"type":"Point"}
 }

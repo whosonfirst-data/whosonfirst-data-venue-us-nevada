@@ -2,13 +2,14 @@
   "id": 354190047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173897,36.176563,-115.173897,36.176563",
     "geom:latitude":36.176563,
     "geom:longitude":-115.173897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W Bonanza Rd Ste A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354190047,
-    "wof:lastmodified":1449067569,
+    "wof:lastmodified":1466705078,
     "wof:name":"Larry's Villa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-115.173897,36.176563,-115.173897,36.176563],
+  "bbox": [
+    -115.173897,
+    36.176563,
+    -115.173897,
+    36.176563
+],
   "geometry": {"coordinates":[-115.173897,36.176563],"type":"Point"}
 }

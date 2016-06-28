@@ -2,13 +2,14 @@
   "id": 219373107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752103,39.478013,-119.752103,39.478013",
     "geom:latitude":39.478013,
     "geom:longitude":-119.752103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4361 Acadia Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219373107,
-    "wof:lastmodified":1449072206,
+    "wof:lastmodified":1466703494,
     "wof:name":"Foruria Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.752103,39.478013,-119.752103,39.478013],
-  "geometry": {"coordinates":[-119.752103,39.478013],"type":"Point"}
+  "bbox": [
+    -119.752103,
+    39.478013,
+    -119.752103,
+    39.478013
+],
+  "geometry": {"coordinates":[-119.75210300000001,39.478013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354006489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.040001,36.063801,-115.040001,36.063801",
     "geom:latitude":36.063801,
     "geom:longitude":-115.040001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Sunset Rd Ste 1309",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354006489,
-    "wof:lastmodified":1449067304,
+    "wof:lastmodified":1466701630,
     "wof:name":"Charlotte Russe",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.040001,36.063801,-115.040001,36.063801],
+  "bbox": [
+    -115.040001,
+    36.063801,
+    -115.040001,
+    36.063801
+],
   "geometry": {"coordinates":[-115.040001,36.063801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236841601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745963,39.148167,-119.745963,39.148167",
     "geom:latitude":39.148167,
     "geom:longitude":-119.745963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2179 Joanne Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236841601,
-    "wof:lastmodified":1449002197,
+    "wof:lastmodified":1466706718,
     "wof:name":"Hagan Street Rod",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "customizing"
     ]
 },
-  "bbox": [-119.745963,39.148167,-119.745963,39.148167],
+  "bbox": [
+    -119.745963,
+    39.148167,
+    -119.745963,
+    39.148167
+],
   "geometry": {"coordinates":[-119.745963,39.148167],"type":"Point"}
 }

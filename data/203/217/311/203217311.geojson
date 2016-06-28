@@ -2,13 +2,14 @@
   "id": 203217311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210463,36.110728,-115.210463,36.110728",
     "geom:latitude":36.110728,
     "geom:longitude":-115.210463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5098 River Glen Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203217311,
-    "wof:lastmodified":1449026755,
+    "wof:lastmodified":1466702211,
     "wof:name":"Rvc Nevada",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-115.210463,36.110728,-115.210463,36.110728],
+  "bbox": [
+    -115.210463,
+    36.110728,
+    -115.210463,
+    36.110728
+],
   "geometry": {"coordinates":[-115.210463,36.110728],"type":"Point"}
 }

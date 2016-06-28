@@ -2,13 +2,14 @@
   "id": 219374769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27782,36.21446,-115.27782,36.21446",
     "geom:latitude":36.21446,
     "geom:longitude":-115.27782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8441 Oyster Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219374769,
-    "wof:lastmodified":1449071925,
+    "wof:lastmodified":1466703510,
     "wof:name":"C E Williams & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-115.27782,36.21446,-115.27782,36.21446],
-  "geometry": {"coordinates":[-115.27782,36.21446],"type":"Point"}
+  "bbox": [
+    -115.27782,
+    36.21446,
+    -115.27782,
+    36.21446
+],
+  "geometry": {"coordinates":[-115.27782000000001,36.21446],"type":"Point"}
 }

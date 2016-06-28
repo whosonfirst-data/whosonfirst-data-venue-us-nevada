@@ -2,13 +2,14 @@
   "id": 219237893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766877,39.170486,-119.766877,39.170486",
     "geom:latitude":39.170486,
     "geom:longitude":-119.766877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219237893,
-    "wof:lastmodified":1449070457,
+    "wof:lastmodified":1466702420,
     "wof:name":"SOS Staffing Svc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-119.766877,39.170486,-119.766877,39.170486],
-  "geometry": {"coordinates":[-119.766877,39.170486],"type":"Point"}
+  "bbox": [
+    -119.766877,
+    39.170486,
+    -119.766877,
+    39.170486
+],
+  "geometry": {"coordinates":[-119.76687699999999,39.170486],"type":"Point"}
 }

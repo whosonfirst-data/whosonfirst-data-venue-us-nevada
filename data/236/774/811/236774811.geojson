@@ -2,13 +2,14 @@
   "id": 236774811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208118,36.115691,-115.208118,36.115691",
     "geom:latitude":36.115691,
     "geom:longitude":-115.208118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236774811,
-    "wof:lastmodified":1449002835,
+    "wof:lastmodified":1466706618,
     "wof:name":"Makino Restaurant",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.208118,36.115691,-115.208118,36.115691],
+  "bbox": [
+    -115.208118,
+    36.115691,
+    -115.208118,
+    36.115691
+],
   "geometry": {"coordinates":[-115.208118,36.115691],"type":"Point"}
 }

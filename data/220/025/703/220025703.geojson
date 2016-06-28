@@ -2,13 +2,14 @@
   "id": 220025703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.758845,40.836061,-115.758845,40.836061",
     "geom:latitude":40.836061,
     "geom:longitude":-115.758845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025703,
-    "wof:lastmodified":1449074730,
+    "wof:lastmodified":1466701768,
     "wof:name":"James M Copenhaver",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.758845,40.836061,-115.758845,40.836061],
-  "geometry": {"coordinates":[-115.758845,40.836061],"type":"Point"}
+  "bbox": [
+    -115.758845,
+    40.836061,
+    -115.758845,
+    40.836061
+],
+  "geometry": {"coordinates":[-115.75884499999999,40.836061],"type":"Point"}
 }

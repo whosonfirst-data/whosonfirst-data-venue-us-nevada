@@ -2,13 +2,14 @@
   "id": 219395657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163301,38.982897,-119.163301,38.982897",
     "geom:latitude":38.982897,
     "geom:longitude":-119.163301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 S Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219395657,
-    "wof:lastmodified":1449073394,
+    "wof:lastmodified":1466703609,
     "wof:name":"Khan Faraz MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.163301,38.982897,-119.163301,38.982897],
+  "bbox": [
+    -119.163301,
+    38.982897,
+    -119.163301,
+    38.982897
+],
   "geometry": {"coordinates":[-119.163301,38.982897],"type":"Point"}
 }

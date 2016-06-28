@@ -2,13 +2,14 @@
   "id": 236885893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130456,36.006696,-115.130456,36.006696",
     "geom:latitude":36.006696,
     "geom:longitude":-115.130456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1638 Balsam Mist Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236885893,
-    "wof:lastmodified":1449003399,
+    "wof:lastmodified":1466706797,
     "wof:name":"First Class Mobile Detail",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.130456,36.006696,-115.130456,36.006696],
+  "bbox": [
+    -115.130456,
+    36.006696,
+    -115.130456,
+    36.006696
+],
   "geometry": {"coordinates":[-115.130456,36.006696],"type":"Point"}
 }

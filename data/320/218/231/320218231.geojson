@@ -2,13 +2,14 @@
   "id": 320218231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.961816,39.251844,-119.961816,39.251844",
     "geom:latitude":39.251844,
     "geom:longitude":-119.961816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"386 Cottonwood Ct",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320218231,
-    "wof:lastmodified":1449013627,
+    "wof:lastmodified":1466704267,
     "wof:name":"Tension Tamers Of Tahoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-119.961816,39.251844,-119.961816,39.251844],
+  "bbox": [
+    -119.961816,
+    39.251844,
+    -119.961816,
+    39.251844
+],
   "geometry": {"coordinates":[-119.961816,39.251844],"type":"Point"}
 }

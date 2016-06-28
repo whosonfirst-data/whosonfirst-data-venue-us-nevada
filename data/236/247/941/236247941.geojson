@@ -2,13 +2,14 @@
   "id": 236247941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.88898,39.248708,-114.88898,39.248708",
     "geom:latitude":39.248708,
     "geom:longitude":-114.88898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236247941,
-    "wof:lastmodified":1449003606,
+    "wof:lastmodified":1466704393,
     "wof:name":"Summit Engineering Corp",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-114.88898,39.248708,-114.88898,39.248708],
+  "bbox": [
+    -114.88898,
+    39.248708,
+    -114.88898,
+    39.248708
+],
   "geometry": {"coordinates":[-114.88898,39.248708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267099,36.211266,-115.267099,36.211266",
     "geom:latitude":36.211266,
     "geom:longitude":-115.267099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7932 Lakepoint Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220135943,
-    "wof:lastmodified":1449074342,
+    "wof:lastmodified":1466702673,
     "wof:name":"Ready Fresh Vending",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vending"
     ]
 },
-  "bbox": [-115.267099,36.211266,-115.267099,36.211266],
+  "bbox": [
+    -115.267099,
+    36.211266,
+    -115.267099,
+    36.211266
+],
   "geometry": {"coordinates":[-115.267099,36.211266],"type":"Point"}
 }

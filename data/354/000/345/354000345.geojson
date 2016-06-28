@@ -2,13 +2,14 @@
   "id": 354000345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082094,36.070521,-115.082094,36.070521",
     "geom:latitude":36.070521,
     "geom:longitude":-115.082094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2764 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354000345,
-    "wof:lastmodified":1449066205,
+    "wof:lastmodified":1466704192,
     "wof:name":"Mustang Moving Services",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.082094,36.070521,-115.082094,36.070521],
+  "bbox": [
+    -115.082094,
+    36.070521,
+    -115.082094,
+    36.070521
+],
   "geometry": {"coordinates":[-115.082094,36.070521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354025741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101545,36.195708,-115.101545,36.195708",
     "geom:latitude":36.195708,
     "geom:longitude":-115.101545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3455 E Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354025741,
-    "wof:lastmodified":1449067370,
+    "wof:lastmodified":1466702149,
     "wof:name":"El Jaliqillo",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.101545,36.195708,-115.101545,36.195708],
+  "bbox": [
+    -115.101545,
+    36.195708,
+    -115.101545,
+    36.195708
+],
   "geometry": {"coordinates":[-115.101545,36.195708],"type":"Point"}
 }

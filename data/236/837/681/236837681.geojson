@@ -2,13 +2,14 @@
   "id": 236837681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097485,36.008646,-115.097485,36.008646",
     "geom:latitude":36.008646,
     "geom:longitude":-115.097485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Dawn Cove Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236837681,
-    "wof:lastmodified":1449002062,
+    "wof:lastmodified":1466706714,
     "wof:name":"Simplicity Travel",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.097485,36.008646,-115.097485,36.008646],
-  "geometry": {"coordinates":[-115.097485,36.008646],"type":"Point"}
+  "bbox": [
+    -115.097485,
+    36.008646,
+    -115.097485,
+    36.008646
+],
+  "geometry": {"coordinates":[-115.09748500000001,36.008646],"type":"Point"}
 }

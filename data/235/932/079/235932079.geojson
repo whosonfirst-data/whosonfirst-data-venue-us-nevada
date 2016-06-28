@@ -2,13 +2,14 @@
   "id": 235932079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.019693,36.279002,-115.019693,36.279002",
     "geom:latitude":36.279002,
     "geom:longitude":-115.019693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6795 Speedway Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235932079,
-    "wof:lastmodified":1449008384,
+    "wof:lastmodified":1466703438,
     "wof:name":"Factor X Engineering",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.019693,36.279002,-115.019693,36.279002],
+  "bbox": [
+    -115.019693,
+    36.279002,
+    -115.019693,
+    36.279002
+],
   "geometry": {"coordinates":[-115.019693,36.279002],"type":"Point"}
 }

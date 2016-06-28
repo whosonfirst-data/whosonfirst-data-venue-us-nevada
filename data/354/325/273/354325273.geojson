@@ -2,13 +2,14 @@
   "id": 354325273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244039,36.082157,-115.244039,36.082157",
     "geom:latitude":36.082157,
     "geom:longitude":-115.244039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5875 S Rainbow Blvd Ste 206",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354325273,
-    "wof:lastmodified":1449066579,
+    "wof:lastmodified":1466705879,
     "wof:name":"Vegas Hot! Yoga & Pilates",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "yoga"
     ]
 },
-  "bbox": [-115.244039,36.082157,-115.244039,36.082157],
+  "bbox": [
+    -115.244039,
+    36.082157,
+    -115.244039,
+    36.082157
+],
   "geometry": {"coordinates":[-115.244039,36.082157],"type":"Point"}
 }

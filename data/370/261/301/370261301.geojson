@@ -2,13 +2,14 @@
   "id": 370261301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.314382,36.101609,-115.314382,36.101609",
     "geom:latitude":36.101609,
     "geom:longitude":-115.314382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10170 W Tropicana Ave Suite 156-361",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370261301,
-    "wof:lastmodified":1449029124,
+    "wof:lastmodified":1466703965,
     "wof:name":"Max Power Marketing, LLC",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "web"
     ]
 },
-  "bbox": [-115.314382,36.101609,-115.314382,36.101609],
-  "geometry": {"coordinates":[-115.314382,36.101609],"type":"Point"}
+  "bbox": [
+    -115.314382,
+    36.101609,
+    -115.314382,
+    36.101609
+],
+  "geometry": {"coordinates":[-115.31438199999999,36.101609],"type":"Point"}
 }

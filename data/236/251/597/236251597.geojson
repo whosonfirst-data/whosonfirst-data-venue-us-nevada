@@ -2,13 +2,14 @@
   "id": 236251597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.397665,38.827117,-119.397665,38.827117",
     "geom:latitude":38.827117,
     "geom:longitude":-119.397665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Upper Colony Rd",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236251597,
-    "wof:lastmodified":1449001726,
+    "wof:lastmodified":1466704401,
     "wof:name":"Galli Minerals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gold"
     ]
 },
-  "bbox": [-119.397665,38.827117,-119.397665,38.827117],
+  "bbox": [
+    -119.397665,
+    38.827117,
+    -119.397665,
+    38.827117
+],
   "geometry": {"coordinates":[-119.397665,38.827117],"type":"Point"}
 }

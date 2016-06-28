@@ -2,13 +2,14 @@
   "id": 236105153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.713092,39.185557,-119.713092,39.185557",
     "geom:latitude":39.185557,
     "geom:longitude":-119.713092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4847 E Nye Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236105153,
-    "wof:lastmodified":1449002805,
+    "wof:lastmodified":1466701640,
     "wof:name":"Capital Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "collection"
     ]
 },
-  "bbox": [-119.713092,39.185557,-119.713092,39.185557],
+  "bbox": [
+    -119.713092,
+    39.185557,
+    -119.713092,
+    39.185557
+],
   "geometry": {"coordinates":[-119.713092,39.185557],"type":"Point"}
 }

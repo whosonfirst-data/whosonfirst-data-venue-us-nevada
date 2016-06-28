@@ -2,13 +2,14 @@
   "id": 220095393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.078559,36.125544,-115.078559,36.125544",
     "geom:latitude":36.125544,
     "geom:longitude":-115.078559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4380 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220095393,
-    "wof:lastmodified":1449074442,
+    "wof:lastmodified":1466702351,
     "wof:name":"011 Communications",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-115.078559,36.125544,-115.078559,36.125544],
+  "bbox": [
+    -115.078559,
+    36.125544,
+    -115.078559,
+    36.125544
+],
   "geometry": {"coordinates":[-115.078559,36.125544],"type":"Point"}
 }

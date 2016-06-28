@@ -2,13 +2,14 @@
   "id": 236266187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077941,36.030717,-115.077941,36.030717",
     "geom:latitude":36.030717,
     "geom:longitude":-115.077941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Green Isle Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236266187,
-    "wof:lastmodified":1449001754,
+    "wof:lastmodified":1466704595,
     "wof:name":"JCP Plumbing Inc",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.077941,36.030717,-115.077941,36.030717],
+  "bbox": [
+    -115.077941,
+    36.030717,
+    -115.077941,
+    36.030717
+],
   "geometry": {"coordinates":[-115.077941,36.030717],"type":"Point"}
 }

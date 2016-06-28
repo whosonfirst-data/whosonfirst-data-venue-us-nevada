@@ -2,13 +2,14 @@
   "id": 219476625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059543,36.140896,-115.059543,36.140896",
     "geom:latitude":36.140896,
     "geom:longitude":-115.059543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2689 Prairie Dunes Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219476625,
-    "wof:lastmodified":1449071819,
+    "wof:lastmodified":1466704060,
     "wof:name":"Slater Designs",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronics"
     ]
 },
-  "bbox": [-115.059543,36.140896,-115.059543,36.140896],
-  "geometry": {"coordinates":[-115.059543,36.140896],"type":"Point"}
+  "bbox": [
+    -115.059543,
+    36.140896,
+    -115.059543,
+    36.140896
+],
+  "geometry": {"coordinates":[-115.05954300000001,36.140896],"type":"Point"}
 }

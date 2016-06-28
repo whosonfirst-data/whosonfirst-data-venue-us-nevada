@@ -2,13 +2,14 @@
   "id": 370292743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130203,36.129947,-115.130203,36.129947",
     "geom:latitude":36.129947,
     "geom:longitude":-115.130203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 E Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370292743,
-    "wof:lastmodified":1449029373,
+    "wof:lastmodified":1466704325,
     "wof:name":"Exhibit City News",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.130203,36.129947,-115.130203,36.129947],
-  "geometry": {"coordinates":[-115.130203,36.129947],"type":"Point"}
+  "bbox": [
+    -115.130203,
+    36.129947,
+    -115.130203,
+    36.129947
+],
+  "geometry": {"coordinates":[-115.13020299999999,36.129947],"type":"Point"}
 }

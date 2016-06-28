@@ -2,13 +2,14 @@
   "id": 252730621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148434,36.141661,-115.148434,36.141661",
     "geom:latitude":36.141661,
     "geom:longitude":-115.148434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Van Patten St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":252730621,
-    "wof:lastmodified":1449006348,
+    "wof:lastmodified":1466701936,
     "wof:name":"Parkeast Villa Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.148434,36.141661,-115.148434,36.141661],
-  "geometry": {"coordinates":[-115.148434,36.141661],"type":"Point"}
+  "bbox": [
+    -115.148434,
+    36.141661,
+    -115.148434,
+    36.141661
+],
+  "geometry": {"coordinates":[-115.14843399999999,36.141661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354125975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182469,36.12995,-115.182469,36.12995",
     "geom:latitude":36.12995,
     "geom:longitude":-115.182469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 W Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354125975,
-    "wof:lastmodified":1449067618,
+    "wof:lastmodified":1466704480,
     "wof:name":"Real Water",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.182469,36.12995,-115.182469,36.12995],
+  "bbox": [
+    -115.182469,
+    36.12995,
+    -115.182469,
+    36.12995
+],
   "geometry": {"coordinates":[-115.182469,36.12995],"type":"Point"}
 }

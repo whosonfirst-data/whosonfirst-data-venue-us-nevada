@@ -2,13 +2,14 @@
   "id": 219669671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803626,39.508824,-119.803626,39.508824",
     "geom:latitude":39.508824,
     "geom:longitude":-119.803626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Holcomb Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219669671,
-    "wof:lastmodified":1449070790,
+    "wof:lastmodified":1466704169,
     "wof:name":"Shotz",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.803626,39.508824,-119.803626,39.508824],
-  "geometry": {"coordinates":[-119.803626,39.508824],"type":"Point"}
+  "bbox": [
+    -119.803626,
+    39.508824,
+    -119.803626,
+    39.508824
+],
+  "geometry": {"coordinates":[-119.80362599999999,39.508824],"type":"Point"}
 }

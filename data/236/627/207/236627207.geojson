@@ -2,13 +2,14 @@
   "id": 236627207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.838246,39.459944,-118.838246,39.459944",
     "geom:latitude":39.459944,
     "geom:longitude":-118.838246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 Sheckler Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236627207,
-    "wof:lastmodified":1449005334,
+    "wof:lastmodified":1466706339,
     "wof:name":"Jones Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "order"
     ]
 },
-  "bbox": [-118.838246,39.459944,-118.838246,39.459944],
+  "bbox": [
+    -118.838246,
+    39.459944,
+    -118.838246,
+    39.459944
+],
   "geometry": {"coordinates":[-118.838246,39.459944],"type":"Point"}
 }

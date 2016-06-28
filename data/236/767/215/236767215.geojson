@@ -2,13 +2,14 @@
   "id": 236767215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.958873,36.186178,-115.958873,36.186178",
     "geom:latitude":36.186178,
     "geom:longitude":-115.958873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236767215,
-    "wof:lastmodified":1449002413,
+    "wof:lastmodified":1466706727,
     "wof:name":"Avco Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.958873,36.186178,-115.958873,36.186178],
+  "bbox": [
+    -115.958873,
+    36.186178,
+    -115.958873,
+    36.186178
+],
   "geometry": {"coordinates":[-115.958873,36.186178],"type":"Point"}
 }

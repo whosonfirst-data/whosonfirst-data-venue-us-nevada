@@ -2,13 +2,14 @@
   "id": 370180945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248897,36.260532,-115.248897,36.260532",
     "geom:latitude":36.260532,
     "geom:longitude":-115.248897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5445 Drexel Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370180945,
-    "wof:lastmodified":1449029199,
+    "wof:lastmodified":1466702138,
     "wof:name":"Enterprise 1 800 Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.248897,36.260532,-115.248897,36.260532],
+  "bbox": [
+    -115.248897,
+    36.260532,
+    -115.248897,
+    36.260532
+],
   "geometry": {"coordinates":[-115.248897,36.260532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219277919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199356,36.071637,-115.199356,36.071637",
     "geom:latitude":36.071637,
     "geom:longitude":-115.199356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4495 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219277919,
-    "wof:lastmodified":1449070787,
+    "wof:lastmodified":1466702853,
     "wof:name":"Digital Pro Graphics Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.199356,36.071637,-115.199356,36.071637],
-  "geometry": {"coordinates":[-115.199356,36.071637],"type":"Point"}
+  "bbox": [
+    -115.199356,
+    36.071637,
+    -115.199356,
+    36.071637
+],
+  "geometry": {"coordinates":[-115.19935599999999,36.071637],"type":"Point"}
 }

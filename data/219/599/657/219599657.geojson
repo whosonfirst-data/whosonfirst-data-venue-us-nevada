@@ -2,13 +2,14 @@
   "id": 219599657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741355,39.150109,-119.741355,39.150109",
     "geom:latitude":39.150109,
     "geom:longitude":-119.741355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219599657,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1466702901,
     "wof:name":"Cafe At Franktown Corners",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-119.741355,39.150109,-119.741355,39.150109],
+  "bbox": [
+    -119.741355,
+    39.150109,
+    -119.741355,
+    39.150109
+],
   "geometry": {"coordinates":[-119.741355,39.150109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236575499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206047,36.113683,-115.206047,36.113683",
     "geom:latitude":36.113683,
     "geom:longitude":-115.206047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 Nevso Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236575499,
-    "wof:lastmodified":1449002429,
+    "wof:lastmodified":1466706185,
     "wof:name":"Nevada Glass Co",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mirror"
     ]
 },
-  "bbox": [-115.206047,36.113683,-115.206047,36.113683],
+  "bbox": [
+    -115.206047,
+    36.113683,
+    -115.206047,
+    36.113683
+],
   "geometry": {"coordinates":[-115.206047,36.113683],"type":"Point"}
 }

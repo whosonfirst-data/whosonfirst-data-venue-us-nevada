@@ -2,13 +2,14 @@
   "id": 219445637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.070989,36.076314,-115.070989,36.076314",
     "geom:latitude":36.076314,
     "geom:longitude":-115.070989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Whitney Mesa Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219445637,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466703854,
     "wof:name":"Painting & Decorating Contrs",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.070989,36.076314,-115.070989,36.076314],
+  "bbox": [
+    -115.070989,
+    36.076314,
+    -115.070989,
+    36.076314
+],
   "geometry": {"coordinates":[-115.070989,36.076314],"type":"Point"}
 }

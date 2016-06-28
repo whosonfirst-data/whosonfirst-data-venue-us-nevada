@@ -2,13 +2,14 @@
   "id": 236420771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.354109,39.376339,-119.354109,39.376339",
     "geom:latitude":39.376339,
     "geom:longitude":-119.354109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7685 Santa Fe Trl",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236420771,
-    "wof:lastmodified":1449003186,
+    "wof:lastmodified":1466705461,
     "wof:name":"Travel Services Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [-119.354109,39.376339,-119.354109,39.376339],
-  "geometry": {"coordinates":[-119.354109,39.376339],"type":"Point"}
+  "bbox": [
+    -119.354109,
+    39.376339,
+    -119.354109,
+    39.376339
+],
+  "geometry": {"coordinates":[-119.35410899999999,39.376339],"type":"Point"}
 }

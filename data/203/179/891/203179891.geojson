@@ -2,13 +2,14 @@
   "id": 203179891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.247636,36.084708,-115.247636,36.084708",
     "geom:latitude":36.084708,
     "geom:longitude":-115.247636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7178 Soaring Hawk Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203179891,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466701825,
     "wof:name":"Baby Safe Pool Fence",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-115.247636,36.084708,-115.247636,36.084708],
+  "bbox": [
+    -115.247636,
+    36.084708,
+    -115.247636,
+    36.084708
+],
   "geometry": {"coordinates":[-115.247636,36.084708],"type":"Point"}
 }

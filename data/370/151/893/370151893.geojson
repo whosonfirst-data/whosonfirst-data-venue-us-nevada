@@ -2,13 +2,14 @@
   "id": 370151893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250085,36.184363,-115.250085,36.184363",
     "geom:latitude":36.184363,
     "geom:longitude":-115.250085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Carrondale Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370151893,
-    "wof:lastmodified":1449029102,
+    "wof:lastmodified":1466701579,
     "wof:name":"Dick William James CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.250085,36.184363,-115.250085,36.184363],
+  "bbox": [
+    -115.250085,
+    36.184363,
+    -115.250085,
+    36.184363
+],
   "geometry": {"coordinates":[-115.250085,36.184363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219294133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172761,36.117907,-115.172761,36.117907",
     "geom:latitude":36.117907,
     "geom:longitude":-115.172761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3339 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219294133,
-    "wof:lastmodified":1449072917,
+    "wof:lastmodified":1466703028,
     "wof:name":"Rosewood Grille",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-115.172761,36.117907,-115.172761,36.117907],
-  "geometry": {"coordinates":[-115.172761,36.117907],"type":"Point"}
+  "bbox": [
+    -115.172761,
+    36.117907,
+    -115.172761,
+    36.117907
+],
+  "geometry": {"coordinates":[-115.17276099999999,36.117907],"type":"Point"}
 }

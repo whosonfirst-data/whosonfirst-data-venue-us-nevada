@@ -2,13 +2,14 @@
   "id": 236017923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766634,39.526767,-119.766634,39.526767",
     "geom:latitude":39.526767,
     "geom:longitude":-119.766634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236017923,
-    "wof:lastmodified":1449003404,
+    "wof:lastmodified":1466703855,
     "wof:name":"Hose & Fittings Etc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-119.766634,39.526767,-119.766634,39.526767],
+  "bbox": [
+    -119.766634,
+    39.526767,
+    -119.766634,
+    39.526767
+],
   "geometry": {"coordinates":[-119.766634,39.526767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236132633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15098,36.153791,-115.15098,36.153791",
     "geom:latitude":36.153791,
     "geom:longitude":-115.15098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236132633,
-    "wof:lastmodified":1449003227,
+    "wof:lastmodified":1466702183,
     "wof:name":"Loyaty Records",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "advertisement"
     ]
 },
-  "bbox": [-115.15098,36.153791,-115.15098,36.153791],
+  "bbox": [
+    -115.15098,
+    36.153791,
+    -115.15098,
+    36.153791
+],
   "geometry": {"coordinates":[-115.15098,36.153791],"type":"Point"}
 }

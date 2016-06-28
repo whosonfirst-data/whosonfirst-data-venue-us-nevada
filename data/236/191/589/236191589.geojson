@@ -2,13 +2,14 @@
   "id": 236191589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189825,36.108871,-115.189825,36.108871",
     "geom:latitude":36.108871,
     "geom:longitude":-115.189825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236191589,
-    "wof:lastmodified":1449003692,
+    "wof:lastmodified":1466703398,
     "wof:name":"Miss Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "it"
     ]
 },
-  "bbox": [-115.189825,36.108871,-115.189825,36.108871],
+  "bbox": [
+    -115.189825,
+    36.108871,
+    -115.189825,
+    36.108871
+],
   "geometry": {"coordinates":[-115.189825,36.108871],"type":"Point"}
 }

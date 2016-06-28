@@ -2,13 +2,14 @@
   "id": 203376829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087571,35.973112,-115.087571,35.973112",
     "geom:latitude":35.973112,
     "geom:longitude":-115.087571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Isleworth Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203376829,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466703241,
     "wof:name":"Cinnamonster",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cream"
     ]
 },
-  "bbox": [-115.087571,35.973112,-115.087571,35.973112],
+  "bbox": [
+    -115.087571,
+    35.973112,
+    -115.087571,
+    35.973112
+],
   "geometry": {"coordinates":[-115.087571,35.973112],"type":"Point"}
 }

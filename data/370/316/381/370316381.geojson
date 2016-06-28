@@ -2,13 +2,14 @@
   "id": 370316381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803192,39.517497,-119.803192,39.517497",
     "geom:latitude":39.517497,
     "geom:longitude":-119.803192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370316381,
-    "wof:lastmodified":1449031370,
+    "wof:lastmodified":1466704830,
     "wof:name":"Lil Raskals Car Accessories",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-119.803192,39.517497,-119.803192,39.517497],
+  "bbox": [
+    -119.803192,
+    39.517497,
+    -119.803192,
+    39.517497
+],
   "geometry": {"coordinates":[-119.803192,39.517497],"type":"Point"}
 }

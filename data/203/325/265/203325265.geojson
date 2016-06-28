@@ -2,13 +2,14 @@
   "id": 203325265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.048337,36.241699,-115.048337,36.241699",
     "geom:latitude":36.241699,
     "geom:longitude":-115.048337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 N Washington Blvd",
     "sg:city":"Nellis Afb",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203325265,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466702992,
     "wof:name":"US Air Force",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-115.048337,36.241699,-115.048337,36.241699],
+  "bbox": [
+    -115.048337,
+    36.241699,
+    -115.048337,
+    36.241699
+],
   "geometry": {"coordinates":[-115.048337,36.241699],"type":"Point"}
 }

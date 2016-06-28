@@ -2,13 +2,14 @@
   "id": 236400641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807834,39.489699,-119.807834,39.489699",
     "geom:latitude":39.489699,
     "geom:longitude":-119.807834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3740 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236400641,
-    "wof:lastmodified":1449001916,
+    "wof:lastmodified":1466705364,
     "wof:name":"Joanna Hall Lcmt",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.807834,39.489699,-119.807834,39.489699],
+  "bbox": [
+    -119.807834,
+    39.489699,
+    -119.807834,
+    39.489699
+],
   "geometry": {"coordinates":[-119.807834,39.489699],"type":"Point"}
 }

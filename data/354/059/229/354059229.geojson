@@ -2,13 +2,14 @@
   "id": 354059229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08621,36.029857,-115.08621,36.029857",
     "geom:latitude":36.029857,
     "geom:longitude":-115.08621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 N Green Valley Parkway Suite 360",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354059229,
-    "wof:lastmodified":1449066372,
+    "wof:lastmodified":1466703013,
     "wof:name":"Steppin Out Shoetique",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.08621,36.029857,-115.08621,36.029857],
-  "geometry": {"coordinates":[-115.08621,36.029857],"type":"Point"}
+  "bbox": [
+    -115.08621,
+    36.029857,
+    -115.08621,
+    36.029857
+],
+  "geometry": {"coordinates":[-115.08620999999999,36.029857],"type":"Point"}
 }

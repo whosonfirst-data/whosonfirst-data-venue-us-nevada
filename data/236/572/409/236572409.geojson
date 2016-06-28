@@ -2,13 +2,14 @@
   "id": 236572409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749383,39.181551,-119.749383,39.181551",
     "geom:latitude":39.181551,
     "geom:longitude":-119.749383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 Spooner Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236572409,
-    "wof:lastmodified":1449003714,
+    "wof:lastmodified":1466706174,
     "wof:name":"Sunrise Janitorial",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.749383,39.181551,-119.749383,39.181551],
-  "geometry": {"coordinates":[-119.749383,39.181551],"type":"Point"}
+  "bbox": [
+    -119.749383,
+    39.181551,
+    -119.749383,
+    39.181551
+],
+  "geometry": {"coordinates":[-119.74938299999999,39.181551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219609239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046609,36.04493,-115.046609,36.04493",
     "geom:latitude":36.04493,
     "geom:longitude":-115.046609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219609239,
-    "wof:lastmodified":1449071698,
+    "wof:lastmodified":1466703077,
     "wof:name":"Ethan Allen Home Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.046609,36.04493,-115.046609,36.04493],
+  "bbox": [
+    -115.046609,
+    36.04493,
+    -115.046609,
+    36.04493
+],
   "geometry": {"coordinates":[-115.046609,36.04493],"type":"Point"}
 }

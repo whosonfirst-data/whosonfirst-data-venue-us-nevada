@@ -2,13 +2,14 @@
   "id": 236130587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225495,36.255559,-115.225495,36.255559",
     "geom:latitude":36.255559,
     "geom:longitude":-115.225495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Fisher Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236130587,
-    "wof:lastmodified":1449002647,
+    "wof:lastmodified":1466702144,
     "wof:name":"Debt Education & Elimination",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-115.225495,36.255559,-115.225495,36.255559],
+  "bbox": [
+    -115.225495,
+    36.255559,
+    -115.225495,
+    36.255559
+],
   "geometry": {"coordinates":[-115.225495,36.255559],"type":"Point"}
 }

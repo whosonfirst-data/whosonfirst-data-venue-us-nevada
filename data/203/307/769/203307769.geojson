@@ -2,13 +2,14 @@
   "id": 203307769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769606,39.159414,-119.769606,39.159414",
     "geom:latitude":39.159414,
     "geom:longitude":-119.769606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S Division St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203307769,
-    "wof:lastmodified":1449025405,
+    "wof:lastmodified":1466702903,
     "wof:name":"Whitesides John R",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769606,39.159414,-119.769606,39.159414],
+  "bbox": [
+    -119.769606,
+    39.159414,
+    -119.769606,
+    39.159414
+],
   "geometry": {"coordinates":[-119.769606,39.159414],"type":"Point"}
 }

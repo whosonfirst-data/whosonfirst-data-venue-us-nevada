@@ -2,13 +2,14 @@
   "id": 236024239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112529,36.036397,-115.112529,36.036397",
     "geom:latitude":36.036397,
     "geom:longitude":-115.112529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Mint Orchard Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236024239,
-    "wof:lastmodified":1449003189,
+    "wof:lastmodified":1466703871,
     "wof:name":"Watermark Financial",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.112529,36.036397,-115.112529,36.036397],
-  "geometry": {"coordinates":[-115.112529,36.036397],"type":"Point"}
+  "bbox": [
+    -115.112529,
+    36.036397,
+    -115.112529,
+    36.036397
+],
+  "geometry": {"coordinates":[-115.11252899999999,36.036397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219687343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735336,39.206532,-119.735336,39.206532",
     "geom:latitude":39.206532,
     "geom:longitude":-119.735336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Sigstrom Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219687343,
-    "wof:lastmodified":1449071396,
+    "wof:lastmodified":1466704359,
     "wof:name":"K D Components Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "capacitor"
     ]
 },
-  "bbox": [-119.735336,39.206532,-119.735336,39.206532],
+  "bbox": [
+    -119.735336,
+    39.206532,
+    -119.735336,
+    39.206532
+],
   "geometry": {"coordinates":[-119.735336,39.206532],"type":"Point"}
 }

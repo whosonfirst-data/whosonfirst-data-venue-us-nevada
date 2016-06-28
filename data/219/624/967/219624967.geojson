@@ -2,13 +2,14 @@
   "id": 219624967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.739414,39.056135,-119.739414,39.056135",
     "geom:latitude":39.056135,
     "geom:longitude":-119.739414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Santa Cruz Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219624967,
-    "wof:lastmodified":1449072810,
+    "wof:lastmodified":1466703376,
     "wof:name":"Agile Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laser"
     ]
 },
-  "bbox": [-119.739414,39.056135,-119.739414,39.056135],
+  "bbox": [
+    -119.739414,
+    39.056135,
+    -119.739414,
+    39.056135
+],
   "geometry": {"coordinates":[-119.739414,39.056135],"type":"Point"}
 }

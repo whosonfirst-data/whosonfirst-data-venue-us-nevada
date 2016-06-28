@@ -2,13 +2,14 @@
   "id": 219634703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267739,36.233792,-115.267739,36.233792",
     "geom:latitude":36.233792,
     "geom:longitude":-115.267739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8009 Holly Knoll Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219634703,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466703544,
     "wof:name":"AAA Development",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.267739,36.233792,-115.267739,36.233792],
-  "geometry": {"coordinates":[-115.267739,36.233792],"type":"Point"}
+  "bbox": [
+    -115.267739,
+    36.233792,
+    -115.267739,
+    36.233792
+],
+  "geometry": {"coordinates":[-115.26773900000001,36.233792],"type":"Point"}
 }

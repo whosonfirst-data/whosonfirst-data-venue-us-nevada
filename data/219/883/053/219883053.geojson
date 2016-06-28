@@ -2,13 +2,14 @@
   "id": 219883053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306003,36.149943,-115.306003,36.149943",
     "geom:latitude":36.149943,
     "geom:longitude":-115.306003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 Winners Cup Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219883053,
-    "wof:lastmodified":1449073098,
+    "wof:lastmodified":1466705547,
     "wof:name":"Leasing Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-115.306003,36.149943,-115.306003,36.149943],
+  "bbox": [
+    -115.306003,
+    36.149943,
+    -115.306003,
+    36.149943
+],
   "geometry": {"coordinates":[-115.306003,36.149943],"type":"Point"}
 }

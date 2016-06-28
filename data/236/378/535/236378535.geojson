@@ -2,13 +2,14 @@
   "id": 236378535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.843907,38.943847,-119.843907,38.943847",
     "geom:latitude":38.943847,
     "geom:longitude":-119.843907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1456 Foothill Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236378535,
-    "wof:lastmodified":1449003958,
+    "wof:lastmodified":1466705081,
     "wof:name":"Laura Springs Ranch & Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.843907,38.943847,-119.843907,38.943847],
+  "bbox": [
+    -119.843907,
+    38.943847,
+    -119.843907,
+    38.943847
+],
   "geometry": {"coordinates":[-119.843907,38.943847],"type":"Point"}
 }

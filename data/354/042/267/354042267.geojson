@@ -2,13 +2,14 @@
   "id": 354042267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184983,36.19757,-115.184983,36.19757",
     "geom:latitude":36.19757,
     "geom:longitude":-115.184983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 W Lake Mead Blvd Ste 100",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354042267,
-    "wof:lastmodified":1449067233,
+    "wof:lastmodified":1466702583,
     "wof:name":"Desert Valley Painting-Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.184983,36.19757,-115.184983,36.19757],
+  "bbox": [
+    -115.184983,
+    36.19757,
+    -115.184983,
+    36.19757
+],
   "geometry": {"coordinates":[-115.184983,36.19757],"type":"Point"}
 }

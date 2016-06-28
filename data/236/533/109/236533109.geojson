@@ -2,13 +2,14 @@
   "id": 236533109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.879967,39.257838,-114.879967,39.257838",
     "geom:latitude":39.257838,
     "geom:longitude":-114.879967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Ely Ave",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236533109,
-    "wof:lastmodified":1449001646,
+    "wof:lastmodified":1466705833,
     "wof:name":"Christiansen Drilling Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-114.879967,39.257838,-114.879967,39.257838],
-  "geometry": {"coordinates":[-114.879967,39.257838],"type":"Point"}
+  "bbox": [
+    -114.879967,
+    39.257838,
+    -114.879967,
+    39.257838
+],
+  "geometry": {"coordinates":[-114.87996699999999,39.257838],"type":"Point"}
 }

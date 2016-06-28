@@ -2,13 +2,14 @@
   "id": 354074771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144422,36.170603,-115.144422,36.170603",
     "geom:latitude":36.170603,
     "geom:longitude":-115.144422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Fremont St Golden Nugget Hotel",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354074771,
-    "wof:lastmodified":1449066856,
+    "wof:lastmodified":1466703452,
     "wof:name":"Vic & Anthony's Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-115.144422,36.170603,-115.144422,36.170603],
-  "geometry": {"coordinates":[-115.144422,36.170603],"type":"Point"}
+  "bbox": [
+    -115.144422,
+    36.170603,
+    -115.144422,
+    36.170603
+],
+  "geometry": {"coordinates":[-115.14442200000001,36.170603],"type":"Point"}
 }

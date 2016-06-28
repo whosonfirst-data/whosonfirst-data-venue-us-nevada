@@ -2,13 +2,14 @@
   "id": 219567017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747342,39.18965,-119.747342,39.18965",
     "geom:latitude":39.18965,
     "geom:longitude":-119.747342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Goni Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219567017,
-    "wof:lastmodified":1449073945,
+    "wof:lastmodified":1466702520,
     "wof:name":"Aging Svc Div",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-119.747342,39.18965,-119.747342,39.18965],
+  "bbox": [
+    -119.747342,
+    39.18965,
+    -119.747342,
+    39.18965
+],
   "geometry": {"coordinates":[-119.747342,39.18965],"type":"Point"}
 }

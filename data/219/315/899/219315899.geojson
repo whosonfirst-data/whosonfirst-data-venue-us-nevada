@@ -2,13 +2,14 @@
   "id": 219315899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322354,36.219486,-115.322354,36.219486",
     "geom:latitude":36.219486,
     "geom:longitude":-115.322354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10413 Turning Leaf Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219315899,
-    "wof:lastmodified":1449073725,
+    "wof:lastmodified":1466703202,
     "wof:name":"All Pro Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.322354,36.219486,-115.322354,36.219486],
+  "bbox": [
+    -115.322354,
+    36.219486,
+    -115.322354,
+    36.219486
+],
   "geometry": {"coordinates":[-115.322354,36.219486],"type":"Point"}
 }

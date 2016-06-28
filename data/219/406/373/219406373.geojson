@@ -2,13 +2,14 @@
   "id": 219406373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.473566,40.181645,-118.473566,40.181645",
     "geom:latitude":40.181645,
     "geom:longitude":-118.473566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219406373,
-    "wof:lastmodified":1449072271,
+    "wof:lastmodified":1466703666,
     "wof:name":"Espinoza Bookkeeping & Tax Svc",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-118.473566,40.181645,-118.473566,40.181645],
-  "geometry": {"coordinates":[-118.473566,40.181645],"type":"Point"}
+  "bbox": [
+    -118.473566,
+    40.181645,
+    -118.473566,
+    40.181645
+],
+  "geometry": {"coordinates":[-118.47356600000001,40.181645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354001793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066796,36.072226,-115.066796,36.072226",
     "geom:latitude":36.072226,
     "geom:longitude":-115.066796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Sunset Way Ste 214B",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354001793,
-    "wof:lastmodified":1449066313,
+    "wof:lastmodified":1466701492,
     "wof:name":"Windy City Air Conditioning & Heating, LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "air"
     ]
 },
-  "bbox": [-115.066796,36.072226,-115.066796,36.072226],
+  "bbox": [
+    -115.066796,
+    36.072226,
+    -115.066796,
+    36.072226
+],
   "geometry": {"coordinates":[-115.066796,36.072226],"type":"Point"}
 }

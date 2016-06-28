@@ -2,13 +2,14 @@
   "id": 219334049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163857,36.056858,-115.163857,36.056858",
     "geom:latitude":36.056858,
     "geom:longitude":-115.163857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219334049,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1466703285,
     "wof:name":"Ts Allen Financial Adviser",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.163857,36.056858,-115.163857,36.056858],
-  "geometry": {"coordinates":[-115.163857,36.056858],"type":"Point"}
+  "bbox": [
+    -115.163857,
+    36.056858,
+    -115.163857,
+    36.056858
+],
+  "geometry": {"coordinates":[-115.16385699999999,36.056858],"type":"Point"}
 }

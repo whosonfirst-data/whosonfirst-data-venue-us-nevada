@@ -2,13 +2,14 @@
   "id": 236853141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811105,39.670948,-119.811105,39.670948",
     "geom:latitude":39.670948,
     "geom:longitude":-119.811105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 Fir Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236853141,
-    "wof:lastmodified":1449002896,
+    "wof:lastmodified":1466706735,
     "wof:name":"Trims On Rims",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-119.811105,39.670948,-119.811105,39.670948],
+  "bbox": [
+    -119.811105,
+    39.670948,
+    -119.811105,
+    39.670948
+],
   "geometry": {"coordinates":[-119.811105,39.670948],"type":"Point"}
 }

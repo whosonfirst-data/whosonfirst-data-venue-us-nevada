@@ -2,13 +2,14 @@
   "id": 219888625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.327523,36.162058,-115.327523,36.162058",
     "geom:latitude":36.162058,
     "geom:longitude":-115.327523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Picotte St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219888625,
-    "wof:lastmodified":1449072600,
+    "wof:lastmodified":1466705480,
     "wof:name":"Janoth LLC",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic"
     ]
 },
-  "bbox": [-115.327523,36.162058,-115.327523,36.162058],
+  "bbox": [
+    -115.327523,
+    36.162058,
+    -115.327523,
+    36.162058
+],
   "geometry": {"coordinates":[-115.327523,36.162058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203337185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.001467,36.035244,-115.001467,36.035244",
     "geom:latitude":36.035244,
     "geom:longitude":-115.001467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203337185,
-    "wof:lastmodified":1449025806,
+    "wof:lastmodified":1466703076,
     "wof:name":"Action Water Sports",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "motor"
     ]
 },
-  "bbox": [-115.001467,36.035244,-115.001467,36.035244],
-  "geometry": {"coordinates":[-115.001467,36.035244],"type":"Point"}
+  "bbox": [
+    -115.001467,
+    36.035244,
+    -115.001467,
+    36.035244
+],
+  "geometry": {"coordinates":[-115.00146700000001,36.035244],"type":"Point"}
 }

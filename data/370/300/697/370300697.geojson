@@ -2,13 +2,14 @@
   "id": 370300697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28623,36.019543,-115.28623,36.019543",
     "geom:latitude":36.019543,
     "geom:longitude":-115.28623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8931 Austin Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370300697,
-    "wof:lastmodified":1449030976,
+    "wof:lastmodified":1466704596,
     "wof:name":"Excursion Biz",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.28623,36.019543,-115.28623,36.019543],
+  "bbox": [
+    -115.28623,
+    36.019543,
+    -115.28623,
+    36.019543
+],
   "geometry": {"coordinates":[-115.28623,36.019543],"type":"Point"}
 }

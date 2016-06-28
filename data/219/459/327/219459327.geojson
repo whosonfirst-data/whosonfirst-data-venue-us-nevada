@@ -2,13 +2,14 @@
   "id": 219459327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.959555,36.199777,-115.959555,36.199777",
     "geom:latitude":36.199777,
     "geom:longitude":-115.959555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Higley Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219459327,
-    "wof:lastmodified":1449071823,
+    "wof:lastmodified":1466703957,
     "wof:name":"KPVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-115.959555,36.199777,-115.959555,36.199777],
-  "geometry": {"coordinates":[-115.959555,36.199777],"type":"Point"}
+  "bbox": [
+    -115.959555,
+    36.199777,
+    -115.959555,
+    36.199777
+],
+  "geometry": {"coordinates":[-115.95955499999999,36.199777],"type":"Point"}
 }

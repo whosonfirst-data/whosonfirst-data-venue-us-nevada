@@ -2,13 +2,14 @@
   "id": 219350119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.165594,36.149452,-115.165594,36.149452",
     "geom:latitude":36.149452,
     "geom:longitude":-115.165594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 S Highland Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219350119,
-    "wof:lastmodified":1449072185,
+    "wof:lastmodified":1466703397,
     "wof:name":"Paul Ogaz Sj Co",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.165594,36.149452,-115.165594,36.149452],
+  "bbox": [
+    -115.165594,
+    36.149452,
+    -115.165594,
+    36.149452
+],
   "geometry": {"coordinates":[-115.165594,36.149452],"type":"Point"}
 }

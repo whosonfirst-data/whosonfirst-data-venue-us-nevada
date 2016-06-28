@@ -2,13 +2,14 @@
   "id": 220049483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762605,39.175469,-119.762605,39.175469",
     "geom:latitude":39.175469,
     "geom:longitude":-119.762605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 N Moody St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220049483,
-    "wof:lastmodified":1449074433,
+    "wof:lastmodified":1466701993,
     "wof:name":"A 1 Total Handyman Svc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-119.762605,39.175469,-119.762605,39.175469],
-  "geometry": {"coordinates":[-119.762605,39.175469],"type":"Point"}
+  "bbox": [
+    -119.762605,
+    39.175469,
+    -119.762605,
+    39.175469
+],
+  "geometry": {"coordinates":[-119.76260499999999,39.175469],"type":"Point"}
 }

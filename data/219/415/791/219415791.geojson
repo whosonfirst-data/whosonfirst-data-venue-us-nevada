@@ -2,13 +2,14 @@
   "id": 219415791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.974783,36.033115,-114.974783,36.033115",
     "geom:latitude":36.033115,
     "geom:longitude":-114.974783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219415791,
-    "wof:lastmodified":1449072948,
+    "wof:lastmodified":1466703727,
     "wof:name":"Charlie Holder's",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-114.974783,36.033115,-114.974783,36.033115],
+  "bbox": [
+    -114.974783,
+    36.033115,
+    -114.974783,
+    36.033115
+],
   "geometry": {"coordinates":[-114.974783,36.033115],"type":"Point"}
 }

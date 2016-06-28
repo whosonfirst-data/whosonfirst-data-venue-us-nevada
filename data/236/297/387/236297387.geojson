@@ -2,13 +2,14 @@
   "id": 236297387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17341,36.228,-115.17341,36.228",
     "geom:latitude":36.228,
     "geom:longitude":-115.17341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 Riderwood Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236297387,
-    "wof:lastmodified":1449003813,
+    "wof:lastmodified":1466704692,
     "wof:name":"Fletcher Brothers Carpet Clean",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.17341,36.228,-115.17341,36.228],
+  "bbox": [
+    -115.17341,
+    36.228,
+    -115.17341,
+    36.228
+],
   "geometry": {"coordinates":[-115.17341,36.228],"type":"Point"}
 }

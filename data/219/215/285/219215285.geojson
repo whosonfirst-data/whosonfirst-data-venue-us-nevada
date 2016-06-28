@@ -2,13 +2,14 @@
   "id": 219215285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103011,36.00068,-115.103011,36.00068",
     "geom:latitude":36.00068,
     "geom:longitude":-115.103011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2645 W Horizon Ridge Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219215285,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466702206,
     "wof:name":"Star Family Care",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.103011,36.00068,-115.103011,36.00068],
+  "bbox": [
+    -115.103011,
+    36.00068,
+    -115.103011,
+    36.00068
+],
   "geometry": {"coordinates":[-115.103011,36.00068],"type":"Point"}
 }

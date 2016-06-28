@@ -2,13 +2,14 @@
   "id": 219294365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185684,36.080119,-115.185684,36.080119",
     "geom:latitude":36.080119,
     "geom:longitude":-115.185684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6065 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219294365,
-    "wof:lastmodified":1449072914,
+    "wof:lastmodified":1466703032,
     "wof:name":"National Wood Products Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-115.185684,36.080119,-115.185684,36.080119],
-  "geometry": {"coordinates":[-115.185684,36.080119],"type":"Point"}
+  "bbox": [
+    -115.185684,
+    36.080119,
+    -115.185684,
+    36.080119
+],
+  "geometry": {"coordinates":[-115.18568399999999,36.080119],"type":"Point"}
 }

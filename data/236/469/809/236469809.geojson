@@ -2,13 +2,14 @@
   "id": 236469809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.901822,39.540216,-119.901822,39.540216",
     "geom:latitude":39.540216,
     "geom:longitude":-119.901822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 Heatherwood Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236469809,
-    "wof:lastmodified":1449005353,
+    "wof:lastmodified":1466705695,
     "wof:name":"Kelly Nichols",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.901822,39.540216,-119.901822,39.540216],
+  "bbox": [
+    -119.901822,
+    39.540216,
+    -119.901822,
+    39.540216
+],
   "geometry": {"coordinates":[-119.901822,39.540216],"type":"Point"}
 }

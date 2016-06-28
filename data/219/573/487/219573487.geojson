@@ -2,13 +2,14 @@
   "id": 219573487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78608,39.45718,-119.78608,39.45718",
     "geom:latitude":39.45718,
     "geom:longitude":-119.78608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7589 Lighthouse Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219573487,
-    "wof:lastmodified":1449073007,
+    "wof:lastmodified":1466702633,
     "wof:name":"Olga's Skin & Hair",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.78608,39.45718,-119.78608,39.45718],
+  "bbox": [
+    -119.78608,
+    39.45718,
+    -119.78608,
+    39.45718
+],
   "geometry": {"coordinates":[-119.78608,39.45718],"type":"Point"}
 }

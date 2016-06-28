@@ -2,13 +2,14 @@
   "id": 236194115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758522,39.522568,-119.758522,39.522568",
     "geom:latitude":39.522568,
     "geom:longitude":-119.758522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Industrial Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236194115,
-    "wof:lastmodified":1449004669,
+    "wof:lastmodified":1466703444,
     "wof:name":"A B C Plating & Bumper Service",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plating"
     ]
 },
-  "bbox": [-119.758522,39.522568,-119.758522,39.522568],
+  "bbox": [
+    -119.758522,
+    39.522568,
+    -119.758522,
+    39.522568
+],
   "geometry": {"coordinates":[-119.758522,39.522568],"type":"Point"}
 }

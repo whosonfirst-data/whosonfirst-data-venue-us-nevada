@@ -2,13 +2,14 @@
   "id": 252739811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.062657,36.823288,-114.062657,36.823288",
     "geom:latitude":36.823288,
     "geom:longitude":-114.062657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Kitty Hawk Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252739811,
-    "wof:lastmodified":1449005865,
+    "wof:lastmodified":1466702124,
     "wof:name":"Storage One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-114.062657,36.823288,-114.062657,36.823288],
+  "bbox": [
+    -114.062657,
+    36.823288,
+    -114.062657,
+    36.823288
+],
   "geometry": {"coordinates":[-114.062657,36.823288],"type":"Point"}
 }

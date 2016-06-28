@@ -2,13 +2,14 @@
   "id": 236170461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757475,39.539366,-119.757475,39.539366",
     "geom:latitude":39.539366,
     "geom:longitude":-119.757475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236170461,
-    "wof:lastmodified":1449001905,
+    "wof:lastmodified":1466702987,
     "wof:name":"Welmerink David W",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.757475,39.539366,-119.757475,39.539366],
+  "bbox": [
+    -119.757475,
+    39.539366,
+    -119.757475,
+    39.539366
+],
   "geometry": {"coordinates":[-119.757475,39.539366],"type":"Point"}
 }

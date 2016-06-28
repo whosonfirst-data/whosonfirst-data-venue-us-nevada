@@ -2,13 +2,14 @@
   "id": 219362889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127972,36.046424,-115.127972,36.046424",
     "geom:latitude":36.046424,
     "geom:longitude":-115.127972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7845 Clearwood Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219362889,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466703449,
     "wof:name":"Used Lighting Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-115.127972,36.046424,-115.127972,36.046424],
+  "bbox": [
+    -115.127972,
+    36.046424,
+    -115.127972,
+    36.046424
+],
   "geometry": {"coordinates":[-115.127972,36.046424],"type":"Point"}
 }

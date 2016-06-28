@@ -2,13 +2,14 @@
   "id": 354221949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20573,36.194338,-115.20573,36.194338",
     "geom:latitude":36.194338,
     "geom:longitude":-115.20573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 N Decatur Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354221949,
-    "wof:lastmodified":1449066665,
+    "wof:lastmodified":1466705162,
     "wof:name":"Native Nevadan Sporting Goods",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.20573,36.194338,-115.20573,36.194338],
+  "bbox": [
+    -115.20573,
+    36.194338,
+    -115.20573,
+    36.194338
+],
   "geometry": {"coordinates":[-115.20573,36.194338],"type":"Point"}
 }

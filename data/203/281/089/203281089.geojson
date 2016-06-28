@@ -2,13 +2,14 @@
   "id": 203281089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781434,39.527518,-119.781434,39.527518",
     "geom:latitude":39.527518,
     "geom:longitude":-119.781434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203281089,
-    "wof:lastmodified":1449026556,
+    "wof:lastmodified":1466702691,
     "wof:name":"Reno-Sparks Bldg & Grounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.781434,39.527518,-119.781434,39.527518],
+  "bbox": [
+    -119.781434,
+    39.527518,
+    -119.781434,
+    39.527518
+],
   "geometry": {"coordinates":[-119.781434,39.527518],"type":"Point"}
 }

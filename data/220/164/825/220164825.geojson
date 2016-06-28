@@ -2,13 +2,14 @@
   "id": 220164825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146751,36.160077,-115.146751,36.160077",
     "geom:latitude":36.160077,
     "geom:longitude":-115.146751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220164825,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466702858,
     "wof:name":"Heavenly Bliss Wedding Chapel",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.146751,36.160077,-115.146751,36.160077],
-  "geometry": {"coordinates":[-115.146751,36.160077],"type":"Point"}
+  "bbox": [
+    -115.146751,
+    36.160077,
+    -115.146751,
+    36.160077
+],
+  "geometry": {"coordinates":[-115.14675099999999,36.160077],"type":"Point"}
 }

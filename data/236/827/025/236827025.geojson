@@ -2,13 +2,14 @@
   "id": 236827025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.676609,39.211842,-119.676609,39.211842",
     "geom:latitude":39.211842,
     "geom:longitude":-119.676609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Red Rock Rd",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236827025,
-    "wof:lastmodified":1449002702,
+    "wof:lastmodified":1466706691,
     "wof:name":"Kachman Home Theater",
     "wof:parent_id":85885339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-119.676609,39.211842,-119.676609,39.211842],
+  "bbox": [
+    -119.676609,
+    39.211842,
+    -119.676609,
+    39.211842
+],
   "geometry": {"coordinates":[-119.676609,39.211842],"type":"Point"}
 }

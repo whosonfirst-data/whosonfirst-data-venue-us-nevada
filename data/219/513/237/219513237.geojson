@@ -2,13 +2,14 @@
   "id": 219513237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.985063,36.209033,-115.985063,36.209033",
     "geom:latitude":36.209033,
     "geom:longitude":-115.985063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219513237,
-    "wof:lastmodified":1449072720,
+    "wof:lastmodified":1466701538,
     "wof:name":"Pahrump Nugget",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "amusement"
     ]
 },
-  "bbox": [-115.985063,36.209033,-115.985063,36.209033],
+  "bbox": [
+    -115.985063,
+    36.209033,
+    -115.985063,
+    36.209033
+],
   "geometry": {"coordinates":[-115.985063,36.209033],"type":"Point"}
 }

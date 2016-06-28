@@ -2,13 +2,14 @@
   "id": 354368521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101712,36.075494,-115.101712,36.075494",
     "geom:latitude":36.075494,
     "geom:longitude":-115.101712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 Pepper Ln Ste 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354368521,
-    "wof:lastmodified":1449066328,
+    "wof:lastmodified":1466705963,
     "wof:name":"Burton Studio",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.101712,36.075494,-115.101712,36.075494],
-  "geometry": {"coordinates":[-115.101712,36.075494],"type":"Point"}
+  "bbox": [
+    -115.101712,
+    36.075494,
+    -115.101712,
+    36.075494
+],
+  "geometry": {"coordinates":[-115.10171200000001,36.075494],"type":"Point"}
 }

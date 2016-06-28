@@ -2,13 +2,14 @@
   "id": 236272269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135626,36.161345,-115.135626,36.161345",
     "geom:latitude":36.161345,
     "geom:longitude":-115.135626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236272269,
-    "wof:lastmodified":1449004978,
+    "wof:lastmodified":1466704307,
     "wof:name":"United Home Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "flooring"
     ]
 },
-  "bbox": [-115.135626,36.161345,-115.135626,36.161345],
+  "bbox": [
+    -115.135626,
+    36.161345,
+    -115.135626,
+    36.161345
+],
   "geometry": {"coordinates":[-115.135626,36.161345],"type":"Point"}
 }

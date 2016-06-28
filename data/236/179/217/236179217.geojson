@@ -2,13 +2,14 @@
   "id": 236179217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.74846,40.875192,-117.74846,40.875192",
     "geom:latitude":40.875192,
     "geom:longitude":-117.74846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9800 Alice Ln",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236179217,
-    "wof:lastmodified":1449004839,
+    "wof:lastmodified":1466703171,
     "wof:name":"Coffman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-117.74846,40.875192,-117.74846,40.875192],
-  "geometry": {"coordinates":[-117.74846,40.875192],"type":"Point"}
+  "bbox": [
+    -117.74846,
+    40.875192,
+    -117.74846,
+    40.875192
+],
+  "geometry": {"coordinates":[-117.74845999999999,40.875192],"type":"Point"}
 }

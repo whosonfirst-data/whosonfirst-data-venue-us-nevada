@@ -2,13 +2,14 @@
   "id": 354230121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175838,36.136323,-115.175838,36.136323",
     "geom:latitude":36.136323,
     "geom:longitude":-115.175838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2955 Westwood Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354230121,
-    "wof:lastmodified":1449067221,
+    "wof:lastmodified":1466705218,
     "wof:name":"Harrison's Prime Meats & Provisions",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.175838,36.136323,-115.175838,36.136323],
+  "bbox": [
+    -115.175838,
+    36.136323,
+    -115.175838,
+    36.136323
+],
   "geometry": {"coordinates":[-115.175838,36.136323],"type":"Point"}
 }

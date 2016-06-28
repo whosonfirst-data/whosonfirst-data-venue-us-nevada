@@ -2,13 +2,14 @@
   "id": 219210513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.941828,40.648461,-116.941828,40.648461",
     "geom:latitude":40.648461,
     "geom:longitude":-116.941828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 N 2nd St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219210513,
-    "wof:lastmodified":1449071601,
+    "wof:lastmodified":1466702158,
     "wof:name":"M-I Swaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "additive"
     ]
 },
-  "bbox": [-116.941828,40.648461,-116.941828,40.648461],
+  "bbox": [
+    -116.941828,
+    40.648461,
+    -116.941828,
+    40.648461
+],
   "geometry": {"coordinates":[-116.941828,40.648461],"type":"Point"}
 }

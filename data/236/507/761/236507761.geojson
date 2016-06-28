@@ -2,13 +2,14 @@
   "id": 236507761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.067744,36.163312,-116.067744,36.163312",
     "geom:latitude":36.163312,
     "geom:longitude":-116.067744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 S Barney St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236507761,
-    "wof:lastmodified":1449003329,
+    "wof:lastmodified":1466705845,
     "wof:name":"Willy B's Cleaning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.067744,36.163312,-116.067744,36.163312],
+  "bbox": [
+    -116.067744,
+    36.163312,
+    -116.067744,
+    36.163312
+],
   "geometry": {"coordinates":[-116.067744,36.163312],"type":"Point"}
 }

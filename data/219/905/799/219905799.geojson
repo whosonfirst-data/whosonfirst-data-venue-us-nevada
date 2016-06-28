@@ -2,13 +2,14 @@
   "id": 219905799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.274201,36.207082,-115.274201,36.207082",
     "geom:latitude":36.207082,
     "geom:longitude":-115.274201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8233 Lauderdale Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219905799,
-    "wof:lastmodified":1449071771,
+    "wof:lastmodified":1466705668,
     "wof:name":"Lunarlight Productions",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.274201,36.207082,-115.274201,36.207082],
-  "geometry": {"coordinates":[-115.274201,36.207082],"type":"Point"}
+  "bbox": [
+    -115.274201,
+    36.207082,
+    -115.274201,
+    36.207082
+],
+  "geometry": {"coordinates":[-115.27420100000001,36.207082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203420073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100222,36.032386,-115.100222,36.032386",
     "geom:latitude":36.032386,
     "geom:longitude":-115.100222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 N Pecos Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203420073,
-    "wof:lastmodified":1449025818,
+    "wof:lastmodified":1466703397,
     "wof:name":"Pecos Dental",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.100222,36.032386,-115.100222,36.032386],
+  "bbox": [
+    -115.100222,
+    36.032386,
+    -115.100222,
+    36.032386
+],
   "geometry": {"coordinates":[-115.100222,36.032386],"type":"Point"}
 }

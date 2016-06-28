@@ -2,13 +2,14 @@
   "id": 354013089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983104,36.038868,-114.983104,36.038868",
     "geom:latitude":36.038868,
     "geom:longitude":-114.983104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 E Lake Mead Parkway Suite 201",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354013089,
-    "wof:lastmodified":1449067124,
+    "wof:lastmodified":1466701824,
     "wof:name":"Fremont Women's Health Care",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-114.983104,36.038868,-114.983104,36.038868],
+  "bbox": [
+    -114.983104,
+    36.038868,
+    -114.983104,
+    36.038868
+],
   "geometry": {"coordinates":[-114.983104,36.038868],"type":"Point"}
 }

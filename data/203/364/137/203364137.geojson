@@ -2,13 +2,14 @@
   "id": 203364137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118939,36.091882,-115.118939,36.091882",
     "geom:latitude":36.091882,
     "geom:longitude":-115.118939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203364137,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1466703190,
     "wof:name":"Cards Mart Processing Inc",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "card"
     ]
 },
-  "bbox": [-115.118939,36.091882,-115.118939,36.091882],
+  "bbox": [
+    -115.118939,
+    36.091882,
+    -115.118939,
+    36.091882
+],
   "geometry": {"coordinates":[-115.118939,36.091882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236084767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21486,36.159986,-115.21486,36.159986",
     "geom:latitude":36.159986,
     "geom:longitude":-115.21486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5113 Alpine Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236084767,
-    "wof:lastmodified":1449001943,
+    "wof:lastmodified":1466704123,
     "wof:name":"Silver State Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.21486,36.159986,-115.21486,36.159986],
+  "bbox": [
+    -115.21486,
+    36.159986,
+    -115.21486,
+    36.159986
+],
   "geometry": {"coordinates":[-115.21486,36.159986],"type":"Point"}
 }

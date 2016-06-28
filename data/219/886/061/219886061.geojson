@@ -2,13 +2,14 @@
   "id": 219886061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144054,36.018068,-115.144054,36.018068",
     "geom:latitude":36.018068,
     "geom:longitude":-115.144054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Cline Cellars Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219886061,
-    "wof:lastmodified":1449072326,
+    "wof:lastmodified":1466705567,
     "wof:name":"China Import",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.144054,36.018068,-115.144054,36.018068],
+  "bbox": [
+    -115.144054,
+    36.018068,
+    -115.144054,
+    36.018068
+],
   "geometry": {"coordinates":[-115.144054,36.018068],"type":"Point"}
 }

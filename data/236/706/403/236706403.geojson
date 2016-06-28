@@ -2,13 +2,14 @@
   "id": 236706403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.876351,39.505984,-119.876351,39.505984",
     "geom:latitude":39.505984,
     "geom:longitude":-119.876351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Mayberry Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236706403,
-    "wof:lastmodified":1449001854,
+    "wof:lastmodified":1466706633,
     "wof:name":"Mc Neil's Industrial Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-119.876351,39.505984,-119.876351,39.505984],
+  "bbox": [
+    -119.876351,
+    39.505984,
+    -119.876351,
+    39.505984
+],
   "geometry": {"coordinates":[-119.876351,39.505984],"type":"Point"}
 }

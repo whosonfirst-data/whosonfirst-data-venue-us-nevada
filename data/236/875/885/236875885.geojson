@@ -2,13 +2,14 @@
   "id": 236875885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286284,36.210352,-115.286284,36.210352",
     "geom:latitude":36.210352,
     "geom:longitude":-115.286284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Golfside Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236875885,
-    "wof:lastmodified":1449004228,
+    "wof:lastmodified":1466706769,
     "wof:name":"Hillcrest Tile",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.286284,36.210352,-115.286284,36.210352],
-  "geometry": {"coordinates":[-115.286284,36.210352],"type":"Point"}
+  "bbox": [
+    -115.286284,
+    36.210352,
+    -115.286284,
+    36.210352
+],
+  "geometry": {"coordinates":[-115.28628399999999,36.210352],"type":"Point"}
 }

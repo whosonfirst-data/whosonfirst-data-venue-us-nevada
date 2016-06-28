@@ -2,13 +2,14 @@
   "id": 219761137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.831793,40.914188,-117.831793,40.914188",
     "geom:latitude":40.914188,
     "geom:longitude":-117.831793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6945 W Rose Creek Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219761137,
-    "wof:lastmodified":1449073092,
+    "wof:lastmodified":1466704962,
     "wof:name":"Bar N D Rnch Regst Bredr Curle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-117.831793,40.914188,-117.831793,40.914188],
+  "bbox": [
+    -117.831793,
+    40.914188,
+    -117.831793,
+    40.914188
+],
   "geometry": {"coordinates":[-117.831793,40.914188],"type":"Point"}
 }

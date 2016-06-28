@@ -2,13 +2,14 @@
   "id": 219302441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.81948,39.489806,-118.81948,39.489806",
     "geom:latitude":39.489806,
     "geom:longitude":-118.81948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Rice Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219302441,
-    "wof:lastmodified":1449071591,
+    "wof:lastmodified":1466703102,
     "wof:name":"Bible Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.81948,39.489806,-118.81948,39.489806],
+  "bbox": [
+    -118.81948,
+    39.489806,
+    -118.81948,
+    39.489806
+],
   "geometry": {"coordinates":[-118.81948,39.489806],"type":"Point"}
 }

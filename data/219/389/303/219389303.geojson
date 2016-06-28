@@ -2,13 +2,14 @@
   "id": 219389303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760474,39.150877,-119.760474,39.150877",
     "geom:latitude":39.150877,
     "geom:longitude":-119.760474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Mallory Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219389303,
-    "wof:lastmodified":1449073212,
+    "wof:lastmodified":1466703563,
     "wof:name":"RAC Gymnastics",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-119.760474,39.150877,-119.760474,39.150877],
+  "bbox": [
+    -119.760474,
+    39.150877,
+    -119.760474,
+    39.150877
+],
   "geometry": {"coordinates":[-119.760474,39.150877],"type":"Point"}
 }

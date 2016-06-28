@@ -2,13 +2,14 @@
   "id": 236111117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745822,39.54742,-119.745822,39.54742",
     "geom:latitude":39.54742,
     "geom:longitude":-119.745822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Greenbrae Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236111117,
-    "wof:lastmodified":1449005378,
+    "wof:lastmodified":1466701750,
     "wof:name":"G J Desktop Solutions",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-119.745822,39.54742,-119.745822,39.54742],
+  "bbox": [
+    -119.745822,
+    39.54742,
+    -119.745822,
+    39.54742
+],
   "geometry": {"coordinates":[-119.745822,39.54742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236079781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116031,36.137561,-115.116031,36.137561",
     "geom:latitude":36.137561,
     "geom:longitude":-115.116031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2889 Artic St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":236079781,
-    "wof:lastmodified":1449004583,
+    "wof:lastmodified":1466704098,
     "wof:name":"Vegas Girls Wigs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-115.116031,36.137561,-115.116031,36.137561],
-  "geometry": {"coordinates":[-115.116031,36.137561],"type":"Point"}
+  "bbox": [
+    -115.116031,
+    36.137561,
+    -115.116031,
+    36.137561
+],
+  "geometry": {"coordinates":[-115.11603100000001,36.137561],"type":"Point"}
 }

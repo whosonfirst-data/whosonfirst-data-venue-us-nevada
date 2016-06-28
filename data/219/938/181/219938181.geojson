@@ -2,13 +2,14 @@
   "id": 219938181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.944981,36.017387,-114.944981,36.017387",
     "geom:latitude":36.017387,
     "geom:longitude":-114.944981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1049 Juniper Ridge Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219938181,
-    "wof:lastmodified":1449073032,
+    "wof:lastmodified":1466705819,
     "wof:name":"Virtual Charting",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hosting"
     ]
 },
-  "bbox": [-114.944981,36.017387,-114.944981,36.017387],
+  "bbox": [
+    -114.944981,
+    36.017387,
+    -114.944981,
+    36.017387
+],
   "geometry": {"coordinates":[-114.944981,36.017387],"type":"Point"}
 }

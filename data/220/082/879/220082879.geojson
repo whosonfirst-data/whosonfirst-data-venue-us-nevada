@@ -2,13 +2,14 @@
   "id": 220082879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.869914,39.507422,-119.869914,39.507422",
     "geom:latitude":39.507422,
     "geom:longitude":-119.869914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Livermore Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220082879,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466702283,
     "wof:name":"Mobile Ray Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-119.869914,39.507422,-119.869914,39.507422],
-  "geometry": {"coordinates":[-119.869914,39.507422],"type":"Point"}
+  "bbox": [
+    -119.869914,
+    39.507422,
+    -119.869914,
+    39.507422
+],
+  "geometry": {"coordinates":[-119.86991399999999,39.507422],"type":"Point"}
 }

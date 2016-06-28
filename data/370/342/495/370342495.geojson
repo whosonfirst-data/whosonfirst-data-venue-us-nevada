@@ -2,13 +2,14 @@
   "id": 370342495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750999,39.159801,-119.750999,39.159801",
     "geom:latitude":39.159801,
     "geom:longitude":-119.750999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 S Saliman Rd Ste 1",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370342495,
-    "wof:lastmodified":1449032222,
+    "wof:lastmodified":1466704859,
     "wof:name":"Gardner John F CPA",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-119.750999,39.159801,-119.750999,39.159801],
-  "geometry": {"coordinates":[-119.750999,39.159801],"type":"Point"}
+  "bbox": [
+    -119.750999,
+    39.159801,
+    -119.750999,
+    39.159801
+],
+  "geometry": {"coordinates":[-119.75099899999999,39.159801],"type":"Point"}
 }

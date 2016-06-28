@@ -2,13 +2,14 @@
   "id": 236167997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172908,36.105456,-115.172908,36.105456",
     "geom:latitude":36.105456,
     "geom:longitude":-115.172908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3743 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236167997,
-    "wof:lastmodified":1449003352,
+    "wof:lastmodified":1466702941,
     "wof:name":"Hard Rock & Gifts",
     "wof:parent_id":85879735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.172908,36.105456,-115.172908,36.105456],
-  "geometry": {"coordinates":[-115.172908,36.105456],"type":"Point"}
+  "bbox": [
+    -115.172908,
+    36.105456,
+    -115.172908,
+    36.105456
+],
+  "geometry": {"coordinates":[-115.17290800000001,36.105456],"type":"Point"}
 }

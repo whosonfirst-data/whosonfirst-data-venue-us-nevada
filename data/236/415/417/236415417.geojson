@@ -2,13 +2,14 @@
   "id": 236415417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.736806,40.972002,-117.736806,40.972002",
     "geom:latitude":40.972002,
     "geom:longitude":-117.736806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236415417,
-    "wof:lastmodified":1449004140,
+    "wof:lastmodified":1466705444,
     "wof:name":"Dan's Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-117.736806,40.972002,-117.736806,40.972002],
+  "bbox": [
+    -117.736806,
+    40.972002,
+    -117.736806,
+    40.972002
+],
   "geometry": {"coordinates":[-117.736806,40.972002],"type":"Point"}
 }

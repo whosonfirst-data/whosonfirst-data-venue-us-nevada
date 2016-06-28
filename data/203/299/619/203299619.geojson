@@ -2,13 +2,14 @@
   "id": 203299619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.720756,38.906918,-119.720756,38.906918",
     "geom:latitude":38.906918,
     "geom:longitude":-119.720756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"979 Riverview Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203299619,
-    "wof:lastmodified":1449025396,
+    "wof:lastmodified":1466702825,
     "wof:name":"Riverview Manor Cafe Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-119.720756,38.906918,-119.720756,38.906918],
-  "geometry": {"coordinates":[-119.720756,38.906918],"type":"Point"}
+  "bbox": [
+    -119.720756,
+    38.906918,
+    -119.720756,
+    38.906918
+],
+  "geometry": {"coordinates":[-119.72075599999999,38.906918],"type":"Point"}
 }

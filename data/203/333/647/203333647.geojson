@@ -2,13 +2,14 @@
   "id": 203333647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.078818,36.254587,-115.078818,36.254587",
     "geom:latitude":36.254587,
     "geom:longitude":-115.078818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 Smiley Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203333647,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466703053,
     "wof:name":"KAOS",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-115.078818,36.254587,-115.078818,36.254587],
+  "bbox": [
+    -115.078818,
+    36.254587,
+    -115.078818,
+    36.254587
+],
   "geometry": {"coordinates":[-115.078818,36.254587],"type":"Point"}
 }

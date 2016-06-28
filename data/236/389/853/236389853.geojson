@@ -2,13 +2,14 @@
   "id": 236389853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303227,36.144336,-115.303227,36.144336",
     "geom:latitude":36.144336,
     "geom:longitude":-115.303227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9501 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236389853,
-    "wof:lastmodified":1449004436,
+    "wof:lastmodified":1466705192,
     "wof:name":"Romet Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.303227,36.144336,-115.303227,36.144336],
-  "geometry": {"coordinates":[-115.303227,36.144336],"type":"Point"}
+  "bbox": [
+    -115.303227,
+    36.144336,
+    -115.303227,
+    36.144336
+],
+  "geometry": {"coordinates":[-115.30322700000001,36.144336],"type":"Point"}
 }

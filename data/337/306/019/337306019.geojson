@@ -2,13 +2,14 @@
   "id": 337306019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.836173,39.594718,-119.836173,39.594718",
     "geom:latitude":39.594718,
     "geom:longitude":-119.836173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7720 Security Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337306019,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1466701862,
     "wof:name":"Lyle's Fire & Flood Rstrtn",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-119.836173,39.594718,-119.836173,39.594718],
+  "bbox": [
+    -119.836173,
+    39.594718,
+    -119.836173,
+    39.594718
+],
   "geometry": {"coordinates":[-119.836173,39.594718],"type":"Point"}
 }

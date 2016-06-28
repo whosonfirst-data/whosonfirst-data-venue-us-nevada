@@ -2,13 +2,14 @@
   "id": 370187473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278852,36.30839,-115.278852,36.30839",
     "geom:latitude":36.30839,
     "geom:longitude":-115.278852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8043 N Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370187473,
-    "wof:lastmodified":1449029589,
+    "wof:lastmodified":1466702231,
     "wof:name":"Water Wings Swim School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-115.278852,36.30839,-115.278852,36.30839],
+  "bbox": [
+    -115.278852,
+    36.30839,
+    -115.278852,
+    36.30839
+],
   "geometry": {"coordinates":[-115.278852,36.30839],"type":"Point"}
 }

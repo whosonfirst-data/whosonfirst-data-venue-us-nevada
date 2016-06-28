@@ -2,13 +2,14 @@
   "id": 219839907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068852,36.072936,-115.068852,36.072936",
     "geom:latitude":36.072936,
     "geom:longitude":-115.068852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Commerce Center Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219839907,
-    "wof:lastmodified":1449072511,
+    "wof:lastmodified":1466705280,
     "wof:name":"Yti Tucker Telecommunications",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-115.068852,36.072936,-115.068852,36.072936],
-  "geometry": {"coordinates":[-115.068852,36.072936],"type":"Point"}
+  "bbox": [
+    -115.068852,
+    36.072936,
+    -115.068852,
+    36.072936
+],
+  "geometry": {"coordinates":[-115.06885200000001,36.072936],"type":"Point"}
 }

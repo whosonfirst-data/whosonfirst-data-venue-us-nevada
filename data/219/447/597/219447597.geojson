@@ -2,13 +2,14 @@
   "id": 219447597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156693,36.054316,-115.156693,36.054316",
     "geom:latitude":36.054316,
     "geom:longitude":-115.156693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Prince George Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219447597,
-    "wof:lastmodified":1449072882,
+    "wof:lastmodified":1466703867,
     "wof:name":"Mann Properties",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-115.156693,36.054316,-115.156693,36.054316],
+  "bbox": [
+    -115.156693,
+    36.054316,
+    -115.156693,
+    36.054316
+],
   "geometry": {"coordinates":[-115.156693,36.054316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219994625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174147,36.222105,-115.174147,36.222105",
     "geom:latitude":36.222105,
     "geom:longitude":-115.174147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Bunkerhill Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219994625,
-    "wof:lastmodified":1449070552,
+    "wof:lastmodified":1466706073,
     "wof:name":"Realtech Realty",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.174147,36.222105,-115.174147,36.222105],
+  "bbox": [
+    -115.174147,
+    36.222105,
+    -115.174147,
+    36.222105
+],
   "geometry": {"coordinates":[-115.174147,36.222105],"type":"Point"}
 }

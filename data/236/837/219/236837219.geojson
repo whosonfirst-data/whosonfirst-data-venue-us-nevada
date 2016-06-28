@@ -2,13 +2,14 @@
   "id": 236837219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299215,36.221779,-115.299215,36.221779",
     "geom:latitude":36.221779,
     "geom:longitude":-115.299215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 Tall Wood Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236837219,
-    "wof:lastmodified":1449002062,
+    "wof:lastmodified":1466706815,
     "wof:name":"B & D Pool",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.299215,36.221779,-115.299215,36.221779],
+  "bbox": [
+    -115.299215,
+    36.221779,
+    -115.299215,
+    36.221779
+],
   "geometry": {"coordinates":[-115.299215,36.221779],"type":"Point"}
 }

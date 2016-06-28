@@ -2,13 +2,14 @@
   "id": 236486149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280507,36.040963,-115.280507,36.040963",
     "geom:latitude":36.040963,
     "geom:longitude":-115.280507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Whitly Bay Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236486149,
-    "wof:lastmodified":1449003502,
+    "wof:lastmodified":1466705732,
     "wof:name":"New York Shirts",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-115.280507,36.040963,-115.280507,36.040963],
+  "bbox": [
+    -115.280507,
+    36.040963,
+    -115.280507,
+    36.040963
+],
   "geometry": {"coordinates":[-115.280507,36.040963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236421913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137074,36.126903,-115.137074,36.126903",
     "geom:latitude":36.126903,
     "geom:longitude":-115.137074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236421913,
-    "wof:lastmodified":1449003804,
+    "wof:lastmodified":1466705578,
     "wof:name":"Silver State Wireless",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.137074,36.126903,-115.137074,36.126903],
+  "bbox": [
+    -115.137074,
+    36.126903,
+    -115.137074,
+    36.126903
+],
   "geometry": {"coordinates":[-115.137074,36.126903],"type":"Point"}
 }

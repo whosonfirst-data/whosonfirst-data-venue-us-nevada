@@ -2,13 +2,14 @@
   "id": 219158835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800628,39.457431,-119.800628,39.457431",
     "geom:latitude":39.457431,
     "geom:longitude":-119.800628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 View Crest Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219158835,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466701551,
     "wof:name":"Dynamic Excavating Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.800628,39.457431,-119.800628,39.457431],
+  "bbox": [
+    -119.800628,
+    39.457431,
+    -119.800628,
+    39.457431
+],
   "geometry": {"coordinates":[-119.800628,39.457431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354082611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13749,36.174047,-115.13749,36.174047",
     "geom:latitude":36.174047,
     "geom:longitude":-115.13749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354082611,
-    "wof:lastmodified":1449065986,
+    "wof:lastmodified":1466703665,
     "wof:name":"Superb Carpet Cleaning",
     "wof:parent_id":85892657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.13749,36.174047,-115.13749,36.174047],
+  "bbox": [
+    -115.13749,
+    36.174047,
+    -115.13749,
+    36.174047
+],
   "geometry": {"coordinates":[-115.13749,36.174047],"type":"Point"}
 }

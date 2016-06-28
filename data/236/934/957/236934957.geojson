@@ -2,13 +2,14 @@
   "id": 236934957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152032,36.140342,-115.152032,36.140342",
     "geom:latitude":36.140342,
     "geom:longitude":-115.152032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Karen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236934957,
-    "wof:lastmodified":1449001800,
+    "wof:lastmodified":1466706860,
     "wof:name":"Fine Decorating",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.152032,36.140342,-115.152032,36.140342],
-  "geometry": {"coordinates":[-115.152032,36.140342],"type":"Point"}
+  "bbox": [
+    -115.152032,
+    36.140342,
+    -115.152032,
+    36.140342
+],
+  "geometry": {"coordinates":[-115.15203200000001,36.140342],"type":"Point"}
 }

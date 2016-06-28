@@ -2,13 +2,14 @@
   "id": 219805707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095263,36.142754,-115.095263,36.142754",
     "geom:latitude":36.142754,
     "geom:longitude":-115.095263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Mc Laurine Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219805707,
-    "wof:lastmodified":1449071576,
+    "wof:lastmodified":1466705134,
     "wof:name":"Rhino Linings Of Las Vegas",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customizing"
     ]
 },
-  "bbox": [-115.095263,36.142754,-115.095263,36.142754],
+  "bbox": [
+    -115.095263,
+    36.142754,
+    -115.095263,
+    36.142754
+],
   "geometry": {"coordinates":[-115.095263,36.142754],"type":"Point"}
 }

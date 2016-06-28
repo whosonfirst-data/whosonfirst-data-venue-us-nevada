@@ -2,13 +2,14 @@
   "id": 370268691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286317,36.084881,-115.286317,36.084881",
     "geom:latitude":36.084881,
     "geom:longitude":-115.286317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8945 W Russell Rd Ste 170",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370268691,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1466704172,
     "wof:name":"Nova Southeastern University",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-115.286317,36.084881,-115.286317,36.084881],
+  "bbox": [
+    -115.286317,
+    36.084881,
+    -115.286317,
+    36.084881
+],
   "geometry": {"coordinates":[-115.286317,36.084881],"type":"Point"}
 }

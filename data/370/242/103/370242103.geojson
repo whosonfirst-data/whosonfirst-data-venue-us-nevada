@@ -2,13 +2,14 @@
   "id": 370242103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229087,36.125692,-115.229087,36.125692",
     "geom:latitude":36.125692,
     "geom:longitude":-115.229087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6280 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370242103,
-    "wof:lastmodified":1449032076,
+    "wof:lastmodified":1466703508,
     "wof:name":"21st Century Interior Design",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.229087,36.125692,-115.229087,36.125692],
-  "geometry": {"coordinates":[-115.229087,36.125692],"type":"Point"}
+  "bbox": [
+    -115.229087,
+    36.125692,
+    -115.229087,
+    36.125692
+],
+  "geometry": {"coordinates":[-115.22908700000001,36.125692],"type":"Point"}
 }

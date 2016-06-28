@@ -2,13 +2,14 @@
   "id": 370333101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762984,39.441812,-119.762984,39.441812",
     "geom:latitude":39.441812,
     "geom:longitude":-119.762984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Double Eagle Ct Ste 200",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -111,10 +112,11 @@
         }
     ],
     "wof:id":370333101,
-    "wof:lastmodified":1449032227,
+    "wof:lastmodified":1466704881,
     "wof:name":"AT&T Advertising Solutions",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -145,6 +147,11 @@
         "interactive"
     ]
 },
-  "bbox": [-119.762984,39.441812,-119.762984,39.441812],
+  "bbox": [
+    -119.762984,
+    39.441812,
+    -119.762984,
+    39.441812
+],
   "geometry": {"coordinates":[-119.762984,39.441812],"type":"Point"}
 }

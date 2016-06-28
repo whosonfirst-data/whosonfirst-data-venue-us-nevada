@@ -2,13 +2,14 @@
   "id": 236891455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.03242,36.21962,-116.03242,36.21962",
     "geom:latitude":36.21962,
     "geom:longitude":-116.03242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Linda St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236891455,
-    "wof:lastmodified":1449003679,
+    "wof:lastmodified":1466706793,
     "wof:name":"Seven Palms Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-116.03242,36.21962,-116.03242,36.21962],
+  "bbox": [
+    -116.03242,
+    36.21962,
+    -116.03242,
+    36.21962
+],
   "geometry": {"coordinates":[-116.03242,36.21962],"type":"Point"}
 }

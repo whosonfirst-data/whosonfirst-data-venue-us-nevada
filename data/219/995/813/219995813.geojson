@@ -2,13 +2,14 @@
   "id": 219995813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189966,36.108587,-115.189966,36.108587",
     "geom:latitude":36.108587,
     "geom:longitude":-115.189966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219995813,
-    "wof:lastmodified":1449073529,
+    "wof:lastmodified":1466706164,
     "wof:name":"Integrity Auto Svc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.189966,36.108587,-115.189966,36.108587],
+  "bbox": [
+    -115.189966,
+    36.108587,
+    -115.189966,
+    36.108587
+],
   "geometry": {"coordinates":[-115.189966,36.108587],"type":"Point"}
 }

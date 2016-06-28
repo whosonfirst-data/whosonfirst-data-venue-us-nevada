@@ -2,13 +2,14 @@
   "id": 354369953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099595,36.086174,-115.099595,36.086174",
     "geom:latitude":36.086174,
     "geom:longitude":-115.099595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 E Russell Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354369953,
-    "wof:lastmodified":1449067592,
+    "wof:lastmodified":1466705991,
     "wof:name":"Special Web Assistance Technologies",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.099595,36.086174,-115.099595,36.086174],
-  "geometry": {"coordinates":[-115.099595,36.086174],"type":"Point"}
+  "bbox": [
+    -115.099595,
+    36.086174,
+    -115.099595,
+    36.086174
+],
+  "geometry": {"coordinates":[-115.09959499999999,36.086174],"type":"Point"}
 }

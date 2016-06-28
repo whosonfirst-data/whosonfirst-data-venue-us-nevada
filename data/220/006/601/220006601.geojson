@@ -2,13 +2,14 @@
   "id": 220006601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.745968,40.849666,-115.745968,40.849666",
     "geom:latitude":40.849666,
     "geom:longitude":-115.745968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220006601,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466701488,
     "wof:name":"Pro Image",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sport"
     ]
 },
-  "bbox": [-115.745968,40.849666,-115.745968,40.849666],
+  "bbox": [
+    -115.745968,
+    40.849666,
+    -115.745968,
+    40.849666
+],
   "geometry": {"coordinates":[-115.745968,40.849666],"type":"Point"}
 }

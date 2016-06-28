@@ -2,13 +2,14 @@
   "id": 236920321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151921,36.149423,-115.151921,36.149423",
     "geom:latitude":36.149423,
     "geom:longitude":-115.151921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Weldon Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236920321,
-    "wof:lastmodified":1449004344,
+    "wof:lastmodified":1466706912,
     "wof:name":"KLAV",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-115.151921,36.149423,-115.151921,36.149423],
+  "bbox": [
+    -115.151921,
+    36.149423,
+    -115.151921,
+    36.149423
+],
   "geometry": {"coordinates":[-115.151921,36.149423],"type":"Point"}
 }

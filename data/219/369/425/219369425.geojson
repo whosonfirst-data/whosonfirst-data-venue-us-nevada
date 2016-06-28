@@ -2,13 +2,14 @@
   "id": 219369425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.328503,36.187788,-115.328503,36.187788",
     "geom:latitude":36.187788,
     "geom:longitude":-115.328503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Woodmore St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219369425,
-    "wof:lastmodified":1449073727,
+    "wof:lastmodified":1466703480,
     "wof:name":"Adam's Mobile Tools",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-115.328503,36.187788,-115.328503,36.187788],
+  "bbox": [
+    -115.328503,
+    36.187788,
+    -115.328503,
+    36.187788
+],
   "geometry": {"coordinates":[-115.328503,36.187788],"type":"Point"}
 }

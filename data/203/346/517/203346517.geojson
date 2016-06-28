@@ -2,13 +2,14 @@
   "id": 203346517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074309,36.144845,-115.074309,36.144845",
     "geom:latitude":36.144845,
     "geom:longitude":-115.074309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 S Arden St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203346517,
-    "wof:lastmodified":1449024932,
+    "wof:lastmodified":1466703122,
     "wof:name":"Switch Multimedia",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-115.074309,36.144845,-115.074309,36.144845],
+  "bbox": [
+    -115.074309,
+    36.144845,
+    -115.074309,
+    36.144845
+],
   "geometry": {"coordinates":[-115.074309,36.144845],"type":"Point"}
 }

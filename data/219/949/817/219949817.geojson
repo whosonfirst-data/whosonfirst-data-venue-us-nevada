@@ -2,13 +2,14 @@
   "id": 219949817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801399,39.505634,-119.801399,39.505634",
     "geom:latitude":39.505634,
     "geom:longitude":-119.801399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219949817,
-    "wof:lastmodified":1449072584,
+    "wof:lastmodified":1466705786,
     "wof:name":"Rainbow 515",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.801399,39.505634,-119.801399,39.505634],
+  "bbox": [
+    -119.801399,
+    39.505634,
+    -119.801399,
+    39.505634
+],
   "geometry": {"coordinates":[-119.801399,39.505634],"type":"Point"}
 }

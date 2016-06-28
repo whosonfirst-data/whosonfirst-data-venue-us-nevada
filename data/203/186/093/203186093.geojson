@@ -2,13 +2,14 @@
   "id": 203186093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055414,36.060348,-115.055414,36.060348",
     "geom:latitude":36.060348,
     "geom:longitude":-115.055414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Chelsea Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203186093,
-    "wof:lastmodified":1449026417,
+    "wof:lastmodified":1466701891,
     "wof:name":"Midwest Leasing & Lending",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-115.055414,36.060348,-115.055414,36.060348],
+  "bbox": [
+    -115.055414,
+    36.060348,
+    -115.055414,
+    36.060348
+],
   "geometry": {"coordinates":[-115.055414,36.060348],"type":"Point"}
 }

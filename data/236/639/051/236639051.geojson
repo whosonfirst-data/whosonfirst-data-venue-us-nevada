@@ -2,13 +2,14 @@
   "id": 236639051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.070043,36.058088,-115.070043,36.058088",
     "geom:latitude":36.058088,
     "geom:longitude":-115.070043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Wedgewood Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236639051,
-    "wof:lastmodified":1449005231,
+    "wof:lastmodified":1466706360,
     "wof:name":"No More Excuses  LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "raiser"
     ]
 },
-  "bbox": [-115.070043,36.058088,-115.070043,36.058088],
+  "bbox": [
+    -115.070043,
+    36.058088,
+    -115.070043,
+    36.058088
+],
   "geometry": {"coordinates":[-115.070043,36.058088],"type":"Point"}
 }

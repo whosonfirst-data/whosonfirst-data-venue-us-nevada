@@ -2,13 +2,14 @@
   "id": 219783927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.962441,39.246859,-119.962441,39.246859",
     "geom:latitude":39.246859,
     "geom:longitude":-119.962441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Mays Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219783927,
-    "wof:lastmodified":1449070485,
+    "wof:lastmodified":1466704991,
     "wof:name":"Cyber Success",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vitamin"
     ]
 },
-  "bbox": [-119.962441,39.246859,-119.962441,39.246859],
+  "bbox": [
+    -119.962441,
+    39.246859,
+    -119.962441,
+    39.246859
+],
   "geometry": {"coordinates":[-119.962441,39.246859],"type":"Point"}
 }

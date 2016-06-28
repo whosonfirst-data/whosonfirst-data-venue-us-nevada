@@ -2,13 +2,14 @@
   "id": 203348143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20343,36.117385,-115.20343,36.117385",
     "geom:latitude":36.117385,
     "geom:longitude":-115.20343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4553 Via San Marco",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203348143,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1466703133,
     "wof:name":"Pepper Enterprises",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.20343,36.117385,-115.20343,36.117385],
+  "bbox": [
+    -115.20343,
+    36.117385,
+    -115.20343,
+    36.117385
+],
   "geometry": {"coordinates":[-115.20343,36.117385],"type":"Point"}
 }

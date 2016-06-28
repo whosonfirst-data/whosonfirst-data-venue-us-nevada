@@ -2,13 +2,14 @@
   "id": 354010665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043165,36.057079,-115.043165,36.057079",
     "geom:latitude":36.057079,
     "geom:longitude":-115.043165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 W Craig Rd Unit 2",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354010665,
-    "wof:lastmodified":1449067007,
+    "wof:lastmodified":1466701750,
     "wof:name":"Straight from Philly Steakout Co",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.043165,36.057079,-115.043165,36.057079],
+  "bbox": [
+    -115.043165,
+    36.057079,
+    -115.043165,
+    36.057079
+],
   "geometry": {"coordinates":[-115.043165,36.057079],"type":"Point"}
 }

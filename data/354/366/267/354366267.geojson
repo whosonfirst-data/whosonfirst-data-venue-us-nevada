@@ -2,13 +2,14 @@
   "id": 354366267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091674,36.077428,-115.091674,36.077428",
     "geom:latitude":36.077428,
     "geom:longitude":-115.091674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6188 S Sandhill Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354366267,
-    "wof:lastmodified":1449067202,
+    "wof:lastmodified":1466706082,
     "wof:name":"Pompei Recording Studio",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "studio"
     ]
 },
-  "bbox": [-115.091674,36.077428,-115.091674,36.077428],
+  "bbox": [
+    -115.091674,
+    36.077428,
+    -115.091674,
+    36.077428
+],
   "geometry": {"coordinates":[-115.091674,36.077428],"type":"Point"}
 }

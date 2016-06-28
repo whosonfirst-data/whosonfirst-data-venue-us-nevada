@@ -2,13 +2,14 @@
   "id": 236610561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.944735,36.014461,-114.944735,36.014461",
     "geom:latitude":36.014461,
     "geom:longitude":-114.944735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Adcox Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236610561,
-    "wof:lastmodified":1449005186,
+    "wof:lastmodified":1466706372,
     "wof:name":"Moon Shine Marine Service",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.944735,36.014461,-114.944735,36.014461],
-  "geometry": {"coordinates":[-114.944735,36.014461],"type":"Point"}
+  "bbox": [
+    -114.944735,
+    36.014461,
+    -114.944735,
+    36.014461
+],
+  "geometry": {"coordinates":[-114.94473499999999,36.014461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370272781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287971,36.282386,-115.287971,36.282386",
     "geom:latitude":36.282386,
     "geom:longitude":-115.287971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6650 N Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370272781,
-    "wof:lastmodified":1449032228,
+    "wof:lastmodified":1466704313,
     "wof:name":"Spirit Halloween Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "costume"
     ]
 },
-  "bbox": [-115.287971,36.282386,-115.287971,36.282386],
+  "bbox": [
+    -115.287971,
+    36.282386,
+    -115.287971,
+    36.282386
+],
   "geometry": {"coordinates":[-115.287971,36.282386],"type":"Point"}
 }

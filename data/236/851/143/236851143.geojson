@@ -2,13 +2,14 @@
   "id": 236851143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.05166,36.014,-115.05166,36.014",
     "geom:latitude":36.014,
     "geom:longitude":-115.05166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Otsego Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236851143,
-    "wof:lastmodified":1449003900,
+    "wof:lastmodified":1466706608,
     "wof:name":"Sonell Enterprises",
     "wof:parent_id":85878103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.05166,36.014,-115.05166,36.014],
+  "bbox": [
+    -115.05166,
+    36.014,
+    -115.05166,
+    36.014
+],
   "geometry": {"coordinates":[-115.05166,36.014],"type":"Point"}
 }

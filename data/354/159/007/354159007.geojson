@@ -2,13 +2,14 @@
   "id": 354159007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194401,36.102431,-115.194401,36.102431",
     "geom:latitude":36.102431,
     "geom:longitude":-115.194401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 Wynn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354159007,
-    "wof:lastmodified":1449066145,
+    "wof:lastmodified":1466704752,
     "wof:name":"Star Nursery",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [-115.194401,36.102431,-115.194401,36.102431],
+  "bbox": [
+    -115.194401,
+    36.102431,
+    -115.194401,
+    36.102431
+],
   "geometry": {"coordinates":[-115.194401,36.102431],"type":"Point"}
 }

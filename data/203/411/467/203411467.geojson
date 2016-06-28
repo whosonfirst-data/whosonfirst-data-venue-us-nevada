@@ -2,13 +2,14 @@
   "id": 203411467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.849364,39.613148,-119.849364,39.613148",
     "geom:latitude":39.613148,
     "geom:longitude":-119.849364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Lemmon Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203411467,
-    "wof:lastmodified":1449025042,
+    "wof:lastmodified":1466703369,
     "wof:name":"Paycheck Advance",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-119.849364,39.613148,-119.849364,39.613148],
-  "geometry": {"coordinates":[-119.849364,39.613148],"type":"Point"}
+  "bbox": [
+    -119.849364,
+    39.613148,
+    -119.849364,
+    39.613148
+],
+  "geometry": {"coordinates":[-119.84936399999999,39.613148],"type":"Point"}
 }

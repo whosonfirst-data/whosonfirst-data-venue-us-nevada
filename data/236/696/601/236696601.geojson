@@ -2,13 +2,14 @@
   "id": 236696601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744226,39.534123,-119.744226,39.534123",
     "geom:latitude":39.534123,
     "geom:longitude":-119.744226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Nugget Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236696601,
-    "wof:lastmodified":1449001859,
+    "wof:lastmodified":1466706338,
     "wof:name":"Nevada Meat Packing Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-119.744226,39.534123,-119.744226,39.534123],
+  "bbox": [
+    -119.744226,
+    39.534123,
+    -119.744226,
+    39.534123
+],
   "geometry": {"coordinates":[-119.744226,39.534123],"type":"Point"}
 }

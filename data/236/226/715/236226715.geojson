@@ -2,13 +2,14 @@
   "id": 236226715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.794636,39.474841,-118.794636,39.474841",
     "geom:latitude":39.474841,
     "geom:longitude":-118.794636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236226715,
-    "wof:lastmodified":1449004158,
+    "wof:lastmodified":1466704113,
     "wof:name":"Smitten's Tire Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-118.794636,39.474841,-118.794636,39.474841],
+  "bbox": [
+    -118.794636,
+    39.474841,
+    -118.794636,
+    39.474841
+],
   "geometry": {"coordinates":[-118.794636,39.474841],"type":"Point"}
 }

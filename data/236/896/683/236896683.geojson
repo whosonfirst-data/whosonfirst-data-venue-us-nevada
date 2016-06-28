@@ -2,13 +2,14 @@
   "id": 236896683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820906,39.524898,-119.820906,39.524898",
     "geom:latitude":39.524898,
     "geom:longitude":-119.820906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Bell St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236896683,
-    "wof:lastmodified":1449002726,
+    "wof:lastmodified":1466706888,
     "wof:name":"Sierra Memorial Gardens",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-119.820906,39.524898,-119.820906,39.524898],
-  "geometry": {"coordinates":[-119.820906,39.524898],"type":"Point"}
+  "bbox": [
+    -119.820906,
+    39.524898,
+    -119.820906,
+    39.524898
+],
+  "geometry": {"coordinates":[-119.82090599999999,39.524898],"type":"Point"}
 }

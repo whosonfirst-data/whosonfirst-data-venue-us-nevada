@@ -2,13 +2,14 @@
   "id": 219315355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232737,36.274208,-115.232737,36.274208",
     "geom:latitude":36.274208,
     "geom:longitude":-115.232737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6229 Peggotty Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219315355,
-    "wof:lastmodified":1449073723,
+    "wof:lastmodified":1466703189,
     "wof:name":"European Music Market",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-115.232737,36.274208,-115.232737,36.274208],
+  "bbox": [
+    -115.232737,
+    36.274208,
+    -115.232737,
+    36.274208
+],
   "geometry": {"coordinates":[-115.232737,36.274208],"type":"Point"}
 }

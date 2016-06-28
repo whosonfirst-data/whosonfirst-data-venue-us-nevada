@@ -2,13 +2,14 @@
   "id": 236257747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080148,36.144239,-115.080148,36.144239",
     "geom:latitude":36.144239,
     "geom:longitude":-115.080148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236257747,
-    "wof:lastmodified":1449002448,
+    "wof:lastmodified":1466704254,
     "wof:name":"Air For Less Heating & Cooling",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.080148,36.144239,-115.080148,36.144239],
-  "geometry": {"coordinates":[-115.080148,36.144239],"type":"Point"}
+  "bbox": [
+    -115.080148,
+    36.144239,
+    -115.080148,
+    36.144239
+],
+  "geometry": {"coordinates":[-115.08014799999999,36.144239],"type":"Point"}
 }

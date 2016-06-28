@@ -2,13 +2,14 @@
   "id": 236339915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110226,36.100055,-115.110226,36.100055",
     "geom:latitude":36.100055,
     "geom:longitude":-115.110226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236339915,
-    "wof:lastmodified":1449003062,
+    "wof:lastmodified":1466704975,
     "wof:name":"SpeeDee Mart Inc",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.110226,36.100055,-115.110226,36.100055],
+  "bbox": [
+    -115.110226,
+    36.100055,
+    -115.110226,
+    36.100055
+],
   "geometry": {"coordinates":[-115.110226,36.100055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219864851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118946,36.105086,-115.118946,36.105086",
     "geom:latitude":36.105086,
     "geom:longitude":-115.118946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219864851,
-    "wof:lastmodified":1449073971,
+    "wof:lastmodified":1466705328,
     "wof:name":"First Nevada Merchant Svc",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-115.118946,36.105086,-115.118946,36.105086],
-  "geometry": {"coordinates":[-115.118946,36.105086],"type":"Point"}
+  "bbox": [
+    -115.118946,
+    36.105086,
+    -115.118946,
+    36.105086
+],
+  "geometry": {"coordinates":[-115.11894599999999,36.105086],"type":"Point"}
 }

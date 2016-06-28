@@ -2,13 +2,14 @@
   "id": 220052271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318118,36.19695,-115.318118,36.19695",
     "geom:latitude":36.19695,
     "geom:longitude":-115.318118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2037 Summer Blossom Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220052271,
-    "wof:lastmodified":1449074383,
+    "wof:lastmodified":1466702052,
     "wof:name":"Carlson Online Information",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "writing"
     ]
 },
-  "bbox": [-115.318118,36.19695,-115.318118,36.19695],
+  "bbox": [
+    -115.318118,
+    36.19695,
+    -115.318118,
+    36.19695
+],
   "geometry": {"coordinates":[-115.318118,36.19695],"type":"Point"}
 }

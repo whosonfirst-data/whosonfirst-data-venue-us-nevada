@@ -2,13 +2,14 @@
   "id": 252711749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.289831,36.237411,-115.289831,36.237411",
     "geom:latitude":36.237411,
     "geom:longitude":-115.289831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8840 Hickam Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252711749,
-    "wof:lastmodified":1449006310,
+    "wof:lastmodified":1466701553,
     "wof:name":"A Mobile Notary",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-115.289831,36.237411,-115.289831,36.237411],
-  "geometry": {"coordinates":[-115.289831,36.237411],"type":"Point"}
+  "bbox": [
+    -115.289831,
+    36.237411,
+    -115.289831,
+    36.237411
+],
+  "geometry": {"coordinates":[-115.28983100000001,36.237411],"type":"Point"}
 }

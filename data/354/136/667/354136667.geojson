@@ -2,13 +2,14 @@
   "id": 354136667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182881,36.133561,-115.182881,36.133561",
     "geom:latitude":36.133561,
     "geom:longitude":-115.182881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Sirius Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354136667,
-    "wof:lastmodified":1449067655,
+    "wof:lastmodified":1466704316,
     "wof:name":"Level One",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.182881,36.133561,-115.182881,36.133561],
-  "geometry": {"coordinates":[-115.182881,36.133561],"type":"Point"}
+  "bbox": [
+    -115.182881,
+    36.133561,
+    -115.182881,
+    36.133561
+],
+  "geometry": {"coordinates":[-115.18288099999999,36.133561],"type":"Point"}
 }

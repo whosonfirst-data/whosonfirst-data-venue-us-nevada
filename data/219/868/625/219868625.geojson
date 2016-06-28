@@ -2,13 +2,14 @@
   "id": 219868625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.124895,36.098121,-115.124895,36.098121",
     "geom:latitude":36.098121,
     "geom:longitude":-115.124895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5040 Reno Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219868625,
-    "wof:lastmodified":1449070536,
+    "wof:lastmodified":1466705587,
     "wof:name":"Jag Media Design",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-115.124895,36.098121,-115.124895,36.098121],
+  "bbox": [
+    -115.124895,
+    36.098121,
+    -115.124895,
+    36.098121
+],
   "geometry": {"coordinates":[-115.124895,36.098121],"type":"Point"}
 }

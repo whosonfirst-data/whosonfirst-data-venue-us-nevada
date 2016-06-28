@@ -2,13 +2,14 @@
   "id": 236425205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180534,36.159002,-115.180534,36.159002",
     "geom:latitude":36.159002,
     "geom:longitude":-115.180534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236425205,
-    "wof:lastmodified":1449002683,
+    "wof:lastmodified":1466705478,
     "wof:name":"Brenner & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-115.180534,36.159002,-115.180534,36.159002],
-  "geometry": {"coordinates":[-115.180534,36.159002],"type":"Point"}
+  "bbox": [
+    -115.180534,
+    36.159002,
+    -115.180534,
+    36.159002
+],
+  "geometry": {"coordinates":[-115.18053399999999,36.159002],"type":"Point"}
 }

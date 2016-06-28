@@ -2,13 +2,14 @@
   "id": 219703299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322029,36.13447,-115.322029,36.13447",
     "geom:latitude":36.13447,
     "geom:longitude":-115.322029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3122 Coleshill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219703299,
-    "wof:lastmodified":1449071472,
+    "wof:lastmodified":1466704485,
     "wof:name":"Southern Contracting",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "window"
     ]
 },
-  "bbox": [-115.322029,36.13447,-115.322029,36.13447],
+  "bbox": [
+    -115.322029,
+    36.13447,
+    -115.322029,
+    36.13447
+],
   "geometry": {"coordinates":[-115.322029,36.13447],"type":"Point"}
 }

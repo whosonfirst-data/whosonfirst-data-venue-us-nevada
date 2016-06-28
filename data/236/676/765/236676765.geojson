@@ -2,13 +2,14 @@
   "id": 236676765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.633824,39.387163,-119.633824,39.387163",
     "geom:latitude":39.387163,
     "geom:longitude":-119.633824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Lousetown Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236676765,
-    "wof:lastmodified":1449003831,
+    "wof:lastmodified":1466706591,
     "wof:name":"Von Breisach Enterpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-119.633824,39.387163,-119.633824,39.387163],
+  "bbox": [
+    -119.633824,
+    39.387163,
+    -119.633824,
+    39.387163
+],
   "geometry": {"coordinates":[-119.633824,39.387163],"type":"Point"}
 }

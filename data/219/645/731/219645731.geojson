@@ -2,13 +2,14 @@
   "id": 219645731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110228,36.092104,-115.110228,36.092104",
     "geom:latitude":36.092104,
     "geom:longitude":-115.110228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2846 Marida Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219645731,
-    "wof:lastmodified":1449070744,
+    "wof:lastmodified":1466703739,
     "wof:name":"R C Consultants Inc",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.110228,36.092104,-115.110228,36.092104],
-  "geometry": {"coordinates":[-115.110228,36.092104],"type":"Point"}
+  "bbox": [
+    -115.110228,
+    36.092104,
+    -115.110228,
+    36.092104
+],
+  "geometry": {"coordinates":[-115.11022800000001,36.092104],"type":"Point"}
 }

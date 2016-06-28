@@ -2,13 +2,14 @@
   "id": 219794117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116798,36.245123,-115.116798,36.245123",
     "geom:latitude":36.245123,
     "geom:longitude":-115.116798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219794117,
-    "wof:lastmodified":1449072089,
+    "wof:lastmodified":1466704923,
     "wof:name":"Cramaro Tarpaulin Systems Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.116798,36.245123,-115.116798,36.245123],
+  "bbox": [
+    -115.116798,
+    36.245123,
+    -115.116798,
+    36.245123
+],
   "geometry": {"coordinates":[-115.116798,36.245123],"type":"Point"}
 }

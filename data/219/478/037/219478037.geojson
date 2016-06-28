@@ -2,13 +2,14 @@
   "id": 219478037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.830982,39.506198,-119.830982,39.506198",
     "geom:latitude":39.506198,
     "geom:longitude":-119.830982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Lillian Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219478037,
-    "wof:lastmodified":1449070488,
+    "wof:lastmodified":1466704062,
     "wof:name":"Taylor Land & Cattle",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.830982,39.506198,-119.830982,39.506198],
-  "geometry": {"coordinates":[-119.830982,39.506198],"type":"Point"}
+  "bbox": [
+    -119.830982,
+    39.506198,
+    -119.830982,
+    39.506198
+],
+  "geometry": {"coordinates":[-119.83098200000001,39.506198],"type":"Point"}
 }

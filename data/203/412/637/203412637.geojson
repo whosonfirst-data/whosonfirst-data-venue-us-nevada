@@ -2,13 +2,14 @@
   "id": 203412637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122923,35.960657,-115.122923,35.960657",
     "geom:latitude":35.960657,
     "geom:longitude":-115.122923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1799 Sebring Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203412637,
-    "wof:lastmodified":1449025317,
+    "wof:lastmodified":1466703379,
     "wof:name":"Dw Uebbing Sales",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-115.122923,35.960657,-115.122923,35.960657],
+  "bbox": [
+    -115.122923,
+    35.960657,
+    -115.122923,
+    35.960657
+],
   "geometry": {"coordinates":[-115.122923,35.960657],"type":"Point"}
 }

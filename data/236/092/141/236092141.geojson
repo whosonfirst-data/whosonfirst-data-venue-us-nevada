@@ -2,13 +2,14 @@
   "id": 236092141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264141,36.191665,-115.264141,36.191665",
     "geom:latitude":36.191665,
     "geom:longitude":-115.264141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 Sierra Paseo Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236092141,
-    "wof:lastmodified":1449004502,
+    "wof:lastmodified":1466704150,
     "wof:name":"Uncle Bucks Dollar Store",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-115.264141,36.191665,-115.264141,36.191665],
+  "bbox": [
+    -115.264141,
+    36.191665,
+    -115.264141,
+    36.191665
+],
   "geometry": {"coordinates":[-115.264141,36.191665],"type":"Point"}
 }

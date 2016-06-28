@@ -2,13 +2,14 @@
   "id": 219907533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.09677,35.999754,-115.09677,35.999754",
     "geom:latitude":35.999754,
     "geom:longitude":-115.09677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Barnegat Bay St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219907533,
-    "wof:lastmodified":1449073637,
+    "wof:lastmodified":1466705670,
     "wof:name":"Viva Services",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.09677,35.999754,-115.09677,35.999754],
-  "geometry": {"coordinates":[-115.09677,35.999754],"type":"Point"}
+  "bbox": [
+    -115.09677,
+    35.999754,
+    -115.09677,
+    35.999754
+],
+  "geometry": {"coordinates":[-115.09677000000001,35.999754],"type":"Point"}
 }

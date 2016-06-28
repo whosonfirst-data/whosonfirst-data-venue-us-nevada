@@ -2,13 +2,14 @@
   "id": 337291697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136942,36.130312,-115.136942,36.130312",
     "geom:latitude":36.130312,
     "geom:longitude":-115.136942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337291697,
-    "wof:lastmodified":1449027193,
+    "wof:lastmodified":1466701523,
     "wof:name":"Club Pacific Lakes",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.136942,36.130312,-115.136942,36.130312],
+  "bbox": [
+    -115.136942,
+    36.130312,
+    -115.136942,
+    36.130312
+],
   "geometry": {"coordinates":[-115.136942,36.130312],"type":"Point"}
 }

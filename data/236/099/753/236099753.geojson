@@ -2,13 +2,14 @@
   "id": 236099753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211639,35.991356,-115.211639,35.991356",
     "geom:latitude":35.991356,
     "geom:longitude":-115.211639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 Nardini Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236099753,
-    "wof:lastmodified":1449003868,
+    "wof:lastmodified":1466701533,
     "wof:name":"Bachelor Vegas",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"
     ]
 },
-  "bbox": [-115.211639,35.991356,-115.211639,35.991356],
-  "geometry": {"coordinates":[-115.211639,35.991356],"type":"Point"}
+  "bbox": [
+    -115.211639,
+    35.991356,
+    -115.211639,
+    35.991356
+],
+  "geometry": {"coordinates":[-115.21163900000001,35.991356],"type":"Point"}
 }

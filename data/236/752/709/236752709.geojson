@@ -2,13 +2,14 @@
   "id": 236752709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802073,39.462126,-119.802073,39.462126",
     "geom:latitude":39.462126,
     "geom:longitude":-119.802073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 del Monte Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236752709,
-    "wof:lastmodified":1449002088,
+    "wof:lastmodified":1466706678,
     "wof:name":"Pet Folio Magazine",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-119.802073,39.462126,-119.802073,39.462126],
-  "geometry": {"coordinates":[-119.802073,39.462126],"type":"Point"}
+  "bbox": [
+    -119.802073,
+    39.462126,
+    -119.802073,
+    39.462126
+],
+  "geometry": {"coordinates":[-119.80207299999999,39.462126],"type":"Point"}
 }

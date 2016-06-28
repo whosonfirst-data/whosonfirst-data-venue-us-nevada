@@ -2,13 +2,14 @@
   "id": 370212585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.323659,36.189069,-115.323659,36.189069",
     "geom:latitude":36.189069,
     "geom:longitude":-115.323659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Rappeling Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370212585,
-    "wof:lastmodified":1449031264,
+    "wof:lastmodified":1466702867,
     "wof:name":"Skalak Swim School",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"
     ]
 },
-  "bbox": [-115.323659,36.189069,-115.323659,36.189069],
-  "geometry": {"coordinates":[-115.323659,36.189069],"type":"Point"}
+  "bbox": [
+    -115.323659,
+    36.189069,
+    -115.323659,
+    36.189069
+],
+  "geometry": {"coordinates":[-115.32365900000001,36.189069],"type":"Point"}
 }

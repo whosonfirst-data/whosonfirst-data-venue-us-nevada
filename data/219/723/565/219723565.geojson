@@ -2,13 +2,14 @@
   "id": 219723565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777554,39.093228,-119.777554,39.093228",
     "geom:latitude":39.093228,
     "geom:longitude":-119.777554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 Opalite Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219723565,
-    "wof:lastmodified":1449072450,
+    "wof:lastmodified":1466704457,
     "wof:name":"Book Buddies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.777554,39.093228,-119.777554,39.093228],
-  "geometry": {"coordinates":[-119.777554,39.093228],"type":"Point"}
+  "bbox": [
+    -119.777554,
+    39.093228,
+    -119.777554,
+    39.093228
+],
+  "geometry": {"coordinates":[-119.77755399999999,39.093228],"type":"Point"}
 }

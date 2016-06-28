@@ -2,13 +2,14 @@
   "id": 236161627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189793,36.084863,-115.189793,36.084863",
     "geom:latitude":36.084863,
     "geom:longitude":-115.189793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236161627,
-    "wof:lastmodified":1449002867,
+    "wof:lastmodified":1466702805,
     "wof:name":"Imaging Technologies",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "room"
     ]
 },
-  "bbox": [-115.189793,36.084863,-115.189793,36.084863],
-  "geometry": {"coordinates":[-115.189793,36.084863],"type":"Point"}
+  "bbox": [
+    -115.189793,
+    36.084863,
+    -115.189793,
+    36.084863
+],
+  "geometry": {"coordinates":[-115.18979299999999,36.084863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236472559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.987247,35.998747,-114.987247,35.998747",
     "geom:latitude":35.998747,
     "geom:longitude":-114.987247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Westin Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236472559,
-    "wof:lastmodified":1449001868,
+    "wof:lastmodified":1466705696,
     "wof:name":"Launi Kristopher Band",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-114.987247,35.998747,-114.987247,35.998747],
+  "bbox": [
+    -114.987247,
+    35.998747,
+    -114.987247,
+    35.998747
+],
   "geometry": {"coordinates":[-114.987247,35.998747],"type":"Point"}
 }

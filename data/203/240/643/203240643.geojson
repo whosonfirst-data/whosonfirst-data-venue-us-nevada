@@ -2,13 +2,14 @@
   "id": 203240643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.889571,39.520954,-119.889571,39.520954",
     "geom:latitude":39.520954,
     "geom:longitude":-119.889571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6369 Park Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203240643,
-    "wof:lastmodified":1449025136,
+    "wof:lastmodified":1466702436,
     "wof:name":"Tracey Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.889571,39.520954,-119.889571,39.520954],
+  "bbox": [
+    -119.889571,
+    39.520954,
+    -119.889571,
+    39.520954
+],
   "geometry": {"coordinates":[-119.889571,39.520954],"type":"Point"}
 }

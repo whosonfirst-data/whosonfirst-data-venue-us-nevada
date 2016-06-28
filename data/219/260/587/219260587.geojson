@@ -2,13 +2,14 @@
   "id": 219260587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.138854,39.588984,-119.138854,39.588984",
     "geom:latitude":39.588984,
     "geom:longitude":-119.138854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Wedge Ln",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219260587,
-    "wof:lastmodified":1449070973,
+    "wof:lastmodified":1466702638,
     "wof:name":"Lawrence J Reagan Ea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-119.138854,39.588984,-119.138854,39.588984],
-  "geometry": {"coordinates":[-119.138854,39.588984],"type":"Point"}
+  "bbox": [
+    -119.138854,
+    39.588984,
+    -119.138854,
+    39.588984
+],
+  "geometry": {"coordinates":[-119.13885399999999,39.588984],"type":"Point"}
 }

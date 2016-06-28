@@ -2,13 +2,14 @@
   "id": 236049007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105626,36.08578,-115.105626,36.08578",
     "geom:latitude":36.08578,
     "geom:longitude":-115.105626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 Paintedhills Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236049007,
-    "wof:lastmodified":1449003253,
+    "wof:lastmodified":1466704260,
     "wof:name":"Gator Pools",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.105626,36.08578,-115.105626,36.08578],
+  "bbox": [
+    -115.105626,
+    36.08578,
+    -115.105626,
+    36.08578
+],
   "geometry": {"coordinates":[-115.105626,36.08578],"type":"Point"}
 }

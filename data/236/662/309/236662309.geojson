@@ -2,13 +2,14 @@
   "id": 236662309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74797,39.484726,-119.74797,39.484726",
     "geom:latitude":39.484726,
     "geom:longitude":-119.74797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3372 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236662309,
-    "wof:lastmodified":1449003961,
+    "wof:lastmodified":1466706584,
     "wof:name":"Porky's",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.74797,39.484726,-119.74797,39.484726],
+  "bbox": [
+    -119.74797,
+    39.484726,
+    -119.74797,
+    39.484726
+],
   "geometry": {"coordinates":[-119.74797,39.484726],"type":"Point"}
 }

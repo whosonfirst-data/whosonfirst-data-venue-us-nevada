@@ -2,13 +2,14 @@
   "id": 236354381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747237,38.96494,-119.747237,38.96494",
     "geom:latitude":38.96494,
     "geom:longitude":-119.747237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Baler St",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236354381,
-    "wof:lastmodified":1449004797,
+    "wof:lastmodified":1466704967,
     "wof:name":"Minden Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.747237,38.96494,-119.747237,38.96494],
+  "bbox": [
+    -119.747237,
+    38.96494,
+    -119.747237,
+    38.96494
+],
   "geometry": {"coordinates":[-119.747237,38.96494],"type":"Point"}
 }

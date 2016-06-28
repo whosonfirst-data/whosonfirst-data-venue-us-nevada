@@ -2,13 +2,14 @@
   "id": 219472295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.961313,39.247751,-119.961313,39.247751",
     "geom:latitude":39.247751,
     "geom:longitude":-119.961313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"799 Southwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219472295,
-    "wof:lastmodified":1449070664,
+    "wof:lastmodified":1466704035,
     "wof:name":"Presbyterian Womens Thrift Shp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-119.961313,39.247751,-119.961313,39.247751],
+  "bbox": [
+    -119.961313,
+    39.247751,
+    -119.961313,
+    39.247751
+],
   "geometry": {"coordinates":[-119.961313,39.247751],"type":"Point"}
 }

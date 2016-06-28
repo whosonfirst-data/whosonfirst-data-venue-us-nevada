@@ -2,13 +2,14 @@
   "id": 236084203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803205,39.510563,-119.803205,39.510563",
     "geom:latitude":39.510563,
     "geom:longitude":-119.803205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236084203,
-    "wof:lastmodified":1449001944,
+    "wof:lastmodified":1466704112,
     "wof:name":"Nieves Income Tax",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-119.803205,39.510563,-119.803205,39.510563],
-  "geometry": {"coordinates":[-119.803205,39.510563],"type":"Point"}
+  "bbox": [
+    -119.803205,
+    39.510563,
+    -119.803205,
+    39.510563
+],
+  "geometry": {"coordinates":[-119.80320500000001,39.510563],"type":"Point"}
 }

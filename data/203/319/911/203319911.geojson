@@ -2,13 +2,14 @@
   "id": 203319911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062345,36.024473,-115.062345,36.024473",
     "geom:latitude":36.024473,
     "geom:longitude":-115.062345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 S Valle Verde Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319911,
-    "wof:lastmodified":1449025690,
+    "wof:lastmodified":1466702981,
     "wof:name":"Your Concierge LLC",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.062345,36.024473,-115.062345,36.024473],
-  "geometry": {"coordinates":[-115.062345,36.024473],"type":"Point"}
+  "bbox": [
+    -115.062345,
+    36.024473,
+    -115.062345,
+    36.024473
+],
+  "geometry": {"coordinates":[-115.06234499999999,36.024473],"type":"Point"}
 }

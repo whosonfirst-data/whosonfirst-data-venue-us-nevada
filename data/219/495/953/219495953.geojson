@@ -2,13 +2,14 @@
   "id": 219495953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794909,39.494966,-119.794909,39.494966",
     "geom:latitude":39.494966,
     "geom:longitude":-119.794909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Gentry Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219495953,
-    "wof:lastmodified":1449071948,
+    "wof:lastmodified":1466704145,
     "wof:name":"Medic One Automotive",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.794909,39.494966,-119.794909,39.494966],
+  "bbox": [
+    -119.794909,
+    39.494966,
+    -119.794909,
+    39.494966
+],
   "geometry": {"coordinates":[-119.794909,39.494966],"type":"Point"}
 }

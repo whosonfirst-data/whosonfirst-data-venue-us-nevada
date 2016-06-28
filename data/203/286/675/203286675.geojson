@@ -2,13 +2,14 @@
   "id": 203286675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272456,36.190738,-115.272456,36.190738",
     "geom:latitude":36.190738,
     "geom:longitude":-115.272456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Pueblo Vista Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203286675,
-    "wof:lastmodified":1449025412,
+    "wof:lastmodified":1466702734,
     "wof:name":"St Elizabeth Ann Seaton",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-115.272456,36.190738,-115.272456,36.190738],
-  "geometry": {"coordinates":[-115.272456,36.190738],"type":"Point"}
+  "bbox": [
+    -115.272456,
+    36.190738,
+    -115.272456,
+    36.190738
+],
+  "geometry": {"coordinates":[-115.27245600000001,36.190738],"type":"Point"}
 }

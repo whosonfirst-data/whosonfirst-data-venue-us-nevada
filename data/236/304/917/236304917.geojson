@@ -2,13 +2,14 @@
   "id": 236304917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119869,36.174048,-115.119869,36.174048",
     "geom:latitude":36.174048,
     "geom:longitude":-115.119869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236304917,
-    "wof:lastmodified":1449004232,
+    "wof:lastmodified":1466704734,
     "wof:name":"Dominican Service of Las",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.119869,36.174048,-115.119869,36.174048],
-  "geometry": {"coordinates":[-115.119869,36.174048],"type":"Point"}
+  "bbox": [
+    -115.119869,
+    36.174048,
+    -115.119869,
+    36.174048
+],
+  "geometry": {"coordinates":[-115.11986899999999,36.174048],"type":"Point"}
 }

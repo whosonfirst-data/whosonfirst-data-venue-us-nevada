@@ -2,13 +2,14 @@
   "id": 370333189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760595,39.44557,-119.760595,39.44557",
     "geom:latitude":39.44557,
     "geom:longitude":-119.760595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9492 Double R Blvd Suite A",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":370333189,
-    "wof:lastmodified":1449032227,
+    "wof:lastmodified":1466704883,
     "wof:name":"Ann M. Campbell DMD, FAGD",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.760595,39.44557,-119.760595,39.44557],
+  "bbox": [
+    -119.760595,
+    39.44557,
+    -119.760595,
+    39.44557
+],
   "geometry": {"coordinates":[-119.760595,39.44557],"type":"Point"}
 }

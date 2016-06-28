@@ -2,13 +2,14 @@
   "id": 370193063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24748,36.303136,-115.24748,36.303136",
     "geom:latitude":36.303136,
     "geom:longitude":-115.24748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7810 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":370193063,
-    "wof:lastmodified":1449029631,
+    "wof:lastmodified":1466702335,
     "wof:name":"Gilcrease Orchard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veggie"
     ]
 },
-  "bbox": [-115.24748,36.303136,-115.24748,36.303136],
+  "bbox": [
+    -115.24748,
+    36.303136,
+    -115.24748,
+    36.303136
+],
   "geometry": {"coordinates":[-115.24748,36.303136],"type":"Point"}
 }

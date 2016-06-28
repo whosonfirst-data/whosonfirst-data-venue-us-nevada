@@ -2,13 +2,14 @@
   "id": 354024201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148854,36.195827,-115.148854,36.195827",
     "geom:latitude":36.195827,
     "geom:longitude":-115.148854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Lake Mead Blvd Ste 110",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354024201,
-    "wof:lastmodified":1449066733,
+    "wof:lastmodified":1466702106,
     "wof:name":"Ok Beauty Supply",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.148854,36.195827,-115.148854,36.195827],
+  "bbox": [
+    -115.148854,
+    36.195827,
+    -115.148854,
+    36.195827
+],
   "geometry": {"coordinates":[-115.148854,36.195827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219427473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735307,39.178859,-119.735307,39.178859",
     "geom:latitude":39.178859,
     "geom:longitude":-119.735307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Nichols Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219427473,
-    "wof:lastmodified":1449071461,
+    "wof:lastmodified":1466703765,
     "wof:name":"Papa Mac Enterprises",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-119.735307,39.178859,-119.735307,39.178859],
-  "geometry": {"coordinates":[-119.735307,39.178859],"type":"Point"}
+  "bbox": [
+    -119.735307,
+    39.178859,
+    -119.735307,
+    39.178859
+],
+  "geometry": {"coordinates":[-119.73530700000001,39.178859],"type":"Point"}
 }

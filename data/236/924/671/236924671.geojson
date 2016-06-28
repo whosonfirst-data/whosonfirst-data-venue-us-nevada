@@ -2,13 +2,14 @@
   "id": 236924671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735181,39.20603,-119.735181,39.20603",
     "geom:latitude":39.20603,
     "geom:longitude":-119.735181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 Sigstrom Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236924671,
-    "wof:lastmodified":1449002379,
+    "wof:lastmodified":1466706852,
     "wof:name":"Protomatics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-119.735181,39.20603,-119.735181,39.20603],
+  "bbox": [
+    -119.735181,
+    39.20603,
+    -119.735181,
+    39.20603
+],
   "geometry": {"coordinates":[-119.735181,39.20603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236693201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172423,36.03362,-115.172423,36.03362",
     "geom:latitude":36.03362,
     "geom:longitude":-115.172423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236693201,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466706452,
     "wof:name":"Scotty Beans LLC",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-115.172423,36.03362,-115.172423,36.03362],
-  "geometry": {"coordinates":[-115.172423,36.03362],"type":"Point"}
+  "bbox": [
+    -115.172423,
+    36.03362,
+    -115.172423,
+    36.03362
+],
+  "geometry": {"coordinates":[-115.17242299999999,36.03362],"type":"Point"}
 }

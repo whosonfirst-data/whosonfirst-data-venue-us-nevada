@@ -2,13 +2,14 @@
   "id": 354244811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136631,36.141346,-115.136631,36.141346",
     "geom:latitude":36.141346,
     "geom:longitude":-115.136631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354244811,
-    "wof:lastmodified":1449066591,
+    "wof:lastmodified":1466705440,
     "wof:name":"Burke Steven L DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136631,36.141346,-115.136631,36.141346],
-  "geometry": {"coordinates":[-115.136631,36.141346],"type":"Point"}
+  "bbox": [
+    -115.136631,
+    36.141346,
+    -115.136631,
+    36.141346
+],
+  "geometry": {"coordinates":[-115.13663099999999,36.141346],"type":"Point"}
 }

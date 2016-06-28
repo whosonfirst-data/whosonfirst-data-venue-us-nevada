@@ -2,13 +2,14 @@
   "id": 236568685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.732489,40.972285,-117.732489,40.972285",
     "geom:latitude":40.972285,
     "geom:longitude":-117.732489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E 5th St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236568685,
-    "wof:lastmodified":1449001621,
+    "wof:lastmodified":1466706170,
     "wof:name":"Family To Family Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "birth"
     ]
 },
-  "bbox": [-117.732489,40.972285,-117.732489,40.972285],
+  "bbox": [
+    -117.732489,
+    40.972285,
+    -117.732489,
+    40.972285
+],
   "geometry": {"coordinates":[-117.732489,40.972285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370183115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.234001,36.241501,-115.234001,36.241501",
     "geom:latitude":36.241501,
     "geom:longitude":-115.234001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4490 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370183115,
-    "wof:lastmodified":1449030893,
+    "wof:lastmodified":1466702168,
     "wof:name":"Susie's Deals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.234001,36.241501,-115.234001,36.241501],
-  "geometry": {"coordinates":[-115.234001,36.241501],"type":"Point"}
+  "bbox": [
+    -115.234001,
+    36.241501,
+    -115.234001,
+    36.241501
+],
+  "geometry": {"coordinates":[-115.23400100000001,36.241501],"type":"Point"}
 }

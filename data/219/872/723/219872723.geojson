@@ -2,13 +2,14 @@
   "id": 219872723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174692,36.14439,-115.174692,36.14439",
     "geom:latitude":36.14439,
     "geom:longitude":-115.174692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219872723,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466705607,
     "wof:name":"Blimpie",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.174692,36.14439,-115.174692,36.14439],
-  "geometry": {"coordinates":[-115.174692,36.14439],"type":"Point"}
+  "bbox": [
+    -115.174692,
+    36.14439,
+    -115.174692,
+    36.14439
+],
+  "geometry": {"coordinates":[-115.17469199999999,36.14439],"type":"Point"}
 }

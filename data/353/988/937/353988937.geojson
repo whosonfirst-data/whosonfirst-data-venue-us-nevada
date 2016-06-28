@@ -2,13 +2,14 @@
   "id": 353988937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.998519,36.068879,-114.998519,36.068879",
     "geom:latitude":36.068879,
     "geom:longitude":-114.998519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Sunpac Court",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353988937,
-    "wof:lastmodified":1449019138,
+    "wof:lastmodified":1466701559,
     "wof:name":"California Design & Construction",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.998519,36.068879,-114.998519,36.068879],
+  "bbox": [
+    -114.998519,
+    36.068879,
+    -114.998519,
+    36.068879
+],
   "geometry": {"coordinates":[-114.998519,36.068879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219283203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747303,39.195628,-119.747303,39.195628",
     "geom:latitude":39.195628,
     "geom:longitude":-119.747303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3868 Goni Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219283203,
-    "wof:lastmodified":1449071447,
+    "wof:lastmodified":1466702874,
     "wof:name":"Industrial Logistics Svc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "machinery"
     ]
 },
-  "bbox": [-119.747303,39.195628,-119.747303,39.195628],
+  "bbox": [
+    -119.747303,
+    39.195628,
+    -119.747303,
+    39.195628
+],
   "geometry": {"coordinates":[-119.747303,39.195628],"type":"Point"}
 }

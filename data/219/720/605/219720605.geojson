@@ -2,13 +2,14 @@
   "id": 219720605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259584,36.196045,-115.259584,36.196045",
     "geom:latitude":36.196045,
     "geom:longitude":-115.259584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7331 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219720605,
-    "wof:lastmodified":1449071235,
+    "wof:lastmodified":1466704718,
     "wof:name":"Destination Salon Spa",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.259584,36.196045,-115.259584,36.196045],
+  "bbox": [
+    -115.259584,
+    36.196045,
+    -115.259584,
+    36.196045
+],
   "geometry": {"coordinates":[-115.259584,36.196045],"type":"Point"}
 }

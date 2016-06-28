@@ -2,13 +2,14 @@
   "id": 354307309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269997,36.142399,-115.269997,36.142399",
     "geom:latitude":36.142399,
     "geom:longitude":-115.269997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 S Cimarron Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354307309,
-    "wof:lastmodified":1449066353,
+    "wof:lastmodified":1466705763,
     "wof:name":"Appointments For Evenings & Saturdays",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.269997,36.142399,-115.269997,36.142399],
+  "bbox": [
+    -115.269997,
+    36.142399,
+    -115.269997,
+    36.142399
+],
   "geometry": {"coordinates":[-115.269997,36.142399],"type":"Point"}
 }

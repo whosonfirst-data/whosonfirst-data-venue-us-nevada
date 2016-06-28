@@ -2,13 +2,14 @@
   "id": 219223741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.692075,39.622398,-119.692075,39.622398",
     "geom:latitude":39.622398,
     "geom:longitude":-119.692075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7390 Little Easy St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219223741,
-    "wof:lastmodified":1449070625,
+    "wof:lastmodified":1466702267,
     "wof:name":"Great Basin Painting & Dctg",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.692075,39.622398,-119.692075,39.622398],
+  "bbox": [
+    -119.692075,
+    39.622398,
+    -119.692075,
+    39.622398
+],
   "geometry": {"coordinates":[-119.692075,39.622398],"type":"Point"}
 }

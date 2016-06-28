@@ -2,13 +2,14 @@
   "id": 354255501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163337,36.133625,-115.163337,36.133625",
     "geom:latitude":36.133625,
     "geom:longitude":-115.163337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2985 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354255501,
-    "wof:lastmodified":1449066687,
+    "wof:lastmodified":1466705401,
     "wof:name":"The Peppermill Restaurant & Fireside Lounge",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-115.163337,36.133625,-115.163337,36.133625],
+  "bbox": [
+    -115.163337,
+    36.133625,
+    -115.163337,
+    36.133625
+],
   "geometry": {"coordinates":[-115.163337,36.133625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370352919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776248,39.110208,-119.776248,39.110208",
     "geom:latitude":39.110208,
     "geom:longitude":-119.776248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Topsy Ln #238",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370352919,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1466705056,
     "wof:name":"Bike Habitat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-119.776248,39.110208,-119.776248,39.110208],
+  "bbox": [
+    -119.776248,
+    39.110208,
+    -119.776248,
+    39.110208
+],
   "geometry": {"coordinates":[-119.776248,39.110208],"type":"Point"}
 }

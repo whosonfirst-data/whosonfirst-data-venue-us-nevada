@@ -2,13 +2,14 @@
   "id": 354068911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211003,36.238148,-115.211003,36.238148",
     "geom:latitude":36.238148,
     "geom:longitude":-115.211003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 W Craig At Decatur",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354068911,
-    "wof:lastmodified":1449066805,
+    "wof:lastmodified":1466703285,
     "wof:name":"Creative Kids Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.211003,36.238148,-115.211003,36.238148],
-  "geometry": {"coordinates":[-115.211003,36.238148],"type":"Point"}
+  "bbox": [
+    -115.211003,
+    36.238148,
+    -115.211003,
+    36.238148
+],
+  "geometry": {"coordinates":[-115.21100300000001,36.238148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220017147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734405,39.515606,-119.734405,39.515606",
     "geom:latitude":39.515606,
     "geom:longitude":-119.734405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220017147,
-    "wof:lastmodified":1449074477,
+    "wof:lastmodified":1466701617,
     "wof:name":"Total Touch Up Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "custom"
     ]
 },
-  "bbox": [-119.734405,39.515606,-119.734405,39.515606],
+  "bbox": [
+    -119.734405,
+    39.515606,
+    -119.734405,
+    39.515606
+],
   "geometry": {"coordinates":[-119.734405,39.515606],"type":"Point"}
 }

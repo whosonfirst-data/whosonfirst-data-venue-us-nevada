@@ -2,13 +2,14 @@
   "id": 354089257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1433,36.167528,-115.1433,36.167528",
     "geom:latitude":36.167528,
     "geom:longitude":-115.1433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S 4th Street Suite 6",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354089257,
-    "wof:lastmodified":1449066272,
+    "wof:lastmodified":1466703848,
     "wof:name":"Rsm McGladrey",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.1433,36.167528,-115.1433,36.167528],
+  "bbox": [
+    -115.1433,
+    36.167528,
+    -115.1433,
+    36.167528
+],
   "geometry": {"coordinates":[-115.1433,36.167528],"type":"Point"}
 }

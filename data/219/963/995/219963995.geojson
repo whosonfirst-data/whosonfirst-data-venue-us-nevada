@@ -2,13 +2,14 @@
   "id": 219963995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205436,36.227909,-115.205436,36.227909",
     "geom:latitude":36.227909,
     "geom:longitude":-115.205436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4633 Denali",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219963995,
-    "wof:lastmodified":1449070726,
+    "wof:lastmodified":1466706029,
     "wof:name":"Scoggins Antoinette",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.205436,36.227909,-115.205436,36.227909],
-  "geometry": {"coordinates":[-115.205436,36.227909],"type":"Point"}
+  "bbox": [
+    -115.205436,
+    36.227909,
+    -115.205436,
+    36.227909
+],
+  "geometry": {"coordinates":[-115.20543600000001,36.227909],"type":"Point"}
 }

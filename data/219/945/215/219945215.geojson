@@ -2,13 +2,14 @@
   "id": 219945215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.037168,36.103019,-115.037168,36.103019",
     "geom:latitude":36.103019,
     "geom:longitude":-115.037168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 Alkaid Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219945215,
-    "wof:lastmodified":1449070692,
+    "wof:lastmodified":1466705743,
     "wof:name":"Immaculate Driveways & Windows",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wash"
     ]
 },
-  "bbox": [-115.037168,36.103019,-115.037168,36.103019],
-  "geometry": {"coordinates":[-115.037168,36.103019],"type":"Point"}
+  "bbox": [
+    -115.037168,
+    36.103019,
+    -115.037168,
+    36.103019
+],
+  "geometry": {"coordinates":[-115.03716799999999,36.103019],"type":"Point"}
 }

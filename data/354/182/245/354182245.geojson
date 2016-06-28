@@ -2,13 +2,14 @@
   "id": 354182245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15352,36.145391,-115.15352,36.145391",
     "geom:latitude":36.145391,
     "geom:longitude":-115.15352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354182245,
-    "wof:lastmodified":1449067046,
+    "wof:lastmodified":1466704903,
     "wof:name":"Cash For Gold",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-115.15352,36.145391,-115.15352,36.145391],
+  "bbox": [
+    -115.15352,
+    36.145391,
+    -115.15352,
+    36.145391
+],
   "geometry": {"coordinates":[-115.15352,36.145391],"type":"Point"}
 }

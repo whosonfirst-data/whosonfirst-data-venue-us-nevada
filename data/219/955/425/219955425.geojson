@@ -2,13 +2,14 @@
   "id": 219955425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.746861,39.482151,-119.746861,39.482151",
     "geom:latitude":39.482151,
     "geom:longitude":-119.746861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 Sierra Madre Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219955425,
-    "wof:lastmodified":1449072841,
+    "wof:lastmodified":1466705957,
     "wof:name":"Payless Cleaning",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.746861,39.482151,-119.746861,39.482151],
+  "bbox": [
+    -119.746861,
+    39.482151,
+    -119.746861,
+    39.482151
+],
   "geometry": {"coordinates":[-119.746861,39.482151],"type":"Point"}
 }

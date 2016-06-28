@@ -2,13 +2,14 @@
   "id": 354110491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19769,36.126348,-115.19769,36.126348",
     "geom:latitude":36.126348,
     "geom:longitude":-115.19769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Spring Mountain Rd Ste C104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354110491,
-    "wof:lastmodified":1449066472,
+    "wof:lastmodified":1466704527,
     "wof:name":"No 1 Boba Tea",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "smoothy"
     ]
 },
-  "bbox": [-115.19769,36.126348,-115.19769,36.126348],
-  "geometry": {"coordinates":[-115.19769,36.126348],"type":"Point"}
+  "bbox": [
+    -115.19769,
+    36.126348,
+    -115.19769,
+    36.126348
+],
+  "geometry": {"coordinates":[-115.19768999999999,36.126348],"type":"Point"}
 }

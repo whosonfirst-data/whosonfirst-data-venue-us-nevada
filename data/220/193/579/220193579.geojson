@@ -2,13 +2,14 @@
   "id": 220193579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.033881,36.204056,-116.033881,36.204056",
     "geom:latitude":36.204056,
     "geom:longitude":-116.033881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Bunch St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220193579,
-    "wof:lastmodified":1449074170,
+    "wof:lastmodified":1466703043,
     "wof:name":"Gary Brockway-Herbalife Distri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.033881,36.204056,-116.033881,36.204056],
-  "geometry": {"coordinates":[-116.033881,36.204056],"type":"Point"}
+  "bbox": [
+    -116.033881,
+    36.204056,
+    -116.033881,
+    36.204056
+],
+  "geometry": {"coordinates":[-116.03388099999999,36.204056],"type":"Point"}
 }

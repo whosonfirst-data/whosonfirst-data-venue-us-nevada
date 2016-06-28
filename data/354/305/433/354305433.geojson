@@ -2,13 +2,14 @@
   "id": 354305433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.289125,36.158032,-115.289125,36.158032",
     "geom:latitude":36.158032,
     "geom:longitude":-115.289125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8975 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354305433,
-    "wof:lastmodified":1449066189,
+    "wof:lastmodified":1466705756,
     "wof:name":"V Nail",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.289125,36.158032,-115.289125,36.158032],
+  "bbox": [
+    -115.289125,
+    36.158032,
+    -115.289125,
+    36.158032
+],
   "geometry": {"coordinates":[-115.289125,36.158032],"type":"Point"}
 }

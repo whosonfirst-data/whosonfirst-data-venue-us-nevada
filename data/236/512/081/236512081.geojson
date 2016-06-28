@@ -2,13 +2,14 @@
   "id": 236512081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.96202,39.249839,-119.96202,39.249839",
     "geom:latitude":39.249839,
     "geom:longitude":-119.96202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Southwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236512081,
-    "wof:lastmodified":1449004163,
+    "wof:lastmodified":1466705874,
     "wof:name":"Universal Games Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.96202,39.249839,-119.96202,39.249839],
+  "bbox": [
+    -119.96202,
+    39.249839,
+    -119.96202,
+    39.249839
+],
   "geometry": {"coordinates":[-119.96202,39.249839],"type":"Point"}
 }

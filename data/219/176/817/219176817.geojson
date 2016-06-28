@@ -2,13 +2,14 @@
   "id": 219176817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.914597,36.087155,-114.914597,36.087155",
     "geom:latitude":36.087155,
     "geom:longitude":-114.914597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219176817,
-    "wof:lastmodified":1449072686,
+    "wof:lastmodified":1466701923,
     "wof:name":"Laker Plaza",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-114.914597,36.087155,-114.914597,36.087155],
+  "bbox": [
+    -114.914597,
+    36.087155,
+    -114.914597,
+    36.087155
+],
   "geometry": {"coordinates":[-114.914597,36.087155],"type":"Point"}
 }

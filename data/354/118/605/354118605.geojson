@@ -2,13 +2,14 @@
   "id": 354118605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198949,36.12709,-115.198949,36.12709",
     "geom:latitude":36.12709,
     "geom:longitude":-115.198949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3460 Arville St Ste 11",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354118605,
-    "wof:lastmodified":1449067316,
+    "wof:lastmodified":1466704403,
     "wof:name":"Hair One Salon",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.198949,36.12709,-115.198949,36.12709],
+  "bbox": [
+    -115.198949,
+    36.12709,
+    -115.198949,
+    36.12709
+],
   "geometry": {"coordinates":[-115.198949,36.12709],"type":"Point"}
 }

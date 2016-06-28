@@ -2,13 +2,14 @@
   "id": 219832943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.124081,35.980565,-115.124081,35.980565",
     "geom:latitude":35.980565,
     "geom:longitude":-115.124081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3064 Lookout Valley Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219832943,
-    "wof:lastmodified":1449070384,
+    "wof:lastmodified":1466705359,
     "wof:name":"Dallimore LLC",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.124081,35.980565,-115.124081,35.980565],
+  "bbox": [
+    -115.124081,
+    35.980565,
+    -115.124081,
+    35.980565
+],
   "geometry": {"coordinates":[-115.124081,35.980565],"type":"Point"}
 }

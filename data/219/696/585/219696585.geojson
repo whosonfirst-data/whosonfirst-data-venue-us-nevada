@@ -2,13 +2,14 @@
   "id": 219696585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752648,39.529429,-119.752648,39.529429",
     "geom:latitude":39.529429,
     "geom:longitude":-119.752648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Dermody Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219696585,
-    "wof:lastmodified":1449070652,
+    "wof:lastmodified":1466704420,
     "wof:name":"Royal Wholesale Electric",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.752648,39.529429,-119.752648,39.529429],
-  "geometry": {"coordinates":[-119.752648,39.529429],"type":"Point"}
+  "bbox": [
+    -119.752648,
+    39.529429,
+    -119.752648,
+    39.529429
+],
+  "geometry": {"coordinates":[-119.75264799999999,39.529429],"type":"Point"}
 }

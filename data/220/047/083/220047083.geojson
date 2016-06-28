@@ -2,13 +2,14 @@
   "id": 220047083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185563,36.093599,-115.185563,36.093599",
     "geom:latitude":36.093599,
     "geom:longitude":-115.185563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220047083,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466701946,
     "wof:name":"Campbell Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.185563,36.093599,-115.185563,36.093599],
+  "bbox": [
+    -115.185563,
+    36.093599,
+    -115.185563,
+    36.093599
+],
   "geometry": {"coordinates":[-115.185563,36.093599],"type":"Point"}
 }

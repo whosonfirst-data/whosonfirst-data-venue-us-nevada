@@ -2,13 +2,14 @@
   "id": 219814387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.732845,39.556418,-119.732845,39.556418",
     "geom:latitude":39.556418,
     "geom:longitude":-119.732845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219814387,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466705154,
     "wof:name":"Faith Family Fellowship",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.732845,39.556418,-119.732845,39.556418],
+  "bbox": [
+    -119.732845,
+    39.556418,
+    -119.732845,
+    39.556418
+],
   "geometry": {"coordinates":[-119.732845,39.556418],"type":"Point"}
 }

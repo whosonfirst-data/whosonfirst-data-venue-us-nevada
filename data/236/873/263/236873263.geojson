@@ -2,13 +2,14 @@
   "id": 236873263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141724,36.005217,-115.141724,36.005217",
     "geom:latitude":36.005217,
     "geom:longitude":-115.141724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10174 Penny Royal St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236873263,
-    "wof:lastmodified":1449002197,
+    "wof:lastmodified":1466706877,
     "wof:name":"Superior Maids 'N' Trades",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maid"
     ]
 },
-  "bbox": [-115.141724,36.005217,-115.141724,36.005217],
+  "bbox": [
+    -115.141724,
+    36.005217,
+    -115.141724,
+    36.005217
+],
   "geometry": {"coordinates":[-115.141724,36.005217],"type":"Point"}
 }

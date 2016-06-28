@@ -2,13 +2,14 @@
   "id": 235948537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242359,36.267492,-115.242359,36.267492",
     "geom:latitude":36.267492,
     "geom:longitude":-115.242359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5810 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235948537,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466703512,
     "wof:name":"Kathy Higby MA Mft Ladc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.242359,36.267492,-115.242359,36.267492],
-  "geometry": {"coordinates":[-115.242359,36.267492],"type":"Point"}
+  "bbox": [
+    -115.242359,
+    36.267492,
+    -115.242359,
+    36.267492
+],
+  "geometry": {"coordinates":[-115.24235899999999,36.267492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219769687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.063683,36.810692,-114.063683,36.810692",
     "geom:latitude":36.810692,
     "geom:longitude":-114.063683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 N Sandhill Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219769687,
-    "wof:lastmodified":1449071566,
+    "wof:lastmodified":1466704790,
     "wof:name":"Chinese Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.063683,36.810692,-114.063683,36.810692],
+  "bbox": [
+    -114.063683,
+    36.810692,
+    -114.063683,
+    36.810692
+],
   "geometry": {"coordinates":[-114.063683,36.810692],"type":"Point"}
 }

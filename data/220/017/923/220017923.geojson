@@ -2,13 +2,14 @@
   "id": 220017923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.078443,36.236839,-115.078443,36.236839",
     "geom:latitude":36.236839,
     "geom:longitude":-115.078443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Arctic Spring Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220017923,
-    "wof:lastmodified":1449074477,
+    "wof:lastmodified":1466701635,
     "wof:name":"Southwest Bind N Stix",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.078443,36.236839,-115.078443,36.236839],
-  "geometry": {"coordinates":[-115.078443,36.236839],"type":"Point"}
+  "bbox": [
+    -115.078443,
+    36.236839,
+    -115.078443,
+    36.236839
+],
+  "geometry": {"coordinates":[-115.07844299999999,36.236839],"type":"Point"}
 }

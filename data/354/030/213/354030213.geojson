@@ -2,13 +2,14 @@
   "id": 354030213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116416,36.193105,-115.116416,36.193105",
     "geom:latitude":36.193105,
     "geom:longitude":-115.116416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Civic Center Drive",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354030213,
-    "wof:lastmodified":1449066537,
+    "wof:lastmodified":1466702281,
     "wof:name":"Zephyrene C Villaluz MD Chtd",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.116416,36.193105,-115.116416,36.193105],
+  "bbox": [
+    -115.116416,
+    36.193105,
+    -115.116416,
+    36.193105
+],
   "geometry": {"coordinates":[-115.116416,36.193105],"type":"Point"}
 }

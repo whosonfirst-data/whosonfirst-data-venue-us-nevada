@@ -2,13 +2,14 @@
   "id": 219490319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094216,35.966714,-115.094216,35.966714",
     "geom:latitude":35.966714,
     "geom:longitude":-115.094216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Bloomfield Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219490319,
-    "wof:lastmodified":1449073562,
+    "wof:lastmodified":1466704111,
     "wof:name":"Lewis Holdings LLC",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-115.094216,35.966714,-115.094216,35.966714],
+  "bbox": [
+    -115.094216,
+    35.966714,
+    -115.094216,
+    35.966714
+],
   "geometry": {"coordinates":[-115.094216,35.966714],"type":"Point"}
 }

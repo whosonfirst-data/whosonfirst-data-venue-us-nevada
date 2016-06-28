@@ -2,13 +2,14 @@
   "id": 220133765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241739,36.01499,-115.241739,36.01499",
     "geom:latitude":36.01499,
     "geom:longitude":-115.241739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6787 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220133765,
-    "wof:lastmodified":1449074716,
+    "wof:lastmodified":1466702633,
     "wof:name":"Las Vegas Pick-A-Part",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-115.241739,36.01499,-115.241739,36.01499],
+  "bbox": [
+    -115.241739,
+    36.01499,
+    -115.241739,
+    36.01499
+],
   "geometry": {"coordinates":[-115.241739,36.01499],"type":"Point"}
 }

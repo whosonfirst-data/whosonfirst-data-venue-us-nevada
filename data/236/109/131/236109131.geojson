@@ -2,13 +2,14 @@
   "id": 236109131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.857343,35.971427,-114.857343,35.971427",
     "geom:latitude":35.971427,
     "geom:longitude":-114.857343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1640 Foothill Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236109131,
-    "wof:lastmodified":1449002656,
+    "wof:lastmodified":1466701714,
     "wof:name":"Desert Electric Inc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "electrical"
     ]
 },
-  "bbox": [-114.857343,35.971427,-114.857343,35.971427],
+  "bbox": [
+    -114.857343,
+    35.971427,
+    -114.857343,
+    35.971427
+],
   "geometry": {"coordinates":[-114.857343,35.971427],"type":"Point"}
 }

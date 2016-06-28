@@ -2,13 +2,14 @@
   "id": 236092615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.766718,40.82848,-115.766718,40.82848",
     "geom:latitude":40.82848,
     "geom:longitude":-115.766718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 W Commercial St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236092615,
-    "wof:lastmodified":1449004501,
+    "wof:lastmodified":1466704161,
     "wof:name":"Steam Store Of Elko",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-115.766718,40.82848,-115.766718,40.82848],
+  "bbox": [
+    -115.766718,
+    40.82848,
+    -115.766718,
+    40.82848
+],
   "geometry": {"coordinates":[-115.766718,40.82848],"type":"Point"}
 }

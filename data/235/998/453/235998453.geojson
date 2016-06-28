@@ -2,13 +2,14 @@
   "id": 235998453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29214,36.309132,-115.29214,36.309132",
     "geom:latitude":36.309132,
     "geom:longitude":-115.29214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8924 Crooked Shell Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235998453,
-    "wof:lastmodified":1449008373,
+    "wof:lastmodified":1466703741,
     "wof:name":"King of Clubs",
     "wof:parent_id":85892681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-115.29214,36.309132,-115.29214,36.309132],
+  "bbox": [
+    -115.29214,
+    36.309132,
+    -115.29214,
+    36.309132
+],
   "geometry": {"coordinates":[-115.29214,36.309132],"type":"Point"}
 }

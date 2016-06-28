@@ -2,13 +2,14 @@
   "id": 236586337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.041367,36.220819,-116.041367,36.220819",
     "geom:latitude":36.220819,
     "geom:longitude":-116.041367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N David St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236586337,
-    "wof:lastmodified":1449004790,
+    "wof:lastmodified":1466706225,
     "wof:name":"N Love Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-116.041367,36.220819,-116.041367,36.220819],
-  "geometry": {"coordinates":[-116.041367,36.220819],"type":"Point"}
+  "bbox": [
+    -116.041367,
+    36.220819,
+    -116.041367,
+    36.220819
+],
+  "geometry": {"coordinates":[-116.04136699999999,36.220819],"type":"Point"}
 }

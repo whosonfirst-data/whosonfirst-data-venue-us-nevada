@@ -2,13 +2,14 @@
   "id": 354007785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.036944,36.050801,-115.036944,36.050801",
     "geom:latitude":36.050801,
     "geom:longitude":-115.036944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Desert Knolls Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007785,
-    "wof:lastmodified":1449067357,
+    "wof:lastmodified":1466701666,
     "wof:name":"Las Vegas Mobile Notaries",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-115.036944,36.050801,-115.036944,36.050801],
-  "geometry": {"coordinates":[-115.036944,36.050801],"type":"Point"}
+  "bbox": [
+    -115.036944,
+    36.050801,
+    -115.036944,
+    36.050801
+],
+  "geometry": {"coordinates":[-115.03694400000001,36.050801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370261283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288916,36.115425,-115.288916,36.115425",
     "geom:latitude":36.115425,
     "geom:longitude":-115.288916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9030 W Flamingo Rd Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370261283,
-    "wof:lastmodified":1449029124,
+    "wof:lastmodified":1466703964,
     "wof:name":"Celebrity Tailors",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alteration"
     ]
 },
-  "bbox": [-115.288916,36.115425,-115.288916,36.115425],
+  "bbox": [
+    -115.288916,
+    36.115425,
+    -115.288916,
+    36.115425
+],
   "geometry": {"coordinates":[-115.288916,36.115425],"type":"Point"}
 }

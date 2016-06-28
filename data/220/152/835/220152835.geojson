@@ -2,13 +2,14 @@
   "id": 220152835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287605,36.104771,-115.287605,36.104771",
     "geom:latitude":36.104771,
     "geom:longitude":-115.287605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8987 Odense Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220152835,
-    "wof:lastmodified":1449074650,
+    "wof:lastmodified":1466702788,
     "wof:name":"Troubadour Entertainment Inc",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-115.287605,36.104771,-115.287605,36.104771],
+  "bbox": [
+    -115.287605,
+    36.104771,
+    -115.287605,
+    36.104771
+],
   "geometry": {"coordinates":[-115.287605,36.104771],"type":"Point"}
 }

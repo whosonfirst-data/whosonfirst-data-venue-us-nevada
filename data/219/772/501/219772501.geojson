@@ -2,13 +2,14 @@
   "id": 219772501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174538,36.015438,-115.174538,36.015438",
     "geom:latitude":36.015438,
     "geom:longitude":-115.174538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219772501,
-    "wof:lastmodified":1449071982,
+    "wof:lastmodified":1466704920,
     "wof:name":"Saint James P L Apartments",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.174538,36.015438,-115.174538,36.015438],
+  "bbox": [
+    -115.174538,
+    36.015438,
+    -115.174538,
+    36.015438
+],
   "geometry": {"coordinates":[-115.174538,36.015438],"type":"Point"}
 }

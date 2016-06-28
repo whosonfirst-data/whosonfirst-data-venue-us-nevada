@@ -2,13 +2,14 @@
   "id": 354070555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149002,36.165401,-115.149002,36.165401",
     "geom:latitude":36.165401,
     "geom:longitude":-115.149002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Bonneville Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354070555,
-    "wof:lastmodified":1449066744,
+    "wof:lastmodified":1466703331,
     "wof:name":"Blalock Edward Atty",
     "wof:parent_id":85866199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.149002,36.165401,-115.149002,36.165401],
+  "bbox": [
+    -115.149002,
+    36.165401,
+    -115.149002,
+    36.165401
+],
   "geometry": {"coordinates":[-115.149002,36.165401],"type":"Point"}
 }

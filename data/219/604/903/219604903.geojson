@@ -2,13 +2,14 @@
   "id": 219604903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136053,36.163023,-115.136053,36.163023",
     "geom:latitude":36.163023,
     "geom:longitude":-115.136053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S 11th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219604903,
-    "wof:lastmodified":1449073506,
+    "wof:lastmodified":1466703001,
     "wof:name":"S M McMurray",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136053,36.163023,-115.136053,36.163023],
+  "bbox": [
+    -115.136053,
+    36.163023,
+    -115.136053,
+    36.163023
+],
   "geometry": {"coordinates":[-115.136053,36.163023],"type":"Point"}
 }

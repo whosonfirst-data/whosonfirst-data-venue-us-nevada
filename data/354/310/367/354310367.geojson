@@ -2,13 +2,14 @@
   "id": 354310367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299142,36.144595,-115.299142,36.144595",
     "geom:latitude":36.144595,
     "geom:longitude":-115.299142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9320 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354310367,
-    "wof:lastmodified":1449066988,
+    "wof:lastmodified":1466705775,
     "wof:name":"University Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.299142,36.144595,-115.299142,36.144595],
+  "bbox": [
+    -115.299142,
+    36.144595,
+    -115.299142,
+    36.144595
+],
   "geometry": {"coordinates":[-115.299142,36.144595],"type":"Point"}
 }

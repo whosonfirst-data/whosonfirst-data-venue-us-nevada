@@ -2,13 +2,14 @@
   "id": 219441965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983308,36.018947,-114.983308,36.018947",
     "geom:latitude":36.018947,
     "geom:longitude":-114.983308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Canyon Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219441965,
-    "wof:lastmodified":1449070658,
+    "wof:lastmodified":1466703842,
     "wof:name":"Andersen Hoeram & Excavation",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.983308,36.018947,-114.983308,36.018947],
-  "geometry": {"coordinates":[-114.983308,36.018947],"type":"Point"}
+  "bbox": [
+    -114.983308,
+    36.018947,
+    -114.983308,
+    36.018947
+],
+  "geometry": {"coordinates":[-114.98330799999999,36.018947],"type":"Point"}
 }

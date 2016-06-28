@@ -2,13 +2,14 @@
   "id": 236180639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.998487,36.054214,-114.998487,36.054214",
     "geom:latitude":36.054214,
     "geom:longitude":-114.998487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236180639,
-    "wof:lastmodified":1449001779,
+    "wof:lastmodified":1466703194,
     "wof:name":"F Dfs",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.998487,36.054214,-114.998487,36.054214],
+  "bbox": [
+    -114.998487,
+    36.054214,
+    -114.998487,
+    36.054214
+],
   "geometry": {"coordinates":[-114.998487,36.054214],"type":"Point"}
 }

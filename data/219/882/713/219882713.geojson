@@ -2,13 +2,14 @@
   "id": 219882713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203958,36.098623,-115.203958,36.098623",
     "geom:latitude":36.098623,
     "geom:longitude":-115.203958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5075 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219882713,
-    "wof:lastmodified":1449071026,
+    "wof:lastmodified":1466705546,
     "wof:name":"Delco Concrete Products Corp",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "product"
     ]
 },
-  "bbox": [-115.203958,36.098623,-115.203958,36.098623],
+  "bbox": [
+    -115.203958,
+    36.098623,
+    -115.203958,
+    36.098623
+],
   "geometry": {"coordinates":[-115.203958,36.098623],"type":"Point"}
 }

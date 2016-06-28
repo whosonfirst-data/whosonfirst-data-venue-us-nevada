@@ -2,13 +2,14 @@
   "id": 235936075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.476151,40.214798,-118.476151,40.214798",
     "geom:latitude":40.214798,
     "geom:longitude":-118.476151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 N Meridian Rd",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235936075,
-    "wof:lastmodified":1449008374,
+    "wof:lastmodified":1466703453,
     "wof:name":"Western Nev Cattle Feeders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-118.476151,40.214798,-118.476151,40.214798],
+  "bbox": [
+    -118.476151,
+    40.214798,
+    -118.476151,
+    40.214798
+],
   "geometry": {"coordinates":[-118.476151,40.214798],"type":"Point"}
 }

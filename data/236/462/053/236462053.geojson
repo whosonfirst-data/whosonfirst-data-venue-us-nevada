@@ -2,13 +2,14 @@
   "id": 236462053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.777047,39.473931,-118.777047,39.473931",
     "geom:latitude":39.473931,
     "geom:longitude":-118.777047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 S Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236462053,
-    "wof:lastmodified":1449005093,
+    "wof:lastmodified":1466705761,
     "wof:name":"Spee-Dee Mailing Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-118.777047,39.473931,-118.777047,39.473931],
+  "bbox": [
+    -118.777047,
+    39.473931,
+    -118.777047,
+    39.473931
+],
   "geometry": {"coordinates":[-118.777047,39.473931],"type":"Point"}
 }

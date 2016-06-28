@@ -2,13 +2,14 @@
   "id": 219852817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069144,36.074376,-115.069144,36.074376",
     "geom:latitude":36.074376,
     "geom:longitude":-115.069144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Commerce Center Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219852817,
-    "wof:lastmodified":1449073320,
+    "wof:lastmodified":1466705385,
     "wof:name":"Green Valley Church Of Christ",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.069144,36.074376,-115.069144,36.074376],
-  "geometry": {"coordinates":[-115.069144,36.074376],"type":"Point"}
+  "bbox": [
+    -115.069144,
+    36.074376,
+    -115.069144,
+    36.074376
+],
+  "geometry": {"coordinates":[-115.06914399999999,36.074376],"type":"Point"}
 }

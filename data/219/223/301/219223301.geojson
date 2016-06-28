@@ -2,13 +2,14 @@
   "id": 219223301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210076,35.997835,-115.210076,35.997835",
     "geom:latitude":35.997835,
     "geom:longitude":-115.210076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10583 Beech Creek St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219223301,
-    "wof:lastmodified":1449070626,
+    "wof:lastmodified":1466702257,
     "wof:name":"RG Global Inc",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.210076,35.997835,-115.210076,35.997835],
+  "bbox": [
+    -115.210076,
+    35.997835,
+    -115.210076,
+    35.997835
+],
   "geometry": {"coordinates":[-115.210076,35.997835],"type":"Point"}
 }

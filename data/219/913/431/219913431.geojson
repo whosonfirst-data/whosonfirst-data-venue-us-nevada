@@ -2,13 +2,14 @@
   "id": 219913431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227564,36.192497,-115.227564,36.192497",
     "geom:latitude":36.192497,
     "geom:longitude":-115.227564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6161 Candlewood Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219913431,
-    "wof:lastmodified":1449071751,
+    "wof:lastmodified":1466705703,
     "wof:name":"Rk Fire Protection",
     "wof:parent_id":85892713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-115.227564,36.192497,-115.227564,36.192497],
+  "bbox": [
+    -115.227564,
+    36.192497,
+    -115.227564,
+    36.192497
+],
   "geometry": {"coordinates":[-115.227564,36.192497],"type":"Point"}
 }

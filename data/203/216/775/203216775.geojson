@@ -2,13 +2,14 @@
   "id": 203216775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772317,39.559434,-119.772317,39.559434",
     "geom:latitude":39.559434,
     "geom:longitude":-119.772317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Green Vista Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203216775,
-    "wof:lastmodified":1449026651,
+    "wof:lastmodified":1466702208,
     "wof:name":"CH2M Hill",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.772317,39.559434,-119.772317,39.559434],
+  "bbox": [
+    -119.772317,
+    39.559434,
+    -119.772317,
+    39.559434
+],
   "geometry": {"coordinates":[-119.772317,39.559434],"type":"Point"}
 }

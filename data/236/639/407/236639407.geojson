@@ -2,13 +2,14 @@
   "id": 236639407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.979741,36.204963,-115.979741,36.204963",
     "geom:latitude":36.204963,
     "geom:longitude":-115.979741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236639407,
-    "wof:lastmodified":1449005231,
+    "wof:lastmodified":1466706361,
     "wof:name":"Three Amigos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.979741,36.204963,-115.979741,36.204963],
+  "bbox": [
+    -115.979741,
+    36.204963,
+    -115.979741,
+    36.204963
+],
   "geometry": {"coordinates":[-115.979741,36.204963],"type":"Point"}
 }

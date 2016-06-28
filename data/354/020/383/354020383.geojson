@@ -2,13 +2,14 @@
   "id": 354020383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.982645,36.033171,-114.982645,36.033171",
     "geom:latitude":36.033171,
     "geom:longitude":-114.982645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 E Army St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354020383,
-    "wof:lastmodified":1449066711,
+    "wof:lastmodified":1466702031,
     "wof:name":"City Lights Art Gallery",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.982645,36.033171,-114.982645,36.033171],
-  "geometry": {"coordinates":[-114.982645,36.033171],"type":"Point"}
+  "bbox": [
+    -114.982645,
+    36.033171,
+    -114.982645,
+    36.033171
+],
+  "geometry": {"coordinates":[-114.98264500000001,36.033171],"type":"Point"}
 }

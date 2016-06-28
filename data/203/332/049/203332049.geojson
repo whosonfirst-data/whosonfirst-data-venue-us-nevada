@@ -2,13 +2,14 @@
   "id": 203332049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.754686,40.826758,-115.754686,40.826758",
     "geom:latitude":40.826758,
     "geom:longitude":-115.754686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 S 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203332049,
-    "wof:lastmodified":1449026006,
+    "wof:lastmodified":1466703040,
     "wof:name":"Gurr & Assoc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.754686,40.826758,-115.754686,40.826758],
-  "geometry": {"coordinates":[-115.754686,40.826758],"type":"Point"}
+  "bbox": [
+    -115.754686,
+    40.826758,
+    -115.754686,
+    40.826758
+],
+  "geometry": {"coordinates":[-115.75468600000001,40.826758],"type":"Point"}
 }

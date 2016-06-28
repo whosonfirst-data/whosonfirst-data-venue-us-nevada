@@ -2,13 +2,14 @@
   "id": 219698591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762399,39.442265,-119.762399,39.442265",
     "geom:latitude":39.442265,
     "geom:longitude":-119.762399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9645 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219698591,
-    "wof:lastmodified":1449073693,
+    "wof:lastmodified":1466704577,
     "wof:name":"Capurro-Reid Real Estate",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.762399,39.442265,-119.762399,39.442265],
+  "bbox": [
+    -119.762399,
+    39.442265,
+    -119.762399,
+    39.442265
+],
   "geometry": {"coordinates":[-119.762399,39.442265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354132651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205407,36.126321,-115.205407,36.126321",
     "geom:latitude":36.126321,
     "geom:longitude":-115.205407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Spring Mountain Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354132651,
-    "wof:lastmodified":1449066746,
+    "wof:lastmodified":1466704500,
     "wof:name":"Hollywood Beauty Supply",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.205407,36.126321,-115.205407,36.126321],
-  "geometry": {"coordinates":[-115.205407,36.126321],"type":"Point"}
+  "bbox": [
+    -115.205407,
+    36.126321,
+    -115.205407,
+    36.126321
+],
+  "geometry": {"coordinates":[-115.20540699999999,36.126321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219488561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093916,36.16624,-115.093916,36.16624",
     "geom:latitude":36.16624,
     "geom:longitude":-115.093916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 E Stewart Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219488561,
-    "wof:lastmodified":1449073822,
+    "wof:lastmodified":1466704105,
     "wof:name":"Spanbolde Secretarial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-115.093916,36.16624,-115.093916,36.16624],
-  "geometry": {"coordinates":[-115.093916,36.16624],"type":"Point"}
+  "bbox": [
+    -115.093916,
+    36.16624,
+    -115.093916,
+    36.16624
+],
+  "geometry": {"coordinates":[-115.09391599999999,36.16624],"type":"Point"}
 }

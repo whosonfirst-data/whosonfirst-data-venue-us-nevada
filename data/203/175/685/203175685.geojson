@@ -2,13 +2,14 @@
   "id": 203175685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.971052,36.196536,-115.971052,36.196536",
     "geom:latitude":36.196536,
     "geom:longitude":-115.971052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203175685,
-    "wof:lastmodified":1449026296,
+    "wof:lastmodified":1466701787,
     "wof:name":"Country Roads Recreation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.971052,36.196536,-115.971052,36.196536],
+  "bbox": [
+    -115.971052,
+    36.196536,
+    -115.971052,
+    36.196536
+],
   "geometry": {"coordinates":[-115.971052,36.196536],"type":"Point"}
 }

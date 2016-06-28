@@ -2,13 +2,14 @@
   "id": 235970317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.734881,40.968178,-117.734881,40.968178",
     "geom:latitude":40.968178,
     "geom:longitude":-117.734881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Pavillion St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235970317,
-    "wof:lastmodified":1449008602,
+    "wof:lastmodified":1466703614,
     "wof:name":"L A Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-117.734881,40.968178,-117.734881,40.968178],
+  "bbox": [
+    -117.734881,
+    40.968178,
+    -117.734881,
+    40.968178
+],
   "geometry": {"coordinates":[-117.734881,40.968178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236757235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.77699,39.472427,-118.77699,39.472427",
     "geom:latitude":39.472427,
     "geom:longitude":-118.77699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 S Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236757235,
-    "wof:lastmodified":1449003523,
+    "wof:lastmodified":1466706570,
     "wof:name":"Picture This Studio & Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-118.77699,39.472427,-118.77699,39.472427],
+  "bbox": [
+    -118.77699,
+    39.472427,
+    -118.77699,
+    39.472427
+],
   "geometry": {"coordinates":[-118.77699,39.472427],"type":"Point"}
 }

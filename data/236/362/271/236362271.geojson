@@ -2,13 +2,14 @@
   "id": 236362271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.959905,36.024168,-114.959905,36.024168",
     "geom:latitude":36.024168,
     "geom:longitude":-114.959905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Concord Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236362271,
-    "wof:lastmodified":1449003852,
+    "wof:lastmodified":1466704992,
     "wof:name":"Melvina Harmon",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-114.959905,36.024168,-114.959905,36.024168],
-  "geometry": {"coordinates":[-114.959905,36.024168],"type":"Point"}
+  "bbox": [
+    -114.959905,
+    36.024168,
+    -114.959905,
+    36.024168
+],
+  "geometry": {"coordinates":[-114.95990500000001,36.024168],"type":"Point"}
 }

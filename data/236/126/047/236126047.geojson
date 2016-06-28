@@ -2,13 +2,14 @@
   "id": 236126047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.228223,39.400227,-119.228223,39.400227",
     "geom:latitude":39.400227,
     "geom:longitude":-119.228223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 US Hwy 95 Alt",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236126047,
-    "wof:lastmodified":1449002749,
+    "wof:lastmodified":1466702052,
     "wof:name":"One Stop Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cassette"
     ]
 },
-  "bbox": [-119.228223,39.400227,-119.228223,39.400227],
+  "bbox": [
+    -119.228223,
+    39.400227,
+    -119.228223,
+    39.400227
+],
   "geometry": {"coordinates":[-119.228223,39.400227],"type":"Point"}
 }

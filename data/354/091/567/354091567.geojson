@@ -2,13 +2,14 @@
   "id": 354091567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144364,36.161427,-115.144364,36.161427",
     "geom:latitude":36.161427,
     "geom:longitude":-115.144364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 S 6th St Ste 201",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354091567,
-    "wof:lastmodified":1449066099,
+    "wof:lastmodified":1466703907,
     "wof:name":"Law Offices of Clyde Dewitt",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.144364,36.161427,-115.144364,36.161427],
+  "bbox": [
+    -115.144364,
+    36.161427,
+    -115.144364,
+    36.161427
+],
   "geometry": {"coordinates":[-115.144364,36.161427],"type":"Point"}
 }

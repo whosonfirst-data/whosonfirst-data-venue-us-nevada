@@ -2,13 +2,14 @@
   "id": 370359245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75,39.188599,-119.75,39.188599",
     "geom:latitude":39.188599,
     "geom:longitude":-119.75,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 Research Way Ste 102",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370359245,
-    "wof:lastmodified":1449029020,
+    "wof:lastmodified":1466705055,
     "wof:name":"Carson Valley Movers",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-119.75,39.188599,-119.75,39.188599],
+  "bbox": [
+    -119.75,
+    39.188599,
+    -119.75,
+    39.188599
+],
   "geometry": {"coordinates":[-119.75,39.188599],"type":"Point"}
 }

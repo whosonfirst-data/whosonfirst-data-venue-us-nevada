@@ -2,13 +2,14 @@
   "id": 219931113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.991803,36.150042,-115.991803,36.150042",
     "geom:latitude":36.150042,
     "geom:longitude":-115.991803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Carberry Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219931113,
-    "wof:lastmodified":1449073605,
+    "wof:lastmodified":1466705810,
     "wof:name":"Windtamer Barns & Corrals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furnishing"
     ]
 },
-  "bbox": [-115.991803,36.150042,-115.991803,36.150042],
+  "bbox": [
+    -115.991803,
+    36.150042,
+    -115.991803,
+    36.150042
+],
   "geometry": {"coordinates":[-115.991803,36.150042],"type":"Point"}
 }

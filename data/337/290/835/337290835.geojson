@@ -2,13 +2,14 @@
   "id": 337290835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.475023,40.181313,-118.475023,40.181313",
     "geom:latitude":40.181313,
     "geom:longitude":-118.475023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 11th St",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337290835,
-    "wof:lastmodified":1449027284,
+    "wof:lastmodified":1466701503,
     "wof:name":"Country Cottage Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.475023,40.181313,-118.475023,40.181313],
-  "geometry": {"coordinates":[-118.475023,40.181313],"type":"Point"}
+  "bbox": [
+    -118.475023,
+    40.181313,
+    -118.475023,
+    40.181313
+],
+  "geometry": {"coordinates":[-118.47502299999999,40.181313],"type":"Point"}
 }

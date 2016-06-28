@@ -2,13 +2,14 @@
   "id": 370321377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816652,39.533199,-119.816652,39.533199",
     "geom:latitude":39.533199,
     "geom:longitude":-119.816652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 N Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":370321377,
-    "wof:lastmodified":1449029144,
+    "wof:lastmodified":1466704740,
     "wof:name":"NAPA Autocare-Roy Foster's Downtown Service Center",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-119.816652,39.533199,-119.816652,39.533199],
+  "bbox": [
+    -119.816652,
+    39.533199,
+    -119.816652,
+    39.533199
+],
   "geometry": {"coordinates":[-119.816652,39.533199],"type":"Point"}
 }

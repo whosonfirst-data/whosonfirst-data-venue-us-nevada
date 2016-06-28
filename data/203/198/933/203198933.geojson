@@ -2,13 +2,14 @@
   "id": 203198933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120255,36.22264,-115.120255,36.22264",
     "geom:latitude":36.22264,
     "geom:longitude":-115.120255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203198933,
-    "wof:lastmodified":1449025602,
+    "wof:lastmodified":1466702044,
     "wof:name":"Community College High Schl E",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.120255,36.22264,-115.120255,36.22264],
+  "bbox": [
+    -115.120255,
+    36.22264,
+    -115.120255,
+    36.22264
+],
   "geometry": {"coordinates":[-115.120255,36.22264],"type":"Point"}
 }

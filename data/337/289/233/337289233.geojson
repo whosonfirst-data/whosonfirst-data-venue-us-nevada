@@ -2,13 +2,14 @@
   "id": 337289233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.7776,39.471404,-118.7776,39.471404",
     "geom:latitude":39.471404,
     "geom:longitude":-118.7776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 W Stillwater Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337289233,
-    "wof:lastmodified":1449027609,
+    "wof:lastmodified":1466701477,
     "wof:name":"L & O Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-118.7776,39.471404,-118.7776,39.471404],
-  "geometry": {"coordinates":[-118.7776,39.471404],"type":"Point"}
+  "bbox": [
+    -118.7776,
+    39.471404,
+    -118.7776,
+    39.471404
+],
+  "geometry": {"coordinates":[-118.77760000000001,39.471404],"type":"Point"}
 }

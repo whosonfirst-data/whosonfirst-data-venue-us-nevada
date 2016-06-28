@@ -2,13 +2,14 @@
   "id": 236249643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254543,36.196164,-115.254543,36.196164",
     "geom:latitude":36.196164,
     "geom:longitude":-115.254543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236249643,
-    "wof:lastmodified":1449001806,
+    "wof:lastmodified":1466704395,
     "wof:name":"Mr Fragrance Shoppe Inc",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-115.254543,36.196164,-115.254543,36.196164],
+  "bbox": [
+    -115.254543,
+    36.196164,
+    -115.254543,
+    36.196164
+],
   "geometry": {"coordinates":[-115.254543,36.196164],"type":"Point"}
 }

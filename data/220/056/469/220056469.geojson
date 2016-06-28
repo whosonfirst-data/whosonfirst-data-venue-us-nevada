@@ -2,13 +2,14 @@
   "id": 220056469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190227,35.99668,-115.190227,35.99668",
     "geom:latitude":35.99668,
     "geom:longitude":-115.190227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10632 Piombino St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220056469,
-    "wof:lastmodified":1449074243,
+    "wof:lastmodified":1466702093,
     "wof:name":"Skj Interiors",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.190227,35.99668,-115.190227,35.99668],
-  "geometry": {"coordinates":[-115.190227,35.99668],"type":"Point"}
+  "bbox": [
+    -115.190227,
+    35.99668,
+    -115.190227,
+    35.99668
+],
+  "geometry": {"coordinates":[-115.19022699999999,35.99668],"type":"Point"}
 }

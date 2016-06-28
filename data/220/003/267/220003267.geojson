@@ -2,13 +2,14 @@
   "id": 220003267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.766757,40.925774,-117.766757,40.925774",
     "geom:latitude":40.925774,
     "geom:longitude":-117.766757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6135 Saturn St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220003267,
-    "wof:lastmodified":1449074823,
+    "wof:lastmodified":1466701460,
     "wof:name":"Jerry's Mobile Auto Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-117.766757,40.925774,-117.766757,40.925774],
+  "bbox": [
+    -117.766757,
+    40.925774,
+    -117.766757,
+    40.925774
+],
   "geometry": {"coordinates":[-117.766757,40.925774],"type":"Point"}
 }

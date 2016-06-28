@@ -2,13 +2,14 @@
   "id": 220085245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.866097,39.527885,-119.866097,39.527885",
     "geom:latitude":39.527885,
     "geom:longitude":-119.866097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1598 Pries Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220085245,
-    "wof:lastmodified":1449074236,
+    "wof:lastmodified":1466702288,
     "wof:name":"Image Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-119.866097,39.527885,-119.866097,39.527885],
+  "bbox": [
+    -119.866097,
+    39.527885,
+    -119.866097,
+    39.527885
+],
   "geometry": {"coordinates":[-119.866097,39.527885],"type":"Point"}
 }

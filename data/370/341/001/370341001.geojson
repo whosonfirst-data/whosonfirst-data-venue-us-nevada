@@ -2,13 +2,14 @@
   "id": 370341001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767178,39.149912,-119.767178,39.149912",
     "geom:latitude":39.149912,
     "geom:longitude":-119.767178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Carson City Convention & Visitor's Bureau 1900 S. Carson St.",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370341001,
-    "wof:lastmodified":1449032322,
+    "wof:lastmodified":1466704837,
     "wof:name":"Taste of Downtown Carson City",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "local"
     ]
 },
-  "bbox": [-119.767178,39.149912,-119.767178,39.149912],
+  "bbox": [
+    -119.767178,
+    39.149912,
+    -119.767178,
+    39.149912
+],
   "geometry": {"coordinates":[-119.767178,39.149912],"type":"Point"}
 }

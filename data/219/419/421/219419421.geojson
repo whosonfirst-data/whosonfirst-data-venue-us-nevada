@@ -2,13 +2,14 @@
   "id": 219419421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100764,36.072359,-115.100764,36.072359",
     "geom:latitude":36.072359,
     "geom:longitude":-115.100764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6356 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219419421,
-    "wof:lastmodified":1449073849,
+    "wof:lastmodified":1466703739,
     "wof:name":"Best Dinettes",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.100764,36.072359,-115.100764,36.072359],
+  "bbox": [
+    -115.100764,
+    36.072359,
+    -115.100764,
+    36.072359
+],
   "geometry": {"coordinates":[-115.100764,36.072359],"type":"Point"}
 }

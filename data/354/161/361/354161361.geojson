@@ -2,13 +2,14 @@
   "id": 354161361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183466,36.124616,-115.183466,36.124616",
     "geom:latitude":36.124616,
     "geom:longitude":-115.183466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3585 S Highland Drive Suite #153",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354161361,
-    "wof:lastmodified":1449066590,
+    "wof:lastmodified":1466704899,
     "wof:name":"A-1 Vending",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.183466,36.124616,-115.183466,36.124616],
+  "bbox": [
+    -115.183466,
+    36.124616,
+    -115.183466,
+    36.124616
+],
   "geometry": {"coordinates":[-115.183466,36.124616],"type":"Point"}
 }

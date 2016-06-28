@@ -2,13 +2,14 @@
   "id": 236910729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.831229,39.525504,-119.831229,39.525504",
     "geom:latitude":39.525504,
     "geom:longitude":-119.831229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236910729,
-    "wof:lastmodified":1449002953,
+    "wof:lastmodified":1466706835,
     "wof:name":"Neighborhood Cleaning",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.831229,39.525504,-119.831229,39.525504],
-  "geometry": {"coordinates":[-119.831229,39.525504],"type":"Point"}
+  "bbox": [
+    -119.831229,
+    39.525504,
+    -119.831229,
+    39.525504
+],
+  "geometry": {"coordinates":[-119.83122899999999,39.525504],"type":"Point"}
 }

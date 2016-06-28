@@ -2,13 +2,14 @@
   "id": 236424037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.013914,36.029151,-115.013914,36.029151",
     "geom:latitude":36.029151,
     "geom:longitude":-115.013914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Cam del Ray",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236424037,
-    "wof:lastmodified":1449005006,
+    "wof:lastmodified":1466705472,
     "wof:name":"America 4 New Homes",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "internet"
     ]
 },
-  "bbox": [-115.013914,36.029151,-115.013914,36.029151],
+  "bbox": [
+    -115.013914,
+    36.029151,
+    -115.013914,
+    36.029151
+],
   "geometry": {"coordinates":[-115.013914,36.029151],"type":"Point"}
 }

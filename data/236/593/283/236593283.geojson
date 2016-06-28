@@ -2,13 +2,14 @@
   "id": 236593283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127888,36.117535,-115.127888,36.117535",
     "geom:latitude":36.117535,
     "geom:longitude":-115.127888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236593283,
-    "wof:lastmodified":1449003915,
+    "wof:lastmodified":1466706243,
     "wof:name":"Owners Jet Svc LTD",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.127888,36.117535,-115.127888,36.117535],
+  "bbox": [
+    -115.127888,
+    36.117535,
+    -115.127888,
+    36.117535
+],
   "geometry": {"coordinates":[-115.127888,36.117535],"type":"Point"}
 }

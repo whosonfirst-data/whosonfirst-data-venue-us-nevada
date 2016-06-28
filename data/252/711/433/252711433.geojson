@@ -2,13 +2,14 @@
   "id": 252711433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229848,36.19977,-115.229848,36.19977",
     "geom:latitude":36.19977,
     "geom:longitude":-115.229848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6316 Cambria Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252711433,
-    "wof:lastmodified":1449006308,
+    "wof:lastmodified":1466701545,
     "wof:name":"Cruise One/The Travel Co",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-115.229848,36.19977,-115.229848,36.19977],
+  "bbox": [
+    -115.229848,
+    36.19977,
+    -115.229848,
+    36.19977
+],
   "geometry": {"coordinates":[-115.229848,36.19977],"type":"Point"}
 }

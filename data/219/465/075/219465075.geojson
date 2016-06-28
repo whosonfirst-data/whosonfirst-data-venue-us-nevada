@@ -2,13 +2,14 @@
   "id": 219465075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.982977,36.035033,-114.982977,36.035033",
     "geom:latitude":36.035033,
     "geom:longitude":-114.982977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Pacific Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219465075,
-    "wof:lastmodified":1449072761,
+    "wof:lastmodified":1466704012,
     "wof:name":"Henderson Art Assn",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-114.982977,36.035033,-114.982977,36.035033],
-  "geometry": {"coordinates":[-114.982977,36.035033],"type":"Point"}
+  "bbox": [
+    -114.982977,
+    36.035033,
+    -114.982977,
+    36.035033
+],
+  "geometry": {"coordinates":[-114.98297700000001,36.035033],"type":"Point"}
 }

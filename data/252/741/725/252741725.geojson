@@ -2,13 +2,14 @@
   "id": 252741725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766786,39.523468,-119.766786,39.523468",
     "geom:latitude":39.523468,
     "geom:longitude":-119.766786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252741725,
-    "wof:lastmodified":1449005462,
+    "wof:lastmodified":1466702164,
     "wof:name":"G & G Nursery & Landscaping",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-119.766786,39.523468,-119.766786,39.523468],
+  "bbox": [
+    -119.766786,
+    39.523468,
+    -119.766786,
+    39.523468
+],
   "geometry": {"coordinates":[-119.766786,39.523468],"type":"Point"}
 }

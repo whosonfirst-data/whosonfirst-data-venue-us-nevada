@@ -2,13 +2,14 @@
   "id": 236162749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.842219,39.520456,-119.842219,39.520456",
     "geom:latitude":39.520456,
     "geom:longitude":-119.842219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Dickerson Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236162749,
-    "wof:lastmodified":1449004667,
+    "wof:lastmodified":1466702829,
     "wof:name":"Shoreline Plaza Apartments",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.842219,39.520456,-119.842219,39.520456],
+  "bbox": [
+    -119.842219,
+    39.520456,
+    -119.842219,
+    39.520456
+],
   "geometry": {"coordinates":[-119.842219,39.520456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236544397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766186,39.174164,-119.766186,39.174164",
     "geom:latitude":39.174164,
     "geom:longitude":-119.766186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 E Long St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236544397,
-    "wof:lastmodified":1449005243,
+    "wof:lastmodified":1466706028,
     "wof:name":"Western Nev Youth Foundation",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-119.766186,39.174164,-119.766186,39.174164],
+  "bbox": [
+    -119.766186,
+    39.174164,
+    -119.766186,
+    39.174164
+],
   "geometry": {"coordinates":[-119.766186,39.174164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354058525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.04675,36.043542,-115.04675,36.043542",
     "geom:latitude":36.043542,
     "geom:longitude":-115.04675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 N Stephanie Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354058525,
-    "wof:lastmodified":1449066184,
+    "wof:lastmodified":1466702994,
     "wof:name":"Faustos Mexican Grill #2",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.04675,36.043542,-115.04675,36.043542],
+  "bbox": [
+    -115.04675,
+    36.043542,
+    -115.04675,
+    36.043542
+],
   "geometry": {"coordinates":[-115.04675,36.043542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219906707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243624,36.166035,-115.243624,36.166035",
     "geom:latitude":36.166035,
     "geom:longitude":-115.243624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6708 Waterville Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219906707,
-    "wof:lastmodified":1449071733,
+    "wof:lastmodified":1466705801,
     "wof:name":"Hardins Concrete Company Inc",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-115.243624,36.166035,-115.243624,36.166035],
+  "bbox": [
+    -115.243624,
+    36.166035,
+    -115.243624,
+    36.166035
+],
   "geometry": {"coordinates":[-115.243624,36.166035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219754249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239108,36.15174,-115.239108,36.15174",
     "geom:latitude":36.15174,
     "geom:longitude":-115.239108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6760 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219754249,
-    "wof:lastmodified":1449072692,
+    "wof:lastmodified":1466704656,
     "wof:name":"Western States Industrial SEC",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.239108,36.15174,-115.239108,36.15174],
+  "bbox": [
+    -115.239108,
+    36.15174,
+    -115.239108,
+    36.15174
+],
   "geometry": {"coordinates":[-115.239108,36.15174],"type":"Point"}
 }

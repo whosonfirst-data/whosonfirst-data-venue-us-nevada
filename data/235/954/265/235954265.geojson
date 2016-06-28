@@ -2,13 +2,14 @@
   "id": 235954265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221009,36.148037,-115.221009,36.148037",
     "geom:latitude":36.148037,
     "geom:longitude":-115.221009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Duneville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":235954265,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466703542,
     "wof:name":"Bridal Spectacular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-115.221009,36.148037,-115.221009,36.148037],
+  "bbox": [
+    -115.221009,
+    36.148037,
+    -115.221009,
+    36.148037
+],
   "geometry": {"coordinates":[-115.221009,36.148037],"type":"Point"}
 }

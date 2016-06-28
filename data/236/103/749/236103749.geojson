@@ -2,13 +2,14 @@
   "id": 236103749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208153,36.151768,-115.208153,36.151768",
     "geom:latitude":36.151768,
     "geom:longitude":-115.208153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236103749,
-    "wof:lastmodified":1449003762,
+    "wof:lastmodified":1466701610,
     "wof:name":"IRS Las Vegas Bldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.208153,36.151768,-115.208153,36.151768],
+  "bbox": [
+    -115.208153,
+    36.151768,
+    -115.208153,
+    36.151768
+],
   "geometry": {"coordinates":[-115.208153,36.151768],"type":"Point"}
 }

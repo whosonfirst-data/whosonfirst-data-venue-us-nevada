@@ -2,13 +2,14 @@
   "id": 236193017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164087,36.149746,-115.164087,36.149746",
     "geom:latitude":36.149746,
     "geom:longitude":-115.164087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236193017,
-    "wof:lastmodified":1449002077,
+    "wof:lastmodified":1466703420,
     "wof:name":"Desert Audio",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-115.164087,36.149746,-115.164087,36.149746],
-  "geometry": {"coordinates":[-115.164087,36.149746],"type":"Point"}
+  "bbox": [
+    -115.164087,
+    36.149746,
+    -115.164087,
+    36.149746
+],
+  "geometry": {"coordinates":[-115.16408699999999,36.149746],"type":"Point"}
 }

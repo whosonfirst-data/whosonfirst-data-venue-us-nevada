@@ -2,13 +2,14 @@
   "id": 219678413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134927,36.162323,-115.134927,36.162323",
     "geom:latitude":36.162323,
     "geom:longitude":-115.134927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219678413,
-    "wof:lastmodified":1449072092,
+    "wof:lastmodified":1466704301,
     "wof:name":"Timothy Oreilly Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.134927,36.162323,-115.134927,36.162323],
+  "bbox": [
+    -115.134927,
+    36.162323,
+    -115.134927,
+    36.162323
+],
   "geometry": {"coordinates":[-115.134927,36.162323],"type":"Point"}
 }

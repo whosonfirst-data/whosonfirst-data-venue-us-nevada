@@ -2,13 +2,14 @@
   "id": 219417213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.64203,35.052701,-114.64203,35.052701",
     "geom:latitude":35.052701,
     "geom:longitude":-114.64203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9905 Aha Macav Pkwy",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219417213,
-    "wof:lastmodified":1449071831,
+    "wof:lastmodified":1466703724,
     "wof:name":"Mojave Resort Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pl"
     ]
 },
-  "bbox": [-114.64203,35.052701,-114.64203,35.052701],
-  "geometry": {"coordinates":[-114.64203,35.052701],"type":"Point"}
+  "bbox": [
+    -114.64203,
+    35.052701,
+    -114.64203,
+    35.052701
+],
+  "geometry": {"coordinates":[-114.64203000000001,35.052701],"type":"Point"}
 }

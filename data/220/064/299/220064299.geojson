@@ -2,13 +2,14 @@
   "id": 220064299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.824579,39.487236,-119.824579,39.487236",
     "geom:latitude":39.487236,
     "geom:longitude":-119.824579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2290 Pioneer Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220064299,
-    "wof:lastmodified":1449074307,
+    "wof:lastmodified":1466702160,
     "wof:name":"Mc Kay Drilling Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drilling"
     ]
 },
-  "bbox": [-119.824579,39.487236,-119.824579,39.487236],
+  "bbox": [
+    -119.824579,
+    39.487236,
+    -119.824579,
+    39.487236
+],
   "geometry": {"coordinates":[-119.824579,39.487236],"type":"Point"}
 }

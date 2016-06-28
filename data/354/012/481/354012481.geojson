@@ -2,13 +2,14 @@
   "id": 354012481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.988998,36.036499,-114.988998,36.036499",
     "geom:latitude":36.036499,
     "geom:longitude":-114.988998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354012481,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1466701806,
     "wof:name":"Keep It Simple",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-114.988998,36.036499,-114.988998,36.036499],
+  "bbox": [
+    -114.988998,
+    36.036499,
+    -114.988998,
+    36.036499
+],
   "geometry": {"coordinates":[-114.988998,36.036499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236296219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053456,36.079937,-115.053456,36.079937",
     "geom:latitude":36.079937,
     "geom:longitude":-115.053456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Whitney Ranch Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236296219,
-    "wof:lastmodified":1449004512,
+    "wof:lastmodified":1466704547,
     "wof:name":"Salon Cheveu",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.053456,36.079937,-115.053456,36.079937],
+  "bbox": [
+    -115.053456,
+    36.079937,
+    -115.053456,
+    36.079937
+],
   "geometry": {"coordinates":[-115.053456,36.079937],"type":"Point"}
 }

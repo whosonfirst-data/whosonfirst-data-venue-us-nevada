@@ -2,13 +2,14 @@
   "id": 354017719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.985317,36.034561,-114.985317,36.034561",
     "geom:latitude":36.034561,
     "geom:longitude":-114.985317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Water St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354017719,
-    "wof:lastmodified":1449066842,
+    "wof:lastmodified":1466701955,
     "wof:name":"Goodfellas Bail Bonds",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-114.985317,36.034561,-114.985317,36.034561],
-  "geometry": {"coordinates":[-114.985317,36.034561],"type":"Point"}
+  "bbox": [
+    -114.985317,
+    36.034561,
+    -114.985317,
+    36.034561
+],
+  "geometry": {"coordinates":[-114.98531699999999,36.034561],"type":"Point"}
 }

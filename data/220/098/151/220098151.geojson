@@ -2,13 +2,14 @@
   "id": 220098151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.051762,36.194912,-116.051762,36.194912",
     "geom:latitude":36.194912,
     "geom:longitude":-116.051762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 State Hwy 372",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220098151,
-    "wof:lastmodified":1449074786,
+    "wof:lastmodified":1466702356,
     "wof:name":"Pahrump Humane Society Thrift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-116.051762,36.194912,-116.051762,36.194912],
+  "bbox": [
+    -116.051762,
+    36.194912,
+    -116.051762,
+    36.194912
+],
   "geometry": {"coordinates":[-116.051762,36.194912],"type":"Point"}
 }

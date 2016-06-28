@@ -2,13 +2,14 @@
   "id": 236321989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080513,36.048592,-115.080513,36.048592",
     "geom:latitude":36.048592,
     "geom:longitude":-115.080513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Jameson Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236321989,
-    "wof:lastmodified":1449001737,
+    "wof:lastmodified":1466704858,
     "wof:name":"Atlas Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.080513,36.048592,-115.080513,36.048592],
+  "bbox": [
+    -115.080513,
+    36.048592,
+    -115.080513,
+    36.048592
+],
   "geometry": {"coordinates":[-115.080513,36.048592],"type":"Point"}
 }

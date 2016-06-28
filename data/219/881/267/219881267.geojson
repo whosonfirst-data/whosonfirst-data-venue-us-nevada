@@ -2,13 +2,14 @@
   "id": 219881267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189916,36.096068,-115.189916,36.096068",
     "geom:latitude":36.096068,
     "geom:longitude":-115.189916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219881267,
-    "wof:lastmodified":1449072430,
+    "wof:lastmodified":1466705542,
     "wof:name":"Aftermarket Radiator Exchange",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-115.189916,36.096068,-115.189916,36.096068],
+  "bbox": [
+    -115.189916,
+    36.096068,
+    -115.189916,
+    36.096068
+],
   "geometry": {"coordinates":[-115.189916,36.096068],"type":"Point"}
 }

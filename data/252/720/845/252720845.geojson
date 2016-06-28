@@ -2,13 +2,14 @@
   "id": 252720845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208076,36.150049,-115.208076,36.150049",
     "geom:latitude":36.150049,
     "geom:longitude":-115.208076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252720845,
-    "wof:lastmodified":1449005681,
+    "wof:lastmodified":1466701747,
     "wof:name":"Vegas Girl Wigs & Styling",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-115.208076,36.150049,-115.208076,36.150049],
-  "geometry": {"coordinates":[-115.208076,36.150049],"type":"Point"}
+  "bbox": [
+    -115.208076,
+    36.150049,
+    -115.208076,
+    36.150049
+],
+  "geometry": {"coordinates":[-115.20807600000001,36.150049],"type":"Point"}
 }

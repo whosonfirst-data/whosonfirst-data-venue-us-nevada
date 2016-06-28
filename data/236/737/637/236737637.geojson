@@ -2,13 +2,14 @@
   "id": 236737637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.870044,39.235782,-114.870044,39.235782",
     "geom:latitude":39.235782,
     "geom:longitude":-114.870044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Arrowhead Cir",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236737637,
-    "wof:lastmodified":1449002228,
+    "wof:lastmodified":1466706547,
     "wof:name":"Shoshone Education Ctr",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.870044,39.235782,-114.870044,39.235782],
-  "geometry": {"coordinates":[-114.870044,39.235782],"type":"Point"}
+  "bbox": [
+    -114.870044,
+    39.235782,
+    -114.870044,
+    39.235782
+],
+  "geometry": {"coordinates":[-114.87004399999999,39.235782],"type":"Point"}
 }

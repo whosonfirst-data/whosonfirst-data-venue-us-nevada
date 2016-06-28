@@ -2,13 +2,14 @@
   "id": 219259837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177582,36.134345,-115.177582,36.134345",
     "geom:latitude":36.134345,
     "geom:longitude":-115.177582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 Westwood Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219259837,
-    "wof:lastmodified":1449071196,
+    "wof:lastmodified":1466702642,
     "wof:name":"Sig's Autohaus",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-115.177582,36.134345,-115.177582,36.134345],
+  "bbox": [
+    -115.177582,
+    36.134345,
+    -115.177582,
+    36.134345
+],
   "geometry": {"coordinates":[-115.177582,36.134345],"type":"Point"}
 }

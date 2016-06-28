@@ -2,13 +2,14 @@
   "id": 370240203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236638,36.143988,-115.236638,36.143988",
     "geom:latitude":36.143988,
     "geom:longitude":-115.236638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6625 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370240203,
-    "wof:lastmodified":1449029441,
+    "wof:lastmodified":1466703461,
     "wof:name":"Coffey & Rader CPA",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.236638,36.143988,-115.236638,36.143988],
+  "bbox": [
+    -115.236638,
+    36.143988,
+    -115.236638,
+    36.143988
+],
   "geometry": {"coordinates":[-115.236638,36.143988],"type":"Point"}
 }

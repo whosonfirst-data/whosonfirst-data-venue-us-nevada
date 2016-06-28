@@ -2,13 +2,14 @@
   "id": 203304495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317301,36.277453,-115.317301,36.277453",
     "geom:latitude":36.277453,
     "geom:longitude":-115.317301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10200 W Centennial Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203304495,
-    "wof:lastmodified":1449026374,
+    "wof:lastmodified":1466702885,
     "wof:name":"Centennial Senior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.317301,36.277453,-115.317301,36.277453],
+  "bbox": [
+    -115.317301,
+    36.277453,
+    -115.317301,
+    36.277453
+],
   "geometry": {"coordinates":[-115.317301,36.277453],"type":"Point"}
 }

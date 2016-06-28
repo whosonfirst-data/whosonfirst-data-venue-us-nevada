@@ -2,13 +2,14 @@
   "id": 370277239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28406,36.289996,-115.28406,36.289996",
     "geom:latitude":36.289996,
     "geom:longitude":-115.28406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Grand Montecito Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370277239,
-    "wof:lastmodified":1449029469,
+    "wof:lastmodified":1466704369,
     "wof:name":"Alta Montecito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.28406,36.289996,-115.28406,36.289996],
+  "bbox": [
+    -115.28406,
+    36.289996,
+    -115.28406,
+    36.289996
+],
   "geometry": {"coordinates":[-115.28406,36.289996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236818559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147229,35.95553,-115.147229,35.95553",
     "geom:latitude":35.95553,
     "geom:longitude":-115.147229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Larson Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236818559,
-    "wof:lastmodified":1449003214,
+    "wof:lastmodified":1466706807,
     "wof:name":"MDE Intl",
     "wof:parent_id":85878139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apparatus"
     ]
 },
-  "bbox": [-115.147229,35.95553,-115.147229,35.95553],
+  "bbox": [
+    -115.147229,
+    35.95553,
+    -115.147229,
+    35.95553
+],
   "geometry": {"coordinates":[-115.147229,35.95553],"type":"Point"}
 }

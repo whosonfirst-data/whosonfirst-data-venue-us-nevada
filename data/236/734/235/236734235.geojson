@@ -2,13 +2,14 @@
   "id": 236734235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156416,36.202028,-115.156416,36.202028",
     "geom:latitude":36.202028,
     "geom:longitude":-115.156416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1285 Miller Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236734235,
-    "wof:lastmodified":1449004745,
+    "wof:lastmodified":1466706529,
     "wof:name":"Israelite Church God In Christ",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.156416,36.202028,-115.156416,36.202028],
-  "geometry": {"coordinates":[-115.156416,36.202028],"type":"Point"}
+  "bbox": [
+    -115.156416,
+    36.202028,
+    -115.156416,
+    36.202028
+],
+  "geometry": {"coordinates":[-115.15641599999999,36.202028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236442793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066652,36.181292,-115.066652,36.181292",
     "geom:latitude":36.181292,
     "geom:longitude":-115.066652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 E Washington Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236442793,
-    "wof:lastmodified":1449003038,
+    "wof:lastmodified":1466705462,
     "wof:name":"Maki Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.066652,36.181292,-115.066652,36.181292],
+  "bbox": [
+    -115.066652,
+    36.181292,
+    -115.066652,
+    36.181292
+],
   "geometry": {"coordinates":[-115.066652,36.181292],"type":"Point"}
 }

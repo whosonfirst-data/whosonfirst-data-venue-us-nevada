@@ -2,13 +2,14 @@
   "id": 219333741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.636294,39.511313,-119.636294,39.511313",
     "geom:latitude":39.511313,
     "geom:longitude":-119.636294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Rue de la Rouge",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219333741,
-    "wof:lastmodified":1449073656,
+    "wof:lastmodified":1466703288,
     "wof:name":"A-Jack's Office Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "floor"
     ]
 },
-  "bbox": [-119.636294,39.511313,-119.636294,39.511313],
-  "geometry": {"coordinates":[-119.636294,39.511313],"type":"Point"}
+  "bbox": [
+    -119.636294,
+    39.511313,
+    -119.636294,
+    39.511313
+],
+  "geometry": {"coordinates":[-119.63629400000001,39.511313],"type":"Point"}
 }

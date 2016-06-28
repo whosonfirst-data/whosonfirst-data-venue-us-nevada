@@ -2,13 +2,14 @@
   "id": 219685971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817594,39.472857,-119.817594,39.472857",
     "geom:latitude":39.472857,
     "geom:longitude":-119.817594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Spinnaker Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219685971,
-    "wof:lastmodified":1449073825,
+    "wof:lastmodified":1466704359,
     "wof:name":"Rlg Pro Image Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.817594,39.472857,-119.817594,39.472857],
+  "bbox": [
+    -119.817594,
+    39.472857,
+    -119.817594,
+    39.472857
+],
   "geometry": {"coordinates":[-119.817594,39.472857],"type":"Point"}
 }

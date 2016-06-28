@@ -2,13 +2,14 @@
   "id": 219741409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.850762,35.971307,-114.850762,35.971307",
     "geom:latitude":35.971307,
     "geom:longitude":-114.850762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219741409,
-    "wof:lastmodified":1449070568,
+    "wof:lastmodified":1466704695,
     "wof:name":"B C Adobe Realty Inc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.850762,35.971307,-114.850762,35.971307],
+  "bbox": [
+    -114.850762,
+    35.971307,
+    -114.850762,
+    35.971307
+],
   "geometry": {"coordinates":[-114.850762,35.971307],"type":"Point"}
 }

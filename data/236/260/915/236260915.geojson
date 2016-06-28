@@ -2,13 +2,14 @@
   "id": 236260915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.290463,36.144099,-115.290463,36.144099",
     "geom:latitude":36.144099,
     "geom:longitude":-115.290463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8961 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236260915,
-    "wof:lastmodified":1449002088,
+    "wof:lastmodified":1466704582,
     "wof:name":"Marion Purdue & Associates",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.290463,36.144099,-115.290463,36.144099],
+  "bbox": [
+    -115.290463,
+    36.144099,
+    -115.290463,
+    36.144099
+],
   "geometry": {"coordinates":[-115.290463,36.144099],"type":"Point"}
 }

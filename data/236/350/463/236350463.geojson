@@ -2,13 +2,14 @@
   "id": 236350463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760896,40.85317,-115.760896,40.85317",
     "geom:latitude":40.85317,
     "geom:longitude":-115.760896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2074 Sawyer Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236350463,
-    "wof:lastmodified":1449003314,
+    "wof:lastmodified":1466704920,
     "wof:name":"Energy Architect Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-115.760896,40.85317,-115.760896,40.85317],
+  "bbox": [
+    -115.760896,
+    40.85317,
+    -115.760896,
+    40.85317
+],
   "geometry": {"coordinates":[-115.760896,40.85317],"type":"Point"}
 }

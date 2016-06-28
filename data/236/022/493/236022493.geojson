@@ -2,13 +2,14 @@
   "id": 236022493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253745,36.20409,-115.253745,36.20409",
     "geom:latitude":36.20409,
     "geom:longitude":-115.253745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Tech Center Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236022493,
-    "wof:lastmodified":1449002596,
+    "wof:lastmodified":1466703865,
     "wof:name":"J P Drafting",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-115.253745,36.20409,-115.253745,36.20409],
+  "bbox": [
+    -115.253745,
+    36.20409,
+    -115.253745,
+    36.20409
+],
   "geometry": {"coordinates":[-115.253745,36.20409],"type":"Point"}
 }

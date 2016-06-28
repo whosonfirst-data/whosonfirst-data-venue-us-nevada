@@ -2,13 +2,14 @@
   "id": 236694669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751959,39.440494,-119.751959,39.440494",
     "geom:latitude":39.440494,
     "geom:longitude":-119.751959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Meadows Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236694669,
-    "wof:lastmodified":1449002396,
+    "wof:lastmodified":1466706463,
     "wof:name":"Bulletproof Tactical LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-119.751959,39.440494,-119.751959,39.440494],
+  "bbox": [
+    -119.751959,
+    39.440494,
+    -119.751959,
+    39.440494
+],
   "geometry": {"coordinates":[-119.751959,39.440494],"type":"Point"}
 }

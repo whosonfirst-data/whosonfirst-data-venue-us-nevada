@@ -2,13 +2,14 @@
   "id": 354389705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073649,36.12941,-115.073649,36.12941",
     "geom:latitude":36.12941,
     "geom:longitude":-115.073649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 E Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354389705,
-    "wof:lastmodified":1449067286,
+    "wof:lastmodified":1466706222,
     "wof:name":"Northshore Learning Tree",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-115.073649,36.12941,-115.073649,36.12941],
+  "bbox": [
+    -115.073649,
+    36.12941,
+    -115.073649,
+    36.12941
+],
   "geometry": {"coordinates":[-115.073649,36.12941],"type":"Point"}
 }

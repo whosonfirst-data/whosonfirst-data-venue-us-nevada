@@ -2,13 +2,14 @@
   "id": 236784079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139772,36.144209,-115.139772,36.144209",
     "geom:latitude":36.144209,
     "geom:longitude":-115.139772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236784079,
-    "wof:lastmodified":1449003934,
+    "wof:lastmodified":1466706737,
     "wof:name":"Rogers and Haldeman",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-115.139772,36.144209,-115.139772,36.144209],
-  "geometry": {"coordinates":[-115.139772,36.144209],"type":"Point"}
+  "bbox": [
+    -115.139772,
+    36.144209,
+    -115.139772,
+    36.144209
+],
+  "geometry": {"coordinates":[-115.13977199999999,36.144209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219366133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06704,36.158934,-115.06704,36.158934",
     "geom:latitude":36.158934,
     "geom:longitude":-115.06704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219366133,
-    "wof:lastmodified":1449072978,
+    "wof:lastmodified":1466703457,
     "wof:name":"AAA Quality Guaranteed Glass",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.06704,36.158934,-115.06704,36.158934],
-  "geometry": {"coordinates":[-115.06704,36.158934],"type":"Point"}
+  "bbox": [
+    -115.06704,
+    36.158934,
+    -115.06704,
+    36.158934
+],
+  "geometry": {"coordinates":[-115.06704000000001,36.158934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203338871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.291794,36.054785,-115.291794,36.054785",
     "geom:latitude":36.054785,
     "geom:longitude":-115.291794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9154 Hilverson Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203338871,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466703091,
     "wof:name":"Astoria Homes Independence",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-115.291794,36.054785,-115.291794,36.054785],
+  "bbox": [
+    -115.291794,
+    36.054785,
+    -115.291794,
+    36.054785
+],
   "geometry": {"coordinates":[-115.291794,36.054785],"type":"Point"}
 }

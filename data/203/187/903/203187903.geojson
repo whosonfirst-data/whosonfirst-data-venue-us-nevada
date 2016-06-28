@@ -2,13 +2,14 @@
   "id": 203187903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.977257,36.035773,-114.977257,36.035773",
     "geom:latitude":36.035773,
     "geom:longitude":-114.977257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203187903,
-    "wof:lastmodified":1449025218,
+    "wof:lastmodified":1466701905,
     "wof:name":"Defense Concepts Inc",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.977257,36.035773,-114.977257,36.035773],
-  "geometry": {"coordinates":[-114.977257,36.035773],"type":"Point"}
+  "bbox": [
+    -114.977257,
+    36.035773,
+    -114.977257,
+    36.035773
+],
+  "geometry": {"coordinates":[-114.97725699999999,36.035773],"type":"Point"}
 }

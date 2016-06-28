@@ -2,13 +2,14 @@
   "id": 203185897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817711,39.522356,-119.817711,39.522356",
     "geom:latitude":39.522356,
     "geom:longitude":-119.817711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Court St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203185897,
-    "wof:lastmodified":1449025254,
+    "wof:lastmodified":1466701891,
     "wof:name":"Kenneth Peele Prvt Invstgtns",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-119.817711,39.522356,-119.817711,39.522356],
+  "bbox": [
+    -119.817711,
+    39.522356,
+    -119.817711,
+    39.522356
+],
   "geometry": {"coordinates":[-119.817711,39.522356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236755721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208537,36.106933,-115.208537,36.106933",
     "geom:latitude":36.106933,
     "geom:longitude":-115.208537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4572 Royal Ridge Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236755721,
-    "wof:lastmodified":1449002402,
+    "wof:lastmodified":1466706579,
     "wof:name":"Upscale Enterprises Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.208537,36.106933,-115.208537,36.106933],
-  "geometry": {"coordinates":[-115.208537,36.106933],"type":"Point"}
+  "bbox": [
+    -115.208537,
+    36.106933,
+    -115.208537,
+    36.106933
+],
+  "geometry": {"coordinates":[-115.20853700000001,36.106933],"type":"Point"}
 }

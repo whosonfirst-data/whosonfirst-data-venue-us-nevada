@@ -2,13 +2,14 @@
   "id": 203265307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745452,39.550093,-119.745452,39.550093",
     "geom:latitude":39.550093,
     "geom:longitude":-119.745452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Rugby Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203265307,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466702605,
     "wof:name":"Evergreen Lawn Service",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.745452,39.550093,-119.745452,39.550093],
+  "bbox": [
+    -119.745452,
+    39.550093,
+    -119.745452,
+    39.550093
+],
   "geometry": {"coordinates":[-119.745452,39.550093],"type":"Point"}
 }

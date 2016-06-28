@@ -2,13 +2,14 @@
   "id": 220002883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149858,36.059309,-115.149858,36.059309",
     "geom:latitude":36.059309,
     "geom:longitude":-115.149858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7160 Amigo St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220002883,
-    "wof:lastmodified":1449074707,
+    "wof:lastmodified":1466701472,
     "wof:name":"Sigma Game Inc",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.149858,36.059309,-115.149858,36.059309],
-  "geometry": {"coordinates":[-115.149858,36.059309],"type":"Point"}
+  "bbox": [
+    -115.149858,
+    36.059309,
+    -115.149858,
+    36.059309
+],
+  "geometry": {"coordinates":[-115.14985799999999,36.059309],"type":"Point"}
 }

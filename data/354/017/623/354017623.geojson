@@ -2,13 +2,14 @@
   "id": 354017623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.949997,36.017899,-114.949997,36.017899",
     "geom:latitude":36.017899,
     "geom:longitude":-114.949997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"698 S Racetrack Rd Ofc",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354017623,
-    "wof:lastmodified":1449066845,
+    "wof:lastmodified":1466701952,
     "wof:name":"Country Hills",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.949997,36.017899,-114.949997,36.017899],
+  "bbox": [
+    -114.949997,
+    36.017899,
+    -114.949997,
+    36.017899
+],
   "geometry": {"coordinates":[-114.949997,36.017899],"type":"Point"}
 }

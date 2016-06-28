@@ -2,13 +2,14 @@
   "id": 220133683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.699601,39.639678,-119.699601,39.639678",
     "geom:latitude":39.639678,
     "geom:longitude":-119.699601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Omni Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220133683,
-    "wof:lastmodified":1449074714,
+    "wof:lastmodified":1466702633,
     "wof:name":"Nevada Barbecue Company Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.699601,39.639678,-119.699601,39.639678],
+  "bbox": [
+    -119.699601,
+    39.639678,
+    -119.699601,
+    39.639678
+],
   "geometry": {"coordinates":[-119.699601,39.639678],"type":"Point"}
 }

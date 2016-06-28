@@ -2,13 +2,14 @@
   "id": 236204031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1997,36.156925,-115.1997,36.156925",
     "geom:latitude":36.156925,
     "geom:longitude":-115.1997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236204031,
-    "wof:lastmodified":1449005366,
+    "wof:lastmodified":1466703653,
     "wof:name":"Segelstein Distributing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "catering"
     ]
 },
-  "bbox": [-115.1997,36.156925,-115.1997,36.156925],
-  "geometry": {"coordinates":[-115.1997,36.156925],"type":"Point"}
+  "bbox": [
+    -115.1997,
+    36.156925,
+    -115.1997,
+    36.156925
+],
+  "geometry": {"coordinates":[-115.19970000000001,36.156925],"type":"Point"}
 }

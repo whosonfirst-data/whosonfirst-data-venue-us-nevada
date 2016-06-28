@@ -2,13 +2,14 @@
   "id": 203393711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13791,36.024633,-115.13791,36.024633",
     "geom:latitude":36.024633,
     "geom:longitude":-115.13791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1163 Deshields Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203393711,
-    "wof:lastmodified":1449025515,
+    "wof:lastmodified":1466703307,
     "wof:name":"Glenda Brill CPA",
     "wof:parent_id":85879707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.13791,36.024633,-115.13791,36.024633],
-  "geometry": {"coordinates":[-115.13791,36.024633],"type":"Point"}
+  "bbox": [
+    -115.13791,
+    36.024633,
+    -115.13791,
+    36.024633
+],
+  "geometry": {"coordinates":[-115.13791000000001,36.024633],"type":"Point"}
 }

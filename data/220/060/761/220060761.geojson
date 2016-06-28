@@ -2,13 +2,14 @@
   "id": 220060761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.730074,38.93046,-119.730074,38.93046",
     "geom:latitude":38.93046,
     "geom:longitude":-119.730074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220060761,
-    "wof:lastmodified":1449074803,
+    "wof:lastmodified":1466702145,
     "wof:name":"Helping Hands Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-119.730074,38.93046,-119.730074,38.93046],
+  "bbox": [
+    -119.730074,
+    38.93046,
+    -119.730074,
+    38.93046
+],
   "geometry": {"coordinates":[-119.730074,38.93046],"type":"Point"}
 }

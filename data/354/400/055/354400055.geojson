@@ -2,13 +2,14 @@
   "id": 354400055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118546,36.027724,-115.118546,36.027724",
     "geom:latitude":36.027724,
     "geom:longitude":-115.118546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 S. Eastern Ave #120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354400055,
-    "wof:lastmodified":1449066092,
+    "wof:lastmodified":1466706154,
     "wof:name":"Mexicanos Restaurant",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.118546,36.027724,-115.118546,36.027724],
-  "geometry": {"coordinates":[-115.118546,36.027724],"type":"Point"}
+  "bbox": [
+    -115.118546,
+    36.027724,
+    -115.118546,
+    36.027724
+],
+  "geometry": {"coordinates":[-115.11854599999999,36.027724],"type":"Point"}
 }

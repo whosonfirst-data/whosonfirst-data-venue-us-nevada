@@ -2,13 +2,14 @@
   "id": 370348397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776001,39.160702,-119.776001,39.160702",
     "geom:latitude":39.160702,
     "geom:longitude":-119.776001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"567 S Richmond Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370348397,
-    "wof:lastmodified":1449029216,
+    "wof:lastmodified":1466705186,
     "wof:name":"St Teresa of Avila Catholic Community",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-119.776001,39.160702,-119.776001,39.160702],
-  "geometry": {"coordinates":[-119.776001,39.160702],"type":"Point"}
+  "bbox": [
+    -119.776001,
+    39.160702,
+    -119.776001,
+    39.160702
+],
+  "geometry": {"coordinates":[-119.77600099999999,39.160702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219455767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.347329,36.138054,-115.347329,36.138054",
     "geom:latitude":36.138054,
     "geom:longitude":-115.347329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2874 Red Arrow Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219455767,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466703907,
     "wof:name":"Crews Enterprises Inc",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-115.347329,36.138054,-115.347329,36.138054],
+  "bbox": [
+    -115.347329,
+    36.138054,
+    -115.347329,
+    36.138054
+],
   "geometry": {"coordinates":[-115.347329,36.138054],"type":"Point"}
 }

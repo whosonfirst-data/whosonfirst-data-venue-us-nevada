@@ -2,13 +2,14 @@
   "id": 236551483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.991862,36.209981,-115.991862,36.209981",
     "geom:latitude":36.209981,
     "geom:longitude":-115.991862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 East St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236551483,
-    "wof:lastmodified":1449002173,
+    "wof:lastmodified":1466706083,
     "wof:name":"Cotton Pickin' Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-115.991862,36.209981,-115.991862,36.209981],
+  "bbox": [
+    -115.991862,
+    36.209981,
+    -115.991862,
+    36.209981
+],
   "geometry": {"coordinates":[-115.991862,36.209981],"type":"Point"}
 }

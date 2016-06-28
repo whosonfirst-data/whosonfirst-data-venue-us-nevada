@@ -2,13 +2,14 @@
   "id": 354015303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.966898,36.026202,-114.966898,36.026202",
     "geom:latitude":36.026202,
     "geom:longitude":-114.966898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354015303,
-    "wof:lastmodified":1449066313,
+    "wof:lastmodified":1466701889,
     "wof:name":"Smith's Food & Drug Centers",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-114.966898,36.026202,-114.966898,36.026202],
+  "bbox": [
+    -114.966898,
+    36.026202,
+    -114.966898,
+    36.026202
+],
   "geometry": {"coordinates":[-114.966898,36.026202],"type":"Point"}
 }

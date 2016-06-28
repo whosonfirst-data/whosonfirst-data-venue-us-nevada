@@ -2,13 +2,14 @@
   "id": 219497941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156671,36.047759,-115.156671,36.047759",
     "geom:latitude":36.047759,
     "geom:longitude":-115.156671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Moberly Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219497941,
-    "wof:lastmodified":1449073862,
+    "wof:lastmodified":1466704156,
     "wof:name":"Funnel Cake Maker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.156671,36.047759,-115.156671,36.047759],
+  "bbox": [
+    -115.156671,
+    36.047759,
+    -115.156671,
+    36.047759
+],
   "geometry": {"coordinates":[-115.156671,36.047759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370299767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149807,36.126863,-115.149807,36.126863",
     "geom:latitude":36.126863,
     "geom:longitude":-115.149807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 Sierra Vista Drive Apt 4",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370299767,
-    "wof:lastmodified":1449029954,
+    "wof:lastmodified":1466704598,
     "wof:name":"French Quarter Apartments",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.149807,36.126863,-115.149807,36.126863],
+  "bbox": [
+    -115.149807,
+    36.126863,
+    -115.149807,
+    36.126863
+],
   "geometry": {"coordinates":[-115.149807,36.126863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236886739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049517,36.069573,-115.049517,36.069573",
     "geom:latitude":36.069573,
     "geom:longitude":-115.049517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 Butternut Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236886739,
-    "wof:lastmodified":1449003491,
+    "wof:lastmodified":1466706784,
     "wof:name":"Valley Painting",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hanging"
     ]
 },
-  "bbox": [-115.049517,36.069573,-115.049517,36.069573],
-  "geometry": {"coordinates":[-115.049517,36.069573],"type":"Point"}
+  "bbox": [
+    -115.049517,
+    36.069573,
+    -115.049517,
+    36.069573
+],
+  "geometry": {"coordinates":[-115.04951699999999,36.069573],"type":"Point"}
 }

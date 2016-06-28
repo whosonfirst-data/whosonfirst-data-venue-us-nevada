@@ -2,13 +2,14 @@
   "id": 220025073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765927,39.183226,-119.765927,39.183226",
     "geom:latitude":39.183226,
     "geom:longitude":-119.765927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Northgate Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025073,
-    "wof:lastmodified":1449074731,
+    "wof:lastmodified":1466701757,
     "wof:name":"Laughlin Associates Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-119.765927,39.183226,-119.765927,39.183226],
+  "bbox": [
+    -119.765927,
+    39.183226,
+    -119.765927,
+    39.183226
+],
   "geometry": {"coordinates":[-119.765927,39.183226],"type":"Point"}
 }

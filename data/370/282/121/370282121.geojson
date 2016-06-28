@@ -2,13 +2,14 @@
   "id": 370282121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284717,36.257277,-115.284717,36.257277",
     "geom:latitude":36.257277,
     "geom:longitude":-115.284717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8645 W Fisher Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370282121,
-    "wof:lastmodified":1449031203,
+    "wof:lastmodified":1466704398,
     "wof:name":"Rp Lang Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.284717,36.257277,-115.284717,36.257277],
+  "bbox": [
+    -115.284717,
+    36.257277,
+    -115.284717,
+    36.257277
+],
   "geometry": {"coordinates":[-115.284717,36.257277],"type":"Point"}
 }

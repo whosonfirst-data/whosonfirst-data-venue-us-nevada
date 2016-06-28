@@ -2,13 +2,14 @@
   "id": 354012011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.996002,36.069099,-114.996002,36.069099",
     "geom:latitude":36.069099,
     "geom:longitude":-114.996002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354012011,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1466701793,
     "wof:name":"Ryan's Express",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limo"
     ]
 },
-  "bbox": [-114.996002,36.069099,-114.996002,36.069099],
+  "bbox": [
+    -114.996002,
+    36.069099,
+    -114.996002,
+    36.069099
+],
   "geometry": {"coordinates":[-114.996002,36.069099],"type":"Point"}
 }

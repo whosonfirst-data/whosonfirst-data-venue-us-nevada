@@ -2,13 +2,14 @@
   "id": 219179679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.842102,39.531674,-119.842102,39.531674",
     "geom:latitude":39.531674,
     "geom:longitude":-119.842102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Munley Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219179679,
-    "wof:lastmodified":1449073557,
+    "wof:lastmodified":1466701938,
     "wof:name":"Randy Handy Dandy",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-119.842102,39.531674,-119.842102,39.531674],
+  "bbox": [
+    -119.842102,
+    39.531674,
+    -119.842102,
+    39.531674
+],
   "geometry": {"coordinates":[-119.842102,39.531674],"type":"Point"}
 }

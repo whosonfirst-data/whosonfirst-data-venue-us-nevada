@@ -2,13 +2,14 @@
   "id": 236794381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205592,36.105959,-115.205592,36.105959",
     "geom:latitude":36.105959,
     "geom:longitude":-115.205592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 Quality",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236794381,
-    "wof:lastmodified":1449003191,
+    "wof:lastmodified":1466706641,
     "wof:name":"Stone Net Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-115.205592,36.105959,-115.205592,36.105959],
+  "bbox": [
+    -115.205592,
+    36.105959,
+    -115.205592,
+    36.105959
+],
   "geometry": {"coordinates":[-115.205592,36.105959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236923811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812329,39.545357,-119.812329,39.545357",
     "geom:latitude":39.545357,
     "geom:longitude":-119.812329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Bisby St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236923811,
-    "wof:lastmodified":1449005112,
+    "wof:lastmodified":1466706845,
     "wof:name":"Actory",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.812329,39.545357,-119.812329,39.545357],
-  "geometry": {"coordinates":[-119.812329,39.545357],"type":"Point"}
+  "bbox": [
+    -119.812329,
+    39.545357,
+    -119.812329,
+    39.545357
+],
+  "geometry": {"coordinates":[-119.81232900000001,39.545357],"type":"Point"}
 }

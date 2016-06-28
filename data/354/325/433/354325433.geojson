@@ -2,13 +2,14 @@
   "id": 354325433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196288,36.086841,-115.196288,36.086841",
     "geom:latitude":36.086841,
     "geom:longitude":-115.196288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 W Russell Road Suite 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354325433,
-    "wof:lastmodified":1449066575,
+    "wof:lastmodified":1466706024,
     "wof:name":"NetEffect",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.196288,36.086841,-115.196288,36.086841],
+  "bbox": [
+    -115.196288,
+    36.086841,
+    -115.196288,
+    36.086841
+],
   "geometry": {"coordinates":[-115.196288,36.086841],"type":"Point"}
 }

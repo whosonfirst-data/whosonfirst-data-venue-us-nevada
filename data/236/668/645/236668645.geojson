@@ -2,13 +2,14 @@
   "id": 236668645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743442,39.528667,-119.743442,39.528667",
     "geom:latitude":39.528667,
     "geom:longitude":-119.743442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 S Stanford Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236668645,
-    "wof:lastmodified":1449004048,
+    "wof:lastmodified":1466706415,
     "wof:name":"American Truck Wash",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-119.743442,39.528667,-119.743442,39.528667],
+  "bbox": [
+    -119.743442,
+    39.528667,
+    -119.743442,
+    39.528667
+],
   "geometry": {"coordinates":[-119.743442,39.528667],"type":"Point"}
 }

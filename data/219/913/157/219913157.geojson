@@ -2,13 +2,14 @@
   "id": 219913157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190685,36.126453,-115.190685,36.126453",
     "geom:latitude":36.126453,
     "geom:longitude":-115.190685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4069 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219913157,
-    "wof:lastmodified":1449071751,
+    "wof:lastmodified":1466705701,
     "wof:name":"Hi-Fi City",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-115.190685,36.126453,-115.190685,36.126453],
+  "bbox": [
+    -115.190685,
+    36.126453,
+    -115.190685,
+    36.126453
+],
   "geometry": {"coordinates":[-115.190685,36.126453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203310133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249052,36.105934,-115.249052,36.105934",
     "geom:latitude":36.105934,
     "geom:longitude":-115.249052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4575 Kenilworth Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310133,
-    "wof:lastmodified":1449026107,
+    "wof:lastmodified":1466702914,
     "wof:name":"Mc Daniel Child Care",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.249052,36.105934,-115.249052,36.105934],
-  "geometry": {"coordinates":[-115.249052,36.105934],"type":"Point"}
+  "bbox": [
+    -115.249052,
+    36.105934,
+    -115.249052,
+    36.105934
+],
+  "geometry": {"coordinates":[-115.24905200000001,36.105934],"type":"Point"}
 }

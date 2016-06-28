@@ -2,13 +2,14 @@
   "id": 236685165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.699244,39.558644,-119.699244,39.558644",
     "geom:latitude":39.558644,
     "geom:longitude":-119.699244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N D Andrea Pkwy",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236685165,
-    "wof:lastmodified":1449005154,
+    "wof:lastmodified":1466706442,
     "wof:name":"Villas At D'Andrea",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.699244,39.558644,-119.699244,39.558644],
-  "geometry": {"coordinates":[-119.699244,39.558644],"type":"Point"}
+  "bbox": [
+    -119.699244,
+    39.558644,
+    -119.699244,
+    39.558644
+],
+  "geometry": {"coordinates":[-119.69924399999999,39.558644],"type":"Point"}
 }

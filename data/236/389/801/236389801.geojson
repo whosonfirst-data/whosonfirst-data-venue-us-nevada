@@ -2,13 +2,14 @@
   "id": 236389801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803559,39.518221,-119.803559,39.518221",
     "geom:latitude":39.518221,
     "geom:longitude":-119.803559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Cheney St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236389801,
-    "wof:lastmodified":1449004437,
+    "wof:lastmodified":1466705191,
     "wof:name":"French Antique Architectural C",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.803559,39.518221,-119.803559,39.518221],
-  "geometry": {"coordinates":[-119.803559,39.518221],"type":"Point"}
+  "bbox": [
+    -119.803559,
+    39.518221,
+    -119.803559,
+    39.518221
+],
+  "geometry": {"coordinates":[-119.80355900000001,39.518221],"type":"Point"}
 }

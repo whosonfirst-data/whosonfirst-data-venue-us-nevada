@@ -2,13 +2,14 @@
   "id": 354347833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172235,36.068431,-115.172235,36.068431",
     "geom:latitude":36.068431,
     "geom:longitude":-115.172235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 Las Vegas Blvd South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354347833,
-    "wof:lastmodified":1449066735,
+    "wof:lastmodified":1466705858,
     "wof:name":"PH8",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.172235,36.068431,-115.172235,36.068431],
+  "bbox": [
+    -115.172235,
+    36.068431,
+    -115.172235,
+    36.068431
+],
   "geometry": {"coordinates":[-115.172235,36.068431],"type":"Point"}
 }

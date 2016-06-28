@@ -2,13 +2,14 @@
   "id": 220033927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322912,36.275363,-115.322912,36.275363",
     "geom:latitude":36.275363,
     "geom:longitude":-115.322912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10325 W Regena Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220033927,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466701833,
     "wof:name":"Jovial Dragon Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-115.322912,36.275363,-115.322912,36.275363],
+  "bbox": [
+    -115.322912,
+    36.275363,
+    -115.322912,
+    36.275363
+],
   "geometry": {"coordinates":[-115.322912,36.275363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236524367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735189,39.205221,-119.735189,39.205221",
     "geom:latitude":39.205221,
     "geom:longitude":-119.735189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5071 Sigstrom Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236524367,
-    "wof:lastmodified":1449001652,
+    "wof:lastmodified":1466705915,
     "wof:name":"Tischler Plastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.735189,39.205221,-119.735189,39.205221],
-  "geometry": {"coordinates":[-119.735189,39.205221],"type":"Point"}
+  "bbox": [
+    -119.735189,
+    39.205221,
+    -119.735189,
+    39.205221
+],
+  "geometry": {"coordinates":[-119.73518900000001,39.205221],"type":"Point"}
 }

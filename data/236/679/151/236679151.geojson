@@ -2,13 +2,14 @@
   "id": 236679151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74457,39.534836,-119.74457,39.534836",
     "geom:latitude":39.534836,
     "geom:longitude":-119.74457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236679151,
-    "wof:lastmodified":1449003837,
+    "wof:lastmodified":1466706588,
     "wof:name":"Sunrise Motel",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-119.74457,39.534836,-119.74457,39.534836],
+  "bbox": [
+    -119.74457,
+    39.534836,
+    -119.74457,
+    39.534836
+],
   "geometry": {"coordinates":[-119.74457,39.534836],"type":"Point"}
 }

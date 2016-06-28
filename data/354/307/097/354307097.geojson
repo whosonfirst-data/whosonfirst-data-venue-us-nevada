@@ -2,13 +2,14 @@
   "id": 354307097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284063,36.154457,-115.284063,36.154457",
     "geom:latitude":36.154457,
     "geom:longitude":-115.284063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Merialdo Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354307097,
-    "wof:lastmodified":1449066352,
+    "wof:lastmodified":1466705877,
     "wof:name":"Wrich Air Cooling Heating",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-115.284063,36.154457,-115.284063,36.154457],
+  "bbox": [
+    -115.284063,
+    36.154457,
+    -115.284063,
+    36.154457
+],
   "geometry": {"coordinates":[-115.284063,36.154457],"type":"Point"}
 }

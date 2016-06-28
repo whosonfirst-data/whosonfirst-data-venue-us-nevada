@@ -2,13 +2,14 @@
   "id": 370240419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222537,36.159422,-115.222537,36.159422",
     "geom:latitude":36.159422,
     "geom:longitude":-115.222537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 W Charleston Blvd Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370240419,
-    "wof:lastmodified":1449029442,
+    "wof:lastmodified":1466703465,
     "wof:name":"As You Wish Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.222537,36.159422,-115.222537,36.159422],
+  "bbox": [
+    -115.222537,
+    36.159422,
+    -115.222537,
+    36.159422
+],
   "geometry": {"coordinates":[-115.222537,36.159422],"type":"Point"}
 }

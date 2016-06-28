@@ -2,13 +2,14 @@
   "id": 354046237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151486,36.239354,-115.151486,36.239354",
     "geom:latitude":36.239354,
     "geom:longitude":-115.151486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 W. Craig Rd. Suite 118",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354046237,
-    "wof:lastmodified":1449066885,
+    "wof:lastmodified":1466702671,
     "wof:name":"Poke Express",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hawaiian"
     ]
 },
-  "bbox": [-115.151486,36.239354,-115.151486,36.239354],
-  "geometry": {"coordinates":[-115.151486,36.239354],"type":"Point"}
+  "bbox": [
+    -115.151486,
+    36.239354,
+    -115.151486,
+    36.239354
+],
+  "geometry": {"coordinates":[-115.15148600000001,36.239354],"type":"Point"}
 }

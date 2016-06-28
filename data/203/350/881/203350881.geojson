@@ -2,13 +2,14 @@
   "id": 203350881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.231736,38.060406,-117.231736,38.060406",
     "geom:latitude":38.060406,
     "geom:longitude":-117.231736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Idaho Cir",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203350881,
-    "wof:lastmodified":1449025895,
+    "wof:lastmodified":1466703148,
     "wof:name":"Tonopah Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.231736,38.060406,-117.231736,38.060406],
+  "bbox": [
+    -117.231736,
+    38.060406,
+    -117.231736,
+    38.060406
+],
   "geometry": {"coordinates":[-117.231736,38.060406],"type":"Point"}
 }

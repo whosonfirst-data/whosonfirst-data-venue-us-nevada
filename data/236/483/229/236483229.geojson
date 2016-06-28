@@ -2,13 +2,14 @@
   "id": 236483229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.387831,35.611268,-115.387831,35.611268",
     "geom:latitude":35.611268,
     "geom:longitude":-115.387831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32101 S Las Vegas Blvd",
     "sg:city":"Jean",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236483229,
-    "wof:lastmodified":1449004401,
+    "wof:lastmodified":1466705733,
     "wof:name":"St John Knits Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.387831,35.611268,-115.387831,35.611268],
-  "geometry": {"coordinates":[-115.387831,35.611268],"type":"Point"}
+  "bbox": [
+    -115.387831,
+    35.611268,
+    -115.387831,
+    35.611268
+],
+  "geometry": {"coordinates":[-115.38783100000001,35.611268],"type":"Point"}
 }

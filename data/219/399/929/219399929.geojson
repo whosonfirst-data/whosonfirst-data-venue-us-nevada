@@ -2,13 +2,14 @@
   "id": 219399929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.868039,39.506012,-119.868039,39.506012",
     "geom:latitude":39.506012,
     "geom:longitude":-119.868039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4160 Hackamore Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219399929,
-    "wof:lastmodified":1449071015,
+    "wof:lastmodified":1466703634,
     "wof:name":"Myers & Associates",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"
     ]
 },
-  "bbox": [-119.868039,39.506012,-119.868039,39.506012],
+  "bbox": [
+    -119.868039,
+    39.506012,
+    -119.868039,
+    39.506012
+],
   "geometry": {"coordinates":[-119.868039,39.506012],"type":"Point"}
 }

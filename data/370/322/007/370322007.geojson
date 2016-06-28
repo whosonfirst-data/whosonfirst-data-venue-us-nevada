@@ -2,13 +2,14 @@
   "id": 370322007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825571,39.527705,-119.825571,39.527705",
     "geom:latitude":39.527705,
     "geom:longitude":-119.825571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":370322007,
-    "wof:lastmodified":1449029032,
+    "wof:lastmodified":1466704596,
     "wof:name":"Meineke Car Care Center",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -111,6 +113,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-119.825571,39.527705,-119.825571,39.527705],
+  "bbox": [
+    -119.825571,
+    39.527705,
+    -119.825571,
+    39.527705
+],
   "geometry": {"coordinates":[-119.825571,39.527705],"type":"Point"}
 }

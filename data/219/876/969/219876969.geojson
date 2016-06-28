@@ -2,13 +2,14 @@
   "id": 219876969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074349,36.185949,-115.074349,36.185949",
     "geom:latitude":36.185949,
     "geom:longitude":-115.074349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Dresden Doll St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219876969,
-    "wof:lastmodified":1449071106,
+    "wof:lastmodified":1466705536,
     "wof:name":"Izzas Compact Vending Machine",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.074349,36.185949,-115.074349,36.185949],
+  "bbox": [
+    -115.074349,
+    36.185949,
+    -115.074349,
+    36.185949
+],
   "geometry": {"coordinates":[-115.074349,36.185949],"type":"Point"}
 }

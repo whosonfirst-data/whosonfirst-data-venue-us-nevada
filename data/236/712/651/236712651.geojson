@@ -2,13 +2,14 @@
   "id": 236712651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777937,39.464354,-119.777937,39.464354",
     "geom:latitude":39.464354,
     "geom:longitude":-119.777937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6775 Sierra Center Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236712651,
-    "wof:lastmodified":1449002999,
+    "wof:lastmodified":1466706512,
     "wof:name":"Fresh Energy Bakery Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.777937,39.464354,-119.777937,39.464354],
-  "geometry": {"coordinates":[-119.777937,39.464354],"type":"Point"}
+  "bbox": [
+    -119.777937,
+    39.464354,
+    -119.777937,
+    39.464354
+],
+  "geometry": {"coordinates":[-119.77793699999999,39.464354],"type":"Point"}
 }

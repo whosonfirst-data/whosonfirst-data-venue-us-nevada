@@ -2,13 +2,14 @@
   "id": 219307229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.647458,39.30992,-119.647458,39.30992",
     "geom:latitude":39.30992,
     "geom:longitude":-119.647458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 G St",
     "sg:city":"Virginia City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219307229,
-    "wof:lastmodified":1449071312,
+    "wof:lastmodified":1466703133,
     "wof:name":"Old Red Garter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.647458,39.30992,-119.647458,39.30992],
+  "bbox": [
+    -119.647458,
+    39.30992,
+    -119.647458,
+    39.30992
+],
   "geometry": {"coordinates":[-119.647458,39.30992],"type":"Point"}
 }

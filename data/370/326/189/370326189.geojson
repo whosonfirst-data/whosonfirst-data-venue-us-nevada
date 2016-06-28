@@ -2,13 +2,14 @@
   "id": 370326189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808052,39.511539,-119.808052,39.511539",
     "geom:latitude":39.511539,
     "geom:longitude":-119.808052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 W Arroyo St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370326189,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466704658,
     "wof:name":"Alexander Ph.D., Ann M. - Erickson, Thor",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "injury"
     ]
 },
-  "bbox": [-119.808052,39.511539,-119.808052,39.511539],
+  "bbox": [
+    -119.808052,
+    39.511539,
+    -119.808052,
+    39.511539
+],
   "geometry": {"coordinates":[-119.808052,39.511539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370340359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743799,39.173735,-119.743799,39.173735",
     "geom:latitude":39.173735,
     "geom:longitude":-119.743799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2085 US Highway 50 E Ste 25",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":370340359,
-    "wof:lastmodified":1449031713,
+    "wof:lastmodified":1466705091,
     "wof:name":"Amis Beauty Salon",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.743799,39.173735,-119.743799,39.173735],
+  "bbox": [
+    -119.743799,
+    39.173735,
+    -119.743799,
+    39.173735
+],
   "geometry": {"coordinates":[-119.743799,39.173735],"type":"Point"}
 }

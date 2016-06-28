@@ -2,13 +2,14 @@
   "id": 354416807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251128,36.2164,-115.251128,36.2164",
     "geom:latitude":36.2164,
     "geom:longitude":-115.251128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 N Tenaya Way Suite 350",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354416807,
-    "wof:lastmodified":1449066675,
+    "wof:lastmodified":1466706345,
     "wof:name":"Handler Lionel J MD",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-115.251128,36.2164,-115.251128,36.2164],
-  "geometry": {"coordinates":[-115.251128,36.2164],"type":"Point"}
+  "bbox": [
+    -115.251128,
+    36.2164,
+    -115.251128,
+    36.2164
+],
+  "geometry": {"coordinates":[-115.25112799999999,36.2164],"type":"Point"}
 }

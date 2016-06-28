@@ -2,13 +2,14 @@
   "id": 236949901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166212,36.239346,-115.166212,36.239346",
     "geom:latitude":36.239346,
     "geom:longitude":-115.166212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236949901,
-    "wof:lastmodified":1449003741,
+    "wof:lastmodified":1466706939,
     "wof:name":"Club Tan Vegas Inc",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimwear"
     ]
 },
-  "bbox": [-115.166212,36.239346,-115.166212,36.239346],
+  "bbox": [
+    -115.166212,
+    36.239346,
+    -115.166212,
+    36.239346
+],
   "geometry": {"coordinates":[-115.166212,36.239346],"type":"Point"}
 }

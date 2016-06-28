@@ -2,13 +2,14 @@
   "id": 236183087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.038461,36.32194,-116.038461,36.32194",
     "geom:latitude":36.32194,
     "geom:longitude":-116.038461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2091 W Carrol St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236183087,
-    "wof:lastmodified":1449003424,
+    "wof:lastmodified":1466703240,
     "wof:name":"Jims Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.038461,36.32194,-116.038461,36.32194],
+  "bbox": [
+    -116.038461,
+    36.32194,
+    -116.038461,
+    36.32194
+],
   "geometry": {"coordinates":[-116.038461,36.32194],"type":"Point"}
 }

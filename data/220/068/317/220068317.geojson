@@ -2,13 +2,14 @@
   "id": 220068317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080993,36.120847,-115.080993,36.120847",
     "geom:latitude":36.120847,
     "geom:longitude":-115.080993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 Chirr Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220068317,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1466702191,
     "wof:name":"Vocal Building Recording",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-115.080993,36.120847,-115.080993,36.120847],
-  "geometry": {"coordinates":[-115.080993,36.120847],"type":"Point"}
+  "bbox": [
+    -115.080993,
+    36.120847,
+    -115.080993,
+    36.120847
+],
+  "geometry": {"coordinates":[-115.08099300000001,36.120847],"type":"Point"}
 }

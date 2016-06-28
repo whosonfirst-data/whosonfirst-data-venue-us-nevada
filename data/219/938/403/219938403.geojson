@@ -2,13 +2,14 @@
   "id": 219938403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764751,39.527465,-119.764751,39.527465",
     "geom:latitude":39.527465,
     "geom:longitude":-119.764751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219938403,
-    "wof:lastmodified":1449073037,
+    "wof:lastmodified":1466705824,
     "wof:name":"Franco French Baking Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-119.764751,39.527465,-119.764751,39.527465],
+  "bbox": [
+    -119.764751,
+    39.527465,
+    -119.764751,
+    39.527465
+],
   "geometry": {"coordinates":[-119.764751,39.527465],"type":"Point"}
 }

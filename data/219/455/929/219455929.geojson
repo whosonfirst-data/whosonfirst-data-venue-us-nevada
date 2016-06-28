@@ -2,13 +2,14 @@
   "id": 219455929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763781,39.184462,-119.763781,39.184462",
     "geom:latitude":39.184462,
     "geom:longitude":-119.763781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Hot Springs Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219455929,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466703911,
     "wof:name":"Carson Radiator & Repair",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-119.763781,39.184462,-119.763781,39.184462],
-  "geometry": {"coordinates":[-119.763781,39.184462],"type":"Point"}
+  "bbox": [
+    -119.763781,
+    39.184462,
+    -119.763781,
+    39.184462
+],
+  "geometry": {"coordinates":[-119.76378099999999,39.184462],"type":"Point"}
 }

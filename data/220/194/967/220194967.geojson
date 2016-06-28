@@ -2,13 +2,14 @@
   "id": 220194967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112746,35.970816,-115.112746,35.970816",
     "geom:latitude":35.970816,
     "geom:longitude":-115.112746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1582 Pontine Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220194967,
-    "wof:lastmodified":1449074754,
+    "wof:lastmodified":1466703071,
     "wof:name":"Trans Group",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-115.112746,35.970816,-115.112746,35.970816],
+  "bbox": [
+    -115.112746,
+    35.970816,
+    -115.112746,
+    35.970816
+],
   "geometry": {"coordinates":[-115.112746,35.970816],"type":"Point"}
 }

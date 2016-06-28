@@ -2,13 +2,14 @@
   "id": 370165181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264607,36.218872,-115.264607,36.218872",
     "geom:latitude":36.218872,
     "geom:longitude":-115.264607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7790 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370165181,
-    "wof:lastmodified":1449032475,
+    "wof:lastmodified":1466701891,
     "wof:name":"Putter's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "american"
     ]
 },
-  "bbox": [-115.264607,36.218872,-115.264607,36.218872],
+  "bbox": [
+    -115.264607,
+    36.218872,
+    -115.264607,
+    36.218872
+],
   "geometry": {"coordinates":[-115.264607,36.218872],"type":"Point"}
 }

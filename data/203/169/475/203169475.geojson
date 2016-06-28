@@ -2,13 +2,14 @@
   "id": 203169475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146905,36.126987,-115.146905,36.126987",
     "geom:latitude":36.126987,
     "geom:longitude":-115.146905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Sierra Vista Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203169475,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466701730,
     "wof:name":"E 3 Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "publishing"
     ]
 },
-  "bbox": [-115.146905,36.126987,-115.146905,36.126987],
+  "bbox": [
+    -115.146905,
+    36.126987,
+    -115.146905,
+    36.126987
+],
   "geometry": {"coordinates":[-115.146905,36.126987],"type":"Point"}
 }

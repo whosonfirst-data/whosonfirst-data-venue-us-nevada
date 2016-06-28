@@ -2,13 +2,14 @@
   "id": 236876267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256436,36.203544,-115.256436,36.203544",
     "geom:latitude":36.203544,
     "geom:longitude":-115.256436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7340 Smoke Ranch Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236876267,
-    "wof:lastmodified":1449002177,
+    "wof:lastmodified":1466706881,
     "wof:name":"On The Web Marketing Group",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-115.256436,36.203544,-115.256436,36.203544],
-  "geometry": {"coordinates":[-115.256436,36.203544],"type":"Point"}
+  "bbox": [
+    -115.256436,
+    36.203544,
+    -115.256436,
+    36.203544
+],
+  "geometry": {"coordinates":[-115.25643599999999,36.203544],"type":"Point"}
 }

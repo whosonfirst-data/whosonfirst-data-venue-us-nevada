@@ -2,13 +2,14 @@
   "id": 219477725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771257,39.535341,-119.771257,39.535341",
     "geom:latitude":39.535341,
     "geom:longitude":-119.771257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219477725,
-    "wof:lastmodified":1449070996,
+    "wof:lastmodified":1466704075,
     "wof:name":"Sparks Food & Discount Liquor",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.771257,39.535341,-119.771257,39.535341],
-  "geometry": {"coordinates":[-119.771257,39.535341],"type":"Point"}
+  "bbox": [
+    -119.771257,
+    39.535341,
+    -119.771257,
+    39.535341
+],
+  "geometry": {"coordinates":[-119.77125700000001,39.535341],"type":"Point"}
 }

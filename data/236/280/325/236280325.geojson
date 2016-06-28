@@ -2,13 +2,14 @@
   "id": 236280325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.998759,36.027847,-114.998759,36.027847",
     "geom:latitude":36.027847,
     "geom:longitude":-114.998759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Waterwheel Falls Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236280325,
-    "wof:lastmodified":1449003237,
+    "wof:lastmodified":1466704393,
     "wof:name":"Lone Wolf Hydraulics",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-114.998759,36.027847,-114.998759,36.027847],
-  "geometry": {"coordinates":[-114.998759,36.027847],"type":"Point"}
+  "bbox": [
+    -114.998759,
+    36.027847,
+    -114.998759,
+    36.027847
+],
+  "geometry": {"coordinates":[-114.99875900000001,36.027847],"type":"Point"}
 }

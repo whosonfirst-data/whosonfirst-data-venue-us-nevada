@@ -2,13 +2,14 @@
   "id": 219836055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194117,36.144554,-115.194117,36.144554",
     "geom:latitude":36.144554,
     "geom:longitude":-115.194117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Las Verdes St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219836055,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466705145,
     "wof:name":"Pin Center",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-115.194117,36.144554,-115.194117,36.144554],
-  "geometry": {"coordinates":[-115.194117,36.144554],"type":"Point"}
+  "bbox": [
+    -115.194117,
+    36.144554,
+    -115.194117,
+    36.144554
+],
+  "geometry": {"coordinates":[-115.19411700000001,36.144554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370208319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205717,36.033782,-115.205717,36.033782",
     "geom:latitude":36.033782,
     "geom:longitude":-115.205717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 Blue Diamond Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370208319,
-    "wof:lastmodified":1449029481,
+    "wof:lastmodified":1466702740,
     "wof:name":"Cigar Shop #3",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.205717,36.033782,-115.205717,36.033782],
-  "geometry": {"coordinates":[-115.205717,36.033782],"type":"Point"}
+  "bbox": [
+    -115.205717,
+    36.033782,
+    -115.205717,
+    36.033782
+],
+  "geometry": {"coordinates":[-115.20571700000001,36.033782],"type":"Point"}
 }

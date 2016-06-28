@@ -2,13 +2,14 @@
   "id": 354350017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14111,36.114713,-115.14111,36.114713",
     "geom:latitude":36.114713,
     "geom:longitude":-115.14111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 E Flamingo Rd Ste 302",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354350017,
-    "wof:lastmodified":1449066795,
+    "wof:lastmodified":1466706110,
     "wof:name":"Wk Travel",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.14111,36.114713,-115.14111,36.114713],
+  "bbox": [
+    -115.14111,
+    36.114713,
+    -115.14111,
+    36.114713
+],
   "geometry": {"coordinates":[-115.14111,36.114713],"type":"Point"}
 }

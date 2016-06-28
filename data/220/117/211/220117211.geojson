@@ -2,13 +2,14 @@
   "id": 220117211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153616,36.145851,-115.153616,36.145851",
     "geom:latitude":36.145851,
     "geom:longitude":-115.153616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220117211,
-    "wof:lastmodified":1449074601,
+    "wof:lastmodified":1466702504,
     "wof:name":"A Bridge Loan",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.153616,36.145851,-115.153616,36.145851],
+  "bbox": [
+    -115.153616,
+    36.145851,
+    -115.153616,
+    36.145851
+],
   "geometry": {"coordinates":[-115.153616,36.145851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370317227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803192,39.514183,-119.803192,39.514183",
     "geom:latitude":39.514183,
     "geom:longitude":-119.803192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370317227,
-    "wof:lastmodified":1449030643,
+    "wof:lastmodified":1466704700,
     "wof:name":"Acsesorios Ibanez",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-119.803192,39.514183,-119.803192,39.514183],
+  "bbox": [
+    -119.803192,
+    39.514183,
+    -119.803192,
+    39.514183
+],
   "geometry": {"coordinates":[-119.803192,39.514183],"type":"Point"}
 }

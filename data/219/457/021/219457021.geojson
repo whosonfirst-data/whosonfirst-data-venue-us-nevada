@@ -2,13 +2,14 @@
   "id": 219457021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753423,39.399246,-119.753423,39.399246",
     "geom:latitude":39.399246,
     "geom:longitude":-119.753423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219457021,
-    "wof:lastmodified":1449072757,
+    "wof:lastmodified":1466703941,
     "wof:name":"Bruce Mac Kay Pump & Well Svc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "drilling"
     ]
 },
-  "bbox": [-119.753423,39.399246,-119.753423,39.399246],
+  "bbox": [
+    -119.753423,
+    39.399246,
+    -119.753423,
+    39.399246
+],
   "geometry": {"coordinates":[-119.753423,39.399246],"type":"Point"}
 }

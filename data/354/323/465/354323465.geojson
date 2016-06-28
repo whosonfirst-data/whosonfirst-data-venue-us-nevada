@@ -2,13 +2,14 @@
   "id": 354323465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181907,36.094106,-115.181907,36.094106",
     "geom:latitude":36.094106,
     "geom:longitude":-115.181907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5285 Dean Martin Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354323465,
-    "wof:lastmodified":1449066074,
+    "wof:lastmodified":1466705865,
     "wof:name":"Epic Nightclub & Afterhours",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-115.181907,36.094106,-115.181907,36.094106],
+  "bbox": [
+    -115.181907,
+    36.094106,
+    -115.181907,
+    36.094106
+],
   "geometry": {"coordinates":[-115.181907,36.094106],"type":"Point"}
 }

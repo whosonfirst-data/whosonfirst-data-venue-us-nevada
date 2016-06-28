@@ -2,13 +2,14 @@
   "id": 236026443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823707,39.524894,-119.823707,39.524894",
     "geom:latitude":39.524894,
     "geom:longitude":-119.823707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236026443,
-    "wof:lastmodified":1449003624,
+    "wof:lastmodified":1466703893,
     "wof:name":"David Lewis",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-119.823707,39.524894,-119.823707,39.524894],
+  "bbox": [
+    -119.823707,
+    39.524894,
+    -119.823707,
+    39.524894
+],
   "geometry": {"coordinates":[-119.823707,39.524894],"type":"Point"}
 }

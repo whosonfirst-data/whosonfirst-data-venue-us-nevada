@@ -2,13 +2,14 @@
   "id": 219842403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.723577,39.516465,-119.723577,39.516465",
     "geom:latitude":39.516465,
     "geom:longitude":-119.723577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219842403,
-    "wof:lastmodified":1449070647,
+    "wof:lastmodified":1466705319,
     "wof:name":"Mid-U S A Motorcycle Parts W",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"
     ]
 },
-  "bbox": [-119.723577,39.516465,-119.723577,39.516465],
-  "geometry": {"coordinates":[-119.723577,39.516465],"type":"Point"}
+  "bbox": [
+    -119.723577,
+    39.516465,
+    -119.723577,
+    39.516465
+],
+  "geometry": {"coordinates":[-119.72357700000001,39.516465],"type":"Point"}
 }

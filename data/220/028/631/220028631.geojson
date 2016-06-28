@@ -2,13 +2,14 @@
   "id": 220028631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.238842,38.074563,-117.238842,38.074563",
     "geom:latitude":38.074563,
     "geom:longitude":-117.238842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Depot Rd",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220028631,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466701786,
     "wof:name":"Bumper's Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-117.238842,38.074563,-117.238842,38.074563],
-  "geometry": {"coordinates":[-117.238842,38.074563],"type":"Point"}
+  "bbox": [
+    -117.238842,
+    38.074563,
+    -117.238842,
+    38.074563
+],
+  "geometry": {"coordinates":[-117.23884200000001,38.074563],"type":"Point"}
 }

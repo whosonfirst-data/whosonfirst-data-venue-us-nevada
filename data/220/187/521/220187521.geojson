@@ -2,13 +2,14 @@
   "id": 220187521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.928648,39.520676,-119.928648,39.520676",
     "geom:latitude":39.520676,
     "geom:longitude":-119.928648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Cliff View Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220187521,
-    "wof:lastmodified":1449074158,
+    "wof:lastmodified":1466702990,
     "wof:name":"Visitations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-119.928648,39.520676,-119.928648,39.520676],
+  "bbox": [
+    -119.928648,
+    39.520676,
+    -119.928648,
+    39.520676
+],
   "geometry": {"coordinates":[-119.928648,39.520676],"type":"Point"}
 }

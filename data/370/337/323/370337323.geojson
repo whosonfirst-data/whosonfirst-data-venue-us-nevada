@@ -2,13 +2,14 @@
   "id": 370337323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769393,39.125238,-119.769393,39.125238",
     "geom:latitude":39.125238,
     "geom:longitude":-119.769393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Snyder Avenue Suite C",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370337323,
-    "wof:lastmodified":1449030675,
+    "wof:lastmodified":1466704810,
     "wof:name":"Genoa Candy & Coffee Company",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769393,39.125238,-119.769393,39.125238],
-  "geometry": {"coordinates":[-119.769393,39.125238],"type":"Point"}
+  "bbox": [
+    -119.769393,
+    39.125238,
+    -119.769393,
+    39.125238
+],
+  "geometry": {"coordinates":[-119.76939299999999,39.125238],"type":"Point"}
 }

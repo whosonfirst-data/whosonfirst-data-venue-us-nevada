@@ -2,13 +2,14 @@
   "id": 354056709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086801,36.026642,-115.086801,36.026642",
     "geom:latitude":36.026642,
     "geom:longitude":-115.086801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Green Valley Pkwy Ste 200",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354056709,
-    "wof:lastmodified":1449066383,
+    "wof:lastmodified":1466702950,
     "wof:name":"Las Vegas Bookkeeping Professionals",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.086801,36.026642,-115.086801,36.026642],
-  "geometry": {"coordinates":[-115.086801,36.026642],"type":"Point"}
+  "bbox": [
+    -115.086801,
+    36.026642,
+    -115.086801,
+    36.026642
+],
+  "geometry": {"coordinates":[-115.08680099999999,36.026642],"type":"Point"}
 }

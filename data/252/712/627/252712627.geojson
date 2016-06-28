@@ -2,13 +2,14 @@
   "id": 252712627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818224,39.537544,-119.818224,39.537544",
     "geom:latitude":39.537544,
     "geom:longitude":-119.818224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 N Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252712627,
-    "wof:lastmodified":1449005883,
+    "wof:lastmodified":1466701570,
     "wof:name":"University of Reno Fire Scienc",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "area"
     ]
 },
-  "bbox": [-119.818224,39.537544,-119.818224,39.537544],
+  "bbox": [
+    -119.818224,
+    39.537544,
+    -119.818224,
+    39.537544
+],
   "geometry": {"coordinates":[-119.818224,39.537544],"type":"Point"}
 }

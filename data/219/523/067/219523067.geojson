@@ -2,13 +2,14 @@
   "id": 219523067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750352,39.143654,-119.750352,39.143654",
     "geom:latitude":39.143654,
     "geom:longitude":-119.750352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Fieldcrest Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219523067,
-    "wof:lastmodified":1449072412,
+    "wof:lastmodified":1466701722,
     "wof:name":"Walker Amnda Web Dvlpmetn Svcs",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-119.750352,39.143654,-119.750352,39.143654],
-  "geometry": {"coordinates":[-119.750352,39.143654],"type":"Point"}
+  "bbox": [
+    -119.750352,
+    39.143654,
+    -119.750352,
+    39.143654
+],
+  "geometry": {"coordinates":[-119.75035200000001,39.143654],"type":"Point"}
 }

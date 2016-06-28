@@ -2,13 +2,14 @@
   "id": 370246865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224827,36.138933,-115.224827,36.138933",
     "geom:latitude":36.138933,
     "geom:longitude":-115.224827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 S Jones Blvd Ste 125",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370246865,
-    "wof:lastmodified":1449029314,
+    "wof:lastmodified":1466703605,
     "wof:name":"Edi Architecture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.224827,36.138933,-115.224827,36.138933],
+  "bbox": [
+    -115.224827,
+    36.138933,
+    -115.224827,
+    36.138933
+],
   "geometry": {"coordinates":[-115.224827,36.138933],"type":"Point"}
 }

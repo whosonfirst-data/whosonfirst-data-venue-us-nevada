@@ -2,13 +2,14 @@
   "id": 236681733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733637,39.540875,-119.733637,39.540875",
     "geom:latitude":39.540875,
     "geom:longitude":-119.733637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 N McCarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236681733,
-    "wof:lastmodified":1449003711,
+    "wof:lastmodified":1466706444,
     "wof:name":"Remcor Real Estate",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.733637,39.540875,-119.733637,39.540875],
+  "bbox": [
+    -119.733637,
+    39.540875,
+    -119.733637,
+    39.540875
+],
   "geometry": {"coordinates":[-119.733637,39.540875],"type":"Point"}
 }

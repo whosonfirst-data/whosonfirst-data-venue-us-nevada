@@ -2,13 +2,14 @@
   "id": 203409773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.850685,39.459956,-118.850685,39.459956",
     "geom:latitude":39.459956,
     "geom:longitude":-118.850685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4675 Sheckler Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203409773,
-    "wof:lastmodified":1449025701,
+    "wof:lastmodified":1466703366,
     "wof:name":"Newell Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.850685,39.459956,-118.850685,39.459956],
+  "bbox": [
+    -118.850685,
+    39.459956,
+    -118.850685,
+    39.459956
+],
   "geometry": {"coordinates":[-118.850685,39.459956],"type":"Point"}
 }

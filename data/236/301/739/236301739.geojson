@@ -2,13 +2,14 @@
   "id": 236301739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207978,36.08081,-115.207978,36.08081",
     "geom:latitude":36.08081,
     "geom:longitude":-115.207978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236301739,
-    "wof:lastmodified":1449002312,
+    "wof:lastmodified":1466704726,
     "wof:name":"Leonardo",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.207978,36.08081,-115.207978,36.08081],
+  "bbox": [
+    -115.207978,
+    36.08081,
+    -115.207978,
+    36.08081
+],
   "geometry": {"coordinates":[-115.207978,36.08081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.481126,40.18017,-118.481126,40.18017",
     "geom:latitude":40.18017,
     "geom:longitude":-118.481126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Western Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220135907,
-    "wof:lastmodified":1449074342,
+    "wof:lastmodified":1466702672,
     "wof:name":"Pershing County Adult HS Ged",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.481126,40.18017,-118.481126,40.18017],
+  "bbox": [
+    -118.481126,
+    40.18017,
+    -118.481126,
+    40.18017
+],
   "geometry": {"coordinates":[-118.481126,40.18017],"type":"Point"}
 }

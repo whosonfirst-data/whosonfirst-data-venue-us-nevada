@@ -2,13 +2,14 @@
   "id": 219829135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073815,36.229089,-115.073815,36.229089",
     "geom:latitude":36.229089,
     "geom:longitude":-115.073815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3695 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219829135,
-    "wof:lastmodified":1449073675,
+    "wof:lastmodified":1466705221,
     "wof:name":"EZ Rv Auto Sales",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.073815,36.229089,-115.073815,36.229089],
+  "bbox": [
+    -115.073815,
+    36.229089,
+    -115.073815,
+    36.229089
+],
   "geometry": {"coordinates":[-115.073815,36.229089],"type":"Point"}
 }

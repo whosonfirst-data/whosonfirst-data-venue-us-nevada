@@ -2,13 +2,14 @@
   "id": 220100603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185586,36.11201,-115.185586,36.11201",
     "geom:latitude":36.11201,
     "geom:longitude":-115.185586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4291 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220100603,
-    "wof:lastmodified":1449074642,
+    "wof:lastmodified":1466702376,
     "wof:name":"Valley Signs & Lighting Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.185586,36.11201,-115.185586,36.11201],
+  "bbox": [
+    -115.185586,
+    36.11201,
+    -115.185586,
+    36.11201
+],
   "geometry": {"coordinates":[-115.185586,36.11201],"type":"Point"}
 }

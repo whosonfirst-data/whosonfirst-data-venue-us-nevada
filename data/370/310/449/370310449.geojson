@@ -2,13 +2,14 @@
   "id": 370310449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774462,39.527679,-119.774462,39.527679",
     "geom:latitude":39.527679,
     "geom:longitude":-119.774462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Glendale Ave #1",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370310449,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466704671,
     "wof:name":"Nevada Overhead Door Company",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "frames"
     ]
 },
-  "bbox": [-119.774462,39.527679,-119.774462,39.527679],
+  "bbox": [
+    -119.774462,
+    39.527679,
+    -119.774462,
+    39.527679
+],
   "geometry": {"coordinates":[-119.774462,39.527679],"type":"Point"}
 }

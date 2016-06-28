@@ -2,13 +2,14 @@
   "id": 236440347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.164737,38.99397,-119.164737,38.99397",
     "geom:latitude":38.99397,
     "geom:longitude":-119.164737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 W Goldfield Ave",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236440347,
-    "wof:lastmodified":1449002687,
+    "wof:lastmodified":1466705560,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.164737,38.99397,-119.164737,38.99397],
+  "bbox": [
+    -119.164737,
+    38.99397,
+    -119.164737,
+    38.99397
+],
   "geometry": {"coordinates":[-119.164737,38.99397],"type":"Point"}
 }

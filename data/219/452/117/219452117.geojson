@@ -2,13 +2,14 @@
   "id": 219452117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242847,36.084742,-115.242847,36.084742",
     "geom:latitude":36.084742,
     "geom:longitude":-115.242847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5775 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219452117,
-    "wof:lastmodified":1449071223,
+    "wof:lastmodified":1466703879,
     "wof:name":"T-Mobile Wireless",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.242847,36.084742,-115.242847,36.084742],
+  "bbox": [
+    -115.242847,
+    36.084742,
+    -115.242847,
+    36.084742
+],
   "geometry": {"coordinates":[-115.242847,36.084742],"type":"Point"}
 }

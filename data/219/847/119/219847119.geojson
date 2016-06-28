@@ -2,13 +2,14 @@
   "id": 219847119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.059554,36.275175,-116.059554,36.275175",
     "geom:latitude":36.275175,
     "geom:longitude":-116.059554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 N Woodchips Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219847119,
-    "wof:lastmodified":1449071675,
+    "wof:lastmodified":1466705329,
     "wof:name":"Albert Hall Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.059554,36.275175,-116.059554,36.275175],
-  "geometry": {"coordinates":[-116.059554,36.275175],"type":"Point"}
+  "bbox": [
+    -116.059554,
+    36.275175,
+    -116.059554,
+    36.275175
+],
+  "geometry": {"coordinates":[-116.05955400000001,36.275175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219615835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735887,39.179128,-119.735887,39.179128",
     "geom:latitude":39.179128,
     "geom:longitude":-119.735887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2837 Carmine St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219615835,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466703199,
     "wof:name":"Been There Read That",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-119.735887,39.179128,-119.735887,39.179128],
-  "geometry": {"coordinates":[-119.735887,39.179128],"type":"Point"}
+  "bbox": [
+    -119.735887,
+    39.179128,
+    -119.735887,
+    39.179128
+],
+  "geometry": {"coordinates":[-119.73588700000001,39.179128],"type":"Point"}
 }

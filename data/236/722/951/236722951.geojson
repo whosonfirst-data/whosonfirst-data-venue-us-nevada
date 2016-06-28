@@ -2,13 +2,14 @@
   "id": 236722951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.784017,39.469578,-118.784017,39.469578",
     "geom:latitude":39.469578,
     "geom:longitude":-118.784017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S Allen St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236722951,
-    "wof:lastmodified":1449002673,
+    "wof:lastmodified":1466706524,
     "wof:name":"Art Vark Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-118.784017,39.469578,-118.784017,39.469578],
-  "geometry": {"coordinates":[-118.784017,39.469578],"type":"Point"}
+  "bbox": [
+    -118.784017,
+    39.469578,
+    -118.784017,
+    39.469578
+],
+  "geometry": {"coordinates":[-118.78401700000001,39.469578],"type":"Point"}
 }

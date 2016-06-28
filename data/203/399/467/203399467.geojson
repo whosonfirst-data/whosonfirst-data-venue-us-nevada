@@ -2,13 +2,14 @@
   "id": 203399467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.830388,35.978551,-114.830388,35.978551",
     "geom:latitude":35.978551,
     "geom:longitude":-114.830388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Ave I",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203399467,
-    "wof:lastmodified":1449025281,
+    "wof:lastmodified":1466703317,
     "wof:name":"Sports Nut Unltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.830388,35.978551,-114.830388,35.978551],
+  "bbox": [
+    -114.830388,
+    35.978551,
+    -114.830388,
+    35.978551
+],
   "geometry": {"coordinates":[-114.830388,35.978551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236698887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.896817,39.504934,-119.896817,39.504934",
     "geom:latitude":39.504934,
     "geom:longitude":-119.896817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Woodland Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236698887,
-    "wof:lastmodified":1449005009,
+    "wof:lastmodified":1466706627,
     "wof:name":"Coors-New West Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.896817,39.504934,-119.896817,39.504934],
+  "bbox": [
+    -119.896817,
+    39.504934,
+    -119.896817,
+    39.504934
+],
   "geometry": {"coordinates":[-119.896817,39.504934],"type":"Point"}
 }

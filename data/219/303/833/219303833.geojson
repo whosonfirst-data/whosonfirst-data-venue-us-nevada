@@ -2,13 +2,14 @@
   "id": 219303833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754206,39.509444,-119.754206,39.509444",
     "geom:latitude":39.509444,
     "geom:longitude":-119.754206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Edison Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219303833,
-    "wof:lastmodified":1449070407,
+    "wof:lastmodified":1466703112,
     "wof:name":"BHP Minerals International",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-119.754206,39.509444,-119.754206,39.509444],
+  "bbox": [
+    -119.754206,
+    39.509444,
+    -119.754206,
+    39.509444
+],
   "geometry": {"coordinates":[-119.754206,39.509444],"type":"Point"}
 }

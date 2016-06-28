@@ -2,13 +2,14 @@
   "id": 220198107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093152,36.062547,-115.093152,36.062547",
     "geom:latitude":36.062547,
     "geom:longitude":-115.093152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Pheasant Ridge Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220198107,
-    "wof:lastmodified":1449074313,
+    "wof:lastmodified":1466703083,
     "wof:name":"Curiosity Shop",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.093152,36.062547,-115.093152,36.062547],
+  "bbox": [
+    -115.093152,
+    36.062547,
+    -115.093152,
+    36.062547
+],
   "geometry": {"coordinates":[-115.093152,36.062547],"type":"Point"}
 }

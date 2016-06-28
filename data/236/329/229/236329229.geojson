@@ -2,13 +2,14 @@
   "id": 236329229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734317,39.523679,-119.734317,39.523679",
     "geom:latitude":39.523679,
     "geom:longitude":-119.734317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Kresge Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236329229,
-    "wof:lastmodified":1449002385,
+    "wof:lastmodified":1466705015,
     "wof:name":"Building Design Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.734317,39.523679,-119.734317,39.523679],
+  "bbox": [
+    -119.734317,
+    39.523679,
+    -119.734317,
+    39.523679
+],
   "geometry": {"coordinates":[-119.734317,39.523679],"type":"Point"}
 }

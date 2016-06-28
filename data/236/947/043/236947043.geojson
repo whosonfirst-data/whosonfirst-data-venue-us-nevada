@@ -2,13 +2,14 @@
   "id": 236947043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075211,36.241731,-115.075211,36.241731",
     "geom:latitude":36.241731,
     "geom:longitude":-115.075211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Copper Sage St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236947043,
-    "wof:lastmodified":1449004151,
+    "wof:lastmodified":1466706763,
     "wof:name":"Big Mountain Imaging",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-115.075211,36.241731,-115.075211,36.241731],
+  "bbox": [
+    -115.075211,
+    36.241731,
+    -115.075211,
+    36.241731
+],
   "geometry": {"coordinates":[-115.075211,36.241731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236036353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.986354,36.021581,-114.986354,36.021581",
     "geom:latitude":36.021581,
     "geom:longitude":-114.986354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 E Cypress Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236036353,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466703922,
     "wof:name":"Hanna Co",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.986354,36.021581,-114.986354,36.021581],
-  "geometry": {"coordinates":[-114.986354,36.021581],"type":"Point"}
+  "bbox": [
+    -114.986354,
+    36.021581,
+    -114.986354,
+    36.021581
+],
+  "geometry": {"coordinates":[-114.98635400000001,36.021581],"type":"Point"}
 }

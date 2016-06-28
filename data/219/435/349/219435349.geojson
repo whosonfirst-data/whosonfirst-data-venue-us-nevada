@@ -2,13 +2,14 @@
   "id": 219435349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281459,36.229818,-115.281459,36.229818",
     "geom:latitude":36.229818,
     "geom:longitude":-115.281459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8613 Copper Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219435349,
-    "wof:lastmodified":1449073594,
+    "wof:lastmodified":1466703803,
     "wof:name":"Just A Water Truck",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-115.281459,36.229818,-115.281459,36.229818],
+  "bbox": [
+    -115.281459,
+    36.229818,
+    -115.281459,
+    36.229818
+],
   "geometry": {"coordinates":[-115.281459,36.229818],"type":"Point"}
 }

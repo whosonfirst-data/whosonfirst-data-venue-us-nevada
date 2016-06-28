@@ -2,13 +2,14 @@
   "id": 219874631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.933744,36.007308,-114.933744,36.007308",
     "geom:latitude":36.007308,
     "geom:longitude":-114.933744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2132 Fallsburg Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219874631,
-    "wof:lastmodified":1449073681,
+    "wof:lastmodified":1466705523,
     "wof:name":"Electronicash Solutions",
     "wof:parent_id":85878121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banking"
     ]
 },
-  "bbox": [-114.933744,36.007308,-114.933744,36.007308],
+  "bbox": [
+    -114.933744,
+    36.007308,
+    -114.933744,
+    36.007308
+],
   "geometry": {"coordinates":[-114.933744,36.007308],"type":"Point"}
 }

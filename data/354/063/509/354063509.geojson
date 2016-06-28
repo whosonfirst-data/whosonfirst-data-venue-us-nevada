@@ -2,13 +2,14 @@
   "id": 354063509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116707,36.268642,-115.116707,36.268642",
     "geom:latitude":36.268642,
     "geom:longitude":-115.116707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5960 Losee Rd Ste 127",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354063509,
-    "wof:lastmodified":1449066076,
+    "wof:lastmodified":1466703126,
     "wof:name":"Knight Smoke & Gift Shop",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.116707,36.268642,-115.116707,36.268642],
-  "geometry": {"coordinates":[-115.116707,36.268642],"type":"Point"}
+  "bbox": [
+    -115.116707,
+    36.268642,
+    -115.116707,
+    36.268642
+],
+  "geometry": {"coordinates":[-115.11670700000001,36.268642],"type":"Point"}
 }

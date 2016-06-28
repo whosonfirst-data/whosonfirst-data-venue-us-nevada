@@ -2,13 +2,14 @@
   "id": 219723097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.946773,36.026307,-114.946773,36.026307",
     "geom:latitude":36.026307,
     "geom:longitude":-114.946773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Pincay Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219723097,
-    "wof:lastmodified":1449072446,
+    "wof:lastmodified":1466704453,
     "wof:name":"Jandec Marketing",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.946773,36.026307,-114.946773,36.026307],
-  "geometry": {"coordinates":[-114.946773,36.026307],"type":"Point"}
+  "bbox": [
+    -114.946773,
+    36.026307,
+    -114.946773,
+    36.026307
+],
+  "geometry": {"coordinates":[-114.94677299999999,36.026307],"type":"Point"}
 }

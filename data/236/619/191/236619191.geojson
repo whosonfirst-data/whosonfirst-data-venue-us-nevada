@@ -2,13 +2,14 @@
   "id": 236619191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760066,40.833124,-115.760066,40.833124",
     "geom:latitude":40.833124,
     "geom:longitude":-115.760066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Commercial St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236619191,
-    "wof:lastmodified":1449002121,
+    "wof:lastmodified":1466706311,
     "wof:name":"Pomerelle Portraits-Nevada",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.760066,40.833124,-115.760066,40.833124],
-  "geometry": {"coordinates":[-115.760066,40.833124],"type":"Point"}
+  "bbox": [
+    -115.760066,
+    40.833124,
+    -115.760066,
+    40.833124
+],
+  "geometry": {"coordinates":[-115.76006599999999,40.833124],"type":"Point"}
 }

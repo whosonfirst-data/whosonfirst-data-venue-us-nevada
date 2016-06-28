@@ -2,13 +2,14 @@
   "id": 236769233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.929841,38.968283,-119.929841,38.968283",
     "geom:latitude":38.968283,
     "geom:longitude":-119.929841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Kingsbury Grade Rd",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236769233,
-    "wof:lastmodified":1449002603,
+    "wof:lastmodified":1466706600,
     "wof:name":"House Of Ski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skiing"
     ]
 },
-  "bbox": [-119.929841,38.968283,-119.929841,38.968283],
+  "bbox": [
+    -119.929841,
+    38.968283,
+    -119.929841,
+    38.968283
+],
   "geometry": {"coordinates":[-119.929841,38.968283],"type":"Point"}
 }

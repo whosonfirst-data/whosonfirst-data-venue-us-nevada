@@ -2,13 +2,14 @@
   "id": 236700987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.78664,40.839822,-115.78664,40.839822",
     "geom:latitude":40.839822,
     "geom:longitude":-115.78664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2081 Colonial Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236700987,
-    "wof:lastmodified":1449004902,
+    "wof:lastmodified":1466706629,
     "wof:name":"Ruby Mountain Gold & Jwly LLC",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.78664,40.839822,-115.78664,40.839822],
-  "geometry": {"coordinates":[-115.78664,40.839822],"type":"Point"}
+  "bbox": [
+    -115.78664,
+    40.839822,
+    -115.78664,
+    40.839822
+],
+  "geometry": {"coordinates":[-115.78664000000001,40.839822],"type":"Point"}
 }

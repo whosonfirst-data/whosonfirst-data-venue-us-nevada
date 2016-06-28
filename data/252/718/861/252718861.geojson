@@ -2,13 +2,14 @@
   "id": 252718861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.783334,39.471601,-119.783334,39.471601",
     "geom:latitude":39.471601,
     "geom:longitude":-119.783334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5335 Meadowood Mall Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252718861,
-    "wof:lastmodified":1449005660,
+    "wof:lastmodified":1466701706,
     "wof:name":"Sephora",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-119.783334,39.471601,-119.783334,39.471601],
+  "bbox": [
+    -119.783334,
+    39.471601,
+    -119.783334,
+    39.471601
+],
   "geometry": {"coordinates":[-119.783334,39.471601],"type":"Point"}
 }

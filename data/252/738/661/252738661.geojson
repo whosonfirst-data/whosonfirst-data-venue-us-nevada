@@ -2,13 +2,14 @@
   "id": 252738661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816248,39.52272,-119.816248,39.52272",
     "geom:latitude":39.52272,
     "geom:longitude":-119.816248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 S Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252738661,
-    "wof:lastmodified":1449006194,
+    "wof:lastmodified":1466702103,
     "wof:name":"Kelley Rose Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-119.816248,39.52272,-119.816248,39.52272],
+  "bbox": [
+    -119.816248,
+    39.52272,
+    -119.816248,
+    39.52272
+],
   "geometry": {"coordinates":[-119.816248,39.52272],"type":"Point"}
 }

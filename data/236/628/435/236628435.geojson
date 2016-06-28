@@ -2,13 +2,14 @@
   "id": 236628435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184884,36.150186,-115.184884,36.150186",
     "geom:latitude":36.150186,
     "geom:longitude":-115.184884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Plz de Cordero",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236628435,
-    "wof:lastmodified":1449004494,
+    "wof:lastmodified":1466706340,
     "wof:name":"Robindale LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.184884,36.150186,-115.184884,36.150186],
+  "bbox": [
+    -115.184884,
+    36.150186,
+    -115.184884,
+    36.150186
+],
   "geometry": {"coordinates":[-115.184884,36.150186],"type":"Point"}
 }

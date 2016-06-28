@@ -2,13 +2,14 @@
   "id": 236143631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758385,39.490479,-119.758385,39.490479",
     "geom:latitude":39.490479,
     "geom:longitude":-119.758385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4613 Aircenter Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236143631,
-    "wof:lastmodified":1449004575,
+    "wof:lastmodified":1466702423,
     "wof:name":"Bear Paw Magnetic Tools Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "welding"
     ]
 },
-  "bbox": [-119.758385,39.490479,-119.758385,39.490479],
+  "bbox": [
+    -119.758385,
+    39.490479,
+    -119.758385,
+    39.490479
+],
   "geometry": {"coordinates":[-119.758385,39.490479],"type":"Point"}
 }

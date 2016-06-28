@@ -2,13 +2,14 @@
   "id": 236385745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110779,36.134502,-115.110779,36.134502",
     "geom:latitude":36.134502,
     "geom:longitude":-115.110779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3067 Phoenix St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":236385745,
-    "wof:lastmodified":1449003644,
+    "wof:lastmodified":1466705398,
     "wof:name":"Danaarts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.110779,36.134502,-115.110779,36.134502],
-  "geometry": {"coordinates":[-115.110779,36.134502],"type":"Point"}
+  "bbox": [
+    -115.110779,
+    36.134502,
+    -115.110779,
+    36.134502
+],
+  "geometry": {"coordinates":[-115.11077899999999,36.134502],"type":"Point"}
 }

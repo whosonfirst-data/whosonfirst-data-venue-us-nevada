@@ -2,13 +2,14 @@
   "id": 219813521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.739758,40.969558,-117.739758,40.969558",
     "geom:latitude":40.969558,
     "geom:longitude":-117.739758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 US Hwy 95",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219813521,
-    "wof:lastmodified":1449071308,
+    "wof:lastmodified":1466705255,
     "wof:name":"Ford New Holland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-117.739758,40.969558,-117.739758,40.969558],
-  "geometry": {"coordinates":[-117.739758,40.969558],"type":"Point"}
+  "bbox": [
+    -117.739758,
+    40.969558,
+    -117.739758,
+    40.969558
+],
+  "geometry": {"coordinates":[-117.73975799999999,40.969558],"type":"Point"}
 }

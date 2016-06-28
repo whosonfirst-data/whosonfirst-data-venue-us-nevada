@@ -2,13 +2,14 @@
   "id": 219362045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112156,36.134929,-115.112156,36.134929",
     "geom:latitude":36.134929,
     "geom:longitude":-115.112156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 Capistrano Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219362045,
-    "wof:lastmodified":1449072665,
+    "wof:lastmodified":1466703435,
     "wof:name":"Madd Dogg Lawn Care & Mntnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.112156,36.134929,-115.112156,36.134929],
+  "bbox": [
+    -115.112156,
+    36.134929,
+    -115.112156,
+    36.134929
+],
   "geometry": {"coordinates":[-115.112156,36.134929],"type":"Point"}
 }

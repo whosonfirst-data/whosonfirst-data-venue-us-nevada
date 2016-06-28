@@ -2,13 +2,14 @@
   "id": 219708509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.027851,36.206522,-116.027851,36.206522",
     "geom:latitude":36.206522,
     "geom:longitude":-116.027851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Margaret St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219708509,
-    "wof:lastmodified":1449070943,
+    "wof:lastmodified":1466704321,
     "wof:name":"Holleman's Mobile Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-116.027851,36.206522,-116.027851,36.206522],
+  "bbox": [
+    -116.027851,
+    36.206522,
+    -116.027851,
+    36.206522
+],
   "geometry": {"coordinates":[-116.027851,36.206522],"type":"Point"}
 }

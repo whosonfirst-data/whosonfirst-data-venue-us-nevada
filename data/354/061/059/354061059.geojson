@@ -2,13 +2,14 @@
   "id": 354061059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098352,36.042151,-115.098352,36.042151",
     "geom:latitude":36.042151,
     "geom:longitude":-115.098352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 Windmill Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":354061059,
-    "wof:lastmodified":1449067191,
+    "wof:lastmodified":1466703058,
     "wof:name":"The Gin Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.098352,36.042151,-115.098352,36.042151],
-  "geometry": {"coordinates":[-115.098352,36.042151],"type":"Point"}
+  "bbox": [
+    -115.098352,
+    36.042151,
+    -115.098352,
+    36.042151
+],
+  "geometry": {"coordinates":[-115.09835200000001,36.042151],"type":"Point"}
 }

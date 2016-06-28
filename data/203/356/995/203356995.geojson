@@ -2,13 +2,14 @@
   "id": 203356995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.810567,39.320266,-119.810567,39.320266",
     "geom:latitude":39.320266,
     "geom:longitude":-119.810567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Oro Loma Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203356995,
-    "wof:lastmodified":1449026503,
+    "wof:lastmodified":1466703169,
     "wof:name":"Myles Martin Masonry",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.810567,39.320266,-119.810567,39.320266],
-  "geometry": {"coordinates":[-119.810567,39.320266],"type":"Point"}
+  "bbox": [
+    -119.810567,
+    39.320266,
+    -119.810567,
+    39.320266
+],
+  "geometry": {"coordinates":[-119.81056700000001,39.320266],"type":"Point"}
 }

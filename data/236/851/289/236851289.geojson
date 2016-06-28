@@ -2,13 +2,14 @@
   "id": 236851289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.746963,39.478806,-119.746963,39.478806",
     "geom:latitude":39.478806,
     "geom:longitude":-119.746963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4465 Boca Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236851289,
-    "wof:lastmodified":1449003900,
+    "wof:lastmodified":1466706610,
     "wof:name":"Donner Springs Mobile Home Pk",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "community"
     ]
 },
-  "bbox": [-119.746963,39.478806,-119.746963,39.478806],
-  "geometry": {"coordinates":[-119.746963,39.478806],"type":"Point"}
+  "bbox": [
+    -119.746963,
+    39.478806,
+    -119.746963,
+    39.478806
+],
+  "geometry": {"coordinates":[-119.74696299999999,39.478806],"type":"Point"}
 }

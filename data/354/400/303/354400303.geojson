@@ -2,13 +2,14 @@
   "id": 354400303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120806,36.026263,-115.120806,36.026263",
     "geom:latitude":36.026263,
     "geom:longitude":-115.120806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8985 S Eastern Ave Ste 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354400303,
-    "wof:lastmodified":1449066092,
+    "wof:lastmodified":1466706156,
     "wof:name":"Shumway Van & Hansen Law Attorneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.120806,36.026263,-115.120806,36.026263],
+  "bbox": [
+    -115.120806,
+    36.026263,
+    -115.120806,
+    36.026263
+],
   "geometry": {"coordinates":[-115.120806,36.026263],"type":"Point"}
 }

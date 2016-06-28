@@ -2,13 +2,14 @@
   "id": 219927707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092974,36.107694,-115.092974,36.107694",
     "geom:latitude":36.107694,
     "geom:longitude":-115.092974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3680 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219927707,
-    "wof:lastmodified":1449073548,
+    "wof:lastmodified":1466705941,
     "wof:name":"Homes Plus Investments Inc",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-115.092974,36.107694,-115.092974,36.107694],
+  "bbox": [
+    -115.092974,
+    36.107694,
+    -115.092974,
+    36.107694
+],
   "geometry": {"coordinates":[-115.092974,36.107694],"type":"Point"}
 }

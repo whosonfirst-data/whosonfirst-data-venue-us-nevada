@@ -2,13 +2,14 @@
   "id": 219180787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.032273,36.100192,-115.032273,36.100192",
     "geom:latitude":36.100192,
     "geom:longitude":-115.032273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219180787,
-    "wof:lastmodified":1449070512,
+    "wof:lastmodified":1466701948,
     "wof:name":"Eddas Antiques & Collectibles",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.032273,36.100192,-115.032273,36.100192],
+  "bbox": [
+    -115.032273,
+    36.100192,
+    -115.032273,
+    36.100192
+],
   "geometry": {"coordinates":[-115.032273,36.100192],"type":"Point"}
 }

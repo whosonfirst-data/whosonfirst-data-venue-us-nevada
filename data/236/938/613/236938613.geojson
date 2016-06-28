@@ -2,13 +2,14 @@
   "id": 236938613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.865937,39.546587,-119.865937,39.546587",
     "geom:latitude":39.546587,
     "geom:longitude":-119.865937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 Triple Creek Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236938613,
-    "wof:lastmodified":1449004234,
+    "wof:lastmodified":1466706750,
     "wof:name":"ASAP Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.865937,39.546587,-119.865937,39.546587],
+  "bbox": [
+    -119.865937,
+    39.546587,
+    -119.865937,
+    39.546587
+],
   "geometry": {"coordinates":[-119.865937,39.546587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219718497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187231,36.108123,-115.187231,36.108123",
     "geom:latitude":36.108123,
     "geom:longitude":-115.187231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 W Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219718497,
-    "wof:lastmodified":1449071158,
+    "wof:lastmodified":1466704419,
     "wof:name":"Convention Plant",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.187231,36.108123,-115.187231,36.108123],
+  "bbox": [
+    -115.187231,
+    36.108123,
+    -115.187231,
+    36.108123
+],
   "geometry": {"coordinates":[-115.187231,36.108123],"type":"Point"}
 }

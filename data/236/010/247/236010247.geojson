@@ -2,13 +2,14 @@
   "id": 236010247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74246,39.03662,-119.74246,39.03662",
     "geom:latitude":39.03662,
     "geom:longitude":-119.74246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2757 Vicky Ln",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236010247,
-    "wof:lastmodified":1449003759,
+    "wof:lastmodified":1466703806,
     "wof:name":"Happy Tails 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-119.74246,39.03662,-119.74246,39.03662],
-  "geometry": {"coordinates":[-119.74246,39.03662],"type":"Point"}
+  "bbox": [
+    -119.74246,
+    39.03662,
+    -119.74246,
+    39.03662
+],
+  "geometry": {"coordinates":[-119.74245999999999,39.03662],"type":"Point"}
 }

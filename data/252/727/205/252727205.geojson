@@ -2,13 +2,14 @@
   "id": 252727205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068874,36.173838,-115.068874,36.173838",
     "geom:latitude":36.173838,
     "geom:longitude":-115.068874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252727205,
-    "wof:lastmodified":1449005569,
+    "wof:lastmodified":1466701874,
     "wof:name":"Kelly Hawkins Physcial Therap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.068874,36.173838,-115.068874,36.173838],
-  "geometry": {"coordinates":[-115.068874,36.173838],"type":"Point"}
+  "bbox": [
+    -115.068874,
+    36.173838,
+    -115.068874,
+    36.173838
+],
+  "geometry": {"coordinates":[-115.06887399999999,36.173838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370301485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136664,36.012329,-115.136664,36.012329",
     "geom:latitude":36.012329,
     "geom:longitude":-115.136664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9750 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370301485,
-    "wof:lastmodified":1449029961,
+    "wof:lastmodified":1466704469,
     "wof:name":"Smith's Food & Drug Stores",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-115.136664,36.012329,-115.136664,36.012329],
+  "bbox": [
+    -115.136664,
+    36.012329,
+    -115.136664,
+    36.012329
+],
   "geometry": {"coordinates":[-115.136664,36.012329],"type":"Point"}
 }

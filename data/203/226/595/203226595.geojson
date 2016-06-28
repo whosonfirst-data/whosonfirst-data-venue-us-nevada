@@ -2,13 +2,14 @@
   "id": 203226595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.784879,40.900787,-117.784879,40.900787",
     "geom:latitude":40.900787,
     "geom:longitude":-117.784879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 W Commander Dr",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203226595,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466702359,
     "wof:name":"Echetos Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.784879,40.900787,-117.784879,40.900787],
+  "bbox": [
+    -117.784879,
+    40.900787,
+    -117.784879,
+    40.900787
+],
   "geometry": {"coordinates":[-117.784879,40.900787],"type":"Point"}
 }

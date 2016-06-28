@@ -2,13 +2,14 @@
   "id": 220139277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147886,36.177175,-115.147886,36.177175",
     "geom:latitude":36.177175,
     "geom:longitude":-115.147886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220139277,
-    "wof:lastmodified":1449074103,
+    "wof:lastmodified":1466702691,
     "wof:name":"Mer-Gin Bar Supply",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.147886,36.177175,-115.147886,36.177175],
+  "bbox": [
+    -115.147886,
+    36.177175,
+    -115.147886,
+    36.177175
+],
   "geometry": {"coordinates":[-115.147886,36.177175],"type":"Point"}
 }

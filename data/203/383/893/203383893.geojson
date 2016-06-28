@@ -2,13 +2,14 @@
   "id": 203383893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747515,39.525612,-119.747515,39.525612",
     "geom:latitude":39.525612,
     "geom:longitude":-119.747515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203383893,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466703282,
     "wof:name":"Visionscape Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.747515,39.525612,-119.747515,39.525612],
-  "geometry": {"coordinates":[-119.747515,39.525612],"type":"Point"}
+  "bbox": [
+    -119.747515,
+    39.525612,
+    -119.747515,
+    39.525612
+],
+  "geometry": {"coordinates":[-119.74751500000001,39.525612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236357673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107796,36.108267,-115.107796,36.108267",
     "geom:latitude":36.108267,
     "geom:longitude":-115.107796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4451 Tomer Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236357673,
-    "wof:lastmodified":1449004759,
+    "wof:lastmodified":1466705119,
     "wof:name":"Paradise Island Phase",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-115.107796,36.108267,-115.107796,36.108267],
-  "geometry": {"coordinates":[-115.107796,36.108267],"type":"Point"}
+  "bbox": [
+    -115.107796,
+    36.108267,
+    -115.107796,
+    36.108267
+],
+  "geometry": {"coordinates":[-115.10779599999999,36.108267],"type":"Point"}
 }

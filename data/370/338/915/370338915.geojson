@@ -2,13 +2,14 @@
   "id": 370338915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725187,39.168826,-119.725187,39.168826",
     "geom:latitude":39.168826,
     "geom:longitude":-119.725187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Woodside Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370338915,
-    "wof:lastmodified":1449030274,
+    "wof:lastmodified":1466704837,
     "wof:name":"Gutierrez Gifts & Party Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.725187,39.168826,-119.725187,39.168826],
-  "geometry": {"coordinates":[-119.725187,39.168826],"type":"Point"}
+  "bbox": [
+    -119.725187,
+    39.168826,
+    -119.725187,
+    39.168826
+],
+  "geometry": {"coordinates":[-119.72518700000001,39.168826],"type":"Point"}
 }

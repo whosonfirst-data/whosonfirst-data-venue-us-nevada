@@ -2,13 +2,14 @@
   "id": 370321401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827624,39.528759,-119.827624,39.528759",
     "geom:latitude":39.528759,
     "geom:longitude":-119.827624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370321401,
-    "wof:lastmodified":1449029147,
+    "wof:lastmodified":1466704740,
     "wof:name":"Reno Asian Supermarket",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-119.827624,39.528759,-119.827624,39.528759],
+  "bbox": [
+    -119.827624,
+    39.528759,
+    -119.827624,
+    39.528759
+],
   "geometry": {"coordinates":[-119.827624,39.528759],"type":"Point"}
 }

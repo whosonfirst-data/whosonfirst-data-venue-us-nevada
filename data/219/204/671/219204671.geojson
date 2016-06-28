@@ -2,13 +2,14 @@
   "id": 219204671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813924,39.518284,-119.813924,39.518284",
     "geom:latitude":39.518284,
     "geom:longitude":-119.813924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Humboldt St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219204671,
-    "wof:lastmodified":1449074034,
+    "wof:lastmodified":1466702105,
     "wof:name":"Intervention Solutions",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-119.813924,39.518284,-119.813924,39.518284],
+  "bbox": [
+    -119.813924,
+    39.518284,
+    -119.813924,
+    39.518284
+],
   "geometry": {"coordinates":[-119.813924,39.518284],"type":"Point"}
 }

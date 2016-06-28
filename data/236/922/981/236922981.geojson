@@ -2,13 +2,14 @@
   "id": 236922981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095535,36.085465,-115.095535,36.085465",
     "geom:latitude":36.085465,
     "geom:longitude":-115.095535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 S Hedgeford Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236922981,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1466706844,
     "wof:name":"Prices Rite Cleaning Service",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.095535,36.085465,-115.095535,36.085465],
+  "bbox": [
+    -115.095535,
+    36.085465,
+    -115.095535,
+    36.085465
+],
   "geometry": {"coordinates":[-115.095535,36.085465],"type":"Point"}
 }

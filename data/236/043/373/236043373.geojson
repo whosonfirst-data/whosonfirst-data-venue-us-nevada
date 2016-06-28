@@ -2,13 +2,14 @@
   "id": 236043373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088974,36.012957,-115.088974,36.012957",
     "geom:latitude":36.012957,
     "geom:longitude":-115.088974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2284 Coral Ridge Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236043373,
-    "wof:lastmodified":1449004239,
+    "wof:lastmodified":1466703939,
     "wof:name":"SC Realty Development Corp",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.088974,36.012957,-115.088974,36.012957],
-  "geometry": {"coordinates":[-115.088974,36.012957],"type":"Point"}
+  "bbox": [
+    -115.088974,
+    36.012957,
+    -115.088974,
+    36.012957
+],
+  "geometry": {"coordinates":[-115.08897399999999,36.012957],"type":"Point"}
 }

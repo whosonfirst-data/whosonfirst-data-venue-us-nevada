@@ -2,13 +2,14 @@
   "id": 219322833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776579,39.45848,-119.776579,39.45848",
     "geom:latitude":39.45848,
     "geom:longitude":-119.776579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 E Patriot Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219322833,
-    "wof:lastmodified":1449070340,
+    "wof:lastmodified":1466703245,
     "wof:name":"Juniper Hill Furniture & Acc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.776579,39.45848,-119.776579,39.45848],
+  "bbox": [
+    -119.776579,
+    39.45848,
+    -119.776579,
+    39.45848
+],
   "geometry": {"coordinates":[-119.776579,39.45848],"type":"Point"}
 }

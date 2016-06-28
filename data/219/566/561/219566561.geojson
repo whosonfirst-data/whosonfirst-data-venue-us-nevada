@@ -2,13 +2,14 @@
   "id": 219566561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104293,36.159825,-115.104293,36.159825",
     "geom:latitude":36.159825,
     "geom:longitude":-115.104293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 Venture Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219566561,
-    "wof:lastmodified":1449070443,
+    "wof:lastmodified":1466702512,
     "wof:name":"Jubilee Group Inc",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tile"
     ]
 },
-  "bbox": [-115.104293,36.159825,-115.104293,36.159825],
+  "bbox": [
+    -115.104293,
+    36.159825,
+    -115.104293,
+    36.159825
+],
   "geometry": {"coordinates":[-115.104293,36.159825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354292819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248515,36.132949,-115.248515,36.132949",
     "geom:latitude":36.132949,
     "geom:longitude":-115.248515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7155 Palmyra Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354292819,
-    "wof:lastmodified":1449066068,
+    "wof:lastmodified":1466705664,
     "wof:name":"Sharmark",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.248515,36.132949,-115.248515,36.132949],
+  "bbox": [
+    -115.248515,
+    36.132949,
+    -115.248515,
+    36.132949
+],
   "geometry": {"coordinates":[-115.248515,36.132949],"type":"Point"}
 }

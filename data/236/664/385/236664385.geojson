@@ -2,13 +2,14 @@
   "id": 236664385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820553,39.559093,-119.820553,39.559093",
     "geom:latitude":39.559093,
     "geom:longitude":-119.820553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Brownstone Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236664385,
-    "wof:lastmodified":1449002755,
+    "wof:lastmodified":1466706415,
     "wof:name":"Nevada Gold Exploration Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mineral"
     ]
 },
-  "bbox": [-119.820553,39.559093,-119.820553,39.559093],
+  "bbox": [
+    -119.820553,
+    39.559093,
+    -119.820553,
+    39.559093
+],
   "geometry": {"coordinates":[-119.820553,39.559093],"type":"Point"}
 }

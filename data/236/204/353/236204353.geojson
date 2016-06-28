@@ -2,13 +2,14 @@
   "id": 236204353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069695,36.117508,-115.069695,36.117508",
     "geom:latitude":36.117508,
     "geom:longitude":-115.069695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4655 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236204353,
-    "wof:lastmodified":1449005366,
+    "wof:lastmodified":1466703660,
     "wof:name":"Petersen Automotive",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.069695,36.117508,-115.069695,36.117508],
+  "bbox": [
+    -115.069695,
+    36.117508,
+    -115.069695,
+    36.117508
+],
   "geometry": {"coordinates":[-115.069695,36.117508],"type":"Point"}
 }

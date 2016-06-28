@@ -2,13 +2,14 @@
   "id": 236606113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77968,39.436893,-119.77968,39.436893",
     "geom:latitude":39.436893,
     "geom:longitude":-119.77968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Eli Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236606113,
-    "wof:lastmodified":1449002059,
+    "wof:lastmodified":1466706152,
     "wof:name":"Spanish Gardener",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.77968,39.436893,-119.77968,39.436893],
+  "bbox": [
+    -119.77968,
+    39.436893,
+    -119.77968,
+    39.436893
+],
   "geometry": {"coordinates":[-119.77968,39.436893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236698035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094155,36.095387,-115.094155,36.095387",
     "geom:latitude":36.095387,
     "geom:longitude":-115.094155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Tennis Court St S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236698035,
-    "wof:lastmodified":1449005009,
+    "wof:lastmodified":1466706621,
     "wof:name":"Civic Partners LLC",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-115.094155,36.095387,-115.094155,36.095387],
+  "bbox": [
+    -115.094155,
+    36.095387,
+    -115.094155,
+    36.095387
+],
   "geometry": {"coordinates":[-115.094155,36.095387],"type":"Point"}
 }

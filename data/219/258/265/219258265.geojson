@@ -2,13 +2,14 @@
   "id": 219258265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.8203,39.520847,-119.8203,39.520847",
     "geom:latitude":39.520847,
     "geom:longitude":-119.8203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 Ridge St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219258265,
-    "wof:lastmodified":1449073210,
+    "wof:lastmodified":1466702625,
     "wof:name":"Mercedes De La Garza",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.8203,39.520847,-119.8203,39.520847],
+  "bbox": [
+    -119.8203,
+    39.520847,
+    -119.8203,
+    39.520847
+],
   "geometry": {"coordinates":[-119.8203,39.520847],"type":"Point"}
 }

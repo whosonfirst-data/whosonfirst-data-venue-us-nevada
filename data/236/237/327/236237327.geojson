@@ -2,13 +2,14 @@
   "id": 236237327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16035,36.069033,-115.16035,36.069033",
     "geom:latitude":36.069033,
     "geom:longitude":-115.16035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6650 Amelia Earhart Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236237327,
-    "wof:lastmodified":1449001739,
+    "wof:lastmodified":1466704317,
     "wof:name":"Creative Electronics & Sftwre",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-115.16035,36.069033,-115.16035,36.069033],
-  "geometry": {"coordinates":[-115.16035,36.069033],"type":"Point"}
+  "bbox": [
+    -115.16035,
+    36.069033,
+    -115.16035,
+    36.069033
+],
+  "geometry": {"coordinates":[-115.16034999999999,36.069033],"type":"Point"}
 }

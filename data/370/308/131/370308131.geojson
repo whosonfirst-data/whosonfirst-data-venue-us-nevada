@@ -2,13 +2,14 @@
   "id": 370308131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.296097,38.790193,-119.296097,38.790193",
     "geom:latitude":38.790193,
     "geom:longitude":-119.296097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Garms Cir",
     "sg:city":"Smith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370308131,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1466704641,
     "wof:name":"Spring Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.296097,38.790193,-119.296097,38.790193],
+  "bbox": [
+    -119.296097,
+    38.790193,
+    -119.296097,
+    38.790193
+],
   "geometry": {"coordinates":[-119.296097,38.790193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354099551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194412,36.130283,-115.194412,36.130283",
     "geom:latitude":36.130283,
     "geom:longitude":-115.194412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 W Desert Inn Rd Ste W111",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354099551,
-    "wof:lastmodified":1449067079,
+    "wof:lastmodified":1466704115,
     "wof:name":"Penguin Construction Co Llc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.194412,36.130283,-115.194412,36.130283],
+  "bbox": [
+    -115.194412,
+    36.130283,
+    -115.194412,
+    36.130283
+],
   "geometry": {"coordinates":[-115.194412,36.130283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219683859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150134,36.124595,-115.150134,36.124595",
     "geom:latitude":36.124595,
     "geom:longitude":-115.150134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Delfern Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219683859,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466704355,
     "wof:name":"Sunrise Community Church",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.150134,36.124595,-115.150134,36.124595],
-  "geometry": {"coordinates":[-115.150134,36.124595],"type":"Point"}
+  "bbox": [
+    -115.150134,
+    36.124595,
+    -115.150134,
+    36.124595
+],
+  "geometry": {"coordinates":[-115.15013399999999,36.124595],"type":"Point"}
 }

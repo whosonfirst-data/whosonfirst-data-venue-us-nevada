@@ -2,13 +2,14 @@
   "id": 219808831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170101,36.141739,-115.170101,36.141739",
     "geom:latitude":36.141739,
     "geom:longitude":-115.170101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2642 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219808831,
-    "wof:lastmodified":1449070545,
+    "wof:lastmodified":1466705000,
     "wof:name":"Hootsman's Moving Supplies",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.170101,36.141739,-115.170101,36.141739],
+  "bbox": [
+    -115.170101,
+    36.141739,
+    -115.170101,
+    36.141739
+],
   "geometry": {"coordinates":[-115.170101,36.141739],"type":"Point"}
 }

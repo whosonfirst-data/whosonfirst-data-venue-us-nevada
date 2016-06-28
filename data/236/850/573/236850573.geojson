@@ -2,13 +2,14 @@
   "id": 236850573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146144,36.034654,-115.146144,36.034654",
     "geom:latitude":36.034654,
     "geom:longitude":-115.146144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"773 Garnet Point Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236850573,
-    "wof:lastmodified":1449003580,
+    "wof:lastmodified":1466706728,
     "wof:name":"Josselyn Consulting",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.146144,36.034654,-115.146144,36.034654],
-  "geometry": {"coordinates":[-115.146144,36.034654],"type":"Point"}
+  "bbox": [
+    -115.146144,
+    36.034654,
+    -115.146144,
+    36.034654
+],
+  "geometry": {"coordinates":[-115.14614400000001,36.034654],"type":"Point"}
 }

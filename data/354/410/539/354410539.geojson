@@ -2,13 +2,14 @@
   "id": 354410539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152537,36.028697,-115.152537,36.028697",
     "geom:latitude":36.028697,
     "geom:longitude":-115.152537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8853 Haviland Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354410539,
-    "wof:lastmodified":1449065959,
+    "wof:lastmodified":1466706184,
     "wof:name":"Vegas Valley Carpet Care Llc",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.152537,36.028697,-115.152537,36.028697],
+  "bbox": [
+    -115.152537,
+    36.028697,
+    -115.152537,
+    36.028697
+],
   "geometry": {"coordinates":[-115.152537,36.028697],"type":"Point"}
 }

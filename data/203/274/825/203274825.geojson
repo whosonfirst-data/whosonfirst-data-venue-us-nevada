@@ -2,13 +2,14 @@
   "id": 203274825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.020972,36.029841,-115.020972,36.029841",
     "geom:latitude":36.029841,
     "geom:longitude":-115.020972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Milicity Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203274825,
-    "wof:lastmodified":1449025177,
+    "wof:lastmodified":1466702662,
     "wof:name":"Vegas Balley Umpires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "umpiring"
     ]
 },
-  "bbox": [-115.020972,36.029841,-115.020972,36.029841],
+  "bbox": [
+    -115.020972,
+    36.029841,
+    -115.020972,
+    36.029841
+],
   "geometry": {"coordinates":[-115.020972,36.029841],"type":"Point"}
 }

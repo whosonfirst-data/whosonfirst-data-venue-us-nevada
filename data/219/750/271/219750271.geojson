@@ -2,13 +2,14 @@
   "id": 219750271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799508,39.538523,-119.799508,39.538523",
     "geom:latitude":39.538523,
     "geom:longitude":-119.799508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E 9th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219750271,
-    "wof:lastmodified":1449072522,
+    "wof:lastmodified":1466704613,
     "wof:name":"Washoe County Controller",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "taxation"
     ]
 },
-  "bbox": [-119.799508,39.538523,-119.799508,39.538523],
+  "bbox": [
+    -119.799508,
+    39.538523,
+    -119.799508,
+    39.538523
+],
   "geometry": {"coordinates":[-119.799508,39.538523],"type":"Point"}
 }

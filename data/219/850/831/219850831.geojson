@@ -2,13 +2,14 @@
   "id": 219850831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717903,39.56802,-119.717903,39.56802",
     "geom:latitude":39.56802,
     "geom:longitude":-119.717903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1386 Astral Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219850831,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466705234,
     "wof:name":"White Lightning",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.717903,39.56802,-119.717903,39.56802],
-  "geometry": {"coordinates":[-119.717903,39.56802],"type":"Point"}
+  "bbox": [
+    -119.717903,
+    39.56802,
+    -119.717903,
+    39.56802
+],
+  "geometry": {"coordinates":[-119.71790300000001,39.56802],"type":"Point"}
 }

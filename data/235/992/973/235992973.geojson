@@ -2,13 +2,14 @@
   "id": 235992973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.788579,39.541941,-119.788579,39.541941",
     "geom:latitude":39.541941,
     "geom:longitude":-119.788579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Carville Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235992973,
-    "wof:lastmodified":1449008412,
+    "wof:lastmodified":1466703731,
     "wof:name":"Northgate Villas Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.788579,39.541941,-119.788579,39.541941],
+  "bbox": [
+    -119.788579,
+    39.541941,
+    -119.788579,
+    39.541941
+],
   "geometry": {"coordinates":[-119.788579,39.541941],"type":"Point"}
 }

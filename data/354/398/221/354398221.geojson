@@ -2,13 +2,14 @@
   "id": 354398221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136139,36.028785,-115.136139,36.028785",
     "geom:latitude":36.028785,
     "geom:longitude":-115.136139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8860 S Maryland Pkwy Ste 111",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354398221,
-    "wof:lastmodified":1449066060,
+    "wof:lastmodified":1466706269,
     "wof:name":"Dante's Interiors",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.136139,36.028785,-115.136139,36.028785],
+  "bbox": [
+    -115.136139,
+    36.028785,
+    -115.136139,
+    36.028785
+],
   "geometry": {"coordinates":[-115.136139,36.028785],"type":"Point"}
 }

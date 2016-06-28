@@ -2,13 +2,14 @@
   "id": 370293825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144838,36.122041,-115.144838,36.122041",
     "geom:latitude":36.122041,
     "geom:longitude":-115.144838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 E Twain Avenue Suite 128",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370293825,
-    "wof:lastmodified":1449029756,
+    "wof:lastmodified":1466704533,
     "wof:name":"Camacho Jewelry",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.144838,36.122041,-115.144838,36.122041],
-  "geometry": {"coordinates":[-115.144838,36.122041],"type":"Point"}
+  "bbox": [
+    -115.144838,
+    36.122041,
+    -115.144838,
+    36.122041
+],
+  "geometry": {"coordinates":[-115.14483799999999,36.122041],"type":"Point"}
 }

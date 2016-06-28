@@ -2,13 +2,14 @@
   "id": 236675487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782847,39.583446,-119.782847,39.583446",
     "geom:latitude":39.583446,
     "geom:longitude":-119.782847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 Slope Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236675487,
-    "wof:lastmodified":1449003304,
+    "wof:lastmodified":1466706437,
     "wof:name":"Boardwalk Handicap Consulting",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wheelchair"
     ]
 },
-  "bbox": [-119.782847,39.583446,-119.782847,39.583446],
+  "bbox": [
+    -119.782847,
+    39.583446,
+    -119.782847,
+    39.583446
+],
   "geometry": {"coordinates":[-119.782847,39.583446],"type":"Point"}
 }

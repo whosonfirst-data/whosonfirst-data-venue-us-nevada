@@ -2,13 +2,14 @@
   "id": 236739227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073206,36.199624,-115.073206,36.199624",
     "geom:latitude":36.199624,
     "geom:longitude":-115.073206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 Judson Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236739227,
-    "wof:lastmodified":1449002968,
+    "wof:lastmodified":1466706539,
     "wof:name":"Commercial Fuel Svc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricating"
     ]
 },
-  "bbox": [-115.073206,36.199624,-115.073206,36.199624],
+  "bbox": [
+    -115.073206,
+    36.199624,
+    -115.073206,
+    36.199624
+],
   "geometry": {"coordinates":[-115.073206,36.199624],"type":"Point"}
 }

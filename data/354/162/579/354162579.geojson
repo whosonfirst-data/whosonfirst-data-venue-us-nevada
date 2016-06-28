@@ -2,13 +2,14 @@
   "id": 354162579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186977,36.115336,-115.186977,36.115336",
     "geom:latitude":36.115336,
     "geom:longitude":-115.186977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Rio All-Suite Hotel & Casino 3700 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354162579,
-    "wof:lastmodified":1449067406,
+    "wof:lastmodified":1466704781,
     "wof:name":"Lucky Strike Lanes",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.186977,36.115336,-115.186977,36.115336],
+  "bbox": [
+    -115.186977,
+    36.115336,
+    -115.186977,
+    36.115336
+],
   "geometry": {"coordinates":[-115.186977,36.115336],"type":"Point"}
 }

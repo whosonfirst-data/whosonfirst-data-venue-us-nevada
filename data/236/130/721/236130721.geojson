@@ -2,13 +2,14 @@
   "id": 236130721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.728505,39.567466,-119.728505,39.567466",
     "geom:latitude":39.567466,
     "geom:longitude":-119.728505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2566 Libero Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236130721,
-    "wof:lastmodified":1449002650,
+    "wof:lastmodified":1466702149,
     "wof:name":"Evans Sales Group Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.728505,39.567466,-119.728505,39.567466],
+  "bbox": [
+    -119.728505,
+    39.567466,
+    -119.728505,
+    39.567466
+],
   "geometry": {"coordinates":[-119.728505,39.567466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370213349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.321377,36.190376,-115.321377,36.190376",
     "geom:latitude":36.190376,
     "geom:longitude":-115.321377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10314 Pacific Summerset Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370213349,
-    "wof:lastmodified":1449029105,
+    "wof:lastmodified":1466702891,
     "wof:name":"Pacific Vintage",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.321377,36.190376,-115.321377,36.190376],
+  "bbox": [
+    -115.321377,
+    36.190376,
+    -115.321377,
+    36.190376
+],
   "geometry": {"coordinates":[-115.321377,36.190376],"type":"Point"}
 }

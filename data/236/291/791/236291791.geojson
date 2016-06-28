@@ -2,13 +2,14 @@
   "id": 236291791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.813239,40.840982,-115.813239,40.840982",
     "geom:latitude":40.840982,
     "geom:longitude":-115.813239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 Sagecrest Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236291791,
-    "wof:lastmodified":1449002504,
+    "wof:lastmodified":1466704623,
     "wof:name":"Armadillo Express",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.813239,40.840982,-115.813239,40.840982],
+  "bbox": [
+    -115.813239,
+    40.840982,
+    -115.813239,
+    40.840982
+],
   "geometry": {"coordinates":[-115.813239,40.840982],"type":"Point"}
 }

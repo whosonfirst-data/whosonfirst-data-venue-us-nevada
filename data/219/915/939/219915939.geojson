@@ -2,13 +2,14 @@
   "id": 219915939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.833485,39.608565,-119.833485,39.608565",
     "geom:latitude":39.608565,
     "geom:longitude":-119.833485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Winchester Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219915939,
-    "wof:lastmodified":1449073875,
+    "wof:lastmodified":1466705715,
     "wof:name":"Disbrow Lynford",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.833485,39.608565,-119.833485,39.608565],
+  "bbox": [
+    -119.833485,
+    39.608565,
+    -119.833485,
+    39.608565
+],
   "geometry": {"coordinates":[-119.833485,39.608565],"type":"Point"}
 }

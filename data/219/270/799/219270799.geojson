@@ -2,13 +2,14 @@
   "id": 219270799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139703,36.060399,-115.139703,36.060399",
     "geom:latitude":36.060399,
     "geom:longitude":-115.139703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7069 Ovation Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219270799,
-    "wof:lastmodified":1449071023,
+    "wof:lastmodified":1466702748,
     "wof:name":"Oritech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financing"
     ]
 },
-  "bbox": [-115.139703,36.060399,-115.139703,36.060399],
+  "bbox": [
+    -115.139703,
+    36.060399,
+    -115.139703,
+    36.060399
+],
   "geometry": {"coordinates":[-115.139703,36.060399],"type":"Point"}
 }

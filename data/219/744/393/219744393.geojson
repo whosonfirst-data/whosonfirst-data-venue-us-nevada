@@ -2,13 +2,14 @@
   "id": 219744393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111138,36.194334,-115.111138,36.194334",
     "geom:latitude":36.194334,
     "geom:longitude":-115.111138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Hickey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219744393,
-    "wof:lastmodified":1449071663,
+    "wof:lastmodified":1466704739,
     "wof:name":"Exotico Landscaping",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.111138,36.194334,-115.111138,36.194334],
+  "bbox": [
+    -115.111138,
+    36.194334,
+    -115.111138,
+    36.194334
+],
   "geometry": {"coordinates":[-115.111138,36.194334],"type":"Point"}
 }

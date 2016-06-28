@@ -2,13 +2,14 @@
   "id": 219362233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.841032,38.933057,-119.841032,38.933057",
     "geom:latitude":38.933057,
     "geom:longitude":-119.841032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Foothill Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219362233,
-    "wof:lastmodified":1449072666,
+    "wof:lastmodified":1466703438,
     "wof:name":"AMS-Air Conditioning Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.841032,38.933057,-119.841032,38.933057],
+  "bbox": [
+    -119.841032,
+    38.933057,
+    -119.841032,
+    38.933057
+],
   "geometry": {"coordinates":[-119.841032,38.933057],"type":"Point"}
 }

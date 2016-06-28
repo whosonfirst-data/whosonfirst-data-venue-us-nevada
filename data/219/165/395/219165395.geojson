@@ -2,13 +2,14 @@
   "id": 219165395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.923906,39.663403,-119.923906,39.663403",
     "geom:latitude":39.663403,
     "geom:longitude":-119.923906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 Sutters Mill Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219165395,
-    "wof:lastmodified":1449073923,
+    "wof:lastmodified":1466701653,
     "wof:name":"Bayco Construction",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.923906,39.663403,-119.923906,39.663403],
+  "bbox": [
+    -119.923906,
+    39.663403,
+    -119.923906,
+    39.663403
+],
   "geometry": {"coordinates":[-119.923906,39.663403],"type":"Point"}
 }

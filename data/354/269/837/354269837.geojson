@@ -2,13 +2,14 @@
   "id": 354269837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097395,36.158913,-115.097395,36.158913",
     "geom:latitude":36.158913,
     "geom:longitude":-115.097395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3508 East Charleston Blvd.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354269837,
-    "wof:lastmodified":1449067024,
+    "wof:lastmodified":1466705513,
     "wof:name":"Ideal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-115.097395,36.158913,-115.097395,36.158913],
-  "geometry": {"coordinates":[-115.097395,36.158913],"type":"Point"}
+  "bbox": [
+    -115.097395,
+    36.158913,
+    -115.097395,
+    36.158913
+],
+  "geometry": {"coordinates":[-115.09739500000001,36.158913],"type":"Point"}
 }

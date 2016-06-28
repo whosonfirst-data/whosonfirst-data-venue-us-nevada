@@ -2,13 +2,14 @@
   "id": 236338981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.88365,39.249732,-114.88365,39.249732",
     "geom:latitude":39.249732,
     "geom:longitude":-114.88365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236338981,
-    "wof:lastmodified":1449002653,
+    "wof:lastmodified":1466704838,
     "wof:name":"RNDC",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financing"
     ]
 },
-  "bbox": [-114.88365,39.249732,-114.88365,39.249732],
+  "bbox": [
+    -114.88365,
+    39.249732,
+    -114.88365,
+    39.249732
+],
   "geometry": {"coordinates":[-114.88365,39.249732],"type":"Point"}
 }

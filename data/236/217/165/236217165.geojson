@@ -2,13 +2,14 @@
   "id": 236217165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072524,36.061051,-115.072524,36.061051",
     "geom:latitude":36.061051,
     "geom:longitude":-115.072524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2258 Marlboro Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236217165,
-    "wof:lastmodified":1449005013,
+    "wof:lastmodified":1466703916,
     "wof:name":"Reeves Construction",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.072524,36.061051,-115.072524,36.061051],
+  "bbox": [
+    -115.072524,
+    36.061051,
+    -115.072524,
+    36.061051
+],
   "geometry": {"coordinates":[-115.072524,36.061051],"type":"Point"}
 }

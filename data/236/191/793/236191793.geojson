@@ -2,13 +2,14 @@
   "id": 236191793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23212,36.214664,-115.23212,36.214664",
     "geom:latitude":36.214664,
     "geom:longitude":-115.23212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Blossomwood Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236191793,
-    "wof:lastmodified":1449003691,
+    "wof:lastmodified":1466703402,
     "wof:name":"Lourdes Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.23212,36.214664,-115.23212,36.214664],
-  "geometry": {"coordinates":[-115.23212,36.214664],"type":"Point"}
+  "bbox": [
+    -115.23212,
+    36.214664,
+    -115.23212,
+    36.214664
+],
+  "geometry": {"coordinates":[-115.23211999999999,36.214664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236175965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.329876,36.139169,-115.329876,36.139169",
     "geom:latitude":36.139169,
     "geom:longitude":-115.329876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10889 Eden Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236175965,
-    "wof:lastmodified":1449004034,
+    "wof:lastmodified":1466703102,
     "wof:name":"Forte Gifts",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.329876,36.139169,-115.329876,36.139169],
+  "bbox": [
+    -115.329876,
+    36.139169,
+    -115.329876,
+    36.139169
+],
   "geometry": {"coordinates":[-115.329876,36.139169],"type":"Point"}
 }

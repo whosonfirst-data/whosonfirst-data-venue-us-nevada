@@ -2,13 +2,14 @@
   "id": 236796689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243107,36.147869,-115.243107,36.147869",
     "geom:latitude":36.147869,
     "geom:longitude":-115.243107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236796689,
-    "wof:lastmodified":1449003161,
+    "wof:lastmodified":1466706650,
     "wof:name":"A Sleep Inn Mattress Factory",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.243107,36.147869,-115.243107,36.147869],
-  "geometry": {"coordinates":[-115.243107,36.147869],"type":"Point"}
+  "bbox": [
+    -115.243107,
+    36.147869,
+    -115.243107,
+    36.147869
+],
+  "geometry": {"coordinates":[-115.24310699999999,36.147869],"type":"Point"}
 }

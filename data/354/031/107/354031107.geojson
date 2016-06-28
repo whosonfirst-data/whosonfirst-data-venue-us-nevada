@@ -2,13 +2,14 @@
   "id": 354031107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116647,36.23948,-115.116647,36.23948",
     "geom:latitude":36.23948,
     "geom:longitude":-115.116647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4336 Losee Rd Ste 5",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354031107,
-    "wof:lastmodified":1449066545,
+    "wof:lastmodified":1466702308,
     "wof:name":"Archon Corporation",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boating"
     ]
 },
-  "bbox": [-115.116647,36.23948,-115.116647,36.23948],
+  "bbox": [
+    -115.116647,
+    36.23948,
+    -115.116647,
+    36.23948
+],
   "geometry": {"coordinates":[-115.116647,36.23948],"type":"Point"}
 }

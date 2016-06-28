@@ -2,13 +2,14 @@
   "id": 236373645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79298,39.527385,-119.79298,39.527385",
     "geom:latitude":39.527385,
     "geom:longitude":-119.79298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236373645,
-    "wof:lastmodified":1449003340,
+    "wof:lastmodified":1466705042,
     "wof:name":"Keane Dadhri L Ms Mft",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.79298,39.527385,-119.79298,39.527385],
+  "bbox": [
+    -119.79298,
+    39.527385,
+    -119.79298,
+    39.527385
+],
   "geometry": {"coordinates":[-119.79298,39.527385],"type":"Point"}
 }

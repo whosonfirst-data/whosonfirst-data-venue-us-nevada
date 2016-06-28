@@ -2,13 +2,14 @@
   "id": 252709213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087219,36.221181,-115.087219,36.221181",
     "geom:latitude":36.221181,
     "geom:longitude":-115.087219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":252709213,
-    "wof:lastmodified":1449005629,
+    "wof:lastmodified":1466701501,
     "wof:name":"Van's Trailer Oasis",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "site"
     ]
 },
-  "bbox": [-115.087219,36.221181,-115.087219,36.221181],
+  "bbox": [
+    -115.087219,
+    36.221181,
+    -115.087219,
+    36.221181
+],
   "geometry": {"coordinates":[-115.087219,36.221181],"type":"Point"}
 }

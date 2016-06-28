@@ -2,13 +2,14 @@
   "id": 219654949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164101,35.977017,-115.164101,35.977017",
     "geom:latitude":35.977017,
     "geom:longitude":-115.164101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Bella Milano Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219654949,
-    "wof:lastmodified":1449071585,
+    "wof:lastmodified":1466703903,
     "wof:name":"Happy Home Cleaning Svc",
     "wof:parent_id":85878139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.164101,35.977017,-115.164101,35.977017],
+  "bbox": [
+    -115.164101,
+    35.977017,
+    -115.164101,
+    35.977017
+],
   "geometry": {"coordinates":[-115.164101,35.977017],"type":"Point"}
 }

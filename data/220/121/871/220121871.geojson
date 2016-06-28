@@ -2,13 +2,14 @@
   "id": 220121871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117654,36.226636,-115.117654,36.226636",
     "geom:latitude":36.226636,
     "geom:longitude":-115.117654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3873 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220121871,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466702551,
     "wof:name":"Casa Flooring",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-115.117654,36.226636,-115.117654,36.226636],
+  "bbox": [
+    -115.117654,
+    36.226636,
+    -115.117654,
+    36.226636
+],
   "geometry": {"coordinates":[-115.117654,36.226636],"type":"Point"}
 }

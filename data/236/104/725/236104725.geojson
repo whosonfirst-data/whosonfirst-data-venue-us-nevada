@@ -2,13 +2,14 @@
   "id": 236104725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136653,36.04776,-115.136653,36.04776",
     "geom:latitude":36.04776,
     "geom:longitude":-115.136653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7784 Pink Ginger St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236104725,
-    "wof:lastmodified":1449002925,
+    "wof:lastmodified":1466701631,
     "wof:name":"FREESANITY.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guide"
     ]
 },
-  "bbox": [-115.136653,36.04776,-115.136653,36.04776],
+  "bbox": [
+    -115.136653,
+    36.04776,
+    -115.136653,
+    36.04776
+],
   "geometry": {"coordinates":[-115.136653,36.04776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219434777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74764,39.407614,-119.74764,39.407614",
     "geom:latitude":39.407614,
     "geom:longitude":-119.74764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13933 Old Virginia Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219434777,
-    "wof:lastmodified":1449071162,
+    "wof:lastmodified":1466703809,
     "wof:name":"Brag's Electric",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.74764,39.407614,-119.74764,39.407614],
+  "bbox": [
+    -119.74764,
+    39.407614,
+    -119.74764,
+    39.407614
+],
   "geometry": {"coordinates":[-119.74764,39.407614],"type":"Point"}
 }

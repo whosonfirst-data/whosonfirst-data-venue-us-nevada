@@ -2,13 +2,14 @@
   "id": 236441489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774785,39.291553,-119.774785,39.291553",
     "geom:latitude":39.291553,
     "geom:longitude":-119.774785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2935 Falcon St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236441489,
-    "wof:lastmodified":1449001866,
+    "wof:lastmodified":1466705562,
     "wof:name":"Manoukian Construction",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.774785,39.291553,-119.774785,39.291553],
-  "geometry": {"coordinates":[-119.774785,39.291553],"type":"Point"}
+  "bbox": [
+    -119.774785,
+    39.291553,
+    -119.774785,
+    39.291553
+],
+  "geometry": {"coordinates":[-119.77478499999999,39.291553],"type":"Point"}
 }

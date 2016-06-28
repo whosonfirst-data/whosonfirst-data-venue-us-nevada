@@ -2,13 +2,14 @@
   "id": 236757135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085191,36.095016,-115.085191,36.095016",
     "geom:latitude":36.095016,
     "geom:longitude":-115.085191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Venita Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236757135,
-    "wof:lastmodified":1449003524,
+    "wof:lastmodified":1466706568,
     "wof:name":"Home Repair Experts",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.085191,36.095016,-115.085191,36.095016],
-  "geometry": {"coordinates":[-115.085191,36.095016],"type":"Point"}
+  "bbox": [
+    -115.085191,
+    36.095016,
+    -115.085191,
+    36.095016
+],
+  "geometry": {"coordinates":[-115.08519099999999,36.095016],"type":"Point"}
 }

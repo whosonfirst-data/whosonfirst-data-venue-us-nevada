@@ -2,13 +2,14 @@
   "id": 354064069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177544,36.276403,-115.177544,36.276403",
     "geom:latitude":36.276403,
     "geom:longitude":-115.177544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2645 W Centennial Pkwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354064069,
-    "wof:lastmodified":1449066521,
+    "wof:lastmodified":1466703144,
     "wof:name":"Learning Care Group",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-115.177544,36.276403,-115.177544,36.276403],
+  "bbox": [
+    -115.177544,
+    36.276403,
+    -115.177544,
+    36.276403
+],
   "geometry": {"coordinates":[-115.177544,36.276403],"type":"Point"}
 }

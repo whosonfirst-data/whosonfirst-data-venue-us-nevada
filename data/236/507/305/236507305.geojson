@@ -2,13 +2,14 @@
   "id": 236507305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.76148,40.832902,-115.76148,40.832902",
     "geom:latitude":40.832902,
     "geom:longitude":-115.76148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Railroad St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236507305,
-    "wof:lastmodified":1449003323,
+    "wof:lastmodified":1466705709,
     "wof:name":"Western Folklife Center",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "cowboy"
     ]
 },
-  "bbox": [-115.76148,40.832902,-115.76148,40.832902],
-  "geometry": {"coordinates":[-115.76148,40.832902],"type":"Point"}
+  "bbox": [
+    -115.76148,
+    40.832902,
+    -115.76148,
+    40.832902
+],
+  "geometry": {"coordinates":[-115.76148000000001,40.832902],"type":"Point"}
 }

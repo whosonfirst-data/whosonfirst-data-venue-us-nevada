@@ -2,13 +2,14 @@
   "id": 219613047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095963,36.118762,-115.095963,36.118762",
     "geom:latitude":36.118762,
     "geom:longitude":-115.095963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3657 E Viking Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219613047,
-    "wof:lastmodified":1449072039,
+    "wof:lastmodified":1466703147,
     "wof:name":"Consolidated Laboratories Inc",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.095963,36.118762,-115.095963,36.118762],
+  "bbox": [
+    -115.095963,
+    36.118762,
+    -115.095963,
+    36.118762
+],
   "geometry": {"coordinates":[-115.095963,36.118762],"type":"Point"}
 }

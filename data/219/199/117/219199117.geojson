@@ -2,13 +2,14 @@
   "id": 219199117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764145,38.901744,-119.764145,38.901744",
     "geom:latitude":38.901744,
     "geom:longitude":-119.764145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Amarillo Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219199117,
-    "wof:lastmodified":1449070753,
+    "wof:lastmodified":1466702045,
     "wof:name":"Lake Tahoe Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.764145,38.901744,-119.764145,38.901744],
+  "bbox": [
+    -119.764145,
+    38.901744,
+    -119.764145,
+    38.901744
+],
   "geometry": {"coordinates":[-119.764145,38.901744],"type":"Point"}
 }

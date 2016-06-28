@@ -2,13 +2,14 @@
   "id": 219952891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.732709,40.83292,-115.732709,40.83292",
     "geom:latitude":40.83292,
     "geom:longitude":-115.732709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 Pinion Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219952891,
-    "wof:lastmodified":1449072941,
+    "wof:lastmodified":1466705811,
     "wof:name":"Elko Glass Svc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass"
     ]
 },
-  "bbox": [-115.732709,40.83292,-115.732709,40.83292],
+  "bbox": [
+    -115.732709,
+    40.83292,
+    -115.732709,
+    40.83292
+],
   "geometry": {"coordinates":[-115.732709,40.83292],"type":"Point"}
 }

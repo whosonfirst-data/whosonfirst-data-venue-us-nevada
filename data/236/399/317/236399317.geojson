@@ -2,13 +2,14 @@
   "id": 236399317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.777288,40.827991,-115.777288,40.827991",
     "geom:latitude":40.827991,
     "geom:longitude":-115.777288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"976 Mountain City Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236399317,
-    "wof:lastmodified":1449002112,
+    "wof:lastmodified":1466705345,
     "wof:name":"Casino Express",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-115.777288,40.827991,-115.777288,40.827991],
+  "bbox": [
+    -115.777288,
+    40.827991,
+    -115.777288,
+    40.827991
+],
   "geometry": {"coordinates":[-115.777288,40.827991],"type":"Point"}
 }

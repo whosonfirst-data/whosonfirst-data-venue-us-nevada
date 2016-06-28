@@ -2,13 +2,14 @@
   "id": 236570447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.082287,36.818913,-114.082287,36.818913",
     "geom:latitude":36.818913,
     "geom:longitude":-114.082287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Via Ventana",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236570447,
-    "wof:lastmodified":1449003636,
+    "wof:lastmodified":1466706177,
     "wof:name":"Cora Rall Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.082287,36.818913,-114.082287,36.818913],
-  "geometry": {"coordinates":[-114.082287,36.818913],"type":"Point"}
+  "bbox": [
+    -114.082287,
+    36.818913,
+    -114.082287,
+    36.818913
+],
+  "geometry": {"coordinates":[-114.08228699999999,36.818913],"type":"Point"}
 }

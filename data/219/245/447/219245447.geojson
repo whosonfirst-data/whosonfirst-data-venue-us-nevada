@@ -2,13 +2,14 @@
   "id": 219245447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077896,36.197477,-115.077896,36.197477",
     "geom:latitude":36.197477,
     "geom:longitude":-115.077896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 Abels Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219245447,
-    "wof:lastmodified":1449073799,
+    "wof:lastmodified":1466702505,
     "wof:name":"Larsen Enterprises Inc",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-115.077896,36.197477,-115.077896,36.197477],
+  "bbox": [
+    -115.077896,
+    36.197477,
+    -115.077896,
+    36.197477
+],
   "geometry": {"coordinates":[-115.077896,36.197477],"type":"Point"}
 }

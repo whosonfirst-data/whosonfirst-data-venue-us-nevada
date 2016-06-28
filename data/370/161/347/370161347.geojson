@@ -2,13 +2,14 @@
   "id": 370161347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.274166,36.21858,-115.274166,36.21858",
     "geom:latitude":36.21858,
     "geom:longitude":-115.274166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Supersmile 3200 Soaring Gulls Dr, Ste 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370161347,
-    "wof:lastmodified":1449030420,
+    "wof:lastmodified":1466701816,
     "wof:name":"Brian Chamberlain, DDS, MDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-115.274166,36.21858,-115.274166,36.21858],
-  "geometry": {"coordinates":[-115.274166,36.21858],"type":"Point"}
+  "bbox": [
+    -115.274166,
+    36.21858,
+    -115.274166,
+    36.21858
+],
+  "geometry": {"coordinates":[-115.27416599999999,36.21858],"type":"Point"}
 }

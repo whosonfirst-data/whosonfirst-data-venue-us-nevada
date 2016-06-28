@@ -2,13 +2,14 @@
   "id": 370195271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.30136,36.207406,-115.30136,36.207406",
     "geom:latitude":36.207406,
     "geom:longitude":-115.30136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9414 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370195271,
-    "wof:lastmodified":1449031300,
+    "wof:lastmodified":1466702393,
     "wof:name":"Desert Sage Counseling",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "life"
     ]
 },
-  "bbox": [-115.30136,36.207406,-115.30136,36.207406],
+  "bbox": [
+    -115.30136,
+    36.207406,
+    -115.30136,
+    36.207406
+],
   "geometry": {"coordinates":[-115.30136,36.207406],"type":"Point"}
 }

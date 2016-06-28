@@ -2,13 +2,14 @@
   "id": 354170337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152869,36.146856,-115.152869,36.146856",
     "geom:latitude":36.146856,
     "geom:longitude":-115.152869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Paradise Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354170337,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1466704696,
     "wof:name":"Rhee's Acupuncture & Herb Medicine",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-115.152869,36.146856,-115.152869,36.146856],
+  "bbox": [
+    -115.152869,
+    36.146856,
+    -115.152869,
+    36.146856
+],
   "geometry": {"coordinates":[-115.152869,36.146856],"type":"Point"}
 }

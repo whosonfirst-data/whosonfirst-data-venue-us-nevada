@@ -2,13 +2,14 @@
   "id": 219559481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.828876,39.525909,-119.828876,39.525909",
     "geom:latitude":39.525909,
     "geom:longitude":-119.828876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219559481,
-    "wof:lastmodified":1449073161,
+    "wof:lastmodified":1466702390,
     "wof:name":"Diamond Glass Co",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "enclosure"
     ]
 },
-  "bbox": [-119.828876,39.525909,-119.828876,39.525909],
-  "geometry": {"coordinates":[-119.828876,39.525909],"type":"Point"}
+  "bbox": [
+    -119.828876,
+    39.525909,
+    -119.828876,
+    39.525909
+],
+  "geometry": {"coordinates":[-119.82887599999999,39.525909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236358519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.476511,40.115288,-118.476511,40.115288",
     "geom:latitude":40.115288,
     "geom:longitude":-118.476511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Reservation Rd",
     "sg:city":"Mc Dermitt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236358519,
-    "wof:lastmodified":1449002967,
+    "wof:lastmodified":1466705118,
     "wof:name":"Fort McDermitt Paiute and Shos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tribal"
     ]
 },
-  "bbox": [-118.476511,40.115288,-118.476511,40.115288],
+  "bbox": [
+    -118.476511,
+    40.115288,
+    -118.476511,
+    40.115288
+],
   "geometry": {"coordinates":[-118.476511,40.115288],"type":"Point"}
 }

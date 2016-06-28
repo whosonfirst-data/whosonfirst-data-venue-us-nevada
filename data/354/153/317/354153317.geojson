@@ -2,13 +2,14 @@
   "id": 354153317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203385,36.112233,-115.203385,36.112233",
     "geom:latitude":36.112233,
     "geom:longitude":-115.203385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4270 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354153317,
-    "wof:lastmodified":1449067146,
+    "wof:lastmodified":1466704562,
     "wof:name":"Vegas VIP",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "venue"
     ]
 },
-  "bbox": [-115.203385,36.112233,-115.203385,36.112233],
+  "bbox": [
+    -115.203385,
+    36.112233,
+    -115.203385,
+    36.112233
+],
   "geometry": {"coordinates":[-115.203385,36.112233],"type":"Point"}
 }

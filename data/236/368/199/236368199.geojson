@@ -2,13 +2,14 @@
   "id": 236368199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196603,36.158946,-115.196603,36.158946",
     "geom:latitude":36.158946,
     "geom:longitude":-115.196603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4127 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236368199,
-    "wof:lastmodified":1449002248,
+    "wof:lastmodified":1466705176,
     "wof:name":"Skinny Dugans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-115.196603,36.158946,-115.196603,36.158946],
+  "bbox": [
+    -115.196603,
+    36.158946,
+    -115.196603,
+    36.158946
+],
   "geometry": {"coordinates":[-115.196603,36.158946],"type":"Point"}
 }

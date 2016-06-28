@@ -2,13 +2,14 @@
   "id": 219920431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171644,36.27018,-115.171644,36.27018",
     "geom:latitude":36.27018,
     "geom:longitude":-115.171644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Marvin St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219920431,
-    "wof:lastmodified":1449073131,
+    "wof:lastmodified":1466705739,
     "wof:name":"BNF Affordable Travel",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.171644,36.27018,-115.171644,36.27018],
+  "bbox": [
+    -115.171644,
+    36.27018,
+    -115.171644,
+    36.27018
+],
   "geometry": {"coordinates":[-115.171644,36.27018],"type":"Point"}
 }

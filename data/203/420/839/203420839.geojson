@@ -2,13 +2,14 @@
   "id": 203420839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803098,39.517954,-119.803098,39.517954",
     "geom:latitude":39.517954,
     "geom:longitude":-119.803098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"864 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203420839,
-    "wof:lastmodified":1449025824,
+    "wof:lastmodified":1466703414,
     "wof:name":"Lee Joseph Wholesale Dist",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tub"
     ]
 },
-  "bbox": [-119.803098,39.517954,-119.803098,39.517954],
-  "geometry": {"coordinates":[-119.803098,39.517954],"type":"Point"}
+  "bbox": [
+    -119.803098,
+    39.517954,
+    -119.803098,
+    39.517954
+],
+  "geometry": {"coordinates":[-119.80309800000001,39.517954],"type":"Point"}
 }

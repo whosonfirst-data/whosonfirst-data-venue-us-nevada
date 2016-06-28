@@ -2,13 +2,14 @@
   "id": 354253309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173072,36.117818,-115.173072,36.117818",
     "geom:latitude":36.117818,
     "geom:longitude":-115.173072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354253309,
-    "wof:lastmodified":1449067455,
+    "wof:lastmodified":1466705367,
     "wof:name":"Camera Zone Inc",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-115.173072,36.117818,-115.173072,36.117818],
+  "bbox": [
+    -115.173072,
+    36.117818,
+    -115.173072,
+    36.117818
+],
   "geometry": {"coordinates":[-115.173072,36.117818],"type":"Point"}
 }

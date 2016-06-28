@@ -2,13 +2,14 @@
   "id": 354380275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093144,36.100354,-115.093144,36.100354",
     "geom:latitude":36.100354,
     "geom:longitude":-115.093144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3742 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354380275,
-    "wof:lastmodified":1449066707,
+    "wof:lastmodified":1466706173,
     "wof:name":"Tropicana Chiropractic",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.093144,36.100354,-115.093144,36.100354],
+  "bbox": [
+    -115.093144,
+    36.100354,
+    -115.093144,
+    36.100354
+],
   "geometry": {"coordinates":[-115.093144,36.100354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236420423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.044488,36.069482,-115.044488,36.069482",
     "geom:latitude":36.069482,
     "geom:longitude":-115.044488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"681 Mall Ring Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236420423,
-    "wof:lastmodified":1449003183,
+    "wof:lastmodified":1466705459,
     "wof:name":"Eye Masters",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.044488,36.069482,-115.044488,36.069482],
+  "bbox": [
+    -115.044488,
+    36.069482,
+    -115.044488,
+    36.069482
+],
   "geometry": {"coordinates":[-115.044488,36.069482],"type":"Point"}
 }

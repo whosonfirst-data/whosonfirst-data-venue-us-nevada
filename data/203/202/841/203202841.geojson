@@ -2,13 +2,14 @@
   "id": 203202841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.327503,36.139995,-115.327503,36.139995",
     "geom:latitude":36.139995,
     "geom:longitude":-115.327503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Middle Earth St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203202841,
-    "wof:lastmodified":1449026613,
+    "wof:lastmodified":1466702095,
     "wof:name":"Bongiovi Dispute Resolutions",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.327503,36.139995,-115.327503,36.139995],
-  "geometry": {"coordinates":[-115.327503,36.139995],"type":"Point"}
+  "bbox": [
+    -115.327503,
+    36.139995,
+    -115.327503,
+    36.139995
+],
+  "geometry": {"coordinates":[-115.32750299999999,36.139995],"type":"Point"}
 }

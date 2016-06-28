@@ -2,13 +2,14 @@
   "id": 219222993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.936652,39.51673,-119.936652,39.51673",
     "geom:latitude":39.51673,
     "geom:longitude":-119.936652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Eucalyptus Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219222993,
-    "wof:lastmodified":1449072750,
+    "wof:lastmodified":1466702264,
     "wof:name":"Cobblestone Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.936652,39.51673,-119.936652,39.51673],
+  "bbox": [
+    -119.936652,
+    39.51673,
+    -119.936652,
+    39.51673
+],
   "geometry": {"coordinates":[-119.936652,39.51673],"type":"Point"}
 }

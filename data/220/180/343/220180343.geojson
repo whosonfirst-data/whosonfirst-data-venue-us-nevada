@@ -2,13 +2,14 @@
   "id": 220180343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.720522,39.394848,-119.720522,39.394848",
     "geom:latitude":39.394848,
     "geom:longitude":-119.720522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14625 Chamy Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220180343,
-    "wof:lastmodified":1449074088,
+    "wof:lastmodified":1466702955,
     "wof:name":"Home Planet Networking",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.720522,39.394848,-119.720522,39.394848],
+  "bbox": [
+    -119.720522,
+    39.394848,
+    -119.720522,
+    39.394848
+],
   "geometry": {"coordinates":[-119.720522,39.394848],"type":"Point"}
 }

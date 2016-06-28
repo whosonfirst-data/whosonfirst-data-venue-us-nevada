@@ -2,13 +2,14 @@
   "id": 219754021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.773047,40.878355,-115.773047,40.878355",
     "geom:latitude":40.878355,
     "geom:longitude":-115.773047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Kittridge Canyon Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219754021,
-    "wof:lastmodified":1449072696,
+    "wof:lastmodified":1466704652,
     "wof:name":"Conks Camo Creations LLC",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "camouflage"
     ]
 },
-  "bbox": [-115.773047,40.878355,-115.773047,40.878355],
-  "geometry": {"coordinates":[-115.773047,40.878355],"type":"Point"}
+  "bbox": [
+    -115.773047,
+    40.878355,
+    -115.773047,
+    40.878355
+],
+  "geometry": {"coordinates":[-115.77304700000001,40.878355],"type":"Point"}
 }

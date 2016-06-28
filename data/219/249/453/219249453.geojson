@@ -2,13 +2,14 @@
   "id": 219249453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.692089,41.012257,-117.692089,41.012257",
     "geom:latitude":41.012257,
     "geom:longitude":-117.692089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5895 E 2nd St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219249453,
-    "wof:lastmodified":1449070561,
+    "wof:lastmodified":1466702537,
     "wof:name":"Agri Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-117.692089,41.012257,-117.692089,41.012257],
+  "bbox": [
+    -117.692089,
+    41.012257,
+    -117.692089,
+    41.012257
+],
   "geometry": {"coordinates":[-117.692089,41.012257],"type":"Point"}
 }

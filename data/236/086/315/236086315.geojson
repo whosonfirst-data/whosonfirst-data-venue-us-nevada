@@ -2,13 +2,14 @@
   "id": 236086315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233443,36.124224,-115.233443,36.124224",
     "geom:latitude":36.124224,
     "geom:longitude":-115.233443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3539 Willow Springs Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236086315,
-    "wof:lastmodified":1449003942,
+    "wof:lastmodified":1466704125,
     "wof:name":"Denny Cooper Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.233443,36.124224,-115.233443,36.124224],
-  "geometry": {"coordinates":[-115.233443,36.124224],"type":"Point"}
+  "bbox": [
+    -115.233443,
+    36.124224,
+    -115.233443,
+    36.124224
+],
+  "geometry": {"coordinates":[-115.23344299999999,36.124224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219285021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259468,36.253577,-115.259468,36.253577",
     "geom:latitude":36.253577,
     "geom:longitude":-115.259468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7548 W Rosada Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219285021,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466704226,
     "wof:name":"Sun Devil Pools Of Nevada Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.259468,36.253577,-115.259468,36.253577],
+  "bbox": [
+    -115.259468,
+    36.253577,
+    -115.259468,
+    36.253577
+],
   "geometry": {"coordinates":[-115.259468,36.253577],"type":"Point"}
 }

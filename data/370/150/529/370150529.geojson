@@ -2,13 +2,14 @@
   "id": 370150529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250999,36.2075,-115.250999,36.2075",
     "geom:latitude":36.2075,
     "geom:longitude":-115.250999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370150529,
-    "wof:lastmodified":1449029112,
+    "wof:lastmodified":1466701542,
     "wof:name":"Quality Health Care",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.250999,36.2075,-115.250999,36.2075],
-  "geometry": {"coordinates":[-115.250999,36.2075],"type":"Point"}
+  "bbox": [
+    -115.250999,
+    36.2075,
+    -115.250999,
+    36.2075
+],
+  "geometry": {"coordinates":[-115.25099899999999,36.2075],"type":"Point"}
 }

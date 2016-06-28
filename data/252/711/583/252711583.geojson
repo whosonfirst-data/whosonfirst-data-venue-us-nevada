@@ -2,13 +2,14 @@
   "id": 252711583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086849,36.049744,-115.086849,36.049744",
     "geom:latitude":36.049744,
     "geom:longitude":-115.086849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2283 Van Gogh Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252711583,
-    "wof:lastmodified":1449006310,
+    "wof:lastmodified":1466701549,
     "wof:name":"Herbal Remedies",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-115.086849,36.049744,-115.086849,36.049744],
+  "bbox": [
+    -115.086849,
+    36.049744,
+    -115.086849,
+    36.049744
+],
   "geometry": {"coordinates":[-115.086849,36.049744],"type":"Point"}
 }

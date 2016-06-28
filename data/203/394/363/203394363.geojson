@@ -2,13 +2,14 @@
   "id": 203394363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753098,39.534967,-119.753098,39.534967",
     "geom:latitude":39.534967,
     "geom:longitude":-119.753098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203394363,
-    "wof:lastmodified":1449025305,
+    "wof:lastmodified":1466703299,
     "wof:name":"Sparks Parks & Recreation Dept",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-119.753098,39.534967,-119.753098,39.534967],
-  "geometry": {"coordinates":[-119.753098,39.534967],"type":"Point"}
+  "bbox": [
+    -119.753098,
+    39.534967,
+    -119.753098,
+    39.534967
+],
+  "geometry": {"coordinates":[-119.75309799999999,39.534967],"type":"Point"}
 }

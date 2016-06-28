@@ -2,13 +2,14 @@
   "id": 236623449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217879,36.188686,-115.217879,36.188686",
     "geom:latitude":36.188686,
     "geom:longitude":-115.217879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5617 Deal Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236623449,
-    "wof:lastmodified":1449004067,
+    "wof:lastmodified":1466706176,
     "wof:name":"Paws & Pads",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-115.217879,36.188686,-115.217879,36.188686],
+  "bbox": [
+    -115.217879,
+    36.188686,
+    -115.217879,
+    36.188686
+],
   "geometry": {"coordinates":[-115.217879,36.188686],"type":"Point"}
 }

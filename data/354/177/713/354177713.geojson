@@ -2,13 +2,14 @@
   "id": 354177713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137001,36.149799,-115.137001,36.149799",
     "geom:latitude":36.149799,
     "geom:longitude":-115.137001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354177713,
-    "wof:lastmodified":1449067666,
+    "wof:lastmodified":1466704896,
     "wof:name":"St Anne Catholic School",
     "wof:parent_id":85892673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.137001,36.149799,-115.137001,36.149799],
+  "bbox": [
+    -115.137001,
+    36.149799,
+    -115.137001,
+    36.149799
+],
   "geometry": {"coordinates":[-115.137001,36.149799],"type":"Point"}
 }

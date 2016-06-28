@@ -2,13 +2,14 @@
   "id": 236063759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.276014,36.082583,-115.276014,36.082583",
     "geom:latitude":36.082583,
     "geom:longitude":-115.276014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5821 Salmon Falls St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236063759,
-    "wof:lastmodified":1449001891,
+    "wof:lastmodified":1466704006,
     "wof:name":"Travel Service By Travel",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.276014,36.082583,-115.276014,36.082583],
+  "bbox": [
+    -115.276014,
+    36.082583,
+    -115.276014,
+    36.082583
+],
   "geometry": {"coordinates":[-115.276014,36.082583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236910837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229438,36.099914,-115.229438,36.099914",
     "geom:latitude":36.099914,
     "geom:longitude":-115.229438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6130 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236910837,
-    "wof:lastmodified":1449002948,
+    "wof:lastmodified":1466706836,
     "wof:name":"Creative Destinations Group",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.229438,36.099914,-115.229438,36.099914],
+  "bbox": [
+    -115.229438,
+    36.099914,
+    -115.229438,
+    36.099914
+],
   "geometry": {"coordinates":[-115.229438,36.099914],"type":"Point"}
 }

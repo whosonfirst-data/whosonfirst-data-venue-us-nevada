@@ -2,13 +2,14 @@
   "id": 203335295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067347,36.207196,-115.067347,36.207196",
     "geom:latitude":36.207196,
     "geom:longitude":-115.067347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4830 E Cartier Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203335295,
-    "wof:lastmodified":1449026231,
+    "wof:lastmodified":1466703062,
     "wof:name":"Lunas Construction Clean Up",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "collection"
     ]
 },
-  "bbox": [-115.067347,36.207196,-115.067347,36.207196],
+  "bbox": [
+    -115.067347,
+    36.207196,
+    -115.067347,
+    36.207196
+],
   "geometry": {"coordinates":[-115.067347,36.207196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203293941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.98957,36.191987,-115.98957,36.191987",
     "geom:latitude":36.191987,
     "geom:longitude":-115.98957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 E Calvada Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203293941,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466702794,
     "wof:name":"US Government Blm Fire Busnss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-115.98957,36.191987,-115.98957,36.191987],
+  "bbox": [
+    -115.98957,
+    36.191987,
+    -115.98957,
+    36.191987
+],
   "geometry": {"coordinates":[-115.98957,36.191987],"type":"Point"}
 }

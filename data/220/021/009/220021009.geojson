@@ -2,13 +2,14 @@
   "id": 220021009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.945369,39.255291,-119.945369,39.255291",
     "geom:latitude":39.255291,
     "geom:longitude":-119.945369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"974 Fairway Park Dr",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220021009,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466704193,
     "wof:name":"Nevada Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "broker"
     ]
 },
-  "bbox": [-119.945369,39.255291,-119.945369,39.255291],
+  "bbox": [
+    -119.945369,
+    39.255291,
+    -119.945369,
+    39.255291
+],
   "geometry": {"coordinates":[-119.945369,39.255291],"type":"Point"}
 }

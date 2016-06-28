@@ -2,13 +2,14 @@
   "id": 236030973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.737179,40.97327,-117.737179,40.97327",
     "geom:latitude":40.97327,
     "geom:longitude":-117.737179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 W 2nd St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236030973,
-    "wof:lastmodified":1449002742,
+    "wof:lastmodified":1466703915,
     "wof:name":"Desert Mountain Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "right"
     ]
 },
-  "bbox": [-117.737179,40.97327,-117.737179,40.97327],
+  "bbox": [
+    -117.737179,
+    40.97327,
+    -117.737179,
+    40.97327
+],
   "geometry": {"coordinates":[-117.737179,40.97327],"type":"Point"}
 }

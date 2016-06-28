@@ -2,13 +2,14 @@
   "id": 236677439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107972,36.162103,-115.107972,36.162103",
     "geom:latitude":36.162103,
     "geom:longitude":-115.107972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 N 30th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236677439,
-    "wof:lastmodified":1449002706,
+    "wof:lastmodified":1466706435,
     "wof:name":"International Kitchen",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-115.107972,36.162103,-115.107972,36.162103],
+  "bbox": [
+    -115.107972,
+    36.162103,
+    -115.107972,
+    36.162103
+],
   "geometry": {"coordinates":[-115.107972,36.162103],"type":"Point"}
 }

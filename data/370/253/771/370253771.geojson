@@ -2,13 +2,14 @@
   "id": 370253771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297005,36.123113,-115.297005,36.123113",
     "geom:latitude":36.123113,
     "geom:longitude":-115.297005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3665 S Fort Apache Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370253771,
-    "wof:lastmodified":1449032056,
+    "wof:lastmodified":1466703741,
     "wof:name":"Steed Cory OD",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.297005,36.123113,-115.297005,36.123113],
+  "bbox": [
+    -115.297005,
+    36.123113,
+    -115.297005,
+    36.123113
+],
   "geometry": {"coordinates":[-115.297005,36.123113],"type":"Point"}
 }

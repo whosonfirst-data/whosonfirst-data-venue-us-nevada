@@ -2,13 +2,14 @@
   "id": 354171723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140624,36.144212,-115.140624,36.144212",
     "geom:latitude":36.144212,
     "geom:longitude":-115.140624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354171723,
-    "wof:lastmodified":1449067673,
+    "wof:lastmodified":1466704839,
     "wof:name":"Academy For Learning",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.140624,36.144212,-115.140624,36.144212],
+  "bbox": [
+    -115.140624,
+    36.144212,
+    -115.140624,
+    36.144212
+],
   "geometry": {"coordinates":[-115.140624,36.144212],"type":"Point"}
 }

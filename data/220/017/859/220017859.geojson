@@ -2,13 +2,14 @@
   "id": 220017859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062863,36.007028,-115.062863,36.007028",
     "geom:latitude":36.007028,
     "geom:longitude":-115.062863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Tangiers Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220017859,
-    "wof:lastmodified":1449074474,
+    "wof:lastmodified":1466701633,
     "wof:name":"Job Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.062863,36.007028,-115.062863,36.007028],
-  "geometry": {"coordinates":[-115.062863,36.007028],"type":"Point"}
+  "bbox": [
+    -115.062863,
+    36.007028,
+    -115.062863,
+    36.007028
+],
+  "geometry": {"coordinates":[-115.06286299999999,36.007028],"type":"Point"}
 }

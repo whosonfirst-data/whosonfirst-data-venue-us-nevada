@@ -2,13 +2,14 @@
   "id": 235996361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.764151,40.833088,-115.764151,40.833088",
     "geom:latitude":40.833088,
     "geom:longitude":-115.764151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Court St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":235996361,
-    "wof:lastmodified":1449008350,
+    "wof:lastmodified":1466703735,
     "wof:name":"Chilton Engineer & Surveying",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.764151,40.833088,-115.764151,40.833088],
+  "bbox": [
+    -115.764151,
+    40.833088,
+    -115.764151,
+    40.833088
+],
   "geometry": {"coordinates":[-115.764151,40.833088],"type":"Point"}
 }

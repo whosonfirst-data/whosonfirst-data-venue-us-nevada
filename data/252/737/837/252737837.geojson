@@ -2,13 +2,14 @@
   "id": 252737837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.896407,39.525501,-119.896407,39.525501",
     "geom:latitude":39.525501,
     "geom:longitude":-119.896407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6780 Sandia Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252737837,
-    "wof:lastmodified":1449005669,
+    "wof:lastmodified":1466702088,
     "wof:name":"Freeway Moving & Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-119.896407,39.525501,-119.896407,39.525501],
+  "bbox": [
+    -119.896407,
+    39.525501,
+    -119.896407,
+    39.525501
+],
   "geometry": {"coordinates":[-119.896407,39.525501],"type":"Point"}
 }

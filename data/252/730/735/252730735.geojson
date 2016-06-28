@@ -2,13 +2,14 @@
   "id": 252730735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735424,39.544937,-119.735424,39.544937",
     "geom:latitude":39.544937,
     "geom:longitude":-119.735424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 Tanglewood Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252730735,
-    "wof:lastmodified":1449006349,
+    "wof:lastmodified":1466701939,
     "wof:name":"R K Interiors",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.735424,39.544937,-119.735424,39.544937],
-  "geometry": {"coordinates":[-119.735424,39.544937],"type":"Point"}
+  "bbox": [
+    -119.735424,
+    39.544937,
+    -119.735424,
+    39.544937
+],
+  "geometry": {"coordinates":[-119.73542399999999,39.544937],"type":"Point"}
 }

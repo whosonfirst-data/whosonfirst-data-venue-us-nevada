@@ -2,13 +2,14 @@
   "id": 370154157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.258111,36.196238,-115.258111,36.196238",
     "geom:latitude":36.196238,
     "geom:longitude":-115.258111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 W Lake Mead Boulevard Suite 8",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370154157,
-    "wof:lastmodified":1449032524,
+    "wof:lastmodified":1466701635,
     "wof:name":"Juices Wild",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "smoothy"
     ]
 },
-  "bbox": [-115.258111,36.196238,-115.258111,36.196238],
+  "bbox": [
+    -115.258111,
+    36.196238,
+    -115.258111,
+    36.196238
+],
   "geometry": {"coordinates":[-115.258111,36.196238],"type":"Point"}
 }

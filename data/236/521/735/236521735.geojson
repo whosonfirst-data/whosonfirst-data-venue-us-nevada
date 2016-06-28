@@ -2,13 +2,14 @@
   "id": 236521735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.959409,36.182071,-115.959409,36.182071",
     "geom:latitude":36.182071,
     "geom:longitude":-115.959409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Homestead Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236521735,
-    "wof:lastmodified":1449005056,
+    "wof:lastmodified":1466705921,
     "wof:name":"Johnson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.959409,36.182071,-115.959409,36.182071],
-  "geometry": {"coordinates":[-115.959409,36.182071],"type":"Point"}
+  "bbox": [
+    -115.959409,
+    36.182071,
+    -115.959409,
+    36.182071
+],
+  "geometry": {"coordinates":[-115.95940899999999,36.182071],"type":"Point"}
 }

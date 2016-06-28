@@ -2,13 +2,14 @@
   "id": 370189589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206667,36.27851,-115.206667,36.27851",
     "geom:latitude":36.27851,
     "geom:longitude":-115.206667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6495 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370189589,
-    "wof:lastmodified":1449031483,
+    "wof:lastmodified":1466702268,
     "wof:name":"Walgreens",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-115.206667,36.27851,-115.206667,36.27851],
+  "bbox": [
+    -115.206667,
+    36.27851,
+    -115.206667,
+    36.27851
+],
   "geometry": {"coordinates":[-115.206667,36.27851],"type":"Point"}
 }

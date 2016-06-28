@@ -2,13 +2,14 @@
   "id": 219316565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067209,36.040949,-115.067209,36.040949",
     "geom:latitude":36.040949,
     "geom:longitude":-115.067209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 Fairfield Ter",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219316565,
-    "wof:lastmodified":1449072781,
+    "wof:lastmodified":1466703199,
     "wof:name":"Ross Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.067209,36.040949,-115.067209,36.040949],
-  "geometry": {"coordinates":[-115.067209,36.040949],"type":"Point"}
+  "bbox": [
+    -115.067209,
+    36.040949,
+    -115.067209,
+    36.040949
+],
+  "geometry": {"coordinates":[-115.06720900000001,36.040949],"type":"Point"}
 }

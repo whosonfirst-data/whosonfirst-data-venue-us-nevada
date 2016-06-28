@@ -2,13 +2,14 @@
   "id": 354036271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150679,36.271279,-115.150679,36.271279",
     "geom:latitude":36.271279,
     "geom:longitude":-115.150679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 Dogwood Falls Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354036271,
-    "wof:lastmodified":1449066298,
+    "wof:lastmodified":1466702444,
     "wof:name":"Vegas Pool Service",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pool"
     ]
 },
-  "bbox": [-115.150679,36.271279,-115.150679,36.271279],
+  "bbox": [
+    -115.150679,
+    36.271279,
+    -115.150679,
+    36.271279
+],
   "geometry": {"coordinates":[-115.150679,36.271279],"type":"Point"}
 }

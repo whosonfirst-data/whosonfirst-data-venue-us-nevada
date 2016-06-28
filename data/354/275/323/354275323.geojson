@@ -2,13 +2,14 @@
   "id": 354275323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277528,36.056053,-115.277528,36.056053",
     "geom:latitude":36.056053,
     "geom:longitude":-115.277528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 W Warm Springs Rd Ste 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354275323,
-    "wof:lastmodified":1449066455,
+    "wof:lastmodified":1466705546,
     "wof:name":"Mantra Masala",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-115.277528,36.056053,-115.277528,36.056053],
+  "bbox": [
+    -115.277528,
+    36.056053,
+    -115.277528,
+    36.056053
+],
   "geometry": {"coordinates":[-115.277528,36.056053],"type":"Point"}
 }

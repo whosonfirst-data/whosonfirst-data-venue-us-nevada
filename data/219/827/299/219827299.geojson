@@ -2,13 +2,14 @@
   "id": 219827299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735896,39.541805,-119.735896,39.541805",
     "geom:latitude":39.541805,
     "geom:longitude":-119.735896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219827299,
-    "wof:lastmodified":1449071654,
+    "wof:lastmodified":1466705336,
     "wof:name":"Strictly Diamonds",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond"
     ]
 },
-  "bbox": [-119.735896,39.541805,-119.735896,39.541805],
+  "bbox": [
+    -119.735896,
+    39.541805,
+    -119.735896,
+    39.541805
+],
   "geometry": {"coordinates":[-119.735896,39.541805],"type":"Point"}
 }

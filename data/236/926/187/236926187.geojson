@@ -2,13 +2,14 @@
   "id": 236926187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.215599,36.265798,-115.215599,36.265798",
     "geom:latitude":36.265798,
     "geom:longitude":-115.215599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5329 Striking Point Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236926187,
-    "wof:lastmodified":1449002666,
+    "wof:lastmodified":1466706916,
     "wof:name":"Outley Consulting",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.215599,36.265798,-115.215599,36.265798],
+  "bbox": [
+    -115.215599,
+    36.265798,
+    -115.215599,
+    36.265798
+],
   "geometry": {"coordinates":[-115.215599,36.265798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236256929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762728,39.530286,-119.762728,39.530286",
     "geom:latitude":39.530286,
     "geom:longitude":-119.762728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1357 Hymer Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236256929,
-    "wof:lastmodified":1449004297,
+    "wof:lastmodified":1466704431,
     "wof:name":"Tmc Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.762728,39.530286,-119.762728,39.530286],
+  "bbox": [
+    -119.762728,
+    39.530286,
+    -119.762728,
+    39.530286
+],
   "geometry": {"coordinates":[-119.762728,39.530286],"type":"Point"}
 }

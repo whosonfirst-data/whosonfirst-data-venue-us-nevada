@@ -2,13 +2,14 @@
   "id": 354003613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046183,36.068772,-115.046183,36.068772",
     "geom:latitude":36.068772,
     "geom:longitude":-115.046183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Whitney Ranch Center 687 North Stephanie Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354003613,
-    "wof:lastmodified":1449067537,
+    "wof:lastmodified":1466701547,
     "wof:name":"L & L Hawaiian Barbeque",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-115.046183,36.068772,-115.046183,36.068772],
+  "bbox": [
+    -115.046183,
+    36.068772,
+    -115.046183,
+    36.068772
+],
   "geometry": {"coordinates":[-115.046183,36.068772],"type":"Point"}
 }

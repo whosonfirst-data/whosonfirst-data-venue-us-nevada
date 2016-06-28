@@ -2,13 +2,14 @@
   "id": 203184511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823836,39.479346,-119.823836,39.479346",
     "geom:latitude":39.479346,
     "geom:longitude":-119.823836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2396 Greensboro Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203184511,
-    "wof:lastmodified":1449025267,
+    "wof:lastmodified":1466701879,
     "wof:name":"Lakeridge Shores Security",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-119.823836,39.479346,-119.823836,39.479346],
+  "bbox": [
+    -119.823836,
+    39.479346,
+    -119.823836,
+    39.479346
+],
   "geometry": {"coordinates":[-119.823836,39.479346],"type":"Point"}
 }

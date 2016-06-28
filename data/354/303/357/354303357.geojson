@@ -2,13 +2,14 @@
   "id": 354303357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301688,36.144505,-115.301688,36.144505",
     "geom:latitude":36.144505,
     "geom:longitude":-115.301688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9510 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354303357,
-    "wof:lastmodified":1449065940,
+    "wof:lastmodified":1466705625,
     "wof:name":"Triple Five Nevada Development Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.301688,36.144505,-115.301688,36.144505],
+  "bbox": [
+    -115.301688,
+    36.144505,
+    -115.301688,
+    36.144505
+],
   "geometry": {"coordinates":[-115.301688,36.144505],"type":"Point"}
 }

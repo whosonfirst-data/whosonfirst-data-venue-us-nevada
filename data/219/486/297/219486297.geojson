@@ -2,13 +2,14 @@
   "id": 219486297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744263,39.190238,-119.744263,39.190238",
     "geom:latitude":39.190238,
     "geom:longitude":-119.744263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3476 Executive Pointe Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219486297,
-    "wof:lastmodified":1449072341,
+    "wof:lastmodified":1466704096,
     "wof:name":"Private Invstigator License Bd",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "investigator"
     ]
 },
-  "bbox": [-119.744263,39.190238,-119.744263,39.190238],
+  "bbox": [
+    -119.744263,
+    39.190238,
+    -119.744263,
+    39.190238
+],
   "geometry": {"coordinates":[-119.744263,39.190238],"type":"Point"}
 }

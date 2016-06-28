@@ -2,13 +2,14 @@
   "id": 236100893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112707,36.188421,-115.112707,36.188421",
     "geom:latitude":36.188421,
     "geom:longitude":-115.112707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 E Owens Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236100893,
-    "wof:lastmodified":1449004217,
+    "wof:lastmodified":1466701559,
     "wof:name":"Nevada DMV Svc",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-115.112707,36.188421,-115.112707,36.188421],
+  "bbox": [
+    -115.112707,
+    36.188421,
+    -115.112707,
+    36.188421
+],
   "geometry": {"coordinates":[-115.112707,36.188421],"type":"Point"}
 }

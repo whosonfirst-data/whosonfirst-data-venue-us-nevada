@@ -2,13 +2,14 @@
   "id": 236633189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.682245,39.607789,-119.682245,39.607789",
     "geom:latitude":39.607789,
     "geom:longitude":-119.682245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Thistlewood Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236633189,
-    "wof:lastmodified":1449005220,
+    "wof:lastmodified":1466706355,
     "wof:name":"Northwest Construction",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.682245,39.607789,-119.682245,39.607789],
-  "geometry": {"coordinates":[-119.682245,39.607789],"type":"Point"}
+  "bbox": [
+    -119.682245,
+    39.607789,
+    -119.682245,
+    39.607789
+],
+  "geometry": {"coordinates":[-119.68224499999999,39.607789],"type":"Point"}
 }

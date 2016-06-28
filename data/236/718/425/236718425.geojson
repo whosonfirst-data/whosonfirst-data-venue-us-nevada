@@ -2,13 +2,14 @@
   "id": 236718425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306844,36.10003,-115.306844,36.10003",
     "geom:latitude":36.10003,
     "geom:longitude":-115.306844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236718425,
-    "wof:lastmodified":1449002211,
+    "wof:lastmodified":1466706506,
     "wof:name":"Rbc Builders Finance",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.306844,36.10003,-115.306844,36.10003],
+  "bbox": [
+    -115.306844,
+    36.10003,
+    -115.306844,
+    36.10003
+],
   "geometry": {"coordinates":[-115.306844,36.10003],"type":"Point"}
 }

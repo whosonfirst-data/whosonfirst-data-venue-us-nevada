@@ -2,13 +2,14 @@
   "id": 337288767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112645,36.160153,-115.112645,36.160153",
     "geom:latitude":36.160153,
     "geom:longitude":-115.112645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N 27th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337288767,
-    "wof:lastmodified":1449027025,
+    "wof:lastmodified":1466701463,
     "wof:name":"Metaloplastika",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gates"
     ]
 },
-  "bbox": [-115.112645,36.160153,-115.112645,36.160153],
+  "bbox": [
+    -115.112645,
+    36.160153,
+    -115.112645,
+    36.160153
+],
   "geometry": {"coordinates":[-115.112645,36.160153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220037799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170606,36.166232,-115.170606,36.166232",
     "geom:latitude":36.166232,
     "geom:longitude":-115.170606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 Alta Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220037799,
-    "wof:lastmodified":1449074895,
+    "wof:lastmodified":1466701880,
     "wof:name":"Intraglobal Nutritional Prod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-115.170606,36.166232,-115.170606,36.166232],
-  "geometry": {"coordinates":[-115.170606,36.166232],"type":"Point"}
+  "bbox": [
+    -115.170606,
+    36.166232,
+    -115.170606,
+    36.166232
+],
+  "geometry": {"coordinates":[-115.17060600000001,36.166232],"type":"Point"}
 }

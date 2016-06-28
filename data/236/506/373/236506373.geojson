@@ -2,13 +2,14 @@
   "id": 236506373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.762587,40.832016,-115.762587,40.832016",
     "geom:latitude":40.832016,
     "geom:longitude":-115.762587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Railroad St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236506373,
-    "wof:lastmodified":1449001733,
+    "wof:lastmodified":1466705960,
     "wof:name":"Elko Trophy",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "award"
     ]
 },
-  "bbox": [-115.762587,40.832016,-115.762587,40.832016],
+  "bbox": [
+    -115.762587,
+    40.832016,
+    -115.762587,
+    40.832016
+],
   "geometry": {"coordinates":[-115.762587,40.832016],"type":"Point"}
 }

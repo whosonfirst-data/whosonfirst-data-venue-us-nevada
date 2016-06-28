@@ -2,13 +2,14 @@
   "id": 220075811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.679039,39.617273,-119.679039,39.617273",
     "geom:latitude":39.617273,
     "geom:longitude":-119.679039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6790 Runnymede Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220075811,
-    "wof:lastmodified":1449074491,
+    "wof:lastmodified":1466702250,
     "wof:name":"Wallace A Marsh III Studios",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-119.679039,39.617273,-119.679039,39.617273],
+  "bbox": [
+    -119.679039,
+    39.617273,
+    -119.679039,
+    39.617273
+],
   "geometry": {"coordinates":[-119.679039,39.617273],"type":"Point"}
 }

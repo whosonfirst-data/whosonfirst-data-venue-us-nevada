@@ -2,13 +2,14 @@
   "id": 219459889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762887,39.16448,-119.762887,39.16448",
     "geom:latitude":39.16448,
     "geom:longitude":-119.762887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Musser St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219459889,
-    "wof:lastmodified":1449071823,
+    "wof:lastmodified":1466703969,
     "wof:name":"Personnel Nevada Department",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-119.762887,39.16448,-119.762887,39.16448],
-  "geometry": {"coordinates":[-119.762887,39.16448],"type":"Point"}
+  "bbox": [
+    -119.762887,
+    39.16448,
+    -119.762887,
+    39.16448
+],
+  "geometry": {"coordinates":[-119.76288700000001,39.16448],"type":"Point"}
 }

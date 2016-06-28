@@ -2,13 +2,14 @@
   "id": 354162679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141998,36.1441,-115.141998,36.1441",
     "geom:latitude":36.1441,
     "geom:longitude":-115.141998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354162679,
-    "wof:lastmodified":1449067408,
+    "wof:lastmodified":1466704639,
     "wof:name":"El Sinaloense Restaurant",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.141998,36.1441,-115.141998,36.1441],
+  "bbox": [
+    -115.141998,
+    36.1441,
+    -115.141998,
+    36.1441
+],
   "geometry": {"coordinates":[-115.141998,36.1441],"type":"Point"}
 }

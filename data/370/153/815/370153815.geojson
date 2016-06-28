@@ -2,13 +2,14 @@
   "id": 370153815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279195,36.19778,-115.279195,36.19778",
     "geom:latitude":36.19778,
     "geom:longitude":-115.279195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8427 W Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370153815,
-    "wof:lastmodified":1449031407,
+    "wof:lastmodified":1466701626,
     "wof:name":"Jimmy's Cafe",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "caterer"
     ]
 },
-  "bbox": [-115.279195,36.19778,-115.279195,36.19778],
+  "bbox": [
+    -115.279195,
+    36.19778,
+    -115.279195,
+    36.19778
+],
   "geometry": {"coordinates":[-115.279195,36.19778],"type":"Point"}
 }

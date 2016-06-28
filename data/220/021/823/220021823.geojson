@@ -2,13 +2,14 @@
   "id": 220021823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.791116,40.843783,-115.791116,40.843783",
     "geom:latitude":40.843783,
     "geom:longitude":-115.791116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Cottonwood Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220021823,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466701700,
     "wof:name":"Procurment Solutions A Nev Lim",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.791116,40.843783,-115.791116,40.843783],
+  "bbox": [
+    -115.791116,
+    40.843783,
+    -115.791116,
+    40.843783
+],
   "geometry": {"coordinates":[-115.791116,40.843783],"type":"Point"}
 }

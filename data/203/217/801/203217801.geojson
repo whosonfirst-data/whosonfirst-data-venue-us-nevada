@@ -2,13 +2,14 @@
   "id": 203217801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093574,36.794942,-114.093574,36.794942",
     "geom:latitude":36.794942,
     "geom:longitude":-114.093574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Riverside Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203217801,
-    "wof:lastmodified":1449026759,
+    "wof:lastmodified":1466702218,
     "wof:name":"Silver Thread & Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monogram"
     ]
 },
-  "bbox": [-114.093574,36.794942,-114.093574,36.794942],
+  "bbox": [
+    -114.093574,
+    36.794942,
+    -114.093574,
+    36.794942
+],
   "geometry": {"coordinates":[-114.093574,36.794942],"type":"Point"}
 }

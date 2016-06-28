@@ -2,13 +2,14 @@
   "id": 236805557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.108443,36.122967,-115.108443,36.122967",
     "geom:latitude":36.122967,
     "geom:longitude":-115.108443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3038 Conquista Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236805557,
-    "wof:lastmodified":1449002610,
+    "wof:lastmodified":1466706665,
     "wof:name":"Phyllis Winograd Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-115.108443,36.122967,-115.108443,36.122967],
-  "geometry": {"coordinates":[-115.108443,36.122967],"type":"Point"}
+  "bbox": [
+    -115.108443,
+    36.122967,
+    -115.108443,
+    36.122967
+],
+  "geometry": {"coordinates":[-115.10844299999999,36.122967],"type":"Point"}
 }

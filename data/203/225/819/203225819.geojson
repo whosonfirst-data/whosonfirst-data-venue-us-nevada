@@ -2,13 +2,14 @@
   "id": 203225819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.842008,39.485339,-118.842008,39.485339",
     "geom:latitude":39.485339,
     "geom:longitude":-118.842008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4155 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203225819,
-    "wof:lastmodified":1449025500,
+    "wof:lastmodified":1466702350,
     "wof:name":"Custom Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trailer"
     ]
 },
-  "bbox": [-118.842008,39.485339,-118.842008,39.485339],
-  "geometry": {"coordinates":[-118.842008,39.485339],"type":"Point"}
+  "bbox": [
+    -118.842008,
+    39.485339,
+    -118.842008,
+    39.485339
+],
+  "geometry": {"coordinates":[-118.84200800000001,39.485339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219717253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280891,36.125976,-115.280891,36.125976",
     "geom:latitude":36.125976,
     "geom:longitude":-115.280891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8678 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219717253,
-    "wof:lastmodified":1449070462,
+    "wof:lastmodified":1466704402,
     "wof:name":"Prestige Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.280891,36.125976,-115.280891,36.125976],
+  "bbox": [
+    -115.280891,
+    36.125976,
+    -115.280891,
+    36.125976
+],
   "geometry": {"coordinates":[-115.280891,36.125976],"type":"Point"}
 }

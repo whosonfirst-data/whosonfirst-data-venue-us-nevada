@@ -2,13 +2,14 @@
   "id": 236400013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762282,39.170311,-119.762282,39.170311",
     "geom:latitude":39.170311,
     "geom:longitude":-119.762282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 E William St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236400013,
-    "wof:lastmodified":1449001915,
+    "wof:lastmodified":1466705473,
     "wof:name":"Disability Representatives",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.762282,39.170311,-119.762282,39.170311],
+  "bbox": [
+    -119.762282,
+    39.170311,
+    -119.762282,
+    39.170311
+],
   "geometry": {"coordinates":[-119.762282,39.170311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219744793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050071,36.095304,-115.050071,36.095304",
     "geom:latitude":36.095304,
     "geom:longitude":-115.050071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5197 Andover Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219744793,
-    "wof:lastmodified":1449071664,
+    "wof:lastmodified":1466704855,
     "wof:name":"Black Sheep Publishing",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-115.050071,36.095304,-115.050071,36.095304],
+  "bbox": [
+    -115.050071,
+    36.095304,
+    -115.050071,
+    36.095304
+],
   "geometry": {"coordinates":[-115.050071,36.095304],"type":"Point"}
 }

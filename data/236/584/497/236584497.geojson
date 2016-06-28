@@ -2,13 +2,14 @@
   "id": 236584497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823353,39.524925,-119.823353,39.524925",
     "geom:latitude":39.524925,
     "geom:longitude":-119.823353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236584497,
-    "wof:lastmodified":1449001947,
+    "wof:lastmodified":1466706332,
     "wof:name":"Brickies Tavern",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-119.823353,39.524925,-119.823353,39.524925],
+  "bbox": [
+    -119.823353,
+    39.524925,
+    -119.823353,
+    39.524925
+],
   "geometry": {"coordinates":[-119.823353,39.524925],"type":"Point"}
 }

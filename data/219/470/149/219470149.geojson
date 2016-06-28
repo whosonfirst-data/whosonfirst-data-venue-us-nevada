@@ -2,13 +2,14 @@
   "id": 219470149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087096,36.20857,-115.087096,36.20857",
     "geom:latitude":36.20857,
     "geom:longitude":-115.087096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2697 N Gateway Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219470149,
-    "wof:lastmodified":1449071248,
+    "wof:lastmodified":1466704032,
     "wof:name":"Lule Cleaning Svcs",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.087096,36.20857,-115.087096,36.20857],
+  "bbox": [
+    -115.087096,
+    36.20857,
+    -115.087096,
+    36.20857
+],
   "geometry": {"coordinates":[-115.087096,36.20857],"type":"Point"}
 }

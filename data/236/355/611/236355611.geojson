@@ -2,13 +2,14 @@
   "id": 236355611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.933013,36.011311,-114.933013,36.011311",
     "geom:latitude":36.011311,
     "geom:longitude":-114.933013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Heavenly Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236355611,
-    "wof:lastmodified":1449002388,
+    "wof:lastmodified":1466705103,
     "wof:name":"Charismatic Escrow Signer Inc",
     "wof:parent_id":85878121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.933013,36.011311,-114.933013,36.011311],
+  "bbox": [
+    -114.933013,
+    36.011311,
+    -114.933013,
+    36.011311
+],
   "geometry": {"coordinates":[-114.933013,36.011311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219799529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774853,39.161274,-119.774853,39.161274",
     "geom:latitude":39.161274,
     "geom:longitude":-119.774853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Mary St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219799529,
-    "wof:lastmodified":1449073936,
+    "wof:lastmodified":1466705088,
     "wof:name":"Ballet Society",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-119.774853,39.161274,-119.774853,39.161274],
-  "geometry": {"coordinates":[-119.774853,39.161274],"type":"Point"}
+  "bbox": [
+    -119.774853,
+    39.161274,
+    -119.774853,
+    39.161274
+],
+  "geometry": {"coordinates":[-119.77485299999999,39.161274],"type":"Point"}
 }

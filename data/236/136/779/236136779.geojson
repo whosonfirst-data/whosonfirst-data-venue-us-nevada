@@ -2,13 +2,14 @@
   "id": 236136779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186535,36.144459,-115.186535,36.144459",
     "geom:latitude":36.144459,
     "geom:longitude":-115.186535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236136779,
-    "wof:lastmodified":1449005187,
+    "wof:lastmodified":1466702263,
     "wof:name":"Kolesar & Leatham Chtd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "law"
     ]
 },
-  "bbox": [-115.186535,36.144459,-115.186535,36.144459],
-  "geometry": {"coordinates":[-115.186535,36.144459],"type":"Point"}
+  "bbox": [
+    -115.186535,
+    36.144459,
+    -115.186535,
+    36.144459
+],
+  "geometry": {"coordinates":[-115.18653500000001,36.144459],"type":"Point"}
 }

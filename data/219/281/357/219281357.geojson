@@ -2,13 +2,14 @@
   "id": 219281357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.144827,38.894318,-119.144827,38.894318",
     "geom:latitude":38.894318,
     "geom:longitude":-119.144827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 State Hwy 208",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219281357,
-    "wof:lastmodified":1449073374,
+    "wof:lastmodified":1466702868,
     "wof:name":"William Weaver Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-119.144827,38.894318,-119.144827,38.894318],
-  "geometry": {"coordinates":[-119.144827,38.894318],"type":"Point"}
+  "bbox": [
+    -119.144827,
+    38.894318,
+    -119.144827,
+    38.894318
+],
+  "geometry": {"coordinates":[-119.14482700000001,38.894318],"type":"Point"}
 }

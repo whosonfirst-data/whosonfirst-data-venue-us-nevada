@@ -2,13 +2,14 @@
   "id": 203261217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238853,36.151089,-115.238853,36.151089",
     "geom:latitude":36.151089,
     "geom:longitude":-115.238853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 Redwood St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203261217,
-    "wof:lastmodified":1449024976,
+    "wof:lastmodified":1466702577,
     "wof:name":"Core Associates Inc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.238853,36.151089,-115.238853,36.151089],
-  "geometry": {"coordinates":[-115.238853,36.151089],"type":"Point"}
+  "bbox": [
+    -115.238853,
+    36.151089,
+    -115.238853,
+    36.151089
+],
+  "geometry": {"coordinates":[-115.23885300000001,36.151089],"type":"Point"}
 }

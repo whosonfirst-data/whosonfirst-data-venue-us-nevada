@@ -2,13 +2,14 @@
   "id": 337302473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06883,36.204477,-115.06883,36.204477",
     "geom:latitude":36.204477,
     "geom:longitude":-115.06883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 Marco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302473,
-    "wof:lastmodified":1449027214,
+    "wof:lastmodified":1466701794,
     "wof:name":"Sheet Metal Local",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "job"
     ]
 },
-  "bbox": [-115.06883,36.204477,-115.06883,36.204477],
-  "geometry": {"coordinates":[-115.06883,36.204477],"type":"Point"}
+  "bbox": [
+    -115.06883,
+    36.204477,
+    -115.06883,
+    36.204477
+],
+  "geometry": {"coordinates":[-115.06883000000001,36.204477],"type":"Point"}
 }

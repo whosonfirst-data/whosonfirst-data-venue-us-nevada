@@ -2,13 +2,14 @@
   "id": 236503321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743398,39.027841,-119.743398,39.027841",
     "geom:latitude":39.027841,
     "geom:longitude":-119.743398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Fawn Fescue Ct",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236503321,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1466705811,
     "wof:name":"Vals Glamour Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.743398,39.027841,-119.743398,39.027841],
+  "bbox": [
+    -119.743398,
+    39.027841,
+    -119.743398,
+    39.027841
+],
   "geometry": {"coordinates":[-119.743398,39.027841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236557279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755231,39.181526,-119.755231,39.181526",
     "geom:latitude":39.181526,
     "geom:longitude":-119.755231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Spooner Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236557279,
-    "wof:lastmodified":1449004108,
+    "wof:lastmodified":1466706012,
     "wof:name":"49 CC Motomadness",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.755231,39.181526,-119.755231,39.181526],
-  "geometry": {"coordinates":[-119.755231,39.181526],"type":"Point"}
+  "bbox": [
+    -119.755231,
+    39.181526,
+    -119.755231,
+    39.181526
+],
+  "geometry": {"coordinates":[-119.75523099999999,39.181526],"type":"Point"}
 }

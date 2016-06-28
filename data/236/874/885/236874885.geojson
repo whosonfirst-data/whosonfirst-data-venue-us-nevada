@@ -2,13 +2,14 @@
   "id": 236874885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13678,36.141486,-115.13678,36.141486",
     "geom:latitude":36.141486,
     "geom:longitude":-115.13678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236874885,
-    "wof:lastmodified":1449004995,
+    "wof:lastmodified":1466706779,
     "wof:name":"American Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.13678,36.141486,-115.13678,36.141486],
+  "bbox": [
+    -115.13678,
+    36.141486,
+    -115.13678,
+    36.141486
+],
   "geometry": {"coordinates":[-115.13678,36.141486],"type":"Point"}
 }

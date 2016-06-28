@@ -2,13 +2,14 @@
   "id": 236194481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775642,39.168497,-119.775642,39.168497",
     "geom:latitude":39.168497,
     "geom:longitude":-119.775642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W Sunset Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236194481,
-    "wof:lastmodified":1449004672,
+    "wof:lastmodified":1466703450,
     "wof:name":"Dons Mountain Mobile Services",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-119.775642,39.168497,-119.775642,39.168497],
+  "bbox": [
+    -119.775642,
+    39.168497,
+    -119.775642,
+    39.168497
+],
   "geometry": {"coordinates":[-119.775642,39.168497],"type":"Point"}
 }

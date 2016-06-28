@@ -2,13 +2,14 @@
   "id": 370254669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305059,36.100478,-115.305059,36.100478",
     "geom:latitude":36.100478,
     "geom:longitude":-115.305059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9730 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370254669,
-    "wof:lastmodified":1449031403,
+    "wof:lastmodified":1466703769,
     "wof:name":"Mama Luigi's Pizzeria",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.305059,36.100478,-115.305059,36.100478],
+  "bbox": [
+    -115.305059,
+    36.100478,
+    -115.305059,
+    36.100478
+],
   "geometry": {"coordinates":[-115.305059,36.100478],"type":"Point"}
 }

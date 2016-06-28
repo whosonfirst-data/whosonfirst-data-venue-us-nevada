@@ -2,13 +2,14 @@
   "id": 354051965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100395,36.050597,-115.100395,36.050597",
     "geom:latitude":36.050597,
     "geom:longitude":-115.100395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Pecos Rd Ste 200",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":354051965,
-    "wof:lastmodified":1449066997,
+    "wof:lastmodified":1466702822,
     "wof:name":"SBFC, Inc.",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.100395,36.050597,-115.100395,36.050597],
-  "geometry": {"coordinates":[-115.100395,36.050597],"type":"Point"}
+  "bbox": [
+    -115.100395,
+    36.050597,
+    -115.100395,
+    36.050597
+],
+  "geometry": {"coordinates":[-115.10039500000001,36.050597],"type":"Point"}
 }

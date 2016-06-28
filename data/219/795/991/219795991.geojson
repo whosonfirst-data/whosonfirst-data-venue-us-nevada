@@ -2,13 +2,14 @@
   "id": 219795991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.944813,36.013211,-114.944813,36.013211",
     "geom:latitude":36.013211,
     "geom:longitude":-114.944813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Hutch Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219795991,
-    "wof:lastmodified":1449072474,
+    "wof:lastmodified":1466704940,
     "wof:name":"Primar Enterprises",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.944813,36.013211,-114.944813,36.013211],
+  "bbox": [
+    -114.944813,
+    36.013211,
+    -114.944813,
+    36.013211
+],
   "geometry": {"coordinates":[-114.944813,36.013211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235971169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768337,39.446917,-119.768337,39.446917",
     "geom:latitude":39.446917,
     "geom:longitude":-119.768337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9390 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235971169,
-    "wof:lastmodified":1449008428,
+    "wof:lastmodified":1466703614,
     "wof:name":"Covance Central Diagnostic Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "datum"
     ]
 },
-  "bbox": [-119.768337,39.446917,-119.768337,39.446917],
+  "bbox": [
+    -119.768337,
+    39.446917,
+    -119.768337,
+    39.446917
+],
   "geometry": {"coordinates":[-119.768337,39.446917],"type":"Point"}
 }

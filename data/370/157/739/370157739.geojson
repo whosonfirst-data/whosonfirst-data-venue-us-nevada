@@ -2,13 +2,14 @@
   "id": 370157739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267998,36.209801,-115.267998,36.209801",
     "geom:latitude":36.209801,
     "geom:longitude":-115.267998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Crystal Beach Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370157739,
-    "wof:lastmodified":1449031989,
+    "wof:lastmodified":1466701726,
     "wof:name":"Anderson Promotions",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.267998,36.209801,-115.267998,36.209801],
-  "geometry": {"coordinates":[-115.267998,36.209801],"type":"Point"}
+  "bbox": [
+    -115.267998,
+    36.209801,
+    -115.267998,
+    36.209801
+],
+  "geometry": {"coordinates":[-115.26799800000001,36.209801],"type":"Point"}
 }

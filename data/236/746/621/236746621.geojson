@@ -2,13 +2,14 @@
   "id": 236746621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141645,36.159301,-115.141645,36.159301",
     "geom:latitude":36.159301,
     "geom:longitude":-115.141645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Gass Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236746621,
-    "wof:lastmodified":1449001656,
+    "wof:lastmodified":1466706558,
     "wof:name":"American Denture Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.141645,36.159301,-115.141645,36.159301],
+  "bbox": [
+    -115.141645,
+    36.159301,
+    -115.141645,
+    36.159301
+],
   "geometry": {"coordinates":[-115.141645,36.159301],"type":"Point"}
 }

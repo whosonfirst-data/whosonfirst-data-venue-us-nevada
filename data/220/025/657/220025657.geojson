@@ -2,13 +2,14 @@
   "id": 220025657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295065,36.211649,-115.295065,36.211649",
     "geom:latitude":36.211649,
     "geom:longitude":-115.295065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 del Webb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220025657,
-    "wof:lastmodified":1449074732,
+    "wof:lastmodified":1466701766,
     "wof:name":"Vista Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grill"
     ]
 },
-  "bbox": [-115.295065,36.211649,-115.295065,36.211649],
-  "geometry": {"coordinates":[-115.295065,36.211649],"type":"Point"}
+  "bbox": [
+    -115.295065,
+    36.211649,
+    -115.295065,
+    36.211649
+],
+  "geometry": {"coordinates":[-115.29506499999999,36.211649],"type":"Point"}
 }

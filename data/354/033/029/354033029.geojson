@@ -2,13 +2,14 @@
   "id": 354033029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153695,36.239438,-115.153695,36.239438",
     "geom:latitude":36.239438,
     "geom:longitude":-115.153695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Craig Ranch Regional Park 780 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354033029,
-    "wof:lastmodified":1449066282,
+    "wof:lastmodified":1466702366,
     "wof:name":"BalloonaPalooza",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "local"
     ]
 },
-  "bbox": [-115.153695,36.239438,-115.153695,36.239438],
+  "bbox": [
+    -115.153695,
+    36.239438,
+    -115.153695,
+    36.239438
+],
   "geometry": {"coordinates":[-115.153695,36.239438],"type":"Point"}
 }

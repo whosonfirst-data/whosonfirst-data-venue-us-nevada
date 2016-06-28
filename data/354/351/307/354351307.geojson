@@ -2,13 +2,14 @@
   "id": 354351307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135809,36.057452,-115.135809,36.057452",
     "geom:latitude":36.057452,
     "geom:longitude":-115.135809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2180 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354351307,
-    "wof:lastmodified":1449067395,
+    "wof:lastmodified":1466706002,
     "wof:name":"Camden Tiara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.135809,36.057452,-115.135809,36.057452],
-  "geometry": {"coordinates":[-115.135809,36.057452],"type":"Point"}
+  "bbox": [
+    -115.135809,
+    36.057452,
+    -115.135809,
+    36.057452
+],
+  "geometry": {"coordinates":[-115.13580899999999,36.057452],"type":"Point"}
 }

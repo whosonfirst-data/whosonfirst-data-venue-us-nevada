@@ -2,13 +2,14 @@
   "id": 354136225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208471,36.136673,-115.208471,36.136673",
     "geom:latitude":36.136673,
     "geom:longitude":-115.208471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354136225,
-    "wof:lastmodified":1449067653,
+    "wof:lastmodified":1466704517,
     "wof:name":"Dream Valley Productions",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "web"
     ]
 },
-  "bbox": [-115.208471,36.136673,-115.208471,36.136673],
+  "bbox": [
+    -115.208471,
+    36.136673,
+    -115.208471,
+    36.136673
+],
   "geometry": {"coordinates":[-115.208471,36.136673],"type":"Point"}
 }

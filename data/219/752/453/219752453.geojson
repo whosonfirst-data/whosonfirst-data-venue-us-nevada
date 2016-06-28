@@ -2,13 +2,14 @@
   "id": 219752453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117755,36.125005,-115.117755,36.125005",
     "geom:latitude":36.125005,
     "geom:longitude":-115.117755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2479 el Paseo Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219752453,
-    "wof:lastmodified":1449070977,
+    "wof:lastmodified":1466704793,
     "wof:name":"Pedisocks",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "material"
     ]
 },
-  "bbox": [-115.117755,36.125005,-115.117755,36.125005],
+  "bbox": [
+    -115.117755,
+    36.125005,
+    -115.117755,
+    36.125005
+],
   "geometry": {"coordinates":[-115.117755,36.125005],"type":"Point"}
 }

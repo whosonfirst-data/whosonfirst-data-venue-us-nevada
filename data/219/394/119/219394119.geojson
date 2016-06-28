@@ -2,13 +2,14 @@
   "id": 219394119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.997206,39.660466,-119.997206,39.660466",
     "geom:latitude":39.660466,
     "geom:longitude":-119.997206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17650 S Reno Park Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219394119,
-    "wof:lastmodified":1449071079,
+    "wof:lastmodified":1466703597,
     "wof:name":"Shaklee Distributor-Jessica",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.997206,39.660466,-119.997206,39.660466],
-  "geometry": {"coordinates":[-119.997206,39.660466],"type":"Point"}
+  "bbox": [
+    -119.997206,
+    39.660466,
+    -119.997206,
+    39.660466
+],
+  "geometry": {"coordinates":[-119.99720600000001,39.660466],"type":"Point"}
 }

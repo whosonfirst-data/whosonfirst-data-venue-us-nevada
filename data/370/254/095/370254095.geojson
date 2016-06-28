@@ -2,13 +2,14 @@
   "id": 370254095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296999,36.116474,-115.296999,36.116474",
     "geom:latitude":36.116474,
     "geom:longitude":-115.296999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 S Fort Apache Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370254095,
-    "wof:lastmodified":1449031404,
+    "wof:lastmodified":1466703751,
     "wof:name":"Radichi Hair Salon",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.296999,36.116474,-115.296999,36.116474],
+  "bbox": [
+    -115.296999,
+    36.116474,
+    -115.296999,
+    36.116474
+],
   "geometry": {"coordinates":[-115.296999,36.116474],"type":"Point"}
 }

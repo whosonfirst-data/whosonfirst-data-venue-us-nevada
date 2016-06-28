@@ -2,13 +2,14 @@
   "id": 219696935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.028455,36.029224,-115.028455,36.029224",
     "geom:latitude":36.029224,
     "geom:longitude":-115.028455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Las Palmas Entrada Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219696935,
-    "wof:lastmodified":1449070653,
+    "wof:lastmodified":1466704424,
     "wof:name":"Computer Repairman",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.028455,36.029224,-115.028455,36.029224],
-  "geometry": {"coordinates":[-115.028455,36.029224],"type":"Point"}
+  "bbox": [
+    -115.028455,
+    36.029224,
+    -115.028455,
+    36.029224
+],
+  "geometry": {"coordinates":[-115.02845499999999,36.029224],"type":"Point"}
 }

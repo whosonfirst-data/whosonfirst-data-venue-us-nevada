@@ -2,13 +2,14 @@
   "id": 219243083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272066,36.266301,-115.272066,36.266301",
     "geom:latitude":36.266301,
     "geom:longitude":-115.272066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8044 Edward Baher Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219243083,
-    "wof:lastmodified":1449071541,
+    "wof:lastmodified":1466702482,
     "wof:name":"Acme Solar Screens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.272066,36.266301,-115.272066,36.266301],
+  "bbox": [
+    -115.272066,
+    36.266301,
+    -115.272066,
+    36.266301
+],
   "geometry": {"coordinates":[-115.272066,36.266301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219170197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.793692,39.17421,-119.793692,39.17421",
     "geom:latitude":39.17421,
     "geom:longitude":-119.793692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Wellington S",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219170197,
-    "wof:lastmodified":1449070723,
+    "wof:lastmodified":1466701711,
     "wof:name":"Clan Dunbar Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.793692,39.17421,-119.793692,39.17421],
-  "geometry": {"coordinates":[-119.793692,39.17421],"type":"Point"}
+  "bbox": [
+    -119.793692,
+    39.17421,
+    -119.793692,
+    39.17421
+],
+  "geometry": {"coordinates":[-119.79369199999999,39.17421],"type":"Point"}
 }

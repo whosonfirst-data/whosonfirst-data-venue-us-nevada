@@ -2,13 +2,14 @@
   "id": 219971927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.889273,39.51883,-119.889273,39.51883",
     "geom:latitude":39.51883,
     "geom:longitude":-119.889273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Sharlands Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219971927,
-    "wof:lastmodified":1449072170,
+    "wof:lastmodified":1466705941,
     "wof:name":"Golden Eagle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.889273,39.51883,-119.889273,39.51883],
+  "bbox": [
+    -119.889273,
+    39.51883,
+    -119.889273,
+    39.51883
+],
   "geometry": {"coordinates":[-119.889273,39.51883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236674811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761938,39.484698,-119.761938,39.484698",
     "geom:latitude":39.484698,
     "geom:longitude":-119.761938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4875 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236674811,
-    "wof:lastmodified":1449004243,
+    "wof:lastmodified":1466706427,
     "wof:name":"Kleinfelder Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761938,39.484698,-119.761938,39.484698],
+  "bbox": [
+    -119.761938,
+    39.484698,
+    -119.761938,
+    39.484698
+],
   "geometry": {"coordinates":[-119.761938,39.484698],"type":"Point"}
 }

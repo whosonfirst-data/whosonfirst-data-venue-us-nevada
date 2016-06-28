@@ -2,13 +2,14 @@
   "id": 370284823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172828,36.111597,-115.172828,36.111597",
     "geom:latitude":36.111597,
     "geom:longitude":-115.172828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370284823,
-    "wof:lastmodified":1449031193,
+    "wof:lastmodified":1466704425,
     "wof:name":"Le Petit Bar",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.172828,36.111597,-115.172828,36.111597],
+  "bbox": [
+    -115.172828,
+    36.111597,
+    -115.172828,
+    36.111597
+],
   "geometry": {"coordinates":[-115.172828,36.111597],"type":"Point"}
 }

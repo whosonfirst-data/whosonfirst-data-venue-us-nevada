@@ -2,13 +2,14 @@
   "id": 370326913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80732,39.507219,-119.80732,39.507219",
     "geom:latitude":39.507219,
     "geom:longitude":-119.80732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Lakeside Dr Ste 102",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370326913,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466704674,
     "wof:name":"Shoenberger & Shoenberger, Inc.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-119.80732,39.507219,-119.80732,39.507219],
+  "bbox": [
+    -119.80732,
+    39.507219,
+    -119.80732,
+    39.507219
+],
   "geometry": {"coordinates":[-119.80732,39.507219],"type":"Point"}
 }

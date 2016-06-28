@@ -2,13 +2,14 @@
   "id": 236856199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.846336,35.960289,-114.846336,35.960289",
     "geom:latitude":35.960289,
     "geom:longitude":-114.846336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Providence Ln",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236856199,
-    "wof:lastmodified":1449002401,
+    "wof:lastmodified":1466706735,
     "wof:name":"A-Central Mold Removal",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [-114.846336,35.960289,-114.846336,35.960289],
-  "geometry": {"coordinates":[-114.846336,35.960289],"type":"Point"}
+  "bbox": [
+    -114.846336,
+    35.960289,
+    -114.846336,
+    35.960289
+],
+  "geometry": {"coordinates":[-114.84633599999999,35.960289],"type":"Point"}
 }

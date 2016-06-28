@@ -2,13 +2,14 @@
   "id": 219788425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269742,36.208529,-115.269742,36.208529",
     "geom:latitude":36.208529,
     "geom:longitude":-115.269742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Moonstone Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219788425,
-    "wof:lastmodified":1449072200,
+    "wof:lastmodified":1466704998,
     "wof:name":"H C E Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.269742,36.208529,-115.269742,36.208529],
-  "geometry": {"coordinates":[-115.269742,36.208529],"type":"Point"}
+  "bbox": [
+    -115.269742,
+    36.208529,
+    -115.269742,
+    36.208529
+],
+  "geometry": {"coordinates":[-115.26974199999999,36.208529],"type":"Point"}
 }

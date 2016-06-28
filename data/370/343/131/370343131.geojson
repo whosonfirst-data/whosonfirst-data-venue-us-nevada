@@ -2,13 +2,14 @@
   "id": 370343131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750371,39.121123,-119.750371,39.121123",
     "geom:latitude":39.121123,
     "geom:longitude":-119.750371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Livermore Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370343131,
-    "wof:lastmodified":1449031493,
+    "wof:lastmodified":1466704867,
     "wof:name":"Edmonds Sports Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.750371,39.121123,-119.750371,39.121123],
+  "bbox": [
+    -119.750371,
+    39.121123,
+    -119.750371,
+    39.121123
+],
   "geometry": {"coordinates":[-119.750371,39.121123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219716435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14456,36.158833,-115.14456,36.158833",
     "geom:latitude":36.158833,
     "geom:longitude":-115.14456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219716435,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466704561,
     "wof:name":"Michael J Warhola",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.14456,36.158833,-115.14456,36.158833],
+  "bbox": [
+    -115.14456,
+    36.158833,
+    -115.14456,
+    36.158833
+],
   "geometry": {"coordinates":[-115.14456,36.158833],"type":"Point"}
 }

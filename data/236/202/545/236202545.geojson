@@ -2,13 +2,14 @@
   "id": 236202545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803719,39.207704,-119.803719,39.207704",
     "geom:latitude":39.207704,
     "geom:longitude":-119.803719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Hobart Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236202545,
-    "wof:lastmodified":1449004730,
+    "wof:lastmodified":1466703619,
     "wof:name":"Lakeview Estates & Realty",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.803719,39.207704,-119.803719,39.207704],
+  "bbox": [
+    -119.803719,
+    39.207704,
+    -119.803719,
+    39.207704
+],
   "geometry": {"coordinates":[-119.803719,39.207704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236804227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.325211,36.131069,-115.325211,36.131069",
     "geom:latitude":36.131069,
     "geom:longitude":-115.325211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3282 Squire St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236804227,
-    "wof:lastmodified":1449004043,
+    "wof:lastmodified":1466706656,
     "wof:name":"Portrait Arts",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.325211,36.131069,-115.325211,36.131069],
+  "bbox": [
+    -115.325211,
+    36.131069,
+    -115.325211,
+    36.131069
+],
   "geometry": {"coordinates":[-115.325211,36.131069],"type":"Point"}
 }

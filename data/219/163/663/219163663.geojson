@@ -2,13 +2,14 @@
   "id": 219163663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780646,39.593316,-119.780646,39.593316",
     "geom:latitude":39.593316,
     "geom:longitude":-119.780646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 Sun Valley Blvd",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219163663,
-    "wof:lastmodified":1449073833,
+    "wof:lastmodified":1466701622,
     "wof:name":"Paycheck Advance",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-119.780646,39.593316,-119.780646,39.593316],
+  "bbox": [
+    -119.780646,
+    39.593316,
+    -119.780646,
+    39.593316
+],
   "geometry": {"coordinates":[-119.780646,39.593316],"type":"Point"}
 }

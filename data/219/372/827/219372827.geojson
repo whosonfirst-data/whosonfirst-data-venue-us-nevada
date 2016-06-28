@@ -2,13 +2,14 @@
   "id": 219372827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.797032,39.472247,-118.797032,39.472247",
     "geom:latitude":39.472247,
     "geom:longitude":-118.797032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Industrial Way",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219372827,
-    "wof:lastmodified":1449072534,
+    "wof:lastmodified":1466703505,
     "wof:name":"Stockman's Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "casino"
     ]
 },
-  "bbox": [-118.797032,39.472247,-118.797032,39.472247],
+  "bbox": [
+    -118.797032,
+    39.472247,
+    -118.797032,
+    39.472247
+],
   "geometry": {"coordinates":[-118.797032,39.472247],"type":"Point"}
 }

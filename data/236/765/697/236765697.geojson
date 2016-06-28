@@ -2,13 +2,14 @@
   "id": 236765697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756469,39.490532,-119.756469,39.490532",
     "geom:latitude":39.490532,
     "geom:longitude":-119.756469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Houston Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236765697,
-    "wof:lastmodified":1449003573,
+    "wof:lastmodified":1466706455,
     "wof:name":"Abacad",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-119.756469,39.490532,-119.756469,39.490532],
+  "bbox": [
+    -119.756469,
+    39.490532,
+    -119.756469,
+    39.490532
+],
   "geometry": {"coordinates":[-119.756469,39.490532],"type":"Point"}
 }

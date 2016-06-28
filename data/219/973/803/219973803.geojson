@@ -2,13 +2,14 @@
   "id": 219973803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187086,36.163916,-115.187086,36.163916",
     "geom:latitude":36.163916,
     "geom:longitude":-115.187086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Lacy Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219973803,
-    "wof:lastmodified":1449072508,
+    "wof:lastmodified":1466705951,
     "wof:name":"Alpha Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.187086,36.163916,-115.187086,36.163916],
-  "geometry": {"coordinates":[-115.187086,36.163916],"type":"Point"}
+  "bbox": [
+    -115.187086,
+    36.163916,
+    -115.187086,
+    36.163916
+],
+  "geometry": {"coordinates":[-115.18708599999999,36.163916],"type":"Point"}
 }

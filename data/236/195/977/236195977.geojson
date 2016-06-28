@@ -2,13 +2,14 @@
   "id": 236195977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.980443,36.003195,-114.980443,36.003195",
     "geom:latitude":36.003195,
     "geom:longitude":-114.980443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Crabapple Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236195977,
-    "wof:lastmodified":1449003898,
+    "wof:lastmodified":1466703480,
     "wof:name":"Dales Mobile Welding",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.980443,36.003195,-114.980443,36.003195],
-  "geometry": {"coordinates":[-114.980443,36.003195],"type":"Point"}
+  "bbox": [
+    -114.980443,
+    36.003195,
+    -114.980443,
+    36.003195
+],
+  "geometry": {"coordinates":[-114.98044299999999,36.003195],"type":"Point"}
 }

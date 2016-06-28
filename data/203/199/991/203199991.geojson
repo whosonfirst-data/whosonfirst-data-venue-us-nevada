@@ -2,13 +2,14 @@
   "id": 203199991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776805,39.443878,-119.776805,39.443878",
     "geom:latitude":39.443878,
     "geom:longitude":-119.776805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Holcomb Ranch Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203199991,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466702053,
     "wof:name":"Jehovahs Wtnesses Kingdom Hall",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.776805,39.443878,-119.776805,39.443878],
+  "bbox": [
+    -119.776805,
+    39.443878,
+    -119.776805,
+    39.443878
+],
   "geometry": {"coordinates":[-119.776805,39.443878],"type":"Point"}
 }

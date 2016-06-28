@@ -2,13 +2,14 @@
   "id": 370335103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726356,39.179486,-119.726356,39.179486",
     "geom:latitude":39.179486,
     "geom:longitude":-119.726356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3838 US Highway 50 E",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370335103,
-    "wof:lastmodified":1449031311,
+    "wof:lastmodified":1466704890,
     "wof:name":"Seven-Eleven Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.726356,39.179486,-119.726356,39.179486],
+  "bbox": [
+    -119.726356,
+    39.179486,
+    -119.726356,
+    39.179486
+],
   "geometry": {"coordinates":[-119.726356,39.179486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236025331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.332648,36.202001,-115.332648,36.202001",
     "geom:latitude":36.202001,
     "geom:longitude":-115.332648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Barbers Point Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236025331,
-    "wof:lastmodified":1449004594,
+    "wof:lastmodified":1466703881,
     "wof:name":"N Styles Share",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.332648,36.202001,-115.332648,36.202001],
-  "geometry": {"coordinates":[-115.332648,36.202001],"type":"Point"}
+  "bbox": [
+    -115.332648,
+    36.202001,
+    -115.332648,
+    36.202001
+],
+  "geometry": {"coordinates":[-115.33264800000001,36.202001],"type":"Point"}
 }

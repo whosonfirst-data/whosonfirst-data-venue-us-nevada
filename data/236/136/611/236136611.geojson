@@ -2,13 +2,14 @@
   "id": 236136611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.161632,38.92551,-119.161632,38.92551",
     "geom:latitude":38.92551,
     "geom:longitude":-119.161632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 State Rte 208",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236136611,
-    "wof:lastmodified":1449005191,
+    "wof:lastmodified":1466702259,
     "wof:name":"Nevada Choice Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.161632,38.92551,-119.161632,38.92551],
+  "bbox": [
+    -119.161632,
+    38.92551,
+    -119.161632,
+    38.92551
+],
   "geometry": {"coordinates":[-119.161632,38.92551],"type":"Point"}
 }

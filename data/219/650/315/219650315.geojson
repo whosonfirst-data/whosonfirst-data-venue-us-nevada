@@ -2,13 +2,14 @@
   "id": 219650315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.880759,39.488787,-119.880759,39.488787",
     "geom:latitude":39.488787,
     "geom:longitude":-119.880759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Hawken Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219650315,
-    "wof:lastmodified":1449072551,
+    "wof:lastmodified":1466703824,
     "wof:name":"Pocket Aces LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.880759,39.488787,-119.880759,39.488787],
+  "bbox": [
+    -119.880759,
+    39.488787,
+    -119.880759,
+    39.488787
+],
   "geometry": {"coordinates":[-119.880759,39.488787],"type":"Point"}
 }

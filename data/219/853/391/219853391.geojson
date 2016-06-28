@@ -2,13 +2,14 @@
   "id": 219853391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752791,39.133889,-119.752791,39.133889",
     "geom:latitude":39.133889,
     "geom:longitude":-119.752791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Koontz Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219853391,
-    "wof:lastmodified":1449071812,
+    "wof:lastmodified":1466705252,
     "wof:name":"Fox Company",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-119.752791,39.133889,-119.752791,39.133889],
+  "bbox": [
+    -119.752791,
+    39.133889,
+    -119.752791,
+    39.133889
+],
   "geometry": {"coordinates":[-119.752791,39.133889],"type":"Point"}
 }

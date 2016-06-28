@@ -2,13 +2,14 @@
   "id": 219635321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821019,39.530112,-119.821019,39.530112",
     "geom:latitude":39.530112,
     "geom:longitude":-119.821019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219635321,
-    "wof:lastmodified":1449071914,
+    "wof:lastmodified":1466703552,
     "wof:name":"Abby's Of Fifth Hair Salon",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.821019,39.530112,-119.821019,39.530112],
-  "geometry": {"coordinates":[-119.821019,39.530112],"type":"Point"}
+  "bbox": [
+    -119.821019,
+    39.530112,
+    -119.821019,
+    39.530112
+],
+  "geometry": {"coordinates":[-119.82101900000001,39.530112],"type":"Point"}
 }

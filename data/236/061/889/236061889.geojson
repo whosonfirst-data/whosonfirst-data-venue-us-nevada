@@ -2,13 +2,14 @@
   "id": 236061889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754778,39.554324,-119.754778,39.554324",
     "geom:latitude":39.554324,
     "geom:longitude":-119.754778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Roberta Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236061889,
-    "wof:lastmodified":1449004142,
+    "wof:lastmodified":1466704006,
     "wof:name":"Sparks Pediatrics & Adolescent",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.754778,39.554324,-119.754778,39.554324],
+  "bbox": [
+    -119.754778,
+    39.554324,
+    -119.754778,
+    39.554324
+],
   "geometry": {"coordinates":[-119.754778,39.554324],"type":"Point"}
 }

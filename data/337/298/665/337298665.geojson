@@ -2,13 +2,14 @@
   "id": 337298665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.04726,36.047454,-115.04726,36.047454",
     "geom:latitude":36.047454,
     "geom:longitude":-115.04726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Clipperton Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337298665,
-    "wof:lastmodified":1449027156,
+    "wof:lastmodified":1466701695,
     "wof:name":"Oasis Solar Screens",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.04726,36.047454,-115.04726,36.047454],
-  "geometry": {"coordinates":[-115.04726,36.047454],"type":"Point"}
+  "bbox": [
+    -115.04726,
+    36.047454,
+    -115.04726,
+    36.047454
+],
+  "geometry": {"coordinates":[-115.04725999999999,36.047454],"type":"Point"}
 }

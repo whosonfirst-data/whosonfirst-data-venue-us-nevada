@@ -2,13 +2,14 @@
   "id": 219391225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.830411,35.978813,-114.830411,35.978813",
     "geom:latitude":35.978813,
     "geom:longitude":-114.830411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Ave I",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219391225,
-    "wof:lastmodified":1449072642,
+    "wof:lastmodified":1466703576,
     "wof:name":"High Performance Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.830411,35.978813,-114.830411,35.978813],
+  "bbox": [
+    -114.830411,
+    35.978813,
+    -114.830411,
+    35.978813
+],
   "geometry": {"coordinates":[-114.830411,35.978813],"type":"Point"}
 }

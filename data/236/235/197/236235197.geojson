@@ -2,13 +2,14 @@
   "id": 236235197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825119,39.344755,-119.825119,39.344755",
     "geom:latitude":39.344755,
     "geom:longitude":-119.825119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Londonderry Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236235197,
-    "wof:lastmodified":1449002101,
+    "wof:lastmodified":1466704289,
     "wof:name":"Tahoe Dental Technologies",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-119.825119,39.344755,-119.825119,39.344755],
+  "bbox": [
+    -119.825119,
+    39.344755,
+    -119.825119,
+    39.344755
+],
   "geometry": {"coordinates":[-119.825119,39.344755],"type":"Point"}
 }

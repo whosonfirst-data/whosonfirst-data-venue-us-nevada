@@ -2,13 +2,14 @@
   "id": 219229585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.240644,36.192017,-115.240644,36.192017",
     "geom:latitude":36.192017,
     "geom:longitude":-115.240644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6656 Fredonia Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219229585,
-    "wof:lastmodified":1449073219,
+    "wof:lastmodified":1466702292,
     "wof:name":"Home Intercom Co",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intercommunication"
     ]
 },
-  "bbox": [-115.240644,36.192017,-115.240644,36.192017],
+  "bbox": [
+    -115.240644,
+    36.192017,
+    -115.240644,
+    36.192017
+],
   "geometry": {"coordinates":[-115.240644,36.192017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354408373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169969,36.049742,-115.169969,36.049742",
     "geom:latitude":36.049742,
     "geom:longitude":-115.169969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Las Vegas Blvd S Ste 163",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354408373,
-    "wof:lastmodified":1449066152,
+    "wof:lastmodified":1466706377,
     "wof:name":"Adidas",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.169969,36.049742,-115.169969,36.049742],
-  "geometry": {"coordinates":[-115.169969,36.049742],"type":"Point"}
+  "bbox": [
+    -115.169969,
+    36.049742,
+    -115.169969,
+    36.049742
+],
+  "geometry": {"coordinates":[-115.16996899999999,36.049742],"type":"Point"}
 }

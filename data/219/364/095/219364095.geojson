@@ -2,13 +2,14 @@
   "id": 219364095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779299,39.415471,-119.779299,39.415471",
     "geom:latitude":39.415471,
     "geom:longitude":-119.779299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Fox Glove Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219364095,
-    "wof:lastmodified":1449072356,
+    "wof:lastmodified":1466703454,
     "wof:name":"Absolute Zero Refrigeration",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-119.779299,39.415471,-119.779299,39.415471],
-  "geometry": {"coordinates":[-119.779299,39.415471],"type":"Point"}
+  "bbox": [
+    -119.779299,
+    39.415471,
+    -119.779299,
+    39.415471
+],
+  "geometry": {"coordinates":[-119.77929899999999,39.415471],"type":"Point"}
 }

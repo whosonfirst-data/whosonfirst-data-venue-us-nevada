@@ -2,13 +2,14 @@
   "id": 219332279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057991,36.238218,-115.057991,36.238218",
     "geom:latitude":36.238218,
     "geom:longitude":-115.057991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4243 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219332279,
-    "wof:lastmodified":1449072334,
+    "wof:lastmodified":1466703279,
     "wof:name":"Nationwide Budget Finance",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.057991,36.238218,-115.057991,36.238218],
+  "bbox": [
+    -115.057991,
+    36.238218,
+    -115.057991,
+    36.238218
+],
   "geometry": {"coordinates":[-115.057991,36.238218],"type":"Point"}
 }

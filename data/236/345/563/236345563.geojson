@@ -2,13 +2,14 @@
   "id": 236345563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183151,36.159026,-115.183151,36.159026",
     "geom:latitude":36.159026,
     "geom:longitude":-115.183151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236345563,
-    "wof:lastmodified":1449004934,
+    "wof:lastmodified":1466705124,
     "wof:name":"Preferred Mortgage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.183151,36.159026,-115.183151,36.159026],
+  "bbox": [
+    -115.183151,
+    36.159026,
+    -115.183151,
+    36.159026
+],
   "geometry": {"coordinates":[-115.183151,36.159026],"type":"Point"}
 }

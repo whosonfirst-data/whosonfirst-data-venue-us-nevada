@@ -2,13 +2,14 @@
   "id": 219927227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216645,35.98734,-115.216645,35.98734",
     "geom:latitude":35.98734,
     "geom:longitude":-115.216645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11151 Castellane Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219927227,
-    "wof:lastmodified":1449073545,
+    "wof:lastmodified":1466705935,
     "wof:name":"Free Up Your Time",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-115.216645,35.98734,-115.216645,35.98734],
+  "bbox": [
+    -115.216645,
+    35.98734,
+    -115.216645,
+    35.98734
+],
   "geometry": {"coordinates":[-115.216645,35.98734],"type":"Point"}
 }

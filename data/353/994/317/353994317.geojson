@@ -2,13 +2,14 @@
   "id": 353994317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069065,36.025555,-115.069065,36.025555",
     "geom:latitude":36.025555,
     "geom:longitude":-115.069065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Mesquite Village Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353994317,
-    "wof:lastmodified":1449018369,
+    "wof:lastmodified":1466701699,
     "wof:name":"World Inspection Network Green Valley",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-115.069065,36.025555,-115.069065,36.025555],
-  "geometry": {"coordinates":[-115.069065,36.025555],"type":"Point"}
+  "bbox": [
+    -115.069065,
+    36.025555,
+    -115.069065,
+    36.025555
+],
+  "geometry": {"coordinates":[-115.06906499999999,36.025555],"type":"Point"}
 }

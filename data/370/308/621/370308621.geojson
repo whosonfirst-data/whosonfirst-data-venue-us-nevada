@@ -2,13 +2,14 @@
   "id": 370308621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736914,39.519045,-119.736914,39.519045",
     "geom:latitude":39.519045,
     "geom:longitude":-119.736914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370308621,
-    "wof:lastmodified":1449032574,
+    "wof:lastmodified":1466704796,
     "wof:name":"1st Choice Truck Service",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "servicing-equipment"
     ]
 },
-  "bbox": [-119.736914,39.519045,-119.736914,39.519045],
+  "bbox": [
+    -119.736914,
+    39.519045,
+    -119.736914,
+    39.519045
+],
   "geometry": {"coordinates":[-119.736914,39.519045],"type":"Point"}
 }

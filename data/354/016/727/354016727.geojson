@@ -2,13 +2,14 @@
   "id": 354016727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.989458,36.036055,-114.989458,36.036055",
     "geom:latitude":36.036055,
     "geom:longitude":-114.989458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Lake Mead Pkwy Ste 16",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354016727,
-    "wof:lastmodified":1449066231,
+    "wof:lastmodified":1466701927,
     "wof:name":"Finest American Mortgage",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-114.989458,36.036055,-114.989458,36.036055],
+  "bbox": [
+    -114.989458,
+    36.036055,
+    -114.989458,
+    36.036055
+],
   "geometry": {"coordinates":[-114.989458,36.036055],"type":"Point"}
 }

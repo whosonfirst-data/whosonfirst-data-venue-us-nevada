@@ -2,13 +2,14 @@
   "id": 354217857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243813,36.218437,-115.243813,36.218437",
     "geom:latitude":36.218437,
     "geom:longitude":-115.243813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6804 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354217857,
-    "wof:lastmodified":1449067574,
+    "wof:lastmodified":1466704997,
     "wof:name":"Andrea Dempsey MD",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243813,36.218437,-115.243813,36.218437],
+  "bbox": [
+    -115.243813,
+    36.218437,
+    -115.243813,
+    36.218437
+],
   "geometry": {"coordinates":[-115.243813,36.218437],"type":"Point"}
 }

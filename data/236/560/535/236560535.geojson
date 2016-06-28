@@ -2,13 +2,14 @@
   "id": 236560535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264942,36.140685,-115.264942,36.140685",
     "geom:latitude":36.140685,
     "geom:longitude":-115.264942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 Harbor Hills Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236560535,
-    "wof:lastmodified":1449004303,
+    "wof:lastmodified":1466706139,
     "wof:name":"Remdon Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.264942,36.140685,-115.264942,36.140685],
+  "bbox": [
+    -115.264942,
+    36.140685,
+    -115.264942,
+    36.140685
+],
   "geometry": {"coordinates":[-115.264942,36.140685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203203031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.704002,39.022695,-119.704002,39.022695",
     "geom:latitude":39.022695,
     "geom:longitude":-119.704002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 Lena Ct",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203203031,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466702087,
     "wof:name":"Dollars Cents A Bill Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.704002,39.022695,-119.704002,39.022695],
+  "bbox": [
+    -119.704002,
+    39.022695,
+    -119.704002,
+    39.022695
+],
   "geometry": {"coordinates":[-119.704002,39.022695],"type":"Point"}
 }

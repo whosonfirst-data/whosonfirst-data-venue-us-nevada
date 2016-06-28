@@ -2,13 +2,14 @@
   "id": 203226497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.063669,36.049639,-115.063669,36.049639",
     "geom:latitude":36.049639,
     "geom:longitude":-115.063669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Redondo St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203226497,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466702357,
     "wof:name":"Ambient Paintworks",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hanging"
     ]
 },
-  "bbox": [-115.063669,36.049639,-115.063669,36.049639],
+  "bbox": [
+    -115.063669,
+    36.049639,
+    -115.063669,
+    36.049639
+],
   "geometry": {"coordinates":[-115.063669,36.049639],"type":"Point"}
 }

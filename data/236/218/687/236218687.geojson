@@ -2,13 +2,14 @@
   "id": 236218687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761893,39.55512,-119.761893,39.55512",
     "geom:latitude":39.55512,
     "geom:longitude":-119.761893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236218687,
-    "wof:lastmodified":1449003797,
+    "wof:lastmodified":1466703949,
     "wof:name":"Bethel Housing Development",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-119.761893,39.55512,-119.761893,39.55512],
+  "bbox": [
+    -119.761893,
+    39.55512,
+    -119.761893,
+    39.55512
+],
   "geometry": {"coordinates":[-119.761893,39.55512],"type":"Point"}
 }

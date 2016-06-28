@@ -2,13 +2,14 @@
   "id": 236284941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76482,39.155393,-119.76482,39.155393",
     "geom:latitude":39.155393,
     "geom:longitude":-119.76482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 S Stewart St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236284941,
-    "wof:lastmodified":1449003749,
+    "wof:lastmodified":1466704583,
     "wof:name":"Transportation Nevada Dept",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "department"
     ]
 },
-  "bbox": [-119.76482,39.155393,-119.76482,39.155393],
+  "bbox": [
+    -119.76482,
+    39.155393,
+    -119.76482,
+    39.155393
+],
   "geometry": {"coordinates":[-119.76482,39.155393],"type":"Point"}
 }

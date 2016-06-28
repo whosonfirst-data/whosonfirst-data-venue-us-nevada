@@ -2,13 +2,14 @@
   "id": 354037453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106956,36.261299,-115.106956,36.261299",
     "geom:latitude":36.261299,
     "geom:longitude":-115.106956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 W. Ann Rd.",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354037453,
-    "wof:lastmodified":1449067689,
+    "wof:lastmodified":1466702469,
     "wof:name":"Golden Spoon Frozen Yogurt",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-115.106956,36.261299,-115.106956,36.261299],
+  "bbox": [
+    -115.106956,
+    36.261299,
+    -115.106956,
+    36.261299
+],
   "geometry": {"coordinates":[-115.106956,36.261299],"type":"Point"}
 }

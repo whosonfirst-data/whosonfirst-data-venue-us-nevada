@@ -2,13 +2,14 @@
   "id": 219472111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794847,39.498053,-119.794847,39.498053",
     "geom:latitude":39.498053,
     "geom:longitude":-119.794847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Gallaway Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219472111,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466704031,
     "wof:name":"Gallaway Discount Mini Storage",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-119.794847,39.498053,-119.794847,39.498053],
+  "bbox": [
+    -119.794847,
+    39.498053,
+    -119.794847,
+    39.498053
+],
   "geometry": {"coordinates":[-119.794847,39.498053],"type":"Point"}
 }

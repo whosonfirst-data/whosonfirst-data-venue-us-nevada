@@ -2,13 +2,14 @@
   "id": 236338367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079084,36.087104,-115.079084,36.087104",
     "geom:latitude":36.087104,
     "geom:longitude":-115.079084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4261 Vader Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236338367,
-    "wof:lastmodified":1449002653,
+    "wof:lastmodified":1466704830,
     "wof:name":"Wee Bee Jumpin",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.079084,36.087104,-115.079084,36.087104],
-  "geometry": {"coordinates":[-115.079084,36.087104],"type":"Point"}
+  "bbox": [
+    -115.079084,
+    36.087104,
+    -115.079084,
+    36.087104
+],
+  "geometry": {"coordinates":[-115.07908399999999,36.087104],"type":"Point"}
 }

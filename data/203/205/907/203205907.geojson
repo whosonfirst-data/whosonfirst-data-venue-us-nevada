@@ -2,13 +2,14 @@
   "id": 203205907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243314,36.150522,-115.243314,36.150522",
     "geom:latitude":36.150522,
     "geom:longitude":-115.243314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203205907,
-    "wof:lastmodified":1449026081,
+    "wof:lastmodified":1466702116,
     "wof:name":"Teddie Bare Gift Baskets",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243314,36.150522,-115.243314,36.150522],
+  "bbox": [
+    -115.243314,
+    36.150522,
+    -115.243314,
+    36.150522
+],
   "geometry": {"coordinates":[-115.243314,36.150522],"type":"Point"}
 }

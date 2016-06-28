@@ -2,13 +2,14 @@
   "id": 219343899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.926694,39.507579,-118.926694,39.507579",
     "geom:latitude":39.507579,
     "geom:longitude":-118.926694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8355 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219343899,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466703376,
     "wof:name":"Consignment Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-118.926694,39.507579,-118.926694,39.507579],
+  "bbox": [
+    -118.926694,
+    39.507579,
+    -118.926694,
+    39.507579
+],
   "geometry": {"coordinates":[-118.926694,39.507579],"type":"Point"}
 }

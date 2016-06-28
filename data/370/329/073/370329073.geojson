@@ -2,13 +2,14 @@
   "id": 370329073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768243,39.38993,-119.768243,39.38993",
     "geom:latitude":39.38993,
     "geom:longitude":-119.768243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18653 Wedge Pkwy Ste 110",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370329073,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1466704839,
     "wof:name":"Mt Rose Family Medicine",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-119.768243,39.38993,-119.768243,39.38993],
+  "bbox": [
+    -119.768243,
+    39.38993,
+    -119.768243,
+    39.38993
+],
   "geometry": {"coordinates":[-119.768243,39.38993],"type":"Point"}
 }

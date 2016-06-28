@@ -2,13 +2,14 @@
   "id": 354005219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059244,36.063779,-115.059244,36.063779",
     "geom:latitude":36.063779,
     "geom:longitude":-115.059244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 W Sunset Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354005219,
-    "wof:lastmodified":1449067532,
+    "wof:lastmodified":1466701594,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-115.059244,36.063779,-115.059244,36.063779],
-  "geometry": {"coordinates":[-115.059244,36.063779],"type":"Point"}
+  "bbox": [
+    -115.059244,
+    36.063779,
+    -115.059244,
+    36.063779
+],
+  "geometry": {"coordinates":[-115.05924400000001,36.063779],"type":"Point"}
 }

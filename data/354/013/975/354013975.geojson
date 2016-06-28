@@ -2,13 +2,14 @@
   "id": 354013975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.985665,36.012844,-114.985665,36.012844",
     "geom:latitude":36.012844,
     "geom:longitude":-114.985665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 Blackridge Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354013975,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1466701849,
     "wof:name":"Kidzhouse Corporation",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-114.985665,36.012844,-114.985665,36.012844],
+  "bbox": [
+    -114.985665,
+    36.012844,
+    -114.985665,
+    36.012844
+],
   "geometry": {"coordinates":[-114.985665,36.012844],"type":"Point"}
 }

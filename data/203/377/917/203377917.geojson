@@ -2,13 +2,14 @@
   "id": 203377917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.73543,40.838445,-115.73543,40.838445",
     "geom:latitude":40.838445,
     "geom:longitude":-115.73543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 Last Chance Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203377917,
-    "wof:lastmodified":1449025631,
+    "wof:lastmodified":1466703246,
     "wof:name":"A-1 Self Storage",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.73543,40.838445,-115.73543,40.838445],
-  "geometry": {"coordinates":[-115.73543,40.838445],"type":"Point"}
+  "bbox": [
+    -115.73543,
+    40.838445,
+    -115.73543,
+    40.838445
+],
+  "geometry": {"coordinates":[-115.73542999999999,40.838445],"type":"Point"}
 }

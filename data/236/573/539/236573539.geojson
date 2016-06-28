@@ -2,13 +2,14 @@
   "id": 236573539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199569,36.158967,-115.199569,36.158967",
     "geom:latitude":36.158967,
     "geom:longitude":-115.199569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4221 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236573539,
-    "wof:lastmodified":1449004208,
+    "wof:lastmodified":1466706175,
     "wof:name":"Carpeteria Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-115.199569,36.158967,-115.199569,36.158967],
+  "bbox": [
+    -115.199569,
+    36.158967,
+    -115.199569,
+    36.158967
+],
   "geometry": {"coordinates":[-115.199569,36.158967],"type":"Point"}
 }

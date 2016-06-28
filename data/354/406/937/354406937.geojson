@@ -2,13 +2,14 @@
   "id": 354406937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118941,36.032267,-115.118941,36.032267",
     "geom:latitude":36.032267,
     "geom:longitude":-115.118941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8655 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354406937,
-    "wof:lastmodified":1449066847,
+    "wof:lastmodified":1466706321,
     "wof:name":"Las Vegas Tourist Bureau",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tour"
     ]
 },
-  "bbox": [-115.118941,36.032267,-115.118941,36.032267],
-  "geometry": {"coordinates":[-115.118941,36.032267],"type":"Point"}
+  "bbox": [
+    -115.118941,
+    36.032267,
+    -115.118941,
+    36.032267
+],
+  "geometry": {"coordinates":[-115.11894100000001,36.032267],"type":"Point"}
 }

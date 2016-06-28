@@ -2,13 +2,14 @@
   "id": 236594027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115863,35.972956,-115.115863,35.972956",
     "geom:latitude":35.972956,
     "geom:longitude":-115.115863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2959 Matese Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236594027,
-    "wof:lastmodified":1449002030,
+    "wof:lastmodified":1466706341,
     "wof:name":"Visual Developing Inc",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-115.115863,35.972956,-115.115863,35.972956],
+  "bbox": [
+    -115.115863,
+    35.972956,
+    -115.115863,
+    35.972956
+],
   "geometry": {"coordinates":[-115.115863,35.972956],"type":"Point"}
 }

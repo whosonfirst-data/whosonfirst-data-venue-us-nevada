@@ -2,13 +2,14 @@
   "id": 354026317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129877,36.196035,-115.129877,36.196035",
     "geom:latitude":36.196035,
     "geom:longitude":-115.129877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354026317,
-    "wof:lastmodified":1449066950,
+    "wof:lastmodified":1466702165,
     "wof:name":"Worldcom Nevada Inc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.129877,36.196035,-115.129877,36.196035],
-  "geometry": {"coordinates":[-115.129877,36.196035],"type":"Point"}
+  "bbox": [
+    -115.129877,
+    36.196035,
+    -115.129877,
+    36.196035
+],
+  "geometry": {"coordinates":[-115.12987699999999,36.196035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203297549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744503,39.525654,-119.744503,39.525654",
     "geom:latitude":39.525654,
     "geom:longitude":-119.744503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203297549,
-    "wof:lastmodified":1449026179,
+    "wof:lastmodified":1466702817,
     "wof:name":"Daniel's Floor Covering",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-119.744503,39.525654,-119.744503,39.525654],
-  "geometry": {"coordinates":[-119.744503,39.525654],"type":"Point"}
+  "bbox": [
+    -119.744503,
+    39.525654,
+    -119.744503,
+    39.525654
+],
+  "geometry": {"coordinates":[-119.74450299999999,39.525654],"type":"Point"}
 }

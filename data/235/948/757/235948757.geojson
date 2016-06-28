@@ -2,13 +2,14 @@
   "id": 235948757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.0359,36.216579,-116.0359,36.216579",
     "geom:latitude":36.216579,
     "geom:longitude":-116.0359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Dyer Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235948757,
-    "wof:lastmodified":1449008526,
+    "wof:lastmodified":1466703518,
     "wof:name":"Pahrump Valley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.0359,36.216579,-116.0359,36.216579],
+  "bbox": [
+    -116.0359,
+    36.216579,
+    -116.0359,
+    36.216579
+],
   "geometry": {"coordinates":[-116.0359,36.216579],"type":"Point"}
 }

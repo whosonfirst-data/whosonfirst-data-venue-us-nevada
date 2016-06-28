@@ -2,13 +2,14 @@
   "id": 236743793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200896,36.090422,-115.200896,36.090422",
     "geom:latitude":36.090422,
     "geom:longitude":-115.200896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5445 Desert Pt",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236743793,
-    "wof:lastmodified":1449005226,
+    "wof:lastmodified":1466706558,
     "wof:name":"Kiva Signs & Graphics",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "graphics"
     ]
 },
-  "bbox": [-115.200896,36.090422,-115.200896,36.090422],
+  "bbox": [
+    -115.200896,
+    36.090422,
+    -115.200896,
+    36.090422
+],
   "geometry": {"coordinates":[-115.200896,36.090422],"type":"Point"}
 }

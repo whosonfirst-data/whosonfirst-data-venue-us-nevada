@@ -2,13 +2,14 @@
   "id": 370203277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163002,36.1353,-115.163002,36.1353",
     "geom:latitude":36.1353,
     "geom:longitude":-115.163002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Las Vegas Boulevard South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370203277,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466702597,
     "wof:name":"Hertz Local Edition",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.163002,36.1353,-115.163002,36.1353],
-  "geometry": {"coordinates":[-115.163002,36.1353],"type":"Point"}
+  "bbox": [
+    -115.163002,
+    36.1353,
+    -115.163002,
+    36.1353
+],
+  "geometry": {"coordinates":[-115.16300200000001,36.1353],"type":"Point"}
 }

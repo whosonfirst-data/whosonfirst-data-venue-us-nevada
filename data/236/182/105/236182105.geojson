@@ -2,13 +2,14 @@
   "id": 236182105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820322,39.555876,-119.820322,39.555876",
     "geom:latitude":39.555876,
     "geom:longitude":-119.820322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Greenstone Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236182105,
-    "wof:lastmodified":1449003795,
+    "wof:lastmodified":1466703223,
     "wof:name":"Susanne Hill",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.820322,39.555876,-119.820322,39.555876],
+  "bbox": [
+    -119.820322,
+    39.555876,
+    -119.820322,
+    39.555876
+],
   "geometry": {"coordinates":[-119.820322,39.555876],"type":"Point"}
 }

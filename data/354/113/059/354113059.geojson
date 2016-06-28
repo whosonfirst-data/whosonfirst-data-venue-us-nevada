@@ -2,13 +2,14 @@
   "id": 354113059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184035,36.13623,-115.184035,36.13623",
     "geom:latitude":36.13623,
     "geom:longitude":-115.184035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 Meade Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354113059,
-    "wof:lastmodified":1449067521,
+    "wof:lastmodified":1466704353,
     "wof:name":"Hiew Insurance Agency",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.184035,36.13623,-115.184035,36.13623],
-  "geometry": {"coordinates":[-115.184035,36.13623],"type":"Point"}
+  "bbox": [
+    -115.184035,
+    36.13623,
+    -115.184035,
+    36.13623
+],
+  "geometry": {"coordinates":[-115.18403499999999,36.13623],"type":"Point"}
 }

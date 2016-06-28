@@ -2,13 +2,14 @@
   "id": 219943317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104937,36.124333,-115.104937,36.124333",
     "geom:latitude":36.124333,
     "geom:longitude":-115.104937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3549 Haverhill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219943317,
-    "wof:lastmodified":1449071332,
+    "wof:lastmodified":1466705855,
     "wof:name":"Hydrometrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "work"
     ]
 },
-  "bbox": [-115.104937,36.124333,-115.104937,36.124333],
-  "geometry": {"coordinates":[-115.104937,36.124333],"type":"Point"}
+  "bbox": [
+    -115.104937,
+    36.124333,
+    -115.104937,
+    36.124333
+],
+  "geometry": {"coordinates":[-115.10493700000001,36.124333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219794465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318979,36.178962,-115.318979,36.178962",
     "geom:latitude":36.178962,
     "geom:longitude":-115.318979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Painted Cloud Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219794465,
-    "wof:lastmodified":1449072089,
+    "wof:lastmodified":1466704927,
     "wof:name":"Reliance Systems Incorporated",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-115.318979,36.178962,-115.318979,36.178962],
+  "bbox": [
+    -115.318979,
+    36.178962,
+    -115.318979,
+    36.178962
+],
   "geometry": {"coordinates":[-115.318979,36.178962],"type":"Point"}
 }

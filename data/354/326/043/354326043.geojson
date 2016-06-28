@@ -2,13 +2,14 @@
   "id": 354326043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185549,36.083466,-115.185549,36.083466",
     "geom:latitude":36.083466,
     "geom:longitude":-115.185549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5850 Polaris Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354326043,
-    "wof:lastmodified":1449066650,
+    "wof:lastmodified":1466705760,
     "wof:name":"Concentra Medical Centers",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.185549,36.083466,-115.185549,36.083466],
-  "geometry": {"coordinates":[-115.185549,36.083466],"type":"Point"}
+  "bbox": [
+    -115.185549,
+    36.083466,
+    -115.185549,
+    36.083466
+],
+  "geometry": {"coordinates":[-115.18554899999999,36.083466],"type":"Point"}
 }

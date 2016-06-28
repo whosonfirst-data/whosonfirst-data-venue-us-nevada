@@ -2,13 +2,14 @@
   "id": 354052439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099998,36.0317,-115.099998,36.0317",
     "geom:latitude":36.0317,
     "geom:longitude":-115.099998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 N Pecos Rd Ste C",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354052439,
-    "wof:lastmodified":1449066680,
+    "wof:lastmodified":1466702837,
     "wof:name":"Zeigler Jeffery W DO",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.099998,36.0317,-115.099998,36.0317],
+  "bbox": [
+    -115.099998,
+    36.0317,
+    -115.099998,
+    36.0317
+],
   "geometry": {"coordinates":[-115.099998,36.0317],"type":"Point"}
 }

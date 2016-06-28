@@ -2,13 +2,14 @@
   "id": 203368759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112851,36.076501,-115.112851,36.076501",
     "geom:latitude":36.076501,
     "geom:longitude":-115.112851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6245 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203368759,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466703221,
     "wof:name":"Graphic Attack",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphics"
     ]
 },
-  "bbox": [-115.112851,36.076501,-115.112851,36.076501],
-  "geometry": {"coordinates":[-115.112851,36.076501],"type":"Point"}
+  "bbox": [
+    -115.112851,
+    36.076501,
+    -115.112851,
+    36.076501
+],
+  "geometry": {"coordinates":[-115.11285100000001,36.076501],"type":"Point"}
 }

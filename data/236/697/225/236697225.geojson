@@ -2,13 +2,14 @@
   "id": 236697225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744903,39.519211,-119.744903,39.519211",
     "geom:latitude":39.519211,
     "geom:longitude":-119.744903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Coney Island Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236697225,
-    "wof:lastmodified":1449003788,
+    "wof:lastmodified":1466706470,
     "wof:name":"Apex Anodizing Nv Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.744903,39.519211,-119.744903,39.519211],
-  "geometry": {"coordinates":[-119.744903,39.519211],"type":"Point"}
+  "bbox": [
+    -119.744903,
+    39.519211,
+    -119.744903,
+    39.519211
+],
+  "geometry": {"coordinates":[-119.74490299999999,39.519211],"type":"Point"}
 }

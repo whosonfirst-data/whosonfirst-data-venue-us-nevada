@@ -2,13 +2,14 @@
   "id": 219789089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284148,36.245622,-115.284148,36.245622",
     "geom:latitude":36.245622,
     "geom:longitude":-115.284148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8640 Christopher Lee Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219789089,
-    "wof:lastmodified":1449071989,
+    "wof:lastmodified":1466705002,
     "wof:name":"Ghi Solutions Inc",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "technology"
     ]
 },
-  "bbox": [-115.284148,36.245622,-115.284148,36.245622],
+  "bbox": [
+    -115.284148,
+    36.245622,
+    -115.284148,
+    36.245622
+],
   "geometry": {"coordinates":[-115.284148,36.245622],"type":"Point"}
 }

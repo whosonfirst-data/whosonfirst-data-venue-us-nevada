@@ -2,13 +2,14 @@
   "id": 219450245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.83755,38.92966,-119.83755,38.92966",
     "geom:latitude":38.92966,
     "geom:longitude":-119.83755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Applecreek Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219450245,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466703878,
     "wof:name":"Design Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.83755,38.92966,-119.83755,38.92966],
-  "geometry": {"coordinates":[-119.83755,38.92966],"type":"Point"}
+  "bbox": [
+    -119.83755,
+    38.92966,
+    -119.83755,
+    38.92966
+],
+  "geometry": {"coordinates":[-119.83754999999999,38.92966],"type":"Point"}
 }

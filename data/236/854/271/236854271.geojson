@@ -2,13 +2,14 @@
   "id": 236854271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.721755,39.155648,-119.721755,39.155648",
     "geom:latitude":39.155648,
     "geom:longitude":-119.721755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Eagle Ct",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236854271,
-    "wof:lastmodified":1449005102,
+    "wof:lastmodified":1466706850,
     "wof:name":"Finest Fence",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.721755,39.155648,-119.721755,39.155648],
+  "bbox": [
+    -119.721755,
+    39.155648,
+    -119.721755,
+    39.155648
+],
   "geometry": {"coordinates":[-119.721755,39.155648],"type":"Point"}
 }

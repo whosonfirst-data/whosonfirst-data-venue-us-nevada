@@ -2,13 +2,14 @@
   "id": 370326583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817307,39.505504,-119.817307,39.505504",
     "geom:latitude":39.505504,
     "geom:longitude":-119.817307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370326583,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466704664,
     "wof:name":"Creative Colours Hair Salon",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.817307,39.505504,-119.817307,39.505504],
+  "bbox": [
+    -119.817307,
+    39.505504,
+    -119.817307,
+    39.505504
+],
   "geometry": {"coordinates":[-119.817307,39.505504],"type":"Point"}
 }

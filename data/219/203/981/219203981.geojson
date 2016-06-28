@@ -2,13 +2,14 @@
   "id": 219203981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.767514,40.836085,-115.767514,40.836085",
     "geom:latitude":40.836085,
     "geom:longitude":-115.767514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Fir St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219203981,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466702099,
     "wof:name":"Strang Mobile Home Court",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-115.767514,40.836085,-115.767514,40.836085],
-  "geometry": {"coordinates":[-115.767514,40.836085],"type":"Point"}
+  "bbox": [
+    -115.767514,
+    40.836085,
+    -115.767514,
+    40.836085
+],
+  "geometry": {"coordinates":[-115.76751400000001,40.836085],"type":"Point"}
 }

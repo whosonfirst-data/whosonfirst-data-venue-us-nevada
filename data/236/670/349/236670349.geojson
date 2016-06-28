@@ -2,13 +2,14 @@
   "id": 236670349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153378,36.192113,-115.153378,36.192113",
     "geom:latitude":36.192113,
     "geom:longitude":-115.153378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Doolittle Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236670349,
-    "wof:lastmodified":1449002046,
+    "wof:lastmodified":1466706423,
     "wof:name":"Sunset Palms Apartments",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.153378,36.192113,-115.153378,36.192113],
+  "bbox": [
+    -115.153378,
+    36.192113,
+    -115.153378,
+    36.192113
+],
   "geometry": {"coordinates":[-115.153378,36.192113],"type":"Point"}
 }

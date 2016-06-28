@@ -2,13 +2,14 @@
   "id": 354322893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221426,36.096356,-115.221426,36.096356",
     "geom:latitude":36.096356,
     "geom:longitude":-115.221426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 Heddell Court",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354322893,
-    "wof:lastmodified":1449065913,
+    "wof:lastmodified":1466705871,
     "wof:name":"Stonegate Townhouse Apartments",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.221426,36.096356,-115.221426,36.096356],
-  "geometry": {"coordinates":[-115.221426,36.096356],"type":"Point"}
+  "bbox": [
+    -115.221426,
+    36.096356,
+    -115.221426,
+    36.096356
+],
+  "geometry": {"coordinates":[-115.22142599999999,36.096356],"type":"Point"}
 }

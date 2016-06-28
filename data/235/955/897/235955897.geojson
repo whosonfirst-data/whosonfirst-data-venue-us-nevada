@@ -2,13 +2,14 @@
   "id": 235955897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.65613,39.22742,-119.65613,39.22742",
     "geom:latitude":39.22742,
     "geom:longitude":-119.65613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Heppner Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":235955897,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1466703553,
     "wof:name":"Sheahan Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-119.65613,39.22742,-119.65613,39.22742],
+  "bbox": [
+    -119.65613,
+    39.22742,
+    -119.65613,
+    39.22742
+],
   "geometry": {"coordinates":[-119.65613,39.22742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219796763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.987316,39.527855,-118.987316,39.527855",
     "geom:latitude":39.527855,
     "geom:longitude":-118.987316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Bench Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219796763,
-    "wof:lastmodified":1449072061,
+    "wof:lastmodified":1466705206,
     "wof:name":"Bench-Mark Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-118.987316,39.527855,-118.987316,39.527855],
-  "geometry": {"coordinates":[-118.987316,39.527855],"type":"Point"}
+  "bbox": [
+    -118.987316,
+    39.527855,
+    -118.987316,
+    39.527855
+],
+  "geometry": {"coordinates":[-118.98731600000001,39.527855],"type":"Point"}
 }

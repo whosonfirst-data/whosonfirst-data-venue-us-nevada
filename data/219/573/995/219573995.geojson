@@ -2,13 +2,14 @@
   "id": 219573995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.679774,39.22016,-119.679774,39.22016",
     "geom:latitude":39.22016,
     "geom:longitude":-119.679774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Linehan Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219573995,
-    "wof:lastmodified":1449073010,
+    "wof:lastmodified":1466702641,
     "wof:name":"Wagonmasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-119.679774,39.22016,-119.679774,39.22016],
-  "geometry": {"coordinates":[-119.679774,39.22016],"type":"Point"}
+  "bbox": [
+    -119.679774,
+    39.22016,
+    -119.679774,
+    39.22016
+],
+  "geometry": {"coordinates":[-119.67977399999999,39.22016],"type":"Point"}
 }

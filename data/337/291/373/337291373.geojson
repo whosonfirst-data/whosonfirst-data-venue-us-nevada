@@ -2,13 +2,14 @@
   "id": 337291373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79177,39.527544,-119.79177,39.527544",
     "geom:latitude":39.527544,
     "geom:longitude":-119.79177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337291373,
-    "wof:lastmodified":1449027194,
+    "wof:lastmodified":1466701515,
     "wof:name":"Carjo Autobody",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-119.79177,39.527544,-119.79177,39.527544],
+  "bbox": [
+    -119.79177,
+    39.527544,
+    -119.79177,
+    39.527544
+],
   "geometry": {"coordinates":[-119.79177,39.527544],"type":"Point"}
 }

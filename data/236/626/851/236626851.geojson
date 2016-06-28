@@ -2,13 +2,14 @@
   "id": 236626851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.017724,36.028128,-115.017724,36.028128",
     "geom:latitude":36.028128,
     "geom:longitude":-115.017724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Montesol Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236626851,
-    "wof:lastmodified":1449005252,
+    "wof:lastmodified":1466706235,
     "wof:name":"Straighten Up Professional Org",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.017724,36.028128,-115.017724,36.028128],
+  "bbox": [
+    -115.017724,
+    36.028128,
+    -115.017724,
+    36.028128
+],
   "geometry": {"coordinates":[-115.017724,36.028128],"type":"Point"}
 }

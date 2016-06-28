@@ -2,13 +2,14 @@
   "id": 354192073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160838,36.165243,-115.160838,36.165243",
     "geom:latitude":36.165243,
     "geom:longitude":-115.160838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 S Martin L King Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354192073,
-    "wof:lastmodified":1449067161,
+    "wof:lastmodified":1466704841,
     "wof:name":"Plaza 550 Apartments",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.160838,36.165243,-115.160838,36.165243],
+  "bbox": [
+    -115.160838,
+    36.165243,
+    -115.160838,
+    36.165243
+],
   "geometry": {"coordinates":[-115.160838,36.165243],"type":"Point"}
 }

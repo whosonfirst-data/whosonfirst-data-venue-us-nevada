@@ -2,13 +2,14 @@
   "id": 219182591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808019,39.468727,-119.808019,39.468727",
     "geom:latitude":39.468727,
     "geom:longitude":-119.808019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6135 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219182591,
-    "wof:lastmodified":1449072615,
+    "wof:lastmodified":1466701954,
     "wof:name":"Weight Watchers",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "weight"
     ]
 },
-  "bbox": [-119.808019,39.468727,-119.808019,39.468727],
+  "bbox": [
+    -119.808019,
+    39.468727,
+    -119.808019,
+    39.468727
+],
   "geometry": {"coordinates":[-119.808019,39.468727],"type":"Point"}
 }

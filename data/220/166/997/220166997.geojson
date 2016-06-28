@@ -2,13 +2,14 @@
   "id": 220166997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189919,36.090973,-115.189919,36.090973",
     "geom:latitude":36.090973,
     "geom:longitude":-115.189919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5455 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220166997,
-    "wof:lastmodified":1449074504,
+    "wof:lastmodified":1466702870,
     "wof:name":"Design IV Wyse Contracts",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drapery"
     ]
 },
-  "bbox": [-115.189919,36.090973,-115.189919,36.090973],
+  "bbox": [
+    -115.189919,
+    36.090973,
+    -115.189919,
+    36.090973
+],
   "geometry": {"coordinates":[-115.189919,36.090973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236540505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.953743,36.019793,-114.953743,36.019793",
     "geom:latitude":36.019793,
     "geom:longitude":-114.953743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 High Mountain St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236540505,
-    "wof:lastmodified":1449002856,
+    "wof:lastmodified":1466706119,
     "wof:name":"DVC Brokeage Co",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-114.953743,36.019793,-114.953743,36.019793],
+  "bbox": [
+    -114.953743,
+    36.019793,
+    -114.953743,
+    36.019793
+],
   "geometry": {"coordinates":[-114.953743,36.019793],"type":"Point"}
 }

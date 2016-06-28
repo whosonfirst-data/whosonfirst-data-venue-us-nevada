@@ -2,13 +2,14 @@
   "id": 219165217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226076,36.243458,-115.226076,36.243458",
     "geom:latitude":36.243458,
     "geom:longitude":-115.226076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 Stormy Hills Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219165217,
-    "wof:lastmodified":1449073924,
+    "wof:lastmodified":1466701650,
     "wof:name":"Darco Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.226076,36.243458,-115.226076,36.243458],
-  "geometry": {"coordinates":[-115.226076,36.243458],"type":"Point"}
+  "bbox": [
+    -115.226076,
+    36.243458,
+    -115.226076,
+    36.243458
+],
+  "geometry": {"coordinates":[-115.22607600000001,36.243458],"type":"Point"}
 }

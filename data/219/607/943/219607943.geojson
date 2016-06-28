@@ -2,13 +2,14 @@
   "id": 219607943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.847193,39.519686,-119.847193,39.519686",
     "geom:latitude":39.519686,
     "geom:longitude":-119.847193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219607943,
-    "wof:lastmodified":1449070863,
+    "wof:lastmodified":1466703054,
     "wof:name":"Pet Play House",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-119.847193,39.519686,-119.847193,39.519686],
+  "bbox": [
+    -119.847193,
+    39.519686,
+    -119.847193,
+    39.519686
+],
   "geometry": {"coordinates":[-119.847193,39.519686],"type":"Point"}
 }

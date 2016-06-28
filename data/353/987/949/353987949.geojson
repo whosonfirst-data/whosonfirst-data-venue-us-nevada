@@ -2,13 +2,14 @@
   "id": 353987949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.99859,36.054554,-114.99859,36.054554",
     "geom:latitude":36.054554,
     "geom:longitude":-114.99859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 N Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353987949,
-    "wof:lastmodified":1449019683,
+    "wof:lastmodified":1466701532,
     "wof:name":"Hi Desert Smog",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.99859,36.054554,-114.99859,36.054554],
-  "geometry": {"coordinates":[-114.99859,36.054554],"type":"Point"}
+  "bbox": [
+    -114.99859,
+    36.054554,
+    -114.99859,
+    36.054554
+],
+  "geometry": {"coordinates":[-114.99858999999999,36.054554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236019619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075097,36.173643,-115.075097,36.173643",
     "geom:latitude":36.173643,
     "geom:longitude":-115.075097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236019619,
-    "wof:lastmodified":1449003556,
+    "wof:lastmodified":1466703857,
     "wof:name":"Miranda Travel",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.075097,36.173643,-115.075097,36.173643],
+  "bbox": [
+    -115.075097,
+    36.173643,
+    -115.075097,
+    36.173643
+],
   "geometry": {"coordinates":[-115.075097,36.173643],"type":"Point"}
 }

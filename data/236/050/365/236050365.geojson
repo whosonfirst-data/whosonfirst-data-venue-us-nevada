@@ -2,13 +2,14 @@
   "id": 236050365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326462,36.192937,-115.326462,36.192937",
     "geom:latitude":36.192937,
     "geom:longitude":-115.326462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1837 Drifter Peak St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236050365,
-    "wof:lastmodified":1449003478,
+    "wof:lastmodified":1466703967,
     "wof:name":"Ron Ali Enterprises",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.326462,36.192937,-115.326462,36.192937],
-  "geometry": {"coordinates":[-115.326462,36.192937],"type":"Point"}
+  "bbox": [
+    -115.326462,
+    36.192937,
+    -115.326462,
+    36.192937
+],
+  "geometry": {"coordinates":[-115.32646200000001,36.192937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220176083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144682,36.209925,-115.144682,36.209925",
     "geom:latitude":36.209925,
     "geom:longitude":-115.144682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Joust St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220176083,
-    "wof:lastmodified":1449074582,
+    "wof:lastmodified":1466702925,
     "wof:name":"Do For Self Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"
     ]
 },
-  "bbox": [-115.144682,36.209925,-115.144682,36.209925],
+  "bbox": [
+    -115.144682,
+    36.209925,
+    -115.144682,
+    36.209925
+],
   "geometry": {"coordinates":[-115.144682,36.209925],"type":"Point"}
 }

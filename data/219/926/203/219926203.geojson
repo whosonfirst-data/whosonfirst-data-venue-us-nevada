@@ -2,13 +2,14 @@
   "id": 219926203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198397,36.098998,-115.198397,36.098998",
     "geom:latitude":36.098998,
     "geom:longitude":-115.198397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 W Bell Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219926203,
-    "wof:lastmodified":1449071624,
+    "wof:lastmodified":1466705798,
     "wof:name":"Rainbow Youth Soccer",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-115.198397,36.098998,-115.198397,36.098998],
+  "bbox": [
+    -115.198397,
+    36.098998,
+    -115.198397,
+    36.098998
+],
   "geometry": {"coordinates":[-115.198397,36.098998],"type":"Point"}
 }

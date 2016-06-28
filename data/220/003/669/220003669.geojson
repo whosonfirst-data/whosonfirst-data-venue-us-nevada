@@ -2,13 +2,14 @@
   "id": 220003669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306,36.148108,-115.306,36.148108",
     "geom:latitude":36.148108,
     "geom:longitude":-115.306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Summit Pointe Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220003669,
-    "wof:lastmodified":1449074818,
+    "wof:lastmodified":1466701469,
     "wof:name":"Howard Kerri Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.306,36.148108,-115.306,36.148108],
+  "bbox": [
+    -115.306,
+    36.148108,
+    -115.306,
+    36.148108
+],
   "geometry": {"coordinates":[-115.306,36.148108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236561061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.975879,36.032391,-114.975879,36.032391",
     "geom:latitude":36.032391,
     "geom:longitude":-114.975879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 E Basic Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236561061,
-    "wof:lastmodified":1449004093,
+    "wof:lastmodified":1466706267,
     "wof:name":"B J's Glass",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-114.975879,36.032391,-114.975879,36.032391],
-  "geometry": {"coordinates":[-114.975879,36.032391],"type":"Point"}
+  "bbox": [
+    -114.975879,
+    36.032391,
+    -114.975879,
+    36.032391
+],
+  "geometry": {"coordinates":[-114.97587900000001,36.032391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220094657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064473,36.051774,-115.064473,36.051774",
     "geom:latitude":36.051774,
     "geom:longitude":-115.064473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Esquina Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220094657,
-    "wof:lastmodified":1449074546,
+    "wof:lastmodified":1466702349,
     "wof:name":"Scott Edgar and Associates",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.064473,36.051774,-115.064473,36.051774],
-  "geometry": {"coordinates":[-115.064473,36.051774],"type":"Point"}
+  "bbox": [
+    -115.064473,
+    36.051774,
+    -115.064473,
+    36.051774
+],
+  "geometry": {"coordinates":[-115.06447300000001,36.051774],"type":"Point"}
 }

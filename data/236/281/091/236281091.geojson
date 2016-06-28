@@ -2,13 +2,14 @@
   "id": 236281091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821749,39.530005,-119.821749,39.530005",
     "geom:latitude":39.530005,
     "geom:longitude":-119.821749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236281091,
-    "wof:lastmodified":1449004641,
+    "wof:lastmodified":1466704402,
     "wof:name":"Beto Mexican Food",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.821749,39.530005,-119.821749,39.530005],
+  "bbox": [
+    -119.821749,
+    39.530005,
+    -119.821749,
+    39.530005
+],
   "geometry": {"coordinates":[-119.821749,39.530005],"type":"Point"}
 }

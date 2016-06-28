@@ -2,13 +2,14 @@
   "id": 203321485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256102,36.196033,-115.256102,36.196033",
     "geom:latitude":36.196033,
     "geom:longitude":-115.256102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7441 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203321485,
-    "wof:lastmodified":1449024990,
+    "wof:lastmodified":1466702974,
     "wof:name":"Glassy Business Window Tinting",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.256102,36.196033,-115.256102,36.196033],
+  "bbox": [
+    -115.256102,
+    36.196033,
+    -115.256102,
+    36.196033
+],
   "geometry": {"coordinates":[-115.256102,36.196033],"type":"Point"}
 }

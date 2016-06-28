@@ -2,13 +2,14 @@
   "id": 354079277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144422,36.170603,-115.144422,36.170603",
     "geom:latitude":36.170603,
     "geom:longitude":-115.144422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Golden Nugget Hotel 129 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354079277,
-    "wof:lastmodified":1449067363,
+    "wof:lastmodified":1466703570,
     "wof:name":"Budget Rent-A-Car of Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.144422,36.170603,-115.144422,36.170603],
-  "geometry": {"coordinates":[-115.144422,36.170603],"type":"Point"}
+  "bbox": [
+    -115.144422,
+    36.170603,
+    -115.144422,
+    36.170603
+],
+  "geometry": {"coordinates":[-115.14442200000001,36.170603],"type":"Point"}
 }

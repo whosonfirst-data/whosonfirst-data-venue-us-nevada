@@ -2,13 +2,14 @@
   "id": 219515485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.858443,39.485484,-118.858443,39.485484",
     "geom:latitude":39.485484,
     "geom:longitude":-118.858443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5130 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219515485,
-    "wof:lastmodified":1449071212,
+    "wof:lastmodified":1466701576,
     "wof:name":"Fallon Welding & Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-118.858443,39.485484,-118.858443,39.485484],
-  "geometry": {"coordinates":[-118.858443,39.485484],"type":"Point"}
+  "bbox": [
+    -118.858443,
+    39.485484,
+    -118.858443,
+    39.485484
+],
+  "geometry": {"coordinates":[-118.85844299999999,39.485484],"type":"Point"}
 }

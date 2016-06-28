@@ -2,13 +2,14 @@
   "id": 236575955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116781,36.174023,-115.116781,36.174023",
     "geom:latitude":36.174023,
     "geom:longitude":-115.116781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236575955,
-    "wof:lastmodified":1449002430,
+    "wof:lastmodified":1466706194,
     "wof:name":"Mi Pueblito Beauty Salon",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.116781,36.174023,-115.116781,36.174023],
+  "bbox": [
+    -115.116781,
+    36.174023,
+    -115.116781,
+    36.174023
+],
   "geometry": {"coordinates":[-115.116781,36.174023],"type":"Point"}
 }

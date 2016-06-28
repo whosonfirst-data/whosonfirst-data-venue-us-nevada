@@ -2,13 +2,14 @@
   "id": 219227629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251656,36.136695,-115.251656,36.136695",
     "geom:latitude":36.136695,
     "geom:longitude":-115.251656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Edna Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219227629,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466702279,
     "wof:name":"GWR Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-115.251656,36.136695,-115.251656,36.136695],
+  "bbox": [
+    -115.251656,
+    36.136695,
+    -115.251656,
+    36.136695
+],
   "geometry": {"coordinates":[-115.251656,36.136695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236263457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760961,40.831009,-115.760961,40.831009",
     "geom:latitude":40.831009,
     "geom:longitude":-115.760961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236263457,
-    "wof:lastmodified":1449005128,
+    "wof:lastmodified":1466704462,
     "wof:name":"Vogue Linen Supply & Uniform",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.760961,40.831009,-115.760961,40.831009],
-  "geometry": {"coordinates":[-115.760961,40.831009],"type":"Point"}
+  "bbox": [
+    -115.760961,
+    40.831009,
+    -115.760961,
+    40.831009
+],
+  "geometry": {"coordinates":[-115.76096099999999,40.831009],"type":"Point"}
 }

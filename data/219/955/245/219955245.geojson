@@ -2,13 +2,14 @@
   "id": 219955245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.551868,39.249821,-119.551868,39.249821",
     "geom:latitude":39.249821,
     "geom:longitude":-119.551868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Sawgrass Ln",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219955245,
-    "wof:lastmodified":1449072842,
+    "wof:lastmodified":1466705834,
     "wof:name":"Logistics Corps Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sale"
     ]
 },
-  "bbox": [-119.551868,39.249821,-119.551868,39.249821],
+  "bbox": [
+    -119.551868,
+    39.249821,
+    -119.551868,
+    39.249821
+],
   "geometry": {"coordinates":[-119.551868,39.249821],"type":"Point"}
 }

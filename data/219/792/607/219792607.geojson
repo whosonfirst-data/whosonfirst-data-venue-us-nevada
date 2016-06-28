@@ -2,13 +2,14 @@
   "id": 219792607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29737,36.092049,-115.29737,36.092049",
     "geom:latitude":36.092049,
     "geom:longitude":-115.29737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5326 S Fort Apache Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219792607,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466705021,
     "wof:name":"Nails L'Amour",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-115.29737,36.092049,-115.29737,36.092049],
+  "bbox": [
+    -115.29737,
+    36.092049,
+    -115.29737,
+    36.092049
+],
   "geometry": {"coordinates":[-115.29737,36.092049],"type":"Point"}
 }

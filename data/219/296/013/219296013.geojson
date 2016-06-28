@@ -2,13 +2,14 @@
   "id": 219296013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280147,36.18965,-115.280147,36.18965",
     "geom:latitude":36.18965,
     "geom:longitude":-115.280147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Dia del Sol Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219296013,
-    "wof:lastmodified":1449073269,
+    "wof:lastmodified":1466703042,
     "wof:name":"WLM Group",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.280147,36.18965,-115.280147,36.18965],
+  "bbox": [
+    -115.280147,
+    36.18965,
+    -115.280147,
+    36.18965
+],
   "geometry": {"coordinates":[-115.280147,36.18965],"type":"Point"}
 }

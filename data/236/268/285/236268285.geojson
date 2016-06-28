@@ -2,13 +2,14 @@
   "id": 236268285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298278,36.200402,-115.298278,36.200402",
     "geom:latitude":36.200402,
     "geom:longitude":-115.298278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9312 Red Twig Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236268285,
-    "wof:lastmodified":1449003539,
+    "wof:lastmodified":1466704479,
     "wof:name":"Pannu Industries",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.298278,36.200402,-115.298278,36.200402],
+  "bbox": [
+    -115.298278,
+    36.200402,
+    -115.298278,
+    36.200402
+],
   "geometry": {"coordinates":[-115.298278,36.200402],"type":"Point"}
 }

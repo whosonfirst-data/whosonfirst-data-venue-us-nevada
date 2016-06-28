@@ -2,13 +2,14 @@
   "id": 219759715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221144,36.227104,-115.221144,36.227104",
     "geom:latitude":36.227104,
     "geom:longitude":-115.221144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219759715,
-    "wof:lastmodified":1449073980,
+    "wof:lastmodified":1466704829,
     "wof:name":"Network I & Dllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.221144,36.227104,-115.221144,36.227104],
+  "bbox": [
+    -115.221144,
+    36.227104,
+    -115.221144,
+    36.227104
+],
   "geometry": {"coordinates":[-115.221144,36.227104],"type":"Point"}
 }

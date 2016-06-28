@@ -2,13 +2,14 @@
   "id": 219922979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.755784,40.838734,-115.755784,40.838734",
     "geom:latitude":40.838734,
     "geom:longitude":-115.755784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219922979,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466705755,
     "wof:name":"Credit Bureau Of Elko County",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.755784,40.838734,-115.755784,40.838734],
-  "geometry": {"coordinates":[-115.755784,40.838734],"type":"Point"}
+  "bbox": [
+    -115.755784,
+    40.838734,
+    -115.755784,
+    40.838734
+],
+  "geometry": {"coordinates":[-115.75578400000001,40.838734],"type":"Point"}
 }

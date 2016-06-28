@@ -2,13 +2,14 @@
   "id": 354007911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069478,36.056775,-115.069478,36.056775",
     "geom:latitude":36.056775,
     "geom:longitude":-115.069478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 Spode Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007911,
-    "wof:lastmodified":1449067357,
+    "wof:lastmodified":1466701670,
     "wof:name":"All Capital Funding",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-115.069478,36.056775,-115.069478,36.056775],
+  "bbox": [
+    -115.069478,
+    36.056775,
+    -115.069478,
+    36.056775
+],
   "geometry": {"coordinates":[-115.069478,36.056775],"type":"Point"}
 }

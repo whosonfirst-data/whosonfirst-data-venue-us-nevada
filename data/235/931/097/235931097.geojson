@@ -2,13 +2,14 @@
   "id": 235931097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29617,36.205122,-115.29617,36.205122",
     "geom:latitude":36.205122,
     "geom:longitude":-115.29617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Wild Ginger Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235931097,
-    "wof:lastmodified":1449008582,
+    "wof:lastmodified":1466703438,
     "wof:name":"Civicsoft",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.29617,36.205122,-115.29617,36.205122],
+  "bbox": [
+    -115.29617,
+    36.205122,
+    -115.29617,
+    36.205122
+],
   "geometry": {"coordinates":[-115.29617,36.205122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203320439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081343,35.977754,-115.081343,35.977754",
     "geom:latitude":35.977754,
     "geom:longitude":-115.081343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2164 Paganini Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203320439,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466702970,
     "wof:name":"Green Valley Handyman Service",
     "wof:parent_id":85878079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.081343,35.977754,-115.081343,35.977754],
+  "bbox": [
+    -115.081343,
+    35.977754,
+    -115.081343,
+    35.977754
+],
   "geometry": {"coordinates":[-115.081343,35.977754],"type":"Point"}
 }

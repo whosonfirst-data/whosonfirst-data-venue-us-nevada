@@ -2,13 +2,14 @@
   "id": 354310637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287164,36.15919,-115.287164,36.15919",
     "geom:latitude":36.15919,
     "geom:longitude":-115.287164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8750 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354310637,
-    "wof:lastmodified":1449066985,
+    "wof:lastmodified":1466705780,
     "wof:name":"Target 1 Hour Photo",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-115.287164,36.15919,-115.287164,36.15919],
+  "bbox": [
+    -115.287164,
+    36.15919,
+    -115.287164,
+    36.15919
+],
   "geometry": {"coordinates":[-115.287164,36.15919],"type":"Point"}
 }

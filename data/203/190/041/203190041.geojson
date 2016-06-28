@@ -2,13 +2,14 @@
   "id": 203190041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.653097,39.229598,-119.653097,39.229598",
     "geom:latitude":39.229598,
     "geom:longitude":-119.653097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Industrial Pkwy",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203190041,
-    "wof:lastmodified":1449026754,
+    "wof:lastmodified":1466701962,
     "wof:name":"Northern Nevada Millworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.653097,39.229598,-119.653097,39.229598],
+  "bbox": [
+    -119.653097,
+    39.229598,
+    -119.653097,
+    39.229598
+],
   "geometry": {"coordinates":[-119.653097,39.229598],"type":"Point"}
 }

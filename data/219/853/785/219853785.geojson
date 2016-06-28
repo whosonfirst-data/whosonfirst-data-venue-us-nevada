@@ -2,13 +2,14 @@
   "id": 219853785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.840075,39.536886,-119.840075,39.536886",
     "geom:latitude":39.536886,
     "geom:longitude":-119.840075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 Kings Row",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219853785,
-    "wof:lastmodified":1449071814,
+    "wof:lastmodified":1466705255,
     "wof:name":"Daves Carpet Service",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-119.840075,39.536886,-119.840075,39.536886],
+  "bbox": [
+    -119.840075,
+    39.536886,
+    -119.840075,
+    39.536886
+],
   "geometry": {"coordinates":[-119.840075,39.536886],"type":"Point"}
 }

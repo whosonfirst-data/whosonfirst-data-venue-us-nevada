@@ -2,13 +2,14 @@
   "id": 252728575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.998294,36.069213,-114.998294,36.069213",
     "geom:latitude":36.069213,
     "geom:longitude":-114.998294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252728575,
-    "wof:lastmodified":1449005674,
+    "wof:lastmodified":1466701902,
     "wof:name":"Bishop Air Svc",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "changer"
     ]
 },
-  "bbox": [-114.998294,36.069213,-114.998294,36.069213],
+  "bbox": [
+    -114.998294,
+    36.069213,
+    -114.998294,
+    36.069213
+],
   "geometry": {"coordinates":[-114.998294,36.069213],"type":"Point"}
 }

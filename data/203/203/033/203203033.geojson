@@ -2,13 +2,14 @@
   "id": 203203033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118419,36.058931,-115.118419,36.058931",
     "geom:latitude":36.058931,
     "geom:longitude":-115.118419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7271 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203203033,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1466702087,
     "wof:name":"Unlimited Computing",
     "wof:parent_id":85879745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.118419,36.058931,-115.118419,36.058931],
+  "bbox": [
+    -115.118419,
+    36.058931,
+    -115.118419,
+    36.058931
+],
   "geometry": {"coordinates":[-115.118419,36.058931],"type":"Point"}
 }

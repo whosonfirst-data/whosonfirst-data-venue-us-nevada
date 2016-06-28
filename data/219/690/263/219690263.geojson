@@ -2,13 +2,14 @@
   "id": 219690263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297789,36.19475,-115.297789,36.19475",
     "geom:latitude":36.19475,
     "geom:longitude":-115.297789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Soaring Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219690263,
-    "wof:lastmodified":1449072248,
+    "wof:lastmodified":1466704358,
     "wof:name":"Worldmark Pools & Spa",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.297789,36.19475,-115.297789,36.19475],
-  "geometry": {"coordinates":[-115.297789,36.19475],"type":"Point"}
+  "bbox": [
+    -115.297789,
+    36.19475,
+    -115.297789,
+    36.19475
+],
+  "geometry": {"coordinates":[-115.29778899999999,36.19475],"type":"Point"}
 }

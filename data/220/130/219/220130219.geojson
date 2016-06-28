@@ -2,13 +2,14 @@
   "id": 220130219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086006,35.962278,-115.086006,35.962278",
     "geom:latitude":35.962278,
     "geom:longitude":-115.086006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Ayden Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220130219,
-    "wof:lastmodified":1449074293,
+    "wof:lastmodified":1466702592,
     "wof:name":"Anthem Country Club Comm Assn",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-115.086006,35.962278,-115.086006,35.962278],
+  "bbox": [
+    -115.086006,
+    35.962278,
+    -115.086006,
+    35.962278
+],
   "geometry": {"coordinates":[-115.086006,35.962278],"type":"Point"}
 }

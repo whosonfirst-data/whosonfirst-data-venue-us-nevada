@@ -2,13 +2,14 @@
   "id": 219753057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238379,36.125337,-115.238379,36.125337",
     "geom:latitude":36.125337,
     "geom:longitude":-115.238379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 Redwood St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219753057,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466704639,
     "wof:name":"Discomni Computer Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.238379,36.125337,-115.238379,36.125337],
-  "geometry": {"coordinates":[-115.238379,36.125337],"type":"Point"}
+  "bbox": [
+    -115.238379,
+    36.125337,
+    -115.238379,
+    36.125337
+],
+  "geometry": {"coordinates":[-115.23837899999999,36.125337],"type":"Point"}
 }

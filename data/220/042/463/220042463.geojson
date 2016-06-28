@@ -2,13 +2,14 @@
   "id": 220042463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.713914,39.550438,-119.713914,39.550438",
     "geom:latitude":39.550438,
     "geom:longitude":-119.713914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2132 Tangerine St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220042463,
-    "wof:lastmodified":1449074648,
+    "wof:lastmodified":1466701920,
     "wof:name":"Sierra Nevada Church of Christ",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.713914,39.550438,-119.713914,39.550438],
+  "bbox": [
+    -119.713914,
+    39.550438,
+    -119.713914,
+    39.550438
+],
   "geometry": {"coordinates":[-119.713914,39.550438],"type":"Point"}
 }

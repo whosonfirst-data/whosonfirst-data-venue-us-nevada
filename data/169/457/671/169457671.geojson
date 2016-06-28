@@ -2,13 +2,14 @@
   "id": 169457671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.942197,38.959107,-119.942197,38.959107",
     "geom:latitude":38.959107,
     "geom:longitude":-119.942197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4123 Lake Tahoe Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85888057,
+        85688531,
         85633793,
         85974845,
         102081541,
-        85688531
+        85888057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169457671,
-    "wof:lastmodified":1449034906,
+    "wof:lastmodified":1466701453,
     "wof:name":"Tahoe Villa North Lodge",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.942197,38.959107,-119.942197,38.959107],
-  "geometry": {"coordinates":[-119.942197,38.959107],"type":"Point"}
+  "bbox": [
+    -119.942197,
+    38.959107,
+    -119.942197,
+    38.959107
+],
+  "geometry": {"coordinates":[-119.94219699999999,38.959107],"type":"Point"}
 }

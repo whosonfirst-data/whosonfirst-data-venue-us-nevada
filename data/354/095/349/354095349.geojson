@@ -2,13 +2,14 @@
   "id": 354095349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142905,36.170254,-115.142905,36.170254",
     "geom:latitude":36.170254,
     "geom:longitude":-115.142905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Fitzgeralds Hotel & Casino 301 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354095349,
-    "wof:lastmodified":1449066788,
+    "wof:lastmodified":1466704005,
     "wof:name":"Country Superstars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.142905,36.170254,-115.142905,36.170254],
+  "bbox": [
+    -115.142905,
+    36.170254,
+    -115.142905,
+    36.170254
+],
   "geometry": {"coordinates":[-115.142905,36.170254],"type":"Point"}
 }

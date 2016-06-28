@@ -2,13 +2,14 @@
   "id": 236556447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225005,36.12745,-115.225005,36.12745",
     "geom:latitude":36.12745,
     "geom:longitude":-115.225005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236556447,
-    "wof:lastmodified":1449002294,
+    "wof:lastmodified":1466706117,
     "wof:name":"Chinese Village Inc",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.225005,36.12745,-115.225005,36.12745],
+  "bbox": [
+    -115.225005,
+    36.12745,
+    -115.225005,
+    36.12745
+],
   "geometry": {"coordinates":[-115.225005,36.12745],"type":"Point"}
 }

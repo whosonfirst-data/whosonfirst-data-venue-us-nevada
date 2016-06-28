@@ -2,13 +2,14 @@
   "id": 370302215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153319,36.012155,-115.153319,36.012155",
     "geom:latitude":36.012155,
     "geom:longitude":-115.153319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 E Silvarado Ranch",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370302215,
-    "wof:lastmodified":1449030241,
+    "wof:lastmodified":1466704492,
     "wof:name":"Mama D's Pizzeria",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "italian"
     ]
 },
-  "bbox": [-115.153319,36.012155,-115.153319,36.012155],
+  "bbox": [
+    -115.153319,
+    36.012155,
+    -115.153319,
+    36.012155
+],
   "geometry": {"coordinates":[-115.153319,36.012155],"type":"Point"}
 }

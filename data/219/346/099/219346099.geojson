@@ -2,13 +2,14 @@
   "id": 219346099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259071,36.203025,-115.259071,36.203025",
     "geom:latitude":36.203025,
     "geom:longitude":-115.259071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7548 Holloran Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219346099,
-    "wof:lastmodified":1449070360,
+    "wof:lastmodified":1466703370,
     "wof:name":"Dlb Insurance Marketing",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-115.259071,36.203025,-115.259071,36.203025],
-  "geometry": {"coordinates":[-115.259071,36.203025],"type":"Point"}
+  "bbox": [
+    -115.259071,
+    36.203025,
+    -115.259071,
+    36.203025
+],
+  "geometry": {"coordinates":[-115.25907100000001,36.203025],"type":"Point"}
 }

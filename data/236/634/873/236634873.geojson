@@ -2,13 +2,14 @@
   "id": 236634873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76494,38.955302,-119.76494,38.955302",
     "geom:latitude":38.955302,
     "geom:longitude":-119.76494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 8th St",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236634873,
-    "wof:lastmodified":1449003181,
+    "wof:lastmodified":1466706364,
     "wof:name":"County Detention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.76494,38.955302,-119.76494,38.955302],
+  "bbox": [
+    -119.76494,
+    38.955302,
+    -119.76494,
+    38.955302
+],
   "geometry": {"coordinates":[-119.76494,38.955302],"type":"Point"}
 }

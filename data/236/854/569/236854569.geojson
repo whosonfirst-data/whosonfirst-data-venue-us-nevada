@@ -2,13 +2,14 @@
   "id": 236854569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.810584,39.505741,-119.810584,39.505741",
     "geom:latitude":39.505741,
     "geom:longitude":-119.810584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236854569,
-    "wof:lastmodified":1449005102,
+    "wof:lastmodified":1466706852,
     "wof:name":"Womans Wellness Ctr Fiddler",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-119.810584,39.505741,-119.810584,39.505741],
-  "geometry": {"coordinates":[-119.810584,39.505741],"type":"Point"}
+  "bbox": [
+    -119.810584,
+    39.505741,
+    -119.810584,
+    39.505741
+],
+  "geometry": {"coordinates":[-119.81058400000001,39.505741],"type":"Point"}
 }

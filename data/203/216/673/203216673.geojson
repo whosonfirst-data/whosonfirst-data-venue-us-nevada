@@ -2,13 +2,14 @@
   "id": 203216673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.996333,36.226062,-115.996333,36.226062",
     "geom:latitude":36.226062,
     "geom:longitude":-115.996333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203216673,
-    "wof:lastmodified":1449026652,
+    "wof:lastmodified":1466702207,
     "wof:name":"Nye County Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protection"
     ]
 },
-  "bbox": [-115.996333,36.226062,-115.996333,36.226062],
-  "geometry": {"coordinates":[-115.996333,36.226062],"type":"Point"}
+  "bbox": [
+    -115.996333,
+    36.226062,
+    -115.996333,
+    36.226062
+],
+  "geometry": {"coordinates":[-115.99633300000001,36.226062],"type":"Point"}
 }

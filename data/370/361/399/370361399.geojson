@@ -2,13 +2,14 @@
   "id": 370361399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759562,39.188204,-119.759562,39.188204",
     "geom:latitude":39.188204,
     "geom:longitude":-119.759562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Retail Dr Ste 120",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370361399,
-    "wof:lastmodified":1449031559,
+    "wof:lastmodified":1466705076,
     "wof:name":"Go Wireless",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.759562,39.188204,-119.759562,39.188204],
+  "bbox": [
+    -119.759562,
+    39.188204,
+    -119.759562,
+    39.188204
+],
   "geometry": {"coordinates":[-119.759562,39.188204],"type":"Point"}
 }

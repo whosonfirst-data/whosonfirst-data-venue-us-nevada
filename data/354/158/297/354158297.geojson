@@ -2,13 +2,14 @@
   "id": 354158297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195045,36.10931,-115.195045,36.10931",
     "geom:latitude":36.10931,
     "geom:longitude":-115.195045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 West Harmon Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354158297,
-    "wof:lastmodified":1449067108,
+    "wof:lastmodified":1466704756,
     "wof:name":"Hotel Furniture Liquidators",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.195045,36.10931,-115.195045,36.10931],
-  "geometry": {"coordinates":[-115.195045,36.10931],"type":"Point"}
+  "bbox": [
+    -115.195045,
+    36.10931,
+    -115.195045,
+    36.10931
+],
+  "geometry": {"coordinates":[-115.19504499999999,36.10931],"type":"Point"}
 }

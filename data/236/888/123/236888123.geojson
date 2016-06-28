@@ -2,13 +2,14 @@
   "id": 236888123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23523,36.103967,-115.23523,36.103967",
     "geom:latitude":36.103967,
     "geom:longitude":-115.23523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6542 Appletree Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236888123,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1466706787,
     "wof:name":"A A L L",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.23523,36.103967,-115.23523,36.103967],
+  "bbox": [
+    -115.23523,
+    36.103967,
+    -115.23523,
+    36.103967
+],
   "geometry": {"coordinates":[-115.23523,36.103967],"type":"Point"}
 }

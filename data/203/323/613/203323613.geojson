@@ -2,13 +2,14 @@
   "id": 203323613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.559391,40.713757,-115.559391,40.713757",
     "geom:latitude":40.713757,
     "geom:longitude":-115.559391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Alpine Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203323613,
-    "wof:lastmodified":1449025096,
+    "wof:lastmodified":1466702986,
     "wof:name":"Byrns Painting",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.559391,40.713757,-115.559391,40.713757],
-  "geometry": {"coordinates":[-115.559391,40.713757],"type":"Point"}
+  "bbox": [
+    -115.559391,
+    40.713757,
+    -115.559391,
+    40.713757
+],
+  "geometry": {"coordinates":[-115.55939100000001,40.713757],"type":"Point"}
 }

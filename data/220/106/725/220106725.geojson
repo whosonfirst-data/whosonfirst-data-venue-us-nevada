@@ -2,13 +2,14 @@
   "id": 220106725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074181,36.129619,-115.074181,36.129619",
     "geom:latitude":36.129619,
     "geom:longitude":-115.074181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3256 Mountain Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220106725,
-    "wof:lastmodified":1449074045,
+    "wof:lastmodified":1466702428,
     "wof:name":"Precise Loan Doc Services",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.074181,36.129619,-115.074181,36.129619],
+  "bbox": [
+    -115.074181,
+    36.129619,
+    -115.074181,
+    36.129619
+],
   "geometry": {"coordinates":[-115.074181,36.129619],"type":"Point"}
 }

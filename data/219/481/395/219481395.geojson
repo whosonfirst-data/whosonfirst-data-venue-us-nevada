@@ -2,13 +2,14 @@
   "id": 219481395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794181,39.522825,-119.794181,39.522825",
     "geom:latitude":39.522825,
     "geom:longitude":-119.794181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Curti Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219481395,
-    "wof:lastmodified":1449073466,
+    "wof:lastmodified":1466704077,
     "wof:name":"C C Title Svc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lien"
     ]
 },
-  "bbox": [-119.794181,39.522825,-119.794181,39.522825],
-  "geometry": {"coordinates":[-119.794181,39.522825],"type":"Point"}
+  "bbox": [
+    -119.794181,
+    39.522825,
+    -119.794181,
+    39.522825
+],
+  "geometry": {"coordinates":[-119.79418099999999,39.522825],"type":"Point"}
 }

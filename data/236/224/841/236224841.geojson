@@ -2,13 +2,14 @@
   "id": 236224841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72153,39.176737,-119.72153,39.176737",
     "geom:latitude":39.176737,
     "geom:longitude":-119.72153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1686 Walker Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236224841,
-    "wof:lastmodified":1449004174,
+    "wof:lastmodified":1466704075,
     "wof:name":"Ward's Carpet Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "carpet"
     ]
 },
-  "bbox": [-119.72153,39.176737,-119.72153,39.176737],
+  "bbox": [
+    -119.72153,
+    39.176737,
+    -119.72153,
+    39.176737
+],
   "geometry": {"coordinates":[-119.72153,39.176737],"type":"Point"}
 }

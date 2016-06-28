@@ -2,13 +2,14 @@
   "id": 236066369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.783989,39.474883,-118.783989,39.474883",
     "geom:latitude":39.474883,
     "geom:longitude":-118.783989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236066369,
-    "wof:lastmodified":1449002440,
+    "wof:lastmodified":1466704007,
     "wof:name":"Ranch & Home Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.783989,39.474883,-118.783989,39.474883],
-  "geometry": {"coordinates":[-118.783989,39.474883],"type":"Point"}
+  "bbox": [
+    -118.783989,
+    39.474883,
+    -118.783989,
+    39.474883
+],
+  "geometry": {"coordinates":[-118.78398900000001,39.474883],"type":"Point"}
 }

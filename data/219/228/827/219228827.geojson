@@ -2,13 +2,14 @@
   "id": 219228827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802805,39.549966,-119.802805,39.549966",
     "geom:latitude":39.549966,
     "geom:longitude":-119.802805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2395 Tampa St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219228827,
-    "wof:lastmodified":1449071497,
+    "wof:lastmodified":1466702289,
     "wof:name":"Western Pacific Electric",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.802805,39.549966,-119.802805,39.549966],
-  "geometry": {"coordinates":[-119.802805,39.549966],"type":"Point"}
+  "bbox": [
+    -119.802805,
+    39.549966,
+    -119.802805,
+    39.549966
+],
+  "geometry": {"coordinates":[-119.80280500000001,39.549966],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203418299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800986,39.507514,-119.800986,39.507514",
     "geom:latitude":39.507514,
     "geom:longitude":-119.800986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Casazza Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203418299,
-    "wof:lastmodified":1449026424,
+    "wof:lastmodified":1466703390,
     "wof:name":"Robert Fry",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.800986,39.507514,-119.800986,39.507514],
-  "geometry": {"coordinates":[-119.800986,39.507514],"type":"Point"}
+  "bbox": [
+    -119.800986,
+    39.507514,
+    -119.800986,
+    39.507514
+],
+  "geometry": {"coordinates":[-119.80098599999999,39.507514],"type":"Point"}
 }

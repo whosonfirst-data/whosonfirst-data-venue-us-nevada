@@ -2,13 +2,14 @@
   "id": 236394179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134004,36.166461,-115.134004,36.166461",
     "geom:latitude":36.166461,
     "geom:longitude":-115.134004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236394179,
-    "wof:lastmodified":1449002157,
+    "wof:lastmodified":1466705448,
     "wof:name":"Southern Nevada Automotive",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-115.134004,36.166461,-115.134004,36.166461],
+  "bbox": [
+    -115.134004,
+    36.166461,
+    -115.134004,
+    36.166461
+],
   "geometry": {"coordinates":[-115.134004,36.166461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236875825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.033341,36.027695,-115.033341,36.027695",
     "geom:latitude":36.027695,
     "geom:longitude":-115.033341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1062 Flatfoot Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236875825,
-    "wof:lastmodified":1449004225,
+    "wof:lastmodified":1466706769,
     "wof:name":"Frozen Assets",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.033341,36.027695,-115.033341,36.027695],
-  "geometry": {"coordinates":[-115.033341,36.027695],"type":"Point"}
+  "bbox": [
+    -115.033341,
+    36.027695,
+    -115.033341,
+    36.027695
+],
+  "geometry": {"coordinates":[-115.03334099999999,36.027695],"type":"Point"}
 }

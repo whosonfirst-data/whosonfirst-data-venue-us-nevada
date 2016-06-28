@@ -2,13 +2,14 @@
   "id": 235957371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.889979,39.498461,-119.889979,39.498461",
     "geom:latitude":39.498461,
     "geom:longitude":-119.889979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4490 Mountaingate Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235957371,
-    "wof:lastmodified":1449008546,
+    "wof:lastmodified":1466703559,
     "wof:name":"Psychological Health Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-119.889979,39.498461,-119.889979,39.498461],
+  "bbox": [
+    -119.889979,
+    39.498461,
+    -119.889979,
+    39.498461
+],
   "geometry": {"coordinates":[-119.889979,39.498461],"type":"Point"}
 }

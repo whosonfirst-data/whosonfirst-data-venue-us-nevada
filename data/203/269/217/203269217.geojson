@@ -2,13 +2,14 @@
   "id": 203269217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726022,39.557536,-119.726022,39.557536",
     "geom:latitude":39.557536,
     "geom:longitude":-119.726022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Bradley Sq",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203269217,
-    "wof:lastmodified":1449026150,
+    "wof:lastmodified":1466702631,
     "wof:name":"Elite Shutters",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-119.726022,39.557536,-119.726022,39.557536],
+  "bbox": [
+    -119.726022,
+    39.557536,
+    -119.726022,
+    39.557536
+],
   "geometry": {"coordinates":[-119.726022,39.557536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220062633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.715814,39.496245,-119.715814,39.496245",
     "geom:latitude":39.496245,
     "geom:longitude":-119.715814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Sequoia Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220062633,
-    "wof:lastmodified":1449074835,
+    "wof:lastmodified":1466702154,
     "wof:name":"Nevada Historical Trails Assn",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.715814,39.496245,-119.715814,39.496245],
-  "geometry": {"coordinates":[-119.715814,39.496245],"type":"Point"}
+  "bbox": [
+    -119.715814,
+    39.496245,
+    -119.715814,
+    39.496245
+],
+  "geometry": {"coordinates":[-119.71581399999999,39.496245],"type":"Point"}
 }

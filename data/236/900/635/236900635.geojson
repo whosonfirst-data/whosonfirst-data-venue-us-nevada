@@ -2,13 +2,14 @@
   "id": 236900635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.746231,39.191796,-119.746231,39.191796",
     "geom:latitude":39.191796,
     "geom:longitude":-119.746231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1987 Hot Springs Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236900635,
-    "wof:lastmodified":1449003007,
+    "wof:lastmodified":1466706700,
     "wof:name":"Sugar & Spice Daycare",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.746231,39.191796,-119.746231,39.191796],
-  "geometry": {"coordinates":[-119.746231,39.191796],"type":"Point"}
+  "bbox": [
+    -119.746231,
+    39.191796,
+    -119.746231,
+    39.191796
+],
+  "geometry": {"coordinates":[-119.74623099999999,39.191796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370348095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771333,39.168363,-119.771333,39.168363",
     "geom:latitude":39.168363,
     "geom:longitude":-119.771333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 W Washington St Ste 2",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370348095,
-    "wof:lastmodified":1449029217,
+    "wof:lastmodified":1466705028,
     "wof:name":"Nelson Bryan M",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-119.771333,39.168363,-119.771333,39.168363],
+  "bbox": [
+    -119.771333,
+    39.168363,
+    -119.771333,
+    39.168363
+],
   "geometry": {"coordinates":[-119.771333,39.168363],"type":"Point"}
 }

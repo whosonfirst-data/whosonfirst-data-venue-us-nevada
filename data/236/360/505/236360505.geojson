@@ -2,13 +2,14 @@
   "id": 236360505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086944,36.073438,-115.086944,36.073438",
     "geom:latitude":36.073438,
     "geom:longitude":-115.086944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6360 Annie Oakley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236360505,
-    "wof:lastmodified":1449004338,
+    "wof:lastmodified":1466705228,
     "wof:name":"Keystone Marketing Specialists",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-115.086944,36.073438,-115.086944,36.073438],
+  "bbox": [
+    -115.086944,
+    36.073438,
+    -115.086944,
+    36.073438
+],
   "geometry": {"coordinates":[-115.086944,36.073438],"type":"Point"}
 }

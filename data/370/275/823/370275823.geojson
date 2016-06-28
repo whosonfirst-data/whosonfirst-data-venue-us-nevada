@@ -2,13 +2,14 @@
   "id": 370275823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266877,36.270858,-115.266877,36.270858",
     "geom:latitude":36.270858,
     "geom:longitude":-115.266877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7881 W Tropical Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370275823,
-    "wof:lastmodified":1449030189,
+    "wof:lastmodified":1466704352,
     "wof:name":"The Home Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.266877,36.270858,-115.266877,36.270858],
-  "geometry": {"coordinates":[-115.266877,36.270858],"type":"Point"}
+  "bbox": [
+    -115.266877,
+    36.270858,
+    -115.266877,
+    36.270858
+],
+  "geometry": {"coordinates":[-115.26687699999999,36.270858],"type":"Point"}
 }

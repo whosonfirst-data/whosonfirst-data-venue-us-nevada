@@ -2,13 +2,14 @@
   "id": 236014351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813623,39.520021,-119.813623,39.520021",
     "geom:latitude":39.520021,
     "geom:longitude":-119.813623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236014351,
-    "wof:lastmodified":1449003234,
+    "wof:lastmodified":1466703828,
     "wof:name":"River Gallery-Gallery Cui Ui",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-119.813623,39.520021,-119.813623,39.520021],
-  "geometry": {"coordinates":[-119.813623,39.520021],"type":"Point"}
+  "bbox": [
+    -119.813623,
+    39.520021,
+    -119.813623,
+    39.520021
+],
+  "geometry": {"coordinates":[-119.81362300000001,39.520021],"type":"Point"}
 }

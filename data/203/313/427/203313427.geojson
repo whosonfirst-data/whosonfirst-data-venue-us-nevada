@@ -2,13 +2,14 @@
   "id": 203313427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.09764,35.954593,-115.09764,35.954593",
     "geom:latitude":35.954593,
     "geom:longitude":-115.09764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Highmore Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203313427,
-    "wof:lastmodified":1449025008,
+    "wof:lastmodified":1466702941,
     "wof:name":"Rta Boutique",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.09764,35.954593,-115.09764,35.954593],
+  "bbox": [
+    -115.09764,
+    35.954593,
+    -115.09764,
+    35.954593
+],
   "geometry": {"coordinates":[-115.09764,35.954593],"type":"Point"}
 }

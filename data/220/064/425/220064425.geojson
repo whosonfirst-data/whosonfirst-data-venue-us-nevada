@@ -2,13 +2,14 @@
   "id": 220064425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.714202,39.645422,-119.714202,39.645422",
     "geom:latitude":39.645422,
     "geom:longitude":-119.714202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Pharoh Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220064425,
-    "wof:lastmodified":1449074306,
+    "wof:lastmodified":1466702162,
     "wof:name":"Sierra Custom Exteriors",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "canopy"
     ]
 },
-  "bbox": [-119.714202,39.645422,-119.714202,39.645422],
+  "bbox": [
+    -119.714202,
+    39.645422,
+    -119.714202,
+    39.645422
+],
   "geometry": {"coordinates":[-119.714202,39.645422],"type":"Point"}
 }

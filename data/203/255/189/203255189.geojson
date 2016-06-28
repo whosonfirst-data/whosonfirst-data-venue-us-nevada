@@ -2,13 +2,14 @@
   "id": 203255189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768165,39.537471,-119.768165,39.537471",
     "geom:latitude":39.537471,
     "geom:longitude":-119.768165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203255189,
-    "wof:lastmodified":1449025772,
+    "wof:lastmodified":1466702533,
     "wof:name":"Little Rascals Child Care Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.768165,39.537471,-119.768165,39.537471],
+  "bbox": [
+    -119.768165,
+    39.537471,
+    -119.768165,
+    39.537471
+],
   "geometry": {"coordinates":[-119.768165,39.537471],"type":"Point"}
 }

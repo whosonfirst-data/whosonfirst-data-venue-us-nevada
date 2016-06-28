@@ -2,13 +2,14 @@
   "id": 252738863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248175,36.226919,-115.248175,36.226919",
     "geom:latitude":36.226919,
     "geom:longitude":-115.248175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3672 Angela Robin St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252738863,
-    "wof:lastmodified":1449006195,
+    "wof:lastmodified":1466702107,
     "wof:name":"Integrative Health & Bodywork",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.248175,36.226919,-115.248175,36.226919],
+  "bbox": [
+    -115.248175,
+    36.226919,
+    -115.248175,
+    36.226919
+],
   "geometry": {"coordinates":[-115.248175,36.226919],"type":"Point"}
 }

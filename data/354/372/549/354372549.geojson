@@ -2,13 +2,14 @@
   "id": 354372549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112232,36.073355,-115.112232,36.073355",
     "geom:latitude":36.073355,
     "geom:longitude":-115.112232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6402 Mcleod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354372549,
-    "wof:lastmodified":1449066969,
+    "wof:lastmodified":1466706036,
     "wof:name":"Intrusion Pest & Pigeon Control",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.112232,36.073355,-115.112232,36.073355],
-  "geometry": {"coordinates":[-115.112232,36.073355],"type":"Point"}
+  "bbox": [
+    -115.112232,
+    36.073355,
+    -115.112232,
+    36.073355
+],
+  "geometry": {"coordinates":[-115.11223200000001,36.073355],"type":"Point"}
 }

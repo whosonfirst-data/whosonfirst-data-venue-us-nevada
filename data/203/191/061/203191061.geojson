@@ -2,13 +2,14 @@
   "id": 203191061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203904,36.100892,-115.203904,36.100892",
     "geom:latitude":36.100892,
     "geom:longitude":-115.203904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203191061,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466701964,
     "wof:name":"Western Tile and Marble",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "floor"
     ]
 },
-  "bbox": [-115.203904,36.100892,-115.203904,36.100892],
-  "geometry": {"coordinates":[-115.203904,36.100892],"type":"Point"}
+  "bbox": [
+    -115.203904,
+    36.100892,
+    -115.203904,
+    36.100892
+],
+  "geometry": {"coordinates":[-115.20390399999999,36.100892],"type":"Point"}
 }

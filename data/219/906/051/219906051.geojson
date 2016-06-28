@@ -2,13 +2,14 @@
   "id": 219906051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757273,39.146569,-119.757273,39.146569",
     "geom:latitude":39.146569,
     "geom:longitude":-119.757273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Arizona Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219906051,
-    "wof:lastmodified":1449071731,
+    "wof:lastmodified":1466705662,
     "wof:name":"A2 ML",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.757273,39.146569,-119.757273,39.146569],
+  "bbox": [
+    -119.757273,
+    39.146569,
+    -119.757273,
+    39.146569
+],
   "geometry": {"coordinates":[-119.757273,39.146569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219841657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118676,35.987945,-115.118676,35.987945",
     "geom:latitude":35.987945,
     "geom:longitude":-115.118676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Via Suzan",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219841657,
-    "wof:lastmodified":1449071135,
+    "wof:lastmodified":1466705209,
     "wof:name":"Trident Homes of Nevada",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.118676,35.987945,-115.118676,35.987945],
-  "geometry": {"coordinates":[-115.118676,35.987945],"type":"Point"}
+  "bbox": [
+    -115.118676,
+    35.987945,
+    -115.118676,
+    35.987945
+],
+  "geometry": {"coordinates":[-115.11867599999999,35.987945],"type":"Point"}
 }

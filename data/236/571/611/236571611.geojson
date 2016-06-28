@@ -2,13 +2,14 @@
   "id": 236571611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.228981,36.183097,-115.228981,36.183097",
     "geom:latitude":36.183097,
     "geom:longitude":-115.228981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6217 Saginaw Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236571611,
-    "wof:lastmodified":1449003994,
+    "wof:lastmodified":1466706320,
     "wof:name":"Holt's Chem Dry",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.228981,36.183097,-115.228981,36.183097],
+  "bbox": [
+    -115.228981,
+    36.183097,
+    -115.228981,
+    36.183097
+],
   "geometry": {"coordinates":[-115.228981,36.183097],"type":"Point"}
 }

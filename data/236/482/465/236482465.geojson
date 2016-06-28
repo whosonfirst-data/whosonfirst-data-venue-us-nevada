@@ -2,13 +2,14 @@
   "id": 236482465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114624,36.032872,-115.114624,36.032872",
     "geom:latitude":36.032872,
     "geom:longitude":-115.114624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 Quail Canyon Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236482465,
-    "wof:lastmodified":1449002691,
+    "wof:lastmodified":1466705604,
     "wof:name":"Sylvia N Page",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hearing"
     ]
 },
-  "bbox": [-115.114624,36.032872,-115.114624,36.032872],
-  "geometry": {"coordinates":[-115.114624,36.032872],"type":"Point"}
+  "bbox": [
+    -115.114624,
+    36.032872,
+    -115.114624,
+    36.032872
+],
+  "geometry": {"coordinates":[-115.11462400000001,36.032872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219780199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142765,36.05267,-115.142765,36.05267",
     "geom:latitude":36.05267,
     "geom:longitude":-115.142765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 Pearwood Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219780199,
-    "wof:lastmodified":1449073039,
+    "wof:lastmodified":1466704851,
     "wof:name":"Zimbo One LLC",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "developer"
     ]
 },
-  "bbox": [-115.142765,36.05267,-115.142765,36.05267],
+  "bbox": [
+    -115.142765,
+    36.05267,
+    -115.142765,
+    36.05267
+],
   "geometry": {"coordinates":[-115.142765,36.05267],"type":"Point"}
 }

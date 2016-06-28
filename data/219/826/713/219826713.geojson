@@ -2,13 +2,14 @@
   "id": 219826713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11691,36.074378,-115.11691,36.074378",
     "geom:latitude":36.074378,
     "geom:longitude":-115.11691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 Chandler Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219826713,
-    "wof:lastmodified":1449072968,
+    "wof:lastmodified":1466705218,
     "wof:name":"BNA Consulting Engineers",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.11691,36.074378,-115.11691,36.074378],
+  "bbox": [
+    -115.11691,
+    36.074378,
+    -115.11691,
+    36.074378
+],
   "geometry": {"coordinates":[-115.11691,36.074378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354012629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.970001,36.028801,-114.970001,36.028801",
     "geom:latitude":36.028801,
     "geom:longitude":-114.970001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354012629,
-    "wof:lastmodified":1449067502,
+    "wof:lastmodified":1466701811,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-114.970001,36.028801,-114.970001,36.028801],
+  "bbox": [
+    -114.970001,
+    36.028801,
+    -114.970001,
+    36.028801
+],
   "geometry": {"coordinates":[-114.970001,36.028801],"type":"Point"}
 }

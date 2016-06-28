@@ -2,13 +2,14 @@
   "id": 236559911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284953,36.132992,-115.284953,36.132992",
     "geom:latitude":36.132992,
     "geom:longitude":-115.284953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 Mariner Bay St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236559911,
-    "wof:lastmodified":1449004381,
+    "wof:lastmodified":1466706134,
     "wof:name":"Nana BS Trattoria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.284953,36.132992,-115.284953,36.132992],
+  "bbox": [
+    -115.284953,
+    36.132992,
+    -115.284953,
+    36.132992
+],
   "geometry": {"coordinates":[-115.284953,36.132992],"type":"Point"}
 }

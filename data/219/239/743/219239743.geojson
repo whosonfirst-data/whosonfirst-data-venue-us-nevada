@@ -2,13 +2,14 @@
   "id": 219239743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.869051,39.248925,-114.869051,39.248925",
     "geom:latitude":39.248925,
     "geom:longitude":-114.869051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Ave M",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219239743,
-    "wof:lastmodified":1449070732,
+    "wof:lastmodified":1466702435,
     "wof:name":"Problems Inc World Hdqrs",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.869051,39.248925,-114.869051,39.248925],
+  "bbox": [
+    -114.869051,
+    39.248925,
+    -114.869051,
+    39.248925
+],
   "geometry": {"coordinates":[-114.869051,39.248925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370183107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229211,36.234579,-115.229211,36.234579",
     "geom:latitude":36.234579,
     "geom:longitude":-115.229211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4085 N Rancho Dr Ste 140",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370183107,
-    "wof:lastmodified":1449030893,
+    "wof:lastmodified":1466702168,
     "wof:name":"Never Settle Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trainer"
     ]
 },
-  "bbox": [-115.229211,36.234579,-115.229211,36.234579],
-  "geometry": {"coordinates":[-115.229211,36.234579],"type":"Point"}
+  "bbox": [
+    -115.229211,
+    36.234579,
+    -115.229211,
+    36.234579
+],
+  "geometry": {"coordinates":[-115.22921100000001,36.234579],"type":"Point"}
 }

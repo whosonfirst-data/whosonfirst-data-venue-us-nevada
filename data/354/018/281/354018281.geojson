@@ -2,13 +2,14 @@
   "id": 354018281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.966662,36.026183,-114.966662,36.026183",
     "geom:latitude":36.026183,
     "geom:longitude":-114.966662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354018281,
-    "wof:lastmodified":1449066776,
+    "wof:lastmodified":1466701969,
     "wof:name":"Lee's Discount Liquors",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-114.966662,36.026183,-114.966662,36.026183],
+  "bbox": [
+    -114.966662,
+    36.026183,
+    -114.966662,
+    36.026183
+],
   "geometry": {"coordinates":[-114.966662,36.026183],"type":"Point"}
 }

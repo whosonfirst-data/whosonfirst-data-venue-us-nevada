@@ -2,13 +2,14 @@
   "id": 219990117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11482,35.943853,-115.11482,35.943853",
     "geom:latitude":35.943853,
     "geom:longitude":-115.11482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Desert Fox Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219990117,
-    "wof:lastmodified":1449072752,
+    "wof:lastmodified":1466706265,
     "wof:name":"J J Herlihy & Assoc",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counterfeit"
     ]
 },
-  "bbox": [-115.11482,35.943853,-115.11482,35.943853],
-  "geometry": {"coordinates":[-115.11482,35.943853],"type":"Point"}
+  "bbox": [
+    -115.11482,
+    35.943853,
+    -115.11482,
+    35.943853
+],
+  "geometry": {"coordinates":[-115.11481999999999,35.943853],"type":"Point"}
 }

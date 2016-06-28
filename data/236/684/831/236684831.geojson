@@ -2,13 +2,14 @@
   "id": 236684831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.860872,39.255407,-114.860872,39.255407",
     "geom:latitude":39.255407,
     "geom:longitude":-114.860872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Steptoe Cir",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236684831,
-    "wof:lastmodified":1449002297,
+    "wof:lastmodified":1466706457,
     "wof:name":"Professional Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.860872,39.255407,-114.860872,39.255407],
+  "bbox": [
+    -114.860872,
+    39.255407,
+    -114.860872,
+    39.255407
+],
   "geometry": {"coordinates":[-114.860872,39.255407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236095853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.844149,35.966198,-114.844149,35.966198",
     "geom:latitude":35.966198,
     "geom:longitude":-114.844149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 Medical Park Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236095853,
-    "wof:lastmodified":1449003310,
+    "wof:lastmodified":1466704187,
     "wof:name":"Quail Ridge Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.844149,35.966198,-114.844149,35.966198],
+  "bbox": [
+    -114.844149,
+    35.966198,
+    -114.844149,
+    35.966198
+],
   "geometry": {"coordinates":[-114.844149,35.966198],"type":"Point"}
 }

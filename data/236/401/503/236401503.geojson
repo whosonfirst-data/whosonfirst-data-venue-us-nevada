@@ -2,13 +2,14 @@
   "id": 236401503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120715,35.992854,-115.120715,35.992854",
     "geom:latitude":35.992854,
     "geom:longitude":-115.120715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Seven Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236401503,
-    "wof:lastmodified":1449004660,
+    "wof:lastmodified":1466705360,
     "wof:name":"Nevada Neurological",
     "wof:parent_id":85878141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.120715,35.992854,-115.120715,35.992854],
+  "bbox": [
+    -115.120715,
+    35.992854,
+    -115.120715,
+    35.992854
+],
   "geometry": {"coordinates":[-115.120715,35.992854],"type":"Point"}
 }

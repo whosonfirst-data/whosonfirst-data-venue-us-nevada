@@ -2,13 +2,14 @@
   "id": 236866885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763531,39.503488,-119.763531,39.503488",
     "geom:latitude":39.503488,
     "geom:longitude":-119.763531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Rock Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236866885,
-    "wof:lastmodified":1449003173,
+    "wof:lastmodified":1466706868,
     "wof:name":"Brookside Municipal Golf Crse",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-119.763531,39.503488,-119.763531,39.503488],
+  "bbox": [
+    -119.763531,
+    39.503488,
+    -119.763531,
+    39.503488
+],
   "geometry": {"coordinates":[-119.763531,39.503488],"type":"Point"}
 }

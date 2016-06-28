@@ -2,13 +2,14 @@
   "id": 236210511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818379,39.525885,-119.818379,39.525885",
     "geom:latitude":39.525885,
     "geom:longitude":-119.818379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236210511,
-    "wof:lastmodified":1449002631,
+    "wof:lastmodified":1466703776,
     "wof:name":"Catholic Cemetery",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-119.818379,39.525885,-119.818379,39.525885],
-  "geometry": {"coordinates":[-119.818379,39.525885],"type":"Point"}
+  "bbox": [
+    -119.818379,
+    39.525885,
+    -119.818379,
+    39.525885
+],
+  "geometry": {"coordinates":[-119.81837899999999,39.525885],"type":"Point"}
 }

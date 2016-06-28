@@ -2,13 +2,14 @@
   "id": 236515709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770323,39.128346,-119.770323,39.128346",
     "geom:latitude":39.128346,
     "geom:longitude":-119.770323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Clearview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236515709,
-    "wof:lastmodified":1449002254,
+    "wof:lastmodified":1466705899,
     "wof:name":"Always One Dollar Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.770323,39.128346,-119.770323,39.128346],
+  "bbox": [
+    -119.770323,
+    39.128346,
+    -119.770323,
+    39.128346
+],
   "geometry": {"coordinates":[-119.770323,39.128346],"type":"Point"}
 }

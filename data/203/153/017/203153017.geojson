@@ -2,13 +2,14 @@
   "id": 203153017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.832006,39.511426,-119.832006,39.511426",
     "geom:latitude":39.511426,
     "geom:longitude":-119.832006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1187 Charles Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203153017,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466704189,
     "wof:name":"Nevada Fire Safe Council",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-119.832006,39.511426,-119.832006,39.511426],
-  "geometry": {"coordinates":[-119.832006,39.511426],"type":"Point"}
+  "bbox": [
+    -119.832006,
+    39.511426,
+    -119.832006,
+    39.511426
+],
+  "geometry": {"coordinates":[-119.83200600000001,39.511426],"type":"Point"}
 }

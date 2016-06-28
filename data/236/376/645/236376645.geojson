@@ -2,13 +2,14 @@
   "id": 236376645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131528,36.019103,-115.131528,36.019103",
     "geom:latitude":36.019103,
     "geom:longitude":-115.131528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1592 Corona Hill Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236376645,
-    "wof:lastmodified":1449002637,
+    "wof:lastmodified":1466705075,
     "wof:name":"Adventures In Advertising/Elit",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "promotional"
     ]
 },
-  "bbox": [-115.131528,36.019103,-115.131528,36.019103],
+  "bbox": [
+    -115.131528,
+    36.019103,
+    -115.131528,
+    36.019103
+],
   "geometry": {"coordinates":[-115.131528,36.019103],"type":"Point"}
 }

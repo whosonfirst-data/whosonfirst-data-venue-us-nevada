@@ -2,13 +2,14 @@
   "id": 219997329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068907,36.068934,-115.068907,36.068934",
     "geom:latitude":36.068934,
     "geom:longitude":-115.068907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219997329,
-    "wof:lastmodified":1449073291,
+    "wof:lastmodified":1466706100,
     "wof:name":"Boyd Martin Construction LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.068907,36.068934,-115.068907,36.068934],
+  "bbox": [
+    -115.068907,
+    36.068934,
+    -115.068907,
+    36.068934
+],
   "geometry": {"coordinates":[-115.068907,36.068934],"type":"Point"}
 }

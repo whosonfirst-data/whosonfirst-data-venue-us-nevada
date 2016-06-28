@@ -2,13 +2,14 @@
   "id": 219630145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189932,36.087504,-115.189932,36.087504",
     "geom:latitude":36.087504,
     "geom:longitude":-115.189932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5665 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219630145,
-    "wof:lastmodified":1449071652,
+    "wof:lastmodified":1466703466,
     "wof:name":"Quest Home Loans",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.189932,36.087504,-115.189932,36.087504],
+  "bbox": [
+    -115.189932,
+    36.087504,
+    -115.189932,
+    36.087504
+],
   "geometry": {"coordinates":[-115.189932,36.087504],"type":"Point"}
 }

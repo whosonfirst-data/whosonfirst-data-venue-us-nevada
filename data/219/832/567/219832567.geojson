@@ -2,13 +2,14 @@
   "id": 219832567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.031681,36.030374,-115.031681,36.030374",
     "geom:latitude":36.030374,
     "geom:longitude":-115.031681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Bootspur Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219832567,
-    "wof:lastmodified":1449070390,
+    "wof:lastmodified":1466705353,
     "wof:name":"Overcomer Ministries Intl Inc",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.031681,36.030374,-115.031681,36.030374],
-  "geometry": {"coordinates":[-115.031681,36.030374],"type":"Point"}
+  "bbox": [
+    -115.031681,
+    36.030374,
+    -115.031681,
+    36.030374
+],
+  "geometry": {"coordinates":[-115.03168100000001,36.030374],"type":"Point"}
 }

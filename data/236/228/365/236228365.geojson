@@ -2,13 +2,14 @@
   "id": 236228365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088331,36.060863,-115.088331,36.060863",
     "geom:latitude":36.060863,
     "geom:longitude":-115.088331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 Red Willow Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236228365,
-    "wof:lastmodified":1449002522,
+    "wof:lastmodified":1466704144,
     "wof:name":"Westax",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.088331,36.060863,-115.088331,36.060863],
+  "bbox": [
+    -115.088331,
+    36.060863,
+    -115.088331,
+    36.060863
+],
   "geometry": {"coordinates":[-115.088331,36.060863],"type":"Point"}
 }

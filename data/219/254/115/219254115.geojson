@@ -2,13 +2,14 @@
   "id": 219254115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106324,36.106893,-115.106324,36.106893",
     "geom:latitude":36.106893,
     "geom:longitude":-115.106324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 Aldon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219254115,
-    "wof:lastmodified":1449072813,
+    "wof:lastmodified":1466702590,
     "wof:name":"Paul's Pool Care",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.106324,36.106893,-115.106324,36.106893],
+  "bbox": [
+    -115.106324,
+    36.106893,
+    -115.106324,
+    36.106893
+],
   "geometry": {"coordinates":[-115.106324,36.106893],"type":"Point"}
 }

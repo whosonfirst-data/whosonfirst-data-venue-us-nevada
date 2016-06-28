@@ -2,13 +2,14 @@
   "id": 370227255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212563,36.126572,-115.212563,36.126572",
     "geom:latitude":36.126572,
     "geom:longitude":-115.212563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5240 Spring Mountain Rd Suite B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370227255,
-    "wof:lastmodified":1449029842,
+    "wof:lastmodified":1466703205,
     "wof:name":"S S Audio",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "installation"
     ]
 },
-  "bbox": [-115.212563,36.126572,-115.212563,36.126572],
+  "bbox": [
+    -115.212563,
+    36.126572,
+    -115.212563,
+    36.126572
+],
   "geometry": {"coordinates":[-115.212563,36.126572],"type":"Point"}
 }

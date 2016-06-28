@@ -2,13 +2,14 @@
   "id": 236951907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778477,39.465435,-119.778477,39.465435",
     "geom:latitude":39.465435,
     "geom:longitude":-119.778477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 Sierra Center Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236951907,
-    "wof:lastmodified":1449001789,
+    "wof:lastmodified":1466706939,
     "wof:name":"Scrapbook Cottage",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.778477,39.465435,-119.778477,39.465435],
+  "bbox": [
+    -119.778477,
+    39.465435,
+    -119.778477,
+    39.465435
+],
   "geometry": {"coordinates":[-119.778477,39.465435],"type":"Point"}
 }

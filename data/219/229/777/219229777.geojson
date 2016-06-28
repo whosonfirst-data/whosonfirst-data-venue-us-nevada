@@ -2,13 +2,14 @@
   "id": 219229777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.777089,39.465149,-118.777089,39.465149",
     "geom:latitude":39.465149,
     "geom:longitude":-118.777089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 S Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219229777,
-    "wof:lastmodified":1449073219,
+    "wof:lastmodified":1466702297,
     "wof:name":"South Maine Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "site"
     ]
 },
-  "bbox": [-118.777089,39.465149,-118.777089,39.465149],
+  "bbox": [
+    -118.777089,
+    39.465149,
+    -118.777089,
+    39.465149
+],
   "geometry": {"coordinates":[-118.777089,39.465149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354133087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208135,36.12848,-115.208135,36.12848",
     "geom:latitude":36.12848,
     "geom:longitude":-115.208135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 S Decatur Boulevard Suite 15",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354133087,
-    "wof:lastmodified":1449067350,
+    "wof:lastmodified":1466704289,
     "wof:name":"Du Barry Fashions",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.208135,36.12848,-115.208135,36.12848],
+  "bbox": [
+    -115.208135,
+    36.12848,
+    -115.208135,
+    36.12848
+],
   "geometry": {"coordinates":[-115.208135,36.12848],"type":"Point"}
 }

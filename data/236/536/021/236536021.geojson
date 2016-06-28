@@ -2,13 +2,14 @@
   "id": 236536021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.980444,36.001462,-114.980444,36.001462",
     "geom:latitude":36.001462,
     "geom:longitude":-114.980444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Coral Cottage Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236536021,
-    "wof:lastmodified":1449003652,
+    "wof:lastmodified":1466706107,
     "wof:name":"Pw Appraisals",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.980444,36.001462,-114.980444,36.001462],
-  "geometry": {"coordinates":[-114.980444,36.001462],"type":"Point"}
+  "bbox": [
+    -114.980444,
+    36.001462,
+    -114.980444,
+    36.001462
+],
+  "geometry": {"coordinates":[-114.98044400000001,36.001462],"type":"Point"}
 }

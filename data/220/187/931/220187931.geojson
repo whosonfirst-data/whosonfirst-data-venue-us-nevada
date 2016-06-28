@@ -2,13 +2,14 @@
   "id": 220187931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185066,36.18743,-115.185066,36.18743",
     "geom:latitude":36.18743,
     "geom:longitude":-115.185066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1549 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":220187931,
-    "wof:lastmodified":1449074160,
+    "wof:lastmodified":1466703001,
     "wof:name":"Cash Loan Of Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.185066,36.18743,-115.185066,36.18743],
-  "geometry": {"coordinates":[-115.185066,36.18743],"type":"Point"}
+  "bbox": [
+    -115.185066,
+    36.18743,
+    -115.185066,
+    36.18743
+],
+  "geometry": {"coordinates":[-115.18506600000001,36.18743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220069293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79212,39.47092,-119.79212,39.47092",
     "geom:latitude":39.47092,
     "geom:longitude":-119.79212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5335 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220069293,
-    "wof:lastmodified":1449074560,
+    "wof:lastmodified":1466702192,
     "wof:name":"First Independent Bank",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.79212,39.47092,-119.79212,39.47092],
+  "bbox": [
+    -119.79212,
+    39.47092,
+    -119.79212,
+    39.47092
+],
   "geometry": {"coordinates":[-119.79212,39.47092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354329921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.18881,36.074835,-115.18881,36.074835",
     "geom:latitude":36.074835,
     "geom:longitude":-115.18881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6380 S Valley View Blvd Ste 400",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354329921,
-    "wof:lastmodified":1449066377,
+    "wof:lastmodified":1466705913,
     "wof:name":"Larson Air",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.18881,36.074835,-115.18881,36.074835],
+  "bbox": [
+    -115.18881,
+    36.074835,
+    -115.18881,
+    36.074835
+],
   "geometry": {"coordinates":[-115.18881,36.074835],"type":"Point"}
 }

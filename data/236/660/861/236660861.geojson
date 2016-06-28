@@ -2,13 +2,14 @@
   "id": 236660861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.273836,36.25638,-115.273836,36.25638",
     "geom:latitude":36.25638,
     "geom:longitude":-115.273836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5217 Sandy Cactus Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236660861,
-    "wof:lastmodified":1449004835,
+    "wof:lastmodified":1466706406,
     "wof:name":"Brian K Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.273836,36.25638,-115.273836,36.25638],
+  "bbox": [
+    -115.273836,
+    36.25638,
+    -115.273836,
+    36.25638
+],
   "geometry": {"coordinates":[-115.273836,36.25638],"type":"Point"}
 }

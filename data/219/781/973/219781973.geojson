@@ -2,13 +2,14 @@
   "id": 219781973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803097,39.507431,-119.803097,39.507431",
     "geom:latitude":39.507431,
     "geom:longitude":-119.803097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Casazza Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219781973,
-    "wof:lastmodified":1449071056,
+    "wof:lastmodified":1466704986,
     "wof:name":"Children In Motion Therapy Svc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapist"
     ]
 },
-  "bbox": [-119.803097,39.507431,-119.803097,39.507431],
-  "geometry": {"coordinates":[-119.803097,39.507431],"type":"Point"}
+  "bbox": [
+    -119.803097,
+    39.507431,
+    -119.803097,
+    39.507431
+],
+  "geometry": {"coordinates":[-119.80309699999999,39.507431],"type":"Point"}
 }

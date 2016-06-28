@@ -2,13 +2,14 @@
   "id": 236857857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129626,36.149882,-115.129626,36.149882",
     "geom:latitude":36.149882,
     "geom:longitude":-115.129626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Cochran St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236857857,
-    "wof:lastmodified":1449003863,
+    "wof:lastmodified":1466706861,
     "wof:name":"Kactus Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "component"
     ]
 },
-  "bbox": [-115.129626,36.149882,-115.129626,36.149882],
+  "bbox": [
+    -115.129626,
+    36.149882,
+    -115.129626,
+    36.149882
+],
   "geometry": {"coordinates":[-115.129626,36.149882],"type":"Point"}
 }

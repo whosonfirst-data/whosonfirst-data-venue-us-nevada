@@ -2,13 +2,14 @@
   "id": 236337043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141892,36.158026,-115.141892,36.158026",
     "geom:latitude":36.158026,
     "geom:longitude":-115.141892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Park Paseo",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236337043,
-    "wof:lastmodified":1449003149,
+    "wof:lastmodified":1466704943,
     "wof:name":"John S Park Neighborhood Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.141892,36.158026,-115.141892,36.158026],
+  "bbox": [
+    -115.141892,
+    36.158026,
+    -115.141892,
+    36.158026
+],
   "geometry": {"coordinates":[-115.141892,36.158026],"type":"Point"}
 }

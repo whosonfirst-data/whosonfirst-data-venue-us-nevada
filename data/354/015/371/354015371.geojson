@@ -2,13 +2,14 @@
   "id": 354015371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.985001,36.034199,-114.985001,36.034199",
     "geom:latitude":36.034199,
     "geom:longitude":-114.985001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 S Water St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354015371,
-    "wof:lastmodified":1449066317,
+    "wof:lastmodified":1466701892,
     "wof:name":"Rebel Oil Co",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.985001,36.034199,-114.985001,36.034199],
+  "bbox": [
+    -114.985001,
+    36.034199,
+    -114.985001,
+    36.034199
+],
   "geometry": {"coordinates":[-114.985001,36.034199],"type":"Point"}
 }

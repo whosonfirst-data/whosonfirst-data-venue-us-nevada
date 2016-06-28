@@ -2,13 +2,14 @@
   "id": 236662743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.814047,39.517259,-119.814047,39.517259",
     "geom:latitude":39.517259,
     "geom:longitude":-119.814047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Humboldt St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236662743,
-    "wof:lastmodified":1449003966,
+    "wof:lastmodified":1466706585,
     "wof:name":"Double Click Design Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.814047,39.517259,-119.814047,39.517259],
+  "bbox": [
+    -119.814047,
+    39.517259,
+    -119.814047,
+    39.517259
+],
   "geometry": {"coordinates":[-119.814047,39.517259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220199649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717367,39.173429,-119.717367,39.173429",
     "geom:latitude":39.173429,
     "geom:longitude":-119.717367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 Empire Ranch Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":220199649,
-    "wof:lastmodified":1449074113,
+    "wof:lastmodified":1466703100,
     "wof:name":"Empire Sports Center com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.717367,39.173429,-119.717367,39.173429],
+  "bbox": [
+    -119.717367,
+    39.173429,
+    -119.717367,
+    39.173429
+],
   "geometry": {"coordinates":[-119.717367,39.173429],"type":"Point"}
 }

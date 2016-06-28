@@ -2,13 +2,14 @@
   "id": 354377085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109698,36.131166,-115.109698,36.131166",
     "geom:latitude":36.131166,
     "geom:longitude":-115.109698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 McLeod Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":354377085,
-    "wof:lastmodified":1449066555,
+    "wof:lastmodified":1466706275,
     "wof:name":"Kal Ventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "design"
     ]
 },
-  "bbox": [-115.109698,36.131166,-115.109698,36.131166],
-  "geometry": {"coordinates":[-115.109698,36.131166],"type":"Point"}
+  "bbox": [
+    -115.109698,
+    36.131166,
+    -115.109698,
+    36.131166
+],
+  "geometry": {"coordinates":[-115.10969799999999,36.131166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370257753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298004,36.112345,-115.298004,36.112345",
     "geom:latitude":36.112345,
     "geom:longitude":-115.298004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 S Fort Apache Rd Ste 170",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":370257753,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1466703863,
     "wof:name":"Nneka Geter - Re/Max Experience",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.298004,36.112345,-115.298004,36.112345],
-  "geometry": {"coordinates":[-115.298004,36.112345],"type":"Point"}
+  "bbox": [
+    -115.298004,
+    36.112345,
+    -115.298004,
+    36.112345
+],
+  "geometry": {"coordinates":[-115.29800400000001,36.112345],"type":"Point"}
 }

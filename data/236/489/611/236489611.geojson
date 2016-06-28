@@ -2,13 +2,14 @@
   "id": 236489611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076848,36.203248,-115.076848,36.203248",
     "geom:latitude":36.203248,
     "geom:longitude":-115.076848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 E Carey Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236489611,
-    "wof:lastmodified":1449003464,
+    "wof:lastmodified":1466705755,
     "wof:name":"Dr Automotive",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.076848,36.203248,-115.076848,36.203248],
+  "bbox": [
+    -115.076848,
+    36.203248,
+    -115.076848,
+    36.203248
+],
   "geometry": {"coordinates":[-115.076848,36.203248],"type":"Point"}
 }

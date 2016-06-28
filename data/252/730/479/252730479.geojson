@@ -2,13 +2,14 @@
   "id": 252730479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264118,36.222408,-115.264118,36.222408",
     "geom:latitude":36.222408,
     "geom:longitude":-115.264118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Termination Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252730479,
-    "wof:lastmodified":1449006347,
+    "wof:lastmodified":1466701935,
     "wof:name":"Harry C Ramsey Safety Conslnt",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-115.264118,36.222408,-115.264118,36.222408],
+  "bbox": [
+    -115.264118,
+    36.222408,
+    -115.264118,
+    36.222408
+],
   "geometry": {"coordinates":[-115.264118,36.222408],"type":"Point"}
 }

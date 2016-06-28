@@ -2,13 +2,14 @@
   "id": 370238277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230003,36.1441,-115.230003,36.1441",
     "geom:latitude":36.1441,
     "geom:longitude":-115.230003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 S Rainbow Blvd Ste 240",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370238277,
-    "wof:lastmodified":1449030348,
+    "wof:lastmodified":1466703425,
     "wof:name":"Lee Deanna M MD",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-115.230003,36.1441,-115.230003,36.1441],
+  "bbox": [
+    -115.230003,
+    36.1441,
+    -115.230003,
+    36.1441
+],
   "geometry": {"coordinates":[-115.230003,36.1441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219376207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763913,39.479538,-119.763913,39.479538",
     "geom:latitude":39.479538,
     "geom:longitude":-119.763913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4993 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219376207,
-    "wof:lastmodified":1449071609,
+    "wof:lastmodified":1466703514,
     "wof:name":"Oil Change Now",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-119.763913,39.479538,-119.763913,39.479538],
+  "bbox": [
+    -119.763913,
+    39.479538,
+    -119.763913,
+    39.479538
+],
   "geometry": {"coordinates":[-119.763913,39.479538],"type":"Point"}
 }

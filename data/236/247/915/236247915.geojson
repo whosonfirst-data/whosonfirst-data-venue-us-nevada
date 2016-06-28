@@ -2,13 +2,14 @@
   "id": 236247915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223801,36.196151,-115.223801,36.196151",
     "geom:latitude":36.196151,
     "geom:longitude":-115.223801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2095 N Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236247915,
-    "wof:lastmodified":1449003608,
+    "wof:lastmodified":1466704549,
     "wof:name":"Nationwide Budget Finance",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.223801,36.196151,-115.223801,36.196151],
-  "geometry": {"coordinates":[-115.223801,36.196151],"type":"Point"}
+  "bbox": [
+    -115.223801,
+    36.196151,
+    -115.223801,
+    36.196151
+],
+  "geometry": {"coordinates":[-115.22380099999999,36.196151],"type":"Point"}
 }

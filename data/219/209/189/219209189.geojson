@@ -2,13 +2,14 @@
   "id": 219209189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249796,36.224963,-115.249796,36.224963",
     "geom:latitude":36.224963,
     "geom:longitude":-115.249796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Hopland Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219209189,
-    "wof:lastmodified":1449073544,
+    "wof:lastmodified":1466702138,
     "wof:name":"A Perfection Inspection",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-115.249796,36.224963,-115.249796,36.224963],
+  "bbox": [
+    -115.249796,
+    36.224963,
+    -115.249796,
+    36.224963
+],
   "geometry": {"coordinates":[-115.249796,36.224963],"type":"Point"}
 }

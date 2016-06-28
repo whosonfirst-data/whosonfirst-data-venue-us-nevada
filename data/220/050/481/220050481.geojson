@@ -2,13 +2,14 @@
   "id": 220050481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813718,39.532385,-119.813718,39.532385",
     "geom:latitude":39.532385,
     "geom:longitude":-119.813718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Center St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220050481,
-    "wof:lastmodified":1449074496,
+    "wof:lastmodified":1466701991,
     "wof:name":"Brown Nevada Corp",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.813718,39.532385,-119.813718,39.532385],
-  "geometry": {"coordinates":[-119.813718,39.532385],"type":"Point"}
+  "bbox": [
+    -119.813718,
+    39.532385,
+    -119.813718,
+    39.532385
+],
+  "geometry": {"coordinates":[-119.81371799999999,39.532385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236225423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261688,36.143776,-115.261688,36.143776",
     "geom:latitude":36.143776,
     "geom:longitude":-115.261688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7872 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236225423,
-    "wof:lastmodified":1449002515,
+    "wof:lastmodified":1466704088,
     "wof:name":"Trophy Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operative"
     ]
 },
-  "bbox": [-115.261688,36.143776,-115.261688,36.143776],
-  "geometry": {"coordinates":[-115.261688,36.143776],"type":"Point"}
+  "bbox": [
+    -115.261688,
+    36.143776,
+    -115.261688,
+    36.143776
+],
+  "geometry": {"coordinates":[-115.26168800000001,36.143776],"type":"Point"}
 }

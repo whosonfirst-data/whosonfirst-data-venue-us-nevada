@@ -2,13 +2,14 @@
   "id": 235950649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.852622,35.973491,-114.852622,35.973491",
     "geom:latitude":35.973491,
     "geom:longitude":-114.852622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1569 Foothill Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235950649,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466703531,
     "wof:name":"Albert's Towing Svc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-114.852622,35.973491,-114.852622,35.973491],
+  "bbox": [
+    -114.852622,
+    35.973491,
+    -114.852622,
+    35.973491
+],
   "geometry": {"coordinates":[-114.852622,35.973491],"type":"Point"}
 }

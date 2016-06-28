@@ -2,13 +2,14 @@
   "id": 354258991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167133,36.128562,-115.167133,36.128562",
     "geom:latitude":36.128562,
     "geom:longitude":-115.167133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Wynn 3131 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354258991,
-    "wof:lastmodified":1449067277,
+    "wof:lastmodified":1466705440,
     "wof:name":"SW Steakhouse",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-115.167133,36.128562,-115.167133,36.128562],
-  "geometry": {"coordinates":[-115.167133,36.128562],"type":"Point"}
+  "bbox": [
+    -115.167133,
+    36.128562,
+    -115.167133,
+    36.128562
+],
+  "geometry": {"coordinates":[-115.16713300000001,36.128562],"type":"Point"}
 }

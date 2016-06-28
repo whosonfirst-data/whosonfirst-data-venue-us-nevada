@@ -2,13 +2,14 @@
   "id": 219495181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774737,39.201247,-119.774737,39.201247",
     "geom:latitude":39.201247,
     "geom:longitude":-119.774737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Shenandoah Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219495181,
-    "wof:lastmodified":1449071949,
+    "wof:lastmodified":1466704129,
     "wof:name":"Maclin International",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-119.774737,39.201247,-119.774737,39.201247],
+  "bbox": [
+    -119.774737,
+    39.201247,
+    -119.774737,
+    39.201247
+],
   "geometry": {"coordinates":[-119.774737,39.201247],"type":"Point"}
 }

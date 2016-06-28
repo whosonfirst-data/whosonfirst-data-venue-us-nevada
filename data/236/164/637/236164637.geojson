@@ -2,13 +2,14 @@
   "id": 236164637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254285,36.151475,-115.254285,36.151475",
     "geom:latitude":36.151475,
     "geom:longitude":-115.254285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Silver Oaks St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236164637,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466702867,
     "wof:name":"Ten Oaks Guard House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-115.254285,36.151475,-115.254285,36.151475],
+  "bbox": [
+    -115.254285,
+    36.151475,
+    -115.254285,
+    36.151475
+],
   "geometry": {"coordinates":[-115.254285,36.151475],"type":"Point"}
 }

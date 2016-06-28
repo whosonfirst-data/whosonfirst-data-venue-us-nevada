@@ -2,13 +2,14 @@
   "id": 370200535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.330489,36.136234,-115.330489,36.136234",
     "geom:latitude":36.136234,
     "geom:longitude":-115.330489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2942 Brighton Creek Court",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370200535,
-    "wof:lastmodified":1449030437,
+    "wof:lastmodified":1466702521,
     "wof:name":"Inspiration Homes",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.330489,36.136234,-115.330489,36.136234],
+  "bbox": [
+    -115.330489,
+    36.136234,
+    -115.330489,
+    36.136234
+],
   "geometry": {"coordinates":[-115.330489,36.136234],"type":"Point"}
 }

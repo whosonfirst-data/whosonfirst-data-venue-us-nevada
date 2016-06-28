@@ -2,13 +2,14 @@
   "id": 219947087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804419,39.50983,-119.804419,39.50983",
     "geom:latitude":39.50983,
     "geom:longitude":-119.804419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Vesta St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219947087,
-    "wof:lastmodified":1449072955,
+    "wof:lastmodified":1466705866,
     "wof:name":"Sierra Pharmacy Services Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.804419,39.50983,-119.804419,39.50983],
+  "bbox": [
+    -119.804419,
+    39.50983,
+    -119.804419,
+    39.50983
+],
   "geometry": {"coordinates":[-119.804419,39.50983],"type":"Point"}
 }

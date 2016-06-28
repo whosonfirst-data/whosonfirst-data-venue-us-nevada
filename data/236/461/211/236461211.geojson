@@ -2,13 +2,14 @@
   "id": 236461211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.508833,38.732665,-119.508833,38.732665",
     "geom:latitude":38.732665,
     "geom:longitude":-119.508833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3879 Granite Way",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236461211,
-    "wof:lastmodified":1449002785,
+    "wof:lastmodified":1466705538,
     "wof:name":"Welcome Home Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.508833,38.732665,-119.508833,38.732665],
+  "bbox": [
+    -119.508833,
+    38.732665,
+    -119.508833,
+    38.732665
+],
   "geometry": {"coordinates":[-119.508833,38.732665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236127875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.327887,36.13686,-115.327887,36.13686",
     "geom:latitude":36.13686,
     "geom:longitude":-115.327887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10694 Penhurst Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236127875,
-    "wof:lastmodified":1449004924,
+    "wof:lastmodified":1466702089,
     "wof:name":"Carpentier Group Inc",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.327887,36.13686,-115.327887,36.13686],
+  "bbox": [
+    -115.327887,
+    36.13686,
+    -115.327887,
+    36.13686
+],
   "geometry": {"coordinates":[-115.327887,36.13686],"type":"Point"}
 }

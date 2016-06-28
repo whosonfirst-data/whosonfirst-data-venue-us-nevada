@@ -2,13 +2,14 @@
   "id": 236805627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.220845,36.051575,-115.220845,36.051575",
     "geom:latitude":36.051575,
     "geom:longitude":-115.220845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7506 Treasure Chest St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236805627,
-    "wof:lastmodified":1449002612,
+    "wof:lastmodified":1466706763,
     "wof:name":"H D Concepts",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronics"
     ]
 },
-  "bbox": [-115.220845,36.051575,-115.220845,36.051575],
+  "bbox": [
+    -115.220845,
+    36.051575,
+    -115.220845,
+    36.051575
+],
   "geometry": {"coordinates":[-115.220845,36.051575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219928237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.656864,39.293199,-119.656864,39.293199",
     "geom:latitude":39.293199,
     "geom:longitude":-119.656864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 N Main St",
     "sg:city":"Virginia City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219928237,
-    "wof:lastmodified":1449073417,
+    "wof:lastmodified":1466705933,
     "wof:name":"Crown Point Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.656864,39.293199,-119.656864,39.293199],
+  "bbox": [
+    -119.656864,
+    39.293199,
+    -119.656864,
+    39.293199
+],
   "geometry": {"coordinates":[-119.656864,39.293199],"type":"Point"}
 }

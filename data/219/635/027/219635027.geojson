@@ -2,13 +2,14 @@
   "id": 219635027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143985,36.153883,-115.143985,36.153883",
     "geom:latitude":36.153883,
     "geom:longitude":-115.143985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 S 8th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219635027,
-    "wof:lastmodified":1449071915,
+    "wof:lastmodified":1466703548,
     "wof:name":"Golden Starlight",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-115.143985,36.153883,-115.143985,36.153883],
+  "bbox": [
+    -115.143985,
+    36.153883,
+    -115.143985,
+    36.153883
+],
   "geometry": {"coordinates":[-115.143985,36.153883],"type":"Point"}
 }

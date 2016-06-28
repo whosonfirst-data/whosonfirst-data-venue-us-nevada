@@ -2,13 +2,14 @@
   "id": 220104139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131733,36.169561,-115.131733,36.169561",
     "geom:latitude":36.169561,
     "geom:longitude":-115.131733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 N 11th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220104139,
-    "wof:lastmodified":1449074365,
+    "wof:lastmodified":1466702402,
     "wof:name":"Tie Club Inc",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.131733,36.169561,-115.131733,36.169561],
+  "bbox": [
+    -115.131733,
+    36.169561,
+    -115.131733,
+    36.169561
+],
   "geometry": {"coordinates":[-115.131733,36.169561],"type":"Point"}
 }

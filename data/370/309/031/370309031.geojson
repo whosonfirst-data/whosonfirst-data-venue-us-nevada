@@ -2,13 +2,14 @@
   "id": 370309031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752907,39.538025,-119.752907,39.538025",
     "geom:latitude":39.538025,
     "geom:longitude":-119.752907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Pyramid Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370309031,
-    "wof:lastmodified":1449029850,
+    "wof:lastmodified":1466704637,
     "wof:name":"Friedman Terry A Ltd.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "injury"
     ]
 },
-  "bbox": [-119.752907,39.538025,-119.752907,39.538025],
-  "geometry": {"coordinates":[-119.752907,39.538025],"type":"Point"}
+  "bbox": [
+    -119.752907,
+    39.538025,
+    -119.752907,
+    39.538025
+],
+  "geometry": {"coordinates":[-119.75290699999999,39.538025],"type":"Point"}
 }

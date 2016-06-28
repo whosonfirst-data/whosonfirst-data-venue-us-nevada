@@ -2,13 +2,14 @@
   "id": 203294221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074741,36.023822,-115.074741,36.023822",
     "geom:latitude":36.023822,
     "geom:longitude":-115.074741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bighorn Station St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203294221,
-    "wof:lastmodified":1449026317,
+    "wof:lastmodified":1466702787,
     "wof:name":"Candy Bouquet Henderson",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.074741,36.023822,-115.074741,36.023822],
+  "bbox": [
+    -115.074741,
+    36.023822,
+    -115.074741,
+    36.023822
+],
   "geometry": {"coordinates":[-115.074741,36.023822],"type":"Point"}
 }

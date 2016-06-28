@@ -2,13 +2,14 @@
   "id": 235931413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125191,36.093497,-115.125191,36.093497",
     "geom:latitude":36.093497,
     "geom:longitude":-115.125191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 E Hacienda Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235931413,
-    "wof:lastmodified":1449008581,
+    "wof:lastmodified":1466703443,
     "wof:name":"Perfect Reflection",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mirror"
     ]
 },
-  "bbox": [-115.125191,36.093497,-115.125191,36.093497],
+  "bbox": [
+    -115.125191,
+    36.093497,
+    -115.125191,
+    36.093497
+],
   "geometry": {"coordinates":[-115.125191,36.093497],"type":"Point"}
 }

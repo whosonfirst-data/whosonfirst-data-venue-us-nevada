@@ -2,13 +2,14 @@
   "id": 219208237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765344,39.164488,-119.765344,39.164488",
     "geom:latitude":39.164488,
     "geom:longitude":-119.765344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Musser St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219208237,
-    "wof:lastmodified":1449070797,
+    "wof:lastmodified":1466702134,
     "wof:name":"Pre-Audit Division",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-119.765344,39.164488,-119.765344,39.164488],
+  "bbox": [
+    -119.765344,
+    39.164488,
+    -119.765344,
+    39.164488
+],
   "geometry": {"coordinates":[-119.765344,39.164488],"type":"Point"}
 }

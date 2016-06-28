@@ -2,13 +2,14 @@
   "id": 236337871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742819,39.205078,-119.742819,39.205078",
     "geom:latitude":39.205078,
     "geom:longitude":-119.742819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Grumman Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236337871,
-    "wof:lastmodified":1449003147,
+    "wof:lastmodified":1466704959,
     "wof:name":"Mtg Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "grinding"
     ]
 },
-  "bbox": [-119.742819,39.205078,-119.742819,39.205078],
+  "bbox": [
+    -119.742819,
+    39.205078,
+    -119.742819,
+    39.205078
+],
   "geometry": {"coordinates":[-119.742819,39.205078],"type":"Point"}
 }

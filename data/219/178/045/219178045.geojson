@@ -2,13 +2,14 @@
   "id": 219178045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79396,39.532551,-119.79396,39.532551",
     "geom:latitude":39.532551,
     "geom:longitude":-119.79396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Sage St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219178045,
-    "wof:lastmodified":1449072935,
+    "wof:lastmodified":1466704200,
     "wof:name":"Jordan's Thermo King Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-119.79396,39.532551,-119.79396,39.532551],
+  "bbox": [
+    -119.79396,
+    39.532551,
+    -119.79396,
+    39.532551
+],
   "geometry": {"coordinates":[-119.79396,39.532551],"type":"Point"}
 }

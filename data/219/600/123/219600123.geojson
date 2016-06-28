@@ -2,13 +2,14 @@
   "id": 219600123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281065,36.163133,-115.281065,36.163133",
     "geom:latitude":36.163133,
     "geom:longitude":-115.281065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Rivenbark Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219600123,
-    "wof:lastmodified":1449070713,
+    "wof:lastmodified":1466702912,
     "wof:name":"Something Special By Shirlee",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-115.281065,36.163133,-115.281065,36.163133],
+  "bbox": [
+    -115.281065,
+    36.163133,
+    -115.281065,
+    36.163133
+],
   "geometry": {"coordinates":[-115.281065,36.163133],"type":"Point"}
 }

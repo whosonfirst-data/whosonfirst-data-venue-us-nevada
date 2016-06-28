@@ -2,13 +2,14 @@
   "id": 219797313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209953,35.994586,-115.209953,35.994586",
     "geom:latitude":35.994586,
     "geom:longitude":-115.209953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10682 Eiffel Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219797313,
-    "wof:lastmodified":1449073568,
+    "wof:lastmodified":1466704946,
     "wof:name":"Maverick Advertising Specialty",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.209953,35.994586,-115.209953,35.994586],
+  "bbox": [
+    -115.209953,
+    35.994586,
+    -115.209953,
+    35.994586
+],
   "geometry": {"coordinates":[-115.209953,35.994586],"type":"Point"}
 }

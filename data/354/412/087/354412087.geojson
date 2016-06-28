@@ -2,13 +2,14 @@
   "id": 354412087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140595,36.044402,-115.140595,36.044402",
     "geom:latitude":36.044402,
     "geom:longitude":-115.140595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7987 Cadenza Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354412087,
-    "wof:lastmodified":1449066276,
+    "wof:lastmodified":1466706208,
     "wof:name":"Nevada Home Inspections llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-115.140595,36.044402,-115.140595,36.044402],
+  "bbox": [
+    -115.140595,
+    36.044402,
+    -115.140595,
+    36.044402
+],
   "geometry": {"coordinates":[-115.140595,36.044402],"type":"Point"}
 }

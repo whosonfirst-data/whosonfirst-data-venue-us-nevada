@@ -2,13 +2,14 @@
   "id": 236627567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277771,36.241649,-115.277771,36.241649",
     "geom:latitude":36.241649,
     "geom:longitude":-115.277771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8335 Hidden Crossing Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236627567,
-    "wof:lastmodified":1449005335,
+    "wof:lastmodified":1466706468,
     "wof:name":"Reynolds Photography",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.277771,36.241649,-115.277771,36.241649],
+  "bbox": [
+    -115.277771,
+    36.241649,
+    -115.277771,
+    36.241649
+],
   "geometry": {"coordinates":[-115.277771,36.241649],"type":"Point"}
 }

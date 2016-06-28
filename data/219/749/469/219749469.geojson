@@ -2,13 +2,14 @@
   "id": 219749469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.949255,36.024584,-114.949255,36.024584",
     "geom:latitude":36.024584,
     "geom:longitude":-114.949255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 Preakness Stakes St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219749469,
-    "wof:lastmodified":1449071414,
+    "wof:lastmodified":1466704602,
     "wof:name":"Superior Cleaning Svc",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-114.949255,36.024584,-114.949255,36.024584],
-  "geometry": {"coordinates":[-114.949255,36.024584],"type":"Point"}
+  "bbox": [
+    -114.949255,
+    36.024584,
+    -114.949255,
+    36.024584
+],
+  "geometry": {"coordinates":[-114.94925499999999,36.024584],"type":"Point"}
 }

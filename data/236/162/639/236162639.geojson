@@ -2,13 +2,14 @@
   "id": 236162639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261025,36.174074,-115.261025,36.174074",
     "geom:latitude":36.174074,
     "geom:longitude":-115.261025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7636 Westcliff Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236162639,
-    "wof:lastmodified":1449004668,
+    "wof:lastmodified":1466702827,
     "wof:name":"Premier Property Solutions",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-115.261025,36.174074,-115.261025,36.174074],
+  "bbox": [
+    -115.261025,
+    36.174074,
+    -115.261025,
+    36.174074
+],
   "geometry": {"coordinates":[-115.261025,36.174074],"type":"Point"}
 }

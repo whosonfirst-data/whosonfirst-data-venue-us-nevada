@@ -2,13 +2,14 @@
   "id": 219874169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248748,36.246557,-115.248748,36.246557",
     "geom:latitude":36.246557,
     "geom:longitude":-115.248748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7032 Old Village Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219874169,
-    "wof:lastmodified":1449073681,
+    "wof:lastmodified":1466705413,
     "wof:name":"TJS Courier Svc",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-115.248748,36.246557,-115.248748,36.246557],
-  "geometry": {"coordinates":[-115.248748,36.246557],"type":"Point"}
+  "bbox": [
+    -115.248748,
+    36.246557,
+    -115.248748,
+    36.246557
+],
+  "geometry": {"coordinates":[-115.24874800000001,36.246557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370344893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765526,39.154162,-119.765526,39.154162",
     "geom:latitude":39.154162,
     "geom:longitude":-119.765526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 S. Stewart St. Carson Mall",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370344893,
-    "wof:lastmodified":1449029248,
+    "wof:lastmodified":1466705010,
     "wof:name":"Charley's Grilled Subs",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-119.765526,39.154162,-119.765526,39.154162],
-  "geometry": {"coordinates":[-119.765526,39.154162],"type":"Point"}
+  "bbox": [
+    -119.765526,
+    39.154162,
+    -119.765526,
+    39.154162
+],
+  "geometry": {"coordinates":[-119.76552599999999,39.154162],"type":"Point"}
 }

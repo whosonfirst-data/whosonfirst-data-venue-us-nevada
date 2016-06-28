@@ -2,13 +2,14 @@
   "id": 219943221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.07801,36.159038,-115.07801,36.159038",
     "geom:latitude":36.159038,
     "geom:longitude":-115.07801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4542 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219943221,
-    "wof:lastmodified":1449071333,
+    "wof:lastmodified":1466705980,
     "wof:name":"Prestige Royal",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charging"
     ]
 },
-  "bbox": [-115.07801,36.159038,-115.07801,36.159038],
-  "geometry": {"coordinates":[-115.07801,36.159038],"type":"Point"}
+  "bbox": [
+    -115.07801,
+    36.159038,
+    -115.07801,
+    36.159038
+],
+  "geometry": {"coordinates":[-115.07801000000001,36.159038],"type":"Point"}
 }

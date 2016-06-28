@@ -2,13 +2,14 @@
   "id": 219727811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.276743,36.206399,-115.276743,36.206399",
     "geom:latitude":36.206399,
     "geom:longitude":-115.276743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Sea Glen Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219727811,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466704618,
     "wof:name":"Labor Cost Control Systems",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.276743,36.206399,-115.276743,36.206399],
+  "bbox": [
+    -115.276743,
+    36.206399,
+    -115.276743,
+    36.206399
+],
   "geometry": {"coordinates":[-115.276743,36.206399],"type":"Point"}
 }

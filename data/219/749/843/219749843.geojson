@@ -2,13 +2,14 @@
   "id": 219749843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.981484,35.992363,-114.981484,35.992363",
     "geom:latitude":35.992363,
     "geom:longitude":-114.981484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1078 Outlook Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219749843,
-    "wof:lastmodified":1449071410,
+    "wof:lastmodified":1466704763,
     "wof:name":"Giftrelm",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.981484,35.992363,-114.981484,35.992363],
-  "geometry": {"coordinates":[-114.981484,35.992363],"type":"Point"}
+  "bbox": [
+    -114.981484,
+    35.992363,
+    -114.981484,
+    35.992363
+],
+  "geometry": {"coordinates":[-114.98148399999999,35.992363],"type":"Point"}
 }

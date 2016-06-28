@@ -2,13 +2,14 @@
   "id": 236105593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763678,39.476794,-119.763678,39.476794",
     "geom:latitude":39.476794,
     "geom:longitude":-119.763678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4068 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236105593,
-    "wof:lastmodified":1449002804,
+    "wof:lastmodified":1466701649,
     "wof:name":"Reno Sunrooms Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "family"
     ]
 },
-  "bbox": [-119.763678,39.476794,-119.763678,39.476794],
+  "bbox": [
+    -119.763678,
+    39.476794,
+    -119.763678,
+    39.476794
+],
   "geometry": {"coordinates":[-119.763678,39.476794],"type":"Point"}
 }

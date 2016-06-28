@@ -2,13 +2,14 @@
   "id": 236853907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743679,39.555784,-119.743679,39.555784",
     "geom:latitude":39.555784,
     "geom:longitude":-119.743679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Gault Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236853907,
-    "wof:lastmodified":1449002897,
+    "wof:lastmodified":1466706857,
     "wof:name":"Raggedy Line Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.743679,39.555784,-119.743679,39.555784],
+  "bbox": [
+    -119.743679,
+    39.555784,
+    -119.743679,
+    39.555784
+],
   "geometry": {"coordinates":[-119.743679,39.555784],"type":"Point"}
 }

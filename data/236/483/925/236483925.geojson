@@ -2,13 +2,14 @@
   "id": 236483925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773961,39.202347,-119.773961,39.202347",
     "geom:latitude":39.202347,
     "geom:longitude":-119.773961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 W Bonanza Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236483925,
-    "wof:lastmodified":1449004398,
+    "wof:lastmodified":1466705863,
     "wof:name":"Robert Stroub Trvl Svc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-119.773961,39.202347,-119.773961,39.202347],
+  "bbox": [
+    -119.773961,
+    39.202347,
+    -119.773961,
+    39.202347
+],
   "geometry": {"coordinates":[-119.773961,39.202347],"type":"Point"}
 }

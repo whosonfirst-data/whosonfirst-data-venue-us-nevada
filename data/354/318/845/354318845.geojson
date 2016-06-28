@@ -2,13 +2,14 @@
   "id": 354318845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241759,36.064176,-115.241759,36.064176",
     "geom:latitude":36.064176,
     "geom:longitude":-115.241759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6870 S Rainbow Blvd #118",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354318845,
-    "wof:lastmodified":1449066290,
+    "wof:lastmodified":1466705974,
     "wof:name":"Tobacco Town Cigars",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.241759,36.064176,-115.241759,36.064176],
+  "bbox": [
+    -115.241759,
+    36.064176,
+    -115.241759,
+    36.064176
+],
   "geometry": {"coordinates":[-115.241759,36.064176],"type":"Point"}
 }

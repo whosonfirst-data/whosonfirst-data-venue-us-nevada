@@ -2,13 +2,14 @@
   "id": 219722287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129413,36.168798,-115.129413,36.168798",
     "geom:latitude":36.168798,
     "geom:longitude":-115.129413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N 13th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219722287,
-    "wof:lastmodified":1449071626,
+    "wof:lastmodified":1466704440,
     "wof:name":"Arturo Cambeiro Senior Ctr",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-115.129413,36.168798,-115.129413,36.168798],
+  "bbox": [
+    -115.129413,
+    36.168798,
+    -115.129413,
+    36.168798
+],
   "geometry": {"coordinates":[-115.129413,36.168798],"type":"Point"}
 }

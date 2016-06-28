@@ -2,13 +2,14 @@
   "id": 219234579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134633,36.023568,-115.134633,36.023568",
     "geom:latitude":36.023568,
     "geom:longitude":-115.134633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9129 Amber Waves St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219234579,
-    "wof:lastmodified":1449073717,
+    "wof:lastmodified":1466702342,
     "wof:name":"Unlimited Dimensions Mgmt Corp",
     "wof:parent_id":85879707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.134633,36.023568,-115.134633,36.023568],
-  "geometry": {"coordinates":[-115.134633,36.023568],"type":"Point"}
+  "bbox": [
+    -115.134633,
+    36.023568,
+    -115.134633,
+    36.023568
+],
+  "geometry": {"coordinates":[-115.13463299999999,36.023568],"type":"Point"}
 }

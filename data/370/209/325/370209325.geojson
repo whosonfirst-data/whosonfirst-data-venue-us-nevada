@@ -2,13 +2,14 @@
   "id": 370209325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243212,36.044456,-115.243212,36.044456",
     "geom:latitude":36.044456,
     "geom:longitude":-115.243212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 S Rainbow",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370209325,
-    "wof:lastmodified":1449032117,
+    "wof:lastmodified":1466702770,
     "wof:name":"Patty's Closet",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.243212,36.044456,-115.243212,36.044456],
+  "bbox": [
+    -115.243212,
+    36.044456,
+    -115.243212,
+    36.044456
+],
   "geometry": {"coordinates":[-115.243212,36.044456],"type":"Point"}
 }

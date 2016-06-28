@@ -2,13 +2,14 @@
   "id": 236209893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168355,35.995542,-115.168355,35.995542",
     "geom:latitude":35.995542,
     "geom:longitude":-115.168355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Levi Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236209893,
-    "wof:lastmodified":1449004822,
+    "wof:lastmodified":1466703760,
     "wof:name":"ASAP Carpets",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-115.168355,35.995542,-115.168355,35.995542],
-  "geometry": {"coordinates":[-115.168355,35.995542],"type":"Point"}
+  "bbox": [
+    -115.168355,
+    35.995542,
+    -115.168355,
+    35.995542
+],
+  "geometry": {"coordinates":[-115.16835500000001,35.995542],"type":"Point"}
 }

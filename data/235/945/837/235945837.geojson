@@ -2,13 +2,14 @@
   "id": 235945837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.841929,35.975906,-114.841929,35.975906",
     "geom:latitude":35.975906,
     "geom:longitude":-114.841929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Date St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235945837,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466703504,
     "wof:name":"Highway Productions A Nev Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-114.841929,35.975906,-114.841929,35.975906],
-  "geometry": {"coordinates":[-114.841929,35.975906],"type":"Point"}
+  "bbox": [
+    -114.841929,
+    35.975906,
+    -114.841929,
+    35.975906
+],
+  "geometry": {"coordinates":[-114.84192899999999,35.975906],"type":"Point"}
 }

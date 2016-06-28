@@ -2,13 +2,14 @@
   "id": 354308973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.275538,36.129861,-115.275538,36.129861",
     "geom:latitude":36.129861,
     "geom:longitude":-115.275538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8470 W. Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354308973,
-    "wof:lastmodified":1449067692,
+    "wof:lastmodified":1466705772,
     "wof:name":"T.C.'s World Famous BBQ Rib Crib",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbeque"
     ]
 },
-  "bbox": [-115.275538,36.129861,-115.275538,36.129861],
+  "bbox": [
+    -115.275538,
+    36.129861,
+    -115.275538,
+    36.129861
+],
   "geometry": {"coordinates":[-115.275538,36.129861],"type":"Point"}
 }

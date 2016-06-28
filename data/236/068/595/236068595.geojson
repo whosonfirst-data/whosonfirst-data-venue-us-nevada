@@ -2,13 +2,14 @@
   "id": 236068595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.551396,38.706079,-119.551396,38.706079",
     "geom:latitude":38.706079,
     "geom:longitude":-119.551396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Fairs",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236068595,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1466704021,
     "wof:name":"Castle Keep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.551396,38.706079,-119.551396,38.706079],
+  "bbox": [
+    -119.551396,
+    38.706079,
+    -119.551396,
+    38.706079
+],
   "geometry": {"coordinates":[-119.551396,38.706079],"type":"Point"}
 }

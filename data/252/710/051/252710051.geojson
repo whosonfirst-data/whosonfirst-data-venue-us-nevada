@@ -2,13 +2,14 @@
   "id": 252710051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199266,36.147334,-115.199266,36.147334",
     "geom:latitude":36.147334,
     "geom:longitude":-115.199266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Juana Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252710051,
-    "wof:lastmodified":1449005476,
+    "wof:lastmodified":1466701519,
     "wof:name":"Rick's Roofing",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.199266,36.147334,-115.199266,36.147334],
-  "geometry": {"coordinates":[-115.199266,36.147334],"type":"Point"}
+  "bbox": [
+    -115.199266,
+    36.147334,
+    -115.199266,
+    36.147334
+],
+  "geometry": {"coordinates":[-115.19926599999999,36.147334],"type":"Point"}
 }

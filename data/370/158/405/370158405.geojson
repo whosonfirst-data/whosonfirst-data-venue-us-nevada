@@ -2,13 +2,14 @@
   "id": 370158405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280515,36.196329,-115.280515,36.196329",
     "geom:latitude":36.196329,
     "geom:longitude":-115.280515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Scholar Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370158405,
-    "wof:lastmodified":1449031337,
+    "wof:lastmodified":1466701745,
     "wof:name":"Meadows Beginning School",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.280515,36.196329,-115.280515,36.196329],
-  "geometry": {"coordinates":[-115.280515,36.196329],"type":"Point"}
+  "bbox": [
+    -115.280515,
+    36.196329,
+    -115.280515,
+    36.196329
+],
+  "geometry": {"coordinates":[-115.28051499999999,36.196329],"type":"Point"}
 }

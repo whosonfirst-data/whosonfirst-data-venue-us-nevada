@@ -2,13 +2,14 @@
   "id": 236396059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.719442,39.574597,-119.719442,39.574597",
     "geom:latitude":39.574597,
     "geom:longitude":-119.719442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1295 Caledonian Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236396059,
-    "wof:lastmodified":1449003888,
+    "wof:lastmodified":1466705457,
     "wof:name":"Home Run Deli Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.719442,39.574597,-119.719442,39.574597],
+  "bbox": [
+    -119.719442,
+    39.574597,
+    -119.719442,
+    39.574597
+],
   "geometry": {"coordinates":[-119.719442,39.574597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354329359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194,36.073502,-115.194,36.073502",
     "geom:latitude":36.073502,
     "geom:longitude":-115.194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 Hinson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354329359,
-    "wof:lastmodified":1449066374,
+    "wof:lastmodified":1466705901,
     "wof:name":"Lighting Design Center",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lighting"
     ]
 },
-  "bbox": [-115.194,36.073502,-115.194,36.073502],
+  "bbox": [
+    -115.194,
+    36.073502,
+    -115.194,
+    36.073502
+],
   "geometry": {"coordinates":[-115.194,36.073502],"type":"Point"}
 }

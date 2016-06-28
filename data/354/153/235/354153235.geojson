@@ -2,13 +2,14 @@
   "id": 354153235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204002,36.112999,-115.204002,36.112999",
     "geom:latitude":36.112999,
     "geom:longitude":-115.204002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354153235,
-    "wof:lastmodified":1449067145,
+    "wof:lastmodified":1466704561,
     "wof:name":"Bulbman",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lighting"
     ]
 },
-  "bbox": [-115.204002,36.112999,-115.204002,36.112999],
+  "bbox": [
+    -115.204002,
+    36.112999,
+    -115.204002,
+    36.112999
+],
   "geometry": {"coordinates":[-115.204002,36.112999],"type":"Point"}
 }

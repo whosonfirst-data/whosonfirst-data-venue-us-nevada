@@ -2,13 +2,14 @@
   "id": 219230357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.002805,36.032788,-115.002805,36.032788",
     "geom:latitude":36.032788,
     "geom:longitude":-115.002805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Albany Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219230357,
-    "wof:lastmodified":1449073022,
+    "wof:lastmodified":1466702291,
     "wof:name":"Rietz Consulting Inc",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.002805,36.032788,-115.002805,36.032788],
+  "bbox": [
+    -115.002805,
+    36.032788,
+    -115.002805,
+    36.032788
+],
   "geometry": {"coordinates":[-115.002805,36.032788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219563711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26941,36.257418,-115.26941,36.257418",
     "geom:latitude":36.257418,
     "geom:longitude":-115.26941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7909 Ben Hogan Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219563711,
-    "wof:lastmodified":1449070425,
+    "wof:lastmodified":1466702463,
     "wof:name":"Henkin Trust 09 18 89",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-115.26941,36.257418,-115.26941,36.257418],
-  "geometry": {"coordinates":[-115.26941,36.257418],"type":"Point"}
+  "bbox": [
+    -115.26941,
+    36.257418,
+    -115.26941,
+    36.257418
+],
+  "geometry": {"coordinates":[-115.26940999999999,36.257418],"type":"Point"}
 }

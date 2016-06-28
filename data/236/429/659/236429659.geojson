@@ -2,13 +2,14 @@
   "id": 236429659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102478,36.208601,-115.102478,36.208601",
     "geom:latitude":36.208601,
     "geom:longitude":-115.102478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2636 Bello Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236429659,
-    "wof:lastmodified":1449005034,
+    "wof:lastmodified":1466705498,
     "wof:name":"Hawaiian Paradise Tree Svc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-115.102478,36.208601,-115.102478,36.208601],
+  "bbox": [
+    -115.102478,
+    36.208601,
+    -115.102478,
+    36.208601
+],
   "geometry": {"coordinates":[-115.102478,36.208601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354130099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189078,36.142626,-115.189078,36.142626",
     "geom:latitude":36.142626,
     "geom:longitude":-115.189078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 El Conlon Avenue Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354130099,
-    "wof:lastmodified":1449066501,
+    "wof:lastmodified":1466704462,
     "wof:name":"Sunrise Gardens Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.189078,36.142626,-115.189078,36.142626],
-  "geometry": {"coordinates":[-115.189078,36.142626],"type":"Point"}
+  "bbox": [
+    -115.189078,
+    36.142626,
+    -115.189078,
+    36.142626
+],
+  "geometry": {"coordinates":[-115.18907799999999,36.142626],"type":"Point"}
 }

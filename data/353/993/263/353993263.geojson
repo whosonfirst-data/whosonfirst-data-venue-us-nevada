@@ -2,13 +2,14 @@
   "id": 353993263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.063043,36.011801,-115.063043,36.011801",
     "geom:latitude":36.011801,
     "geom:longitude":-115.063043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 W Horizon Ridge Pkwy Ste 110",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353993263,
-    "wof:lastmodified":1449019391,
+    "wof:lastmodified":1466701673,
     "wof:name":"Shabu Shabu Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "japanese"
     ]
 },
-  "bbox": [-115.063043,36.011801,-115.063043,36.011801],
-  "geometry": {"coordinates":[-115.063043,36.011801],"type":"Point"}
+  "bbox": [
+    -115.063043,
+    36.011801,
+    -115.063043,
+    36.011801
+],
+  "geometry": {"coordinates":[-115.06304299999999,36.011801],"type":"Point"}
 }

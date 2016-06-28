@@ -2,13 +2,14 @@
   "id": 236401125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.853769,39.502417,-119.853769,39.502417",
     "geom:latitude":39.502417,
     "geom:longitude":-119.853769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236401125,
-    "wof:lastmodified":1449004660,
+    "wof:lastmodified":1466705356,
     "wof:name":"Frank Nenzel Private Invstgtr",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-119.853769,39.502417,-119.853769,39.502417],
+  "bbox": [
+    -119.853769,
+    39.502417,
+    -119.853769,
+    39.502417
+],
   "geometry": {"coordinates":[-119.853769,39.502417],"type":"Point"}
 }

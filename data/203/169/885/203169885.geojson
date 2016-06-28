@@ -2,13 +2,14 @@
   "id": 203169885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.83588,39.506085,-119.83588,39.506085",
     "geom:latitude":39.506085,
     "geom:longitude":-119.83588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 Hunter Lake Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203169885,
-    "wof:lastmodified":1449026110,
+    "wof:lastmodified":1466701738,
     "wof:name":"Atlantic & PCF Investments LLC",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.83588,39.506085,-119.83588,39.506085],
+  "bbox": [
+    -119.83588,
+    39.506085,
+    -119.83588,
+    39.506085
+],
   "geometry": {"coordinates":[-119.83588,39.506085],"type":"Point"}
 }

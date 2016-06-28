@@ -2,13 +2,14 @@
   "id": 219204663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238387,36.1441,-115.238387,36.1441",
     "geom:latitude":36.1441,
     "geom:longitude":-115.238387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Redwood St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219204663,
-    "wof:lastmodified":1449074035,
+    "wof:lastmodified":1466702105,
     "wof:name":"Will Do It Right Maint Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.238387,36.1441,-115.238387,36.1441],
+  "bbox": [
+    -115.238387,
+    36.1441,
+    -115.238387,
+    36.1441
+],
   "geometry": {"coordinates":[-115.238387,36.1441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370360817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764999,39.183498,-119.764999,39.183498",
     "geom:latitude":39.183498,
     "geom:longitude":-119.764999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Hot Springs Rd Ste 4",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370360817,
-    "wof:lastmodified":1449031711,
+    "wof:lastmodified":1466705074,
     "wof:name":"Capitol City Electric",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-119.764999,39.183498,-119.764999,39.183498],
+  "bbox": [
+    -119.764999,
+    39.183498,
+    -119.764999,
+    39.183498
+],
   "geometry": {"coordinates":[-119.764999,39.183498],"type":"Point"}
 }

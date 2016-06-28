@@ -2,13 +2,14 @@
   "id": 236882033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242214,36.219961,-115.242214,36.219961",
     "geom:latitude":36.219961,
     "geom:longitude":-115.242214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3280 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236882033,
-    "wof:lastmodified":1449002118,
+    "wof:lastmodified":1466706883,
     "wof:name":"Allergy Intitute-Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.242214,36.219961,-115.242214,36.219961],
+  "bbox": [
+    -115.242214,
+    36.219961,
+    -115.242214,
+    36.219961
+],
   "geometry": {"coordinates":[-115.242214,36.219961],"type":"Point"}
 }

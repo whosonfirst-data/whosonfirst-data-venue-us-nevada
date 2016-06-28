@@ -2,13 +2,14 @@
   "id": 219818299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296164,36.224836,-115.296164,36.224836",
     "geom:latitude":36.224836,
     "geom:longitude":-115.296164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9163 Jewel Crystal",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219818299,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466705186,
     "wof:name":"Carnival Cruises",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carnival"
     ]
 },
-  "bbox": [-115.296164,36.224836,-115.296164,36.224836],
+  "bbox": [
+    -115.296164,
+    36.224836,
+    -115.296164,
+    36.224836
+],
   "geometry": {"coordinates":[-115.296164,36.224836],"type":"Point"}
 }

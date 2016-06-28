@@ -2,13 +2,14 @@
   "id": 219771089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742539,39.528503,-119.742539,39.528503",
     "geom:latitude":39.528503,
     "geom:longitude":-119.742539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Glen Carran Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219771089,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466705024,
     "wof:name":"Evalynn's Jewelry & Acces",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-119.742539,39.528503,-119.742539,39.528503],
-  "geometry": {"coordinates":[-119.742539,39.528503],"type":"Point"}
+  "bbox": [
+    -119.742539,
+    39.528503,
+    -119.742539,
+    39.528503
+],
+  "geometry": {"coordinates":[-119.74253899999999,39.528503],"type":"Point"}
 }

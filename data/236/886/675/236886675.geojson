@@ -2,13 +2,14 @@
   "id": 236886675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136922,36.14299,-115.136922,36.14299",
     "geom:latitude":36.14299,
     "geom:longitude":-115.136922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236886675,
-    "wof:lastmodified":1449003490,
+    "wof:lastmodified":1466706784,
     "wof:name":"Show Business Intl Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-115.136922,36.14299,-115.136922,36.14299],
+  "bbox": [
+    -115.136922,
+    36.14299,
+    -115.136922,
+    36.14299
+],
   "geometry": {"coordinates":[-115.136922,36.14299],"type":"Point"}
 }

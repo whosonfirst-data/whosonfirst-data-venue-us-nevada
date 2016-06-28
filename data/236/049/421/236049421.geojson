@@ -2,13 +2,14 @@
   "id": 236049421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.719349,39.668265,-119.719349,39.668265",
     "geom:latitude":39.668265,
     "geom:longitude":-119.719349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Soar Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236049421,
-    "wof:lastmodified":1449003254,
+    "wof:lastmodified":1466703968,
     "wof:name":"Dankers Family Inv Prpts",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.719349,39.668265,-119.719349,39.668265],
-  "geometry": {"coordinates":[-119.719349,39.668265],"type":"Point"}
+  "bbox": [
+    -119.719349,
+    39.668265,
+    -119.719349,
+    39.668265
+],
+  "geometry": {"coordinates":[-119.71934899999999,39.668265],"type":"Point"}
 }

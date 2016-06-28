@@ -2,13 +2,14 @@
   "id": 203197621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122968,36.101969,-115.122968,36.101969",
     "geom:latitude":36.101969,
     "geom:longitude":-115.122968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Renaissance Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203197621,
-    "wof:lastmodified":1449026620,
+    "wof:lastmodified":1466702031,
     "wof:name":"Worldlink Communications Inc",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "provider"
     ]
 },
-  "bbox": [-115.122968,36.101969,-115.122968,36.101969],
+  "bbox": [
+    -115.122968,
+    36.101969,
+    -115.122968,
+    36.101969
+],
   "geometry": {"coordinates":[-115.122968,36.101969],"type":"Point"}
 }

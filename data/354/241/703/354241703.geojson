@@ -2,13 +2,14 @@
   "id": 354241703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171559,36.119325,-115.171559,36.119325",
     "geom:latitude":36.119325,
     "geom:longitude":-115.171559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Harrah's Hotel and Casino 3475 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354241703,
-    "wof:lastmodified":1449067643,
+    "wof:lastmodified":1466705292,
     "wof:name":"Penazzi Italian Restaurant",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "italian"
     ]
 },
-  "bbox": [-115.171559,36.119325,-115.171559,36.119325],
+  "bbox": [
+    -115.171559,
+    36.119325,
+    -115.171559,
+    36.119325
+],
   "geometry": {"coordinates":[-115.171559,36.119325],"type":"Point"}
 }

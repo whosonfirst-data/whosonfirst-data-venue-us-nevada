@@ -2,13 +2,14 @@
   "id": 236099797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.477523,40.178538,-118.477523,40.178538",
     "geom:latitude":40.178538,
     "geom:longitude":-118.477523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 8th St",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236099797,
-    "wof:lastmodified":1449003873,
+    "wof:lastmodified":1466701534,
     "wof:name":"Lovelock Maintenance Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-118.477523,40.178538,-118.477523,40.178538],
-  "geometry": {"coordinates":[-118.477523,40.178538],"type":"Point"}
+  "bbox": [
+    -118.477523,
+    40.178538,
+    -118.477523,
+    40.178538
+],
+  "geometry": {"coordinates":[-118.47752300000001,40.178538],"type":"Point"}
 }

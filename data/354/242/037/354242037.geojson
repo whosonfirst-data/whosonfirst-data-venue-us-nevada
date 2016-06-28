@@ -2,13 +2,14 @@
   "id": 354242037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079875,36.225736,-115.079875,36.225736",
     "geom:latitude":36.225736,
     "geom:longitude":-115.079875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3663 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354242037,
-    "wof:lastmodified":1449067471,
+    "wof:lastmodified":1466705281,
     "wof:name":"The V Theater",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.079875,36.225736,-115.079875,36.225736],
+  "bbox": [
+    -115.079875,
+    36.225736,
+    -115.079875,
+    36.225736
+],
   "geometry": {"coordinates":[-115.079875,36.225736],"type":"Point"}
 }

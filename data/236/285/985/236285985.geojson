@@ -2,13 +2,14 @@
   "id": 236285985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13658,36.05419,-115.13658,36.05419",
     "geom:latitude":36.05419,
     "geom:longitude":-115.13658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 del Lilly Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236285985,
-    "wof:lastmodified":1449001749,
+    "wof:lastmodified":1466704596,
     "wof:name":"Michael Steiding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-115.13658,36.05419,-115.13658,36.05419],
+  "bbox": [
+    -115.13658,
+    36.05419,
+    -115.13658,
+    36.05419
+],
   "geometry": {"coordinates":[-115.13658,36.05419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370212359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279936,36.298966,-115.279936,36.298966",
     "geom:latitude":36.298966,
     "geom:longitude":-115.279936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7585 Norman Rockwell Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370212359,
-    "wof:lastmodified":1449031262,
+    "wof:lastmodified":1466702860,
     "wof:name":"Joey's Seafood & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-115.279936,36.298966,-115.279936,36.298966],
-  "geometry": {"coordinates":[-115.279936,36.298966],"type":"Point"}
+  "bbox": [
+    -115.279936,
+    36.298966,
+    -115.279936,
+    36.298966
+],
+  "geometry": {"coordinates":[-115.27993600000001,36.298966],"type":"Point"}
 }

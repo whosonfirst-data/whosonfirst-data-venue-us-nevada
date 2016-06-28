@@ -2,13 +2,14 @@
   "id": 370310177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735558,39.537491,-119.735558,39.537491",
     "geom:latitude":39.537491,
     "geom:longitude":-119.735558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Mccarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370310177,
-    "wof:lastmodified":1449031176,
+    "wof:lastmodified":1466704804,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-119.735558,39.537491,-119.735558,39.537491],
+  "bbox": [
+    -119.735558,
+    39.537491,
+    -119.735558,
+    39.537491
+],
   "geometry": {"coordinates":[-119.735558,39.537491],"type":"Point"}
 }

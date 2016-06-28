@@ -2,13 +2,14 @@
   "id": 236475021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168461,36.011724,-115.168461,36.011724",
     "geom:latitude":36.011724,
     "geom:longitude":-115.168461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 E Landberg Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236475021,
-    "wof:lastmodified":1449002944,
+    "wof:lastmodified":1466705583,
     "wof:name":"Rv Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-115.168461,36.011724,-115.168461,36.011724],
-  "geometry": {"coordinates":[-115.168461,36.011724],"type":"Point"}
+  "bbox": [
+    -115.168461,
+    36.011724,
+    -115.168461,
+    36.011724
+],
+  "geometry": {"coordinates":[-115.16846099999999,36.011724],"type":"Point"}
 }

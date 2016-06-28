@@ -2,13 +2,14 @@
   "id": 219541945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110059,36.07523,-115.110059,36.07523",
     "geom:latitude":36.07523,
     "geom:longitude":-115.110059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 E Post Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219541945,
-    "wof:lastmodified":1449070776,
+    "wof:lastmodified":1466702084,
     "wof:name":"Halo Electronics Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "electronic"
     ]
 },
-  "bbox": [-115.110059,36.07523,-115.110059,36.07523],
-  "geometry": {"coordinates":[-115.110059,36.07523],"type":"Point"}
+  "bbox": [
+    -115.110059,
+    36.07523,
+    -115.110059,
+    36.07523
+],
+  "geometry": {"coordinates":[-115.11005900000001,36.07523],"type":"Point"}
 }

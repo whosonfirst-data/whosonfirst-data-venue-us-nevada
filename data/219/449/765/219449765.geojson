@@ -2,13 +2,14 @@
   "id": 219449765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265382,36.285181,-115.265382,36.285181",
     "geom:latitude":36.285181,
     "geom:longitude":-115.265382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6840 Rosinwood St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219449765,
-    "wof:lastmodified":1449073652,
+    "wof:lastmodified":1466703880,
     "wof:name":"M & J Welding",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.265382,36.285181,-115.265382,36.285181],
+  "bbox": [
+    -115.265382,
+    36.285181,
+    -115.265382,
+    36.285181
+],
   "geometry": {"coordinates":[-115.265382,36.285181],"type":"Point"}
 }

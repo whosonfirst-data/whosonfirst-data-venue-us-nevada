@@ -2,13 +2,14 @@
   "id": 235970561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.773819,39.463189,-118.773819,39.463189",
     "geom:latitude":39.463189,
     "geom:longitude":-118.773819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Morina Dr",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235970561,
-    "wof:lastmodified":1449008602,
+    "wof:lastmodified":1466703621,
     "wof:name":"Evans Trenching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.773819,39.463189,-118.773819,39.463189],
+  "bbox": [
+    -118.773819,
+    39.463189,
+    -118.773819,
+    39.463189
+],
   "geometry": {"coordinates":[-118.773819,39.463189],"type":"Point"}
 }

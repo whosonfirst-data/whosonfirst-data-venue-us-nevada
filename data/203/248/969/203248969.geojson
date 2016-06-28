@@ -2,13 +2,14 @@
   "id": 203248969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204559,36.19762,-115.204559,36.19762",
     "geom:latitude":36.19762,
     "geom:longitude":-115.204559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 Stacey Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203248969,
-    "wof:lastmodified":1449025984,
+    "wof:lastmodified":1466702492,
     "wof:name":"Tiny Kitchens Catering",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chef"
     ]
 },
-  "bbox": [-115.204559,36.19762,-115.204559,36.19762],
+  "bbox": [
+    -115.204559,
+    36.19762,
+    -115.204559,
+    36.19762
+],
   "geometry": {"coordinates":[-115.204559,36.19762],"type":"Point"}
 }

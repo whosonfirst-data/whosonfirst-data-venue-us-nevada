@@ -2,13 +2,14 @@
   "id": 235950161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050466,36.07639,-115.050466,36.07639",
     "geom:latitude":36.07639,
     "geom:longitude":-115.050466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 Flintrock Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235950161,
-    "wof:lastmodified":1449008389,
+    "wof:lastmodified":1466703519,
     "wof:name":"Active Web Hosting",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-115.050466,36.07639,-115.050466,36.07639],
+  "bbox": [
+    -115.050466,
+    36.07639,
+    -115.050466,
+    36.07639
+],
   "geometry": {"coordinates":[-115.050466,36.07639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354137709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199116,36.131015,-115.199116,36.131015",
     "geom:latitude":36.131015,
     "geom:longitude":-115.199116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Moon Doggies Bar 3240 S Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":354137709,
-    "wof:lastmodified":1449067428,
+    "wof:lastmodified":1466704339,
     "wof:name":"Naked City Pizza Shop",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "pizza"
     ]
 },
-  "bbox": [-115.199116,36.131015,-115.199116,36.131015],
+  "bbox": [
+    -115.199116,
+    36.131015,
+    -115.199116,
+    36.131015
+],
   "geometry": {"coordinates":[-115.199116,36.131015],"type":"Point"}
 }

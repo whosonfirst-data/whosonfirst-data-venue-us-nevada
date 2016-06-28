@@ -2,13 +2,14 @@
   "id": 236642379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074406,36.16461,-115.074406,36.16461",
     "geom:latitude":36.16461,
     "geom:longitude":-115.074406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Romero Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236642379,
-    "wof:lastmodified":1449001823,
+    "wof:lastmodified":1466706287,
     "wof:name":"Gabriel's Auto Repair",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.074406,36.16461,-115.074406,36.16461],
+  "bbox": [
+    -115.074406,
+    36.16461,
+    -115.074406,
+    36.16461
+],
   "geometry": {"coordinates":[-115.074406,36.16461],"type":"Point"}
 }

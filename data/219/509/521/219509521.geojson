@@ -2,13 +2,14 @@
   "id": 219509521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.740236,39.537785,-119.740236,39.537785",
     "geom:latitude":39.537785,
     "geom:longitude":-119.740236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Spring Villas Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219509521,
-    "wof:lastmodified":1449070519,
+    "wof:lastmodified":1466701467,
     "wof:name":"Spring Villas Apartments",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.740236,39.537785,-119.740236,39.537785],
+  "bbox": [
+    -119.740236,
+    39.537785,
+    -119.740236,
+    39.537785
+],
   "geometry": {"coordinates":[-119.740236,39.537785],"type":"Point"}
 }

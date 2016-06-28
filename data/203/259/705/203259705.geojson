@@ -2,13 +2,14 @@
   "id": 203259705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771593,39.298308,-119.771593,39.298308",
     "geom:latitude":39.298308,
     "geom:longitude":-119.771593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 Chipmunk Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203259705,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466702581,
     "wof:name":"High Noon Arabians",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.771593,39.298308,-119.771593,39.298308],
+  "bbox": [
+    -119.771593,
+    39.298308,
+    -119.771593,
+    39.298308
+],
   "geometry": {"coordinates":[-119.771593,39.298308],"type":"Point"}
 }

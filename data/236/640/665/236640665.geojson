@@ -2,13 +2,14 @@
   "id": 236640665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787196,38.96249,-119.787196,38.96249",
     "geom:latitude":38.96249,
     "geom:longitude":-119.787196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Cedarwood Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236640665,
-    "wof:lastmodified":1449003020,
+    "wof:lastmodified":1466706493,
     "wof:name":"Schmid Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "human"
     ]
 },
-  "bbox": [-119.787196,38.96249,-119.787196,38.96249],
-  "geometry": {"coordinates":[-119.787196,38.96249],"type":"Point"}
+  "bbox": [
+    -119.787196,
+    38.96249,
+    -119.787196,
+    38.96249
+],
+  "geometry": {"coordinates":[-119.78719599999999,38.96249],"type":"Point"}
 }

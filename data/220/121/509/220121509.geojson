@@ -2,13 +2,14 @@
   "id": 220121509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.709573,39.586979,-119.709573,39.586979",
     "geom:latitude":39.586979,
     "geom:longitude":-119.709573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1646 Spring View Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220121509,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466702542,
     "wof:name":"Fred Sharkey",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.709573,39.586979,-119.709573,39.586979],
-  "geometry": {"coordinates":[-119.709573,39.586979],"type":"Point"}
+  "bbox": [
+    -119.709573,
+    39.586979,
+    -119.709573,
+    39.586979
+],
+  "geometry": {"coordinates":[-119.70957300000001,39.586979],"type":"Point"}
 }

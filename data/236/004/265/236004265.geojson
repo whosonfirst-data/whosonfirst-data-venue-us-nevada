@@ -2,13 +2,14 @@
   "id": 236004265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.237363,36.19049,-115.237363,36.19049",
     "geom:latitude":36.19049,
     "geom:longitude":-115.237363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Starbuck Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236004265,
-    "wof:lastmodified":1449002730,
+    "wof:lastmodified":1466703779,
     "wof:name":"Senior Home Care Starbuck 1",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-115.237363,36.19049,-115.237363,36.19049],
+  "bbox": [
+    -115.237363,
+    36.19049,
+    -115.237363,
+    36.19049
+],
   "geometry": {"coordinates":[-115.237363,36.19049],"type":"Point"}
 }

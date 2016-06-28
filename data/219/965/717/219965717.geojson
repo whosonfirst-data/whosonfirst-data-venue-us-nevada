@@ -2,13 +2,14 @@
   "id": 219965717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225352,36.143386,-115.225352,36.143386",
     "geom:latitude":36.143386,
     "geom:longitude":-115.225352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219965717,
-    "wof:lastmodified":1449072854,
+    "wof:lastmodified":1466706039,
     "wof:name":"Ramsay's Pet Salon",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.225352,36.143386,-115.225352,36.143386],
+  "bbox": [
+    -115.225352,
+    36.143386,
+    -115.225352,
+    36.143386
+],
   "geometry": {"coordinates":[-115.225352,36.143386],"type":"Point"}
 }

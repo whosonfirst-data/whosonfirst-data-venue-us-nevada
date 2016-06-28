@@ -2,13 +2,14 @@
   "id": 219931203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118164,36.107381,-115.118164,36.107381",
     "geom:latitude":36.107381,
     "geom:longitude":-115.118164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2430 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219931203,
-    "wof:lastmodified":1449073602,
+    "wof:lastmodified":1466705812,
     "wof:name":"Implant & Peridontal Ctr Of Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.118164,36.107381,-115.118164,36.107381],
-  "geometry": {"coordinates":[-115.118164,36.107381],"type":"Point"}
+  "bbox": [
+    -115.118164,
+    36.107381,
+    -115.118164,
+    36.107381
+],
+  "geometry": {"coordinates":[-115.11816399999999,36.107381],"type":"Point"}
 }

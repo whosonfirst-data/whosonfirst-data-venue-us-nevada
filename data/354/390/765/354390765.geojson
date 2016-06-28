@@ -2,13 +2,14 @@
   "id": 354390765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072153,36.115023,-115.072153,36.115023",
     "geom:latitude":36.115023,
     "geom:longitude":-115.072153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4675 E Flamingo Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354390765,
-    "wof:lastmodified":1449067676,
+    "wof:lastmodified":1466706227,
     "wof:name":"Taylor William J DVM",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-115.072153,36.115023,-115.072153,36.115023],
+  "bbox": [
+    -115.072153,
+    36.115023,
+    -115.072153,
+    36.115023
+],
   "geometry": {"coordinates":[-115.072153,36.115023],"type":"Point"}
 }

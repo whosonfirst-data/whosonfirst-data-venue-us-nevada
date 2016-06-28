@@ -2,13 +2,14 @@
   "id": 354091225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086979,36.08115,-115.086979,36.08115",
     "geom:latitude":36.08115,
     "geom:longitude":-115.086979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5951 Annie Oakley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354091225,
-    "wof:lastmodified":1449066098,
+    "wof:lastmodified":1466703898,
     "wof:name":"Telcel Com",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.086979,36.08115,-115.086979,36.08115],
+  "bbox": [
+    -115.086979,
+    36.08115,
+    -115.086979,
+    36.08115
+],
   "geometry": {"coordinates":[-115.086979,36.08115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219796771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151195,36.163984,-115.151195,36.163984",
     "geom:latitude":36.163984,
     "geom:longitude":-115.151195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219796771,
-    "wof:lastmodified":1449072061,
+    "wof:lastmodified":1466705080,
     "wof:name":"J & M The Maintenance Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.151195,36.163984,-115.151195,36.163984],
+  "bbox": [
+    -115.151195,
+    36.163984,
+    -115.151195,
+    36.163984
+],
   "geometry": {"coordinates":[-115.151195,36.163984],"type":"Point"}
 }

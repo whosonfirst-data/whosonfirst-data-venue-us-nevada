@@ -2,13 +2,14 @@
   "id": 370313843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808312,39.519017,-119.808312,39.519017",
     "geom:latitude":39.519017,
     "geom:longitude":-119.808312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 S Center St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370313843,
-    "wof:lastmodified":1449029163,
+    "wof:lastmodified":1466704678,
     "wof:name":"Property Link",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "broker"
     ]
 },
-  "bbox": [-119.808312,39.519017,-119.808312,39.519017],
+  "bbox": [
+    -119.808312,
+    39.519017,
+    -119.808312,
+    39.519017
+],
   "geometry": {"coordinates":[-119.808312,39.519017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236479713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12152,35.98803,-115.12152,35.98803",
     "geom:latitude":35.98803,
     "geom:longitude":-115.12152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Evening Ridge St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236479713,
-    "wof:lastmodified":1449004000,
+    "wof:lastmodified":1466705849,
     "wof:name":"Azuro",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-115.12152,35.98803,-115.12152,35.98803],
+  "bbox": [
+    -115.12152,
+    35.98803,
+    -115.12152,
+    35.98803
+],
   "geometry": {"coordinates":[-115.12152,35.98803],"type":"Point"}
 }

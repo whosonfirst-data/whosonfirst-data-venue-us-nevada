@@ -2,13 +2,14 @@
   "id": 354227099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243236,36.18655,-115.243236,36.18655",
     "geom:latitude":36.18655,
     "geom:longitude":-115.243236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354227099,
-    "wof:lastmodified":1449066286,
+    "wof:lastmodified":1466705193,
     "wof:name":"Extra Space Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-115.243236,36.18655,-115.243236,36.18655],
+  "bbox": [
+    -115.243236,
+    36.18655,
+    -115.243236,
+    36.18655
+],
   "geometry": {"coordinates":[-115.243236,36.18655],"type":"Point"}
 }

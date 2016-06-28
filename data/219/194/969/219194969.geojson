@@ -2,13 +2,14 @@
   "id": 219194969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820421,39.538187,-119.820421,39.538187",
     "geom:latitude":39.538187,
     "geom:longitude":-119.820421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W 11th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219194969,
-    "wof:lastmodified":1449073405,
+    "wof:lastmodified":1466702038,
     "wof:name":"Hendershaw Lusynda",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.820421,39.538187,-119.820421,39.538187],
+  "bbox": [
+    -119.820421,
+    39.538187,
+    -119.820421,
+    39.538187
+],
   "geometry": {"coordinates":[-119.820421,39.538187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354233771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171093,36.128834,-115.171093,36.128834",
     "geom:latitude":36.128834,
     "geom:longitude":-115.171093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Trump International Hotel & Tower 2000 Fashion Show Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354233771,
-    "wof:lastmodified":1449067685,
+    "wof:lastmodified":1466705127,
     "wof:name":"DJT",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-115.171093,36.128834,-115.171093,36.128834],
+  "bbox": [
+    -115.171093,
+    36.128834,
+    -115.171093,
+    36.128834
+],
   "geometry": {"coordinates":[-115.171093,36.128834],"type":"Point"}
 }

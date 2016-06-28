@@ -2,13 +2,14 @@
   "id": 236907537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.841816,39.002523,-119.841816,39.002523",
     "geom:latitude":39.002523,
     "geom:longitude":-119.841816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Genoa Ln",
     "sg:city":"Genoa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236907537,
-    "wof:lastmodified":1449004948,
+    "wof:lastmodified":1466706830,
     "wof:name":"Genoa Lakes Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.841816,39.002523,-119.841816,39.002523],
-  "geometry": {"coordinates":[-119.841816,39.002523],"type":"Point"}
+  "bbox": [
+    -119.841816,
+    39.002523,
+    -119.841816,
+    39.002523
+],
+  "geometry": {"coordinates":[-119.84181599999999,39.002523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219774995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.949108,39.248077,-119.949108,39.248077",
     "geom:latitude":39.248077,
     "geom:longitude":-119.949108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Incline Way",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219774995,
-    "wof:lastmodified":1449071759,
+    "wof:lastmodified":1466704931,
     "wof:name":"Music Giants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "internet"
     ]
 },
-  "bbox": [-119.949108,39.248077,-119.949108,39.248077],
+  "bbox": [
+    -119.949108,
+    39.248077,
+    -119.949108,
+    39.248077
+],
   "geometry": {"coordinates":[-119.949108,39.248077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219847755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801926,39.50578,-119.801926,39.50578",
     "geom:latitude":39.50578,
     "geom:longitude":-119.801926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219847755,
-    "wof:lastmodified":1449071675,
+    "wof:lastmodified":1466705340,
     "wof:name":"Reno Shoe Repair",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor"
     ]
 },
-  "bbox": [-119.801926,39.50578,-119.801926,39.50578],
-  "geometry": {"coordinates":[-119.801926,39.50578],"type":"Point"}
+  "bbox": [
+    -119.801926,
+    39.50578,
+    -119.801926,
+    39.50578
+],
+  "geometry": {"coordinates":[-119.80192599999999,39.50578],"type":"Point"}
 }

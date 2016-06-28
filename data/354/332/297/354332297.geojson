@@ -2,13 +2,14 @@
   "id": 354332297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2099,36.093511,-115.2099,36.093511",
     "geom:latitude":36.093511,
     "geom:longitude":-115.2099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5060 W Hacienda Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354332297,
-    "wof:lastmodified":1449066898,
+    "wof:lastmodified":1466706055,
     "wof:name":"Conejo Villas",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.2099,36.093511,-115.2099,36.093511],
+  "bbox": [
+    -115.2099,
+    36.093511,
+    -115.2099,
+    36.093511
+],
   "geometry": {"coordinates":[-115.2099,36.093511],"type":"Point"}
 }

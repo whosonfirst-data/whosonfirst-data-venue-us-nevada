@@ -2,13 +2,14 @@
   "id": 235952107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.710586,39.513481,-119.710586,39.513481",
     "geom:latitude":39.513481,
     "geom:longitude":-119.710586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 Clean Water Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235952107,
-    "wof:lastmodified":1449008495,
+    "wof:lastmodified":1466703529,
     "wof:name":"Truckee Meadows Water Rclmtn",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-119.710586,39.513481,-119.710586,39.513481],
-  "geometry": {"coordinates":[-119.710586,39.513481],"type":"Point"}
+  "bbox": [
+    -119.710586,
+    39.513481,
+    -119.710586,
+    39.513481
+],
+  "geometry": {"coordinates":[-119.71058600000001,39.513481],"type":"Point"}
 }

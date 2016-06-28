@@ -2,13 +2,14 @@
   "id": 219557193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136794,36.140961,-115.136794,36.140961",
     "geom:latitude":36.140961,
     "geom:longitude":-115.136794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219557193,
-    "wof:lastmodified":1449072918,
+    "wof:lastmodified":1466702352,
     "wof:name":"FIRST NATIONAL BANK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.136794,36.140961,-115.136794,36.140961],
-  "geometry": {"coordinates":[-115.136794,36.140961],"type":"Point"}
+  "bbox": [
+    -115.136794,
+    36.140961,
+    -115.136794,
+    36.140961
+],
+  "geometry": {"coordinates":[-115.13679399999999,36.140961],"type":"Point"}
 }

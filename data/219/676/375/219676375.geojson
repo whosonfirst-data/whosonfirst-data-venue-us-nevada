@@ -2,13 +2,14 @@
   "id": 219676375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.697536,39.542429,-119.697536,39.542429",
     "geom:latitude":39.542429,
     "geom:longitude":-119.697536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2385 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219676375,
-    "wof:lastmodified":1449072644,
+    "wof:lastmodified":1466704293,
     "wof:name":"Pain Management Practice",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.697536,39.542429,-119.697536,39.542429],
+  "bbox": [
+    -119.697536,
+    39.542429,
+    -119.697536,
+    39.542429
+],
   "geometry": {"coordinates":[-119.697536,39.542429],"type":"Point"}
 }

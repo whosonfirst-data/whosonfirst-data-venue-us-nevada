@@ -2,13 +2,14 @@
   "id": 203176435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808384,39.53362,-119.808384,39.53362",
     "geom:latitude":39.53362,
     "geom:longitude":-119.808384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 E 6th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203176435,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466701788,
     "wof:name":"R & S Distributors",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.808384,39.53362,-119.808384,39.53362],
+  "bbox": [
+    -119.808384,
+    39.53362,
+    -119.808384,
+    39.53362
+],
   "geometry": {"coordinates":[-119.808384,39.53362],"type":"Point"}
 }

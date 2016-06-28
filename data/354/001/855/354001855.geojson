@@ -2,13 +2,14 @@
   "id": 354001855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.070372,36.070052,-115.070372,36.070052",
     "geom:latitude":36.070052,
     "geom:longitude":-115.070372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2061 W Sunset Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354001855,
-    "wof:lastmodified":1449066314,
+    "wof:lastmodified":1466701494,
     "wof:name":"Viva Michoacan",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mexican"
     ]
 },
-  "bbox": [-115.070372,36.070052,-115.070372,36.070052],
-  "geometry": {"coordinates":[-115.070372,36.070052],"type":"Point"}
+  "bbox": [
+    -115.070372,
+    36.070052,
+    -115.070372,
+    36.070052
+],
+  "geometry": {"coordinates":[-115.07037200000001,36.070052],"type":"Point"}
 }

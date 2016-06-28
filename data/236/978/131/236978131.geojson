@@ -2,13 +2,14 @@
   "id": 236978131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239244,36.102934,-115.239244,36.102934",
     "geom:latitude":36.102934,
     "geom:longitude":-115.239244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6709 Wayburn Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236978131,
-    "wof:lastmodified":1449003572,
+    "wof:lastmodified":1466706897,
     "wof:name":"St Patricks Group Home",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.239244,36.102934,-115.239244,36.102934],
+  "bbox": [
+    -115.239244,
+    36.102934,
+    -115.239244,
+    36.102934
+],
   "geometry": {"coordinates":[-115.239244,36.102934],"type":"Point"}
 }

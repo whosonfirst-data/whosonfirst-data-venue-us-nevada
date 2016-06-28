@@ -2,13 +2,14 @@
   "id": 220101875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140925,36.174909,-115.140925,36.174909",
     "geom:latitude":36.174909,
     "geom:longitude":-115.140925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N 4th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220101875,
-    "wof:lastmodified":1449074466,
+    "wof:lastmodified":1466702384,
     "wof:name":"Las Vegas Public Works Dept",
     "wof:parent_id":85892657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-115.140925,36.174909,-115.140925,36.174909],
+  "bbox": [
+    -115.140925,
+    36.174909,
+    -115.140925,
+    36.174909
+],
   "geometry": {"coordinates":[-115.140925,36.174909],"type":"Point"}
 }

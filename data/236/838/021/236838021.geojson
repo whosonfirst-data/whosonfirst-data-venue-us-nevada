@@ -2,13 +2,14 @@
   "id": 236838021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116653,36.074374,-115.116653,36.074374",
     "geom:latitude":36.074374,
     "geom:longitude":-115.116653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Chandler Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236838021,
-    "wof:lastmodified":1449001977,
+    "wof:lastmodified":1466706814,
     "wof:name":"Dmv Today",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.116653,36.074374,-115.116653,36.074374],
+  "bbox": [
+    -115.116653,
+    36.074374,
+    -115.116653,
+    36.074374
+],
   "geometry": {"coordinates":[-115.116653,36.074374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203153377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827662,39.562962,-119.827662,39.562962",
     "geom:latitude":39.562962,
     "geom:longitude":-119.827662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3970 Covington Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203153377,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466701524,
     "wof:name":"Talus Point Apartments",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.827662,39.562962,-119.827662,39.562962],
+  "bbox": [
+    -119.827662,
+    39.562962,
+    -119.827662,
+    39.562962
+],
   "geometry": {"coordinates":[-119.827662,39.562962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236743649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817112,39.424554,-119.817112,39.424554",
     "geom:latitude":39.424554,
     "geom:longitude":-119.817112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Spirit Ridge Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236743649,
-    "wof:lastmodified":1449005226,
+    "wof:lastmodified":1466706557,
     "wof:name":"Hain Enterprises",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.817112,39.424554,-119.817112,39.424554],
-  "geometry": {"coordinates":[-119.817112,39.424554],"type":"Point"}
+  "bbox": [
+    -119.817112,
+    39.424554,
+    -119.817112,
+    39.424554
+],
+  "geometry": {"coordinates":[-119.81711199999999,39.424554],"type":"Point"}
 }

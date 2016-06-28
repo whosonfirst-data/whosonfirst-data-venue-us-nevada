@@ -2,13 +2,14 @@
   "id": 236497097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.887681,40.561055,-116.887681,40.561055",
     "geom:latitude":40.561055,
     "geom:longitude":-116.887681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Presidential Blvd",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236497097,
-    "wof:lastmodified":1449005194,
+    "wof:lastmodified":1466705773,
     "wof:name":"Big Bopper Karaoke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-116.887681,40.561055,-116.887681,40.561055],
+  "bbox": [
+    -116.887681,
+    40.561055,
+    -116.887681,
+    40.561055
+],
   "geometry": {"coordinates":[-116.887681,40.561055],"type":"Point"}
 }

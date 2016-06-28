@@ -2,13 +2,14 @@
   "id": 220163225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.836377,35.979268,-114.836377,35.979268",
     "geom:latitude":35.979268,
     "geom:longitude":-114.836377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220163225,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466702831,
     "wof:name":"Carlyle Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.836377,35.979268,-114.836377,35.979268],
+  "bbox": [
+    -114.836377,
+    35.979268,
+    -114.836377,
+    35.979268
+],
   "geometry": {"coordinates":[-114.836377,35.979268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236033835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.810308,40.827945,-115.810308,40.827945",
     "geom:latitude":40.827945,
     "geom:longitude":-115.810308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Hondo Ln",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236033835,
-    "wof:lastmodified":1449002184,
+    "wof:lastmodified":1466703928,
     "wof:name":"Rein Munster Trust",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-115.810308,40.827945,-115.810308,40.827945],
-  "geometry": {"coordinates":[-115.810308,40.827945],"type":"Point"}
+  "bbox": [
+    -115.810308,
+    40.827945,
+    -115.810308,
+    40.827945
+],
+  "geometry": {"coordinates":[-115.81030800000001,40.827945],"type":"Point"}
 }

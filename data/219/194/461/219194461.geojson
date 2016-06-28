@@ -2,13 +2,14 @@
   "id": 219194461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81523,39.521204,-119.81523,39.521204",
     "geom:latitude":39.521204,
     "geom:longitude":-119.81523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Flint St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219194461,
-    "wof:lastmodified":1449073404,
+    "wof:lastmodified":1466702027,
     "wof:name":"Ferguson Roberta C PHD",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-119.81523,39.521204,-119.81523,39.521204],
+  "bbox": [
+    -119.81523,
+    39.521204,
+    -119.81523,
+    39.521204
+],
   "geometry": {"coordinates":[-119.81523,39.521204],"type":"Point"}
 }

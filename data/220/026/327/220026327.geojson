@@ -2,13 +2,14 @@
   "id": 220026327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080537,36.171289,-115.080537,36.171289",
     "geom:latitude":36.171289,
     "geom:longitude":-115.080537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220026327,
-    "wof:lastmodified":1449074516,
+    "wof:lastmodified":1466701761,
     "wof:name":"Vera Johnson Manor Complex B",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-115.080537,36.171289,-115.080537,36.171289],
-  "geometry": {"coordinates":[-115.080537,36.171289],"type":"Point"}
+  "bbox": [
+    -115.080537,
+    36.171289,
+    -115.080537,
+    36.171289
+],
+  "geometry": {"coordinates":[-115.08053700000001,36.171289],"type":"Point"}
 }

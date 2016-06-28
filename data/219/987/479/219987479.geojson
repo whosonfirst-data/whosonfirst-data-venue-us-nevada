@@ -2,13 +2,14 @@
   "id": 219987479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14507,36.162646,-115.14507,36.162646",
     "geom:latitude":36.162646,
     "geom:longitude":-115.14507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219987479,
-    "wof:lastmodified":1449072351,
+    "wof:lastmodified":1466706130,
     "wof:name":"Bolato",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.14507,36.162646,-115.14507,36.162646],
+  "bbox": [
+    -115.14507,
+    36.162646,
+    -115.14507,
+    36.162646
+],
   "geometry": {"coordinates":[-115.14507,36.162646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220152929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253322,36.190119,-115.253322,36.190119",
     "geom:latitude":36.190119,
     "geom:longitude":-115.253322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Palmales Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220152929,
-    "wof:lastmodified":1449074653,
+    "wof:lastmodified":1466702791,
     "wof:name":"Ltas Holdings LLC",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.253322,36.190119,-115.253322,36.190119],
+  "bbox": [
+    -115.253322,
+    36.190119,
+    -115.253322,
+    36.190119
+],
   "geometry": {"coordinates":[-115.253322,36.190119],"type":"Point"}
 }

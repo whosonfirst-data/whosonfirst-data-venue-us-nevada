@@ -2,13 +2,14 @@
   "id": 219654725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075722,35.964105,-115.075722,35.964105",
     "geom:latitude":35.964105,
     "geom:longitude":-115.075722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Mountain Cove Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219654725,
-    "wof:lastmodified":1449071581,
+    "wof:lastmodified":1466703900,
     "wof:name":"Sun West Custom Homes",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-115.075722,35.964105,-115.075722,35.964105],
+  "bbox": [
+    -115.075722,
+    35.964105,
+    -115.075722,
+    35.964105
+],
   "geometry": {"coordinates":[-115.075722,35.964105],"type":"Point"}
 }

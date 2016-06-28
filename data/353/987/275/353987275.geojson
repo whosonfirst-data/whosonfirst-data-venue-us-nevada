@@ -2,13 +2,14 @@
   "id": 353987275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.999111,36.055518,-114.999111,36.055518",
     "geom:latitude":36.055518,
     "geom:longitude":-114.999111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 N Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353987275,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1466701509,
     "wof:name":"American Shooters",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gun/rifle"
     ]
 },
-  "bbox": [-114.999111,36.055518,-114.999111,36.055518],
+  "bbox": [
+    -114.999111,
+    36.055518,
+    -114.999111,
+    36.055518
+],
   "geometry": {"coordinates":[-114.999111,36.055518],"type":"Point"}
 }

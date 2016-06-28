@@ -2,13 +2,14 @@
   "id": 354363907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172468,36.078032,-115.172468,36.078032",
     "geom:latitude":36.078032,
     "geom:longitude":-115.172468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354363907,
-    "wof:lastmodified":1449067466,
+    "wof:lastmodified":1466706080,
     "wof:name":"Maverick Grand Canyon Weddings",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [-115.172468,36.078032,-115.172468,36.078032],
-  "geometry": {"coordinates":[-115.172468,36.078032],"type":"Point"}
+  "bbox": [
+    -115.172468,
+    36.078032,
+    -115.172468,
+    36.078032
+],
+  "geometry": {"coordinates":[-115.17246799999999,36.078032],"type":"Point"}
 }

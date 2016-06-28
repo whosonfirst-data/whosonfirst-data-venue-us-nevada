@@ -2,13 +2,14 @@
   "id": 219967077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307578,36.142212,-115.307578,36.142212",
     "geom:latitude":36.142212,
     "geom:longitude":-115.307578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2728 Beachside Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219967077,
-    "wof:lastmodified":1449073643,
+    "wof:lastmodified":1466706031,
     "wof:name":"C & F Quality Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.307578,36.142212,-115.307578,36.142212],
-  "geometry": {"coordinates":[-115.307578,36.142212],"type":"Point"}
+  "bbox": [
+    -115.307578,
+    36.142212,
+    -115.307578,
+    36.142212
+],
+  "geometry": {"coordinates":[-115.30757800000001,36.142212],"type":"Point"}
 }

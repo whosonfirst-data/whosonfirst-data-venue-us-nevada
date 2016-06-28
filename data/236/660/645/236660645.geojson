@@ -2,13 +2,14 @@
   "id": 236660645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.961315,39.247669,-119.961315,39.247669",
     "geom:latitude":39.247669,
     "geom:longitude":-119.961315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"797 Southwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236660645,
-    "wof:lastmodified":1449004833,
+    "wof:lastmodified":1466706405,
     "wof:name":"Incline At Tahoe Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-119.961315,39.247669,-119.961315,39.247669],
+  "bbox": [
+    -119.961315,
+    39.247669,
+    -119.961315,
+    39.247669
+],
   "geometry": {"coordinates":[-119.961315,39.247669],"type":"Point"}
 }

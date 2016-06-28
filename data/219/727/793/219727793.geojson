@@ -2,13 +2,14 @@
   "id": 219727793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.219983,36.236006,-115.219983,36.236006",
     "geom:latitude":36.236006,
     "geom:longitude":-115.219983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5647 Hickam Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219727793,
-    "wof:lastmodified":1449070922,
+    "wof:lastmodified":1466704616,
     "wof:name":"Jaehn Construction West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.219983,36.236006,-115.219983,36.236006],
+  "bbox": [
+    -115.219983,
+    36.236006,
+    -115.219983,
+    36.236006
+],
   "geometry": {"coordinates":[-115.219983,36.236006],"type":"Point"}
 }

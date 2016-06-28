@@ -2,13 +2,14 @@
   "id": 236932709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.010369,36.066621,-115.010369,36.066621",
     "geom:latitude":36.066621,
     "geom:longitude":-115.010369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 E Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236932709,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466706920,
     "wof:name":"Boat Barn Inc",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-115.010369,36.066621,-115.010369,36.066621],
+  "bbox": [
+    -115.010369,
+    36.066621,
+    -115.010369,
+    36.066621
+],
   "geometry": {"coordinates":[-115.010369,36.066621],"type":"Point"}
 }

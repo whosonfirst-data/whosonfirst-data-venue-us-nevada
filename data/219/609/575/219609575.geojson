@@ -2,13 +2,14 @@
   "id": 219609575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820844,39.525573,-119.820844,39.525573",
     "geom:latitude":39.525573,
     "geom:longitude":-119.820844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219609575,
-    "wof:lastmodified":1449071699,
+    "wof:lastmodified":1466703085,
     "wof:name":"Krause Vonn",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.820844,39.525573,-119.820844,39.525573],
-  "geometry": {"coordinates":[-119.820844,39.525573],"type":"Point"}
+  "bbox": [
+    -119.820844,
+    39.525573,
+    -119.820844,
+    39.525573
+],
+  "geometry": {"coordinates":[-119.82084399999999,39.525573],"type":"Point"}
 }

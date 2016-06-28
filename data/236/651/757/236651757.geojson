@@ -2,13 +2,14 @@
   "id": 236651757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281595,36.314395,-115.281595,36.314395",
     "geom:latitude":36.314395,
     "geom:longitude":-115.281595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8416 Mystic Night Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236651757,
-    "wof:lastmodified":1449002168,
+    "wof:lastmodified":1466706394,
     "wof:name":"USI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "unmanned"
     ]
 },
-  "bbox": [-115.281595,36.314395,-115.281595,36.314395],
+  "bbox": [
+    -115.281595,
+    36.314395,
+    -115.281595,
+    36.314395
+],
   "geometry": {"coordinates":[-115.281595,36.314395],"type":"Point"}
 }

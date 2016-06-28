@@ -2,13 +2,14 @@
   "id": 236327743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.330729,36.167092,-115.330729,36.167092",
     "geom:latitude":36.167092,
     "geom:longitude":-115.330729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Baysville Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236327743,
-    "wof:lastmodified":1449001864,
+    "wof:lastmodified":1466704770,
     "wof:name":"C& R Investments",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.330729,36.167092,-115.330729,36.167092],
-  "geometry": {"coordinates":[-115.330729,36.167092],"type":"Point"}
+  "bbox": [
+    -115.330729,
+    36.167092,
+    -115.330729,
+    36.167092
+],
+  "geometry": {"coordinates":[-115.33072900000001,36.167092],"type":"Point"}
 }

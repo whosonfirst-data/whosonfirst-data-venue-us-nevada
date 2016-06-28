@@ -2,13 +2,14 @@
   "id": 236326189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270414,36.15557,-115.270414,36.15557",
     "geom:latitude":36.15557,
     "geom:longitude":-115.270414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Kingdom St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236326189,
-    "wof:lastmodified":1449002989,
+    "wof:lastmodified":1466704873,
     "wof:name":"Mountain West Aviation Inc",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.270414,36.15557,-115.270414,36.15557],
+  "bbox": [
+    -115.270414,
+    36.15557,
+    -115.270414,
+    36.15557
+],
   "geometry": {"coordinates":[-115.270414,36.15557],"type":"Point"}
 }

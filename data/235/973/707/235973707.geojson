@@ -2,13 +2,14 @@
   "id": 235973707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.939748,39.251852,-119.939748,39.251852",
     "geom:latitude":39.251852,
     "geom:longitude":-119.939748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Wedge Ct",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235973707,
-    "wof:lastmodified":1449008459,
+    "wof:lastmodified":1466703630,
     "wof:name":"Tower Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.939748,39.251852,-119.939748,39.251852],
-  "geometry": {"coordinates":[-119.939748,39.251852],"type":"Point"}
+  "bbox": [
+    -119.939748,
+    39.251852,
+    -119.939748,
+    39.251852
+],
+  "geometry": {"coordinates":[-119.93974799999999,39.251852],"type":"Point"}
 }

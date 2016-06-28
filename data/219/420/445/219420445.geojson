@@ -2,13 +2,14 @@
   "id": 219420445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262968,36.215226,-115.262968,36.215226",
     "geom:latitude":36.215226,
     "geom:longitude":-115.262968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Windy Surf Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219420445,
-    "wof:lastmodified":1449072081,
+    "wof:lastmodified":1466703746,
     "wof:name":"Aguirre Produce Merchant",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-115.262968,36.215226,-115.262968,36.215226],
+  "bbox": [
+    -115.262968,
+    36.215226,
+    -115.262968,
+    36.215226
+],
   "geometry": {"coordinates":[-115.262968,36.215226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354281503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079985,36.188932,-115.079985,36.188932",
     "geom:latitude":36.188932,
     "geom:longitude":-115.079985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 N Lamb Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354281503,
-    "wof:lastmodified":1449067393,
+    "wof:lastmodified":1466705719,
     "wof:name":"Deluxe Sandwiches",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.079985,36.188932,-115.079985,36.188932],
-  "geometry": {"coordinates":[-115.079985,36.188932],"type":"Point"}
+  "bbox": [
+    -115.079985,
+    36.188932,
+    -115.079985,
+    36.188932
+],
+  "geometry": {"coordinates":[-115.07998499999999,36.188932],"type":"Point"}
 }

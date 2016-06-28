@@ -2,13 +2,14 @@
   "id": 219374791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102991,36.144594,-115.102991,36.144594",
     "geom:latitude":36.144594,
     "geom:longitude":-115.102991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 Glen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219374791,
-    "wof:lastmodified":1449071929,
+    "wof:lastmodified":1466703511,
     "wof:name":"A-Coin-Gold & Silver Report",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.102991,36.144594,-115.102991,36.144594],
+  "bbox": [
+    -115.102991,
+    36.144594,
+    -115.102991,
+    36.144594
+],
   "geometry": {"coordinates":[-115.102991,36.144594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236855239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.310525,36.273036,-115.310525,36.273036",
     "geom:latitude":36.273036,
     "geom:longitude":-115.310525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6135 Conquistador St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236855239,
-    "wof:lastmodified":1449004197,
+    "wof:lastmodified":1466706737,
     "wof:name":"Lone Mountain Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-115.310525,36.273036,-115.310525,36.273036],
+  "bbox": [
+    -115.310525,
+    36.273036,
+    -115.310525,
+    36.273036
+],
   "geometry": {"coordinates":[-115.310525,36.273036],"type":"Point"}
 }

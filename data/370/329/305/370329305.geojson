@@ -2,13 +2,14 @@
   "id": 370329305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.790934,39.466263,-119.790934,39.466263",
     "geom:latitude":39.466263,
     "geom:longitude":-119.790934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 Kietzke Ln Suite 209",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370329305,
-    "wof:lastmodified":1449030047,
+    "wof:lastmodified":1466704715,
     "wof:name":"Accountemps",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.790934,39.466263,-119.790934,39.466263],
-  "geometry": {"coordinates":[-119.790934,39.466263],"type":"Point"}
+  "bbox": [
+    -119.790934,
+    39.466263,
+    -119.790934,
+    39.466263
+],
+  "geometry": {"coordinates":[-119.79093399999999,39.466263],"type":"Point"}
 }

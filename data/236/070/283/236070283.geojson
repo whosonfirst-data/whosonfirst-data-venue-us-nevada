@@ -2,13 +2,14 @@
   "id": 236070283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722055,39.525373,-119.722055,39.525373",
     "geom:latitude":39.525373,
     "geom:longitude":-119.722055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Deming Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236070283,
-    "wof:lastmodified":1449003219,
+    "wof:lastmodified":1466704039,
     "wof:name":"Sierra Digital Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "map"
     ]
 },
-  "bbox": [-119.722055,39.525373,-119.722055,39.525373],
+  "bbox": [
+    -119.722055,
+    39.525373,
+    -119.722055,
+    39.525373
+],
   "geometry": {"coordinates":[-119.722055,39.525373],"type":"Point"}
 }

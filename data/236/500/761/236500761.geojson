@@ -2,13 +2,14 @@
   "id": 236500761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.87056,39.533565,-119.87056,39.533565",
     "geom:latitude":39.533565,
     "geom:longitude":-119.87056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 Mae Anne Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236500761,
-    "wof:lastmodified":1449002299,
+    "wof:lastmodified":1466705658,
     "wof:name":"Don Manoukian Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.87056,39.533565,-119.87056,39.533565],
+  "bbox": [
+    -119.87056,
+    39.533565,
+    -119.87056,
+    39.533565
+],
   "geometry": {"coordinates":[-119.87056,39.533565],"type":"Point"}
 }

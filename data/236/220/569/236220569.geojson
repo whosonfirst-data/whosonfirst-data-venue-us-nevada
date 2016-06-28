@@ -2,13 +2,14 @@
   "id": 236220569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770128,39.424223,-119.770128,39.424223",
     "geom:latitude":39.424223,
     "geom:longitude":-119.770128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13490 Mahogany Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236220569,
-    "wof:lastmodified":1449005106,
+    "wof:lastmodified":1466703986,
     "wof:name":"Alexander Heating & Air Cond",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.770128,39.424223,-119.770128,39.424223],
+  "bbox": [
+    -119.770128,
+    39.424223,
+    -119.770128,
+    39.424223
+],
   "geometry": {"coordinates":[-119.770128,39.424223],"type":"Point"}
 }

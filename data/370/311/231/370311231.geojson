@@ -2,13 +2,14 @@
   "id": 370311231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.70557,39.557432,-119.70557,39.557432",
     "geom:latitude":39.557432,
     "geom:longitude":-119.70557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2965 Vista Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":370311231,
-    "wof:lastmodified":1449029886,
+    "wof:lastmodified":1466704805,
     "wof:name":"D'Andrea Salon And Spa",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "make-up"
     ]
 },
-  "bbox": [-119.70557,39.557432,-119.70557,39.557432],
-  "geometry": {"coordinates":[-119.70557,39.557432],"type":"Point"}
+  "bbox": [
+    -119.70557,
+    39.557432,
+    -119.70557,
+    39.557432
+],
+  "geometry": {"coordinates":[-119.70556999999999,39.557432],"type":"Point"}
 }

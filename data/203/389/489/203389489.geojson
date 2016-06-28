@@ -2,13 +2,14 @@
   "id": 203389489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.514884,37.615148,-114.514884,37.615148",
     "geom:latitude":37.615148,
     "geom:longitude":-114.514884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Dixon St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203389489,
-    "wof:lastmodified":1449026441,
+    "wof:lastmodified":1466703293,
     "wof:name":"Truck Driver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-114.514884,37.615148,-114.514884,37.615148],
+  "bbox": [
+    -114.514884,
+    37.615148,
+    -114.514884,
+    37.615148
+],
   "geometry": {"coordinates":[-114.514884,37.615148],"type":"Point"}
 }

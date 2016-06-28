@@ -2,13 +2,14 @@
   "id": 219716179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21443,36.205623,-115.21443,36.205623",
     "geom:latitude":36.205623,
     "geom:longitude":-115.21443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5424 Comchec Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219716179,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466704559,
     "wof:name":"Briargate Investments LLC",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.21443,36.205623,-115.21443,36.205623],
-  "geometry": {"coordinates":[-115.21443,36.205623],"type":"Point"}
+  "bbox": [
+    -115.21443,
+    36.205623,
+    -115.21443,
+    36.205623
+],
+  "geometry": {"coordinates":[-115.21442999999999,36.205623],"type":"Point"}
 }

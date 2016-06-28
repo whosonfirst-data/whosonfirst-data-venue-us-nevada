@@ -2,13 +2,14 @@
   "id": 219950607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23475,36.165597,-115.23475,36.165597",
     "geom:latitude":36.165597,
     "geom:longitude":-115.23475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6457 Burgundy Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219950607,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466705889,
     "wof:name":"Susan Romersa Rubber Rela",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.23475,36.165597,-115.23475,36.165597],
-  "geometry": {"coordinates":[-115.23475,36.165597],"type":"Point"}
+  "bbox": [
+    -115.23475,
+    36.165597,
+    -115.23475,
+    36.165597
+],
+  "geometry": {"coordinates":[-115.23475000000001,36.165597],"type":"Point"}
 }

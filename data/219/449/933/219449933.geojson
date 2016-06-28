@@ -2,13 +2,14 @@
   "id": 219449933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774681,39.578423,-119.774681,39.578423",
     "geom:latitude":39.578423,
     "geom:longitude":-119.774681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Carnes Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219449933,
-    "wof:lastmodified":1449073649,
+    "wof:lastmodified":1466703882,
     "wof:name":"Joanne's Embroidery",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-119.774681,39.578423,-119.774681,39.578423],
+  "bbox": [
+    -119.774681,
+    39.578423,
+    -119.774681,
+    39.578423
+],
   "geometry": {"coordinates":[-119.774681,39.578423],"type":"Point"}
 }

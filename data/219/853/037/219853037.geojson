@@ -2,13 +2,14 @@
   "id": 219853037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.856365,40.87968,-117.856365,40.87968",
     "geom:latitude":40.87968,
     "geom:longitude":-117.856365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 Elk St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219853037,
-    "wof:lastmodified":1449071813,
+    "wof:lastmodified":1466705390,
     "wof:name":"Tom King Horseshoeing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-117.856365,40.87968,-117.856365,40.87968],
+  "bbox": [
+    -117.856365,
+    40.87968,
+    -117.856365,
+    40.87968
+],
   "geometry": {"coordinates":[-117.856365,40.87968],"type":"Point"}
 }

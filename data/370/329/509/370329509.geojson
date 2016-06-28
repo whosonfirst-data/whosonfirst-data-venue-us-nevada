@@ -2,13 +2,14 @@
   "id": 370329509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779213,39.456513,-119.779213,39.456513",
     "geom:latitude":39.456513,
     "geom:longitude":-119.779213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7689 S Virginia St Ste F",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370329509,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1466704845,
     "wof:name":"Campbell Roberta Business Service",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-119.779213,39.456513,-119.779213,39.456513],
+  "bbox": [
+    -119.779213,
+    39.456513,
+    -119.779213,
+    39.456513
+],
   "geometry": {"coordinates":[-119.779213,39.456513],"type":"Point"}
 }

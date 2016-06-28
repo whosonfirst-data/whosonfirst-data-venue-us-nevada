@@ -2,13 +2,14 @@
   "id": 219541961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168216,35.990162,-115.168216,35.990162",
     "geom:latitude":35.990162,
     "geom:longitude":-115.168216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Siddall Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219541961,
-    "wof:lastmodified":1449070781,
+    "wof:lastmodified":1466702085,
     "wof:name":"Amalgamated Plants & Flowers",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-115.168216,35.990162,-115.168216,35.990162],
+  "bbox": [
+    -115.168216,
+    35.990162,
+    -115.168216,
+    35.990162
+],
   "geometry": {"coordinates":[-115.168216,35.990162],"type":"Point"}
 }

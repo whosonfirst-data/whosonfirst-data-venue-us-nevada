@@ -2,13 +2,14 @@
   "id": 235960991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218911,36.143882,-115.218911,36.143882",
     "geom:latitude":36.143882,
     "geom:longitude":-115.218911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 Westwind Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235960991,
-    "wof:lastmodified":1449008492,
+    "wof:lastmodified":1466703588,
     "wof:name":"Mercury Mortgage Corp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.218911,36.143882,-115.218911,36.143882],
-  "geometry": {"coordinates":[-115.218911,36.143882],"type":"Point"}
+  "bbox": [
+    -115.218911,
+    36.143882,
+    -115.218911,
+    36.143882
+],
+  "geometry": {"coordinates":[-115.21891100000001,36.143882],"type":"Point"}
 }

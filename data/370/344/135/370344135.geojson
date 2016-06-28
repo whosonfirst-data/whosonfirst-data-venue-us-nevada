@@ -2,13 +2,14 @@
   "id": 370344135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758727,39.170371,-119.758727,39.170371",
     "geom:latitude":39.170371,
     "geom:longitude":-119.758727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 E William St Ste 200",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370344135,
-    "wof:lastmodified":1449029247,
+    "wof:lastmodified":1466704886,
     "wof:name":"Holland & Hart Llp",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.758727,39.170371,-119.758727,39.170371],
-  "geometry": {"coordinates":[-119.758727,39.170371],"type":"Point"}
+  "bbox": [
+    -119.758727,
+    39.170371,
+    -119.758727,
+    39.170371
+],
+  "geometry": {"coordinates":[-119.75872699999999,39.170371],"type":"Point"}
 }

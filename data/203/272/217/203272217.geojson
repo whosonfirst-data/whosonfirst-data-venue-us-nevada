@@ -2,13 +2,14 @@
   "id": 203272217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.273635,36.217643,-115.273635,36.217643",
     "geom:latitude":36.217643,
     "geom:longitude":-115.273635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3152 Capetown Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203272217,
-    "wof:lastmodified":1449026753,
+    "wof:lastmodified":1466702649,
     "wof:name":"Las Vegas High Speed Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-115.273635,36.217643,-115.273635,36.217643],
+  "bbox": [
+    -115.273635,
+    36.217643,
+    -115.273635,
+    36.217643
+],
   "geometry": {"coordinates":[-115.273635,36.217643],"type":"Point"}
 }

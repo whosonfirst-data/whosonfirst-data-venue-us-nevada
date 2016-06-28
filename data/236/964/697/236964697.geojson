@@ -2,13 +2,14 @@
   "id": 236964697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223951,36.171023,-115.223951,36.171023",
     "geom:latitude":36.171023,
     "geom:longitude":-115.223951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236964697,
-    "wof:lastmodified":1449004269,
+    "wof:lastmodified":1466706946,
     "wof:name":"Ozzie Kraft Enterprises Inc",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.223951,36.171023,-115.223951,36.171023],
+  "bbox": [
+    -115.223951,
+    36.171023,
+    -115.223951,
+    36.171023
+],
   "geometry": {"coordinates":[-115.223951,36.171023],"type":"Point"}
 }

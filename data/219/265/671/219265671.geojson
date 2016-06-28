@@ -2,13 +2,14 @@
   "id": 219265671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822867,39.763823,-119.822867,39.763823",
     "geom:latitude":39.763823,
     "geom:longitude":-119.822867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15720 Elkhorn Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219265671,
-    "wof:lastmodified":1449071602,
+    "wof:lastmodified":1466702692,
     "wof:name":"Truckee Meadows Cabinet Co",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.822867,39.763823,-119.822867,39.763823],
+  "bbox": [
+    -119.822867,
+    39.763823,
+    -119.822867,
+    39.763823
+],
   "geometry": {"coordinates":[-119.822867,39.763823],"type":"Point"}
 }

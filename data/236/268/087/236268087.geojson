@@ -2,13 +2,14 @@
   "id": 236268087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743677,39.191925,-119.743677,39.191925",
     "geom:latitude":39.191925,
     "geom:longitude":-119.743677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2188 Challenger Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236268087,
-    "wof:lastmodified":1449003541,
+    "wof:lastmodified":1466704476,
     "wof:name":"Sierra Stone Solid Surfc Pdts",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.743677,39.191925,-119.743677,39.191925],
-  "geometry": {"coordinates":[-119.743677,39.191925],"type":"Point"}
+  "bbox": [
+    -119.743677,
+    39.191925,
+    -119.743677,
+    39.191925
+],
+  "geometry": {"coordinates":[-119.74367700000001,39.191925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219830077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080677,36.074655,-115.080677,36.074655",
     "geom:latitude":36.074655,
     "geom:longitude":-115.080677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Ramrod Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219830077,
-    "wof:lastmodified":1449071145,
+    "wof:lastmodified":1466705221,
     "wof:name":"ESC Assoc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.080677,36.074655,-115.080677,36.074655],
-  "geometry": {"coordinates":[-115.080677,36.074655],"type":"Point"}
+  "bbox": [
+    -115.080677,
+    36.074655,
+    -115.080677,
+    36.074655
+],
+  "geometry": {"coordinates":[-115.08067699999999,36.074655],"type":"Point"}
 }

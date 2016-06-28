@@ -2,13 +2,14 @@
   "id": 354289515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264319,36.143503,-115.264319,36.143503",
     "geom:latitude":36.143503,
     "geom:longitude":-115.264319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7955 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354289515,
-    "wof:lastmodified":1449067369,
+    "wof:lastmodified":1466705655,
     "wof:name":"Complex Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.264319,36.143503,-115.264319,36.143503],
+  "bbox": [
+    -115.264319,
+    36.143503,
+    -115.264319,
+    36.143503
+],
   "geometry": {"coordinates":[-115.264319,36.143503],"type":"Point"}
 }

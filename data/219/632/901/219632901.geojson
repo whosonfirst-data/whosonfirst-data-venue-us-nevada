@@ -2,13 +2,14 @@
   "id": 219632901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.014126,36.028199,-115.014126,36.028199",
     "geom:latitude":36.028199,
     "geom:longitude":-115.014126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Cam Francisco",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219632901,
-    "wof:lastmodified":1449072635,
+    "wof:lastmodified":1466703511,
     "wof:name":"A T R Home Service",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.014126,36.028199,-115.014126,36.028199],
+  "bbox": [
+    -115.014126,
+    36.028199,
+    -115.014126,
+    36.028199
+],
   "geometry": {"coordinates":[-115.014126,36.028199],"type":"Point"}
 }

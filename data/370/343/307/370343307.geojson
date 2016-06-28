@@ -2,13 +2,14 @@
   "id": 370343307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766823,39.15642,-119.766823,39.15642",
     "geom:latitude":39.15642,
     "geom:longitude":-119.766823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370343307,
-    "wof:lastmodified":1449031493,
+    "wof:lastmodified":1466704991,
     "wof:name":"Play Your Own Music",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "musical"
     ]
 },
-  "bbox": [-119.766823,39.15642,-119.766823,39.15642],
+  "bbox": [
+    -119.766823,
+    39.15642,
+    -119.766823,
+    39.15642
+],
   "geometry": {"coordinates":[-119.766823,39.15642],"type":"Point"}
 }

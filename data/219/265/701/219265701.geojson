@@ -2,13 +2,14 @@
   "id": 219265701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243151,36.239953,-115.243151,36.239953",
     "geom:latitude":36.239953,
     "geom:longitude":-115.243151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6804 Accent Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219265701,
-    "wof:lastmodified":1449071604,
+    "wof:lastmodified":1466702693,
     "wof:name":"Activant Solutions Inc",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.243151,36.239953,-115.243151,36.239953],
+  "bbox": [
+    -115.243151,
+    36.239953,
+    -115.243151,
+    36.239953
+],
   "geometry": {"coordinates":[-115.243151,36.239953],"type":"Point"}
 }

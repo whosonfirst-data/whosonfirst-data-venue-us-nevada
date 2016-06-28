@@ -2,13 +2,14 @@
   "id": 354367901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109977,36.076053,-115.109977,36.076053",
     "geom:latitude":36.076053,
     "geom:longitude":-115.109977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6255 McLeod Dr Ste 8",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354367901,
-    "wof:lastmodified":1449066951,
+    "wof:lastmodified":1466706095,
     "wof:name":"Scvms",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.109977,36.076053,-115.109977,36.076053],
+  "bbox": [
+    -115.109977,
+    36.076053,
+    -115.109977,
+    36.076053
+],
   "geometry": {"coordinates":[-115.109977,36.076053],"type":"Point"}
 }

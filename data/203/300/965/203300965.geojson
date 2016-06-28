@@ -2,13 +2,14 @@
   "id": 203300965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16878,36.141717,-115.16878,36.141717",
     "geom:latitude":36.141717,
     "geom:longitude":-115.16878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203300965,
-    "wof:lastmodified":1449026021,
+    "wof:lastmodified":1466702843,
     "wof:name":"Host International Inc",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.16878,36.141717,-115.16878,36.141717],
+  "bbox": [
+    -115.16878,
+    36.141717,
+    -115.16878,
+    36.141717
+],
   "geometry": {"coordinates":[-115.16878,36.141717],"type":"Point"}
 }

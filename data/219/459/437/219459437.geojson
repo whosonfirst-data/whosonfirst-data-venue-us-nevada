@@ -2,13 +2,14 @@
   "id": 219459437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244243,36.164305,-115.244243,36.164305",
     "geom:latitude":36.164305,
     "geom:longitude":-115.244243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219459437,
-    "wof:lastmodified":1449071826,
+    "wof:lastmodified":1466703961,
     "wof:name":"Bebee Nail",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-115.244243,36.164305,-115.244243,36.164305],
+  "bbox": [
+    -115.244243,
+    36.164305,
+    -115.244243,
+    36.164305
+],
   "geometry": {"coordinates":[-115.244243,36.164305],"type":"Point"}
 }

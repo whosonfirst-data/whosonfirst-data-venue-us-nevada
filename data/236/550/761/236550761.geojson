@@ -2,13 +2,14 @@
   "id": 236550761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214043,36.204659,-115.214043,36.204659",
     "geom:latitude":36.204659,
     "geom:longitude":-115.214043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5449 Geneive Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236550761,
-    "wof:lastmodified":1449003440,
+    "wof:lastmodified":1466705953,
     "wof:name":"Mom & Little SIS Vending",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.214043,36.204659,-115.214043,36.204659],
+  "bbox": [
+    -115.214043,
+    36.204659,
+    -115.214043,
+    36.204659
+],
   "geometry": {"coordinates":[-115.214043,36.204659],"type":"Point"}
 }

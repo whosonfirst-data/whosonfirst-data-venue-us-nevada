@@ -2,13 +2,14 @@
   "id": 203286101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.898965,39.507731,-119.898965,39.507731",
     "geom:latitude":39.507731,
     "geom:longitude":-119.898965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8550 White Fir St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203286101,
-    "wof:lastmodified":1449025413,
+    "wof:lastmodified":1466702724,
     "wof:name":"Nevada Wilderness Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "advocacy"
     ]
 },
-  "bbox": [-119.898965,39.507731,-119.898965,39.507731],
+  "bbox": [
+    -119.898965,
+    39.507731,
+    -119.898965,
+    39.507731
+],
   "geometry": {"coordinates":[-119.898965,39.507731],"type":"Point"}
 }

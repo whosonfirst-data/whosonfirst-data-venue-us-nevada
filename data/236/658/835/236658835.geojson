@@ -2,13 +2,14 @@
   "id": 236658835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209942,36.197916,-115.209942,36.197916",
     "geom:latitude":36.197916,
     "geom:longitude":-115.209942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4945 Stacey Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236658835,
-    "wof:lastmodified":1449001621,
+    "wof:lastmodified":1466706584,
     "wof:name":"Vintage Plumbing",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.209942,36.197916,-115.209942,36.197916],
+  "bbox": [
+    -115.209942,
+    36.197916,
+    -115.209942,
+    36.197916
+],
   "geometry": {"coordinates":[-115.209942,36.197916],"type":"Point"}
 }

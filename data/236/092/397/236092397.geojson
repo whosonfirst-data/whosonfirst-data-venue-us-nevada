@@ -2,13 +2,14 @@
   "id": 236092397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.715281,39.402012,-119.715281,39.402012",
     "geom:latitude":39.402012,
     "geom:longitude":-119.715281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13905 Rancho Verde Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236092397,
-    "wof:lastmodified":1449004501,
+    "wof:lastmodified":1466704155,
     "wof:name":"Red White N' Blue Res Care",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-119.715281,39.402012,-119.715281,39.402012],
+  "bbox": [
+    -119.715281,
+    39.402012,
+    -119.715281,
+    39.402012
+],
   "geometry": {"coordinates":[-119.715281,39.402012],"type":"Point"}
 }

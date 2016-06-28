@@ -2,13 +2,14 @@
   "id": 370172051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.219002,36.224201,-115.219002,36.224201",
     "geom:latitude":36.224201,
     "geom:longitude":-115.219002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370172051,
-    "wof:lastmodified":1449030447,
+    "wof:lastmodified":1466702010,
     "wof:name":"Rancho Nursery",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "store"
     ]
 },
-  "bbox": [-115.219002,36.224201,-115.219002,36.224201],
+  "bbox": [
+    -115.219002,
+    36.224201,
+    -115.219002,
+    36.224201
+],
   "geometry": {"coordinates":[-115.219002,36.224201],"type":"Point"}
 }

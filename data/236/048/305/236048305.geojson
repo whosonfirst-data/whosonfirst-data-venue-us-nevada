@@ -2,13 +2,14 @@
   "id": 236048305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.795519,39.480924,-118.795519,39.480924",
     "geom:latitude":39.480924,
     "geom:longitude":-118.795519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Regan Pl",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236048305,
-    "wof:lastmodified":1449002659,
+    "wof:lastmodified":1466703955,
     "wof:name":"High Desert Cyclery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.795519,39.480924,-118.795519,39.480924],
+  "bbox": [
+    -118.795519,
+    39.480924,
+    -118.795519,
+    39.480924
+],
   "geometry": {"coordinates":[-118.795519,39.480924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203252257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.829577,39.497917,-119.829577,39.497917",
     "geom:latitude":39.497917,
     "geom:longitude":-119.829577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 Outlook Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203252257,
-    "wof:lastmodified":1449025192,
+    "wof:lastmodified":1466702503,
     "wof:name":"Tom Barber Design",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.829577,39.497917,-119.829577,39.497917],
+  "bbox": [
+    -119.829577,
+    39.497917,
+    -119.829577,
+    39.497917
+],
   "geometry": {"coordinates":[-119.829577,39.497917],"type":"Point"}
 }

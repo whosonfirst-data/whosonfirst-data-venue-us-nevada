@@ -2,13 +2,14 @@
   "id": 236354663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272781,36.05565,-115.272781,36.05565",
     "geom:latitude":36.05565,
     "geom:longitude":-115.272781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8280 W Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236354663,
-    "wof:lastmodified":1449004800,
+    "wof:lastmodified":1466705091,
     "wof:name":"Fchuff Steel",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-115.272781,36.05565,-115.272781,36.05565],
-  "geometry": {"coordinates":[-115.272781,36.05565],"type":"Point"}
+  "bbox": [
+    -115.272781,
+    36.05565,
+    -115.272781,
+    36.05565
+],
+  "geometry": {"coordinates":[-115.27278099999999,36.05565],"type":"Point"}
 }

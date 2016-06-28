@@ -2,13 +2,14 @@
   "id": 236854187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105356,35.994977,-115.105356,35.994977",
     "geom:latitude":35.994977,
     "geom:longitude":-115.105356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Frecco Cavern Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236854187,
-    "wof:lastmodified":1449005100,
+    "wof:lastmodified":1466706849,
     "wof:name":"Smart-Babies",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"
     ]
 },
-  "bbox": [-115.105356,35.994977,-115.105356,35.994977],
+  "bbox": [
+    -115.105356,
+    35.994977,
+    -115.105356,
+    35.994977
+],
   "geometry": {"coordinates":[-115.105356,35.994977],"type":"Point"}
 }

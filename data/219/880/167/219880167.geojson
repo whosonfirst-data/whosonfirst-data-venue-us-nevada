@@ -2,13 +2,14 @@
   "id": 219880167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113092,36.00926,-115.113092,36.00926",
     "geom:latitude":36.00926,
     "geom:longitude":-115.113092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Coral Sea St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219880167,
-    "wof:lastmodified":1449073954,
+    "wof:lastmodified":1466705640,
     "wof:name":"DLV Media Source",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-115.113092,36.00926,-115.113092,36.00926],
-  "geometry": {"coordinates":[-115.113092,36.00926],"type":"Point"}
+  "bbox": [
+    -115.113092,
+    36.00926,
+    -115.113092,
+    36.00926
+],
+  "geometry": {"coordinates":[-115.11309199999999,36.00926],"type":"Point"}
 }

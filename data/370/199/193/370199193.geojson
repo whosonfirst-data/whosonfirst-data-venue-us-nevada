@@ -2,13 +2,14 @@
   "id": 370199193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.319757,36.159176,-115.319757,36.159176",
     "geom:latitude":36.159176,
     "geom:longitude":-115.319757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370199193,
-    "wof:lastmodified":1449029434,
+    "wof:lastmodified":1466702488,
     "wof:name":"Sav-On Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-115.319757,36.159176,-115.319757,36.159176],
+  "bbox": [
+    -115.319757,
+    36.159176,
+    -115.319757,
+    36.159176
+],
   "geometry": {"coordinates":[-115.319757,36.159176],"type":"Point"}
 }

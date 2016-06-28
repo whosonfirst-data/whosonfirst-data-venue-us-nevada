@@ -2,13 +2,14 @@
   "id": 203174691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741859,39.52753,-119.741859,39.52753",
     "geom:latitude":39.52753,
     "geom:longitude":-119.741859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203174691,
-    "wof:lastmodified":1449025195,
+    "wof:lastmodified":1466701772,
     "wof:name":"Silver State Forklift Service",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "truck"
     ]
 },
-  "bbox": [-119.741859,39.52753,-119.741859,39.52753],
-  "geometry": {"coordinates":[-119.741859,39.52753],"type":"Point"}
+  "bbox": [
+    -119.741859,
+    39.52753,
+    -119.741859,
+    39.52753
+],
+  "geometry": {"coordinates":[-119.74185900000001,39.52753],"type":"Point"}
 }

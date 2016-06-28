@@ -2,13 +2,14 @@
   "id": 354378781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116816,36.129705,-115.116816,36.129705",
     "geom:latitude":36.129705,
     "geom:longitude":-115.116816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 E Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":354378781,
-    "wof:lastmodified":1449067120,
+    "wof:lastmodified":1466706161,
     "wof:name":"Yns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "consignment"
     ]
 },
-  "bbox": [-115.116816,36.129705,-115.116816,36.129705],
+  "bbox": [
+    -115.116816,
+    36.129705,
+    -115.116816,
+    36.129705
+],
   "geometry": {"coordinates":[-115.116816,36.129705],"type":"Point"}
 }

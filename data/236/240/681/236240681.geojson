@@ -2,13 +2,14 @@
   "id": 236240681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216822,36.184955,-115.216822,36.184955",
     "geom:latitude":36.184955,
     "geom:longitude":-115.216822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1567 Shadow Mountain Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236240681,
-    "wof:lastmodified":1449001934,
+    "wof:lastmodified":1466704326,
     "wof:name":"Cordova Window Claners",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-115.216822,36.184955,-115.216822,36.184955],
-  "geometry": {"coordinates":[-115.216822,36.184955],"type":"Point"}
+  "bbox": [
+    -115.216822,
+    36.184955,
+    -115.216822,
+    36.184955
+],
+  "geometry": {"coordinates":[-115.21682199999999,36.184955],"type":"Point"}
 }

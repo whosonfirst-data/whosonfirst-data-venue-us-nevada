@@ -2,13 +2,14 @@
   "id": 235965859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782124,39.481992,-119.782124,39.481992",
     "geom:latitude":39.481992,
     "geom:longitude":-119.782124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Smithridge Park",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235965859,
-    "wof:lastmodified":1449008483,
+    "wof:lastmodified":1466703605,
     "wof:name":"Mark A Rockswold",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-119.782124,39.481992,-119.782124,39.481992],
+  "bbox": [
+    -119.782124,
+    39.481992,
+    -119.782124,
+    39.481992
+],
   "geometry": {"coordinates":[-119.782124,39.481992],"type":"Point"}
 }

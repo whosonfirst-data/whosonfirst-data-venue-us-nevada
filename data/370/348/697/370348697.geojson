@@ -2,13 +2,14 @@
   "id": 370348697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768724,39.169013,-119.768724,39.169013",
     "geom:latitude":39.169013,
     "geom:longitude":-119.768724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W Ann St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370348697,
-    "wof:lastmodified":1449029219,
+    "wof:lastmodified":1466705193,
     "wof:name":"Bak Hak-Sun MD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.768724,39.169013,-119.768724,39.169013],
-  "geometry": {"coordinates":[-119.768724,39.169013],"type":"Point"}
+  "bbox": [
+    -119.768724,
+    39.169013,
+    -119.768724,
+    39.169013
+],
+  "geometry": {"coordinates":[-119.76872400000001,39.169013],"type":"Point"}
 }

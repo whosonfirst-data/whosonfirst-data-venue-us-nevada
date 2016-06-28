@@ -2,13 +2,14 @@
   "id": 203380139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224802,36.079496,-115.224802,36.079496",
     "geom:latitude":36.079496,
     "geom:longitude":-115.224802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6080 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380139,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466703258,
     "wof:name":"St Paul Jung Ha Sang Korean",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.224802,36.079496,-115.224802,36.079496],
+  "bbox": [
+    -115.224802,
+    36.079496,
+    -115.224802,
+    36.079496
+],
   "geometry": {"coordinates":[-115.224802,36.079496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203403489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.731152,40.991166,-117.731152,40.991166",
     "geom:latitude":40.991166,
     "geom:longitude":-117.731152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4790 Beatrice Ln",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203403489,
-    "wof:lastmodified":1449026597,
+    "wof:lastmodified":1466703339,
     "wof:name":"Sandra Lindsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.731152,40.991166,-117.731152,40.991166],
-  "geometry": {"coordinates":[-117.731152,40.991166],"type":"Point"}
+  "bbox": [
+    -117.731152,
+    40.991166,
+    -117.731152,
+    40.991166
+],
+  "geometry": {"coordinates":[-117.73115199999999,40.991166],"type":"Point"}
 }

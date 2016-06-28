@@ -2,13 +2,14 @@
   "id": 354153989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224854,36.118833,-115.224854,36.118833",
     "geom:latitude":36.118833,
     "geom:longitude":-115.224854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 S Jones Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354153989,
-    "wof:lastmodified":1449067148,
+    "wof:lastmodified":1466704709,
     "wof:name":"Woodside Homes of Nevada",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.224854,36.118833,-115.224854,36.118833],
-  "geometry": {"coordinates":[-115.224854,36.118833],"type":"Point"}
+  "bbox": [
+    -115.224854,
+    36.118833,
+    -115.224854,
+    36.118833
+],
+  "geometry": {"coordinates":[-115.22485399999999,36.118833],"type":"Point"}
 }

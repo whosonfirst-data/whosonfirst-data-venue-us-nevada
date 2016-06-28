@@ -2,13 +2,14 @@
   "id": 337300397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.845144,39.547081,-119.845144,39.547081",
     "geom:latitude":39.547081,
     "geom:longitude":-119.845144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Van Ness Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337300397,
-    "wof:lastmodified":1449027408,
+    "wof:lastmodified":1466701730,
     "wof:name":"Tricia R Trenoweth",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.845144,39.547081,-119.845144,39.547081],
+  "bbox": [
+    -119.845144,
+    39.547081,
+    -119.845144,
+    39.547081
+],
   "geometry": {"coordinates":[-119.845144,39.547081],"type":"Point"}
 }

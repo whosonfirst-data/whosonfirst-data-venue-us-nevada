@@ -2,13 +2,14 @@
   "id": 236181755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.849284,39.540496,-119.849284,39.540496",
     "geom:latitude":39.540496,
     "geom:longitude":-119.849284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 Valmar Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236181755,
-    "wof:lastmodified":1449003719,
+    "wof:lastmodified":1466703217,
     "wof:name":"Photo Lounge",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-119.849284,39.540496,-119.849284,39.540496],
+  "bbox": [
+    -119.849284,
+    39.540496,
+    -119.849284,
+    39.540496
+],
   "geometry": {"coordinates":[-119.849284,39.540496],"type":"Point"}
 }

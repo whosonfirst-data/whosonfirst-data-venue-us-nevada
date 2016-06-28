@@ -2,13 +2,14 @@
   "id": 236164033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.975968,39.256785,-119.975968,39.256785",
     "geom:latitude":39.256785,
     "geom:longitude":-119.975968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"597 Rockrose Ct",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236164033,
-    "wof:lastmodified":1449001971,
+    "wof:lastmodified":1466702855,
     "wof:name":"Katanick Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.975968,39.256785,-119.975968,39.256785],
-  "geometry": {"coordinates":[-119.975968,39.256785],"type":"Point"}
+  "bbox": [
+    -119.975968,
+    39.256785,
+    -119.975968,
+    39.256785
+],
+  "geometry": {"coordinates":[-119.97596799999999,39.256785],"type":"Point"}
 }

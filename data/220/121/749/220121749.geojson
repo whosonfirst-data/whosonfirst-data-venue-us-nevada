@@ -2,13 +2,14 @@
   "id": 220121749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.696521,38.88839,-119.696521,38.88839",
     "geom:latitude":38.88839,
     "geom:longitude":-119.696521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 US Hwy 395 S",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220121749,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466702547,
     "wof:name":"Lahontan National Fish Htchy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refuge"
     ]
 },
-  "bbox": [-119.696521,38.88839,-119.696521,38.88839],
+  "bbox": [
+    -119.696521,
+    38.88839,
+    -119.696521,
+    38.88839
+],
   "geometry": {"coordinates":[-119.696521,38.88839],"type":"Point"}
 }

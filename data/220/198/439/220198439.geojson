@@ -2,13 +2,14 @@
   "id": 220198439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113678,36.114943,-115.113678,36.114943",
     "geom:latitude":36.114943,
     "geom:longitude":-115.113678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220198439,
-    "wof:lastmodified":1449074315,
+    "wof:lastmodified":1466703089,
     "wof:name":"Fresh Express Inc",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-115.113678,36.114943,-115.113678,36.114943],
-  "geometry": {"coordinates":[-115.113678,36.114943],"type":"Point"}
+  "bbox": [
+    -115.113678,
+    36.114943,
+    -115.113678,
+    36.114943
+],
+  "geometry": {"coordinates":[-115.11367799999999,36.114943],"type":"Point"}
 }

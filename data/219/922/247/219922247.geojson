@@ -2,13 +2,14 @@
   "id": 219922247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733922,39.173857,-119.733922,39.173857",
     "geom:latitude":39.173857,
     "geom:longitude":-119.733922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Airport Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219922247,
-    "wof:lastmodified":1449070708,
+    "wof:lastmodified":1466705748,
     "wof:name":"Al Lamas Lawn Service",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.733922,39.173857,-119.733922,39.173857],
-  "geometry": {"coordinates":[-119.733922,39.173857],"type":"Point"}
+  "bbox": [
+    -119.733922,
+    39.173857,
+    -119.733922,
+    39.173857
+],
+  "geometry": {"coordinates":[-119.73392200000001,39.173857],"type":"Point"}
 }

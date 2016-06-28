@@ -2,13 +2,14 @@
   "id": 219314459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.688078,39.631693,-119.688078,39.631693",
     "geom:latitude":39.631693,
     "geom:longitude":-119.688078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7840 Cadiz Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219314459,
-    "wof:lastmodified":1449073763,
+    "wof:lastmodified":1466703188,
     "wof:name":"Forever Green",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.688078,39.631693,-119.688078,39.631693],
+  "bbox": [
+    -119.688078,
+    39.631693,
+    -119.688078,
+    39.631693
+],
   "geometry": {"coordinates":[-119.688078,39.631693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236779465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776354,39.415724,-119.776354,39.415724",
     "geom:latitude":39.415724,
     "geom:longitude":-119.776354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Wolf Run Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236779465,
-    "wof:lastmodified":1449002057,
+    "wof:lastmodified":1466706617,
     "wof:name":"Golf Machine Custom Club",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.776354,39.415724,-119.776354,39.415724],
+  "bbox": [
+    -119.776354,
+    39.415724,
+    -119.776354,
+    39.415724
+],
   "geometry": {"coordinates":[-119.776354,39.415724],"type":"Point"}
 }

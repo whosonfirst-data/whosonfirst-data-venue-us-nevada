@@ -2,13 +2,14 @@
   "id": 219294233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.98344,39.259037,-119.98344,39.259037",
     "geom:latitude":39.259037,
     "geom:longitude":-119.98344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Tumbleweed Cir",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219294233,
-    "wof:lastmodified":1449072917,
+    "wof:lastmodified":1466703030,
     "wof:name":"Village Square Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.98344,39.259037,-119.98344,39.259037],
+  "bbox": [
+    -119.98344,
+    39.259037,
+    -119.98344,
+    39.259037
+],
   "geometry": {"coordinates":[-119.98344,39.259037],"type":"Point"}
 }

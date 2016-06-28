@@ -2,13 +2,14 @@
   "id": 203357215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.540421,40.745319,-115.540421,40.745319",
     "geom:latitude":40.745319,
     "geom:longitude":-115.540421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Ashford Ln",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203357215,
-    "wof:lastmodified":1449026636,
+    "wof:lastmodified":1466703156,
     "wof:name":"Open A Quarter Circle Ranch",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-115.540421,40.745319,-115.540421,40.745319],
-  "geometry": {"coordinates":[-115.540421,40.745319],"type":"Point"}
+  "bbox": [
+    -115.540421,
+    40.745319,
+    -115.540421,
+    40.745319
+],
+  "geometry": {"coordinates":[-115.54042099999999,40.745319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236644097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23736,36.197956,-115.23736,36.197956",
     "geom:latitude":36.197956,
     "geom:longitude":-115.23736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Bavington Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236644097,
-    "wof:lastmodified":1449003554,
+    "wof:lastmodified":1466706318,
     "wof:name":"Asset Accumulators Inc",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "investor"
     ]
 },
-  "bbox": [-115.23736,36.197956,-115.23736,36.197956],
+  "bbox": [
+    -115.23736,
+    36.197956,
+    -115.23736,
+    36.197956
+],
   "geometry": {"coordinates":[-115.23736,36.197956],"type":"Point"}
 }

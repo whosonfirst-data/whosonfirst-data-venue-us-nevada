@@ -2,13 +2,14 @@
   "id": 354007027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085999,36.0564,-115.085999,36.0564",
     "geom:latitude":36.0564,
     "geom:longitude":-115.085999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 W Warm Springs Rd Ofc",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007027,
-    "wof:lastmodified":1449067354,
+    "wof:lastmodified":1466701643,
     "wof:name":"Bay Breeze Apartments",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.085999,36.0564,-115.085999,36.0564],
+  "bbox": [
+    -115.085999,
+    36.0564,
+    -115.085999,
+    36.0564
+],
   "geometry": {"coordinates":[-115.085999,36.0564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236451763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097975,36.049151,-115.097975,36.049151",
     "geom:latitude":36.049151,
     "geom:longitude":-115.097975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 el Paso Grande Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236451763,
-    "wof:lastmodified":1449003032,
+    "wof:lastmodified":1466705597,
     "wof:name":"T T Focus",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.097975,36.049151,-115.097975,36.049151],
-  "geometry": {"coordinates":[-115.097975,36.049151],"type":"Point"}
+  "bbox": [
+    -115.097975,
+    36.049151,
+    -115.097975,
+    36.049151
+],
+  "geometry": {"coordinates":[-115.09797500000001,36.049151],"type":"Point"}
 }

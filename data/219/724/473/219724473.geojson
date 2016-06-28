@@ -2,13 +2,14 @@
   "id": 219724473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.159898,36.14382,-115.159898,36.14382",
     "geom:latitude":36.14382,
     "geom:longitude":-115.159898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219724473,
-    "wof:lastmodified":1449073840,
+    "wof:lastmodified":1466704594,
     "wof:name":"Pounder's Sports Lounge",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-115.159898,36.14382,-115.159898,36.14382],
+  "bbox": [
+    -115.159898,
+    36.14382,
+    -115.159898,
+    36.14382
+],
   "geometry": {"coordinates":[-115.159898,36.14382],"type":"Point"}
 }

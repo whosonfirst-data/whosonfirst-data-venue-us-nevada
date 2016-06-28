@@ -2,13 +2,14 @@
   "id": 219356579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150789,36.033909,-115.150789,36.033909",
     "geom:latitude":36.033909,
     "geom:longitude":-115.150789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Paulson Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219356579,
-    "wof:lastmodified":1449073299,
+    "wof:lastmodified":1466703431,
     "wof:name":"E Scential Gifts",
     "wof:parent_id":85879749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.150789,36.033909,-115.150789,36.033909],
+  "bbox": [
+    -115.150789,
+    36.033909,
+    -115.150789,
+    36.033909
+],
   "geometry": {"coordinates":[-115.150789,36.033909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220012267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167872,36.257198,-115.167872,36.257198",
     "geom:latitude":36.257198,
     "geom:longitude":-115.167872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 Loida Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220012267,
-    "wof:lastmodified":1449074796,
+    "wof:lastmodified":1466701557,
     "wof:name":"Carrion Landscape Company",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "landscape"
     ]
 },
-  "bbox": [-115.167872,36.257198,-115.167872,36.257198],
+  "bbox": [
+    -115.167872,
+    36.257198,
+    -115.167872,
+    36.257198
+],
   "geometry": {"coordinates":[-115.167872,36.257198],"type":"Point"}
 }

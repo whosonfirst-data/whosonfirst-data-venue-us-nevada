@@ -2,13 +2,14 @@
   "id": 236436421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.785012,39.476253,-118.785012,39.476253",
     "geom:latitude":39.476253,
     "geom:longitude":-118.785012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 W A St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236436421,
-    "wof:lastmodified":1449004869,
+    "wof:lastmodified":1466705543,
     "wof:name":"Fallon Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.785012,39.476253,-118.785012,39.476253],
-  "geometry": {"coordinates":[-118.785012,39.476253],"type":"Point"}
+  "bbox": [
+    -118.785012,
+    39.476253,
+    -118.785012,
+    39.476253
+],
+  "geometry": {"coordinates":[-118.78501199999999,39.476253],"type":"Point"}
 }

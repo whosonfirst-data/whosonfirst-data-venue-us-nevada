@@ -2,13 +2,14 @@
   "id": 220116623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.166103,38.694189,-117.166103,38.694189",
     "geom:latitude":38.694189,
     "geom:longitude":-117.166103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Hadley Cir",
     "sg:city":"Round Mountain",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220116623,
-    "wof:lastmodified":1449074149,
+    "wof:lastmodified":1466702505,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.166103,38.694189,-117.166103,38.694189],
-  "geometry": {"coordinates":[-117.166103,38.694189],"type":"Point"}
+  "bbox": [
+    -117.166103,
+    38.694189,
+    -117.166103,
+    38.694189
+],
+  "geometry": {"coordinates":[-117.16610300000001,38.694189],"type":"Point"}
 }

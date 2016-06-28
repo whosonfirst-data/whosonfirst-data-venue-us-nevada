@@ -2,13 +2,14 @@
   "id": 354032111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139236,36.214123,-115.139236,36.214123",
     "geom:latitude":36.214123,
     "geom:longitude":-115.139236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 West Brooks Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354032111,
-    "wof:lastmodified":1449066752,
+    "wof:lastmodified":1466702339,
     "wof:name":"JS Pest Control",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.139236,36.214123,-115.139236,36.214123],
+  "bbox": [
+    -115.139236,
+    36.214123,
+    -115.139236,
+    36.214123
+],
   "geometry": {"coordinates":[-115.139236,36.214123],"type":"Point"}
 }

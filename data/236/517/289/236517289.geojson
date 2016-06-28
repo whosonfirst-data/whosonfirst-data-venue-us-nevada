@@ -2,13 +2,14 @@
   "id": 236517289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757003,39.529931,-119.757003,39.529931",
     "geom:latitude":39.529931,
     "geom:longitude":-119.757003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Icehouse Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236517289,
-    "wof:lastmodified":1449003552,
+    "wof:lastmodified":1466705896,
     "wof:name":"Alberto-Culver Company",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [-119.757003,39.529931,-119.757003,39.529931],
+  "bbox": [
+    -119.757003,
+    39.529931,
+    -119.757003,
+    39.529931
+],
   "geometry": {"coordinates":[-119.757003,39.529931],"type":"Point"}
 }

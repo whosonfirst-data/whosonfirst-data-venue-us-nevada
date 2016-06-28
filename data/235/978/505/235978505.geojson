@@ -2,13 +2,14 @@
   "id": 235978505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736045,39.541957,-119.736045,39.541957",
     "geom:latitude":39.541957,
     "geom:longitude":-119.736045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235978505,
-    "wof:lastmodified":1449008445,
+    "wof:lastmodified":1466703646,
     "wof:name":"Washoe ARC Thrift & Gift",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.736045,39.541957,-119.736045,39.541957],
+  "bbox": [
+    -119.736045,
+    39.541957,
+    -119.736045,
+    39.541957
+],
   "geometry": {"coordinates":[-119.736045,39.541957],"type":"Point"}
 }

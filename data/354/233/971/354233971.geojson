@@ -2,13 +2,14 @@
   "id": 354233971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139473,36.13755,-115.139473,36.13755",
     "geom:latitude":36.13755,
     "geom:longitude":-115.139473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Vegas Valley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354233971,
-    "wof:lastmodified":1449067685,
+    "wof:lastmodified":1466705241,
     "wof:name":"Lvccma Maryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.139473,36.13755,-115.139473,36.13755],
+  "bbox": [
+    -115.139473,
+    36.13755,
+    -115.139473,
+    36.13755
+],
   "geometry": {"coordinates":[-115.139473,36.13755],"type":"Point"}
 }

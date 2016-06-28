@@ -2,13 +2,14 @@
   "id": 236862517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.843116,39.477114,-118.843116,39.477114",
     "geom:latitude":39.477114,
     "geom:longitude":-118.843116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4233 Santa Fe Dr",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236862517,
-    "wof:lastmodified":1449005347,
+    "wof:lastmodified":1466706748,
     "wof:name":"Buckner Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-118.843116,39.477114,-118.843116,39.477114],
-  "geometry": {"coordinates":[-118.843116,39.477114],"type":"Point"}
+  "bbox": [
+    -118.843116,
+    39.477114,
+    -118.843116,
+    39.477114
+],
+  "geometry": {"coordinates":[-118.84311599999999,39.477114],"type":"Point"}
 }

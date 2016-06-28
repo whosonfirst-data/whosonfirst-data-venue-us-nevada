@@ -2,13 +2,14 @@
   "id": 219161075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754205,39.553054,-119.754205,39.553054",
     "geom:latitude":39.553054,
     "geom:longitude":-119.754205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 Logan Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219161075,
-    "wof:lastmodified":1449071783,
+    "wof:lastmodified":1466701590,
     "wof:name":"Joe's Interiors",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.754205,39.553054,-119.754205,39.553054],
+  "bbox": [
+    -119.754205,
+    39.553054,
+    -119.754205,
+    39.553054
+],
   "geometry": {"coordinates":[-119.754205,39.553054],"type":"Point"}
 }

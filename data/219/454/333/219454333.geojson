@@ -2,13 +2,14 @@
   "id": 219454333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313615,36.146791,-115.313615,36.146791",
     "geom:latitude":36.146791,
     "geom:longitude":-115.313615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2153 Gravel Hill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219454333,
-    "wof:lastmodified":1449073587,
+    "wof:lastmodified":1466703899,
     "wof:name":"Silver Lining Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.313615,36.146791,-115.313615,36.146791],
+  "bbox": [
+    -115.313615,
+    36.146791,
+    -115.313615,
+    36.146791
+],
   "geometry": {"coordinates":[-115.313615,36.146791],"type":"Point"}
 }

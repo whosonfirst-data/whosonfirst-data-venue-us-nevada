@@ -2,13 +2,14 @@
   "id": 236922891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.007128,36.293321,-116.007128,36.293321",
     "geom:latitude":36.293321,
     "geom:longitude":-116.007128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Harris Farm Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236922891,
-    "wof:lastmodified":1449001898,
+    "wof:lastmodified":1466706733,
     "wof:name":"MYOPT.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-116.007128,36.293321,-116.007128,36.293321],
-  "geometry": {"coordinates":[-116.007128,36.293321],"type":"Point"}
+  "bbox": [
+    -116.007128,
+    36.293321,
+    -116.007128,
+    36.293321
+],
+  "geometry": {"coordinates":[-116.00712799999999,36.293321],"type":"Point"}
 }

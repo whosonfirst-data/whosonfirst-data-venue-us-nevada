@@ -2,13 +2,14 @@
   "id": 236418599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269249,36.135734,-115.269249,36.135734",
     "geom:latitude":36.135734,
     "geom:longitude":-115.269249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Majestic Heights Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236418599,
-    "wof:lastmodified":1449004388,
+    "wof:lastmodified":1466705445,
     "wof:name":"Wonderland Northwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-115.269249,36.135734,-115.269249,36.135734],
+  "bbox": [
+    -115.269249,
+    36.135734,
+    -115.269249,
+    36.135734
+],
   "geometry": {"coordinates":[-115.269249,36.135734],"type":"Point"}
 }

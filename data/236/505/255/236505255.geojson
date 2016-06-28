@@ -2,13 +2,14 @@
   "id": 236505255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297389,36.097817,-115.297389,36.097817",
     "geom:latitude":36.097817,
     "geom:longitude":-115.297389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 S Fort Apache Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236505255,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1466705957,
     "wof:name":"Heartfelt Creations",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "silk"
     ]
 },
-  "bbox": [-115.297389,36.097817,-115.297389,36.097817],
+  "bbox": [
+    -115.297389,
+    36.097817,
+    -115.297389,
+    36.097817
+],
   "geometry": {"coordinates":[-115.297389,36.097817],"type":"Point"}
 }

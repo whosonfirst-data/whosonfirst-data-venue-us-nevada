@@ -2,13 +2,14 @@
   "id": 354321123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199001,36.069754,-115.199001,36.069754",
     "geom:latitude":36.069754,
     "geom:longitude":-115.199001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4385 Wagon Trail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354321123,
-    "wof:lastmodified":1449065975,
+    "wof:lastmodified":1466705723,
     "wof:name":"Bairs Interior Design",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.199001,36.069754,-115.199001,36.069754],
+  "bbox": [
+    -115.199001,
+    36.069754,
+    -115.199001,
+    36.069754
+],
   "geometry": {"coordinates":[-115.199001,36.069754],"type":"Point"}
 }

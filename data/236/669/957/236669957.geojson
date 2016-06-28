@@ -2,13 +2,14 @@
   "id": 236669957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802184,39.327262,-119.802184,39.327262",
     "geom:latitude":39.327262,
     "geom:longitude":-119.802184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Old Washoe Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236669957,
-    "wof:lastmodified":1449001962,
+    "wof:lastmodified":1466706435,
     "wof:name":"Blackrock Environmental Consul",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-119.802184,39.327262,-119.802184,39.327262],
+  "bbox": [
+    -119.802184,
+    39.327262,
+    -119.802184,
+    39.327262
+],
   "geometry": {"coordinates":[-119.802184,39.327262],"type":"Point"}
 }

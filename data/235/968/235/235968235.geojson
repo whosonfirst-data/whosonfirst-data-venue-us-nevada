@@ -2,13 +2,14 @@
   "id": 235968235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272807,36.159029,-115.272807,36.159029",
     "geom:latitude":36.159029,
     "geom:longitude":-115.272807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8221 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235968235,
-    "wof:lastmodified":1449008294,
+    "wof:lastmodified":1466703597,
     "wof:name":"G-Spot Enterprises",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-115.272807,36.159029,-115.272807,36.159029],
+  "bbox": [
+    -115.272807,
+    36.159029,
+    -115.272807,
+    36.159029
+],
   "geometry": {"coordinates":[-115.272807,36.159029],"type":"Point"}
 }

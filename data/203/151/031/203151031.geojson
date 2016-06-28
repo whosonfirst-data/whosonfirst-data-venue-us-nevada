@@ -2,13 +2,14 @@
   "id": 203151031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307969,36.128746,-115.307969,36.128746",
     "geom:latitude":36.128746,
     "geom:longitude":-115.307969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9924 Sparrow Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203151031,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466704188,
     "wof:name":"Kim's Painting",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.307969,36.128746,-115.307969,36.128746],
+  "bbox": [
+    -115.307969,
+    36.128746,
+    -115.307969,
+    36.128746
+],
   "geometry": {"coordinates":[-115.307969,36.128746],"type":"Point"}
 }

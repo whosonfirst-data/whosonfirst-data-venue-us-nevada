@@ -2,13 +2,14 @@
   "id": 236257963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185637,36.10059,-115.185637,36.10059",
     "geom:latitude":36.10059,
     "geom:longitude":-115.185637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236257963,
-    "wof:lastmodified":1449002449,
+    "wof:lastmodified":1466704432,
     "wof:name":"For National Institute",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-115.185637,36.10059,-115.185637,36.10059],
+  "bbox": [
+    -115.185637,
+    36.10059,
+    -115.185637,
+    36.10059
+],
   "geometry": {"coordinates":[-115.185637,36.10059],"type":"Point"}
 }

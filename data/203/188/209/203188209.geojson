@@ -2,13 +2,14 @@
   "id": 203188209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.625557,38.530913,-118.625557,38.530913",
     "geom:latitude":38.530913,
     "geom:longitude":-118.625557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 D St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203188209,
-    "wof:lastmodified":1449025870,
+    "wof:lastmodified":1466701907,
     "wof:name":"A T Liberty Bookstore & Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-118.625557,38.530913,-118.625557,38.530913],
+  "bbox": [
+    -118.625557,
+    38.530913,
+    -118.625557,
+    38.530913
+],
   "geometry": {"coordinates":[-118.625557,38.530913],"type":"Point"}
 }

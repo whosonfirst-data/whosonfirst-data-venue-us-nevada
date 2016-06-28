@@ -2,13 +2,14 @@
   "id": 236828807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.737921,40.975217,-117.737921,40.975217",
     "geom:latitude":40.975217,
     "geom:longitude":-117.737921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Giroux St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236828807,
-    "wof:lastmodified":1449003301,
+    "wof:lastmodified":1466706700,
     "wof:name":"Door Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-117.737921,40.975217,-117.737921,40.975217],
+  "bbox": [
+    -117.737921,
+    40.975217,
+    -117.737921,
+    40.975217
+],
   "geometry": {"coordinates":[-117.737921,40.975217],"type":"Point"}
 }

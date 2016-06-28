@@ -2,13 +2,14 @@
   "id": 203191301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264811,36.13579,-115.264811,36.13579",
     "geom:latitude":36.13579,
     "geom:longitude":-115.264811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 Crown Bluffs Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203191301,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466701969,
     "wof:name":"Sbb Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.264811,36.13579,-115.264811,36.13579],
-  "geometry": {"coordinates":[-115.264811,36.13579],"type":"Point"}
+  "bbox": [
+    -115.264811,
+    36.13579,
+    -115.264811,
+    36.13579
+],
+  "geometry": {"coordinates":[-115.26481099999999,36.13579],"type":"Point"}
 }

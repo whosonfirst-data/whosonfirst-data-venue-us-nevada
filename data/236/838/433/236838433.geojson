@@ -2,13 +2,14 @@
   "id": 236838433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804956,39.532731,-119.804956,39.532731",
     "geom:latitude":39.532731,
     "geom:longitude":-119.804956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Eureka Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236838433,
-    "wof:lastmodified":1449001976,
+    "wof:lastmodified":1466706709,
     "wof:name":"Hood Machine Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trade"
     ]
 },
-  "bbox": [-119.804956,39.532731,-119.804956,39.532731],
+  "bbox": [
+    -119.804956,
+    39.532731,
+    -119.804956,
+    39.532731
+],
   "geometry": {"coordinates":[-119.804956,39.532731],"type":"Point"}
 }

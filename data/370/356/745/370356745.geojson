@@ -2,13 +2,14 @@
   "id": 370356745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756223,39.182394,-119.756223,39.182394",
     "geom:latitude":39.182394,
     "geom:longitude":-119.756223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1156 Rolling Hills Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370356745,
-    "wof:lastmodified":1449031876,
+    "wof:lastmodified":1466705066,
     "wof:name":"Espy Cleaning Service",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.756223,39.182394,-119.756223,39.182394],
-  "geometry": {"coordinates":[-119.756223,39.182394],"type":"Point"}
+  "bbox": [
+    -119.756223,
+    39.182394,
+    -119.756223,
+    39.182394
+],
+  "geometry": {"coordinates":[-119.75622300000001,39.182394],"type":"Point"}
 }

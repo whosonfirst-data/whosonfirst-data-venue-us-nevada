@@ -2,13 +2,14 @@
   "id": 354009275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.025999,36.037008,-115.025999,36.037008",
     "geom:latitude":36.037008,
     "geom:longitude":-115.025999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Cassia Way Ste 100",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354009275,
-    "wof:lastmodified":1449067648,
+    "wof:lastmodified":1466701709,
     "wof:name":"Howell Builders",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.025999,36.037008,-115.025999,36.037008],
+  "bbox": [
+    -115.025999,
+    36.037008,
+    -115.025999,
+    36.037008
+],
   "geometry": {"coordinates":[-115.025999,36.037008],"type":"Point"}
 }

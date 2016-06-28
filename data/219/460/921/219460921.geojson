@@ -2,13 +2,14 @@
   "id": 219460921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75497,39.124708,-119.75497,39.124708",
     "geom:latitude":39.124708,
     "geom:longitude":-119.75497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 E Appion Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219460921,
-    "wof:lastmodified":1449073714,
+    "wof:lastmodified":1466703967,
     "wof:name":"Getnufit",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.75497,39.124708,-119.75497,39.124708],
+  "bbox": [
+    -119.75497,
+    39.124708,
+    -119.75497,
+    39.124708
+],
   "geometry": {"coordinates":[-119.75497,39.124708],"type":"Point"}
 }

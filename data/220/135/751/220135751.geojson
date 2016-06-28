@@ -2,13 +2,14 @@
   "id": 220135751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.650235,38.957152,-119.650235,38.957152",
     "geom:latitude":38.957152,
     "geom:longitude":-119.650235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Finch Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220135751,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466702670,
     "wof:name":"Livingood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-119.650235,38.957152,-119.650235,38.957152],
+  "bbox": [
+    -119.650235,
+    38.957152,
+    -119.650235,
+    38.957152
+],
   "geometry": {"coordinates":[-119.650235,38.957152],"type":"Point"}
 }

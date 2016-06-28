@@ -2,13 +2,14 @@
   "id": 354326785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203826,36.091608,-115.203826,36.091608",
     "geom:latitude":36.091608,
     "geom:longitude":-115.203826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5415 Cameron Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354326785,
-    "wof:lastmodified":1449066649,
+    "wof:lastmodified":1466705767,
     "wof:name":"Gilmore Martin Construction",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.203826,36.091608,-115.203826,36.091608],
-  "geometry": {"coordinates":[-115.203826,36.091608],"type":"Point"}
+  "bbox": [
+    -115.203826,
+    36.091608,
+    -115.203826,
+    36.091608
+],
+  "geometry": {"coordinates":[-115.20382600000001,36.091608],"type":"Point"}
 }

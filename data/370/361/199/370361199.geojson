@@ -2,13 +2,14 @@
   "id": 370361199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758634,39.175197,-119.758634,39.175197",
     "geom:latitude":39.175197,
     "geom:longitude":-119.758634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1044 Beverly Drive",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370361199,
-    "wof:lastmodified":1449031559,
+    "wof:lastmodified":1466704938,
     "wof:name":"Lone Mountain Cemetery",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "historical"
     ]
 },
-  "bbox": [-119.758634,39.175197,-119.758634,39.175197],
+  "bbox": [
+    -119.758634,
+    39.175197,
+    -119.758634,
+    39.175197
+],
   "geometry": {"coordinates":[-119.758634,39.175197],"type":"Point"}
 }

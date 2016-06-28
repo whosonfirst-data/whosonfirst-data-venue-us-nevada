@@ -2,13 +2,14 @@
   "id": 236175253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.853883,39.484277,-119.853883,39.484277",
     "geom:latitude":39.484277,
     "geom:longitude":-119.853883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Caughlin Sq",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236175253,
-    "wof:lastmodified":1449004035,
+    "wof:lastmodified":1466703088,
     "wof:name":"Eissmann Gregory R DDS Agd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.853883,39.484277,-119.853883,39.484277],
+  "bbox": [
+    -119.853883,
+    39.484277,
+    -119.853883,
+    39.484277
+],
   "geometry": {"coordinates":[-119.853883,39.484277],"type":"Point"}
 }

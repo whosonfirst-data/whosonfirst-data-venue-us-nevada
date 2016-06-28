@@ -2,13 +2,14 @@
   "id": 219424867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.723128,40.873114,-115.723128,40.873114",
     "geom:latitude":40.873114,
     "geom:longitude":-115.723128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219424867,
-    "wof:lastmodified":1449073687,
+    "wof:lastmodified":1466703764,
     "wof:name":"Lostra Brothers Towing & Wreck",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-115.723128,40.873114,-115.723128,40.873114],
+  "bbox": [
+    -115.723128,
+    40.873114,
+    -115.723128,
+    40.873114
+],
   "geometry": {"coordinates":[-115.723128,40.873114],"type":"Point"}
 }

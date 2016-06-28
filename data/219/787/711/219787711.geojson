@@ -2,13 +2,14 @@
   "id": 219787711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212407,36.032702,-115.212407,36.032702",
     "geom:latitude":36.032702,
     "geom:longitude":-115.212407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8665 Edmond St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219787711,
-    "wof:lastmodified":1449071994,
+    "wof:lastmodified":1466705000,
     "wof:name":"Front Sight Resorts",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-115.212407,36.032702,-115.212407,36.032702],
+  "bbox": [
+    -115.212407,
+    36.032702,
+    -115.212407,
+    36.032702
+],
   "geometry": {"coordinates":[-115.212407,36.032702],"type":"Point"}
 }

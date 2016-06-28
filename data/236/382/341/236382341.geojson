@@ -2,13 +2,14 @@
   "id": 236382341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055049,36.013179,-115.055049,36.013179",
     "geom:latitude":36.013179,
     "geom:longitude":-115.055049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Desert Cove Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236382341,
-    "wof:lastmodified":1449002344,
+    "wof:lastmodified":1466705127,
     "wof:name":"Up Time Solutions Inc",
     "wof:parent_id":85878103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-115.055049,36.013179,-115.055049,36.013179],
+  "bbox": [
+    -115.055049,
+    36.013179,
+    -115.055049,
+    36.013179
+],
   "geometry": {"coordinates":[-115.055049,36.013179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219442247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.735929,40.837862,-115.735929,40.837862",
     "geom:latitude":40.837862,
     "geom:longitude":-115.735929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Last Chance Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219442247,
-    "wof:lastmodified":1449071941,
+    "wof:lastmodified":1466703833,
     "wof:name":"Strategic Supply",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-115.735929,40.837862,-115.735929,40.837862],
+  "bbox": [
+    -115.735929,
+    40.837862,
+    -115.735929,
+    40.837862
+],
   "geometry": {"coordinates":[-115.735929,40.837862],"type":"Point"}
 }

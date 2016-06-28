@@ -2,13 +2,14 @@
   "id": 203398261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708417,39.807007,-119.708417,39.807007",
     "geom:latitude":39.807007,
     "geom:longitude":-119.708417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Winnemucca Ranch Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203398261,
-    "wof:lastmodified":1449025082,
+    "wof:lastmodified":1466703313,
     "wof:name":"Barranca Group",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.708417,39.807007,-119.708417,39.807007],
+  "bbox": [
+    -119.708417,
+    39.807007,
+    -119.708417,
+    39.807007
+],
   "geometry": {"coordinates":[-119.708417,39.807007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236192071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118167,36.125234,-115.118167,36.125234",
     "geom:latitude":36.125234,
     "geom:longitude":-115.118167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 Buena Vista Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236192071,
-    "wof:lastmodified":1449004087,
+    "wof:lastmodified":1466703406,
     "wof:name":"Tax Solutions",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.118167,36.125234,-115.118167,36.125234],
+  "bbox": [
+    -115.118167,
+    36.125234,
+    -115.118167,
+    36.125234
+],
   "geometry": {"coordinates":[-115.118167,36.125234],"type":"Point"}
 }

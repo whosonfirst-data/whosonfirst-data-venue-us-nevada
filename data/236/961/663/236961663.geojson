@@ -2,13 +2,14 @@
   "id": 236961663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.899489,39.525129,-119.899489,39.525129",
     "geom:latitude":39.525129,
     "geom:longitude":-119.899489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 Calusa Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236961663,
-    "wof:lastmodified":1449005172,
+    "wof:lastmodified":1466706944,
     "wof:name":"Adat 24 Track",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "studio"
     ]
 },
-  "bbox": [-119.899489,39.525129,-119.899489,39.525129],
+  "bbox": [
+    -119.899489,
+    39.525129,
+    -119.899489,
+    39.525129
+],
   "geometry": {"coordinates":[-119.899489,39.525129],"type":"Point"}
 }

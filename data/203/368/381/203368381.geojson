@@ -2,13 +2,14 @@
   "id": 203368381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.912613,39.508432,-118.912613,39.508432",
     "geom:latitude":39.508432,
     "geom:longitude":-118.912613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2055 Trento Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203368381,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466703212,
     "wof:name":"Brand Inspector",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brand"
     ]
 },
-  "bbox": [-118.912613,39.508432,-118.912613,39.508432],
-  "geometry": {"coordinates":[-118.912613,39.508432],"type":"Point"}
+  "bbox": [
+    -118.912613,
+    39.508432,
+    -118.912613,
+    39.508432
+],
+  "geometry": {"coordinates":[-118.91261299999999,39.508432],"type":"Point"}
 }

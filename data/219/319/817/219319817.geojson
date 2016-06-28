@@ -2,13 +2,14 @@
   "id": 219319817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149452,36.153622,-115.149452,36.153622",
     "geom:latitude":36.153622,
     "geom:longitude":-115.149452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Rexford Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219319817,
-    "wof:lastmodified":1449071831,
+    "wof:lastmodified":1466703220,
     "wof:name":"Cinnergy",
     "wof:parent_id":85892665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.149452,36.153622,-115.149452,36.153622],
+  "bbox": [
+    -115.149452,
+    36.153622,
+    -115.149452,
+    36.153622
+],
   "geometry": {"coordinates":[-115.149452,36.153622],"type":"Point"}
 }

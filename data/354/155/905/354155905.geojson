@@ -2,13 +2,14 @@
   "id": 354155905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183813,36.126021,-115.183813,36.126021",
     "geom:latitude":36.126021,
     "geom:longitude":-115.183813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Spring Mountain",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354155905,
-    "wof:lastmodified":1449067344,
+    "wof:lastmodified":1466704730,
     "wof:name":"Power Moves",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.183813,36.126021,-115.183813,36.126021],
+  "bbox": [
+    -115.183813,
+    36.126021,
+    -115.183813,
+    36.126021
+],
   "geometry": {"coordinates":[-115.183813,36.126021],"type":"Point"}
 }

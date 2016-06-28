@@ -2,13 +2,14 @@
   "id": 236363489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754049,39.523536,-119.754049,39.523536",
     "geom:latitude":39.523536,
     "geom:longitude":-119.754049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Marietta Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236363489,
-    "wof:lastmodified":1449004765,
+    "wof:lastmodified":1466705150,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-119.754049,39.523536,-119.754049,39.523536],
-  "geometry": {"coordinates":[-119.754049,39.523536],"type":"Point"}
+  "bbox": [
+    -119.754049,
+    39.523536,
+    -119.754049,
+    39.523536
+],
+  "geometry": {"coordinates":[-119.75404899999999,39.523536],"type":"Point"}
 }

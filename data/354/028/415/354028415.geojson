@@ -2,13 +2,14 @@
   "id": 354028415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140842,36.211872,-115.140842,36.211872",
     "geom:latitude":36.211872,
     "geom:longitude":-115.140842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 Synergy Street",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354028415,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466702228,
     "wof:name":"Stemacic of Southern Nevada",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.140842,36.211872,-115.140842,36.211872],
-  "geometry": {"coordinates":[-115.140842,36.211872],"type":"Point"}
+  "bbox": [
+    -115.140842,
+    36.211872,
+    -115.140842,
+    36.211872
+],
+  "geometry": {"coordinates":[-115.14084200000001,36.211872],"type":"Point"}
 }

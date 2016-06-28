@@ -2,13 +2,14 @@
   "id": 370149387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248019,36.208123,-115.248019,36.208123",
     "geom:latitude":36.208123,
     "geom:longitude":-115.248019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Box Canyon Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370149387,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1466701512,
     "wof:name":"Hager Brian DO",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.248019,36.208123,-115.248019,36.208123],
+  "bbox": [
+    -115.248019,
+    36.208123,
+    -115.248019,
+    36.208123
+],
   "geometry": {"coordinates":[-115.248019,36.208123],"type":"Point"}
 }

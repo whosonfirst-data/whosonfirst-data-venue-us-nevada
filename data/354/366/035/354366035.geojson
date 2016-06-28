@@ -2,13 +2,14 @@
   "id": 354366035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296406,36.088507,-115.296406,36.088507",
     "geom:latitude":36.088507,
     "geom:longitude":-115.296406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Patrick Ln Ste 12",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354366035,
-    "wof:lastmodified":1449067203,
+    "wof:lastmodified":1466706160,
     "wof:name":"LV Photo Party",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "party"
     ]
 },
-  "bbox": [-115.296406,36.088507,-115.296406,36.088507],
+  "bbox": [
+    -115.296406,
+    36.088507,
+    -115.296406,
+    36.088507
+],
   "geometry": {"coordinates":[-115.296406,36.088507],"type":"Point"}
 }

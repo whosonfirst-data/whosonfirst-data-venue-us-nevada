@@ -2,13 +2,14 @@
   "id": 219293261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766665,39.525772,-119.766665,39.525772",
     "geom:latitude":39.525772,
     "geom:longitude":-119.766665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219293261,
-    "wof:lastmodified":1449071085,
+    "wof:lastmodified":1466703014,
     "wof:name":"J Z Floors",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-119.766665,39.525772,-119.766665,39.525772],
+  "bbox": [
+    -119.766665,
+    39.525772,
+    -119.766665,
+    39.525772
+],
   "geometry": {"coordinates":[-119.766665,39.525772],"type":"Point"}
 }

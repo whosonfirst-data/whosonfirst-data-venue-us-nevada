@@ -2,13 +2,14 @@
   "id": 236390255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.020056,36.279227,-115.020056,36.279227",
     "geom:latitude":36.279227,
     "geom:longitude":-115.020056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 Speedway Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236390255,
-    "wof:lastmodified":1449005290,
+    "wof:lastmodified":1466705279,
     "wof:name":"Laser Las Vegas",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.020056,36.279227,-115.020056,36.279227],
+  "bbox": [
+    -115.020056,
+    36.279227,
+    -115.020056,
+    36.279227
+],
   "geometry": {"coordinates":[-115.020056,36.279227],"type":"Point"}
 }

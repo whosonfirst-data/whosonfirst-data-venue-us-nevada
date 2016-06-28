@@ -2,13 +2,14 @@
   "id": 236140261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.896283,39.525807,-119.896283,39.525807",
     "geom:latitude":39.525807,
     "geom:longitude":-119.896283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 Mescalero Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236140261,
-    "wof:lastmodified":1449002032,
+    "wof:lastmodified":1466702343,
     "wof:name":"Armstrong Brothers Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.896283,39.525807,-119.896283,39.525807],
+  "bbox": [
+    -119.896283,
+    39.525807,
+    -119.896283,
+    39.525807
+],
   "geometry": {"coordinates":[-119.896283,39.525807],"type":"Point"}
 }

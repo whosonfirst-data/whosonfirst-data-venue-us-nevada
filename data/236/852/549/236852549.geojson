@@ -2,13 +2,14 @@
   "id": 236852549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094121,36.03953,-115.094121,36.03953",
     "geom:latitude":36.03953,
     "geom:longitude":-115.094121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Ultra Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236852549,
-    "wof:lastmodified":1449004569,
+    "wof:lastmodified":1466706734,
     "wof:name":"Tentacle",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-115.094121,36.03953,-115.094121,36.03953],
+  "bbox": [
+    -115.094121,
+    36.03953,
+    -115.094121,
+    36.03953
+],
   "geometry": {"coordinates":[-115.094121,36.03953],"type":"Point"}
 }

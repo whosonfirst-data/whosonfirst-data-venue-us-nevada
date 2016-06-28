@@ -2,13 +2,14 @@
   "id": 236822629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121353,36.149591,-115.121353,36.149591",
     "geom:latitude":36.149591,
     "geom:longitude":-115.121353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Canosa Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236822629,
-    "wof:lastmodified":1449005127,
+    "wof:lastmodified":1466706695,
     "wof:name":"Plumbing Repair & Drain Cleani",
     "wof:parent_id":85892673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.121353,36.149591,-115.121353,36.149591],
+  "bbox": [
+    -115.121353,
+    36.149591,
+    -115.121353,
+    36.149591
+],
   "geometry": {"coordinates":[-115.121353,36.149591],"type":"Point"}
 }

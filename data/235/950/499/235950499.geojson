@@ -2,13 +2,14 @@
   "id": 235950499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280225,36.305353,-115.280225,36.305353",
     "geom:latitude":36.305353,
     "geom:longitude":-115.280225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8512 Gracious Pine Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235950499,
-    "wof:lastmodified":1449008391,
+    "wof:lastmodified":1466703524,
     "wof:name":"Vegas Valley Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.280225,36.305353,-115.280225,36.305353],
+  "bbox": [
+    -115.280225,
+    36.305353,
+    -115.280225,
+    36.305353
+],
   "geometry": {"coordinates":[-115.280225,36.305353],"type":"Point"}
 }

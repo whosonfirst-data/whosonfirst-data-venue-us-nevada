@@ -2,13 +2,14 @@
   "id": 236020499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141155,36.179462,-115.141155,36.179462",
     "geom:latitude":36.179462,
     "geom:longitude":-115.141155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 N Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236020499,
-    "wof:lastmodified":1449003139,
+    "wof:lastmodified":1466703862,
     "wof:name":"Ed Ferris Automotive Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.141155,36.179462,-115.141155,36.179462],
+  "bbox": [
+    -115.141155,
+    36.179462,
+    -115.141155,
+    36.179462
+],
   "geometry": {"coordinates":[-115.141155,36.179462],"type":"Point"}
 }

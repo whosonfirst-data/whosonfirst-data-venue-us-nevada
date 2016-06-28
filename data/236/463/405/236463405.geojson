@@ -2,13 +2,14 @@
   "id": 236463405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065195,36.223293,-115.065195,36.223293",
     "geom:latitude":36.223293,
     "geom:longitude":-115.065195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5025 Nellisoasis Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236463405,
-    "wof:lastmodified":1449004044,
+    "wof:lastmodified":1466705645,
     "wof:name":"Gary L Dudelston",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-115.065195,36.223293,-115.065195,36.223293],
+  "bbox": [
+    -115.065195,
+    36.223293,
+    -115.065195,
+    36.223293
+],
   "geometry": {"coordinates":[-115.065195,36.223293],"type":"Point"}
 }

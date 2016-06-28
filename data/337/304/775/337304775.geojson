@@ -2,13 +2,14 @@
   "id": 337304775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.571901,39.272485,-119.571901,39.272485",
     "geom:latitude":39.272485,
     "geom:longitude":-119.571901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Corral Dr",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337304775,
-    "wof:lastmodified":1449027552,
+    "wof:lastmodified":1466701838,
     "wof:name":"Responsive Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-119.571901,39.272485,-119.571901,39.272485],
+  "bbox": [
+    -119.571901,
+    39.272485,
+    -119.571901,
+    39.272485
+],
   "geometry": {"coordinates":[-119.571901,39.272485],"type":"Point"}
 }

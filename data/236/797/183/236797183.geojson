@@ -2,13 +2,14 @@
   "id": 236797183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158492,36.225873,-115.158492,36.225873",
     "geom:latitude":36.225873,
     "geom:longitude":-115.158492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3609 Silver Sand Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236797183,
-    "wof:lastmodified":1449004856,
+    "wof:lastmodified":1466706638,
     "wof:name":"Refreshments Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.158492,36.225873,-115.158492,36.225873],
+  "bbox": [
+    -115.158492,
+    36.225873,
+    -115.158492,
+    36.225873
+],
   "geometry": {"coordinates":[-115.158492,36.225873],"type":"Point"}
 }

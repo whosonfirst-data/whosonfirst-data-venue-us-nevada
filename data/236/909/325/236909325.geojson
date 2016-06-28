@@ -2,13 +2,14 @@
   "id": 236909325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087463,36.161437,-115.087463,36.161437",
     "geom:latitude":36.161437,
     "geom:longitude":-115.087463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 E del Norte Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236909325,
-    "wof:lastmodified":1449004262,
+    "wof:lastmodified":1466706825,
     "wof:name":"Nathan Dorman & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-115.087463,36.161437,-115.087463,36.161437],
+  "bbox": [
+    -115.087463,
+    36.161437,
+    -115.087463,
+    36.161437
+],
   "geometry": {"coordinates":[-115.087463,36.161437],"type":"Point"}
 }

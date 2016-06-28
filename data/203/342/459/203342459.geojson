@@ -2,13 +2,14 @@
   "id": 203342459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.729616,38.930289,-119.729616,38.930289",
     "geom:latitude":38.930289,
     "geom:longitude":-119.729616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203342459,
-    "wof:lastmodified":1449026739,
+    "wof:lastmodified":1466703105,
     "wof:name":"Garden Auction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-119.729616,38.930289,-119.729616,38.930289],
-  "geometry": {"coordinates":[-119.729616,38.930289],"type":"Point"}
+  "bbox": [
+    -119.729616,
+    38.930289,
+    -119.729616,
+    38.930289
+],
+  "geometry": {"coordinates":[-119.72961599999999,38.930289],"type":"Point"}
 }

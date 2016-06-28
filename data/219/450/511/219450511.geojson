@@ -2,13 +2,14 @@
   "id": 219450511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.047338,36.019546,-115.047338,36.019546",
     "geom:latitude":36.019546,
     "geom:longitude":-115.047338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219450511,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466703884,
     "wof:name":"Omni Diabetes Inc",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-115.047338,36.019546,-115.047338,36.019546],
+  "bbox": [
+    -115.047338,
+    36.019546,
+    -115.047338,
+    36.019546
+],
   "geometry": {"coordinates":[-115.047338,36.019546],"type":"Point"}
 }

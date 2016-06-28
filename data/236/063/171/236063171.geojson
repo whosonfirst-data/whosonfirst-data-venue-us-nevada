@@ -2,13 +2,14 @@
   "id": 236063171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.951439,36.02145,-114.951439,36.02145",
     "geom:latitude":36.02145,
     "geom:longitude":-114.951439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Blue Lantern Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236063171,
-    "wof:lastmodified":1449001890,
+    "wof:lastmodified":1466703994,
     "wof:name":"A S A P Promos",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.951439,36.02145,-114.951439,36.02145],
-  "geometry": {"coordinates":[-114.951439,36.02145],"type":"Point"}
+  "bbox": [
+    -114.951439,
+    36.02145,
+    -114.951439,
+    36.02145
+],
+  "geometry": {"coordinates":[-114.95143899999999,36.02145],"type":"Point"}
 }

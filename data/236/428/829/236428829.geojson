@@ -2,13 +2,14 @@
   "id": 236428829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303232,36.187527,-115.303232,36.187527",
     "geom:latitude":36.187527,
     "geom:longitude":-115.303232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 Hillwood Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236428829,
-    "wof:lastmodified":1449004985,
+    "wof:lastmodified":1466705387,
     "wof:name":"Link Tech LLC",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.303232,36.187527,-115.303232,36.187527],
-  "geometry": {"coordinates":[-115.303232,36.187527],"type":"Point"}
+  "bbox": [
+    -115.303232,
+    36.187527,
+    -115.303232,
+    36.187527
+],
+  "geometry": {"coordinates":[-115.30323199999999,36.187527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219293365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.039473,36.095551,-115.039473,36.095551",
     "geom:latitude":36.095551,
     "geom:longitude":-115.039473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5906 Bunch St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219293365,
-    "wof:lastmodified":1449071087,
+    "wof:lastmodified":1466703019,
     "wof:name":"Holmes Home Construction Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.039473,36.095551,-115.039473,36.095551],
+  "bbox": [
+    -115.039473,
+    36.095551,
+    -115.039473,
+    36.095551
+],
   "geometry": {"coordinates":[-115.039473,36.095551],"type":"Point"}
 }

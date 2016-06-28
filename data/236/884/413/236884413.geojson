@@ -2,13 +2,14 @@
   "id": 236884413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752936,39.540088,-119.752936,39.540088",
     "geom:latitude":39.540088,
     "geom:longitude":-119.752936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Pyramid Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236884413,
-    "wof:lastmodified":1449004470,
+    "wof:lastmodified":1466706677,
     "wof:name":"Tax Prep & Bookkeeping Svcs",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-119.752936,39.540088,-119.752936,39.540088],
-  "geometry": {"coordinates":[-119.752936,39.540088],"type":"Point"}
+  "bbox": [
+    -119.752936,
+    39.540088,
+    -119.752936,
+    39.540088
+],
+  "geometry": {"coordinates":[-119.75293600000001,39.540088],"type":"Point"}
 }

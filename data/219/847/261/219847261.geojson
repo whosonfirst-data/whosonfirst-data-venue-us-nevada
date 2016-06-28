@@ -2,13 +2,14 @@
   "id": 219847261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80154,39.505633,-119.80154,39.505633",
     "geom:latitude":39.505633,
     "geom:longitude":-119.80154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219847261,
-    "wof:lastmodified":1449071671,
+    "wof:lastmodified":1466705458,
     "wof:name":"High Sierra Music Company",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-119.80154,39.505633,-119.80154,39.505633],
+  "bbox": [
+    -119.80154,
+    39.505633,
+    -119.80154,
+    39.505633
+],
   "geometry": {"coordinates":[-119.80154,39.505633],"type":"Point"}
 }

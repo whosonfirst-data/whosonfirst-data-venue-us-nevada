@@ -2,13 +2,14 @@
   "id": 219945103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822409,39.417787,-119.822409,39.417787",
     "geom:latitude":39.417787,
     "geom:longitude":-119.822409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3665 Spirit Bluff Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219945103,
-    "wof:lastmodified":1449070691,
+    "wof:lastmodified":1466705741,
     "wof:name":"R B Assoc Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-119.822409,39.417787,-119.822409,39.417787],
-  "geometry": {"coordinates":[-119.822409,39.417787],"type":"Point"}
+  "bbox": [
+    -119.822409,
+    39.417787,
+    -119.822409,
+    39.417787
+],
+  "geometry": {"coordinates":[-119.82240899999999,39.417787],"type":"Point"}
 }

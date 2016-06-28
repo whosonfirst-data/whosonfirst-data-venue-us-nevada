@@ -2,13 +2,14 @@
   "id": 354178955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11592,36.153579,-115.11592,36.153579",
     "geom:latitude":36.153579,
     "geom:longitude":-115.11592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Euclid St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354178955,
-    "wof:lastmodified":1449067181,
+    "wof:lastmodified":1466704896,
     "wof:name":"M&J Lawn Maintenance & Landscaping",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-115.11592,36.153579,-115.11592,36.153579],
+  "bbox": [
+    -115.11592,
+    36.153579,
+    -115.11592,
+    36.153579
+],
   "geometry": {"coordinates":[-115.11592,36.153579],"type":"Point"}
 }

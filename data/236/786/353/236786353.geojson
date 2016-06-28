@@ -2,13 +2,14 @@
   "id": 236786353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163278,38.984212,-119.163278,38.984212",
     "geom:latitude":38.984212,
     "geom:longitude":-119.163278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236786353,
-    "wof:lastmodified":1449001998,
+    "wof:lastmodified":1466706630,
     "wof:name":"Lyon County Economic Dev Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "adm"
     ]
 },
-  "bbox": [-119.163278,38.984212,-119.163278,38.984212],
-  "geometry": {"coordinates":[-119.163278,38.984212],"type":"Point"}
+  "bbox": [
+    -119.163278,
+    38.984212,
+    -119.163278,
+    38.984212
+],
+  "geometry": {"coordinates":[-119.16327800000001,38.984212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220164135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125904,36.147236,-115.125904,36.147236",
     "geom:latitude":36.147236,
     "geom:longitude":-115.125904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Lamplighter Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":220164135,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466702842,
     "wof:name":"Central American Coffee Cnnctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-115.125904,36.147236,-115.125904,36.147236],
-  "geometry": {"coordinates":[-115.125904,36.147236],"type":"Point"}
+  "bbox": [
+    -115.125904,
+    36.147236,
+    -115.125904,
+    36.147236
+],
+  "geometry": {"coordinates":[-115.12590400000001,36.147236],"type":"Point"}
 }

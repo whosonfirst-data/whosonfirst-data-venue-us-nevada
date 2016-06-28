@@ -2,13 +2,14 @@
   "id": 203270797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224046,36.173369,-115.224046,36.173369",
     "geom:latitude":36.173369,
     "geom:longitude":-115.224046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203270797,
-    "wof:lastmodified":1449025286,
+    "wof:lastmodified":1466702639,
     "wof:name":"Alpha Engineering Company",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.224046,36.173369,-115.224046,36.173369],
+  "bbox": [
+    -115.224046,
+    36.173369,
+    -115.224046,
+    36.173369
+],
   "geometry": {"coordinates":[-115.224046,36.173369],"type":"Point"}
 }

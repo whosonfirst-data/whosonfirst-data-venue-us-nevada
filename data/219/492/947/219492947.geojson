@@ -2,13 +2,14 @@
   "id": 219492947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741113,39.150317,-119.741113,39.150317",
     "geom:latitude":39.150317,
     "geom:longitude":-119.741113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2452 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219492947,
-    "wof:lastmodified":1449070380,
+    "wof:lastmodified":1466704135,
     "wof:name":"Uspfo For Nevada",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-119.741113,39.150317,-119.741113,39.150317],
+  "bbox": [
+    -119.741113,
+    39.150317,
+    -119.741113,
+    39.150317
+],
   "geometry": {"coordinates":[-119.741113,39.150317],"type":"Point"}
 }

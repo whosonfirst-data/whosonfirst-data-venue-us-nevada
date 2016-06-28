@@ -2,13 +2,14 @@
   "id": 219893053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.652635,38.952646,-119.652635,38.952646",
     "geom:latitude":38.952646,
     "geom:longitude":-119.652635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1586 Barker Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219893053,
-    "wof:lastmodified":1449073256,
+    "wof:lastmodified":1466705730,
     "wof:name":"Port of Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.652635,38.952646,-119.652635,38.952646],
+  "bbox": [
+    -119.652635,
+    38.952646,
+    -119.652635,
+    38.952646
+],
   "geometry": {"coordinates":[-119.652635,38.952646],"type":"Point"}
 }

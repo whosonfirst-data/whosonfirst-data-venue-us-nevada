@@ -2,13 +2,14 @@
   "id": 219667747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153853,36.154793,-115.153853,36.154793",
     "geom:latitude":36.154793,
     "geom:longitude":-115.153853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219667747,
-    "wof:lastmodified":1449072689,
+    "wof:lastmodified":1466704137,
     "wof:name":"Elite Group",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "passenger"
     ]
 },
-  "bbox": [-115.153853,36.154793,-115.153853,36.154793],
+  "bbox": [
+    -115.153853,
+    36.154793,
+    -115.153853,
+    36.154793
+],
   "geometry": {"coordinates":[-115.153853,36.154793],"type":"Point"}
 }

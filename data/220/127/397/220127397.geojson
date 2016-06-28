@@ -2,13 +2,14 @@
   "id": 220127397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322679,36.161348,-115.322679,36.161348",
     "geom:latitude":36.161348,
     "geom:longitude":-115.322679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 Juniper Creek Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220127397,
-    "wof:lastmodified":1449074811,
+    "wof:lastmodified":1466702576,
     "wof:name":"Extrim",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.322679,36.161348,-115.322679,36.161348],
-  "geometry": {"coordinates":[-115.322679,36.161348],"type":"Point"}
+  "bbox": [
+    -115.322679,
+    36.161348,
+    -115.322679,
+    36.161348
+],
+  "geometry": {"coordinates":[-115.32267899999999,36.161348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354027635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199539,36.206527,-115.199539,36.206527",
     "geom:latitude":36.206527,
     "geom:longitude":-115.199539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2448 Perimeter Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354027635,
-    "wof:lastmodified":1449066245,
+    "wof:lastmodified":1466702204,
     "wof:name":"Fantasy Car Share",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.199539,36.206527,-115.199539,36.206527],
+  "bbox": [
+    -115.199539,
+    36.206527,
+    -115.199539,
+    36.206527
+],
   "geometry": {"coordinates":[-115.199539,36.206527],"type":"Point"}
 }

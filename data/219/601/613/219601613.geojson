@@ -2,13 +2,14 @@
   "id": 219601613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.191825,38.939071,-119.191825,38.939071",
     "geom:latitude":38.939071,
     "geom:longitude":-119.191825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 State Hwy 339",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219601613,
-    "wof:lastmodified":1449071975,
+    "wof:lastmodified":1466702940,
     "wof:name":"Peri & Sons Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.191825,38.939071,-119.191825,38.939071],
-  "geometry": {"coordinates":[-119.191825,38.939071],"type":"Point"}
+  "bbox": [
+    -119.191825,
+    38.939071,
+    -119.191825,
+    38.939071
+],
+  "geometry": {"coordinates":[-119.19182499999999,38.939071],"type":"Point"}
 }

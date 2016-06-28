@@ -2,13 +2,14 @@
   "id": 236516925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116881,36.249824,-115.116881,36.249824",
     "geom:latitude":36.249824,
     "geom:longitude":-115.116881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4980 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236516925,
-    "wof:lastmodified":1449002150,
+    "wof:lastmodified":1466705905,
     "wof:name":"Coast Converters Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.116881,36.249824,-115.116881,36.249824],
-  "geometry": {"coordinates":[-115.116881,36.249824],"type":"Point"}
+  "bbox": [
+    -115.116881,
+    36.249824,
+    -115.116881,
+    36.249824
+],
+  "geometry": {"coordinates":[-115.11688100000001,36.249824],"type":"Point"}
 }

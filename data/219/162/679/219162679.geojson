@@ -2,13 +2,14 @@
   "id": 219162679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.728011,40.868108,-115.728011,40.868108",
     "geom:latitude":40.868108,
     "geom:longitude":-115.728011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Union Pacific Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219162679,
-    "wof:lastmodified":1449073400,
+    "wof:lastmodified":1466701609,
     "wof:name":"Ekco Drilling",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.728011,40.868108,-115.728011,40.868108],
+  "bbox": [
+    -115.728011,
+    40.868108,
+    -115.728011,
+    40.868108
+],
   "geometry": {"coordinates":[-115.728011,40.868108],"type":"Point"}
 }

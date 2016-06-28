@@ -2,13 +2,14 @@
   "id": 220011373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933362,40.640375,-116.933362,40.640375",
     "geom:latitude":40.640375,
     "geom:longitude":-116.933362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 S Scott St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220011373,
-    "wof:lastmodified":1449074703,
+    "wof:lastmodified":1466701541,
     "wof:name":"Tresses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.933362,40.640375,-116.933362,40.640375],
+  "bbox": [
+    -116.933362,
+    40.640375,
+    -116.933362,
+    40.640375
+],
   "geometry": {"coordinates":[-116.933362,40.640375],"type":"Point"}
 }

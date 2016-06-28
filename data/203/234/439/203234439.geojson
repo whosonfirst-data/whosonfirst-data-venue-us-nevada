@@ -2,13 +2,14 @@
   "id": 203234439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.832803,35.97772,-114.832803,35.97772",
     "geom:latitude":35.97772,
     "geom:longitude":-114.832803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Ave G",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203234439,
-    "wof:lastmodified":1449026767,
+    "wof:lastmodified":1466702400,
     "wof:name":"Boulder Dam Credit UNION",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.832803,35.97772,-114.832803,35.97772],
+  "bbox": [
+    -114.832803,
+    35.97772,
+    -114.832803,
+    35.97772
+],
   "geometry": {"coordinates":[-114.832803,35.97772],"type":"Point"}
 }

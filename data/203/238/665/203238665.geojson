@@ -2,13 +2,14 @@
   "id": 203238665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213405,36.224297,-115.213405,36.224297",
     "geom:latitude":36.224297,
     "geom:longitude":-115.213405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5109 W Gowan Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203238665,
-    "wof:lastmodified":1449025627,
+    "wof:lastmodified":1466702430,
     "wof:name":"Hands On Mobile Car Wash",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.213405,36.224297,-115.213405,36.224297],
-  "geometry": {"coordinates":[-115.213405,36.224297],"type":"Point"}
+  "bbox": [
+    -115.213405,
+    36.224297,
+    -115.213405,
+    36.224297
+],
+  "geometry": {"coordinates":[-115.21340499999999,36.224297],"type":"Point"}
 }

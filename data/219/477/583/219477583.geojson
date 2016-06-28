@@ -2,13 +2,14 @@
   "id": 219477583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780816,39.494869,-119.780816,39.494869",
     "geom:latitude":39.494869,
     "geom:longitude":-119.780816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Gentry Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219477583,
-    "wof:lastmodified":1449070998,
+    "wof:lastmodified":1466704073,
     "wof:name":"El Paisano Mini Market",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "american"
     ]
 },
-  "bbox": [-119.780816,39.494869,-119.780816,39.494869],
+  "bbox": [
+    -119.780816,
+    39.494869,
+    -119.780816,
+    39.494869
+],
   "geometry": {"coordinates":[-119.780816,39.494869],"type":"Point"}
 }

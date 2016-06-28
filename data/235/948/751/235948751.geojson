@@ -2,13 +2,14 @@
   "id": 235948751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789448,39.602154,-119.789448,39.602154",
     "geom:latitude":39.602154,
     "geom:longitude":-119.789448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5780 Stella Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235948751,
-    "wof:lastmodified":1449008525,
+    "wof:lastmodified":1466703517,
     "wof:name":"Star Staging",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.789448,39.602154,-119.789448,39.602154],
-  "geometry": {"coordinates":[-119.789448,39.602154],"type":"Point"}
+  "bbox": [
+    -119.789448,
+    39.602154,
+    -119.789448,
+    39.602154
+],
+  "geometry": {"coordinates":[-119.78944799999999,39.602154],"type":"Point"}
 }

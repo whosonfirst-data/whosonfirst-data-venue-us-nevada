@@ -2,13 +2,14 @@
   "id": 203166289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317561,36.143754,-115.317561,36.143754",
     "geom:latitude":36.143754,
     "geom:longitude":-115.317561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10231 Wood Work Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203166289,
-    "wof:lastmodified":1449026012,
+    "wof:lastmodified":1466701696,
     "wof:name":"Expert Medical Transcription",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.317561,36.143754,-115.317561,36.143754],
+  "bbox": [
+    -115.317561,
+    36.143754,
+    -115.317561,
+    36.143754
+],
   "geometry": {"coordinates":[-115.317561,36.143754],"type":"Point"}
 }

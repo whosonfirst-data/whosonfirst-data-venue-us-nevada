@@ -2,13 +2,14 @@
   "id": 235975215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065582,36.137064,-115.065582,36.137064",
     "geom:latitude":36.137064,
     "geom:longitude":-115.065582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 S Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235975215,
-    "wof:lastmodified":1449008555,
+    "wof:lastmodified":1466703634,
     "wof:name":"Orion Watches",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-115.065582,36.137064,-115.065582,36.137064],
-  "geometry": {"coordinates":[-115.065582,36.137064],"type":"Point"}
+  "bbox": [
+    -115.065582,
+    36.137064,
+    -115.065582,
+    36.137064
+],
+  "geometry": {"coordinates":[-115.06558200000001,36.137064],"type":"Point"}
 }

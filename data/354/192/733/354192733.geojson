@@ -2,13 +2,14 @@
   "id": 354192733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16066,36.17902,-115.16066,36.17902",
     "geom:latitude":36.17902,
     "geom:longitude":-115.16066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Martin Luther King",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354192733,
-    "wof:lastmodified":1449067161,
+    "wof:lastmodified":1466704974,
     "wof:name":"Patricia's Soul Cafe",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soul"
     ]
 },
-  "bbox": [-115.16066,36.17902,-115.16066,36.17902],
-  "geometry": {"coordinates":[-115.16066,36.17902],"type":"Point"}
+  "bbox": [
+    -115.16066,
+    36.17902,
+    -115.16066,
+    36.17902
+],
+  "geometry": {"coordinates":[-115.16065999999999,36.17902],"type":"Point"}
 }

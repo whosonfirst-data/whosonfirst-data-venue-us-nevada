@@ -2,13 +2,14 @@
   "id": 220184137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152431,36.151377,-115.152431,36.151377",
     "geom:latitude":36.151377,
     "geom:longitude":-115.152431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220184137,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466702970,
     "wof:name":"Formal Wear Resale",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "formal"
     ]
 },
-  "bbox": [-115.152431,36.151377,-115.152431,36.151377],
-  "geometry": {"coordinates":[-115.152431,36.151377],"type":"Point"}
+  "bbox": [
+    -115.152431,
+    36.151377,
+    -115.152431,
+    36.151377
+],
+  "geometry": {"coordinates":[-115.15243100000001,36.151377],"type":"Point"}
 }

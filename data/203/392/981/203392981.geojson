@@ -2,13 +2,14 @@
   "id": 203392981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.741375,40.958063,-117.741375,40.958063",
     "geom:latitude":40.958063,
     "geom:longitude":-117.741375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 W Railroad St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203392981,
-    "wof:lastmodified":1449026460,
+    "wof:lastmodified":1466703309,
     "wof:name":"Dick's Custom Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-117.741375,40.958063,-117.741375,40.958063],
-  "geometry": {"coordinates":[-117.741375,40.958063],"type":"Point"}
+  "bbox": [
+    -117.741375,
+    40.958063,
+    -117.741375,
+    40.958063
+],
+  "geometry": {"coordinates":[-117.74137500000001,40.958063],"type":"Point"}
 }

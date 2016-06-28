@@ -2,13 +2,14 @@
   "id": 236133157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.855098,35.969579,-114.855098,35.969579",
     "geom:latitude":35.969579,
     "geom:longitude":-114.855098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236133157,
-    "wof:lastmodified":1449004560,
+    "wof:lastmodified":1466702193,
     "wof:name":"All Seasons Marine Inc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-114.855098,35.969579,-114.855098,35.969579],
+  "bbox": [
+    -114.855098,
+    35.969579,
+    -114.855098,
+    35.969579
+],
   "geometry": {"coordinates":[-114.855098,35.969579],"type":"Point"}
 }

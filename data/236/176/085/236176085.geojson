@@ -2,13 +2,14 @@
   "id": 236176085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119027,36.109007,-115.119027,36.109007",
     "geom:latitude":36.109007,
     "geom:longitude":-115.119027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4448 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236176085,
-    "wof:lastmodified":1449003877,
+    "wof:lastmodified":1466703106,
     "wof:name":"A-Tobin National Hearing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-115.119027,36.109007,-115.119027,36.109007],
+  "bbox": [
+    -115.119027,
+    36.109007,
+    -115.119027,
+    36.109007
+],
   "geometry": {"coordinates":[-115.119027,36.109007],"type":"Point"}
 }

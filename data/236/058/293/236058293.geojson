@@ -2,13 +2,14 @@
   "id": 236058293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.052083,36.194803,-116.052083,36.194803",
     "geom:latitude":36.194803,
     "geom:longitude":-116.052083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 State Hwy 372",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236058293,
-    "wof:lastmodified":1449002037,
+    "wof:lastmodified":1466703984,
     "wof:name":"No To Abuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-116.052083,36.194803,-116.052083,36.194803],
+  "bbox": [
+    -116.052083,
+    36.194803,
+    -116.052083,
+    36.194803
+],
   "geometry": {"coordinates":[-116.052083,36.194803],"type":"Point"}
 }

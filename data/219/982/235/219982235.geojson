@@ -2,13 +2,14 @@
   "id": 219982235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250021,36.2404,-115.250021,36.2404",
     "geom:latitude":36.2404,
     "geom:longitude":-115.250021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7091 W Craig Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219982235,
-    "wof:lastmodified":1449070994,
+    "wof:lastmodified":1466706182,
     "wof:name":"Goodwill Of Southern Nevada",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "thrift"
     ]
 },
-  "bbox": [-115.250021,36.2404,-115.250021,36.2404],
+  "bbox": [
+    -115.250021,
+    36.2404,
+    -115.250021,
+    36.2404
+],
   "geometry": {"coordinates":[-115.250021,36.2404],"type":"Point"}
 }

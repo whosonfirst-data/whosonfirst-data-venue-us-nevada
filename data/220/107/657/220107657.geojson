@@ -2,13 +2,14 @@
   "id": 220107657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.737377,40.969852,-117.737377,40.969852",
     "geom:latitude":40.969852,
     "geom:longitude":-117.737377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W 4th St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220107657,
-    "wof:lastmodified":1449074064,
+    "wof:lastmodified":1466702432,
     "wof:name":"Humboldt Printers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "si"
     ]
 },
-  "bbox": [-117.737377,40.969852,-117.737377,40.969852],
+  "bbox": [
+    -117.737377,
+    40.969852,
+    -117.737377,
+    40.969852
+],
   "geometry": {"coordinates":[-117.737377,40.969852],"type":"Point"}
 }

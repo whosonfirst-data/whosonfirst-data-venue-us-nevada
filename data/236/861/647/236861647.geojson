@@ -2,13 +2,14 @@
   "id": 236861647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057935,36.084369,-115.057935,36.084369",
     "geom:latitude":36.084369,
     "geom:longitude":-115.057935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Galleria Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236861647,
-    "wof:lastmodified":1449005223,
+    "wof:lastmodified":1466706632,
     "wof:name":"Clark County Public Schools",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.057935,36.084369,-115.057935,36.084369],
+  "bbox": [
+    -115.057935,
+    36.084369,
+    -115.057935,
+    36.084369
+],
   "geometry": {"coordinates":[-115.057935,36.084369],"type":"Point"}
 }

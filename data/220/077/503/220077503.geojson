@@ -2,13 +2,14 @@
   "id": 220077503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242369,36.17986,-115.242369,36.17986",
     "geom:latitude":36.17986,
     "geom:longitude":-115.242369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220077503,
-    "wof:lastmodified":1449074164,
+    "wof:lastmodified":1466702250,
     "wof:name":"Everynetwork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.242369,36.17986,-115.242369,36.17986],
+  "bbox": [
+    -115.242369,
+    36.17986,
+    -115.242369,
+    36.17986
+],
   "geometry": {"coordinates":[-115.242369,36.17986],"type":"Point"}
 }

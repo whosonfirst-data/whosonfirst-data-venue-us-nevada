@@ -2,13 +2,14 @@
   "id": 370194815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299627,36.191474,-115.299627,36.191474",
     "geom:latitude":36.191474,
     "geom:longitude":-115.299627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Village Center Cir Ste 150",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370194815,
-    "wof:lastmodified":1449031979,
+    "wof:lastmodified":1466702381,
     "wof:name":"Alexander George J MD",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-115.299627,36.191474,-115.299627,36.191474],
+  "bbox": [
+    -115.299627,
+    36.191474,
+    -115.299627,
+    36.191474
+],
   "geometry": {"coordinates":[-115.299627,36.191474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236348511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.861073,39.540437,-119.861073,39.540437",
     "geom:latitude":39.540437,
     "geom:longitude":-119.861073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Las Brisas Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236348511,
-    "wof:lastmodified":1449001785,
+    "wof:lastmodified":1466705006,
     "wof:name":"Silverado Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-119.861073,39.540437,-119.861073,39.540437],
+  "bbox": [
+    -119.861073,
+    39.540437,
+    -119.861073,
+    39.540437
+],
   "geometry": {"coordinates":[-119.861073,39.540437],"type":"Point"}
 }

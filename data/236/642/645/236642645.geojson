@@ -2,13 +2,14 @@
   "id": 236642645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.950733,36.066842,-114.950733,36.066842",
     "geom:latitude":36.066842,
     "geom:longitude":-114.950733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Hull St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236642645,
-    "wof:lastmodified":1449001820,
+    "wof:lastmodified":1466706294,
     "wof:name":"Jay's Welding",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.950733,36.066842,-114.950733,36.066842],
+  "bbox": [
+    -114.950733,
+    36.066842,
+    -114.950733,
+    36.066842
+],
   "geometry": {"coordinates":[-114.950733,36.066842],"type":"Point"}
 }

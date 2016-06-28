@@ -2,13 +2,14 @@
   "id": 236424903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802753,39.500083,-119.802753,39.500083",
     "geom:latitude":39.500083,
     "geom:longitude":-119.802753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 W Grove St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236424903,
-    "wof:lastmodified":1449005002,
+    "wof:lastmodified":1466705482,
     "wof:name":"Quantum Audio Video LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "lighting"
     ]
 },
-  "bbox": [-119.802753,39.500083,-119.802753,39.500083],
+  "bbox": [
+    -119.802753,
+    39.500083,
+    -119.802753,
+    39.500083
+],
   "geometry": {"coordinates":[-119.802753,39.500083],"type":"Point"}
 }

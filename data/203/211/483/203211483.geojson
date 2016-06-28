@@ -2,13 +2,14 @@
   "id": 203211483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295342,36.153555,-115.295342,36.153555",
     "geom:latitude":36.153555,
     "geom:longitude":-115.295342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9117 Lazy Hill Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203211483,
-    "wof:lastmodified":1449025385,
+    "wof:lastmodified":1466702163,
     "wof:name":"M2M Merchandising Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandising"
     ]
 },
-  "bbox": [-115.295342,36.153555,-115.295342,36.153555],
-  "geometry": {"coordinates":[-115.295342,36.153555],"type":"Point"}
+  "bbox": [
+    -115.295342,
+    36.153555,
+    -115.295342,
+    36.153555
+],
+  "geometry": {"coordinates":[-115.29534200000001,36.153555],"type":"Point"}
 }

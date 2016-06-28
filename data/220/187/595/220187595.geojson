@@ -2,13 +2,14 @@
   "id": 220187595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.805275,39.489312,-119.805275,39.489312",
     "geom:latitude":39.489312,
     "geom:longitude":-119.805275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 Warren Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220187595,
-    "wof:lastmodified":1449074159,
+    "wof:lastmodified":1466702993,
     "wof:name":"Superior Dental Laboratory",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-119.805275,39.489312,-119.805275,39.489312],
-  "geometry": {"coordinates":[-119.805275,39.489312],"type":"Point"}
+  "bbox": [
+    -119.805275,
+    39.489312,
+    -119.805275,
+    39.489312
+],
+  "geometry": {"coordinates":[-119.80527499999999,39.489312],"type":"Point"}
 }

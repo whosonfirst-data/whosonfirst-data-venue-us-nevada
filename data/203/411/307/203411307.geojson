@@ -2,13 +2,14 @@
   "id": 203411307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992215,36.191831,-115.992215,36.191831",
     "geom:latitude":36.191831,
     "geom:longitude":-115.992215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 E Calvada Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203411307,
-    "wof:lastmodified":1449025040,
+    "wof:lastmodified":1466703366,
     "wof:name":"Pahrump Dialysis Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "center"
     ]
 },
-  "bbox": [-115.992215,36.191831,-115.992215,36.191831],
+  "bbox": [
+    -115.992215,
+    36.191831,
+    -115.992215,
+    36.191831
+],
   "geometry": {"coordinates":[-115.992215,36.191831],"type":"Point"}
 }

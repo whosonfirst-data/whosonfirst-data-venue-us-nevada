@@ -2,13 +2,14 @@
   "id": 219772447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.711609,39.564152,-119.711609,39.564152",
     "geom:latitude":39.564152,
     "geom:longitude":-119.711609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3570 Waterfall Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219772447,
-    "wof:lastmodified":1449071980,
+    "wof:lastmodified":1466705028,
     "wof:name":"Whitehead Elementary School",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.711609,39.564152,-119.711609,39.564152],
+  "bbox": [
+    -119.711609,
+    39.564152,
+    -119.711609,
+    39.564152
+],
   "geometry": {"coordinates":[-119.711609,39.564152],"type":"Point"}
 }

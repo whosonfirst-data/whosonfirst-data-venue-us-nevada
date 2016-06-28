@@ -2,13 +2,14 @@
   "id": 354004129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043606,36.063167,-115.043606,36.063167",
     "geom:latitude":36.063167,
     "geom:longitude":-115.043606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 W. Sunset Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354004129,
-    "wof:lastmodified":1449066535,
+    "wof:lastmodified":1466701561,
     "wof:name":"Coldstone Creamery",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-115.043606,36.063167,-115.043606,36.063167],
+  "bbox": [
+    -115.043606,
+    36.063167,
+    -115.043606,
+    36.063167
+],
   "geometry": {"coordinates":[-115.043606,36.063167],"type":"Point"}
 }

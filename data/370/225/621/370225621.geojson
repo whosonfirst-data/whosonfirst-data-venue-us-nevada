@@ -2,13 +2,14 @@
   "id": 370225621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.258287,36.174134,-115.258287,36.174134",
     "geom:latitude":36.174134,
     "geom:longitude":-115.258287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7510 Westcliff Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370225621,
-    "wof:lastmodified":1449030149,
+    "wof:lastmodified":1466703175,
     "wof:name":"Bobby Lawrence Karate Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-115.258287,36.174134,-115.258287,36.174134],
+  "bbox": [
+    -115.258287,
+    36.174134,
+    -115.258287,
+    36.174134
+],
   "geometry": {"coordinates":[-115.258287,36.174134],"type":"Point"}
 }

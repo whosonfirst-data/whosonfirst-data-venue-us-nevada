@@ -2,13 +2,14 @@
   "id": 219188255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760986,39.016195,-119.760986,39.016195",
     "geom:latitude":39.016195,
     "geom:longitude":-119.760986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2393 Heybourne Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219188255,
-    "wof:lastmodified":1449072129,
+    "wof:lastmodified":1466701993,
     "wof:name":"Blackhawk Products Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-119.760986,39.016195,-119.760986,39.016195],
+  "bbox": [
+    -119.760986,
+    39.016195,
+    -119.760986,
+    39.016195
+],
   "geometry": {"coordinates":[-119.760986,39.016195],"type":"Point"}
 }

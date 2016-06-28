@@ -2,13 +2,14 @@
   "id": 203298683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752351,39.163475,-119.752351,39.163475",
     "geom:latitude":39.163475,
     "geom:longitude":-119.752351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 Goldfield Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203298683,
-    "wof:lastmodified":1449025422,
+    "wof:lastmodified":1466702819,
     "wof:name":"Nevada Audit & Interviewing",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-119.752351,39.163475,-119.752351,39.163475],
+  "bbox": [
+    -119.752351,
+    39.163475,
+    -119.752351,
+    39.163475
+],
   "geometry": {"coordinates":[-119.752351,39.163475],"type":"Point"}
 }

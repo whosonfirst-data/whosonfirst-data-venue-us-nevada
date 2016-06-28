@@ -2,13 +2,14 @@
   "id": 354326717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.18267,36.096853,-115.18267,36.096853",
     "geom:latitude":36.096853,
     "geom:longitude":-115.18267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5115 Dean Martin Dr 603",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354326717,
-    "wof:lastmodified":1449066647,
+    "wof:lastmodified":1466705881,
     "wof:name":"Carls's Cool Cars",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.18267,36.096853,-115.18267,36.096853],
+  "bbox": [
+    -115.18267,
+    36.096853,
+    -115.18267,
+    36.096853
+],
   "geometry": {"coordinates":[-115.18267,36.096853],"type":"Point"}
 }

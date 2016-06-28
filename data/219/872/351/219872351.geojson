@@ -2,13 +2,14 @@
   "id": 219872351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.85762,35.971314,-114.85762,35.971314",
     "geom:latitude":35.971314,
     "geom:longitude":-114.85762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Foothill Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219872351,
-    "wof:lastmodified":1449070705,
+    "wof:lastmodified":1466705505,
     "wof:name":"Mark V Fiberglass",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fiber"
     ]
 },
-  "bbox": [-114.85762,35.971314,-114.85762,35.971314],
+  "bbox": [
+    -114.85762,
+    35.971314,
+    -114.85762,
+    35.971314
+],
   "geometry": {"coordinates":[-114.85762,35.971314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219702075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075138,36.038666,-115.075138,36.038666",
     "geom:latitude":36.038666,
     "geom:longitude":-115.075138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Bethany St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219702075,
-    "wof:lastmodified":1449072141,
+    "wof:lastmodified":1466704480,
     "wof:name":"California Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.075138,36.038666,-115.075138,36.038666],
+  "bbox": [
+    -115.075138,
+    36.038666,
+    -115.075138,
+    36.038666
+],
   "geometry": {"coordinates":[-115.075138,36.038666],"type":"Point"}
 }

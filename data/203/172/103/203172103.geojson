@@ -2,13 +2,14 @@
   "id": 203172103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097309,36.229975,-115.097309,36.229975",
     "geom:latitude":36.229975,
     "geom:longitude":-115.097309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3923 N Blue Wave Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203172103,
-    "wof:lastmodified":1449025682,
+    "wof:lastmodified":1466701744,
     "wof:name":"Maria A Sanchez Care Home",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-115.097309,36.229975,-115.097309,36.229975],
+  "bbox": [
+    -115.097309,
+    36.229975,
+    -115.097309,
+    36.229975
+],
   "geometry": {"coordinates":[-115.097309,36.229975],"type":"Point"}
 }

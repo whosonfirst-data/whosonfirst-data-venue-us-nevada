@@ -2,13 +2,14 @@
   "id": 354018683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.952078,36.043309,-114.952078,36.043309",
     "geom:latitude":36.043309,
     "geom:longitude":-114.952078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 River Mountain Dr.",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354018683,
-    "wof:lastmodified":1449066775,
+    "wof:lastmodified":1466701982,
     "wof:name":"Millers Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.952078,36.043309,-114.952078,36.043309],
+  "bbox": [
+    -114.952078,
+    36.043309,
+    -114.952078,
+    36.043309
+],
   "geometry": {"coordinates":[-114.952078,36.043309],"type":"Point"}
 }

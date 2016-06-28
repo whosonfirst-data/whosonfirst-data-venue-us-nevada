@@ -2,13 +2,14 @@
   "id": 219825105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080058,36.065838,-115.080058,36.065838",
     "geom:latitude":36.065838,
     "geom:longitude":-115.080058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Viewpoint Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219825105,
-    "wof:lastmodified":1449070506,
+    "wof:lastmodified":1466705322,
     "wof:name":"P C Trauth LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.080058,36.065838,-115.080058,36.065838],
-  "geometry": {"coordinates":[-115.080058,36.065838],"type":"Point"}
+  "bbox": [
+    -115.080058,
+    36.065838,
+    -115.080058,
+    36.065838
+],
+  "geometry": {"coordinates":[-115.08005799999999,36.065838],"type":"Point"}
 }

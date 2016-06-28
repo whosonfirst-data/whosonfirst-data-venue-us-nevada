@@ -2,13 +2,14 @@
   "id": 236320953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097093,36.086139,-115.097093,36.086139",
     "geom:latitude":36.086139,
     "geom:longitude":-115.097093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3560 E Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236320953,
-    "wof:lastmodified":1449002306,
+    "wof:lastmodified":1466704736,
     "wof:name":"Via West Internet Services Inc",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-115.097093,36.086139,-115.097093,36.086139],
+  "bbox": [
+    -115.097093,
+    36.086139,
+    -115.097093,
+    36.086139
+],
   "geometry": {"coordinates":[-115.097093,36.086139],"type":"Point"}
 }

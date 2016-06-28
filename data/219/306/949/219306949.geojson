@@ -2,13 +2,14 @@
   "id": 219306949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097014,36.034729,-115.097014,36.034729",
     "geom:latitude":36.034729,
     "geom:longitude":-115.097014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2558 Wigwam Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219306949,
-    "wof:lastmodified":1449073752,
+    "wof:lastmodified":1466703134,
     "wof:name":"Cardio Care Imaging Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "imaging"
     ]
 },
-  "bbox": [-115.097014,36.034729,-115.097014,36.034729],
+  "bbox": [
+    -115.097014,
+    36.034729,
+    -115.097014,
+    36.034729
+],
   "geometry": {"coordinates":[-115.097014,36.034729],"type":"Point"}
 }

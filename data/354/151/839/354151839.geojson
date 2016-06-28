@@ -2,13 +2,14 @@
   "id": 354151839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216125,36.114432,-115.216125,36.114432",
     "geom:latitude":36.114432,
     "geom:longitude":-115.216125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5485 W Flamingo Suite 203",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354151839,
-    "wof:lastmodified":1449065943,
+    "wof:lastmodified":1466704688,
     "wof:name":"the MacClinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.216125,36.114432,-115.216125,36.114432],
-  "geometry": {"coordinates":[-115.216125,36.114432],"type":"Point"}
+  "bbox": [
+    -115.216125,
+    36.114432,
+    -115.216125,
+    36.114432
+],
+  "geometry": {"coordinates":[-115.21612500000001,36.114432],"type":"Point"}
 }

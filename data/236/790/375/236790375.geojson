@@ -2,13 +2,14 @@
   "id": 236790375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082323,36.069087,-115.082323,36.069087",
     "geom:latitude":36.069087,
     "geom:longitude":-115.082323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236790375,
-    "wof:lastmodified":1449004320,
+    "wof:lastmodified":1466706642,
     "wof:name":"Rapunzels Den",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.082323,36.069087,-115.082323,36.069087],
+  "bbox": [
+    -115.082323,
+    36.069087,
+    -115.082323,
+    36.069087
+],
   "geometry": {"coordinates":[-115.082323,36.069087],"type":"Point"}
 }

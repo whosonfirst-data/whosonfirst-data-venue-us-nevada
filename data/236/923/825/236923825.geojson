@@ -2,13 +2,14 @@
   "id": 236923825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204972,36.161165,-115.204972,36.161165",
     "geom:latitude":36.161165,
     "geom:longitude":-115.204972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4507 Baxter Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236923825,
-    "wof:lastmodified":1449005111,
+    "wof:lastmodified":1466706846,
     "wof:name":"Miracle Marketing Strategies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.204972,36.161165,-115.204972,36.161165],
+  "bbox": [
+    -115.204972,
+    36.161165,
+    -115.204972,
+    36.161165
+],
   "geometry": {"coordinates":[-115.204972,36.161165],"type":"Point"}
 }

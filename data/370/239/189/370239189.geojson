@@ -2,13 +2,14 @@
   "id": 370239189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225288,36.142656,-115.225288,36.142656",
     "geom:latitude":36.142656,
     "geom:longitude":-115.225288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 S Jones Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370239189,
-    "wof:lastmodified":1449029413,
+    "wof:lastmodified":1466703442,
     "wof:name":"Kravenko Dance Academy",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.225288,36.142656,-115.225288,36.142656],
-  "geometry": {"coordinates":[-115.225288,36.142656],"type":"Point"}
+  "bbox": [
+    -115.225288,
+    36.142656,
+    -115.225288,
+    36.142656
+],
+  "geometry": {"coordinates":[-115.22528800000001,36.142656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236316669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26936,36.12095,-115.26936,36.12095",
     "geom:latitude":36.12095,
     "geom:longitude":-115.26936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3746 Bombastic Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236316669,
-    "wof:lastmodified":1449003970,
+    "wof:lastmodified":1466704821,
     "wof:name":"Coupons of Las Vegas",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.26936,36.12095,-115.26936,36.12095],
-  "geometry": {"coordinates":[-115.26936,36.12095],"type":"Point"}
+  "bbox": [
+    -115.26936,
+    36.12095,
+    -115.26936,
+    36.12095
+],
+  "geometry": {"coordinates":[-115.26936000000001,36.12095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219309487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230814,36.202802,-115.230814,36.202802",
     "geom:latitude":36.202802,
     "geom:longitude":-115.230814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 el Molino Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219309487,
-    "wof:lastmodified":1449071185,
+    "wof:lastmodified":1466703165,
     "wof:name":"Island Girl",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-115.230814,36.202802,-115.230814,36.202802],
+  "bbox": [
+    -115.230814,
+    36.202802,
+    -115.230814,
+    36.202802
+],
   "geometry": {"coordinates":[-115.230814,36.202802],"type":"Point"}
 }

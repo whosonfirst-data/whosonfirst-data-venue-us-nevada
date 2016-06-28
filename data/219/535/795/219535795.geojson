@@ -2,13 +2,14 @@
   "id": 219535795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122486,35.964295,-115.122486,35.964295",
     "geom:latitude":35.964295,
     "geom:longitude":-115.122486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Sebring Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219535795,
-    "wof:lastmodified":1449071035,
+    "wof:lastmodified":1466701967,
     "wof:name":"Tukys Inc",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.122486,35.964295,-115.122486,35.964295],
-  "geometry": {"coordinates":[-115.122486,35.964295],"type":"Point"}
+  "bbox": [
+    -115.122486,
+    35.964295,
+    -115.122486,
+    35.964295
+],
+  "geometry": {"coordinates":[-115.12248599999999,35.964295],"type":"Point"}
 }

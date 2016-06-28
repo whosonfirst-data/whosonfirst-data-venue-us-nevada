@@ -2,13 +2,14 @@
   "id": 370244361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134634,36.17829,-115.134634,36.17829",
     "geom:latitude":36.17829,
     "geom:longitude":-115.134634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Duneville St.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370244361,
-    "wof:lastmodified":1449030429,
+    "wof:lastmodified":1466703557,
     "wof:name":"Bridal Spectacular",
     "wof:parent_id":85896897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "wedding"
     ]
 },
-  "bbox": [-115.134634,36.17829,-115.134634,36.17829],
-  "geometry": {"coordinates":[-115.134634,36.17829],"type":"Point"}
+  "bbox": [
+    -115.134634,
+    36.17829,
+    -115.134634,
+    36.17829
+],
+  "geometry": {"coordinates":[-115.13463400000001,36.17829],"type":"Point"}
 }

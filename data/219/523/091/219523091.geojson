@@ -2,13 +2,14 @@
   "id": 219523091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067499,36.110783,-115.067499,36.110783",
     "geom:latitude":36.110783,
     "geom:longitude":-115.067499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4829 Plata del Sol Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219523091,
-    "wof:lastmodified":1449072411,
+    "wof:lastmodified":1466701724,
     "wof:name":"Have Cooker Will Traver",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.067499,36.110783,-115.067499,36.110783],
+  "bbox": [
+    -115.067499,
+    36.110783,
+    -115.067499,
+    36.110783
+],
   "geometry": {"coordinates":[-115.067499,36.110783],"type":"Point"}
 }

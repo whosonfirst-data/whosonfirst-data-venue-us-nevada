@@ -2,13 +2,14 @@
   "id": 219338809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128986,36.10812,-115.128986,36.10812",
     "geom:latitude":36.10812,
     "geom:longitude":-115.128986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1694 Jupiter Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219338809,
-    "wof:lastmodified":1449071623,
+    "wof:lastmodified":1466703342,
     "wof:name":"I M Handy",
     "wof:parent_id":85879741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.128986,36.10812,-115.128986,36.10812],
+  "bbox": [
+    -115.128986,
+    36.10812,
+    -115.128986,
+    36.10812
+],
   "geometry": {"coordinates":[-115.128986,36.10812],"type":"Point"}
 }

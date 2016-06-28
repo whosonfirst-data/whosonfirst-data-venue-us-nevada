@@ -2,13 +2,14 @@
   "id": 219700299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754025,39.167813,-119.754025,39.167813",
     "geom:latitude":39.167813,
     "geom:longitude":-119.754025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Palo Verde Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219700299,
-    "wof:lastmodified":1449073608,
+    "wof:lastmodified":1466704447,
     "wof:name":"Silver State Clean Air",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "purification"
     ]
 },
-  "bbox": [-119.754025,39.167813,-119.754025,39.167813],
+  "bbox": [
+    -119.754025,
+    39.167813,
+    -119.754025,
+    39.167813
+],
   "geometry": {"coordinates":[-119.754025,39.167813],"type":"Point"}
 }

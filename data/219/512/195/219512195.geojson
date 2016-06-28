@@ -2,13 +2,14 @@
   "id": 219512195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.759672,40.833313,-115.759672,40.833313",
     "geom:latitude":40.833313,
     "geom:longitude":-115.759672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Commercial St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219512195,
-    "wof:lastmodified":1449072969,
+    "wof:lastmodified":1466701518,
     "wof:name":"Horizon Hospice",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-115.759672,40.833313,-115.759672,40.833313],
-  "geometry": {"coordinates":[-115.759672,40.833313],"type":"Point"}
+  "bbox": [
+    -115.759672,
+    40.833313,
+    -115.759672,
+    40.833313
+],
+  "geometry": {"coordinates":[-115.75967199999999,40.833313],"type":"Point"}
 }

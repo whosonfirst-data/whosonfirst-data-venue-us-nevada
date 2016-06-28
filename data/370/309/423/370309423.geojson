@@ -2,13 +2,14 @@
   "id": 370309423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774677,39.558538,-119.774677,39.558538",
     "geom:latitude":39.558538,
     "geom:longitude":-119.774677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 Green Vista Dr 314",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":370309423,
-    "wof:lastmodified":1449029849,
+    "wof:lastmodified":1466704532,
     "wof:name":"Advanced Vision & Laser Center",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "vision"
     ]
 },
-  "bbox": [-119.774677,39.558538,-119.774677,39.558538],
+  "bbox": [
+    -119.774677,
+    39.558538,
+    -119.774677,
+    39.558538
+],
   "geometry": {"coordinates":[-119.774677,39.558538],"type":"Point"}
 }

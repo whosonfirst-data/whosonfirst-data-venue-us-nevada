@@ -2,13 +2,14 @@
   "id": 236022901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088972,36.068864,-115.088972,36.068864",
     "geom:latitude":36.068864,
     "geom:longitude":-115.088972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Bass Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236022901,
-    "wof:lastmodified":1449002595,
+    "wof:lastmodified":1466703877,
     "wof:name":"Newport Cove Vistas",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.088972,36.068864,-115.088972,36.068864],
+  "bbox": [
+    -115.088972,
+    36.068864,
+    -115.088972,
+    36.068864
+],
   "geometry": {"coordinates":[-115.088972,36.068864],"type":"Point"}
 }

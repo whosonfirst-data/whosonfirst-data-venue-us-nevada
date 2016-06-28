@@ -2,13 +2,14 @@
   "id": 236138353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.058473,36.072469,-115.058473,36.072469",
     "geom:latitude":36.072469,
     "geom:longitude":-115.058473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Alta Oaks Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236138353,
-    "wof:lastmodified":1449002426,
+    "wof:lastmodified":1466702298,
     "wof:name":"Vai Corp",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.058473,36.072469,-115.058473,36.072469],
-  "geometry": {"coordinates":[-115.058473,36.072469],"type":"Point"}
+  "bbox": [
+    -115.058473,
+    36.072469,
+    -115.058473,
+    36.072469
+],
+  "geometry": {"coordinates":[-115.05847300000001,36.072469],"type":"Point"}
 }

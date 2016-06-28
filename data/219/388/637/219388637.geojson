@@ -2,13 +2,14 @@
   "id": 219388637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.026119,36.224053,-116.026119,36.224053",
     "geom:latitude":36.224053,
     "geom:longitude":-116.026119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Fairbanks St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219388637,
-    "wof:lastmodified":1449070503,
+    "wof:lastmodified":1466703566,
     "wof:name":"MHS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.026119,36.224053,-116.026119,36.224053],
-  "geometry": {"coordinates":[-116.026119,36.224053],"type":"Point"}
+  "bbox": [
+    -116.026119,
+    36.224053,
+    -116.026119,
+    36.224053
+],
+  "geometry": {"coordinates":[-116.02611899999999,36.224053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219686213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253544,36.250269,-115.253544,36.250269",
     "geom:latitude":36.250269,
     "geom:longitude":-115.253544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 N Monte Cristo Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219686213,
-    "wof:lastmodified":1449073069,
+    "wof:lastmodified":1466704347,
     "wof:name":"Gift Givers",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.253544,36.250269,-115.253544,36.250269],
-  "geometry": {"coordinates":[-115.253544,36.250269],"type":"Point"}
+  "bbox": [
+    -115.253544,
+    36.250269,
+    -115.253544,
+    36.250269
+],
+  "geometry": {"coordinates":[-115.25354400000001,36.250269],"type":"Point"}
 }

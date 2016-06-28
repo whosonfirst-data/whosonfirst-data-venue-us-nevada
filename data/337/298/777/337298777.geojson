@@ -2,13 +2,14 @@
   "id": 337298777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105229,36.158906,-115.105229,36.158906",
     "geom:latitude":36.158906,
     "geom:longitude":-115.105229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337298777,
-    "wof:lastmodified":1449027156,
+    "wof:lastmodified":1466701697,
     "wof:name":"Wholesale Auto Repair",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.105229,36.158906,-115.105229,36.158906],
-  "geometry": {"coordinates":[-115.105229,36.158906],"type":"Point"}
+  "bbox": [
+    -115.105229,
+    36.158906,
+    -115.105229,
+    36.158906
+],
+  "geometry": {"coordinates":[-115.10522899999999,36.158906],"type":"Point"}
 }

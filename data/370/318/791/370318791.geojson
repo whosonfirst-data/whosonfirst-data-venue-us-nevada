@@ -2,13 +2,14 @@
   "id": 370318791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789087,39.502015,-119.789087,39.502015",
     "geom:latitude":39.502015,
     "geom:longitude":-119.789087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370318791,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1466704577,
     "wof:name":"Aura Salon & Spa",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789087,39.502015,-119.789087,39.502015],
-  "geometry": {"coordinates":[-119.789087,39.502015],"type":"Point"}
+  "bbox": [
+    -119.789087,
+    39.502015,
+    -119.789087,
+    39.502015
+],
+  "geometry": {"coordinates":[-119.78908699999999,39.502015],"type":"Point"}
 }

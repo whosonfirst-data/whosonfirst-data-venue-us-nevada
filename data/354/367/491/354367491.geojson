@@ -2,13 +2,14 @@
   "id": 354367491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100869,36.074574,-115.100869,36.074574",
     "geom:latitude":36.074574,
     "geom:longitude":-115.100869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6345 S Pecos Road Suite 201",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354367491,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1466706089,
     "wof:name":"Source One Event Rentals",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-115.100869,36.074574,-115.100869,36.074574],
+  "bbox": [
+    -115.100869,
+    36.074574,
+    -115.100869,
+    36.074574
+],
   "geometry": {"coordinates":[-115.100869,36.074574],"type":"Point"}
 }

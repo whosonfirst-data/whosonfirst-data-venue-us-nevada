@@ -2,13 +2,14 @@
   "id": 370303881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14651,36.010719,-115.14651,36.010719",
     "geom:latitude":36.010719,
     "geom:longitude":-115.14651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9841 Del Mar Heights St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370303881,
-    "wof:lastmodified":1449029097,
+    "wof:lastmodified":1466704779,
     "wof:name":"Office of Jessie Acosta the",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.14651,36.010719,-115.14651,36.010719],
-  "geometry": {"coordinates":[-115.14651,36.010719],"type":"Point"}
+  "bbox": [
+    -115.14651,
+    36.010719,
+    -115.14651,
+    36.010719
+],
+  "geometry": {"coordinates":[-115.14651000000001,36.010719],"type":"Point"}
 }

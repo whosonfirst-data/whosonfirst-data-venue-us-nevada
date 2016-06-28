@@ -2,13 +2,14 @@
   "id": 235966909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059327,36.059465,-115.059327,36.059465",
     "geom:latitude":36.059465,
     "geom:longitude":-115.059327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Toltec Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235966909,
-    "wof:lastmodified":1449008278,
+    "wof:lastmodified":1466703609,
     "wof:name":"A Plus Cleaning",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maid"
     ]
 },
-  "bbox": [-115.059327,36.059465,-115.059327,36.059465],
+  "bbox": [
+    -115.059327,
+    36.059465,
+    -115.059327,
+    36.059465
+],
   "geometry": {"coordinates":[-115.059327,36.059465],"type":"Point"}
 }

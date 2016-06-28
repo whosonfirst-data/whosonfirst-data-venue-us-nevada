@@ -2,13 +2,14 @@
   "id": 219769981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780049,39.067451,-119.780049,39.067451",
     "geom:latitude":39.067451,
     "geom:longitude":-119.780049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3190 US Hwy 395 N",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219769981,
-    "wof:lastmodified":1449071570,
+    "wof:lastmodified":1466704914,
     "wof:name":"Topline Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.780049,39.067451,-119.780049,39.067451],
-  "geometry": {"coordinates":[-119.780049,39.067451],"type":"Point"}
+  "bbox": [
+    -119.780049,
+    39.067451,
+    -119.780049,
+    39.067451
+],
+  "geometry": {"coordinates":[-119.78004900000001,39.067451],"type":"Point"}
 }

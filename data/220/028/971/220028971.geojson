@@ -2,13 +2,14 @@
   "id": 220028971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.289733,36.144073,-115.289733,36.144073",
     "geom:latitude":36.144073,
     "geom:longitude":-115.289733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9005 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220028971,
-    "wof:lastmodified":1449074486,
+    "wof:lastmodified":1466701790,
     "wof:name":"A G B Enterprises Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-115.289733,36.144073,-115.289733,36.144073],
+  "bbox": [
+    -115.289733,
+    36.144073,
+    -115.289733,
+    36.144073
+],
   "geometry": {"coordinates":[-115.289733,36.144073],"type":"Point"}
 }

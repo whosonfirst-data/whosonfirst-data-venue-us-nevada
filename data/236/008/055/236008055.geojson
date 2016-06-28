@@ -2,13 +2,14 @@
   "id": 236008055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742387,39.055354,-119.742387,39.055354",
     "geom:latitude":39.055354,
     "geom:longitude":-119.742387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3027 Vicky Ln",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236008055,
-    "wof:lastmodified":1449002523,
+    "wof:lastmodified":1466704254,
     "wof:name":"Robinson Plumbing/Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.742387,39.055354,-119.742387,39.055354],
-  "geometry": {"coordinates":[-119.742387,39.055354],"type":"Point"}
+  "bbox": [
+    -119.742387,
+    39.055354,
+    -119.742387,
+    39.055354
+],
+  "geometry": {"coordinates":[-119.74238699999999,39.055354],"type":"Point"}
 }

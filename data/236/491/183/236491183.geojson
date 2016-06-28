@@ -2,13 +2,14 @@
   "id": 236491183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745016,39.027631,-119.745016,39.027631",
     "geom:latitude":39.027631,
     "geom:longitude":-119.745016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Sweet Clover Ct",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236491183,
-    "wof:lastmodified":1449001638,
+    "wof:lastmodified":1466705635,
     "wof:name":"RDS Constructon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.745016,39.027631,-119.745016,39.027631],
-  "geometry": {"coordinates":[-119.745016,39.027631],"type":"Point"}
+  "bbox": [
+    -119.745016,
+    39.027631,
+    -119.745016,
+    39.027631
+],
+  "geometry": {"coordinates":[-119.74501600000001,39.027631],"type":"Point"}
 }

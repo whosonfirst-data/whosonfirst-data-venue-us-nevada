@@ -2,13 +2,14 @@
   "id": 219327389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062477,36.144728,-115.062477,36.144728",
     "geom:latitude":36.144728,
     "geom:longitude":-115.062477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219327389,
-    "wof:lastmodified":1449070656,
+    "wof:lastmodified":1466703254,
     "wof:name":"Jawbreakers Mobile Outlet",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outlet"
     ]
 },
-  "bbox": [-115.062477,36.144728,-115.062477,36.144728],
+  "bbox": [
+    -115.062477,
+    36.144728,
+    -115.062477,
+    36.144728
+],
   "geometry": {"coordinates":[-115.062477,36.144728],"type":"Point"}
 }

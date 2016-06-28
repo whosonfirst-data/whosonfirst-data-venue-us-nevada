@@ -2,13 +2,14 @@
   "id": 219364285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068319,36.073001,-115.068319,36.073001",
     "geom:latitude":36.073001,
     "geom:longitude":-115.068319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Holmes Sabatini Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219364285,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466703457,
     "wof:name":"Dekker Perich Holmes Sabatini",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-115.068319,36.073001,-115.068319,36.073001],
+  "bbox": [
+    -115.068319,
+    36.073001,
+    -115.068319,
+    36.073001
+],
   "geometry": {"coordinates":[-115.068319,36.073001],"type":"Point"}
 }

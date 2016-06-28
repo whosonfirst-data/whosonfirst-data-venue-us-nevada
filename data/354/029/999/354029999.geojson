@@ -2,13 +2,14 @@
   "id": 354029999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096001,36.2402,-115.096001,36.2402",
     "geom:latitude":36.2402,
     "geom:longitude":-115.096001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3826 E Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354029999,
-    "wof:lastmodified":1449066643,
+    "wof:lastmodified":1466702275,
     "wof:name":"Viva Zapatas Mexican Restaurant & Cantina",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.096001,36.2402,-115.096001,36.2402],
+  "bbox": [
+    -115.096001,
+    36.2402,
+    -115.096001,
+    36.2402
+],
   "geometry": {"coordinates":[-115.096001,36.2402],"type":"Point"}
 }

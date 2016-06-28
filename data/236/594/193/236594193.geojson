@@ -2,13 +2,14 @@
   "id": 236594193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.748308,40.957939,-117.748308,40.957939",
     "geom:latitude":40.957939,
     "geom:longitude":-117.748308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 W Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236594193,
-    "wof:lastmodified":1449002030,
+    "wof:lastmodified":1466706241,
     "wof:name":"Jim's Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-117.748308,40.957939,-117.748308,40.957939],
-  "geometry": {"coordinates":[-117.748308,40.957939],"type":"Point"}
+  "bbox": [
+    -117.748308,
+    40.957939,
+    -117.748308,
+    40.957939
+],
+  "geometry": {"coordinates":[-117.74830799999999,40.957939],"type":"Point"}
 }

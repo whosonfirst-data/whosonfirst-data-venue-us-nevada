@@ -2,13 +2,14 @@
   "id": 370908013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.885072,38.963761,-119.885072,38.963761",
     "geom:latitude":38.963761,
     "geom:longitude":-119.885072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Quaking Aspen Ln",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370908013,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1466705211,
     "wof:name":"Tahoe Village Owners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-119.885072,38.963761,-119.885072,38.963761],
-  "geometry": {"coordinates":[-119.885072,38.963761],"type":"Point"}
+  "bbox": [
+    -119.885072,
+    38.963761,
+    -119.885072,
+    38.963761
+],
+  "geometry": {"coordinates":[-119.88507199999999,38.963761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354061837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086352,36.029083,-115.086352,36.029083",
     "geom:latitude":36.029083,
     "geom:longitude":-115.086352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Green Valley Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354061837,
-    "wof:lastmodified":1449067190,
+    "wof:lastmodified":1466703077,
     "wof:name":"Hometown Equity Mortgage",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.086352,36.029083,-115.086352,36.029083],
-  "geometry": {"coordinates":[-115.086352,36.029083],"type":"Point"}
+  "bbox": [
+    -115.086352,
+    36.029083,
+    -115.086352,
+    36.029083
+],
+  "geometry": {"coordinates":[-115.08635200000001,36.029083],"type":"Point"}
 }

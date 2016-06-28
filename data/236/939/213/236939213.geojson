@@ -2,13 +2,14 @@
   "id": 236939213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227049,36.122269,-115.227049,36.122269",
     "geom:latitude":36.122269,
     "geom:longitude":-115.227049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6144 Meadow Haven Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236939213,
-    "wof:lastmodified":1449002446,
+    "wof:lastmodified":1466706752,
     "wof:name":"Prism Lithographic Techs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "printing"
     ]
 },
-  "bbox": [-115.227049,36.122269,-115.227049,36.122269],
-  "geometry": {"coordinates":[-115.227049,36.122269],"type":"Point"}
+  "bbox": [
+    -115.227049,
+    36.122269,
+    -115.227049,
+    36.122269
+],
+  "geometry": {"coordinates":[-115.22704899999999,36.122269],"type":"Point"}
 }

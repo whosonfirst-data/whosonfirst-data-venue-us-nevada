@@ -2,13 +2,14 @@
   "id": 203221335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295518,36.149941,-115.295518,36.149941",
     "geom:latitude":36.149941,
     "geom:longitude":-115.295518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Bay Hill Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203221335,
-    "wof:lastmodified":1449025750,
+    "wof:lastmodified":1466702306,
     "wof:name":"Sadie S Interiors",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "drapery"
     ]
 },
-  "bbox": [-115.295518,36.149941,-115.295518,36.149941],
+  "bbox": [
+    -115.295518,
+    36.149941,
+    -115.295518,
+    36.149941
+],
   "geometry": {"coordinates":[-115.295518,36.149941],"type":"Point"}
 }

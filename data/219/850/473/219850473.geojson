@@ -2,13 +2,14 @@
   "id": 219850473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816513,39.521655,-119.816513,39.521655",
     "geom:latitude":39.521655,
     "geom:longitude":-119.816513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219850473,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466705350,
     "wof:name":"Pamela Willmore",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.816513,39.521655,-119.816513,39.521655],
+  "bbox": [
+    -119.816513,
+    39.521655,
+    -119.816513,
+    39.521655
+],
   "geometry": {"coordinates":[-119.816513,39.521655],"type":"Point"}
 }

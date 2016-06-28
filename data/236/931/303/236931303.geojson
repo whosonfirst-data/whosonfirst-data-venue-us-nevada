@@ -2,13 +2,14 @@
   "id": 236931303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073667,36.11493,-115.073667,36.11493",
     "geom:latitude":36.11493,
     "geom:longitude":-115.073667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Mountain Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236931303,
-    "wof:lastmodified":1449004893,
+    "wof:lastmodified":1466706845,
     "wof:name":"BNR",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.073667,36.11493,-115.073667,36.11493],
+  "bbox": [
+    -115.073667,
+    36.11493,
+    -115.073667,
+    36.11493
+],
   "geometry": {"coordinates":[-115.073667,36.11493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236579161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206362,36.049844,-115.206362,36.049844",
     "geom:latitude":36.049844,
     "geom:longitude":-115.206362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4880 W Robindale Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236579161,
-    "wof:lastmodified":1449002544,
+    "wof:lastmodified":1466706189,
     "wof:name":"Complete Claims Svc",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-115.206362,36.049844,-115.206362,36.049844],
+  "bbox": [
+    -115.206362,
+    36.049844,
+    -115.206362,
+    36.049844
+],
   "geometry": {"coordinates":[-115.206362,36.049844],"type":"Point"}
 }

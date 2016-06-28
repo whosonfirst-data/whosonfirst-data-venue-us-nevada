@@ -2,13 +2,14 @@
   "id": 220103375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082588,36.128972,-115.082588,36.128972",
     "geom:latitude":36.128972,
     "geom:longitude":-115.082588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4180 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220103375,
-    "wof:lastmodified":1449074542,
+    "wof:lastmodified":1466702381,
     "wof:name":"Allstate U-Lok Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.082588,36.128972,-115.082588,36.128972],
+  "bbox": [
+    -115.082588,
+    36.128972,
+    -115.082588,
+    36.128972
+],
   "geometry": {"coordinates":[-115.082588,36.128972],"type":"Point"}
 }

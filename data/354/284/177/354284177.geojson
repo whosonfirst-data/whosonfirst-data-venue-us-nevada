@@ -2,13 +2,14 @@
   "id": 354284177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.011262,36.265658,-115.011262,36.265658",
     "geom:latitude":36.265658,
     "geom:longitude":-115.011262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Las Vegas Blvd. North",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354284177,
-    "wof:lastmodified":1449067009,
+    "wof:lastmodified":1466705517,
     "wof:name":"Las Vegas Motor Speedway",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.011262,36.265658,-115.011262,36.265658],
+  "bbox": [
+    -115.011262,
+    36.265658,
+    -115.011262,
+    36.265658
+],
   "geometry": {"coordinates":[-115.011262,36.265658],"type":"Point"}
 }

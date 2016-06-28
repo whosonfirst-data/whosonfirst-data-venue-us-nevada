@@ -2,13 +2,14 @@
   "id": 236597833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169724,36.124788,-115.169724,36.124788",
     "geom:latitude":36.124788,
     "geom:longitude":-115.169724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3575 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236597833,
-    "wof:lastmodified":1449005196,
+    "wof:lastmodified":1466706261,
     "wof:name":"Merrimak Atm Group",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automated"
     ]
 },
-  "bbox": [-115.169724,36.124788,-115.169724,36.124788],
+  "bbox": [
+    -115.169724,
+    36.124788,
+    -115.169724,
+    36.124788
+],
   "geometry": {"coordinates":[-115.169724,36.124788],"type":"Point"}
 }

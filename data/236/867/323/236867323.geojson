@@ -2,13 +2,14 @@
   "id": 236867323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049297,36.145745,-115.049297,36.145745",
     "geom:latitude":36.145745,
     "geom:longitude":-115.049297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Underpar Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236867323,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466706864,
     "wof:name":"Step",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.049297,36.145745,-115.049297,36.145745],
+  "bbox": [
+    -115.049297,
+    36.145745,
+    -115.049297,
+    36.145745
+],
   "geometry": {"coordinates":[-115.049297,36.145745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236692019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127881,36.144277,-115.127881,36.144277",
     "geom:latitude":36.144277,
     "geom:longitude":-115.127881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1785 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":236692019,
-    "wof:lastmodified":1449002341,
+    "wof:lastmodified":1466706447,
     "wof:name":"Taxi Cab Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "authority"
     ]
 },
-  "bbox": [-115.127881,36.144277,-115.127881,36.144277],
+  "bbox": [
+    -115.127881,
+    36.144277,
+    -115.127881,
+    36.144277
+],
   "geometry": {"coordinates":[-115.127881,36.144277],"type":"Point"}
 }

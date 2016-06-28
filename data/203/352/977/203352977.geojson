@@ -2,13 +2,14 @@
   "id": 203352977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.956272,39.247433,-119.956272,39.247433",
     "geom:latitude":39.247433,
     "geom:longitude":-119.956272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 Tanager St",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203352977,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466703152,
     "wof:name":"Crystal Bay Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.956272,39.247433,-119.956272,39.247433],
+  "bbox": [
+    -119.956272,
+    39.247433,
+    -119.956272,
+    39.247433
+],
   "geometry": {"coordinates":[-119.956272,39.247433],"type":"Point"}
 }

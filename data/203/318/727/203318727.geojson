@@ -2,13 +2,14 @@
   "id": 203318727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738693,38.890572,-119.738693,38.890572",
     "geom:latitude":38.890572,
     "geom:longitude":-119.738693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Honeybee Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203318727,
-    "wof:lastmodified":1449025337,
+    "wof:lastmodified":1466702969,
     "wof:name":"John Oneill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-119.738693,38.890572,-119.738693,38.890572],
+  "bbox": [
+    -119.738693,
+    38.890572,
+    -119.738693,
+    38.890572
+],
   "geometry": {"coordinates":[-119.738693,38.890572],"type":"Point"}
 }

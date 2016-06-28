@@ -2,13 +2,14 @@
   "id": 236939851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233762,36.265569,-115.233762,36.265569",
     "geom:latitude":36.265569,
     "geom:longitude":-115.233762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6372 W el Campo Grande Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236939851,
-    "wof:lastmodified":1449002447,
+    "wof:lastmodified":1466706757,
     "wof:name":"Majestic Media Enterprises",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.233762,36.265569,-115.233762,36.265569],
+  "bbox": [
+    -115.233762,
+    36.265569,
+    -115.233762,
+    36.265569
+],
   "geometry": {"coordinates":[-115.233762,36.265569],"type":"Point"}
 }

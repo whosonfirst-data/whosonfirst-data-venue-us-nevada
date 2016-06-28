@@ -2,13 +2,14 @@
   "id": 219776753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.845504,39.371052,-119.845504,39.371052",
     "geom:latitude":39.371052,
     "geom:longitude":-119.845504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17025 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219776753,
-    "wof:lastmodified":1449071166,
+    "wof:lastmodified":1466704826,
     "wof:name":"Galena Forest Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.845504,39.371052,-119.845504,39.371052],
-  "geometry": {"coordinates":[-119.845504,39.371052],"type":"Point"}
+  "bbox": [
+    -119.845504,
+    39.371052,
+    -119.845504,
+    39.371052
+],
+  "geometry": {"coordinates":[-119.84550400000001,39.371052],"type":"Point"}
 }

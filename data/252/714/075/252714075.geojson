@@ -2,13 +2,14 @@
   "id": 252714075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743893,39.525015,-119.743893,39.525015",
     "geom:latitude":39.525015,
     "geom:longitude":-119.743893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Bank St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252714075,
-    "wof:lastmodified":1449005948,
+    "wof:lastmodified":1466701603,
     "wof:name":"J&J Proto",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.743893,39.525015,-119.743893,39.525015],
+  "bbox": [
+    -119.743893,
+    39.525015,
+    -119.743893,
+    39.525015
+],
   "geometry": {"coordinates":[-119.743893,39.525015],"type":"Point"}
 }

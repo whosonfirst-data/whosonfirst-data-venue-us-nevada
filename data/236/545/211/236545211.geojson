@@ -2,13 +2,14 @@
   "id": 236545211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217937,36.25385,-115.217937,36.25385",
     "geom:latitude":36.25385,
     "geom:longitude":-115.217937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5217 Orchard Hill",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236545211,
-    "wof:lastmodified":1449002276,
+    "wof:lastmodified":1466705891,
     "wof:name":"White Oak LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.217937,36.25385,-115.217937,36.25385],
-  "geometry": {"coordinates":[-115.217937,36.25385],"type":"Point"}
+  "bbox": [
+    -115.217937,
+    36.25385,
+    -115.217937,
+    36.25385
+],
+  "geometry": {"coordinates":[-115.21793700000001,36.25385],"type":"Point"}
 }

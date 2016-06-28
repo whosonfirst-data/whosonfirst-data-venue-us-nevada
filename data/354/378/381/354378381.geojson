@@ -2,13 +2,14 @@
   "id": 354378381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098087,36.100049,-115.098087,36.100049",
     "geom:latitude":36.100049,
     "geom:longitude":-115.098087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3540 E Tropicana Avenue Suite 300",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354378381,
-    "wof:lastmodified":1449067120,
+    "wof:lastmodified":1466706073,
     "wof:name":"Tj Auto Repair",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.098087,36.100049,-115.098087,36.100049],
-  "geometry": {"coordinates":[-115.098087,36.100049],"type":"Point"}
+  "bbox": [
+    -115.098087,
+    36.100049,
+    -115.098087,
+    36.100049
+],
+  "geometry": {"coordinates":[-115.09808700000001,36.100049],"type":"Point"}
 }

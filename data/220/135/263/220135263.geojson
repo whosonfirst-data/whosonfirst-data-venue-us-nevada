@@ -2,13 +2,14 @@
   "id": 220135263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209052,36.077261,-115.209052,36.077261",
     "geom:latitude":36.077261,
     "geom:longitude":-115.209052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5040 Sobb Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220135263,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466702662,
     "wof:name":"Ampam Rcr Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.209052,36.077261,-115.209052,36.077261],
+  "bbox": [
+    -115.209052,
+    36.077261,
+    -115.209052,
+    36.077261
+],
   "geometry": {"coordinates":[-115.209052,36.077261],"type":"Point"}
 }

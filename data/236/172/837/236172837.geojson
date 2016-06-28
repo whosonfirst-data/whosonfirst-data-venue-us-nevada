@@ -2,13 +2,14 @@
   "id": 236172837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20792,36.301113,-115.20792,36.301113",
     "geom:latitude":36.301113,
     "geom:longitude":-115.20792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4829 Morning Falls Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236172837,
-    "wof:lastmodified":1449002891,
+    "wof:lastmodified":1466703036,
     "wof:name":"Silver State Appraisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-115.20792,36.301113,-115.20792,36.301113],
+  "bbox": [
+    -115.20792,
+    36.301113,
+    -115.20792,
+    36.301113
+],
   "geometry": {"coordinates":[-115.20792,36.301113],"type":"Point"}
 }

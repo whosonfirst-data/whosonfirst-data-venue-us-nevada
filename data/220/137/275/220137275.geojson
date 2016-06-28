@@ -2,13 +2,14 @@
   "id": 220137275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071252,36.215926,-115.071252,36.215926",
     "geom:latitude":36.215926,
     "geom:longitude":-115.071252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Marion Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220137275,
-    "wof:lastmodified":1449074766,
+    "wof:lastmodified":1466702679,
     "wof:name":"C B Tech",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "purification"
     ]
 },
-  "bbox": [-115.071252,36.215926,-115.071252,36.215926],
+  "bbox": [
+    -115.071252,
+    36.215926,
+    -115.071252,
+    36.215926
+],
   "geometry": {"coordinates":[-115.071252,36.215926],"type":"Point"}
 }

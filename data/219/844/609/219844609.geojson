@@ -2,13 +2,14 @@
   "id": 219844609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821179,39.52853,-119.821179,39.52853",
     "geom:latitude":39.52853,
     "geom:longitude":-119.821179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"546 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219844609,
-    "wof:lastmodified":1449071891,
+    "wof:lastmodified":1466705324,
     "wof:name":"Mr G's Poodle Palace",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "specialty"
     ]
 },
-  "bbox": [-119.821179,39.52853,-119.821179,39.52853],
+  "bbox": [
+    -119.821179,
+    39.52853,
+    -119.821179,
+    39.52853
+],
   "geometry": {"coordinates":[-119.821179,39.52853],"type":"Point"}
 }

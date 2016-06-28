@@ -2,13 +2,14 @@
   "id": 354347135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11954,36.065131,-115.11954,36.065131",
     "geom:latitude":36.065131,
     "geom:longitude":-115.11954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6871 S Eastern Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354347135,
-    "wof:lastmodified":1449066737,
+    "wof:lastmodified":1466705850,
     "wof:name":"Sightline Payments LLC",
     "wof:parent_id":85879705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cashing/pay-day"
     ]
 },
-  "bbox": [-115.11954,36.065131,-115.11954,36.065131],
+  "bbox": [
+    -115.11954,
+    36.065131,
+    -115.11954,
+    36.065131
+],
   "geometry": {"coordinates":[-115.11954,36.065131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219633389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813359,39.505788,-119.813359,39.505788",
     "geom:latitude":39.505788,
     "geom:longitude":-119.813359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219633389,
-    "wof:lastmodified":1449073883,
+    "wof:lastmodified":1466703518,
     "wof:name":"WNP Enterprises",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.813359,39.505788,-119.813359,39.505788],
-  "geometry": {"coordinates":[-119.813359,39.505788],"type":"Point"}
+  "bbox": [
+    -119.813359,
+    39.505788,
+    -119.813359,
+    39.505788
+],
+  "geometry": {"coordinates":[-119.81335900000001,39.505788],"type":"Point"}
 }

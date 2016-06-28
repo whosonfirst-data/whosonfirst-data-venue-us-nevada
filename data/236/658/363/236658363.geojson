@@ -2,13 +2,14 @@
   "id": 236658363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145862,36.094694,-115.145862,36.094694",
     "geom:latitude":36.094694,
     "geom:longitude":-115.145862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5242 Swenson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236658363,
-    "wof:lastmodified":1449001624,
+    "wof:lastmodified":1466706406,
     "wof:name":"Connell Outdoor Advertising Co",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-115.145862,36.094694,-115.145862,36.094694],
-  "geometry": {"coordinates":[-115.145862,36.094694],"type":"Point"}
+  "bbox": [
+    -115.145862,
+    36.094694,
+    -115.145862,
+    36.094694
+],
+  "geometry": {"coordinates":[-115.14586199999999,36.094694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219649259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.859233,39.505672,-119.859233,39.505672",
     "geom:latitude":39.505672,
     "geom:longitude":-119.859233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3876 Zoe Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219649259,
-    "wof:lastmodified":1449072790,
+    "wof:lastmodified":1466703806,
     "wof:name":"Samco Wholesale Sales",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banner"
     ]
 },
-  "bbox": [-119.859233,39.505672,-119.859233,39.505672],
+  "bbox": [
+    -119.859233,
+    39.505672,
+    -119.859233,
+    39.505672
+],
   "geometry": {"coordinates":[-119.859233,39.505672],"type":"Point"}
 }

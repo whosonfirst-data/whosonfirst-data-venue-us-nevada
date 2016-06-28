@@ -2,13 +2,14 @@
   "id": 236779019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250468,36.146795,-115.250468,36.146795",
     "geom:latitude":36.146795,
     "geom:longitude":-115.250468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Jamaica Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236779019,
-    "wof:lastmodified":1449002056,
+    "wof:lastmodified":1466706608,
     "wof:name":"Bundy Financial Svc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.250468,36.146795,-115.250468,36.146795],
+  "bbox": [
+    -115.250468,
+    36.146795,
+    -115.250468,
+    36.146795
+],
   "geometry": {"coordinates":[-115.250468,36.146795],"type":"Point"}
 }

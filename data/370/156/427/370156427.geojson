@@ -2,13 +2,14 @@
   "id": 370156427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266402,36.207503,-115.266402,36.207503",
     "geom:latitude":36.207503,
     "geom:longitude":-115.266402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 Seascape Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370156427,
-    "wof:lastmodified":1449029760,
+    "wof:lastmodified":1466701694,
     "wof:name":"First Wall Street Corporation",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-115.266402,36.207503,-115.266402,36.207503],
+  "bbox": [
+    -115.266402,
+    36.207503,
+    -115.266402,
+    36.207503
+],
   "geometry": {"coordinates":[-115.266402,36.207503],"type":"Point"}
 }

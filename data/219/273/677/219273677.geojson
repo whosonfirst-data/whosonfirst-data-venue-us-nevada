@@ -2,13 +2,14 @@
   "id": 219273677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.237513,36.226257,-115.237513,36.226257",
     "geom:latitude":36.226257,
     "geom:longitude":-115.237513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 Broxburn St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219273677,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466702773,
     "wof:name":"Pacific Stair Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stair"
     ]
 },
-  "bbox": [-115.237513,36.226257,-115.237513,36.226257],
-  "geometry": {"coordinates":[-115.237513,36.226257],"type":"Point"}
+  "bbox": [
+    -115.237513,
+    36.226257,
+    -115.237513,
+    36.226257
+],
+  "geometry": {"coordinates":[-115.23751300000001,36.226257],"type":"Point"}
 }

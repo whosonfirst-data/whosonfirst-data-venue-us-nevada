@@ -2,13 +2,14 @@
   "id": 219630853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146419,36.148483,-115.146419,36.148483",
     "geom:latitude":36.148483,
     "geom:longitude":-115.146419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 S 6th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219630853,
-    "wof:lastmodified":1449071652,
+    "wof:lastmodified":1466703476,
     "wof:name":"Grace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-115.146419,36.148483,-115.146419,36.148483],
-  "geometry": {"coordinates":[-115.146419,36.148483],"type":"Point"}
+  "bbox": [
+    -115.146419,
+    36.148483,
+    -115.146419,
+    36.148483
+],
+  "geometry": {"coordinates":[-115.14641899999999,36.148483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219583981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.302586,36.232569,-115.302586,36.232569",
     "geom:latitude":36.232569,
     "geom:longitude":-115.302586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3941 Canyon Meadows Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219583981,
-    "wof:lastmodified":1449073189,
+    "wof:lastmodified":1466702809,
     "wof:name":"Moonlight Treasures",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.302586,36.232569,-115.302586,36.232569],
-  "geometry": {"coordinates":[-115.302586,36.232569],"type":"Point"}
+  "bbox": [
+    -115.302586,
+    36.232569,
+    -115.302586,
+    36.232569
+],
+  "geometry": {"coordinates":[-115.30258600000001,36.232569],"type":"Point"}
 }

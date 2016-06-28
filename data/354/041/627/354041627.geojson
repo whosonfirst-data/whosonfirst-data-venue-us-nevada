@@ -2,13 +2,14 @@
   "id": 354041627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197963,36.218988,-115.197963,36.218988",
     "geom:latitude":36.218988,
     "geom:longitude":-115.197963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4322 W Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354041627,
-    "wof:lastmodified":1449066526,
+    "wof:lastmodified":1466702570,
     "wof:name":"Ideal Community Management",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "property"
     ]
 },
-  "bbox": [-115.197963,36.218988,-115.197963,36.218988],
+  "bbox": [
+    -115.197963,
+    36.218988,
+    -115.197963,
+    36.218988
+],
   "geometry": {"coordinates":[-115.197963,36.218988],"type":"Point"}
 }

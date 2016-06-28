@@ -2,13 +2,14 @@
   "id": 236071923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.758852,40.831847,-115.758852,40.831847",
     "geom:latitude":40.831847,
     "geom:longitude":-115.758852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 River St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236071923,
-    "wof:lastmodified":1449003781,
+    "wof:lastmodified":1466704063,
     "wof:name":"Brock Bit Svc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-115.758852,40.831847,-115.758852,40.831847],
+  "bbox": [
+    -115.758852,
+    40.831847,
+    -115.758852,
+    40.831847
+],
   "geometry": {"coordinates":[-115.758852,40.831847],"type":"Point"}
 }

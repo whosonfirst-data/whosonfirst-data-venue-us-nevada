@@ -2,13 +2,14 @@
   "id": 219292973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190276,36.126402,-115.190276,36.126402",
     "geom:latitude":36.126402,
     "geom:longitude":-115.190276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3541 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219292973,
-    "wof:lastmodified":1449070685,
+    "wof:lastmodified":1466703025,
     "wof:name":"Iq Foto Lab",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.190276,36.126402,-115.190276,36.126402],
+  "bbox": [
+    -115.190276,
+    36.126402,
+    -115.190276,
+    36.126402
+],
   "geometry": {"coordinates":[-115.190276,36.126402],"type":"Point"}
 }

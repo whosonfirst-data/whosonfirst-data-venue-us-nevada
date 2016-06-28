@@ -2,13 +2,14 @@
   "id": 236466785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.849268,39.61333,-119.849268,39.61333",
     "geom:latitude":39.61333,
     "geom:longitude":-119.849268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Lemmon Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236466785,
-    "wof:lastmodified":1449002466,
+    "wof:lastmodified":1466705666,
     "wof:name":"Desert Diamonds Realty Inc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-119.849268,39.61333,-119.849268,39.61333],
+  "bbox": [
+    -119.849268,
+    39.61333,
+    -119.849268,
+    39.61333
+],
   "geometry": {"coordinates":[-119.849268,39.61333],"type":"Point"}
 }

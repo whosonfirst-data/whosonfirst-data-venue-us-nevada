@@ -2,13 +2,14 @@
   "id": 220100975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.233717,39.588091,-119.233717,39.588091",
     "geom:latitude":39.588091,
     "geom:longitude":-119.233717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Crimson Rd",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220100975,
-    "wof:lastmodified":1449074641,
+    "wof:lastmodified":1466702384,
     "wof:name":"Vel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.233717,39.588091,-119.233717,39.588091],
+  "bbox": [
+    -119.233717,
+    39.588091,
+    -119.233717,
+    39.588091
+],
   "geometry": {"coordinates":[-119.233717,39.588091],"type":"Point"}
 }

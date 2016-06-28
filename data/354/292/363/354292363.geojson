@@ -2,13 +2,14 @@
   "id": 354292363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267583,36.138388,-115.267583,36.138388",
     "geom:latitude":36.138388,
     "geom:longitude":-115.267583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8150 Tara Ave.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":354292363,
-    "wof:lastmodified":1449066070,
+    "wof:lastmodified":1466705660,
     "wof:name":"Old Spanish Trails Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.267583,36.138388,-115.267583,36.138388],
+  "bbox": [
+    -115.267583,
+    36.138388,
+    -115.267583,
+    36.138388
+],
   "geometry": {"coordinates":[-115.267583,36.138388],"type":"Point"}
 }

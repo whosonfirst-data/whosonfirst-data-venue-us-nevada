@@ -2,13 +2,14 @@
   "id": 236257761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837584,39.746207,-119.837584,39.746207",
     "geom:latitude":39.746207,
     "geom:longitude":-119.837584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 Half Mine Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236257761,
-    "wof:lastmodified":1449002453,
+    "wof:lastmodified":1466704255,
     "wof:name":"Northstar Precast Inc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.837584,39.746207,-119.837584,39.746207],
-  "geometry": {"coordinates":[-119.837584,39.746207],"type":"Point"}
+  "bbox": [
+    -119.837584,
+    39.746207,
+    -119.837584,
+    39.746207
+],
+  "geometry": {"coordinates":[-119.83758400000001,39.746207],"type":"Point"}
 }

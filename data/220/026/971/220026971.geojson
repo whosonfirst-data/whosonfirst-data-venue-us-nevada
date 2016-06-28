@@ -2,13 +2,14 @@
   "id": 220026971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125399,36.148764,-115.125399,36.148764",
     "geom:latitude":36.148764,
     "geom:longitude":-115.125399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Bonita Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220026971,
-    "wof:lastmodified":1449074517,
+    "wof:lastmodified":1466701773,
     "wof:name":"Holly Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.125399,36.148764,-115.125399,36.148764],
+  "bbox": [
+    -115.125399,
+    36.148764,
+    -115.125399,
+    36.148764
+],
   "geometry": {"coordinates":[-115.125399,36.148764],"type":"Point"}
 }

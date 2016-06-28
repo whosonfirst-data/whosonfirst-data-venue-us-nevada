@@ -2,13 +2,14 @@
   "id": 203344793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.835391,35.961729,-114.835391,35.961729",
     "geom:latitude":35.961729,
     "geom:longitude":-114.835391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 Christina Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203344793,
-    "wof:lastmodified":1449025045,
+    "wof:lastmodified":1466703121,
     "wof:name":"Webstar Internet Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-114.835391,35.961729,-114.835391,35.961729],
+  "bbox": [
+    -114.835391,
+    35.961729,
+    -114.835391,
+    35.961729
+],
   "geometry": {"coordinates":[-114.835391,35.961729],"type":"Point"}
 }

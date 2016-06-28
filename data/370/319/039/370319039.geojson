@@ -2,13 +2,14 @@
   "id": 370319039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789146,39.5203,-119.789146,39.5203",
     "geom:latitude":39.5203,
     "geom:longitude":-119.789146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":370319039,
-    "wof:lastmodified":1449030467,
+    "wof:lastmodified":1466704848,
     "wof:name":"Reno Dodge",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.789146,39.5203,-119.789146,39.5203],
+  "bbox": [
+    -119.789146,
+    39.5203,
+    -119.789146,
+    39.5203
+],
   "geometry": {"coordinates":[-119.789146,39.5203],"type":"Point"}
 }

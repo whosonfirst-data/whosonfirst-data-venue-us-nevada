@@ -2,13 +2,14 @@
   "id": 370320353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803077,39.513844,-119.803077,39.513844",
     "geom:latitude":39.513844,
     "geom:longitude":-119.803077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Wonder St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":370320353,
-    "wof:lastmodified":1449029951,
+    "wof:lastmodified":1466704736,
     "wof:name":"All Pro Heating And Ac",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-119.803077,39.513844,-119.803077,39.513844],
+  "bbox": [
+    -119.803077,
+    39.513844,
+    -119.803077,
+    39.513844
+],
   "geometry": {"coordinates":[-119.803077,39.513844],"type":"Point"}
 }

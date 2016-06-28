@@ -2,13 +2,14 @@
   "id": 203284517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239246,36.187152,-115.239246,36.187152",
     "geom:latitude":36.187152,
     "geom:longitude":-115.239246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Bonnie Castle Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203284517,
-    "wof:lastmodified":1449026125,
+    "wof:lastmodified":1466702722,
     "wof:name":"Top Line Tile & Grout Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.239246,36.187152,-115.239246,36.187152],
-  "geometry": {"coordinates":[-115.239246,36.187152],"type":"Point"}
+  "bbox": [
+    -115.239246,
+    36.187152,
+    -115.239246,
+    36.187152
+],
+  "geometry": {"coordinates":[-115.23924599999999,36.187152],"type":"Point"}
 }

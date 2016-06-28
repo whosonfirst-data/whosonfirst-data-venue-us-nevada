@@ -2,13 +2,14 @@
   "id": 236086053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.688954,38.888596,-119.688954,38.888596",
     "geom:latitude":38.888596,
     "geom:longitude":-119.688954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 Shetland Cir",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236086053,
-    "wof:lastmodified":1449003942,
+    "wof:lastmodified":1466704120,
     "wof:name":"Ward Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.688954,38.888596,-119.688954,38.888596],
+  "bbox": [
+    -119.688954,
+    38.888596,
+    -119.688954,
+    38.888596
+],
   "geometry": {"coordinates":[-119.688954,38.888596],"type":"Point"}
 }

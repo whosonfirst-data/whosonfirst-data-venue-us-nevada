@@ -2,13 +2,14 @@
   "id": 354215533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.193823,36.184582,-115.193823,36.184582",
     "geom:latitude":36.184582,
     "geom:longitude":-115.193823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 Fairway Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354215533,
-    "wof:lastmodified":1449067347,
+    "wof:lastmodified":1466704986,
     "wof:name":"Desert Greenscapes Water Wise Grass and Landscaping",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-115.193823,36.184582,-115.193823,36.184582],
-  "geometry": {"coordinates":[-115.193823,36.184582],"type":"Point"}
+  "bbox": [
+    -115.193823,
+    36.184582,
+    -115.193823,
+    36.184582
+],
+  "geometry": {"coordinates":[-115.19382299999999,36.184582],"type":"Point"}
 }

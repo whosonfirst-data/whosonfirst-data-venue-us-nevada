@@ -2,13 +2,14 @@
   "id": 236810173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.675243,39.213761,-119.675243,39.213761",
     "geom:latitude":39.213761,
     "geom:longitude":-119.675243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Jones Rd",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236810173,
-    "wof:lastmodified":1449002433,
+    "wof:lastmodified":1466706510,
     "wof:name":"Dental Healthway Inc",
     "wof:parent_id":85885339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.675243,39.213761,-119.675243,39.213761],
-  "geometry": {"coordinates":[-119.675243,39.213761],"type":"Point"}
+  "bbox": [
+    -119.675243,
+    39.213761,
+    -119.675243,
+    39.213761
+],
+  "geometry": {"coordinates":[-119.67524299999999,39.213761],"type":"Point"}
 }

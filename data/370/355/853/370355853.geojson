@@ -2,13 +2,14 @@
   "id": 370355853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775438,39.108639,-119.775438,39.108639",
     "geom:latitude":39.108639,
     "geom:longitude":-119.775438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 Topsy Lane",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370355853,
-    "wof:lastmodified":1449030052,
+    "wof:lastmodified":1466705062,
     "wof:name":"La Salsa Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-119.775438,39.108639,-119.775438,39.108639],
-  "geometry": {"coordinates":[-119.775438,39.108639],"type":"Point"}
+  "bbox": [
+    -119.775438,
+    39.108639,
+    -119.775438,
+    39.108639
+],
+  "geometry": {"coordinates":[-119.77543799999999,39.108639],"type":"Point"}
 }

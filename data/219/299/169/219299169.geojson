@@ -2,13 +2,14 @@
   "id": 219299169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150848,36.18788,-115.150848,36.18788",
     "geom:latitude":36.18788,
     "geom:longitude":-115.150848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Harrison Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219299169,
-    "wof:lastmodified":1449071293,
+    "wof:lastmodified":1466703067,
     "wof:name":"Brainchild Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.150848,36.18788,-115.150848,36.18788],
+  "bbox": [
+    -115.150848,
+    36.18788,
+    -115.150848,
+    36.18788
+],
   "geometry": {"coordinates":[-115.150848,36.18788],"type":"Point"}
 }

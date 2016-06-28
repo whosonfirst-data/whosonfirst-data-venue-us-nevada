@@ -2,13 +2,14 @@
   "id": 354386211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106693,36.118871,-115.106693,36.118871",
     "geom:latitude":36.118871,
     "geom:longitude":-115.106693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 E Viking Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354386211,
-    "wof:lastmodified":1449066832,
+    "wof:lastmodified":1466706216,
     "wof:name":"Neurosurgical Resource Consultants",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.106693,36.118871,-115.106693,36.118871],
-  "geometry": {"coordinates":[-115.106693,36.118871],"type":"Point"}
+  "bbox": [
+    -115.106693,
+    36.118871,
+    -115.106693,
+    36.118871
+],
+  "geometry": {"coordinates":[-115.10669300000001,36.118871],"type":"Point"}
 }

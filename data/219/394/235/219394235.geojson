@@ -2,13 +2,14 @@
   "id": 219394235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206147,36.19052,-115.206147,36.19052",
     "geom:latitude":36.19052,
     "geom:longitude":-115.206147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219394235,
-    "wof:lastmodified":1449071079,
+    "wof:lastmodified":1466703600,
     "wof:name":"Decatur Pet Stop",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.206147,36.19052,-115.206147,36.19052],
+  "bbox": [
+    -115.206147,
+    36.19052,
+    -115.206147,
+    36.19052
+],
   "geometry": {"coordinates":[-115.206147,36.19052],"type":"Point"}
 }

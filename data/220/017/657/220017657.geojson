@@ -2,13 +2,14 @@
   "id": 220017657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.761551,40.833817,-115.761551,40.833817",
     "geom:latitude":40.833817,
     "geom:longitude":-115.761551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220017657,
-    "wof:lastmodified":1449074473,
+    "wof:lastmodified":1466701629,
     "wof:name":"High Desert Engineering",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.761551,40.833817,-115.761551,40.833817],
+  "bbox": [
+    -115.761551,
+    40.833817,
+    -115.761551,
+    40.833817
+],
   "geometry": {"coordinates":[-115.761551,40.833817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236611679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313521,36.147383,-115.313521,36.147383",
     "geom:latitude":36.147383,
     "geom:longitude":-115.313521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Gravel Hill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236611679,
-    "wof:lastmodified":1449004407,
+    "wof:lastmodified":1466706289,
     "wof:name":"Paul Anka Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-115.313521,36.147383,-115.313521,36.147383],
-  "geometry": {"coordinates":[-115.313521,36.147383],"type":"Point"}
+  "bbox": [
+    -115.313521,
+    36.147383,
+    -115.313521,
+    36.147383
+],
+  "geometry": {"coordinates":[-115.31352099999999,36.147383],"type":"Point"}
 }

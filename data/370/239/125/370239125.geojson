@@ -2,13 +2,14 @@
   "id": 370239125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242551,36.159094,-115.242551,36.159094",
     "geom:latitude":36.159094,
     "geom:longitude":-115.242551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6769 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370239125,
-    "wof:lastmodified":1449029415,
+    "wof:lastmodified":1466703441,
     "wof:name":"Blackstone Builders",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.242551,36.159094,-115.242551,36.159094],
-  "geometry": {"coordinates":[-115.242551,36.159094],"type":"Point"}
+  "bbox": [
+    -115.242551,
+    36.159094,
+    -115.242551,
+    36.159094
+],
+  "geometry": {"coordinates":[-115.24255100000001,36.159094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236354011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194679,36.073393,-115.194679,36.073393",
     "geom:latitude":36.073393,
     "geom:longitude":-115.194679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 Hinson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236354011,
-    "wof:lastmodified":1449004800,
+    "wof:lastmodified":1466705085,
     "wof:name":"Sierra Tahoe Plastering",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.194679,36.073393,-115.194679,36.073393],
-  "geometry": {"coordinates":[-115.194679,36.073393],"type":"Point"}
+  "bbox": [
+    -115.194679,
+    36.073393,
+    -115.194679,
+    36.073393
+],
+  "geometry": {"coordinates":[-115.19467899999999,36.073393],"type":"Point"}
 }

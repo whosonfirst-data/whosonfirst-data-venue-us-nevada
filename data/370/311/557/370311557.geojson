@@ -2,13 +2,14 @@
   "id": 370311557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725092,39.595453,-119.725092,39.595453",
     "geom:latitude":39.595453,
     "geom:longitude":-119.725092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5728 Spanish Bay Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370311557,
-    "wof:lastmodified":1449029886,
+    "wof:lastmodified":1466704672,
     "wof:name":"Howards Metal Art",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-119.725092,39.595453,-119.725092,39.595453],
+  "bbox": [
+    -119.725092,
+    39.595453,
+    -119.725092,
+    39.595453
+],
   "geometry": {"coordinates":[-119.725092,39.595453],"type":"Point"}
 }

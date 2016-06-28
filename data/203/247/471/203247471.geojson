@@ -2,13 +2,14 @@
   "id": 203247471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.777876,39.481745,-118.777876,39.481745",
     "geom:latitude":39.481745,
     "geom:longitude":-118.777876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Freeport Cir",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203247471,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466702472,
     "wof:name":"C/P Powder Coating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-118.777876,39.481745,-118.777876,39.481745],
-  "geometry": {"coordinates":[-118.777876,39.481745],"type":"Point"}
+  "bbox": [
+    -118.777876,
+    39.481745,
+    -118.777876,
+    39.481745
+],
+  "geometry": {"coordinates":[-118.77787600000001,39.481745],"type":"Point"}
 }

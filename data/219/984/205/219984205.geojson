@@ -2,13 +2,14 @@
   "id": 219984205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222791,36.121871,-115.222791,36.121871",
     "geom:latitude":36.121871,
     "geom:longitude":-115.222791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5975 W Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219984205,
-    "wof:lastmodified":1449072375,
+    "wof:lastmodified":1466706196,
     "wof:name":"Red Rock Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-115.222791,36.121871,-115.222791,36.121871],
+  "bbox": [
+    -115.222791,
+    36.121871,
+    -115.222791,
+    36.121871
+],
   "geometry": {"coordinates":[-115.222791,36.121871],"type":"Point"}
 }

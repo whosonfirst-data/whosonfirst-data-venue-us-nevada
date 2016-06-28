@@ -2,13 +2,14 @@
   "id": 203255457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754703,39.024332,-119.754703,39.024332",
     "geom:latitude":39.024332,
     "geom:longitude":-119.754703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Nowlin Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203255457,
-    "wof:lastmodified":1449025772,
+    "wof:lastmodified":1466702535,
     "wof:name":"PME-Reno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-119.754703,39.024332,-119.754703,39.024332],
-  "geometry": {"coordinates":[-119.754703,39.024332],"type":"Point"}
+  "bbox": [
+    -119.754703,
+    39.024332,
+    -119.754703,
+    39.024332
+],
+  "geometry": {"coordinates":[-119.75470300000001,39.024332],"type":"Point"}
 }

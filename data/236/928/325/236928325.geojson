@@ -2,13 +2,14 @@
   "id": 236928325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081412,36.166358,-115.081412,36.166358",
     "geom:latitude":36.166358,
     "geom:longitude":-115.081412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4341 E Stewart Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236928325,
-    "wof:lastmodified":1449004690,
+    "wof:lastmodified":1466706916,
     "wof:name":"Family Cuts",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.081412,36.166358,-115.081412,36.166358],
+  "bbox": [
+    -115.081412,
+    36.166358,
+    -115.081412,
+    36.166358
+],
   "geometry": {"coordinates":[-115.081412,36.166358],"type":"Point"}
 }

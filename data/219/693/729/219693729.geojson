@@ -2,13 +2,14 @@
   "id": 219693729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268684,36.213957,-115.268684,36.213957",
     "geom:latitude":36.213957,
     "geom:longitude":-115.268684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2984 Sun Lake Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219693729,
-    "wof:lastmodified":1449070585,
+    "wof:lastmodified":1466704235,
     "wof:name":"Rapid Response Marketing",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.268684,36.213957,-115.268684,36.213957],
-  "geometry": {"coordinates":[-115.268684,36.213957],"type":"Point"}
+  "bbox": [
+    -115.268684,
+    36.213957,
+    -115.268684,
+    36.213957
+],
+  "geometry": {"coordinates":[-115.26868399999999,36.213957],"type":"Point"}
 }

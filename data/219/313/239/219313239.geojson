@@ -2,13 +2,14 @@
   "id": 219313239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.628289,39.51967,-119.628289,39.51967",
     "geom:latitude":39.51967,
     "geom:longitude":-119.628289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11975 I- 80",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219313239,
-    "wof:lastmodified":1449070472,
+    "wof:lastmodified":1466703178,
     "wof:name":"A Auto Recker & Radiator",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-119.628289,39.51967,-119.628289,39.51967],
+  "bbox": [
+    -119.628289,
+    39.51967,
+    -119.628289,
+    39.51967
+],
   "geometry": {"coordinates":[-119.628289,39.51967],"type":"Point"}
 }

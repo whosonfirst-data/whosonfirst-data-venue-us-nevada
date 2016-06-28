@@ -2,13 +2,14 @@
   "id": 354025389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118283,36.217421,-115.118283,36.217421",
     "geom:latitude":36.217421,
     "geom:longitude":-115.118283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 E Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354025389,
-    "wof:lastmodified":1449067375,
+    "wof:lastmodified":1466702138,
     "wof:name":"Wings Restaurant",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wing"
     ]
 },
-  "bbox": [-115.118283,36.217421,-115.118283,36.217421],
-  "geometry": {"coordinates":[-115.118283,36.217421],"type":"Point"}
+  "bbox": [
+    -115.118283,
+    36.217421,
+    -115.118283,
+    36.217421
+],
+  "geometry": {"coordinates":[-115.11828300000001,36.217421],"type":"Point"}
 }

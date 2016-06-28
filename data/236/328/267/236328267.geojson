@@ -2,13 +2,14 @@
   "id": 236328267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.078103,36.159037,-115.078103,36.159037",
     "geom:latitude":36.159037,
     "geom:longitude":-115.078103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236328267,
-    "wof:lastmodified":1449003622,
+    "wof:lastmodified":1466704775,
     "wof:name":"Clark County Public Schools",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.078103,36.159037,-115.078103,36.159037],
+  "bbox": [
+    -115.078103,
+    36.159037,
+    -115.078103,
+    36.159037
+],
   "geometry": {"coordinates":[-115.078103,36.159037],"type":"Point"}
 }

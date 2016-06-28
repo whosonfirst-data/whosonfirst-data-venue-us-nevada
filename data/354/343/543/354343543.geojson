@@ -2,13 +2,14 @@
   "id": 354343543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128565,36.099959,-115.128565,36.099959",
     "geom:latitude":36.099959,
     "geom:longitude":-115.128565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 E Tropicana Ave Ste 29",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354343543,
-    "wof:lastmodified":1449067165,
+    "wof:lastmodified":1466705979,
     "wof:name":"Carluccio's Tivoli Gardens",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.128565,36.099959,-115.128565,36.099959],
-  "geometry": {"coordinates":[-115.128565,36.099959],"type":"Point"}
+  "bbox": [
+    -115.128565,
+    36.099959,
+    -115.128565,
+    36.099959
+],
+  "geometry": {"coordinates":[-115.12856499999999,36.099959],"type":"Point"}
 }

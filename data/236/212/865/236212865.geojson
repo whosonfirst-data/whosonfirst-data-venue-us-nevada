@@ -2,13 +2,14 @@
   "id": 236212865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777692,38.955157,-119.777692,38.955157",
     "geom:latitude":38.955157,
     "geom:longitude":-119.777692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 Library Ln",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236212865,
-    "wof:lastmodified":1449003857,
+    "wof:lastmodified":1466703830,
     "wof:name":"Sierra Nevada Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.777692,38.955157,-119.777692,38.955157],
+  "bbox": [
+    -119.777692,
+    38.955157,
+    -119.777692,
+    38.955157
+],
   "geometry": {"coordinates":[-119.777692,38.955157],"type":"Point"}
 }

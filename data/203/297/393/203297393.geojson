@@ -2,13 +2,14 @@
   "id": 203297393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.929235,39.514078,-119.929235,39.514078",
     "geom:latitude":39.514078,
     "geom:longitude":-119.929235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Eagle Claw Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203297393,
-    "wof:lastmodified":1449026180,
+    "wof:lastmodified":1466702813,
     "wof:name":"Dewl Products and Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-119.929235,39.514078,-119.929235,39.514078],
-  "geometry": {"coordinates":[-119.929235,39.514078],"type":"Point"}
+  "bbox": [
+    -119.929235,
+    39.514078,
+    -119.929235,
+    39.514078
+],
+  "geometry": {"coordinates":[-119.92923500000001,39.514078],"type":"Point"}
 }

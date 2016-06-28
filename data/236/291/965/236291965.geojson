@@ -2,13 +2,14 @@
   "id": 236291965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224983,36.175911,-115.224983,36.175911",
     "geom:latitude":36.175911,
     "geom:longitude":-115.224983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6124 Chelsea Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236291965,
-    "wof:lastmodified":1449002504,
+    "wof:lastmodified":1466704627,
     "wof:name":"Fun Fools Dj Service",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-115.224983,36.175911,-115.224983,36.175911],
-  "geometry": {"coordinates":[-115.224983,36.175911],"type":"Point"}
+  "bbox": [
+    -115.224983,
+    36.175911,
+    -115.224983,
+    36.175911
+],
+  "geometry": {"coordinates":[-115.22498299999999,36.175911],"type":"Point"}
 }

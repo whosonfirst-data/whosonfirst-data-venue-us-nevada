@@ -2,13 +2,14 @@
   "id": 236657193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207882,36.097431,-115.207882,36.097431",
     "geom:latitude":36.097431,
     "geom:longitude":-115.207882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5010 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236657193,
-    "wof:lastmodified":1449001953,
+    "wof:lastmodified":1466706399,
     "wof:name":"Oakview Construction Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.207882,36.097431,-115.207882,36.097431],
+  "bbox": [
+    -115.207882,
+    36.097431,
+    -115.207882,
+    36.097431
+],
   "geometry": {"coordinates":[-115.207882,36.097431],"type":"Point"}
 }

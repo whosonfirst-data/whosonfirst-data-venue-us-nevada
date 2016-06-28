@@ -2,13 +2,14 @@
   "id": 236900893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770348,39.16391,-119.770348,39.16391",
     "geom:latitude":39.16391,
     "geom:longitude":-119.770348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W King St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236900893,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466706814,
     "wof:name":"Asset Management Assoc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-119.770348,39.16391,-119.770348,39.16391],
+  "bbox": [
+    -119.770348,
+    39.16391,
+    -119.770348,
+    39.16391
+],
   "geometry": {"coordinates":[-119.770348,39.16391],"type":"Point"}
 }

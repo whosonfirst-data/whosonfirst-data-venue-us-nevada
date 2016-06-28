@@ -2,13 +2,14 @@
   "id": 236892779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.704598,39.012322,-119.704598,39.012322",
     "geom:latitude":39.012322,
     "geom:longitude":-119.704598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Sunrise Pass Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236892779,
-    "wof:lastmodified":1449002040,
+    "wof:lastmodified":1466706799,
     "wof:name":"Computer Physician Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-119.704598,39.012322,-119.704598,39.012322],
+  "bbox": [
+    -119.704598,
+    39.012322,
+    -119.704598,
+    39.012322
+],
   "geometry": {"coordinates":[-119.704598,39.012322],"type":"Point"}
 }

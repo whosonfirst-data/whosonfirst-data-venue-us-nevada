@@ -2,13 +2,14 @@
   "id": 252712387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20814,36.116616,-115.20814,36.116616",
     "geom:latitude":36.116616,
     "geom:longitude":-115.20814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252712387,
-    "wof:lastmodified":1449005879,
+    "wof:lastmodified":1466701566,
     "wof:name":"Designers Touch LLC",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.20814,36.116616,-115.20814,36.116616],
+  "bbox": [
+    -115.20814,
+    36.116616,
+    -115.20814,
+    36.116616
+],
   "geometry": {"coordinates":[-115.20814,36.116616],"type":"Point"}
 }

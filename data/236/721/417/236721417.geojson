@@ -2,13 +2,14 @@
   "id": 236721417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166967,36.144893,-115.166967,36.144893",
     "geom:latitude":36.144893,
     "geom:longitude":-115.166967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236721417,
-    "wof:lastmodified":1449005239,
+    "wof:lastmodified":1466706667,
     "wof:name":"Exotic Flooring Design Inc",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-115.166967,36.144893,-115.166967,36.144893],
+  "bbox": [
+    -115.166967,
+    36.144893,
+    -115.166967,
+    36.144893
+],
   "geometry": {"coordinates":[-115.166967,36.144893],"type":"Point"}
 }

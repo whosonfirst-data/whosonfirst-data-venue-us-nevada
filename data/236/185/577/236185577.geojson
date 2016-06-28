@@ -2,13 +2,14 @@
   "id": 236185577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.759776,40.851293,-115.759776,40.851293",
     "geom:latitude":40.851293,
     "geom:longitude":-115.759776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1861 Laxalt Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236185577,
-    "wof:lastmodified":1449002084,
+    "wof:lastmodified":1466703287,
     "wof:name":"Mine Production Specialist",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.759776,40.851293,-115.759776,40.851293],
+  "bbox": [
+    -115.759776,
+    40.851293,
+    -115.759776,
+    40.851293
+],
   "geometry": {"coordinates":[-115.759776,40.851293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354028991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127073,36.221236,-115.127073,36.221236",
     "geom:latitude":36.221236,
     "geom:longitude":-115.127073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E Colton Avenue",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354028991,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466702244,
     "wof:name":"Around the Clock Tire",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.127073,36.221236,-115.127073,36.221236],
+  "bbox": [
+    -115.127073,
+    36.221236,
+    -115.127073,
+    36.221236
+],
   "geometry": {"coordinates":[-115.127073,36.221236],"type":"Point"}
 }

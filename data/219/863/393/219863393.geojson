@@ -2,13 +2,14 @@
   "id": 219863393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81766,39.521284,-119.81766,39.521284",
     "geom:latitude":39.521284,
     "geom:longitude":-119.81766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Ridge St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219863393,
-    "wof:lastmodified":1449072827,
+    "wof:lastmodified":1466705557,
     "wof:name":"Scott D Thunder CPA",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-119.81766,39.521284,-119.81766,39.521284],
+  "bbox": [
+    -119.81766,
+    39.521284,
+    -119.81766,
+    39.521284
+],
   "geometry": {"coordinates":[-119.81766,39.521284],"type":"Point"}
 }

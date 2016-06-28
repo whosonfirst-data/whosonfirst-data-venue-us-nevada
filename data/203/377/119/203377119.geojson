@@ -2,13 +2,14 @@
   "id": 203377119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.659081,39.224269,-119.659081,39.224269",
     "geom:latitude":39.224269,
     "geom:longitude":-119.659081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Brown Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203377119,
-    "wof:lastmodified":1449025631,
+    "wof:lastmodified":1466703232,
     "wof:name":"Sierra Display Fixtures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.659081,39.224269,-119.659081,39.224269],
+  "bbox": [
+    -119.659081,
+    39.224269,
+    -119.659081,
+    39.224269
+],
   "geometry": {"coordinates":[-119.659081,39.224269],"type":"Point"}
 }

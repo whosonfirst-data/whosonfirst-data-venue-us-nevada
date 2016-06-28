@@ -2,13 +2,14 @@
   "id": 203363341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822928,39.535223,-119.822928,39.535223",
     "geom:latitude":39.535223,
     "geom:longitude":-119.822928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Ralston St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203363341,
-    "wof:lastmodified":1449026638,
+    "wof:lastmodified":1466703189,
     "wof:name":"Whispering Willows",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.822928,39.535223,-119.822928,39.535223],
+  "bbox": [
+    -119.822928,
+    39.535223,
+    -119.822928,
+    39.535223
+],
   "geometry": {"coordinates":[-119.822928,39.535223],"type":"Point"}
 }

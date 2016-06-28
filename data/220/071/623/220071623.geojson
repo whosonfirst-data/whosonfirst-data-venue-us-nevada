@@ -2,13 +2,14 @@
   "id": 220071623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76445,39.165211,-119.76445,39.165211",
     "geom:latitude":39.165211,
     "geom:longitude":-119.76445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Stewart St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220071623,
-    "wof:lastmodified":1449074551,
+    "wof:lastmodified":1466702218,
     "wof:name":"Superior Training Edctn",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-119.76445,39.165211,-119.76445,39.165211],
+  "bbox": [
+    -119.76445,
+    39.165211,
+    -119.76445,
+    39.165211
+],
   "geometry": {"coordinates":[-119.76445,39.165211],"type":"Point"}
 }

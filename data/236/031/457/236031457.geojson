@@ -2,13 +2,14 @@
   "id": 236031457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.796876,39.472885,-118.796876,39.472885",
     "geom:latitude":39.472885,
     "geom:longitude":-118.796876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Industrial Way",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236031457,
-    "wof:lastmodified":1449002761,
+    "wof:lastmodified":1466703913,
     "wof:name":"Stylin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-118.796876,39.472885,-118.796876,39.472885],
+  "bbox": [
+    -118.796876,
+    39.472885,
+    -118.796876,
+    39.472885
+],
   "geometry": {"coordinates":[-118.796876,39.472885],"type":"Point"}
 }

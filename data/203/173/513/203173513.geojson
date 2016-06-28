@@ -2,13 +2,14 @@
   "id": 203173513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137575,36.045405,-115.137575,36.045405",
     "geom:latitude":36.045405,
     "geom:longitude":-115.137575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7940 Polonaise",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203173513,
-    "wof:lastmodified":1449025299,
+    "wof:lastmodified":1466701765,
     "wof:name":"Sloan Curry Family Care Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.137575,36.045405,-115.137575,36.045405],
+  "bbox": [
+    -115.137575,
+    36.045405,
+    -115.137575,
+    36.045405
+],
   "geometry": {"coordinates":[-115.137575,36.045405],"type":"Point"}
 }

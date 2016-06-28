@@ -2,13 +2,14 @@
   "id": 203389189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243268,36.144073,-115.243268,36.144073",
     "geom:latitude":36.144073,
     "geom:longitude":-115.243268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6985 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203389189,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466703287,
     "wof:name":"Jasmine Garden",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rooms"
     ]
 },
-  "bbox": [-115.243268,36.144073,-115.243268,36.144073],
+  "bbox": [
+    -115.243268,
+    36.144073,
+    -115.243268,
+    36.144073
+],
   "geometry": {"coordinates":[-115.243268,36.144073],"type":"Point"}
 }

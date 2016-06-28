@@ -2,13 +2,14 @@
   "id": 354035015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136123,36.250653,-115.136123,36.250653",
     "geom:latitude":36.250653,
     "geom:longitude":-115.136123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E La Madre Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354035015,
-    "wof:lastmodified":1449067311,
+    "wof:lastmodified":1466702412,
     "wof:name":"With Pride Construction",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.136123,36.250653,-115.136123,36.250653],
+  "bbox": [
+    -115.136123,
+    36.250653,
+    -115.136123,
+    36.250653
+],
   "geometry": {"coordinates":[-115.136123,36.250653],"type":"Point"}
 }

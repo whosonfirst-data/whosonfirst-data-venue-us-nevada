@@ -2,13 +2,14 @@
   "id": 219462249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782111,39.534899,-119.782111,39.534899",
     "geom:latitude":39.534899,
     "geom:longitude":-119.782111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 Tacchino St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219462249,
-    "wof:lastmodified":1449073773,
+    "wof:lastmodified":1466704003,
     "wof:name":"K R O-Built Trailer Mfg",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.782111,39.534899,-119.782111,39.534899],
+  "bbox": [
+    -119.782111,
+    39.534899,
+    -119.782111,
+    39.534899
+],
   "geometry": {"coordinates":[-119.782111,39.534899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370296473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154246,36.112935,-115.154246,36.112935",
     "geom:latitude":36.112935,
     "geom:longitude":-115.154246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370296473,
-    "wof:lastmodified":1449031843,
+    "wof:lastmodified":1466704405,
     "wof:name":"Destination XL",
     "wof:parent_id":85892737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-115.154246,36.112935,-115.154246,36.112935],
+  "bbox": [
+    -115.154246,
+    36.112935,
+    -115.154246,
+    36.112935
+],
   "geometry": {"coordinates":[-115.154246,36.112935],"type":"Point"}
 }

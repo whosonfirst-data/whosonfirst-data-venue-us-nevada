@@ -2,13 +2,14 @@
   "id": 236861881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823342,39.521526,-119.823342,39.521526",
     "geom:latitude":39.521526,
     "geom:longitude":-119.823342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Vine St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236861881,
-    "wof:lastmodified":1449005222,
+    "wof:lastmodified":1466706746,
     "wof:name":"Collins Consulting",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-119.823342,39.521526,-119.823342,39.521526],
+  "bbox": [
+    -119.823342,
+    39.521526,
+    -119.823342,
+    39.521526
+],
   "geometry": {"coordinates":[-119.823342,39.521526],"type":"Point"}
 }

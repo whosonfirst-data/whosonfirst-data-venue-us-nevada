@@ -2,13 +2,14 @@
   "id": 354404479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152128,36.042882,-115.152128,36.042882",
     "geom:latitude":36.042882,
     "geom:longitude":-115.152128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Windmill Ln Ste 145",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":354404479,
-    "wof:lastmodified":1449067105,
+    "wof:lastmodified":1466706294,
     "wof:name":"Biz Xpress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipping"
     ]
 },
-  "bbox": [-115.152128,36.042882,-115.152128,36.042882],
+  "bbox": [
+    -115.152128,
+    36.042882,
+    -115.152128,
+    36.042882
+],
   "geometry": {"coordinates":[-115.152128,36.042882],"type":"Point"}
 }

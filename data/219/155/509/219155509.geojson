@@ -2,13 +2,14 @@
   "id": 219155509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144254,36.018069,-115.144254,36.018069",
     "geom:latitude":36.018069,
     "geom:longitude":-115.144254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 Cline Cellars Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219155509,
-    "wof:lastmodified":1449073307,
+    "wof:lastmodified":1466701488,
     "wof:name":"Teresa's Cleaning Svc",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.144254,36.018069,-115.144254,36.018069],
+  "bbox": [
+    -115.144254,
+    36.018069,
+    -115.144254,
+    36.018069
+],
   "geometry": {"coordinates":[-115.144254,36.018069],"type":"Point"}
 }

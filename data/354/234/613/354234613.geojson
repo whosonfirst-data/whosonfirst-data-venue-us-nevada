@@ -2,13 +2,14 @@
   "id": 354234613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168538,36.126105,-115.168538,36.126105",
     "geom:latitude":36.126105,
     "geom:longitude":-115.168538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354234613,
-    "wof:lastmodified":1449067582,
+    "wof:lastmodified":1466705139,
     "wof:name":"Designer Fashion Clearance",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.168538,36.126105,-115.168538,36.126105],
+  "bbox": [
+    -115.168538,
+    36.126105,
+    -115.168538,
+    36.126105
+],
   "geometry": {"coordinates":[-115.168538,36.126105],"type":"Point"}
 }

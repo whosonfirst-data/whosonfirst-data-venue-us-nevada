@@ -2,13 +2,14 @@
   "id": 235979155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322334,36.189844,-115.322334,36.189844",
     "geom:latitude":36.189844,
     "geom:longitude":-115.322334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Summer Stone Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235979155,
-    "wof:lastmodified":1449008491,
+    "wof:lastmodified":1466703651,
     "wof:name":"All Under One Umbrella",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.322334,36.189844,-115.322334,36.189844],
+  "bbox": [
+    -115.322334,
+    36.189844,
+    -115.322334,
+    36.189844
+],
   "geometry": {"coordinates":[-115.322334,36.189844],"type":"Point"}
 }

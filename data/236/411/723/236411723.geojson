@@ -2,13 +2,14 @@
   "id": 236411723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185425,36.123545,-115.185425,36.123545",
     "geom:latitude":36.123545,
     "geom:longitude":-115.185425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3566 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236411723,
-    "wof:lastmodified":1449001795,
+    "wof:lastmodified":1466705260,
     "wof:name":"Sara Lee",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-115.185425,36.123545,-115.185425,36.123545],
+  "bbox": [
+    -115.185425,
+    36.123545,
+    -115.185425,
+    36.123545
+],
   "geometry": {"coordinates":[-115.185425,36.123545],"type":"Point"}
 }

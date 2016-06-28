@@ -2,13 +2,14 @@
   "id": 236022865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122516,35.966371,-115.122516,35.966371",
     "geom:latitude":35.966371,
     "geom:longitude":-115.122516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Sebring Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236022865,
-    "wof:lastmodified":1449002596,
+    "wof:lastmodified":1466703873,
     "wof:name":"Nardell Video & Assoc",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-115.122516,35.966371,-115.122516,35.966371],
+  "bbox": [
+    -115.122516,
+    35.966371,
+    -115.122516,
+    35.966371
+],
   "geometry": {"coordinates":[-115.122516,35.966371],"type":"Point"}
 }

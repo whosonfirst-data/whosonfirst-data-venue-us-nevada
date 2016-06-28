@@ -2,13 +2,14 @@
   "id": 219940927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800936,39.507515,-119.800936,39.507515",
     "geom:latitude":39.507515,
     "geom:longitude":-119.800936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Casazza Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219940927,
-    "wof:lastmodified":1449071261,
+    "wof:lastmodified":1466705828,
     "wof:name":"Jesus Appliance Sales & Repair",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-119.800936,39.507515,-119.800936,39.507515],
-  "geometry": {"coordinates":[-119.800936,39.507515],"type":"Point"}
+  "bbox": [
+    -119.800936,
+    39.507515,
+    -119.800936,
+    39.507515
+],
+  "geometry": {"coordinates":[-119.80093599999999,39.507515],"type":"Point"}
 }

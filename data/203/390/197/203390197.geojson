@@ -2,13 +2,14 @@
   "id": 203390197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298557,36.144491,-115.298557,36.144491",
     "geom:latitude":36.144491,
     "geom:longitude":-115.298557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9340 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203390197,
-    "wof:lastmodified":1449026880,
+    "wof:lastmodified":1466703292,
     "wof:name":"Furniture & Big Screen Shwcse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.298557,36.144491,-115.298557,36.144491],
+  "bbox": [
+    -115.298557,
+    36.144491,
+    -115.298557,
+    36.144491
+],
   "geometry": {"coordinates":[-115.298557,36.144491],"type":"Point"}
 }

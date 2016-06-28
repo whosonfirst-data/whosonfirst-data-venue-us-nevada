@@ -2,13 +2,14 @@
   "id": 370336189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761889,39.161427,-119.761889,39.161427",
     "geom:latitude":39.161427,
     "geom:longitude":-119.761889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Fifth St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370336189,
-    "wof:lastmodified":1449029003,
+    "wof:lastmodified":1466704787,
     "wof:name":"Nevada State of",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761889,39.161427,-119.761889,39.161427],
+  "bbox": [
+    -119.761889,
+    39.161427,
+    -119.761889,
+    39.161427
+],
   "geometry": {"coordinates":[-119.761889,39.161427],"type":"Point"}
 }

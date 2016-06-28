@@ -2,13 +2,14 @@
   "id": 236623017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26517,36.077704,-115.26517,36.077704",
     "geom:latitude":36.077704,
     "geom:longitude":-115.26517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7934 W Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236623017,
-    "wof:lastmodified":1449004067,
+    "wof:lastmodified":1466706171,
     "wof:name":"Addison Landscaping",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.26517,36.077704,-115.26517,36.077704],
+  "bbox": [
+    -115.26517,
+    36.077704,
+    -115.26517,
+    36.077704
+],
   "geometry": {"coordinates":[-115.26517,36.077704],"type":"Point"}
 }

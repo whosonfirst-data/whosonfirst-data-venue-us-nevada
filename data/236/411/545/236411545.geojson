@@ -2,13 +2,14 @@
   "id": 236411545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789341,39.484987,-119.789341,39.484987",
     "geom:latitude":39.484987,
     "geom:longitude":-119.789341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4104 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236411545,
-    "wof:lastmodified":1449001793,
+    "wof:lastmodified":1466705257,
     "wof:name":"Pyrocell Corp",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789341,39.484987,-119.789341,39.484987],
-  "geometry": {"coordinates":[-119.789341,39.484987],"type":"Point"}
+  "bbox": [
+    -119.789341,
+    39.484987,
+    -119.789341,
+    39.484987
+],
+  "geometry": {"coordinates":[-119.78934099999999,39.484987],"type":"Point"}
 }

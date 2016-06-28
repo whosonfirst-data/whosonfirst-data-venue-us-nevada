@@ -2,13 +2,14 @@
   "id": 387520023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.89146,38.973147,-119.89146,38.973147",
     "geom:latitude":38.973147,
     "geom:longitude":-119.89146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Benjamin Dr",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387520023,
-    "wof:lastmodified":1449057356,
+    "wof:lastmodified":1466701494,
     "wof:name":"F & H Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.89146,38.973147,-119.89146,38.973147],
+  "bbox": [
+    -119.89146,
+    38.973147,
+    -119.89146,
+    38.973147
+],
   "geometry": {"coordinates":[-119.89146,38.973147],"type":"Point"}
 }

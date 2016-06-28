@@ -2,13 +2,14 @@
   "id": 203281915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800529,39.515346,-119.800529,39.515346",
     "geom:latitude":39.515346,
     "geom:longitude":-119.800529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Locust St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203281915,
-    "wof:lastmodified":1449026560,
+    "wof:lastmodified":1466702709,
     "wof:name":"VA Medical Center",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.800529,39.515346,-119.800529,39.515346],
+  "bbox": [
+    -119.800529,
+    39.515346,
+    -119.800529,
+    39.515346
+],
   "geometry": {"coordinates":[-119.800529,39.515346],"type":"Point"}
 }

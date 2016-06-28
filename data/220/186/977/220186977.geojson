@@ -2,13 +2,14 @@
   "id": 220186977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.105017,36.811291,-114.105017,36.811291",
     "geom:latitude":36.811291,
     "geom:longitude":-114.105017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Calais Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220186977,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466703003,
     "wof:name":"Flagstar Bank Home Loan Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.105017,36.811291,-114.105017,36.811291],
+  "bbox": [
+    -114.105017,
+    36.811291,
+    -114.105017,
+    36.811291
+],
   "geometry": {"coordinates":[-114.105017,36.811291],"type":"Point"}
 }

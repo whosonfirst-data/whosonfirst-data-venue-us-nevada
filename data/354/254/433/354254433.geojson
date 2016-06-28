@@ -2,13 +2,14 @@
   "id": 354254433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170463,36.123552,-115.170463,36.123552",
     "geom:latitude":36.123552,
     "geom:longitude":-115.170463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Palazzo Resort 3325 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354254433,
-    "wof:lastmodified":1449067141,
+    "wof:lastmodified":1466705376,
     "wof:name":"Salut Bar",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.170463,36.123552,-115.170463,36.123552],
+  "bbox": [
+    -115.170463,
+    36.123552,
+    -115.170463,
+    36.123552
+],
   "geometry": {"coordinates":[-115.170463,36.123552],"type":"Point"}
 }

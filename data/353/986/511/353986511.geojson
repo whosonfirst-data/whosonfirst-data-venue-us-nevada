@@ -2,13 +2,14 @@
   "id": 353986511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.955903,36.081258,-114.955903,36.081258",
     "geom:latitude":36.081258,
     "geom:longitude":-114.955903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Olsen Dr Ste 1011",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353986511,
-    "wof:lastmodified":1449020329,
+    "wof:lastmodified":1466701487,
     "wof:name":"Advanced Design Systems",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-114.955903,36.081258,-114.955903,36.081258],
-  "geometry": {"coordinates":[-114.955903,36.081258],"type":"Point"}
+  "bbox": [
+    -114.955903,
+    36.081258,
+    -114.955903,
+    36.081258
+],
+  "geometry": {"coordinates":[-114.95590300000001,36.081258],"type":"Point"}
 }

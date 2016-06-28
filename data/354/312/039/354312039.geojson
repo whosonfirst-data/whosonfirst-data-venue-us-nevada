@@ -2,13 +2,14 @@
   "id": 354312039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270632,36.143679,-115.270632,36.143679",
     "geom:latitude":36.143679,
     "geom:longitude":-115.270632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8245 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354312039,
-    "wof:lastmodified":1449066785,
+    "wof:lastmodified":1466705768,
     "wof:name":"Macayo Vegas",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.270632,36.143679,-115.270632,36.143679],
-  "geometry": {"coordinates":[-115.270632,36.143679],"type":"Point"}
+  "bbox": [
+    -115.270632,
+    36.143679,
+    -115.270632,
+    36.143679
+],
+  "geometry": {"coordinates":[-115.27063200000001,36.143679],"type":"Point"}
 }

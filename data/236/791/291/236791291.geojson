@@ -2,13 +2,14 @@
   "id": 236791291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305709,36.131346,-115.305709,36.131346",
     "geom:latitude":36.131346,
     "geom:longitude":-115.305709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3228 Oyster Bay St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236791291,
-    "wof:lastmodified":1449004323,
+    "wof:lastmodified":1466706753,
     "wof:name":"D & W Consulting",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "for"
     ]
 },
-  "bbox": [-115.305709,36.131346,-115.305709,36.131346],
-  "geometry": {"coordinates":[-115.305709,36.131346],"type":"Point"}
+  "bbox": [
+    -115.305709,
+    36.131346,
+    -115.305709,
+    36.131346
+],
+  "geometry": {"coordinates":[-115.30570899999999,36.131346],"type":"Point"}
 }

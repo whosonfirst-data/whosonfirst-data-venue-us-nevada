@@ -2,13 +2,14 @@
   "id": 219296901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170142,36.124232,-115.170142,36.124232",
     "geom:latitude":36.124232,
     "geom:longitude":-115.170142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3555 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219296901,
-    "wof:lastmodified":1449073269,
+    "wof:lastmodified":1466703057,
     "wof:name":"Ethel M Chocolates Inc",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retailer"
     ]
 },
-  "bbox": [-115.170142,36.124232,-115.170142,36.124232],
+  "bbox": [
+    -115.170142,
+    36.124232,
+    -115.170142,
+    36.124232
+],
   "geometry": {"coordinates":[-115.170142,36.124232],"type":"Point"}
 }

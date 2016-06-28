@@ -2,13 +2,14 @@
   "id": 220171901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.327568,36.170032,-115.327568,36.170032",
     "geom:latitude":36.170032,
     "geom:longitude":-115.327568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Magnolia Arbor St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220171901,
-    "wof:lastmodified":1449074884,
+    "wof:lastmodified":1466702898,
     "wof:name":"Acclaimed Technology Solutions",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.327568,36.170032,-115.327568,36.170032],
+  "bbox": [
+    -115.327568,
+    36.170032,
+    -115.327568,
+    36.170032
+],
   "geometry": {"coordinates":[-115.327568,36.170032],"type":"Point"}
 }

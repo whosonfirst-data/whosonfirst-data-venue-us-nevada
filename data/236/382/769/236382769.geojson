@@ -2,13 +2,14 @@
   "id": 236382769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.124739,36.107878,-115.124739,36.107878",
     "geom:latitude":36.107878,
     "geom:longitude":-115.124739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 Heritageoaks St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236382769,
-    "wof:lastmodified":1449002341,
+    "wof:lastmodified":1466705132,
     "wof:name":"Ronald E Freese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.124739,36.107878,-115.124739,36.107878],
-  "geometry": {"coordinates":[-115.124739,36.107878],"type":"Point"}
+  "bbox": [
+    -115.124739,
+    36.107878,
+    -115.124739,
+    36.107878
+],
+  "geometry": {"coordinates":[-115.12473900000001,36.107878],"type":"Point"}
 }

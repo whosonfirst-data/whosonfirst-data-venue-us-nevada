@@ -2,13 +2,14 @@
   "id": 337297215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128387,36.055248,-115.128387,36.055248",
     "geom:latitude":36.055248,
     "geom:longitude":-115.128387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1743 Pandora Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337297215,
-    "wof:lastmodified":1449027473,
+    "wof:lastmodified":1466701663,
     "wof:name":"Michael Lyle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.128387,36.055248,-115.128387,36.055248],
+  "bbox": [
+    -115.128387,
+    36.055248,
+    -115.128387,
+    36.055248
+],
   "geometry": {"coordinates":[-115.128387,36.055248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236659755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.027042,36.160954,-116.027042,36.160954",
     "geom:latitude":36.160954,
     "geom:longitude":-116.027042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 E Gamebird Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236659755,
-    "wof:lastmodified":1449001940,
+    "wof:lastmodified":1466706411,
     "wof:name":"Pahrump Valley Auto Cool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiator"
     ]
 },
-  "bbox": [-116.027042,36.160954,-116.027042,36.160954],
-  "geometry": {"coordinates":[-116.027042,36.160954],"type":"Point"}
+  "bbox": [
+    -116.027042,
+    36.160954,
+    -116.027042,
+    36.160954
+],
+  "geometry": {"coordinates":[-116.02704199999999,36.160954],"type":"Point"}
 }

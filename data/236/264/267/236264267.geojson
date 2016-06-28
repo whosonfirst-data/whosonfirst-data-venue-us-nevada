@@ -2,13 +2,14 @@
   "id": 236264267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.250072,39.607665,-119.250072,39.607665",
     "geom:latitude":39.607665,
     "geom:longitude":-119.250072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Main St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236264267,
-    "wof:lastmodified":1449003867,
+    "wof:lastmodified":1466704457,
     "wof:name":"Four Seasons Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.250072,39.607665,-119.250072,39.607665],
+  "bbox": [
+    -119.250072,
+    39.607665,
+    -119.250072,
+    39.607665
+],
   "geometry": {"coordinates":[-119.250072,39.607665],"type":"Point"}
 }

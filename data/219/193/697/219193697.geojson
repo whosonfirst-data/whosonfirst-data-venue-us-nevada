@@ -2,13 +2,14 @@
   "id": 219193697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736516,39.552824,-119.736516,39.552824",
     "geom:latitude":39.552824,
     "geom:longitude":-119.736516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 E York Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219193697,
-    "wof:lastmodified":1449070958,
+    "wof:lastmodified":1466702031,
     "wof:name":"Kristine Blay-Aesthetician",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.736516,39.552824,-119.736516,39.552824],
-  "geometry": {"coordinates":[-119.736516,39.552824],"type":"Point"}
+  "bbox": [
+    -119.736516,
+    39.552824,
+    -119.736516,
+    39.552824
+],
+  "geometry": {"coordinates":[-119.73651599999999,39.552824],"type":"Point"}
 }

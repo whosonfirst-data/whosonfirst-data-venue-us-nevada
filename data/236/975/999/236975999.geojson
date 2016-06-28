@@ -2,13 +2,14 @@
   "id": 236975999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757421,39.600633,-119.757421,39.600633",
     "geom:latitude":39.600633,
     "geom:longitude":-119.757421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5743 Cinnamon Ct",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236975999,
-    "wof:lastmodified":1449004696,
+    "wof:lastmodified":1466706957,
     "wof:name":"Cattos Mechanical Development",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.757421,39.600633,-119.757421,39.600633],
-  "geometry": {"coordinates":[-119.757421,39.600633],"type":"Point"}
+  "bbox": [
+    -119.757421,
+    39.600633,
+    -119.757421,
+    39.600633
+],
+  "geometry": {"coordinates":[-119.75742099999999,39.600633],"type":"Point"}
 }

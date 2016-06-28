@@ -2,13 +2,14 @@
   "id": 219819523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.068777,40.678728,-118.068777,40.678728",
     "geom:latitude":40.678728,
     "geom:longitude":-118.068777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 State Hwy 400",
     "sg:city":"Imlay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219819523,
-    "wof:lastmodified":1449071233,
+    "wof:lastmodified":1466705187,
     "wof:name":"Star Point Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-118.068777,40.678728,-118.068777,40.678728],
+  "bbox": [
+    -118.068777,
+    40.678728,
+    -118.068777,
+    40.678728
+],
   "geometry": {"coordinates":[-118.068777,40.678728],"type":"Point"}
 }

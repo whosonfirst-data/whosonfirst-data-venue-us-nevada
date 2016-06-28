@@ -2,13 +2,14 @@
   "id": 236593699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12081,36.061889,-115.12081,36.061889",
     "geom:latitude":36.061889,
     "geom:longitude":-115.12081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6927 Wood Bark Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236593699,
-    "wof:lastmodified":1449003915,
+    "wof:lastmodified":1466706253,
     "wof:name":"Lbi/Boyd Wallcovering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.12081,36.061889,-115.12081,36.061889],
-  "geometry": {"coordinates":[-115.12081,36.061889],"type":"Point"}
+  "bbox": [
+    -115.12081,
+    36.061889,
+    -115.12081,
+    36.061889
+],
+  "geometry": {"coordinates":[-115.12081000000001,36.061889],"type":"Point"}
 }

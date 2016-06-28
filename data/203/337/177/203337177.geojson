@@ -2,13 +2,14 @@
   "id": 203337177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.727246,39.559071,-119.727246,39.559071",
     "geom:latitude":39.559071,
     "geom:longitude":-119.727246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Pinewood Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203337177,
-    "wof:lastmodified":1449025808,
+    "wof:lastmodified":1466703075,
     "wof:name":"Sierra Powerhouse",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-119.727246,39.559071,-119.727246,39.559071],
-  "geometry": {"coordinates":[-119.727246,39.559071],"type":"Point"}
+  "bbox": [
+    -119.727246,
+    39.559071,
+    -119.727246,
+    39.559071
+],
+  "geometry": {"coordinates":[-119.72724599999999,39.559071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219175949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.928743,36.012626,-114.928743,36.012626",
     "geom:latitude":36.012626,
     "geom:longitude":-114.928743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1581 Equestrian Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219175949,
-    "wof:lastmodified":1449072838,
+    "wof:lastmodified":1466701911,
     "wof:name":"Arbor Gardens",
     "wof:parent_id":85878121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-114.928743,36.012626,-114.928743,36.012626],
+  "bbox": [
+    -114.928743,
+    36.012626,
+    -114.928743,
+    36.012626
+],
   "geometry": {"coordinates":[-114.928743,36.012626],"type":"Point"}
 }

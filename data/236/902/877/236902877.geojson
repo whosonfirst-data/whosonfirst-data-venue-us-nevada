@@ -2,13 +2,14 @@
   "id": 236902877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099833,36.008195,-115.099833,36.008195",
     "geom:latitude":36.008195,
     "geom:longitude":-115.099833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2570 Highland Cliff Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236902877,
-    "wof:lastmodified":1449004212,
+    "wof:lastmodified":1466706822,
     "wof:name":"Billion Dollar Travel Network",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.099833,36.008195,-115.099833,36.008195],
+  "bbox": [
+    -115.099833,
+    36.008195,
+    -115.099833,
+    36.008195
+],
   "geometry": {"coordinates":[-115.099833,36.008195],"type":"Point"}
 }

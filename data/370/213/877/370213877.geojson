@@ -2,13 +2,14 @@
   "id": 370213877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316979,36.179149,-115.316979,36.179149",
     "geom:latitude":36.179149,
     "geom:longitude":-115.316979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 N Town Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370213877,
-    "wof:lastmodified":1449029106,
+    "wof:lastmodified":1466702907,
     "wof:name":"A Child's Smile",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-115.316979,36.179149,-115.316979,36.179149],
+  "bbox": [
+    -115.316979,
+    36.179149,
+    -115.316979,
+    36.179149
+],
   "geometry": {"coordinates":[-115.316979,36.179149],"type":"Point"}
 }

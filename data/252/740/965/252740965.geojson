@@ -2,13 +2,14 @@
   "id": 252740965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218733,36.14443,-115.218733,36.14443",
     "geom:latitude":36.14443,
     "geom:longitude":-115.218733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252740965,
-    "wof:lastmodified":1449005912,
+    "wof:lastmodified":1466702148,
     "wof:name":"Jocelyn Marcus Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.218733,36.14443,-115.218733,36.14443],
+  "bbox": [
+    -115.218733,
+    36.14443,
+    -115.218733,
+    36.14443
+],
   "geometry": {"coordinates":[-115.218733,36.14443],"type":"Point"}
 }

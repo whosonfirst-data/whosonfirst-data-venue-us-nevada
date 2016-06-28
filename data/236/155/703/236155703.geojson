@@ -2,13 +2,14 @@
   "id": 236155703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099854,36.127653,-115.099854,36.127653",
     "geom:latitude":36.127653,
     "geom:longitude":-115.099854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Berwyck St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236155703,
-    "wof:lastmodified":1449004551,
+    "wof:lastmodified":1466702691,
     "wof:name":"Del Rey Carpet Cleaning",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.099854,36.127653,-115.099854,36.127653],
-  "geometry": {"coordinates":[-115.099854,36.127653],"type":"Point"}
+  "bbox": [
+    -115.099854,
+    36.127653,
+    -115.099854,
+    36.127653
+],
+  "geometry": {"coordinates":[-115.09985399999999,36.127653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235940747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762771,39.171157,-119.762771,39.171157",
     "geom:latitude":39.171157,
     "geom:longitude":-119.762771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 E John St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235940747,
-    "wof:lastmodified":1449008337,
+    "wof:lastmodified":1466703484,
     "wof:name":"Pringle & Pollard",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-119.762771,39.171157,-119.762771,39.171157],
+  "bbox": [
+    -119.762771,
+    39.171157,
+    -119.762771,
+    39.171157
+],
   "geometry": {"coordinates":[-119.762771,39.171157],"type":"Point"}
 }

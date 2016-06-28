@@ -2,13 +2,14 @@
   "id": 203178883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80945,39.556815,-119.80945,39.556815",
     "geom:latitude":39.556815,
     "geom:longitude":-119.80945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1094 University Ridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203178883,
-    "wof:lastmodified":1449026327,
+    "wof:lastmodified":1466701810,
     "wof:name":"Lagniappe Construction Co",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-119.80945,39.556815,-119.80945,39.556815],
+  "bbox": [
+    -119.80945,
+    39.556815,
+    -119.80945,
+    39.556815
+],
   "geometry": {"coordinates":[-119.80945,39.556815],"type":"Point"}
 }

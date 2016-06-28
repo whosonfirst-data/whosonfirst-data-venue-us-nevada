@@ -2,13 +2,14 @@
   "id": 203169261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284736,36.159048,-115.284736,36.159048",
     "geom:latitude":36.159048,
     "geom:longitude":-115.284736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8600 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203169261,
-    "wof:lastmodified":1449026108,
+    "wof:lastmodified":1466701727,
     "wof:name":"Verano Peccole Ranch",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.284736,36.159048,-115.284736,36.159048],
+  "bbox": [
+    -115.284736,
+    36.159048,
+    -115.284736,
+    36.159048
+],
   "geometry": {"coordinates":[-115.284736,36.159048],"type":"Point"}
 }

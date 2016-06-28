@@ -2,13 +2,14 @@
   "id": 370336265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.728633,39.178356,-119.728633,39.178356",
     "geom:latitude":39.178356,
     "geom:longitude":-119.728633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3579 US Highway 50 E Ste 201",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370336265,
-    "wof:lastmodified":1449029001,
+    "wof:lastmodified":1466704789,
     "wof:name":"Capital Alignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.728633,39.178356,-119.728633,39.178356],
+  "bbox": [
+    -119.728633,
+    39.178356,
+    -119.728633,
+    39.178356
+],
   "geometry": {"coordinates":[-119.728633,39.178356],"type":"Point"}
 }

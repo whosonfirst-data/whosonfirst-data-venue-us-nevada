@@ -2,13 +2,14 @@
   "id": 236907749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086956,36.072888,-115.086956,36.072888",
     "geom:latitude":36.072888,
     "geom:longitude":-115.086956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6480 Annie Oakley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236907749,
-    "wof:lastmodified":1449004948,
+    "wof:lastmodified":1466706833,
     "wof:name":"William L Scheer DDS",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.086956,36.072888,-115.086956,36.072888],
+  "bbox": [
+    -115.086956,
+    36.072888,
+    -115.086956,
+    36.072888
+],
   "geometry": {"coordinates":[-115.086956,36.072888],"type":"Point"}
 }

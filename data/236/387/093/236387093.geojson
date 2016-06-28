@@ -2,13 +2,14 @@
   "id": 236387093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748326,39.480281,-119.748326,39.480281",
     "geom:latitude":39.480281,
     "geom:longitude":-119.748326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4509 Dos Rios Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236387093,
-    "wof:lastmodified":1449004708,
+    "wof:lastmodified":1466705159,
     "wof:name":"Smar TS Ltd",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-119.748326,39.480281,-119.748326,39.480281],
-  "geometry": {"coordinates":[-119.748326,39.480281],"type":"Point"}
+  "bbox": [
+    -119.748326,
+    39.480281,
+    -119.748326,
+    39.480281
+],
+  "geometry": {"coordinates":[-119.74832600000001,39.480281],"type":"Point"}
 }

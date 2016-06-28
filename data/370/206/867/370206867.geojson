@@ -2,13 +2,14 @@
   "id": 370206867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1724,36.040578,-115.1724,36.040578",
     "geom:latitude":36.040578,
     "geom:longitude":-115.1724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7815 S Rainbow Blvd # 102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370206867,
-    "wof:lastmodified":1449031376,
+    "wof:lastmodified":1466702699,
     "wof:name":"New Day Cafe",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-115.1724,36.040578,-115.1724,36.040578],
+  "bbox": [
+    -115.1724,
+    36.040578,
+    -115.1724,
+    36.040578
+],
   "geometry": {"coordinates":[-115.1724,36.040578],"type":"Point"}
 }

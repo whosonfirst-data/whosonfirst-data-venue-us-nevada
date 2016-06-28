@@ -2,13 +2,14 @@
   "id": 354278697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277793,36.070493,-115.277793,36.070493",
     "geom:latitude":36.070493,
     "geom:longitude":-115.277793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354278697,
-    "wof:lastmodified":1449066883,
+    "wof:lastmodified":1466705574,
     "wof:name":"Parkway Urgent Care-Genesis Medical Group",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.277793,36.070493,-115.277793,36.070493],
+  "bbox": [
+    -115.277793,
+    36.070493,
+    -115.277793,
+    36.070493
+],
   "geometry": {"coordinates":[-115.277793,36.070493],"type":"Point"}
 }

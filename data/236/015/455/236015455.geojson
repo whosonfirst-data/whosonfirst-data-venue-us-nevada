@@ -2,13 +2,14 @@
   "id": 236015455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.891821,39.642569,-119.891821,39.642569",
     "geom:latitude":39.642569,
     "geom:longitude":-119.891821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11500 Production Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236015455,
-    "wof:lastmodified":1449002245,
+    "wof:lastmodified":1466703834,
     "wof:name":"Kleerdex Co",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "producer"
     ]
 },
-  "bbox": [-119.891821,39.642569,-119.891821,39.642569],
-  "geometry": {"coordinates":[-119.891821,39.642569],"type":"Point"}
+  "bbox": [
+    -119.891821,
+    39.642569,
+    -119.891821,
+    39.642569
+],
+  "geometry": {"coordinates":[-119.89182099999999,39.642569],"type":"Point"}
 }

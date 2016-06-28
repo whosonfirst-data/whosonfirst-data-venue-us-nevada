@@ -2,13 +2,14 @@
   "id": 252727531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789127,39.500917,-119.789127,39.500917",
     "geom:latitude":39.500917,
     "geom:longitude":-119.789127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252727531,
-    "wof:lastmodified":1449005570,
+    "wof:lastmodified":1466701880,
     "wof:name":"Best Wishes",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.789127,39.500917,-119.789127,39.500917],
-  "geometry": {"coordinates":[-119.789127,39.500917],"type":"Point"}
+  "bbox": [
+    -119.789127,
+    39.500917,
+    -119.789127,
+    39.500917
+],
+  "geometry": {"coordinates":[-119.78912699999999,39.500917],"type":"Point"}
 }

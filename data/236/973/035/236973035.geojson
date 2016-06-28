@@ -2,13 +2,14 @@
   "id": 236973035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242933,36.092441,-115.242933,36.092441",
     "geom:latitude":36.092441,
     "geom:longitude":-115.242933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236973035,
-    "wof:lastmodified":1449003664,
+    "wof:lastmodified":1466706896,
     "wof:name":"Trail Condominium LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-115.242933,36.092441,-115.242933,36.092441],
-  "geometry": {"coordinates":[-115.242933,36.092441],"type":"Point"}
+  "bbox": [
+    -115.242933,
+    36.092441,
+    -115.242933,
+    36.092441
+],
+  "geometry": {"coordinates":[-115.24293299999999,36.092441],"type":"Point"}
 }

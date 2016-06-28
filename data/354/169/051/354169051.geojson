@@ -2,13 +2,14 @@
   "id": 354169051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079173,36.143351,-115.079173,36.143351",
     "geom:latitude":36.143351,
     "geom:longitude":-115.079173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354169051,
-    "wof:lastmodified":1449066992,
+    "wof:lastmodified":1466704677,
     "wof:name":"Summit Plaza Self Storage",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-115.079173,36.143351,-115.079173,36.143351],
+  "bbox": [
+    -115.079173,
+    36.143351,
+    -115.079173,
+    36.143351
+],
   "geometry": {"coordinates":[-115.079173,36.143351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220051457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122404,36.064502,-115.122404,36.064502",
     "geom:latitude":36.064502,
     "geom:longitude":-115.122404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2170 E Maule Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220051457,
-    "wof:lastmodified":1449074534,
+    "wof:lastmodified":1466702047,
     "wof:name":"Y Laboratories",
     "wof:parent_id":85879705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.122404,36.064502,-115.122404,36.064502],
+  "bbox": [
+    -115.122404,
+    36.064502,
+    -115.122404,
+    36.064502
+],
   "geometry": {"coordinates":[-115.122404,36.064502],"type":"Point"}
 }

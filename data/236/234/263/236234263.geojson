@@ -2,13 +2,14 @@
   "id": 236234263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255261,36.218315,-115.255261,36.218315",
     "geom:latitude":36.218315,
     "geom:longitude":-115.255261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7312 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236234263,
-    "wof:lastmodified":1449005035,
+    "wof:lastmodified":1466704289,
     "wof:name":"Protravel International",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.255261,36.218315,-115.255261,36.218315],
+  "bbox": [
+    -115.255261,
+    36.218315,
+    -115.255261,
+    36.218315
+],
   "geometry": {"coordinates":[-115.255261,36.218315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236010535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.960417,36.047133,-114.960417,36.047133",
     "geom:latitude":36.047133,
     "geom:longitude":-114.960417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Bell Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236010535,
-    "wof:lastmodified":1449003757,
+    "wof:lastmodified":1466703814,
     "wof:name":"Club MX",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-114.960417,36.047133,-114.960417,36.047133],
-  "geometry": {"coordinates":[-114.960417,36.047133],"type":"Point"}
+  "bbox": [
+    -114.960417,
+    36.047133,
+    -114.960417,
+    36.047133
+],
+  "geometry": {"coordinates":[-114.96041700000001,36.047133],"type":"Point"}
 }

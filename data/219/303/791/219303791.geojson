@@ -2,13 +2,14 @@
   "id": 219303791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.776989,39.479754,-118.776989,39.479754",
     "geom:latitude":39.479754,
     "geom:longitude":-118.776989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 N Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219303791,
-    "wof:lastmodified":1449070411,
+    "wof:lastmodified":1466703111,
     "wof:name":"Aspen Valley Log Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.776989,39.479754,-118.776989,39.479754],
+  "bbox": [
+    -118.776989,
+    39.479754,
+    -118.776989,
+    39.479754
+],
   "geometry": {"coordinates":[-118.776989,39.479754],"type":"Point"}
 }

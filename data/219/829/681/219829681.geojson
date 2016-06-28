@@ -2,13 +2,14 @@
   "id": 219829681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097319,36.109781,-115.097319,36.109781",
     "geom:latitude":36.109781,
     "geom:longitude":-115.097319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4380 S Sunny Dunes Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219829681,
-    "wof:lastmodified":1449073675,
+    "wof:lastmodified":1466705346,
     "wof:name":"Patti Watti Designs",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.097319,36.109781,-115.097319,36.109781],
+  "bbox": [
+    -115.097319,
+    36.109781,
+    -115.097319,
+    36.109781
+],
   "geometry": {"coordinates":[-115.097319,36.109781],"type":"Point"}
 }

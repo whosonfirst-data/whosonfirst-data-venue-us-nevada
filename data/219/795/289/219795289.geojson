@@ -2,13 +2,14 @@
   "id": 219795289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766499,39.529179,-119.766499,39.529179",
     "geom:latitude":39.529179,
     "geom:longitude":-119.766499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219795289,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466705044,
     "wof:name":"Dan Loose Construction Co Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-119.766499,39.529179,-119.766499,39.529179],
+  "bbox": [
+    -119.766499,
+    39.529179,
+    -119.766499,
+    39.529179
+],
   "geometry": {"coordinates":[-119.766499,39.529179],"type":"Point"}
 }

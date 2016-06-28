@@ -2,13 +2,14 @@
   "id": 354000353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.029565,36.041341,-115.029565,36.041341",
     "geom:latitude":36.041341,
     "geom:longitude":-115.029565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 N Gibson Rd Ste 170",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354000353,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466704193,
     "wof:name":"Timbers Bar & Grill #16",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.029565,36.041341,-115.029565,36.041341],
-  "geometry": {"coordinates":[-115.029565,36.041341],"type":"Point"}
+  "bbox": [
+    -115.029565,
+    36.041341,
+    -115.029565,
+    36.041341
+],
+  "geometry": {"coordinates":[-115.02956500000001,36.041341],"type":"Point"}
 }

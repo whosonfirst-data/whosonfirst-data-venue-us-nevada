@@ -2,13 +2,14 @@
   "id": 219694159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761958,39.447676,-119.761958,39.447676",
     "geom:latitude":39.447676,
     "geom:longitude":-119.761958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9410 Prototype Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219694159,
-    "wof:lastmodified":1449071398,
+    "wof:lastmodified":1466704403,
     "wof:name":"AC Coin Nevada",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "amusement"
     ]
 },
-  "bbox": [-119.761958,39.447676,-119.761958,39.447676],
-  "geometry": {"coordinates":[-119.761958,39.447676],"type":"Point"}
+  "bbox": [
+    -119.761958,
+    39.447676,
+    -119.761958,
+    39.447676
+],
+  "geometry": {"coordinates":[-119.76195800000001,39.447676],"type":"Point"}
 }

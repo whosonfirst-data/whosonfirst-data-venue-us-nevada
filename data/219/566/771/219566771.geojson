@@ -2,13 +2,14 @@
   "id": 219566771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708045,39.649575,-119.708045,39.649575",
     "geom:latitude":39.649575,
     "geom:longitude":-119.708045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Karnak Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219566771,
-    "wof:lastmodified":1449070443,
+    "wof:lastmodified":1466702514,
     "wof:name":"Summit Spirit LLC",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.708045,39.649575,-119.708045,39.649575],
+  "bbox": [
+    -119.708045,
+    39.649575,
+    -119.708045,
+    39.649575
+],
   "geometry": {"coordinates":[-119.708045,39.649575],"type":"Point"}
 }

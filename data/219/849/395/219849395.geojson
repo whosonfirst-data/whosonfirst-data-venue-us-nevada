@@ -2,13 +2,14 @@
   "id": 219849395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.797995,39.47377,-119.797995,39.47377",
     "geom:latitude":39.47377,
     "geom:longitude":-119.797995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Sierra Rose Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219849395,
-    "wof:lastmodified":1449071048,
+    "wof:lastmodified":1466705467,
     "wof:name":"Donald G Zundel LTD",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.797995,39.47377,-119.797995,39.47377],
+  "bbox": [
+    -119.797995,
+    39.47377,
+    -119.797995,
+    39.47377
+],
   "geometry": {"coordinates":[-119.797995,39.47377],"type":"Point"}
 }

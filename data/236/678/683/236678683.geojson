@@ -2,13 +2,14 @@
   "id": 236678683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.820329,35.973221,-114.820329,35.973221",
     "geom:latitude":35.973221,
     "geom:longitude":-114.820329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Otono Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236678683,
-    "wof:lastmodified":1449003199,
+    "wof:lastmodified":1466706437,
     "wof:name":"Blbd LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-114.820329,35.973221,-114.820329,35.973221],
+  "bbox": [
+    -114.820329,
+    35.973221,
+    -114.820329,
+    35.973221
+],
   "geometry": {"coordinates":[-114.820329,35.973221],"type":"Point"}
 }

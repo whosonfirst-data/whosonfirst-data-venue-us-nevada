@@ -2,13 +2,14 @@
   "id": 219727013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.829239,35.963977,-114.829239,35.963977",
     "geom:latitude":35.963977,
     "geom:longitude":-114.829239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Pueblo Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219727013,
-    "wof:lastmodified":1449070922,
+    "wof:lastmodified":1466704764,
     "wof:name":"Doug Beekman Seminar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.829239,35.963977,-114.829239,35.963977],
+  "bbox": [
+    -114.829239,
+    35.963977,
+    -114.829239,
+    35.963977
+],
   "geometry": {"coordinates":[-114.829239,35.963977],"type":"Point"}
 }

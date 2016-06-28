@@ -2,13 +2,14 @@
   "id": 370201525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166582,36.121694,-115.166582,36.121694",
     "geom:latitude":36.121694,
     "geom:longitude":-115.166582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Sands Ave, Sands Expo Center",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370201525,
-    "wof:lastmodified":1449032016,
+    "wof:lastmodified":1466702542,
     "wof:name":"Interbike",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.166582,36.121694,-115.166582,36.121694],
-  "geometry": {"coordinates":[-115.166582,36.121694],"type":"Point"}
+  "bbox": [
+    -115.166582,
+    36.121694,
+    -115.166582,
+    36.121694
+],
+  "geometry": {"coordinates":[-115.16658200000001,36.121694],"type":"Point"}
 }

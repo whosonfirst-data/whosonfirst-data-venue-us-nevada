@@ -2,13 +2,14 @@
   "id": 219546283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.880044,39.251706,-114.880044,39.251706",
     "geom:latitude":39.251706,
     "geom:longitude":-114.880044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219546283,
-    "wof:lastmodified":1449070373,
+    "wof:lastmodified":1466702165,
     "wof:name":"Bonanza Fuels",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oil"
     ]
 },
-  "bbox": [-114.880044,39.251706,-114.880044,39.251706],
+  "bbox": [
+    -114.880044,
+    39.251706,
+    -114.880044,
+    39.251706
+],
   "geometry": {"coordinates":[-114.880044,39.251706],"type":"Point"}
 }

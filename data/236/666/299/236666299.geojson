@@ -2,13 +2,14 @@
   "id": 236666299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23179,36.177996,-115.23179,36.177996",
     "geom:latitude":36.177996,
     "geom:longitude":-115.23179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6264 Hobart Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236666299,
-    "wof:lastmodified":1449002738,
+    "wof:lastmodified":1466706411,
     "wof:name":"Makes Perfect Scents",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.23179,36.177996,-115.23179,36.177996],
+  "bbox": [
+    -115.23179,
+    36.177996,
+    -115.23179,
+    36.177996
+],
   "geometry": {"coordinates":[-115.23179,36.177996],"type":"Point"}
 }

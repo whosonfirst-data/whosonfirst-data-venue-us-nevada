@@ -2,13 +2,14 @@
   "id": 219331959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.585074,40.408409,-116.585074,40.408409",
     "geom:latitude":40.408409,
     "geom:longitude":-116.585074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 7th St",
     "sg:city":"Beowawe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219331959,
-    "wof:lastmodified":1449072543,
+    "wof:lastmodified":1466703288,
     "wof:name":"Crescent Valley Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.585074,40.408409,-116.585074,40.408409],
-  "geometry": {"coordinates":[-116.585074,40.408409],"type":"Point"}
+  "bbox": [
+    -116.585074,
+    40.408409,
+    -116.585074,
+    40.408409
+],
+  "geometry": {"coordinates":[-116.58507400000001,40.408409],"type":"Point"}
 }

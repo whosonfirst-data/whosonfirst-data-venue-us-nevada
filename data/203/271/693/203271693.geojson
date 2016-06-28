@@ -2,13 +2,14 @@
   "id": 203271693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243037,36.122368,-115.243037,36.122368",
     "geom:latitude":36.122368,
     "geom:longitude":-115.243037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203271693,
-    "wof:lastmodified":1449025932,
+    "wof:lastmodified":1466702649,
     "wof:name":"Wal-Mart Prtrait Studio 01584",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.243037,36.122368,-115.243037,36.122368],
+  "bbox": [
+    -115.243037,
+    36.122368,
+    -115.243037,
+    36.122368
+],
   "geometry": {"coordinates":[-115.243037,36.122368],"type":"Point"}
 }

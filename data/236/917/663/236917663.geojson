@@ -2,13 +2,14 @@
   "id": 236917663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119962,36.062318,-115.119962,36.062318",
     "geom:latitude":36.062318,
     "geom:longitude":-115.119962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6995 Wine River Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236917663,
-    "wof:lastmodified":1449004723,
+    "wof:lastmodified":1466706837,
     "wof:name":"Southern Shores Pool Svc",
     "wof:parent_id":85879705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.119962,36.062318,-115.119962,36.062318],
+  "bbox": [
+    -115.119962,
+    36.062318,
+    -115.119962,
+    36.062318
+],
   "geometry": {"coordinates":[-115.119962,36.062318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354308163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.245613,36.159336,-115.245613,36.159336",
     "geom:latitude":36.159336,
     "geom:longitude":-115.245613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6848 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354308163,
-    "wof:lastmodified":1449067693,
+    "wof:lastmodified":1466705763,
     "wof:name":"Psychic Eye Book Shops",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "bookstore"
     ]
 },
-  "bbox": [-115.245613,36.159336,-115.245613,36.159336],
-  "geometry": {"coordinates":[-115.245613,36.159336],"type":"Point"}
+  "bbox": [
+    -115.245613,
+    36.159336,
+    -115.245613,
+    36.159336
+],
+  "geometry": {"coordinates":[-115.24561300000001,36.159336],"type":"Point"}
 }

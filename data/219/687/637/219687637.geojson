@@ -2,13 +2,14 @@
   "id": 219687637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778883,39.475323,-119.778883,39.475323",
     "geom:latitude":39.475323,
     "geom:longitude":-119.778883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Neil Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219687637,
-    "wof:lastmodified":1449071393,
+    "wof:lastmodified":1466704364,
     "wof:name":"Department of Education",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "administrative"
     ]
 },
-  "bbox": [-119.778883,39.475323,-119.778883,39.475323],
-  "geometry": {"coordinates":[-119.778883,39.475323],"type":"Point"}
+  "bbox": [
+    -119.778883,
+    39.475323,
+    -119.778883,
+    39.475323
+],
+  "geometry": {"coordinates":[-119.77888299999999,39.475323],"type":"Point"}
 }

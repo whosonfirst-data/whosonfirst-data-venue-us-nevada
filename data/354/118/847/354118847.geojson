@@ -2,13 +2,14 @@
   "id": 354118847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162746,36.152058,-115.162746,36.152058",
     "geom:latitude":36.152058,
     "geom:longitude":-115.162746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 W Oakey Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354118847,
-    "wof:lastmodified":1449067316,
+    "wof:lastmodified":1466704562,
     "wof:name":"Advanced Systems & Networks",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.162746,36.152058,-115.162746,36.152058],
+  "bbox": [
+    -115.162746,
+    36.152058,
+    -115.162746,
+    36.152058
+],
   "geometry": {"coordinates":[-115.162746,36.152058],"type":"Point"}
 }

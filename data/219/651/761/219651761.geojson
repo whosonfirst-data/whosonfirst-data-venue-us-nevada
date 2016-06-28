@@ -2,13 +2,14 @@
   "id": 219651761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.866368,39.489143,-118.866368,39.489143",
     "geom:latitude":39.489143,
     "geom:longitude":-118.866368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Briggs Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219651761,
-    "wof:lastmodified":1449071097,
+    "wof:lastmodified":1466703850,
     "wof:name":"Passion Parties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.866368,39.489143,-118.866368,39.489143],
-  "geometry": {"coordinates":[-118.866368,39.489143],"type":"Point"}
+  "bbox": [
+    -118.866368,
+    39.489143,
+    -118.866368,
+    39.489143
+],
+  "geometry": {"coordinates":[-118.86636799999999,39.489143],"type":"Point"}
 }

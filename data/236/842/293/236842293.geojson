@@ -2,13 +2,14 @@
   "id": 236842293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.829488,39.539745,-119.829488,39.539745",
     "geom:latitude":39.539745,
     "geom:longitude":-119.829488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Grandview Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236842293,
-    "wof:lastmodified":1449001857,
+    "wof:lastmodified":1466706714,
     "wof:name":"Event Pro Specializing",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-119.829488,39.539745,-119.829488,39.539745],
+  "bbox": [
+    -119.829488,
+    39.539745,
+    -119.829488,
+    39.539745
+],
   "geometry": {"coordinates":[-119.829488,39.539745],"type":"Point"}
 }

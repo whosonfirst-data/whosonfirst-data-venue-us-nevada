@@ -2,13 +2,14 @@
   "id": 203175965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.781533,39.463694,-118.781533,39.463694",
     "geom:latitude":39.463694,
     "geom:longitude":-118.781533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 S Taylor St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203175965,
-    "wof:lastmodified":1449026294,
+    "wof:lastmodified":1466701793,
     "wof:name":"Dentists Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-118.781533,39.463694,-118.781533,39.463694],
+  "bbox": [
+    -118.781533,
+    39.463694,
+    -118.781533,
+    39.463694
+],
   "geometry": {"coordinates":[-118.781533,39.463694],"type":"Point"}
 }

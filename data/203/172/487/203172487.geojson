@@ -2,13 +2,14 @@
   "id": 203172487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.88927,39.499831,-119.88927,39.499831",
     "geom:latitude":39.499831,
     "geom:longitude":-119.88927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 Mountaingate Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203172487,
-    "wof:lastmodified":1449025681,
+    "wof:lastmodified":1466701751,
     "wof:name":"Design Tech Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.88927,39.499831,-119.88927,39.499831],
+  "bbox": [
+    -119.88927,
+    39.499831,
+    -119.88927,
+    39.499831
+],
   "geometry": {"coordinates":[-119.88927,39.499831],"type":"Point"}
 }

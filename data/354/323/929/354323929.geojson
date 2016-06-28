@@ -2,13 +2,14 @@
   "id": 354323929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200478,36.062622,-115.200478,36.062622",
     "geom:latitude":36.062622,
     "geom:longitude":-115.200478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Badura Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354323929,
-    "wof:lastmodified":1449066074,
+    "wof:lastmodified":1466705873,
     "wof:name":"Pure Management Group",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.200478,36.062622,-115.200478,36.062622],
+  "bbox": [
+    -115.200478,
+    36.062622,
+    -115.200478,
+    36.062622
+],
   "geometry": {"coordinates":[-115.200478,36.062622],"type":"Point"}
 }

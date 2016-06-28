@@ -2,13 +2,14 @@
   "id": 236248869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.059285,36.806668,-114.059285,36.806668",
     "geom:latitude":36.806668,
     "geom:longitude":-114.059285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Clover Ln",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236248869,
-    "wof:lastmodified":1449003473,
+    "wof:lastmodified":1466704548,
     "wof:name":"Garry L Noel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.059285,36.806668,-114.059285,36.806668],
+  "bbox": [
+    -114.059285,
+    36.806668,
+    -114.059285,
+    36.806668
+],
   "geometry": {"coordinates":[-114.059285,36.806668],"type":"Point"}
 }

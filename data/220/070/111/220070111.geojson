@@ -2,13 +2,14 @@
   "id": 220070111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06726,36.0172,-115.06726,36.0172",
     "geom:latitude":36.0172,
     "geom:longitude":-115.06726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Windsong Echo Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220070111,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466702204,
     "wof:name":"T&O Restaurants LLC",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.06726,36.0172,-115.06726,36.0172],
+  "bbox": [
+    -115.06726,
+    36.0172,
+    -115.06726,
+    36.0172
+],
   "geometry": {"coordinates":[-115.06726,36.0172],"type":"Point"}
 }

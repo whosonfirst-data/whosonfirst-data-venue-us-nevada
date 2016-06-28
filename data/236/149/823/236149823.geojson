@@ -2,13 +2,14 @@
   "id": 236149823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.083465,36.070988,-115.083465,36.070988",
     "geom:latitude":36.070988,
     "geom:longitude":-115.083465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4134 E Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236149823,
-    "wof:lastmodified":1449001685,
+    "wof:lastmodified":1466702561,
     "wof:name":"Cash Genie",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-115.083465,36.070988,-115.083465,36.070988],
+  "bbox": [
+    -115.083465,
+    36.070988,
+    -115.083465,
+    36.070988
+],
   "geometry": {"coordinates":[-115.083465,36.070988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219289385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206086,36.165632,-115.206086,36.165632",
     "geom:latitude":36.165632,
     "geom:longitude":-115.206086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219289385,
-    "wof:lastmodified":1449073329,
+    "wof:lastmodified":1466702932,
     "wof:name":"A 1 Locksmith Inc",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-115.206086,36.165632,-115.206086,36.165632],
+  "bbox": [
+    -115.206086,
+    36.165632,
+    -115.206086,
+    36.165632
+],
   "geometry": {"coordinates":[-115.206086,36.165632],"type":"Point"}
 }

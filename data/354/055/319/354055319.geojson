@@ -2,13 +2,14 @@
   "id": 354055319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100159,36.032419,-115.100159,36.032419",
     "geom:latitude":36.032419,
     "geom:longitude":-115.100159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 N Pecos Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354055319,
-    "wof:lastmodified":1449066303,
+    "wof:lastmodified":1466702913,
     "wof:name":"Core Physical Therapy",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.100159,36.032419,-115.100159,36.032419],
+  "bbox": [
+    -115.100159,
+    36.032419,
+    -115.100159,
+    36.032419
+],
   "geometry": {"coordinates":[-115.100159,36.032419],"type":"Point"}
 }

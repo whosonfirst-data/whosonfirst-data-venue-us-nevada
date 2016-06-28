@@ -2,13 +2,14 @@
   "id": 219749047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073344,35.966871,-115.073344,35.966871",
     "geom:latitude":35.966871,
     "geom:longitude":-115.073344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Starbrook Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219749047,
-    "wof:lastmodified":1449071413,
+    "wof:lastmodified":1466704595,
     "wof:name":"Schumacher Consulting",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.073344,35.966871,-115.073344,35.966871],
-  "geometry": {"coordinates":[-115.073344,35.966871],"type":"Point"}
+  "bbox": [
+    -115.073344,
+    35.966871,
+    -115.073344,
+    35.966871
+],
+  "geometry": {"coordinates":[-115.07334400000001,35.966871],"type":"Point"}
 }

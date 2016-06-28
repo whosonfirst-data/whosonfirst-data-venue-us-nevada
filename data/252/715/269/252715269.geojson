@@ -2,13 +2,14 @@
   "id": 252715269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118983,36.106841,-115.118983,36.106841",
     "geom:latitude":36.106841,
     "geom:longitude":-115.118983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252715269,
-    "wof:lastmodified":1449006284,
+    "wof:lastmodified":1466701628,
     "wof:name":"Nevada Regional Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.118983,36.106841,-115.118983,36.106841],
+  "bbox": [
+    -115.118983,
+    36.106841,
+    -115.118983,
+    36.106841
+],
   "geometry": {"coordinates":[-115.118983,36.106841],"type":"Point"}
 }

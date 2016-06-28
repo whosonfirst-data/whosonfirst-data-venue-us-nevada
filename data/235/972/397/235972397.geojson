@@ -2,13 +2,14 @@
   "id": 235972397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.880931,39.521747,-119.880931,39.521747",
     "geom:latitude":39.521747,
     "geom:longitude":-119.880931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5960 Bankside Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235972397,
-    "wof:lastmodified":1449008423,
+    "wof:lastmodified":1466703621,
     "wof:name":"Margrets Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.880931,39.521747,-119.880931,39.521747],
+  "bbox": [
+    -119.880931,
+    39.521747,
+    -119.880931,
+    39.521747
+],
   "geometry": {"coordinates":[-119.880931,39.521747],"type":"Point"}
 }

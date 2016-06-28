@@ -2,13 +2,14 @@
   "id": 354181079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125454,36.144446,-115.125454,36.144446",
     "geom:latitude":36.144446,
     "geom:longitude":-115.125454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354181079,
-    "wof:lastmodified":1449066980,
+    "wof:lastmodified":1466704900,
     "wof:name":"E Tyler Financial Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-115.125454,36.144446,-115.125454,36.144446],
+  "bbox": [
+    -115.125454,
+    36.144446,
+    -115.125454,
+    36.144446
+],
   "geometry": {"coordinates":[-115.125454,36.144446],"type":"Point"}
 }

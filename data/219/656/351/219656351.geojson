@@ -2,13 +2,14 @@
   "id": 219656351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081903,36.144221,-115.081903,36.144221",
     "geom:latitude":36.144221,
     "geom:longitude":-115.081903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219656351,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466703931,
     "wof:name":"International Ranch Market",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.081903,36.144221,-115.081903,36.144221],
+  "bbox": [
+    -115.081903,
+    36.144221,
+    -115.081903,
+    36.144221
+],
   "geometry": {"coordinates":[-115.081903,36.144221],"type":"Point"}
 }

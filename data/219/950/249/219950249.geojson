@@ -2,13 +2,14 @@
   "id": 219950249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.786898,40.935921,-117.786898,40.935921",
     "geom:latitude":40.935921,
     "geom:longitude":-117.786898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4675 W Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219950249,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466705888,
     "wof:name":"S&T Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-117.786898,40.935921,-117.786898,40.935921],
-  "geometry": {"coordinates":[-117.786898,40.935921],"type":"Point"}
+  "bbox": [
+    -117.786898,
+    40.935921,
+    -117.786898,
+    40.935921
+],
+  "geometry": {"coordinates":[-117.78689799999999,40.935921],"type":"Point"}
 }

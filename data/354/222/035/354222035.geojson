@@ -2,13 +2,14 @@
   "id": 354222035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.219187,36.19849,-115.219187,36.19849",
     "geom:latitude":36.19849,
     "geom:longitude":-115.219187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 Eugene Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354222035,
-    "wof:lastmodified":1449067116,
+    "wof:lastmodified":1466705007,
     "wof:name":"Quick Ko Pest Management Service",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.219187,36.19849,-115.219187,36.19849],
-  "geometry": {"coordinates":[-115.219187,36.19849],"type":"Point"}
+  "bbox": [
+    -115.219187,
+    36.19849,
+    -115.219187,
+    36.19849
+],
+  "geometry": {"coordinates":[-115.21918700000001,36.19849],"type":"Point"}
 }

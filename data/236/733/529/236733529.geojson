@@ -2,13 +2,14 @@
   "id": 236733529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313296,36.150285,-115.313296,36.150285",
     "geom:latitude":36.150285,
     "geom:longitude":-115.313296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9916 Dusty Winds Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236733529,
-    "wof:lastmodified":1449002020,
+    "wof:lastmodified":1466706533,
     "wof:name":"Video Wave Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-115.313296,36.150285,-115.313296,36.150285],
-  "geometry": {"coordinates":[-115.313296,36.150285],"type":"Point"}
+  "bbox": [
+    -115.313296,
+    36.150285,
+    -115.313296,
+    36.150285
+],
+  "geometry": {"coordinates":[-115.31329599999999,36.150285],"type":"Point"}
 }

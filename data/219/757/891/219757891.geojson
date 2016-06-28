@@ -2,13 +2,14 @@
   "id": 219757891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140949,36.158837,-115.140949,36.158837",
     "geom:latitude":36.158837,
     "geom:longitude":-115.140949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S 10th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219757891,
-    "wof:lastmodified":1449072366,
+    "wof:lastmodified":1466704823,
     "wof:name":"Microwater Market/Herbs-Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.140949,36.158837,-115.140949,36.158837],
-  "geometry": {"coordinates":[-115.140949,36.158837],"type":"Point"}
+  "bbox": [
+    -115.140949,
+    36.158837,
+    -115.140949,
+    36.158837
+],
+  "geometry": {"coordinates":[-115.14094900000001,36.158837],"type":"Point"}
 }

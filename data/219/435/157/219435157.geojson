@@ -2,13 +2,14 @@
   "id": 219435157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764077,39.543384,-119.764077,39.543384",
     "geom:latitude":39.543384,
     "geom:longitude":-119.764077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219435157,
-    "wof:lastmodified":1449073595,
+    "wof:lastmodified":1466703799,
     "wof:name":"High Life",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.764077,39.543384,-119.764077,39.543384],
+  "bbox": [
+    -119.764077,
+    39.543384,
+    -119.764077,
+    39.543384
+],
   "geometry": {"coordinates":[-119.764077,39.543384],"type":"Point"}
 }

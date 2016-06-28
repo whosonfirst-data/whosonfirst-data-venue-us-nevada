@@ -2,13 +2,14 @@
   "id": 219770773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.87949,35.299922,-114.87949,35.299922",
     "geom:latitude":35.299922,
     "geom:longitude":-114.87949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Piute Valley Dr",
     "sg:city":"Cal Nev Ari",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219770773,
-    "wof:lastmodified":1449073994,
+    "wof:lastmodified":1466705030,
     "wof:name":"Balance Home Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-114.87949,35.299922,-114.87949,35.299922],
+  "bbox": [
+    -114.87949,
+    35.299922,
+    -114.87949,
+    35.299922
+],
   "geometry": {"coordinates":[-114.87949,35.299922],"type":"Point"}
 }

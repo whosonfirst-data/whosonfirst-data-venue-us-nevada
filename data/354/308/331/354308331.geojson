@@ -2,13 +2,14 @@
   "id": 354308331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255601,36.143934,-115.255601,36.143934",
     "geom:latitude":36.143934,
     "geom:longitude":-115.255601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7530 W Sahara Ave #108",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354308331,
-    "wof:lastmodified":1449067692,
+    "wof:lastmodified":1466705765,
     "wof:name":"Jason S Cook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.255601,36.143934,-115.255601,36.143934],
+  "bbox": [
+    -115.255601,
+    36.143934,
+    -115.255601,
+    36.143934
+],
   "geometry": {"coordinates":[-115.255601,36.143934],"type":"Point"}
 }

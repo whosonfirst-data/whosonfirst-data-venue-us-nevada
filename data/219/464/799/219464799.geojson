@@ -2,13 +2,14 @@
   "id": 219464799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306497,36.230421,-115.306497,36.230421",
     "geom:latitude":36.230421,
     "geom:longitude":-115.306497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 Windom Point Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219464799,
-    "wof:lastmodified":1449071356,
+    "wof:lastmodified":1466704027,
     "wof:name":"Interiors By Decorating Den",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.306497,36.230421,-115.306497,36.230421],
-  "geometry": {"coordinates":[-115.306497,36.230421],"type":"Point"}
+  "bbox": [
+    -115.306497,
+    36.230421,
+    -115.306497,
+    36.230421
+],
+  "geometry": {"coordinates":[-115.30649699999999,36.230421],"type":"Point"}
 }

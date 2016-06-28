@@ -2,13 +2,14 @@
   "id": 236610869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190569,36.136873,-115.190569,36.136873",
     "geom:latitude":36.136873,
     "geom:longitude":-115.190569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236610869,
-    "wof:lastmodified":1449005186,
+    "wof:lastmodified":1466706289,
     "wof:name":"Deco Master",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.190569,36.136873,-115.190569,36.136873],
+  "bbox": [
+    -115.190569,
+    36.136873,
+    -115.190569,
+    36.136873
+],
   "geometry": {"coordinates":[-115.190569,36.136873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219180837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186145,36.152152,-115.186145,36.152152",
     "geom:latitude":36.152152,
     "geom:longitude":-115.186145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Westleigh Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219180837,
-    "wof:lastmodified":1449070512,
+    "wof:lastmodified":1466701949,
     "wof:name":"Pts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.186145,36.152152,-115.186145,36.152152],
+  "bbox": [
+    -115.186145,
+    36.152152,
+    -115.186145,
+    36.152152
+],
   "geometry": {"coordinates":[-115.186145,36.152152],"type":"Point"}
 }

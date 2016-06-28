@@ -2,13 +2,14 @@
   "id": 236490791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261031,36.139134,-115.261031,36.139134",
     "geom:latitude":36.139134,
     "geom:longitude":-115.261031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2771 S Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236490791,
-    "wof:lastmodified":1449004843,
+    "wof:lastmodified":1466705875,
     "wof:name":"U S Asia Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-115.261031,36.139134,-115.261031,36.139134],
+  "bbox": [
+    -115.261031,
+    36.139134,
+    -115.261031,
+    36.139134
+],
   "geometry": {"coordinates":[-115.261031,36.139134],"type":"Point"}
 }

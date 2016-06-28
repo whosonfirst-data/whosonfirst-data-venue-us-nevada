@@ -2,13 +2,14 @@
   "id": 354269737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08349,36.161533,-115.08349,36.161533",
     "geom:latitude":36.161533,
     "geom:longitude":-115.08349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 S Hampton",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354269737,
-    "wof:lastmodified":1449067024,
+    "wof:lastmodified":1466705511,
     "wof:name":"Las Vegas Tile & Grout Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.08349,36.161533,-115.08349,36.161533],
+  "bbox": [
+    -115.08349,
+    36.161533,
+    -115.08349,
+    36.161533
+],
   "geometry": {"coordinates":[-115.08349,36.161533],"type":"Point"}
 }

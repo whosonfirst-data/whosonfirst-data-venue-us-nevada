@@ -2,13 +2,14 @@
   "id": 354202571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.22916,36.172708,-115.22916,36.172708",
     "geom:latitude":36.172708,
     "geom:longitude":-115.22916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6250 Hargrove Ave Apt 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354202571,
-    "wof:lastmodified":1449067445,
+    "wof:lastmodified":1466705034,
     "wof:name":"Casa Grande Pines Apartments",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.22916,36.172708,-115.22916,36.172708],
-  "geometry": {"coordinates":[-115.22916,36.172708],"type":"Point"}
+  "bbox": [
+    -115.22916,
+    36.172708,
+    -115.22916,
+    36.172708
+],
+  "geometry": {"coordinates":[-115.22915999999999,36.172708],"type":"Point"}
 }

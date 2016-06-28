@@ -2,13 +2,14 @@
   "id": 219263591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.834775,39.514138,-119.834775,39.514138",
     "geom:latitude":39.514138,
     "geom:longitude":-119.834775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2285 Westfield Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219263591,
-    "wof:lastmodified":1449073812,
+    "wof:lastmodified":1466702671,
     "wof:name":"Ideacorps",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-119.834775,39.514138,-119.834775,39.514138],
-  "geometry": {"coordinates":[-119.834775,39.514138],"type":"Point"}
+  "bbox": [
+    -119.834775,
+    39.514138,
+    -119.834775,
+    39.514138
+],
+  "geometry": {"coordinates":[-119.83477499999999,39.514138],"type":"Point"}
 }

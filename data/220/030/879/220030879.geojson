@@ -2,13 +2,14 @@
   "id": 220030879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.003421,36.197541,-116.003421,36.197541",
     "geom:latitude":36.197541,
     "geom:longitude":-116.003421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Red Butte St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220030879,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466701814,
     "wof:name":"Willow Creek Mntnc Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.003421,36.197541,-116.003421,36.197541],
+  "bbox": [
+    -116.003421,
+    36.197541,
+    -116.003421,
+    36.197541
+],
   "geometry": {"coordinates":[-116.003421,36.197541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354008113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.048785,36.055136,-115.048785,36.055136",
     "geom:latitude":36.055136,
     "geom:longitude":-115.048785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1489 W Warm Springs Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354008113,
-    "wof:lastmodified":1449066446,
+    "wof:lastmodified":1466701676,
     "wof:name":"ADT",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-115.048785,36.055136,-115.048785,36.055136],
+  "bbox": [
+    -115.048785,
+    36.055136,
+    -115.048785,
+    36.055136
+],
   "geometry": {"coordinates":[-115.048785,36.055136],"type":"Point"}
 }

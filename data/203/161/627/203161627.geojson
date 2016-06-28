@@ -2,13 +2,14 @@
   "id": 203161627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139492,36.129839,-115.139492,36.129839",
     "geom:latitude":36.129839,
     "geom:longitude":-115.139492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203161627,
-    "wof:lastmodified":1449025666,
+    "wof:lastmodified":1466701640,
     "wof:name":"A & Y Enterprise Inc",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "durable"
     ]
 },
-  "bbox": [-115.139492,36.129839,-115.139492,36.129839],
+  "bbox": [
+    -115.139492,
+    36.129839,
+    -115.139492,
+    36.129839
+],
   "geometry": {"coordinates":[-115.139492,36.129839],"type":"Point"}
 }

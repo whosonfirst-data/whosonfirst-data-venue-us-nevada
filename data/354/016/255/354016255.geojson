@@ -2,13 +2,14 @@
   "id": 354016255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.972798,36.034378,-114.972798,36.034378",
     "geom:latitude":36.034378,
     "geom:longitude":-114.972798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Basic Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354016255,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1466701915,
     "wof:name":"Basic Car Wash & Smog",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.972798,36.034378,-114.972798,36.034378],
+  "bbox": [
+    -114.972798,
+    36.034378,
+    -114.972798,
+    36.034378
+],
   "geometry": {"coordinates":[-114.972798,36.034378],"type":"Point"}
 }

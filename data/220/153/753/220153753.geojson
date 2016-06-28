@@ -2,13 +2,14 @@
   "id": 220153753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812655,39.5339,-119.812655,39.5339",
     "geom:latitude":39.5339,
     "geom:longitude":-119.812655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 N Lake St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220153753,
-    "wof:lastmodified":1449074606,
+    "wof:lastmodified":1466702797,
     "wof:name":"Sierra Mountain Health",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.812655,39.5339,-119.812655,39.5339],
-  "geometry": {"coordinates":[-119.812655,39.5339],"type":"Point"}
+  "bbox": [
+    -119.812655,
+    39.5339,
+    -119.812655,
+    39.5339
+],
+  "geometry": {"coordinates":[-119.81265500000001,39.5339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252708819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.193447,36.086399,-115.193447,36.086399",
     "geom:latitude":36.086399,
     "geom:longitude":-115.193447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3870 W Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":252708819,
-    "wof:lastmodified":1449005581,
+    "wof:lastmodified":1466701493,
     "wof:name":"A Wind Of Change",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kite"
     ]
 },
-  "bbox": [-115.193447,36.086399,-115.193447,36.086399],
-  "geometry": {"coordinates":[-115.193447,36.086399],"type":"Point"}
+  "bbox": [
+    -115.193447,
+    36.086399,
+    -115.193447,
+    36.086399
+],
+  "geometry": {"coordinates":[-115.19344700000001,36.086399],"type":"Point"}
 }

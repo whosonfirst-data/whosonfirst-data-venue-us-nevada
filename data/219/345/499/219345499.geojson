@@ -2,13 +2,14 @@
   "id": 219345499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243038,36.122532,-115.243038,36.122532",
     "geom:latitude":36.122532,
     "geom:longitude":-115.243038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3635 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219345499,
-    "wof:lastmodified":1449073636,
+    "wof:lastmodified":1466703375,
     "wof:name":"Cigarettes Boutique",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.243038,36.122532,-115.243038,36.122532],
+  "bbox": [
+    -115.243038,
+    36.122532,
+    -115.243038,
+    36.122532
+],
   "geometry": {"coordinates":[-115.243038,36.122532],"type":"Point"}
 }

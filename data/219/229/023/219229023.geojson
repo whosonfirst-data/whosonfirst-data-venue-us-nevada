@@ -2,13 +2,14 @@
   "id": 219229023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150144,36.229913,-115.150144,36.229913",
     "geom:latitude":36.229913,
     "geom:longitude":-115.150144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Heritage Cliff Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219229023,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466704209,
     "wof:name":"Prochem Pest Solutions",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.150144,36.229913,-115.150144,36.229913],
+  "bbox": [
+    -115.150144,
+    36.229913,
+    -115.150144,
+    36.229913
+],
   "geometry": {"coordinates":[-115.150144,36.229913],"type":"Point"}
 }

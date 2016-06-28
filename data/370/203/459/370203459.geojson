@@ -2,13 +2,14 @@
   "id": 370203459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156495,36.142235,-115.156495,36.142235",
     "geom:latitude":36.142235,
     "geom:longitude":-115.156495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Sahara 2535 S Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370203459,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466702602,
     "wof:name":"Cyber Speedway",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.156495,36.142235,-115.156495,36.142235],
-  "geometry": {"coordinates":[-115.156495,36.142235],"type":"Point"}
+  "bbox": [
+    -115.156495,
+    36.142235,
+    -115.156495,
+    36.142235
+],
+  "geometry": {"coordinates":[-115.15649500000001,36.142235],"type":"Point"}
 }

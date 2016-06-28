@@ -2,13 +2,14 @@
   "id": 220136653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191268,36.126424,-115.191268,36.126424",
     "geom:latitude":36.126424,
     "geom:longitude":-115.191268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4029 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220136653,
-    "wof:lastmodified":1449074865,
+    "wof:lastmodified":1466702678,
     "wof:name":"Olympic Auto Repair",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.191268,36.126424,-115.191268,36.126424],
-  "geometry": {"coordinates":[-115.191268,36.126424],"type":"Point"}
+  "bbox": [
+    -115.191268,
+    36.126424,
+    -115.191268,
+    36.126424
+],
+  "geometry": {"coordinates":[-115.19126799999999,36.126424],"type":"Point"}
 }

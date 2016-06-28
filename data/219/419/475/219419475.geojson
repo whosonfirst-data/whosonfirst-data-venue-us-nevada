@@ -2,13 +2,14 @@
   "id": 219419475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190522,36.125749,-115.190522,36.125749",
     "geom:latitude":36.125749,
     "geom:longitude":-115.190522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4083 Renate Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219419475,
-    "wof:lastmodified":1449073846,
+    "wof:lastmodified":1466703740,
     "wof:name":"Hoshin Trading LLC",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.190522,36.125749,-115.190522,36.125749],
+  "bbox": [
+    -115.190522,
+    36.125749,
+    -115.190522,
+    36.125749
+],
   "geometry": {"coordinates":[-115.190522,36.125749],"type":"Point"}
 }

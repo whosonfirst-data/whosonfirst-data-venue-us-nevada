@@ -2,13 +2,14 @@
   "id": 219720667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079548,36.210243,-115.079548,36.210243",
     "geom:latitude":36.210243,
     "geom:longitude":-115.079548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4675 Alto Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219720667,
-    "wof:lastmodified":1449071238,
+    "wof:lastmodified":1466704719,
     "wof:name":"Peak Pool Plastering Inc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.079548,36.210243,-115.079548,36.210243],
+  "bbox": [
+    -115.079548,
+    36.210243,
+    -115.079548,
+    36.210243
+],
   "geometry": {"coordinates":[-115.079548,36.210243],"type":"Point"}
 }

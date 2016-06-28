@@ -2,13 +2,14 @@
   "id": 236645857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.85744,35.968856,-114.85744,35.968856",
     "geom:latitude":35.968856,
     "geom:longitude":-114.85744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236645857,
-    "wof:lastmodified":1449001924,
+    "wof:lastmodified":1466706395,
     "wof:name":"Rebel Oil Co",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.85744,35.968856,-114.85744,35.968856],
+  "bbox": [
+    -114.85744,
+    35.968856,
+    -114.85744,
+    35.968856
+],
   "geometry": {"coordinates":[-114.85744,35.968856],"type":"Point"}
 }

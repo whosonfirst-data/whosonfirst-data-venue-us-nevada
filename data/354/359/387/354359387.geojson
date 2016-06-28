@@ -2,13 +2,14 @@
   "id": 354359387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146427,36.100647,-115.146427,36.100647",
     "geom:latitude":36.100647,
     "geom:longitude":-115.146427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"795 E. Tropicana",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354359387,
-    "wof:lastmodified":1449065907,
+    "wof:lastmodified":1466705898,
     "wof:name":"Gray Line Las Vegas",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "airport"
     ]
 },
-  "bbox": [-115.146427,36.100647,-115.146427,36.100647],
+  "bbox": [
+    -115.146427,
+    36.100647,
+    -115.146427,
+    36.100647
+],
   "geometry": {"coordinates":[-115.146427,36.100647],"type":"Point"}
 }

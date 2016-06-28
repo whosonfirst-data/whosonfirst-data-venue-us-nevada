@@ -2,13 +2,14 @@
   "id": 236356269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093191,36.07121,-115.093191,36.07121",
     "geom:latitude":36.07121,
     "geom:longitude":-115.093191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3663 E Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236356269,
-    "wof:lastmodified":1449004545,
+    "wof:lastmodified":1466705098,
     "wof:name":"Desert Sands",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-115.093191,36.07121,-115.093191,36.07121],
+  "bbox": [
+    -115.093191,
+    36.07121,
+    -115.093191,
+    36.07121
+],
   "geometry": {"coordinates":[-115.093191,36.07121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354369621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117869,36.074309,-115.117869,36.074309",
     "geom:latitude":36.074309,
     "geom:longitude":-115.117869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Chandler Ave Ste 1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354369621,
-    "wof:lastmodified":1449067592,
+    "wof:lastmodified":1466705986,
     "wof:name":"Partners Funding Group Inc",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.117869,36.074309,-115.117869,36.074309],
+  "bbox": [
+    -115.117869,
+    36.074309,
+    -115.117869,
+    36.074309
+],
   "geometry": {"coordinates":[-115.117869,36.074309],"type":"Point"}
 }

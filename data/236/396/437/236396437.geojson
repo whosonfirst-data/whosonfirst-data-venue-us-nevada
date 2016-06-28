@@ -2,13 +2,14 @@
   "id": 236396437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062095,36.190634,-115.062095,36.190634",
     "geom:latitude":36.190634,
     "geom:longitude":-115.062095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236396437,
-    "wof:lastmodified":1449003891,
+    "wof:lastmodified":1466705335,
     "wof:name":"VIP Laundromat/Mini PO",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-115.062095,36.190634,-115.062095,36.190634],
+  "bbox": [
+    -115.062095,
+    36.190634,
+    -115.062095,
+    36.190634
+],
   "geometry": {"coordinates":[-115.062095,36.190634],"type":"Point"}
 }

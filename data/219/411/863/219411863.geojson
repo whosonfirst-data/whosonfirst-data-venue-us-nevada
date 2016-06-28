@@ -2,13 +2,14 @@
   "id": 219411863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756527,39.612498,-119.756527,39.612498",
     "geom:latitude":39.612498,
     "geom:longitude":-119.756527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Apple Blossom Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219411863,
-    "wof:lastmodified":1449070538,
+    "wof:lastmodified":1466703708,
     "wof:name":"D & D Welding Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-119.756527,39.612498,-119.756527,39.612498],
-  "geometry": {"coordinates":[-119.756527,39.612498],"type":"Point"}
+  "bbox": [
+    -119.756527,
+    39.612498,
+    -119.756527,
+    39.612498
+],
+  "geometry": {"coordinates":[-119.75652700000001,39.612498],"type":"Point"}
 }

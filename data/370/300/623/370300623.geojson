@@ -2,13 +2,14 @@
   "id": 370300623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.285497,36.015379,-115.285497,36.015379",
     "geom:latitude":36.015379,
     "geom:longitude":-115.285497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8866 Frasure Falls Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370300623,
-    "wof:lastmodified":1449030976,
+    "wof:lastmodified":1466704595,
     "wof:name":"Craftmen Services",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.285497,36.015379,-115.285497,36.015379],
-  "geometry": {"coordinates":[-115.285497,36.015379],"type":"Point"}
+  "bbox": [
+    -115.285497,
+    36.015379,
+    -115.285497,
+    36.015379
+],
+  "geometry": {"coordinates":[-115.28549700000001,36.015379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370325751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807938,39.480924,-119.807938,39.480924",
     "geom:latitude":39.480924,
     "geom:longitude":-119.807938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4685 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370325751,
-    "wof:lastmodified":1449030408,
+    "wof:lastmodified":1466704793,
     "wof:name":"Church Of Religious Science",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "denomination"
     ]
 },
-  "bbox": [-119.807938,39.480924,-119.807938,39.480924],
-  "geometry": {"coordinates":[-119.807938,39.480924],"type":"Point"}
+  "bbox": [
+    -119.807938,
+    39.480924,
+    -119.807938,
+    39.480924
+],
+  "geometry": {"coordinates":[-119.80793799999999,39.480924],"type":"Point"}
 }

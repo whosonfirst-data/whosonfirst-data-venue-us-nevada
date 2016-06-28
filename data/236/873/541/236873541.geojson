@@ -2,13 +2,14 @@
   "id": 236873541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.62539,38.521205,-118.62539,38.521205",
     "geom:latitude":38.521205,
     "geom:longitude":-118.62539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 3rd St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236873541,
-    "wof:lastmodified":1449002193,
+    "wof:lastmodified":1466706769,
     "wof:name":"Isom Realty & Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.62539,38.521205,-118.62539,38.521205],
+  "bbox": [
+    -118.62539,
+    38.521205,
+    -118.62539,
+    38.521205
+],
   "geometry": {"coordinates":[-118.62539,38.521205],"type":"Point"}
 }

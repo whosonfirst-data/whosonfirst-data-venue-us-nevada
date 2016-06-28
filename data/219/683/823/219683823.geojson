@@ -2,13 +2,14 @@
   "id": 219683823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206044,36.188917,-115.206044,36.188917",
     "geom:latitude":36.188917,
     "geom:longitude":-115.206044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219683823,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466704354,
     "wof:name":"Avilla Park Communities",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.206044,36.188917,-115.206044,36.188917],
-  "geometry": {"coordinates":[-115.206044,36.188917],"type":"Point"}
+  "bbox": [
+    -115.206044,
+    36.188917,
+    -115.206044,
+    36.188917
+],
+  "geometry": {"coordinates":[-115.20604400000001,36.188917],"type":"Point"}
 }

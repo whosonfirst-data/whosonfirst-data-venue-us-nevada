@@ -2,13 +2,14 @@
   "id": 236462089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272633,36.159176,-115.272633,36.159176",
     "geom:latitude":36.159176,
     "geom:longitude":-115.272633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8230 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236462089,
-    "wof:lastmodified":1449005094,
+    "wof:lastmodified":1466705642,
     "wof:name":"Remodelers Exchangecom",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.272633,36.159176,-115.272633,36.159176],
+  "bbox": [
+    -115.272633,
+    36.159176,
+    -115.272633,
+    36.159176
+],
   "geometry": {"coordinates":[-115.272633,36.159176],"type":"Point"}
 }

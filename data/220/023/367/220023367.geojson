@@ -2,13 +2,14 @@
   "id": 220023367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267766,36.232035,-115.267766,36.232035",
     "geom:latitude":36.232035,
     "geom:longitude":-115.267766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7945 Aviano Pines Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220023367,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466701745,
     "wof:name":"Ada Loan Consultant",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.267766,36.232035,-115.267766,36.232035],
-  "geometry": {"coordinates":[-115.267766,36.232035],"type":"Point"}
+  "bbox": [
+    -115.267766,
+    36.232035,
+    -115.267766,
+    36.232035
+],
+  "geometry": {"coordinates":[-115.26776599999999,36.232035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236364203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.849916,39.355551,-119.849916,39.355551",
     "geom:latitude":39.355551,
     "geom:longitude":-119.849916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Douglas Fir Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236364203,
-    "wof:lastmodified":1449003517,
+    "wof:lastmodified":1466705258,
     "wof:name":"Hikanoo",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.849916,39.355551,-119.849916,39.355551],
-  "geometry": {"coordinates":[-119.849916,39.355551],"type":"Point"}
+  "bbox": [
+    -119.849916,
+    39.355551,
+    -119.849916,
+    39.355551
+],
+  "geometry": {"coordinates":[-119.84991599999999,39.355551],"type":"Point"}
 }

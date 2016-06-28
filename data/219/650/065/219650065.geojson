@@ -2,13 +2,14 @@
   "id": 219650065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125549,36.019296,-115.125549,36.019296",
     "geom:latitude":36.019296,
     "geom:longitude":-115.125549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Bova Matrina Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219650065,
-    "wof:lastmodified":1449072552,
+    "wof:lastmodified":1466703820,
     "wof:name":"Lester/Loosbrock Marketing",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.125549,36.019296,-115.125549,36.019296],
-  "geometry": {"coordinates":[-115.125549,36.019296],"type":"Point"}
+  "bbox": [
+    -115.125549,
+    36.019296,
+    -115.125549,
+    36.019296
+],
+  "geometry": {"coordinates":[-115.12554900000001,36.019296],"type":"Point"}
 }

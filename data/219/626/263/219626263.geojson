@@ -2,13 +2,14 @@
   "id": 219626263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095693,36.119136,-115.095693,36.119136",
     "geom:latitude":36.119136,
     "geom:longitude":-115.095693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3635 Victory Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219626263,
-    "wof:lastmodified":1449073921,
+    "wof:lastmodified":1466703397,
     "wof:name":"Litchfield Group",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-115.095693,36.119136,-115.095693,36.119136],
+  "bbox": [
+    -115.095693,
+    36.119136,
+    -115.095693,
+    36.119136
+],
   "geometry": {"coordinates":[-115.095693,36.119136],"type":"Point"}
 }

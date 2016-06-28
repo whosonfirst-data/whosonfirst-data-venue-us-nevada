@@ -2,13 +2,14 @@
   "id": 219983943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.951292,36.035315,-114.951292,36.035315",
     "geom:latitude":36.035315,
     "geom:longitude":-114.951292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Lovett Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219983943,
-    "wof:lastmodified":1449073621,
+    "wof:lastmodified":1466706004,
     "wof:name":"Uniglobe Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-114.951292,36.035315,-114.951292,36.035315],
+  "bbox": [
+    -114.951292,
+    36.035315,
+    -114.951292,
+    36.035315
+],
   "geometry": {"coordinates":[-114.951292,36.035315],"type":"Point"}
 }

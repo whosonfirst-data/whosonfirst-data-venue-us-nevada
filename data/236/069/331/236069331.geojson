@@ -2,13 +2,14 @@
   "id": 236069331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.653092,39.221993,-119.653092,39.221993",
     "geom:latitude":39.221993,
     "geom:longitude":-119.653092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Affonso Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236069331,
-    "wof:lastmodified":1449003793,
+    "wof:lastmodified":1466704027,
     "wof:name":"Tuscon Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bronze"
     ]
 },
-  "bbox": [-119.653092,39.221993,-119.653092,39.221993],
+  "bbox": [
+    -119.653092,
+    39.221993,
+    -119.653092,
+    39.221993
+],
   "geometry": {"coordinates":[-119.653092,39.221993],"type":"Point"}
 }

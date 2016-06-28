@@ -2,13 +2,14 @@
   "id": 219550843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77015,39.131871,-119.77015,39.131871",
     "geom:latitude":39.131871,
     "geom:longitude":-119.77015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3951 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219550843,
-    "wof:lastmodified":1449072284,
+    "wof:lastmodified":1466702248,
     "wof:name":"Vivian's Hair & Nail",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.77015,39.131871,-119.77015,39.131871],
+  "bbox": [
+    -119.77015,
+    39.131871,
+    -119.77015,
+    39.131871
+],
   "geometry": {"coordinates":[-119.77015,39.131871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219214301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.843475,35.975544,-114.843475,35.975544",
     "geom:latitude":35.975544,
     "geom:longitude":-114.843475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Fir St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219214301,
-    "wof:lastmodified":1449073802,
+    "wof:lastmodified":1466702194,
     "wof:name":"S & R Financial Svc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-114.843475,35.975544,-114.843475,35.975544],
+  "bbox": [
+    -114.843475,
+    35.975544,
+    -114.843475,
+    35.975544
+],
   "geometry": {"coordinates":[-114.843475,35.975544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354113719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172997,36.1465,-115.172997,36.1465",
     "geom:latitude":36.1465,
     "geom:longitude":-115.172997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354113719,
-    "wof:lastmodified":1449067521,
+    "wof:lastmodified":1466704371,
     "wof:name":"University of Nevada School of Medicine",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cardiologist"
     ]
 },
-  "bbox": [-115.172997,36.1465,-115.172997,36.1465],
+  "bbox": [
+    -115.172997,
+    36.1465,
+    -115.172997,
+    36.1465
+],
   "geometry": {"coordinates":[-115.172997,36.1465],"type":"Point"}
 }

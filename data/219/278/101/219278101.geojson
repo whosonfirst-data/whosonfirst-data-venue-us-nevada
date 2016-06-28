@@ -2,13 +2,14 @@
   "id": 219278101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.034006,36.038048,-115.034006,36.038048",
     "geom:latitude":36.038048,
     "geom:longitude":-115.034006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Mary Crest Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219278101,
-    "wof:lastmodified":1449072323,
+    "wof:lastmodified":1466702844,
     "wof:name":"Critical Care Systems",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.034006,36.038048,-115.034006,36.038048],
-  "geometry": {"coordinates":[-115.034006,36.038048],"type":"Point"}
+  "bbox": [
+    -115.034006,
+    36.038048,
+    -115.034006,
+    36.038048
+],
+  "geometry": {"coordinates":[-115.03400600000001,36.038048],"type":"Point"}
 }

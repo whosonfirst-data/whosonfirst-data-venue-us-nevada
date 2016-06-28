@@ -2,13 +2,14 @@
   "id": 236461253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118433,36.029078,-115.118433,36.029078",
     "geom:latitude":36.029078,
     "geom:longitude":-115.118433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236461253,
-    "wof:lastmodified":1449002786,
+    "wof:lastmodified":1466705637,
     "wof:name":"Kacao Latin Grill",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.118433,36.029078,-115.118433,36.029078],
+  "bbox": [
+    -115.118433,
+    36.029078,
+    -115.118433,
+    36.029078
+],
   "geometry": {"coordinates":[-115.118433,36.029078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370192583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268524,36.284319,-115.268524,36.284319",
     "geom:latitude":36.284319,
     "geom:longitude":-115.268524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7951 Deer Springs Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370192583,
-    "wof:lastmodified":1449031490,
+    "wof:lastmodified":1466702328,
     "wof:name":"University of Phoenix Northwest Las Vegas",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-115.268524,36.284319,-115.268524,36.284319],
+  "bbox": [
+    -115.268524,
+    36.284319,
+    -115.268524,
+    36.284319
+],
   "geometry": {"coordinates":[-115.268524,36.284319],"type":"Point"}
 }

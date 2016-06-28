@@ -2,13 +2,14 @@
   "id": 354330579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241279,36.084612,-115.241279,36.084612",
     "geom:latitude":36.084612,
     "geom:longitude":-115.241279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6825 W Russel Rd, Ste 145",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354330579,
-    "wof:lastmodified":1449066779,
+    "wof:lastmodified":1466705902,
     "wof:name":"Personal Effects",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.241279,36.084612,-115.241279,36.084612],
-  "geometry": {"coordinates":[-115.241279,36.084612],"type":"Point"}
+  "bbox": [
+    -115.241279,
+    36.084612,
+    -115.241279,
+    36.084612
+],
+  "geometry": {"coordinates":[-115.24127900000001,36.084612],"type":"Point"}
 }

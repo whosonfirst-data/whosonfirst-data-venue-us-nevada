@@ -2,13 +2,14 @@
   "id": 219994045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770155,39.185666,-119.770155,39.185666",
     "geom:latitude":39.185666,
     "geom:longitude":-119.770155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2874 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219994045,
-    "wof:lastmodified":1449070549,
+    "wof:lastmodified":1466706065,
     "wof:name":"Sierra Stress Clinic",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-119.770155,39.185666,-119.770155,39.185666],
+  "bbox": [
+    -119.770155,
+    39.185666,
+    -119.770155,
+    39.185666
+],
   "geometry": {"coordinates":[-119.770155,39.185666],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220082901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208076,36.150049,-115.208076,36.150049",
     "geom:latitude":36.150049,
     "geom:longitude":-115.208076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220082901,
-    "wof:lastmodified":1449074083,
+    "wof:lastmodified":1466702284,
     "wof:name":"Bartell Promotions Co",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.208076,36.150049,-115.208076,36.150049],
-  "geometry": {"coordinates":[-115.208076,36.150049],"type":"Point"}
+  "bbox": [
+    -115.208076,
+    36.150049,
+    -115.208076,
+    36.150049
+],
+  "geometry": {"coordinates":[-115.20807600000001,36.150049],"type":"Point"}
 }

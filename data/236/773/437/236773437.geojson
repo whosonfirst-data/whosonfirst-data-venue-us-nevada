@@ -2,13 +2,14 @@
   "id": 236773437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.921631,36.105457,-114.921631,36.105457",
     "geom:latitude":36.105457,
     "geom:longitude":-114.921631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Palais Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236773437,
-    "wof:lastmodified":1449001992,
+    "wof:lastmodified":1466706609,
     "wof:name":"C B Construction",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.921631,36.105457,-114.921631,36.105457],
+  "bbox": [
+    -114.921631,
+    36.105457,
+    -114.921631,
+    36.105457
+],
   "geometry": {"coordinates":[-114.921631,36.105457],"type":"Point"}
 }

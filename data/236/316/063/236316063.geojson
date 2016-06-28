@@ -2,13 +2,14 @@
   "id": 236316063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781255,39.476282,-119.781255,39.476282",
     "geom:latitude":39.476282,
     "geom:longitude":-119.781255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5136 Meadowood Mall Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236316063,
-    "wof:lastmodified":1449003972,
+    "wof:lastmodified":1466704811,
     "wof:name":"De Vons Jewelers",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "precious"
     ]
 },
-  "bbox": [-119.781255,39.476282,-119.781255,39.476282],
+  "bbox": [
+    -119.781255,
+    39.476282,
+    -119.781255,
+    39.476282
+],
   "geometry": {"coordinates":[-119.781255,39.476282],"type":"Point"}
 }

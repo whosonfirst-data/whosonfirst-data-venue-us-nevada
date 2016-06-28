@@ -2,13 +2,14 @@
   "id": 236236459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.857475,35.969002,-114.857475,35.969002",
     "geom:latitude":35.969002,
     "geom:longitude":-114.857475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1664 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236236459,
-    "wof:lastmodified":1449001939,
+    "wof:lastmodified":1466704209,
     "wof:name":"HRS-Gene's Locksmith",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-114.857475,35.969002,-114.857475,35.969002],
-  "geometry": {"coordinates":[-114.857475,35.969002],"type":"Point"}
+  "bbox": [
+    -114.857475,
+    35.969002,
+    -114.857475,
+    35.969002
+],
+  "geometry": {"coordinates":[-114.85747499999999,35.969002],"type":"Point"}
 }

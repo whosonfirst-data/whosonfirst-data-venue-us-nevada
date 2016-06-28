@@ -2,13 +2,14 @@
   "id": 354176435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104482,36.143696,-115.104482,36.143696",
     "geom:latitude":36.143696,
     "geom:longitude":-115.104482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3255 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354176435,
-    "wof:lastmodified":1449067086,
+    "wof:lastmodified":1466704887,
     "wof:name":"Fletcher Jones Toyota",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.104482,36.143696,-115.104482,36.143696],
+  "bbox": [
+    -115.104482,
+    36.143696,
+    -115.104482,
+    36.143696
+],
   "geometry": {"coordinates":[-115.104482,36.143696],"type":"Point"}
 }

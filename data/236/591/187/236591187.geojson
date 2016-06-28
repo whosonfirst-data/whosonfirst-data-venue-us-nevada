@@ -2,13 +2,14 @@
   "id": 236591187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181417,36.076988,-115.181417,36.076988",
     "geom:latitude":36.076988,
     "geom:longitude":-115.181417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236591187,
-    "wof:lastmodified":1449003413,
+    "wof:lastmodified":1466706341,
     "wof:name":"Eagle Eye Electric",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.181417,36.076988,-115.181417,36.076988],
+  "bbox": [
+    -115.181417,
+    36.076988,
+    -115.181417,
+    36.076988
+],
   "geometry": {"coordinates":[-115.181417,36.076988],"type":"Point"}
 }

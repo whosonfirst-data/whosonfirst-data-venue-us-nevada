@@ -2,13 +2,14 @@
   "id": 236556489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.334245,36.135107,-115.334245,36.135107",
     "geom:latitude":36.135107,
     "geom:longitude":-115.334245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11037 Clemmons Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236556489,
-    "wof:lastmodified":1449002292,
+    "wof:lastmodified":1466706117,
     "wof:name":"Campo Masonry",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.334245,36.135107,-115.334245,36.135107],
+  "bbox": [
+    -115.334245,
+    36.135107,
+    -115.334245,
+    36.135107
+],
   "geometry": {"coordinates":[-115.334245,36.135107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220139745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187625,36.094248,-115.187625,36.094248",
     "geom:latitude":36.094248,
     "geom:longitude":-115.187625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5234 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220139745,
-    "wof:lastmodified":1449074105,
+    "wof:lastmodified":1466702700,
     "wof:name":"Cal Air Cooling & Heating",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "com"
     ]
 },
-  "bbox": [-115.187625,36.094248,-115.187625,36.094248],
+  "bbox": [
+    -115.187625,
+    36.094248,
+    -115.187625,
+    36.094248
+],
   "geometry": {"coordinates":[-115.187625,36.094248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219524221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759965,39.186889,-119.759965,39.186889",
     "geom:latitude":39.186889,
     "geom:longitude":-119.759965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"769 Basque Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219524221,
-    "wof:lastmodified":1449070345,
+    "wof:lastmodified":1466701746,
     "wof:name":"Edurus",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.759965,39.186889,-119.759965,39.186889],
-  "geometry": {"coordinates":[-119.759965,39.186889],"type":"Point"}
+  "bbox": [
+    -119.759965,
+    39.186889,
+    -119.759965,
+    39.186889
+],
+  "geometry": {"coordinates":[-119.75996499999999,39.186889],"type":"Point"}
 }

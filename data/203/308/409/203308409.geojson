@@ -2,13 +2,14 @@
   "id": 203308409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.739577,39.187309,-119.739577,39.187309",
     "geom:latitude":39.187309,
     "geom:longitude":-119.739577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Riley Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203308409,
-    "wof:lastmodified":1449026894,
+    "wof:lastmodified":1466702906,
     "wof:name":"Tiptons Rv Repair",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-119.739577,39.187309,-119.739577,39.187309],
+  "bbox": [
+    -119.739577,
+    39.187309,
+    -119.739577,
+    39.187309
+],
   "geometry": {"coordinates":[-119.739577,39.187309],"type":"Point"}
 }

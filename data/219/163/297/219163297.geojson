@@ -2,13 +2,14 @@
   "id": 219163297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.126392,36.220176,-115.126392,36.220176",
     "geom:latitude":36.220176,
     "geom:longitude":-115.126392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Sharp",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219163297,
-    "wof:lastmodified":1449073834,
+    "wof:lastmodified":1466701615,
     "wof:name":"Gen-Tech Of Nevada",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-115.126392,36.220176,-115.126392,36.220176],
+  "bbox": [
+    -115.126392,
+    36.220176,
+    -115.126392,
+    36.220176
+],
   "geometry": {"coordinates":[-115.126392,36.220176],"type":"Point"}
 }

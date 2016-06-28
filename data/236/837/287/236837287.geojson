@@ -2,13 +2,14 @@
   "id": 236837287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802229,39.495273,-119.802229,39.495273",
     "geom:latitude":39.495273,
     "geom:longitude":-119.802229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236837287,
-    "wof:lastmodified":1449002059,
+    "wof:lastmodified":1466706707,
     "wof:name":"Sierra Integrative Medical Ctr",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeopath"
     ]
 },
-  "bbox": [-119.802229,39.495273,-119.802229,39.495273],
+  "bbox": [
+    -119.802229,
+    39.495273,
+    -119.802229,
+    39.495273
+],
   "geometry": {"coordinates":[-119.802229,39.495273],"type":"Point"}
 }

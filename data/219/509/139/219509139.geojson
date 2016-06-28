@@ -2,13 +2,14 @@
   "id": 219509139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.646233,39.315204,-119.646233,39.315204",
     "geom:latitude":39.315204,
     "geom:longitude":-119.646233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 F St",
     "sg:city":"Virginia City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219509139,
-    "wof:lastmodified":1449070517,
+    "wof:lastmodified":1466701458,
     "wof:name":"P Whitten Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-119.646233,39.315204,-119.646233,39.315204],
+  "bbox": [
+    -119.646233,
+    39.315204,
+    -119.646233,
+    39.315204
+],
   "geometry": {"coordinates":[-119.646233,39.315204],"type":"Point"}
 }

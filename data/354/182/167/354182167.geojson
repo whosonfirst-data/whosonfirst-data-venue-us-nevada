@@ -2,13 +2,14 @@
   "id": 354182167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15147,36.152323,-115.15147,36.152323",
     "geom:latitude":36.152323,
     "geom:longitude":-115.15147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354182167,
-    "wof:lastmodified":1449067044,
+    "wof:lastmodified":1466705012,
     "wof:name":"Peter Eliades Enterprises",
     "wof:parent_id":85892665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.15147,36.152323,-115.15147,36.152323],
+  "bbox": [
+    -115.15147,
+    36.152323,
+    -115.15147,
+    36.152323
+],
   "geometry": {"coordinates":[-115.15147,36.152323],"type":"Point"}
 }

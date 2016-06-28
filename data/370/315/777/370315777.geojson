@@ -2,13 +2,14 @@
   "id": 370315777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800825,39.523817,-119.800825,39.523817",
     "geom:latitude":39.523817,
     "geom:longitude":-119.800825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Ryland St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370315777,
-    "wof:lastmodified":1449032289,
+    "wof:lastmodified":1466704695,
     "wof:name":"Clark A Harrison Md",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-119.800825,39.523817,-119.800825,39.523817],
+  "bbox": [
+    -119.800825,
+    39.523817,
+    -119.800825,
+    39.523817
+],
   "geometry": {"coordinates":[-119.800825,39.523817],"type":"Point"}
 }

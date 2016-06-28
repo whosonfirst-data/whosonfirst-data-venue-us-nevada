@@ -2,13 +2,14 @@
   "id": 219789829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222724,35.995587,-115.222724,35.995587",
     "geom:latitude":35.995587,
     "geom:longitude":-115.222724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10618 Bonnyhill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219789829,
-    "wof:lastmodified":1449071992,
+    "wof:lastmodified":1466704895,
     "wof:name":"Gene Rudd Appraisal Svc",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-115.222724,35.995587,-115.222724,35.995587],
+  "bbox": [
+    -115.222724,
+    35.995587,
+    -115.222724,
+    35.995587
+],
   "geometry": {"coordinates":[-115.222724,35.995587],"type":"Point"}
 }

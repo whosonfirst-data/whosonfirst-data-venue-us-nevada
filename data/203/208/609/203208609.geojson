@@ -2,13 +2,14 @@
   "id": 203208609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.324509,36.236229,-115.324509,36.236229",
     "geom:latitude":36.236229,
     "geom:longitude":-115.324509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10457 Canyon Cliff Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203208609,
-    "wof:lastmodified":1449025162,
+    "wof:lastmodified":1466702130,
     "wof:name":"Integrity Document Solutions",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.324509,36.236229,-115.324509,36.236229],
-  "geometry": {"coordinates":[-115.324509,36.236229],"type":"Point"}
+  "bbox": [
+    -115.324509,
+    36.236229,
+    -115.324509,
+    36.236229
+],
+  "geometry": {"coordinates":[-115.32450900000001,36.236229],"type":"Point"}
 }

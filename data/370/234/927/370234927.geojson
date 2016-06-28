@@ -2,13 +2,14 @@
   "id": 370234927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207713,36.158714,-115.207713,36.158714",
     "geom:latitude":36.158714,
     "geom:longitude":-115.207713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Montclair St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370234927,
-    "wof:lastmodified":1449032283,
+    "wof:lastmodified":1466703357,
     "wof:name":"Fls International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "language"
     ]
 },
-  "bbox": [-115.207713,36.158714,-115.207713,36.158714],
+  "bbox": [
+    -115.207713,
+    36.158714,
+    -115.207713,
+    36.158714
+],
   "geometry": {"coordinates":[-115.207713,36.158714],"type":"Point"}
 }

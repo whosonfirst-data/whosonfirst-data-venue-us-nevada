@@ -2,13 +2,14 @@
   "id": 203200397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.994513,36.034146,-114.994513,36.034146",
     "geom:latitude":36.034146,
     "geom:longitude":-114.994513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Basic Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203200397,
-    "wof:lastmodified":1449025677,
+    "wof:lastmodified":1466702065,
     "wof:name":"Basic Hills APT",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.994513,36.034146,-114.994513,36.034146],
+  "bbox": [
+    -114.994513,
+    36.034146,
+    -114.994513,
+    36.034146
+],
   "geometry": {"coordinates":[-114.994513,36.034146],"type":"Point"}
 }

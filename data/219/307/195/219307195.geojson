@@ -2,13 +2,14 @@
   "id": 219307195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782148,39.544595,-119.782148,39.544595",
     "geom:latitude":39.544595,
     "geom:longitude":-119.782148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 Paradise Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219307195,
-    "wof:lastmodified":1449071311,
+    "wof:lastmodified":1466703132,
     "wof:name":"Sierra Manor Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.782148,39.544595,-119.782148,39.544595],
-  "geometry": {"coordinates":[-119.782148,39.544595],"type":"Point"}
+  "bbox": [
+    -119.782148,
+    39.544595,
+    -119.782148,
+    39.544595
+],
+  "geometry": {"coordinates":[-119.78214800000001,39.544595],"type":"Point"}
 }

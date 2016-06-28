@@ -2,13 +2,14 @@
   "id": 236114213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106727,36.129668,-115.106727,36.129668",
     "geom:latitude":36.129668,
     "geom:longitude":-115.106727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236114213,
-    "wof:lastmodified":1449002945,
+    "wof:lastmodified":1466701819,
     "wof:name":"Autozone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "parts"
     ]
 },
-  "bbox": [-115.106727,36.129668,-115.106727,36.129668],
-  "geometry": {"coordinates":[-115.106727,36.129668],"type":"Point"}
+  "bbox": [
+    -115.106727,
+    36.129668,
+    -115.106727,
+    36.129668
+],
+  "geometry": {"coordinates":[-115.10672700000001,36.129668],"type":"Point"}
 }

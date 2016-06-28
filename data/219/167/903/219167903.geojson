@@ -2,13 +2,14 @@
   "id": 219167903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119046,36.110387,-115.119046,36.110387",
     "geom:latitude":36.110387,
     "geom:longitude":-115.119046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4324 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219167903,
-    "wof:lastmodified":1449072220,
+    "wof:lastmodified":1466701689,
     "wof:name":"Desert Medical Eye Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.119046,36.110387,-115.119046,36.110387],
+  "bbox": [
+    -115.119046,
+    36.110387,
+    -115.119046,
+    36.110387
+],
   "geometry": {"coordinates":[-115.119046,36.110387],"type":"Point"}
 }

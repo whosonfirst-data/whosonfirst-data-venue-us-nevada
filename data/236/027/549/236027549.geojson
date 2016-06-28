@@ -2,13 +2,14 @@
   "id": 236027549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.935672,39.246508,-119.935672,39.246508",
     "geom:latitude":39.246508,
     "geom:longitude":-119.935672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Ski Way",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236027549,
-    "wof:lastmodified":1449002136,
+    "wof:lastmodified":1466703896,
     "wof:name":"Stellar Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.935672,39.246508,-119.935672,39.246508],
+  "bbox": [
+    -119.935672,
+    39.246508,
+    -119.935672,
+    39.246508
+],
   "geometry": {"coordinates":[-119.935672,39.246508],"type":"Point"}
 }

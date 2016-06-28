@@ -2,13 +2,14 @@
   "id": 354028767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128422,36.209123,-115.128422,36.209123",
     "geom:latitude":36.209123,
     "geom:longitude":-115.128422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 Donna Street",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354028767,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466702237,
     "wof:name":"Centennial Park Arms",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.128422,36.209123,-115.128422,36.209123],
+  "bbox": [
+    -115.128422,
+    36.209123,
+    -115.128422,
+    36.209123
+],
   "geometry": {"coordinates":[-115.128422,36.209123],"type":"Point"}
 }

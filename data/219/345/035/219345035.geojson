@@ -2,13 +2,14 @@
   "id": 219345035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749324,39.187846,-119.749324,39.187846",
     "geom:latitude":39.187846,
     "geom:longitude":-119.749324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3170 Research Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219345035,
-    "wof:lastmodified":1449073637,
+    "wof:lastmodified":1466703365,
     "wof:name":"Geoarch Sciences Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeologist"
     ]
 },
-  "bbox": [-119.749324,39.187846,-119.749324,39.187846],
+  "bbox": [
+    -119.749324,
+    39.187846,
+    -119.749324,
+    39.187846
+],
   "geometry": {"coordinates":[-119.749324,39.187846],"type":"Point"}
 }

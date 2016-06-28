@@ -2,13 +2,14 @@
   "id": 236374751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.652792,39.219076,-119.652792,39.219076",
     "geom:latitude":39.219076,
     "geom:longitude":-119.652792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Affonso Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236374751,
-    "wof:lastmodified":1449003025,
+    "wof:lastmodified":1466705200,
     "wof:name":"H & G Industries International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-119.652792,39.219076,-119.652792,39.219076],
-  "geometry": {"coordinates":[-119.652792,39.219076],"type":"Point"}
+  "bbox": [
+    -119.652792,
+    39.219076,
+    -119.652792,
+    39.219076
+],
+  "geometry": {"coordinates":[-119.65279200000001,39.219076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354333075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201534,36.084605,-115.201534,36.084605",
     "geom:latitude":36.084605,
     "geom:longitude":-115.201534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5795 Rogers Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354333075,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1466705928,
     "wof:name":"K & K Framers",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.201534,36.084605,-115.201534,36.084605],
+  "bbox": [
+    -115.201534,
+    36.084605,
+    -115.201534,
+    36.084605
+],
   "geometry": {"coordinates":[-115.201534,36.084605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354378871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069267,36.116797,-115.069267,36.116797",
     "geom:latitude":36.116797,
     "geom:longitude":-115.069267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4814 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354378871,
-    "wof:lastmodified":1449067122,
+    "wof:lastmodified":1466706085,
     "wof:name":"Pepe's Tacos 3",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.069267,36.116797,-115.069267,36.116797],
+  "bbox": [
+    -115.069267,
+    36.116797,
+    -115.069267,
+    36.116797
+],
   "geometry": {"coordinates":[-115.069267,36.116797],"type":"Point"}
 }

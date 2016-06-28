@@ -2,13 +2,14 @@
   "id": 354253535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137001,36.1427,-115.137001,36.1427",
     "geom:latitude":36.1427,
     "geom:longitude":-115.137001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 S Maryland Pkwy Ste 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354253535,
-    "wof:lastmodified":1449067454,
+    "wof:lastmodified":1466705373,
     "wof:name":"Moore Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.137001,36.1427,-115.137001,36.1427],
+  "bbox": [
+    -115.137001,
+    36.1427,
+    -115.137001,
+    36.1427
+],
   "geometry": {"coordinates":[-115.137001,36.1427],"type":"Point"}
 }

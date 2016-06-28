@@ -2,13 +2,14 @@
   "id": 219927343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.822724,35.977423,-114.822724,35.977423",
     "geom:latitude":35.977423,
     "geom:longitude":-114.822724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Wyoming St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219927343,
-    "wof:lastmodified":1449073548,
+    "wof:lastmodified":1466705805,
     "wof:name":"Charak Investigations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-114.822724,35.977423,-114.822724,35.977423],
-  "geometry": {"coordinates":[-114.822724,35.977423],"type":"Point"}
+  "bbox": [
+    -114.822724,
+    35.977423,
+    -114.822724,
+    35.977423
+],
+  "geometry": {"coordinates":[-114.82272399999999,35.977423],"type":"Point"}
 }

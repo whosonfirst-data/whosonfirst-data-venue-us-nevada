@@ -2,13 +2,14 @@
   "id": 354167363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152569,36.143775,-115.152569,36.143775",
     "geom:latitude":36.143775,
     "geom:longitude":-115.152569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354167363,
-    "wof:lastmodified":1449066815,
+    "wof:lastmodified":1466704925,
     "wof:name":"Pamplemousse le Restaurant",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-115.152569,36.143775,-115.152569,36.143775],
+  "bbox": [
+    -115.152569,
+    36.143775,
+    -115.152569,
+    36.143775
+],
   "geometry": {"coordinates":[-115.152569,36.143775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219792019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269247,36.214802,-115.269247,36.214802",
     "geom:latitude":36.214802,
     "geom:longitude":-115.269247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 Bay Harbor Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219792019,
-    "wof:lastmodified":1449071154,
+    "wof:lastmodified":1466705163,
     "wof:name":"M Frances Prodns Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.269247,36.214802,-115.269247,36.214802],
-  "geometry": {"coordinates":[-115.269247,36.214802],"type":"Point"}
+  "bbox": [
+    -115.269247,
+    36.214802,
+    -115.269247,
+    36.214802
+],
+  "geometry": {"coordinates":[-115.26924699999999,36.214802],"type":"Point"}
 }

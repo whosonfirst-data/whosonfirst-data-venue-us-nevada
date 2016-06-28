@@ -2,13 +2,14 @@
   "id": 203164395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.990918,36.016268,-114.990918,36.016268",
     "geom:latitude":36.016268,
     "geom:longitude":-114.990918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W Delamar Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203164395,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466701673,
     "wof:name":"Progressive Elevator",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-114.990918,36.016268,-114.990918,36.016268],
-  "geometry": {"coordinates":[-114.990918,36.016268],"type":"Point"}
+  "bbox": [
+    -114.990918,
+    36.016268,
+    -114.990918,
+    36.016268
+],
+  "geometry": {"coordinates":[-114.99091799999999,36.016268],"type":"Point"}
 }

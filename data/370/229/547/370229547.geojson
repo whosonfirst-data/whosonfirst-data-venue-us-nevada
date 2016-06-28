@@ -2,13 +2,14 @@
   "id": 370229547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23908,36.157238,-115.23908,36.157238",
     "geom:latitude":36.157238,
     "geom:longitude":-115.23908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Redwood Street Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370229547,
-    "wof:lastmodified":1449031795,
+    "wof:lastmodified":1466703250,
     "wof:name":"Redwood Gardens A General Partnership",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.23908,36.157238,-115.23908,36.157238],
+  "bbox": [
+    -115.23908,
+    36.157238,
+    -115.23908,
+    36.157238
+],
   "geometry": {"coordinates":[-115.23908,36.157238],"type":"Point"}
 }

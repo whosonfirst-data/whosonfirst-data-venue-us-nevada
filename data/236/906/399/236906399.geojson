@@ -2,13 +2,14 @@
   "id": 236906399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050013,36.015559,-115.050013,36.015559",
     "geom:latitude":36.015559,
     "geom:longitude":-115.050013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Pullman Pointe Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236906399,
-    "wof:lastmodified":1449002799,
+    "wof:lastmodified":1466706910,
     "wof:name":"Adaptive Information Tech",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-115.050013,36.015559,-115.050013,36.015559],
-  "geometry": {"coordinates":[-115.050013,36.015559],"type":"Point"}
+  "bbox": [
+    -115.050013,
+    36.015559,
+    -115.050013,
+    36.015559
+],
+  "geometry": {"coordinates":[-115.05001300000001,36.015559],"type":"Point"}
 }

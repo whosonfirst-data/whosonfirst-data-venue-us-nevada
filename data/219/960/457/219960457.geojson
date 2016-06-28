@@ -2,13 +2,14 @@
   "id": 219960457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.220091,36.282319,-115.220091,36.282319",
     "geom:latitude":36.282319,
     "geom:longitude":-115.220091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5711 Mello Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219960457,
-    "wof:lastmodified":1449072938,
+    "wof:lastmodified":1466706011,
     "wof:name":"Andersen Const J Christi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.220091,36.282319,-115.220091,36.282319],
+  "bbox": [
+    -115.220091,
+    36.282319,
+    -115.220091,
+    36.282319
+],
   "geometry": {"coordinates":[-115.220091,36.282319],"type":"Point"}
 }

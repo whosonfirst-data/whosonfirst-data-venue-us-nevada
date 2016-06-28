@@ -2,13 +2,14 @@
   "id": 236895611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.641778,39.309118,-119.641778,39.309118",
     "geom:latitude":39.309118,
     "geom:longitude":-119.641778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 R St",
     "sg:city":"Virginia City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236895611,
-    "wof:lastmodified":1449002983,
+    "wof:lastmodified":1466706801,
     "wof:name":"St Mary's Art Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "art"
     ]
 },
-  "bbox": [-119.641778,39.309118,-119.641778,39.309118],
+  "bbox": [
+    -119.641778,
+    39.309118,
+    -119.641778,
+    39.309118
+],
   "geometry": {"coordinates":[-119.641778,39.309118],"type":"Point"}
 }

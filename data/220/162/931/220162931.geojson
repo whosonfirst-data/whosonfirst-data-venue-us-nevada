@@ -2,13 +2,14 @@
   "id": 220162931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760742,39.480136,-119.760742,39.480136",
     "geom:latitude":39.480136,
     "geom:longitude":-119.760742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Wagoneer Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220162931,
-    "wof:lastmodified":1449074750,
+    "wof:lastmodified":1466702841,
     "wof:name":"Wagoneer Group Care",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.760742,39.480136,-119.760742,39.480136],
-  "geometry": {"coordinates":[-119.760742,39.480136],"type":"Point"}
+  "bbox": [
+    -119.760742,
+    39.480136,
+    -119.760742,
+    39.480136
+],
+  "geometry": {"coordinates":[-119.76074199999999,39.480136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354254405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176715,36.096806,-115.176715,36.096806",
     "geom:latitude":36.096806,
     "geom:longitude":-115.176715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Luxor 3900 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354254405,
-    "wof:lastmodified":1449067142,
+    "wof:lastmodified":1466705245,
     "wof:name":"Titanic - The Artifact Exhibition",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.176715,36.096806,-115.176715,36.096806],
+  "bbox": [
+    -115.176715,
+    36.096806,
+    -115.176715,
+    36.096806
+],
   "geometry": {"coordinates":[-115.176715,36.096806],"type":"Point"}
 }

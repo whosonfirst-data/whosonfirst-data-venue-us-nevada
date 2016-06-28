@@ -2,13 +2,14 @@
   "id": 370150009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255846,36.196034,-115.255846,36.196034",
     "geom:latitude":36.196034,
     "geom:longitude":-115.255846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7465 W Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370150009,
-    "wof:lastmodified":1449029114,
+    "wof:lastmodified":1466701532,
     "wof:name":"Dl Step Placement Agency",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.255846,36.196034,-115.255846,36.196034],
-  "geometry": {"coordinates":[-115.255846,36.196034],"type":"Point"}
+  "bbox": [
+    -115.255846,
+    36.196034,
+    -115.255846,
+    36.196034
+],
+  "geometry": {"coordinates":[-115.25584600000001,36.196034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236653099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259992,36.188974,-115.259992,36.188974",
     "geom:latitude":36.188974,
     "geom:longitude":-115.259992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1780 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236653099,
-    "wof:lastmodified":1449001854,
+    "wof:lastmodified":1466706385,
     "wof:name":"Puppy Enterprises",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.259992,36.188974,-115.259992,36.188974],
+  "bbox": [
+    -115.259992,
+    36.188974,
+    -115.259992,
+    36.188974
+],
   "geometry": {"coordinates":[-115.259992,36.188974],"type":"Point"}
 }

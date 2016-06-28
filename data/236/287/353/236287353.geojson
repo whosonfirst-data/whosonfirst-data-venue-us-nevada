@@ -2,13 +2,14 @@
   "id": 236287353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140145,36.090533,-115.140145,36.090533",
     "geom:latitude":36.090533,
     "geom:longitude":-115.140145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5456 Viscount Carlson Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236287353,
-    "wof:lastmodified":1449001827,
+    "wof:lastmodified":1466704599,
     "wof:name":"Continental Investment",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mutual"
     ]
 },
-  "bbox": [-115.140145,36.090533,-115.140145,36.090533],
+  "bbox": [
+    -115.140145,
+    36.090533,
+    -115.140145,
+    36.090533
+],
   "geometry": {"coordinates":[-115.140145,36.090533],"type":"Point"}
 }

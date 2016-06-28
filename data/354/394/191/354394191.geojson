@@ -2,13 +2,14 @@
   "id": 354394191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057125,36.083751,-115.057125,36.083751",
     "geom:latitude":36.083751,
     "geom:longitude":-115.057125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 E Russell Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354394191,
-    "wof:lastmodified":1449066259,
+    "wof:lastmodified":1466706338,
     "wof:name":"Clark County School District Cowan Behavior Junior Senior Hs",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.057125,36.083751,-115.057125,36.083751],
+  "bbox": [
+    -115.057125,
+    36.083751,
+    -115.057125,
+    36.083751
+],
   "geometry": {"coordinates":[-115.057125,36.083751],"type":"Point"}
 }

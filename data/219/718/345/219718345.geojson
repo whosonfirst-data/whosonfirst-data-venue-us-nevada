@@ -2,13 +2,14 @@
   "id": 219718345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286924,36.159038,-115.286924,36.159038",
     "geom:latitude":36.159038,
     "geom:longitude":-115.286924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219718345,
-    "wof:lastmodified":1449071159,
+    "wof:lastmodified":1466704416,
     "wof:name":"Bedtime Mattress Co",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-115.286924,36.159038,-115.286924,36.159038],
+  "bbox": [
+    -115.286924,
+    36.159038,
+    -115.286924,
+    36.159038
+],
   "geometry": {"coordinates":[-115.286924,36.159038],"type":"Point"}
 }

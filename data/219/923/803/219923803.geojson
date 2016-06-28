@@ -2,13 +2,14 @@
   "id": 219923803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.754933,40.827009,-115.754933,40.827009",
     "geom:latitude":40.827009,
     "geom:longitude":-115.754933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 S 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219923803,
-    "wof:lastmodified":1449073796,
+    "wof:lastmodified":1466705760,
     "wof:name":"Roadrunner Towing & Recovery",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.754933,40.827009,-115.754933,40.827009],
-  "geometry": {"coordinates":[-115.754933,40.827009],"type":"Point"}
+  "bbox": [
+    -115.754933,
+    40.827009,
+    -115.754933,
+    40.827009
+],
+  "geometry": {"coordinates":[-115.75493299999999,40.827009],"type":"Point"}
 }

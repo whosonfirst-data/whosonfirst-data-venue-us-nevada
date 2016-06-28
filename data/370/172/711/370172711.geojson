@@ -2,13 +2,14 @@
   "id": 370172711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.234315,36.247777,-115.234315,36.247777",
     "geom:latitude":36.247777,
     "geom:longitude":-115.234315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 Sierra Diablo Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370172711,
-    "wof:lastmodified":1449030447,
+    "wof:lastmodified":1466702018,
     "wof:name":"Telcel Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.234315,36.247777,-115.234315,36.247777],
+  "bbox": [
+    -115.234315,
+    36.247777,
+    -115.234315,
+    36.247777
+],
   "geometry": {"coordinates":[-115.234315,36.247777],"type":"Point"}
 }

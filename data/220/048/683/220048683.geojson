@@ -2,13 +2,14 @@
   "id": 220048683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.723521,39.476895,-119.723521,39.476895",
     "geom:latitude":39.476895,
     "geom:longitude":-119.723521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5969 Hidden Highlands Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220048683,
-    "wof:lastmodified":1449074298,
+    "wof:lastmodified":1466701964,
     "wof:name":"Overland Construction Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.723521,39.476895,-119.723521,39.476895],
-  "geometry": {"coordinates":[-119.723521,39.476895],"type":"Point"}
+  "bbox": [
+    -119.723521,
+    39.476895,
+    -119.723521,
+    39.476895
+],
+  "geometry": {"coordinates":[-119.72352100000001,39.476895],"type":"Point"}
 }

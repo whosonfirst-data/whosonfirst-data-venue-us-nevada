@@ -2,13 +2,14 @@
   "id": 236643679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268201,36.232056,-115.268201,36.232056",
     "geom:latitude":36.232056,
     "geom:longitude":-115.268201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7901 Aviano Pines Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236643679,
-    "wof:lastmodified":1449004717,
+    "wof:lastmodified":1466706312,
     "wof:name":"Lilys Bistro",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.268201,36.232056,-115.268201,36.232056],
+  "bbox": [
+    -115.268201,
+    36.232056,
+    -115.268201,
+    36.232056
+],
   "geometry": {"coordinates":[-115.268201,36.232056],"type":"Point"}
 }

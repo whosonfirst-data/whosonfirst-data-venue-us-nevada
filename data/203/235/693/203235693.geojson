@@ -2,13 +2,14 @@
   "id": 203235693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806649,39.522659,-119.806649,39.522659",
     "geom:latitude":39.522659,
     "geom:longitude":-119.806649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Holcomb Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203235693,
-    "wof:lastmodified":1449025267,
+    "wof:lastmodified":1466702401,
     "wof:name":"National Wild Horse & Burro FN",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "foundation"
     ]
 },
-  "bbox": [-119.806649,39.522659,-119.806649,39.522659],
-  "geometry": {"coordinates":[-119.806649,39.522659],"type":"Point"}
+  "bbox": [
+    -119.806649,
+    39.522659,
+    -119.806649,
+    39.522659
+],
+  "geometry": {"coordinates":[-119.80664899999999,39.522659],"type":"Point"}
 }

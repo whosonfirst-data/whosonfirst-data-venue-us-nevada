@@ -2,13 +2,14 @@
   "id": 354078813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306161,36.107515,-115.306161,36.107515",
     "geom:latitude":36.107515,
     "geom:longitude":-115.306161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 S Grand Canyon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354078813,
-    "wof:lastmodified":1449067386,
+    "wof:lastmodified":1466703558,
     "wof:name":"Delgado Dance Studios",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "performing"
     ]
 },
-  "bbox": [-115.306161,36.107515,-115.306161,36.107515],
+  "bbox": [
+    -115.306161,
+    36.107515,
+    -115.306161,
+    36.107515
+],
   "geometry": {"coordinates":[-115.306161,36.107515],"type":"Point"}
 }

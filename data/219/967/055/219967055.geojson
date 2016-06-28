@@ -2,13 +2,14 @@
   "id": 219967055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815052,39.522031,-119.815052,39.522031",
     "geom:latitude":39.522031,
     "geom:longitude":-119.815052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Ridge St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219967055,
-    "wof:lastmodified":1449073643,
+    "wof:lastmodified":1466706030,
     "wof:name":"Caranos Windtree Vineyard",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vineyard"
     ]
 },
-  "bbox": [-119.815052,39.522031,-119.815052,39.522031],
-  "geometry": {"coordinates":[-119.815052,39.522031],"type":"Point"}
+  "bbox": [
+    -119.815052,
+    39.522031,
+    -119.815052,
+    39.522031
+],
+  "geometry": {"coordinates":[-119.81505199999999,39.522031],"type":"Point"}
 }

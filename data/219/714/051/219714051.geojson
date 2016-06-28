@@ -2,13 +2,14 @@
   "id": 219714051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760485,39.416734,-119.760485,39.416734",
     "geom:latitude":39.416734,
     "geom:longitude":-119.760485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Flanders Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219714051,
-    "wof:lastmodified":1449072122,
+    "wof:lastmodified":1466704550,
     "wof:name":"Victorian Fancies",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [-119.760485,39.416734,-119.760485,39.416734],
+  "bbox": [
+    -119.760485,
+    39.416734,
+    -119.760485,
+    39.416734
+],
   "geometry": {"coordinates":[-119.760485,39.416734],"type":"Point"}
 }

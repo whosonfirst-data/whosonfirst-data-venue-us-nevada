@@ -2,13 +2,14 @@
   "id": 236090225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807922,39.494066,-119.807922,39.494066",
     "geom:latitude":39.494066,
     "geom:longitude":-119.807922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236090225,
-    "wof:lastmodified":1449004437,
+    "wof:lastmodified":1466704141,
     "wof:name":"White Meany & Wetherall Law",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.807922,39.494066,-119.807922,39.494066],
+  "bbox": [
+    -119.807922,
+    39.494066,
+    -119.807922,
+    39.494066
+],
   "geometry": {"coordinates":[-119.807922,39.494066],"type":"Point"}
 }

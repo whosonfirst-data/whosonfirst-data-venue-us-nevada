@@ -2,13 +2,14 @@
   "id": 219821853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.044902,36.070827,-115.044902,36.070827",
     "geom:latitude":36.070827,
     "geom:longitude":-115.044902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Galleria Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219821853,
-    "wof:lastmodified":1449072295,
+    "wof:lastmodified":1466705068,
     "wof:name":"Flanagan & Lee",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.044902,36.070827,-115.044902,36.070827],
-  "geometry": {"coordinates":[-115.044902,36.070827],"type":"Point"}
+  "bbox": [
+    -115.044902,
+    36.070827,
+    -115.044902,
+    36.070827
+],
+  "geometry": {"coordinates":[-115.04490199999999,36.070827],"type":"Point"}
 }

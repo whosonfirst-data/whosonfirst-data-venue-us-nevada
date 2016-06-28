@@ -2,13 +2,14 @@
   "id": 219462411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.076805,36.2448,-116.076805,36.2448",
     "geom:latitude":36.2448,
     "geom:longitude":-116.076805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 N Murphy St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219462411,
-    "wof:lastmodified":1449073773,
+    "wof:lastmodified":1466704008,
     "wof:name":"Point Based Timeshare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "condominium"
     ]
 },
-  "bbox": [-116.076805,36.2448,-116.076805,36.2448],
-  "geometry": {"coordinates":[-116.076805,36.2448],"type":"Point"}
+  "bbox": [
+    -116.076805,
+    36.2448,
+    -116.076805,
+    36.2448
+],
+  "geometry": {"coordinates":[-116.07680499999999,36.2448],"type":"Point"}
 }

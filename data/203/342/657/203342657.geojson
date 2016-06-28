@@ -2,13 +2,14 @@
   "id": 203342657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.875343,39.253054,-114.875343,39.253054",
     "geom:latitude":39.253054,
     "geom:longitude":-114.875343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203342657,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466703110,
     "wof:name":"C & C Home Improvement Ctr",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-114.875343,39.253054,-114.875343,39.253054],
+  "bbox": [
+    -114.875343,
+    39.253054,
+    -114.875343,
+    39.253054
+],
   "geometry": {"coordinates":[-114.875343,39.253054],"type":"Point"}
 }

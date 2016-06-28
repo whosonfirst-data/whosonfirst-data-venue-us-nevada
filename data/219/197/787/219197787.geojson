@@ -2,13 +2,14 @@
   "id": 219197787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.472539,36.608149,-114.472539,36.608149",
     "geom:latitude":36.608149,
     "geom:longitude":-114.472539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Whipple Ave",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219197787,
-    "wof:lastmodified":1449073473,
+    "wof:lastmodified":1466702053,
     "wof:name":"Clark County Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.472539,36.608149,-114.472539,36.608149],
+  "bbox": [
+    -114.472539,
+    36.608149,
+    -114.472539,
+    36.608149
+],
   "geometry": {"coordinates":[-114.472539,36.608149],"type":"Point"}
 }

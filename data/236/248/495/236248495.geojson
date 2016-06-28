@@ -2,13 +2,14 @@
   "id": 236248495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.282222,36.191009,-115.282222,36.191009",
     "geom:latitude":36.191009,
     "geom:longitude":-115.282222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8506 Cielo Vista Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236248495,
-    "wof:lastmodified":1449003470,
+    "wof:lastmodified":1466704388,
     "wof:name":"Sonoma Homes",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-115.282222,36.191009,-115.282222,36.191009],
+  "bbox": [
+    -115.282222,
+    36.191009,
+    -115.282222,
+    36.191009
+],
   "geometry": {"coordinates":[-115.282222,36.191009],"type":"Point"}
 }

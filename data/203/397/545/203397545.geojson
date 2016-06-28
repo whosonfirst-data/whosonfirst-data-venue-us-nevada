@@ -2,13 +2,14 @@
   "id": 203397545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818457,39.589828,-119.818457,39.589828",
     "geom:latitude":39.589828,
     "geom:longitude":-119.818457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Western Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203397545,
-    "wof:lastmodified":1449025671,
+    "wof:lastmodified":1466703317,
     "wof:name":"Performance Precision Sheet",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.818457,39.589828,-119.818457,39.589828],
+  "bbox": [
+    -119.818457,
+    39.589828,
+    -119.818457,
+    39.589828
+],
   "geometry": {"coordinates":[-119.818457,39.589828],"type":"Point"}
 }

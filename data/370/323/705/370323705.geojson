@@ -2,13 +2,14 @@
   "id": 370323705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.873937,39.61234,-119.873937,39.61234",
     "geom:latitude":39.61234,
     "geom:longitude":-119.873937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9676 N Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":370323705,
-    "wof:lastmodified":1449029381,
+    "wof:lastmodified":1466704775,
     "wof:name":"Owen Brothers Pump",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "pumps-service"
     ]
 },
-  "bbox": [-119.873937,39.61234,-119.873937,39.61234],
+  "bbox": [
+    -119.873937,
+    39.61234,
+    -119.873937,
+    39.61234
+],
   "geometry": {"coordinates":[-119.873937,39.61234],"type":"Point"}
 }

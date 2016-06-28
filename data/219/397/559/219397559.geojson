@@ -2,13 +2,14 @@
   "id": 219397559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807761,39.522763,-119.807761,39.522763",
     "geom:latitude":39.522763,
     "geom:longitude":-119.807761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Liberty St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219397559,
-    "wof:lastmodified":1449071794,
+    "wof:lastmodified":1466703620,
     "wof:name":"Robert H Perry LTD",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.807761,39.522763,-119.807761,39.522763],
+  "bbox": [
+    -119.807761,
+    39.522763,
+    -119.807761,
+    39.522763
+],
   "geometry": {"coordinates":[-119.807761,39.522763],"type":"Point"}
 }

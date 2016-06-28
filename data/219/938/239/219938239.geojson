@@ -2,13 +2,14 @@
   "id": 219938239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224708,36.125383,-115.224708,36.125383",
     "geom:latitude":36.125383,
     "geom:longitude":-115.224708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5925 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219938239,
-    "wof:lastmodified":1449073031,
+    "wof:lastmodified":1466705820,
     "wof:name":"Police Dept-Patrol Bur-Sw Sta",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-115.224708,36.125383,-115.224708,36.125383],
-  "geometry": {"coordinates":[-115.224708,36.125383],"type":"Point"}
+  "bbox": [
+    -115.224708,
+    36.125383,
+    -115.224708,
+    36.125383
+],
+  "geometry": {"coordinates":[-115.22470800000001,36.125383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236775767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.728537,39.033351,-119.728537,39.033351",
     "geom:latitude":39.033351,
     "geom:longitude":-119.728537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 Gordon Ave",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236775767,
-    "wof:lastmodified":1449004207,
+    "wof:lastmodified":1466706605,
     "wof:name":"Green Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.728537,39.033351,-119.728537,39.033351],
+  "bbox": [
+    -119.728537,
+    39.033351,
+    -119.728537,
+    39.033351
+],
   "geometry": {"coordinates":[-119.728537,39.033351],"type":"Point"}
 }

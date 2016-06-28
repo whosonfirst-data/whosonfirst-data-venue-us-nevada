@@ -2,13 +2,14 @@
   "id": 370233791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225601,36.129696,-115.225601,36.129696",
     "geom:latitude":36.129696,
     "geom:longitude":-115.225601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3275 S Jones Blvd Suite 1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370233791,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1466703334,
     "wof:name":"Commercial Financial Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.225601,36.129696,-115.225601,36.129696],
+  "bbox": [
+    -115.225601,
+    36.129696,
+    -115.225601,
+    36.129696
+],
   "geometry": {"coordinates":[-115.225601,36.129696],"type":"Point"}
 }

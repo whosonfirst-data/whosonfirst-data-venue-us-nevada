@@ -2,13 +2,14 @@
   "id": 203215719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.894541,39.247852,-114.894541,39.247852",
     "geom:latitude":39.247852,
     "geom:longitude":-114.894541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203215719,
-    "wof:lastmodified":1449026508,
+    "wof:lastmodified":1466702195,
     "wof:name":"M & S Pawn",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-114.894541,39.247852,-114.894541,39.247852],
+  "bbox": [
+    -114.894541,
+    39.247852,
+    -114.894541,
+    39.247852
+],
   "geometry": {"coordinates":[-114.894541,39.247852],"type":"Point"}
 }

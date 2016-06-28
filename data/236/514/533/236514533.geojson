@@ -2,13 +2,14 @@
   "id": 236514533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74517,39.525495,-119.74517,39.525495",
     "geom:latitude":39.525495,
     "geom:longitude":-119.74517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236514533,
-    "wof:lastmodified":1449003281,
+    "wof:lastmodified":1466705886,
     "wof:name":"Mmk Properties",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "management"
     ]
 },
-  "bbox": [-119.74517,39.525495,-119.74517,39.525495],
+  "bbox": [
+    -119.74517,
+    39.525495,
+    -119.74517,
+    39.525495
+],
   "geometry": {"coordinates":[-119.74517,39.525495],"type":"Point"}
 }

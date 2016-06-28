@@ -2,13 +2,14 @@
   "id": 236752307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103428,36.124866,-115.103428,36.124866",
     "geom:latitude":36.124866,
     "geom:longitude":-115.103428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 Blackstone St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236752307,
-    "wof:lastmodified":1449002089,
+    "wof:lastmodified":1466706570,
     "wof:name":"Gift Showcase",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "order"
     ]
 },
-  "bbox": [-115.103428,36.124866,-115.103428,36.124866],
-  "geometry": {"coordinates":[-115.103428,36.124866],"type":"Point"}
+  "bbox": [
+    -115.103428,
+    36.124866,
+    -115.103428,
+    36.124866
+],
+  "geometry": {"coordinates":[-115.10342799999999,36.124866],"type":"Point"}
 }

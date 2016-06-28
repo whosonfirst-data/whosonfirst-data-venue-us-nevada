@@ -2,13 +2,14 @@
   "id": 236456445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29086,36.058371,-115.29086,36.058371",
     "geom:latitude":36.058371,
     "geom:longitude":-115.29086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7148 Bird Cherry St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236456445,
-    "wof:lastmodified":1449002460,
+    "wof:lastmodified":1466705614,
     "wof:name":"Zen Madness",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.29086,36.058371,-115.29086,36.058371],
+  "bbox": [
+    -115.29086,
+    36.058371,
+    -115.29086,
+    36.058371
+],
   "geometry": {"coordinates":[-115.29086,36.058371],"type":"Point"}
 }

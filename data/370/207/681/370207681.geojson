@@ -2,13 +2,14 @@
   "id": 370207681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243028,36.044535,-115.243028,36.044535",
     "geom:latitude":36.044535,
     "geom:longitude":-115.243028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7910 S Rainbow Blvd Ste 130",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370207681,
-    "wof:lastmodified":1449031453,
+    "wof:lastmodified":1466702722,
     "wof:name":"Talk & Text Llc",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243028,36.044535,-115.243028,36.044535],
+  "bbox": [
+    -115.243028,
+    36.044535,
+    -115.243028,
+    36.044535
+],
   "geometry": {"coordinates":[-115.243028,36.044535],"type":"Point"}
 }

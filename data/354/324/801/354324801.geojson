@@ -2,13 +2,14 @@
   "id": 354324801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207903,36.091435,-115.207903,36.091435",
     "geom:latitude":36.091435,
     "geom:longitude":-115.207903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5419 S Decatur Boulevard Suite A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354324801,
-    "wof:lastmodified":1449066937,
+    "wof:lastmodified":1466706019,
     "wof:name":"National Business Supply",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.207903,36.091435,-115.207903,36.091435],
+  "bbox": [
+    -115.207903,
+    36.091435,
+    -115.207903,
+    36.091435
+],
   "geometry": {"coordinates":[-115.207903,36.091435],"type":"Point"}
 }

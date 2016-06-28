@@ -2,13 +2,14 @@
   "id": 203236895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.090337,36.05376,-115.090337,36.05376",
     "geom:latitude":36.05376,
     "geom:longitude":-115.090337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Bradford Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203236895,
-    "wof:lastmodified":1449025145,
+    "wof:lastmodified":1466702418,
     "wof:name":"High Desert Transport Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.090337,36.05376,-115.090337,36.05376],
-  "geometry": {"coordinates":[-115.090337,36.05376],"type":"Point"}
+  "bbox": [
+    -115.090337,
+    36.05376,
+    -115.090337,
+    36.05376
+],
+  "geometry": {"coordinates":[-115.09033700000001,36.05376],"type":"Point"}
 }

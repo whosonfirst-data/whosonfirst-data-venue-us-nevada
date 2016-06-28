@@ -2,13 +2,14 @@
   "id": 354316669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279012,36.136222,-115.279012,36.136222",
     "geom:latitude":36.136222,
     "geom:longitude":-115.279012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2960 S Durango Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354316669,
-    "wof:lastmodified":1449067128,
+    "wof:lastmodified":1466705686,
     "wof:name":"More Than Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.279012,36.136222,-115.279012,36.136222],
-  "geometry": {"coordinates":[-115.279012,36.136222],"type":"Point"}
+  "bbox": [
+    -115.279012,
+    36.136222,
+    -115.279012,
+    36.136222
+],
+  "geometry": {"coordinates":[-115.27901199999999,36.136222],"type":"Point"}
 }

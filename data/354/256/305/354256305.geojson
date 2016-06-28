@@ -2,13 +2,14 @@
   "id": 354256305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162099,36.136251,-115.162099,36.136251",
     "geom:latitude":36.136251,
     "geom:longitude":-115.162099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Crazy Girls Theatre, Riviera Hotel & Casino 2901 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354256305,
-    "wof:lastmodified":1449067234,
+    "wof:lastmodified":1466705415,
     "wof:name":"Barbra & Frank - The Concert That Never Was",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.162099,36.136251,-115.162099,36.136251],
+  "bbox": [
+    -115.162099,
+    36.136251,
+    -115.162099,
+    36.136251
+],
   "geometry": {"coordinates":[-115.162099,36.136251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203194793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081555,36.093443,-115.081555,36.093443",
     "geom:latitude":36.093443,
     "geom:longitude":-115.081555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5227 Somerset Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203194793,
-    "wof:lastmodified":1449026580,
+    "wof:lastmodified":1466702003,
     "wof:name":"Master Plan Interiors",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.081555,36.093443,-115.081555,36.093443],
-  "geometry": {"coordinates":[-115.081555,36.093443],"type":"Point"}
+  "bbox": [
+    -115.081555,
+    36.093443,
+    -115.081555,
+    36.093443
+],
+  "geometry": {"coordinates":[-115.08155499999999,36.093443],"type":"Point"}
 }

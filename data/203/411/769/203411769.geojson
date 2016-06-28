@@ -2,13 +2,14 @@
   "id": 203411769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762202,39.483487,-119.762202,39.483487",
     "geom:latitude":39.483487,
     "geom:longitude":-119.762202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4830 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203411769,
-    "wof:lastmodified":1449025040,
+    "wof:lastmodified":1466703376,
     "wof:name":"Sierra Air Freight Express",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-119.762202,39.483487,-119.762202,39.483487],
+  "bbox": [
+    -119.762202,
+    39.483487,
+    -119.762202,
+    39.483487
+],
   "geometry": {"coordinates":[-119.762202,39.483487],"type":"Point"}
 }

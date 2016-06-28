@@ -2,13 +2,14 @@
   "id": 219204959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172809,36.16026,-115.172809,36.16026",
     "geom:latitude":36.16026,
     "geom:longitude":-115.172809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219204959,
-    "wof:lastmodified":1449074036,
+    "wof:lastmodified":1466702111,
     "wof:name":"Aristrocrat Fine Dining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.172809,36.16026,-115.172809,36.16026],
+  "bbox": [
+    -115.172809,
+    36.16026,
+    -115.172809,
+    36.16026
+],
   "geometry": {"coordinates":[-115.172809,36.16026],"type":"Point"}
 }

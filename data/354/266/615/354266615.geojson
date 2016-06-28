@@ -2,13 +2,14 @@
   "id": 354266615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154694,36.134148,-115.154694,36.134148",
     "geom:latitude":36.134148,
     "geom:longitude":-115.154694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Las Vegas Hilton 3000 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354266615,
-    "wof:lastmodified":1449065996,
+    "wof:lastmodified":1466705595,
     "wof:name":"Benihana",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.154694,36.134148,-115.154694,36.134148],
-  "geometry": {"coordinates":[-115.154694,36.134148],"type":"Point"}
+  "bbox": [
+    -115.154694,
+    36.134148,
+    -115.154694,
+    36.134148
+],
+  "geometry": {"coordinates":[-115.15469400000001,36.134148],"type":"Point"}
 }

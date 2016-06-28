@@ -2,13 +2,14 @@
   "id": 219491801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815575,39.526425,-119.815575,39.526425",
     "geom:latitude":39.526425,
     "geom:longitude":-119.815575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219491801,
-    "wof:lastmodified":1449070325,
+    "wof:lastmodified":1466704128,
     "wof:name":"Reno Coin Co",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.815575,39.526425,-119.815575,39.526425],
+  "bbox": [
+    -119.815575,
+    39.526425,
+    -119.815575,
+    39.526425
+],
   "geometry": {"coordinates":[-119.815575,39.526425],"type":"Point"}
 }

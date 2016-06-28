@@ -2,13 +2,14 @@
   "id": 370295709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146112,36.124003,-115.146112,36.124003",
     "geom:latitude":36.124003,
     "geom:longitude":-115.146112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Swenson Street Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370295709,
-    "wof:lastmodified":1449030459,
+    "wof:lastmodified":1466704393,
     "wof:name":"Pinewood Apartments",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.146112,36.124003,-115.146112,36.124003],
+  "bbox": [
+    -115.146112,
+    36.124003,
+    -115.146112,
+    36.124003
+],
   "geometry": {"coordinates":[-115.146112,36.124003],"type":"Point"}
 }

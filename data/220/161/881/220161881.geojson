@@ -2,13 +2,14 @@
   "id": 220161881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763048,39.510454,-119.763048,39.510454",
     "geom:latitude":39.510454,
     "geom:longitude":-119.763048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 S Rock Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220161881,
-    "wof:lastmodified":1449074354,
+    "wof:lastmodified":1466702837,
     "wof:name":"Swissport Fueling",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-119.763048,39.510454,-119.763048,39.510454],
+  "bbox": [
+    -119.763048,
+    39.510454,
+    -119.763048,
+    39.510454
+],
   "geometry": {"coordinates":[-119.763048,39.510454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219683883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08846,36.13418,-115.08846,36.13418",
     "geom:latitude":36.13418,
     "geom:longitude":-115.08846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219683883,
-    "wof:lastmodified":1449071689,
+    "wof:lastmodified":1466704355,
     "wof:name":"Wave",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.08846,36.13418,-115.08846,36.13418],
+  "bbox": [
+    -115.08846,
+    36.13418,
+    -115.08846,
+    36.13418
+],
   "geometry": {"coordinates":[-115.08846,36.13418],"type":"Point"}
 }

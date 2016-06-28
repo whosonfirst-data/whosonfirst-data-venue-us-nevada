@@ -2,13 +2,14 @@
   "id": 370303535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149191,36.008757,-115.149191,36.008757",
     "geom:latitude":36.008757,
     "geom:longitude":-115.149191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Gritty Garnet Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370303535,
-    "wof:lastmodified":1449029096,
+    "wof:lastmodified":1466704775,
     "wof:name":"Magentic Music",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-115.149191,36.008757,-115.149191,36.008757],
+  "bbox": [
+    -115.149191,
+    36.008757,
+    -115.149191,
+    36.008757
+],
   "geometry": {"coordinates":[-115.149191,36.008757],"type":"Point"}
 }

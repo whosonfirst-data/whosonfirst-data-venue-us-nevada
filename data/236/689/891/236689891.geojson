@@ -2,13 +2,14 @@
   "id": 236689891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279981,36.148934,-115.279981,36.148934",
     "geom:latitude":36.148934,
     "geom:longitude":-115.279981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8609 Canyon View Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236689891,
-    "wof:lastmodified":1449004579,
+    "wof:lastmodified":1466706595,
     "wof:name":"Sanford Dream Builders",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weight"
     ]
 },
-  "bbox": [-115.279981,36.148934,-115.279981,36.148934],
-  "geometry": {"coordinates":[-115.279981,36.148934],"type":"Point"}
+  "bbox": [
+    -115.279981,
+    36.148934,
+    -115.279981,
+    36.148934
+],
+  "geometry": {"coordinates":[-115.27998100000001,36.148934],"type":"Point"}
 }

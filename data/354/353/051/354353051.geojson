@@ -2,13 +2,14 @@
   "id": 354353051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131368,36.060628,-115.131368,36.060628",
     "geom:latitude":36.060628,
     "geom:longitude":-115.131368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7170 Birch Creek Circle",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354353051,
-    "wof:lastmodified":1449066390,
+    "wof:lastmodified":1466706018,
     "wof:name":"Bennetts Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"
     ]
 },
-  "bbox": [-115.131368,36.060628,-115.131368,36.060628],
-  "geometry": {"coordinates":[-115.131368,36.060628],"type":"Point"}
+  "bbox": [
+    -115.131368,
+    36.060628,
+    -115.131368,
+    36.060628
+],
+  "geometry": {"coordinates":[-115.13136799999999,36.060628],"type":"Point"}
 }

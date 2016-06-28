@@ -2,13 +2,14 @@
   "id": 354043259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185992,36.239299,-115.185992,36.239299",
     "geom:latitude":36.239299,
     "geom:longitude":-115.185992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 W Craig Road",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354043259,
-    "wof:lastmodified":1449067228,
+    "wof:lastmodified":1466702603,
     "wof:name":"Maligaya Asian Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.185992,36.239299,-115.185992,36.239299],
+  "bbox": [
+    -115.185992,
+    36.239299,
+    -115.185992,
+    36.239299
+],
   "geometry": {"coordinates":[-115.185992,36.239299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219752103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266572,36.100867,-115.266572,36.100867",
     "geom:latitude":36.100867,
     "geom:longitude":-115.266572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 Kinsella Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219752103,
-    "wof:lastmodified":1449070979,
+    "wof:lastmodified":1466704907,
     "wof:name":"El Paseo Homeowners",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.266572,36.100867,-115.266572,36.100867],
+  "bbox": [
+    -115.266572,
+    36.100867,
+    -115.266572,
+    36.100867
+],
   "geometry": {"coordinates":[-115.266572,36.100867],"type":"Point"}
 }

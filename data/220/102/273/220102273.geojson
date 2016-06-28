@@ -2,13 +2,14 @@
   "id": 220102273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194438,36.090501,-115.194438,36.090501",
     "geom:latitude":36.090501,
     "geom:longitude":-115.194438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5470 Wynn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220102273,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466702375,
     "wof:name":"Ameriban Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.194438,36.090501,-115.194438,36.090501],
-  "geometry": {"coordinates":[-115.194438,36.090501],"type":"Point"}
+  "bbox": [
+    -115.194438,
+    36.090501,
+    -115.194438,
+    36.090501
+],
+  "geometry": {"coordinates":[-115.19443800000001,36.090501],"type":"Point"}
 }

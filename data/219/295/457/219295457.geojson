@@ -2,13 +2,14 @@
   "id": 219295457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.82003,39.523458,-119.82003,39.523458",
     "geom:latitude":39.523458,
     "geom:longitude":-119.82003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"539 Riverside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219295457,
-    "wof:lastmodified":1449071821,
+    "wof:lastmodified":1466703038,
     "wof:name":"HI Tech Alloys Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-119.82003,39.523458,-119.82003,39.523458],
+  "bbox": [
+    -119.82003,
+    39.523458,
+    -119.82003,
+    39.523458
+],
   "geometry": {"coordinates":[-119.82003,39.523458],"type":"Point"}
 }

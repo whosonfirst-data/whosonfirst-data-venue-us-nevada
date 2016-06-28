@@ -2,13 +2,14 @@
   "id": 235992235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128656,35.972205,-115.128656,35.972205",
     "geom:latitude":35.972205,
     "geom:longitude":-115.128656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Dusty Canyon St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235992235,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466703716,
     "wof:name":"Hitatchi Electronic Devices",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.128656,35.972205,-115.128656,35.972205],
-  "geometry": {"coordinates":[-115.128656,35.972205],"type":"Point"}
+  "bbox": [
+    -115.128656,
+    35.972205,
+    -115.128656,
+    35.972205
+],
+  "geometry": {"coordinates":[-115.12865600000001,35.972205],"type":"Point"}
 }

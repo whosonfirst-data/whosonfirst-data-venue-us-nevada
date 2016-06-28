@@ -2,13 +2,14 @@
   "id": 354183895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144867,36.144173,-115.144867,36.144173",
     "geom:latitude":36.144173,
     "geom:longitude":-115.144867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354183895,
-    "wof:lastmodified":1449066852,
+    "wof:lastmodified":1466705023,
     "wof:name":"Practice Partners",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.144867,36.144173,-115.144867,36.144173],
+  "bbox": [
+    -115.144867,
+    36.144173,
+    -115.144867,
+    36.144173
+],
   "geometry": {"coordinates":[-115.144867,36.144173],"type":"Point"}
 }

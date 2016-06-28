@@ -2,13 +2,14 @@
   "id": 354008973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065533,36.055625,-115.065533,36.055625",
     "geom:latitude":36.055625,
     "geom:longitude":-115.065533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Mancini Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354008973,
-    "wof:lastmodified":1449066445,
+    "wof:lastmodified":1466701700,
     "wof:name":"Certified Appliance",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.065533,36.055625,-115.065533,36.055625],
+  "bbox": [
+    -115.065533,
+    36.055625,
+    -115.065533,
+    36.055625
+],
   "geometry": {"coordinates":[-115.065533,36.055625],"type":"Point"}
 }

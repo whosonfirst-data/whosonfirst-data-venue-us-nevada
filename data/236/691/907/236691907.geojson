@@ -2,13 +2,14 @@
   "id": 236691907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238229,36.015002,-115.238229,36.015002",
     "geom:latitude":36.015002,
     "geom:longitude":-115.238229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6625 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236691907,
-    "wof:lastmodified":1449001880,
+    "wof:lastmodified":1466706462,
     "wof:name":"Hershberger Bros Welding",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.238229,36.015002,-115.238229,36.015002],
+  "bbox": [
+    -115.238229,
+    36.015002,
+    -115.238229,
+    36.015002
+],
   "geometry": {"coordinates":[-115.238229,36.015002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219652747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.948048,39.240707,-119.948048,39.240707",
     "geom:latitude":39.240707,
     "geom:longitude":-119.948048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"967 Lakeshore Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219652747,
-    "wof:lastmodified":1449072659,
+    "wof:lastmodified":1466703863,
     "wof:name":"Action Water Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-119.948048,39.240707,-119.948048,39.240707],
+  "bbox": [
+    -119.948048,
+    39.240707,
+    -119.948048,
+    39.240707
+],
   "geometry": {"coordinates":[-119.948048,39.240707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236629769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218928,36.125652,-115.218928,36.125652",
     "geom:latitude":36.125652,
     "geom:longitude":-115.218928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5785 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236629769,
-    "wof:lastmodified":1449004315,
+    "wof:lastmodified":1466706247,
     "wof:name":"Gary D Toogood LTD",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.218928,36.125652,-115.218928,36.125652],
-  "geometry": {"coordinates":[-115.218928,36.125652],"type":"Point"}
+  "bbox": [
+    -115.218928,
+    36.125652,
+    -115.218928,
+    36.125652
+],
+  "geometry": {"coordinates":[-115.21892800000001,36.125652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203381051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.624675,38.522254,-118.624675,38.522254",
     "geom:latitude":38.522254,
     "geom:longitude":-118.624675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 E St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203381051,
-    "wof:lastmodified":1449025087,
+    "wof:lastmodified":1466703259,
     "wof:name":"Health & Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-118.624675,38.522254,-118.624675,38.522254],
+  "bbox": [
+    -118.624675,
+    38.522254,
+    -118.624675,
+    38.522254
+],
   "geometry": {"coordinates":[-118.624675,38.522254],"type":"Point"}
 }

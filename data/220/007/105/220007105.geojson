@@ -2,13 +2,14 @@
   "id": 220007105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.941165,36.173589,-115.941165,36.173589",
     "geom:latitude":36.173589,
     "geom:longitude":-115.941165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Malibou Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220007105,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466701497,
     "wof:name":"Nevada Legal Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "company"
     ]
 },
-  "bbox": [-115.941165,36.173589,-115.941165,36.173589],
+  "bbox": [
+    -115.941165,
+    36.173589,
+    -115.941165,
+    36.173589
+],
   "geometry": {"coordinates":[-115.941165,36.173589],"type":"Point"}
 }

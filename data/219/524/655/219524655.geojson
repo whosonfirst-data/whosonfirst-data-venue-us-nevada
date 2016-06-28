@@ -2,13 +2,14 @@
   "id": 219524655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.078799,36.195703,-115.078799,36.195703",
     "geom:latitude":36.195703,
     "geom:longitude":-115.078799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4388 E Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219524655,
-    "wof:lastmodified":1449070345,
+    "wof:lastmodified":1466701757,
     "wof:name":"JMA Pro Medical Billing Svc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-115.078799,36.195703,-115.078799,36.195703],
+  "bbox": [
+    -115.078799,
+    36.195703,
+    -115.078799,
+    36.195703
+],
   "geometry": {"coordinates":[-115.078799,36.195703],"type":"Point"}
 }

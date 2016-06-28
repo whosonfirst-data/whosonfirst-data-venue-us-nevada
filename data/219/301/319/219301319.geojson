@@ -2,13 +2,14 @@
   "id": 219301319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.962817,36.020087,-114.962817,36.020087",
     "geom:latitude":36.020087,
     "geom:longitude":-114.962817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 College Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219301319,
-    "wof:lastmodified":1449071299,
+    "wof:lastmodified":1466703094,
     "wof:name":"HDC Property Management",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-114.962817,36.020087,-114.962817,36.020087],
+  "bbox": [
+    -114.962817,
+    36.020087,
+    -114.962817,
+    36.020087
+],
   "geometry": {"coordinates":[-114.962817,36.020087],"type":"Point"}
 }

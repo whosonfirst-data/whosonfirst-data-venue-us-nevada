@@ -2,13 +2,14 @@
   "id": 354238565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169348,36.125551,-115.169348,36.125551",
     "geom:latitude":36.125551,
     "geom:longitude":-115.169348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354238565,
-    "wof:lastmodified":1449066554,
+    "wof:lastmodified":1466705414,
     "wof:name":"Arden B",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.169348,36.125551,-115.169348,36.125551],
+  "bbox": [
+    -115.169348,
+    36.125551,
+    -115.169348,
+    36.125551
+],
   "geometry": {"coordinates":[-115.169348,36.125551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219981685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146027,36.224812,-115.146027,36.224812",
     "geom:latitude":36.224812,
     "geom:longitude":-115.146027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Gowan Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219981685,
-    "wof:lastmodified":1449073993,
+    "wof:lastmodified":1466706107,
     "wof:name":"Republic Services Southern Nev",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-115.146027,36.224812,-115.146027,36.224812],
+  "bbox": [
+    -115.146027,
+    36.224812,
+    -115.146027,
+    36.224812
+],
   "geometry": {"coordinates":[-115.146027,36.224812],"type":"Point"}
 }

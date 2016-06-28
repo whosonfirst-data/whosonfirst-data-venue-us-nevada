@@ -2,13 +2,14 @@
   "id": 236151293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.029421,36.030575,-115.029421,36.030575",
     "geom:latitude":36.030575,
     "geom:longitude":-115.029421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 S Gibson Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236151293,
-    "wof:lastmodified":1449001705,
+    "wof:lastmodified":1466702594,
     "wof:name":"Las Vegas Golf Adventures",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "booking"
     ]
 },
-  "bbox": [-115.029421,36.030575,-115.029421,36.030575],
+  "bbox": [
+    -115.029421,
+    36.030575,
+    -115.029421,
+    36.030575
+],
   "geometry": {"coordinates":[-115.029421,36.030575],"type":"Point"}
 }

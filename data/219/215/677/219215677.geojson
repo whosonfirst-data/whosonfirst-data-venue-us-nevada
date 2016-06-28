@@ -2,13 +2,14 @@
   "id": 219215677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.720311,38.921211,-119.720311,38.921211",
     "geom:latitude":38.921211,
     "geom:longitude":-119.720311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Virginia Ranch Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219215677,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466702212,
     "wof:name":"Sierra Nevada ENT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.720311,38.921211,-119.720311,38.921211],
+  "bbox": [
+    -119.720311,
+    38.921211,
+    -119.720311,
+    38.921211
+],
   "geometry": {"coordinates":[-119.720311,38.921211],"type":"Point"}
 }

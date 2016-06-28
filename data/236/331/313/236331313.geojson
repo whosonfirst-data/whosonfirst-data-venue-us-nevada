@@ -2,13 +2,14 @@
   "id": 236331313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.959162,36.019228,-114.959162,36.019228",
     "geom:latitude":36.019228,
     "geom:longitude":-114.959162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236331313,
-    "wof:lastmodified":1449003695,
+    "wof:lastmodified":1466704800,
     "wof:name":"Howard W Cannon Aviation Msm",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.959162,36.019228,-114.959162,36.019228],
-  "geometry": {"coordinates":[-114.959162,36.019228],"type":"Point"}
+  "bbox": [
+    -114.959162,
+    36.019228,
+    -114.959162,
+    36.019228
+],
+  "geometry": {"coordinates":[-114.95916200000001,36.019228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219473761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137888,36.155851,-115.137888,36.155851",
     "geom:latitude":36.155851,
     "geom:longitude":-115.137888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Norman Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219473761,
-    "wof:lastmodified":1449071127,
+    "wof:lastmodified":1466704056,
     "wof:name":"Forever Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.137888,36.155851,-115.137888,36.155851],
+  "bbox": [
+    -115.137888,
+    36.155851,
+    -115.137888,
+    36.155851
+],
   "geometry": {"coordinates":[-115.137888,36.155851],"type":"Point"}
 }

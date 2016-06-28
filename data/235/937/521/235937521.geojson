@@ -2,13 +2,14 @@
   "id": 235937521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195255,36.155451,-115.195255,36.155451",
     "geom:latitude":36.155451,
     "geom:longitude":-115.195255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Hinson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235937521,
-    "wof:lastmodified":1449008326,
+    "wof:lastmodified":1466703462,
     "wof:name":"Specialty Finishing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.195255,36.155451,-115.195255,36.155451],
+  "bbox": [
+    -115.195255,
+    36.155451,
+    -115.195255,
+    36.155451
+],
   "geometry": {"coordinates":[-115.195255,36.155451],"type":"Point"}
 }

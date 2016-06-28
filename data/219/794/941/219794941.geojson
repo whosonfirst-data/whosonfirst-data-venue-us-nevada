@@ -2,13 +2,14 @@
   "id": 219794941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174456,36.231206,-115.174456,36.231206",
     "geom:latitude":36.231206,
     "geom:longitude":-115.174456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 Blairmoor St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219794941,
-    "wof:lastmodified":1449072086,
+    "wof:lastmodified":1466705043,
     "wof:name":"Lexies Daycare",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.174456,36.231206,-115.174456,36.231206],
-  "geometry": {"coordinates":[-115.174456,36.231206],"type":"Point"}
+  "bbox": [
+    -115.174456,
+    36.231206,
+    -115.174456,
+    36.231206
+],
+  "geometry": {"coordinates":[-115.17445600000001,36.231206],"type":"Point"}
 }

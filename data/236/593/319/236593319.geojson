@@ -2,13 +2,14 @@
   "id": 236593319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.851228,39.508294,-119.851228,39.508294",
     "geom:latitude":39.508294,
     "geom:longitude":-119.851228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3085 Rowland Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236593319,
-    "wof:lastmodified":1449003915,
+    "wof:lastmodified":1466706243,
     "wof:name":"Fielder Consulting",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.851228,39.508294,-119.851228,39.508294],
-  "geometry": {"coordinates":[-119.851228,39.508294],"type":"Point"}
+  "bbox": [
+    -119.851228,
+    39.508294,
+    -119.851228,
+    39.508294
+],
+  "geometry": {"coordinates":[-119.85122800000001,39.508294],"type":"Point"}
 }

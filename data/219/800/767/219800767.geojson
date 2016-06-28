@@ -2,13 +2,14 @@
   "id": 219800767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756073,39.522377,-119.756073,39.522377",
     "geom:latitude":39.522377,
     "geom:longitude":-119.756073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1056 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219800767,
-    "wof:lastmodified":1449070667,
+    "wof:lastmodified":1466705108,
     "wof:name":"Standard Bttries of Salt Lk Cy",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.756073,39.522377,-119.756073,39.522377],
+  "bbox": [
+    -119.756073,
+    39.522377,
+    -119.756073,
+    39.522377
+],
   "geometry": {"coordinates":[-119.756073,39.522377],"type":"Point"}
 }

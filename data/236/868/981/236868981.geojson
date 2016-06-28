@@ -2,13 +2,14 @@
   "id": 236868981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150101,36.161681,-115.150101,36.161681",
     "geom:latitude":36.161681,
     "geom:longitude":-115.150101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Casino Center Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236868981,
-    "wof:lastmodified":1449001793,
+    "wof:lastmodified":1466706651,
     "wof:name":"Express Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-115.150101,36.161681,-115.150101,36.161681],
-  "geometry": {"coordinates":[-115.150101,36.161681],"type":"Point"}
+  "bbox": [
+    -115.150101,
+    36.161681,
+    -115.150101,
+    36.161681
+],
+  "geometry": {"coordinates":[-115.15010100000001,36.161681],"type":"Point"}
 }

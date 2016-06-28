@@ -2,13 +2,14 @@
   "id": 370238635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24327,36.157698,-115.24327,36.157698",
     "geom:latitude":36.157698,
     "geom:longitude":-115.24327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":370238635,
-    "wof:lastmodified":1449030350,
+    "wof:lastmodified":1466703431,
     "wof:name":"Superpawn",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.24327,36.157698,-115.24327,36.157698],
+  "bbox": [
+    -115.24327,
+    36.157698,
+    -115.24327,
+    36.157698
+],
   "geometry": {"coordinates":[-115.24327,36.157698],"type":"Point"}
 }

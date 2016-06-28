@@ -2,13 +2,14 @@
   "id": 236673833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759252,39.537568,-119.759252,39.537568",
     "geom:latitude":39.537568,
     "geom:longitude":-119.759252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 13th St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236673833,
-    "wof:lastmodified":1449002829,
+    "wof:lastmodified":1466706588,
     "wof:name":"You Got Dean",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.759252,39.537568,-119.759252,39.537568],
+  "bbox": [
+    -119.759252,
+    39.537568,
+    -119.759252,
+    39.537568
+],
   "geometry": {"coordinates":[-119.759252,39.537568],"type":"Point"}
 }

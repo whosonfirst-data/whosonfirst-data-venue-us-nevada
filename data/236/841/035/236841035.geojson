@@ -2,13 +2,14 @@
   "id": 236841035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085903,36.096726,-115.085903,36.096726",
     "geom:latitude":36.096726,
     "geom:longitude":-115.085903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 E Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236841035,
-    "wof:lastmodified":1449002198,
+    "wof:lastmodified":1466706709,
     "wof:name":"Island Tyme Band",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-115.085903,36.096726,-115.085903,36.096726],
+  "bbox": [
+    -115.085903,
+    36.096726,
+    -115.085903,
+    36.096726
+],
   "geometry": {"coordinates":[-115.085903,36.096726],"type":"Point"}
 }

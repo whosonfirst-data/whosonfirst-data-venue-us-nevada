@@ -2,13 +2,14 @@
   "id": 370223059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296649,36.169805,-115.296649,36.169805",
     "geom:latitude":36.169805,
     "geom:longitude":-115.296649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9090 Alta Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":370223059,
-    "wof:lastmodified":1449029316,
+    "wof:lastmodified":1466703117,
     "wof:name":"Sun Coast Hotel and Casino",
     "wof:parent_id":85892627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.296649,36.169805,-115.296649,36.169805],
+  "bbox": [
+    -115.296649,
+    36.169805,
+    -115.296649,
+    36.169805
+],
   "geometry": {"coordinates":[-115.296649,36.169805],"type":"Point"}
 }

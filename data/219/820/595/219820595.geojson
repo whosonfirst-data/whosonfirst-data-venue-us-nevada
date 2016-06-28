@@ -2,13 +2,14 @@
   "id": 219820595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763847,39.479727,-119.763847,39.479727",
     "geom:latitude":39.479727,
     "geom:longitude":-119.763847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219820595,
-    "wof:lastmodified":1449072208,
+    "wof:lastmodified":1466705043,
     "wof:name":"Orowheat",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-119.763847,39.479727,-119.763847,39.479727],
+  "bbox": [
+    -119.763847,
+    39.479727,
+    -119.763847,
+    39.479727
+],
   "geometry": {"coordinates":[-119.763847,39.479727],"type":"Point"}
 }

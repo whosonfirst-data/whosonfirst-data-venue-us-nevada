@@ -2,13 +2,14 @@
   "id": 236408151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.018468,39.490321,-119.018468,39.490321",
     "geom:latitude":39.490321,
     "geom:longitude":-119.018468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13777 Carson Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236408151,
-    "wof:lastmodified":1449001982,
+    "wof:lastmodified":1466705398,
     "wof:name":"Lahontan Valley Meat Packing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.018468,39.490321,-119.018468,39.490321],
+  "bbox": [
+    -119.018468,
+    39.490321,
+    -119.018468,
+    39.490321
+],
   "geometry": {"coordinates":[-119.018468,39.490321],"type":"Point"}
 }

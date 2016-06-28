@@ -2,13 +2,14 @@
   "id": 219616123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209448,36.238702,-115.209448,36.238702",
     "geom:latitude":36.238702,
     "geom:longitude":-115.209448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4933 W Craig Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219616123,
-    "wof:lastmodified":1449072994,
+    "wof:lastmodified":1466703205,
     "wof:name":"Home Energy Rating Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-115.209448,36.238702,-115.209448,36.238702],
-  "geometry": {"coordinates":[-115.209448,36.238702],"type":"Point"}
+  "bbox": [
+    -115.209448,
+    36.238702,
+    -115.209448,
+    36.238702
+],
+  "geometry": {"coordinates":[-115.20944799999999,36.238702],"type":"Point"}
 }

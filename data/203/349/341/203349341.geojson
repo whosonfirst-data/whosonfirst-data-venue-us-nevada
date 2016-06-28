@@ -2,13 +2,14 @@
   "id": 203349341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798344,39.396697,-119.798344,39.396697",
     "geom:latitude":39.396697,
     "geom:longitude":-119.798344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14260 Black Eagle Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203349341,
-    "wof:lastmodified":1449025638,
+    "wof:lastmodified":1466703135,
     "wof:name":"Blackhart Association",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-119.798344,39.396697,-119.798344,39.396697],
+  "bbox": [
+    -119.798344,
+    39.396697,
+    -119.798344,
+    39.396697
+],
   "geometry": {"coordinates":[-119.798344,39.396697],"type":"Point"}
 }

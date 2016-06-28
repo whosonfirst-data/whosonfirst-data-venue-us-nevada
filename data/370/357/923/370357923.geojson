@@ -2,13 +2,14 @@
   "id": 370357923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749716,39.187575,-119.749716,39.187575",
     "geom:latitude":39.187575,
     "geom:longitude":-119.749716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3170 Research Way Ste 82",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370357923,
-    "wof:lastmodified":1449032062,
+    "wof:lastmodified":1466705077,
     "wof:name":"Sierra Jujitsu & Karate",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-119.749716,39.187575,-119.749716,39.187575],
-  "geometry": {"coordinates":[-119.749716,39.187575],"type":"Point"}
+  "bbox": [
+    -119.749716,
+    39.187575,
+    -119.749716,
+    39.187575
+],
+  "geometry": {"coordinates":[-119.74971600000001,39.187575],"type":"Point"}
 }

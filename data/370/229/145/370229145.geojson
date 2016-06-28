@@ -2,13 +2,14 @@
   "id": 370229145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221268,36.144207,-115.221268,36.144207",
     "geom:latitude":36.144207,
     "geom:longitude":-115.221268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5825 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370229145,
-    "wof:lastmodified":1449031796,
+    "wof:lastmodified":1466703243,
     "wof:name":"Cigar Lounge Epicure Group Intl",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.221268,36.144207,-115.221268,36.144207],
-  "geometry": {"coordinates":[-115.221268,36.144207],"type":"Point"}
+  "bbox": [
+    -115.221268,
+    36.144207,
+    -115.221268,
+    36.144207
+],
+  "geometry": {"coordinates":[-115.22126799999999,36.144207],"type":"Point"}
 }

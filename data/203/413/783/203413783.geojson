@@ -2,13 +2,14 @@
   "id": 203413783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.769263,40.840998,-115.769263,40.840998",
     "geom:latitude":40.840998,
     "geom:longitude":-115.769263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Walnut St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203413783,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466703381,
     "wof:name":"Northeastern Nv Health Edctn",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-115.769263,40.840998,-115.769263,40.840998],
+  "bbox": [
+    -115.769263,
+    40.840998,
+    -115.769263,
+    40.840998
+],
   "geometry": {"coordinates":[-115.769263,40.840998],"type":"Point"}
 }

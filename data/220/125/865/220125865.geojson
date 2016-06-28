@@ -2,13 +2,14 @@
   "id": 220125865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092973,36.048281,-115.092973,36.048281",
     "geom:latitude":36.048281,
     "geom:longitude":-115.092973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2363 Villandry Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220125865,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466702568,
     "wof:name":"Nevada Investment Properties",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-115.092973,36.048281,-115.092973,36.048281],
+  "bbox": [
+    -115.092973,
+    36.048281,
+    -115.092973,
+    36.048281
+],
   "geometry": {"coordinates":[-115.092973,36.048281],"type":"Point"}
 }

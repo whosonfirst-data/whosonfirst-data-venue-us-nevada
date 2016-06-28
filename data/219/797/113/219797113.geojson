@@ -2,13 +2,14 @@
   "id": 219797113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097628,36.118765,-115.097628,36.118765",
     "geom:latitude":36.118765,
     "geom:longitude":-115.097628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3583 E Viking Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219797113,
-    "wof:lastmodified":1449073571,
+    "wof:lastmodified":1466704942,
     "wof:name":"J & J Air",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.097628,36.118765,-115.097628,36.118765],
+  "bbox": [
+    -115.097628,
+    36.118765,
+    -115.097628,
+    36.118765
+],
   "geometry": {"coordinates":[-115.097628,36.118765],"type":"Point"}
 }

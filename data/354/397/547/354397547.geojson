@@ -2,13 +2,14 @@
   "id": 354397547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136093,36.027499,-115.136093,36.027499",
     "geom:latitude":36.027499,
     "geom:longitude":-115.136093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354397547,
-    "wof:lastmodified":1449066593,
+    "wof:lastmodified":1466706354,
     "wof:name":"Guyz & Dollz Salon",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.136093,36.027499,-115.136093,36.027499],
+  "bbox": [
+    -115.136093,
+    36.027499,
+    -115.136093,
+    36.027499
+],
   "geometry": {"coordinates":[-115.136093,36.027499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203396659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.877641,39.337133,-119.877641,39.337133",
     "geom:latitude":39.337133,
     "geom:longitude":-119.877641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Sky Tavern Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203396659,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466703317,
     "wof:name":"Project Discovery",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-119.877641,39.337133,-119.877641,39.337133],
+  "bbox": [
+    -119.877641,
+    39.337133,
+    -119.877641,
+    39.337133
+],
   "geometry": {"coordinates":[-119.877641,39.337133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236843219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26743,36.186064,-115.26743,36.186064",
     "geom:latitude":36.186064,
     "geom:longitude":-115.26743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Pinto Rock Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236843219,
-    "wof:lastmodified":1449001893,
+    "wof:lastmodified":1466706713,
     "wof:name":"Car Tunez",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-115.26743,36.186064,-115.26743,36.186064],
+  "bbox": [
+    -115.26743,
+    36.186064,
+    -115.26743,
+    36.186064
+],
   "geometry": {"coordinates":[-115.26743,36.186064],"type":"Point"}
 }

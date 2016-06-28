@@ -2,13 +2,14 @@
   "id": 219899545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266689,36.222447,-115.266689,36.222447",
     "geom:latitude":36.222447,
     "geom:longitude":-115.266689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Kapalua Bay Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219899545,
-    "wof:lastmodified":1449073732,
+    "wof:lastmodified":1466705523,
     "wof:name":"Rain 2 Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.266689,36.222447,-115.266689,36.222447],
+  "bbox": [
+    -115.266689,
+    36.222447,
+    -115.266689,
+    36.222447
+],
   "geometry": {"coordinates":[-115.266689,36.222447],"type":"Point"}
 }

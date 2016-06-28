@@ -2,13 +2,14 @@
   "id": 219557973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129362,36.158943,-115.129362,36.158943",
     "geom:latitude":36.158943,
     "geom:longitude":-115.129362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219557973,
-    "wof:lastmodified":1449072920,
+    "wof:lastmodified":1466702364,
     "wof:name":"Wortons Palmistry Studios",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-115.129362,36.158943,-115.129362,36.158943],
+  "bbox": [
+    -115.129362,
+    36.158943,
+    -115.129362,
+    36.158943
+],
   "geometry": {"coordinates":[-115.129362,36.158943],"type":"Point"}
 }

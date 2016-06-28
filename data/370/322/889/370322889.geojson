@@ -2,13 +2,14 @@
   "id": 370322889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.824478,39.524799,-119.824478,39.524799",
     "geom:latitude":39.524799,
     "geom:longitude":-119.824478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370322889,
-    "wof:lastmodified":1449029028,
+    "wof:lastmodified":1466704767,
     "wof:name":"Mastertech Automotive",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-119.824478,39.524799,-119.824478,39.524799],
+  "bbox": [
+    -119.824478,
+    39.524799,
+    -119.824478,
+    39.524799
+],
   "geometry": {"coordinates":[-119.824478,39.524799],"type":"Point"}
 }

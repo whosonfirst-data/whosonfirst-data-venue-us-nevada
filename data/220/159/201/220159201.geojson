@@ -2,13 +2,14 @@
   "id": 220159201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.871141,39.461513,-118.871141,39.461513",
     "geom:latitude":39.461513,
     "geom:longitude":-118.871141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Strasdin Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220159201,
-    "wof:lastmodified":1449074132,
+    "wof:lastmodified":1466702807,
     "wof:name":"Valley Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "harness"
     ]
 },
-  "bbox": [-118.871141,39.461513,-118.871141,39.461513],
-  "geometry": {"coordinates":[-118.871141,39.461513],"type":"Point"}
+  "bbox": [
+    -118.871141,
+    39.461513,
+    -118.871141,
+    39.461513
+],
+  "geometry": {"coordinates":[-118.87114099999999,39.461513],"type":"Point"}
 }

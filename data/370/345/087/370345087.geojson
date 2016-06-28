@@ -2,13 +2,14 @@
   "id": 370345087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.724998,39.177399,-119.724998,39.177399",
     "geom:latitude":39.177399,
     "geom:longitude":-119.724998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 N Edmonds Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370345087,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1466705013,
     "wof:name":"Carson Learning Centyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.724998,39.177399,-119.724998,39.177399],
+  "bbox": [
+    -119.724998,
+    39.177399,
+    -119.724998,
+    39.177399
+],
   "geometry": {"coordinates":[-119.724998,39.177399],"type":"Point"}
 }

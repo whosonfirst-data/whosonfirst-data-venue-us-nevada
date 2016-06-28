@@ -2,13 +2,14 @@
   "id": 236805315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.864526,39.342817,-119.864526,39.342817",
     "geom:latitude":39.342817,
     "geom:longitude":-119.864526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20007 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236805315,
-    "wof:lastmodified":1449002610,
+    "wof:lastmodified":1466706662,
     "wof:name":"Tannenbaum Event Ctr",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-119.864526,39.342817,-119.864526,39.342817],
+  "bbox": [
+    -119.864526,
+    39.342817,
+    -119.864526,
+    39.342817
+],
   "geometry": {"coordinates":[-119.864526,39.342817],"type":"Point"}
 }

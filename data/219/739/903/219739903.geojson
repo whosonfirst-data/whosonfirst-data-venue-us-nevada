@@ -2,13 +2,14 @@
   "id": 219739903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088561,36.122389,-115.088561,36.122389",
     "geom:latitude":36.122389,
     "geom:longitude":-115.088561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219739903,
-    "wof:lastmodified":1449071872,
+    "wof:lastmodified":1466704814,
     "wof:name":"First Class Golf",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "booking"
     ]
 },
-  "bbox": [-115.088561,36.122389,-115.088561,36.122389],
+  "bbox": [
+    -115.088561,
+    36.122389,
+    -115.088561,
+    36.122389
+],
   "geometry": {"coordinates":[-115.088561,36.122389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203403299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.026489,36.05942,-115.026489,36.05942",
     "geom:latitude":36.05942,
     "geom:longitude":-115.026489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Mirror",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203403299,
-    "wof:lastmodified":1449026594,
+    "wof:lastmodified":1466703333,
     "wof:name":"Phoenix Door Mfg Co LLC",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "gate"
     ]
 },
-  "bbox": [-115.026489,36.05942,-115.026489,36.05942],
+  "bbox": [
+    -115.026489,
+    36.05942,
+    -115.026489,
+    36.05942
+],
   "geometry": {"coordinates":[-115.026489,36.05942],"type":"Point"}
 }

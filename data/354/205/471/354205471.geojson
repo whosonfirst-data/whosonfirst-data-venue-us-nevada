@@ -2,13 +2,14 @@
   "id": 354205471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225148,36.171959,-115.225148,36.171959",
     "geom:latitude":36.171959,
     "geom:longitude":-115.225148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6130 Elton Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354205471,
-    "wof:lastmodified":1449066962,
+    "wof:lastmodified":1466704936,
     "wof:name":"Home Advantage Funding Group",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.225148,36.171959,-115.225148,36.171959],
+  "bbox": [
+    -115.225148,
+    36.171959,
+    -115.225148,
+    36.171959
+],
   "geometry": {"coordinates":[-115.225148,36.171959],"type":"Point"}
 }

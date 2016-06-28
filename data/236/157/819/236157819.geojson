@@ -2,13 +2,14 @@
   "id": 236157819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.772177,40.828959,-115.772177,40.828959",
     "geom:latitude":40.828959,
     "geom:longitude":-115.772177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Oak St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236157819,
-    "wof:lastmodified":1449004681,
+    "wof:lastmodified":1466702735,
     "wof:name":"Towne House Motel",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-115.772177,40.828959,-115.772177,40.828959],
+  "bbox": [
+    -115.772177,
+    40.828959,
+    -115.772177,
+    40.828959
+],
   "geometry": {"coordinates":[-115.772177,40.828959],"type":"Point"}
 }

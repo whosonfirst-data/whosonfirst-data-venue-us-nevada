@@ -2,13 +2,14 @@
   "id": 354280859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086998,36.193298,-115.086998,36.193298",
     "geom:latitude":36.193298,
     "geom:longitude":-115.086998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1788 N Gateway Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354280859,
-    "wof:lastmodified":1449066759,
+    "wof:lastmodified":1466705492,
     "wof:name":"Sue Zan Kennels",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sitting"
     ]
 },
-  "bbox": [-115.086998,36.193298,-115.086998,36.193298],
-  "geometry": {"coordinates":[-115.086998,36.193298],"type":"Point"}
+  "bbox": [
+    -115.086998,
+    36.193298,
+    -115.086998,
+    36.193298
+],
+  "geometry": {"coordinates":[-115.08699799999999,36.193298],"type":"Point"}
 }

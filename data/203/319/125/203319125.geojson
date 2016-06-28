@@ -2,13 +2,14 @@
   "id": 203319125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.32967,36.187738,-115.32967,36.187738",
     "geom:latitude":36.187738,
     "geom:longitude":-115.32967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Saintsbury Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203319125,
-    "wof:lastmodified":1449025693,
+    "wof:lastmodified":1466702963,
     "wof:name":"Elysium Enterprises Inc",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.32967,36.187738,-115.32967,36.187738],
-  "geometry": {"coordinates":[-115.32967,36.187738],"type":"Point"}
+  "bbox": [
+    -115.32967,
+    36.187738,
+    -115.32967,
+    36.187738
+],
+  "geometry": {"coordinates":[-115.32966999999999,36.187738],"type":"Point"}
 }

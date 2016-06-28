@@ -2,13 +2,14 @@
   "id": 370174175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.219099,36.226232,-115.219099,36.226232",
     "geom:latitude":36.226232,
     "geom:longitude":-115.219099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3670 N Rancho Dr Ste 107",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370174175,
-    "wof:lastmodified":1449029557,
+    "wof:lastmodified":1466702040,
     "wof:name":"Sacon Construction",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.219099,36.226232,-115.219099,36.226232],
+  "bbox": [
+    -115.219099,
+    36.226232,
+    -115.219099,
+    36.226232
+],
   "geometry": {"coordinates":[-115.219099,36.226232],"type":"Point"}
 }

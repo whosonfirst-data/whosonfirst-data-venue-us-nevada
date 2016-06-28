@@ -2,13 +2,14 @@
   "id": 203299395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.849007,35.977059,-114.849007,35.977059",
     "geom:latitude":35.977059,
     "geom:longitude":-114.849007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Canyon Rd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203299395,
-    "wof:lastmodified":1449025401,
+    "wof:lastmodified":1466702821,
     "wof:name":"Arc Rite Welding",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.849007,35.977059,-114.849007,35.977059],
+  "bbox": [
+    -114.849007,
+    35.977059,
+    -114.849007,
+    35.977059
+],
   "geometry": {"coordinates":[-114.849007,35.977059],"type":"Point"}
 }

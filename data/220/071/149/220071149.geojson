@@ -2,13 +2,14 @@
   "id": 220071149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096321,36.043418,-115.096321,36.043418",
     "geom:latitude":36.043418,
     "geom:longitude":-115.096321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Brockton Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220071149,
-    "wof:lastmodified":1449074550,
+    "wof:lastmodified":1466702209,
     "wof:name":"Las Vegas Ala Carte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.096321,36.043418,-115.096321,36.043418],
+  "bbox": [
+    -115.096321,
+    36.043418,
+    -115.096321,
+    36.043418
+],
   "geometry": {"coordinates":[-115.096321,36.043418],"type":"Point"}
 }

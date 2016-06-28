@@ -2,13 +2,14 @@
   "id": 236528305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.751735,40.847155,-115.751735,40.847155",
     "geom:latitude":40.847155,
     "geom:longitude":-115.751735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Country Club Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236528305,
-    "wof:lastmodified":1449002346,
+    "wof:lastmodified":1466705922,
     "wof:name":"Elko Alternative Education",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.751735,40.847155,-115.751735,40.847155],
+  "bbox": [
+    -115.751735,
+    40.847155,
+    -115.751735,
+    40.847155
+],
   "geometry": {"coordinates":[-115.751735,40.847155],"type":"Point"}
 }

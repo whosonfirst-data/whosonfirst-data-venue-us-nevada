@@ -2,13 +2,14 @@
   "id": 220010505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185598,36.168438,-115.185598,36.168438",
     "geom:latitude":36.168438,
     "geom:longitude":-115.185598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Skipworth Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220010505,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466701546,
     "wof:name":"Ernies Bar",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "operate"
     ]
 },
-  "bbox": [-115.185598,36.168438,-115.185598,36.168438],
+  "bbox": [
+    -115.185598,
+    36.168438,
+    -115.185598,
+    36.168438
+],
   "geometry": {"coordinates":[-115.185598,36.168438],"type":"Point"}
 }

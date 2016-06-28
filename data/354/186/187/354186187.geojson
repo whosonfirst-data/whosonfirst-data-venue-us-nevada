@@ -2,13 +2,14 @@
   "id": 354186187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171611,36.177307,-115.171611,36.177307",
     "geom:latitude":36.177307,
     "geom:longitude":-115.171611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354186187,
-    "wof:lastmodified":1449067266,
+    "wof:lastmodified":1466704808,
     "wof:name":"Kensington Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.171611,36.177307,-115.171611,36.177307],
+  "bbox": [
+    -115.171611,
+    36.177307,
+    -115.171611,
+    36.177307
+],
   "geometry": {"coordinates":[-115.171611,36.177307],"type":"Point"}
 }

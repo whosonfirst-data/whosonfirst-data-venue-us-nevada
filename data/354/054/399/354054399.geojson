@@ -2,13 +2,14 @@
   "id": 354054399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088181,36.027718,-115.088181,36.027718",
     "geom:latitude":36.027718,
     "geom:longitude":-115.088181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 Corporate Cir Ste 250",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354054399,
-    "wof:lastmodified":1449066724,
+    "wof:lastmodified":1466702889,
     "wof:name":"Debra Pizzolato - Keller Williams Realty",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.088181,36.027718,-115.088181,36.027718],
-  "geometry": {"coordinates":[-115.088181,36.027718],"type":"Point"}
+  "bbox": [
+    -115.088181,
+    36.027718,
+    -115.088181,
+    36.027718
+],
+  "geometry": {"coordinates":[-115.08818100000001,36.027718],"type":"Point"}
 }

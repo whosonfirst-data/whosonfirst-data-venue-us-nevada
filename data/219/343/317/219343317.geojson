@@ -2,13 +2,14 @@
   "id": 219343317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.777536,39.47214,-118.777536,39.47214",
     "geom:latitude":39.47214,
     "geom:longitude":-118.777536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 W Richards St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219343317,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466703365,
     "wof:name":"D & D Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.777536,39.47214,-118.777536,39.47214],
+  "bbox": [
+    -118.777536,
+    39.47214,
+    -118.777536,
+    39.47214
+],
   "geometry": {"coordinates":[-118.777536,39.47214],"type":"Point"}
 }

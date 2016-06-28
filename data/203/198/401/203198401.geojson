@@ -2,13 +2,14 @@
   "id": 203198401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.687297,39.611221,-119.687297,39.611221",
     "geom:latitude":39.611221,
     "geom:longitude":-119.687297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6590 N Wingfield Pkwy",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203198401,
-    "wof:lastmodified":1449025604,
+    "wof:lastmodified":1466702032,
     "wof:name":"Steakhouse At Redhawk",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.687297,39.611221,-119.687297,39.611221],
+  "bbox": [
+    -119.687297,
+    39.611221,
+    -119.687297,
+    39.611221
+],
   "geometry": {"coordinates":[-119.687297,39.611221],"type":"Point"}
 }

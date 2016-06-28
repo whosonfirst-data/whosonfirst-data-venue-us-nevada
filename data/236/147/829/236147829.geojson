@@ -2,13 +2,14 @@
   "id": 236147829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066239,36.110705,-115.066239,36.110705",
     "geom:latitude":36.110705,
     "geom:longitude":-115.066239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4888 Powell Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236147829,
-    "wof:lastmodified":1449004812,
+    "wof:lastmodified":1466702517,
     "wof:name":"Errands & More Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-115.066239,36.110705,-115.066239,36.110705],
+  "bbox": [
+    -115.066239,
+    36.110705,
+    -115.066239,
+    36.110705
+],
   "geometry": {"coordinates":[-115.066239,36.110705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236140997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.331627,36.178431,-115.331627,36.178431",
     "geom:latitude":36.178431,
     "geom:longitude":-115.331627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Bloomingdale Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236140997,
-    "wof:lastmodified":1449002033,
+    "wof:lastmodified":1466702360,
     "wof:name":"Integral Matrix Consulting LLC",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-115.331627,36.178431,-115.331627,36.178431],
+  "bbox": [
+    -115.331627,
+    36.178431,
+    -115.331627,
+    36.178431
+],
   "geometry": {"coordinates":[-115.331627,36.178431],"type":"Point"}
 }

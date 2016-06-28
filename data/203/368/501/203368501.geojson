@@ -2,13 +2,14 @@
   "id": 203368501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194432,36.08762,-115.194432,36.08762",
     "geom:latitude":36.08762,
     "geom:longitude":-115.194432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5670 Wynn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203368501,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466703215,
     "wof:name":"Matrix Visual Solutions",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.194432,36.08762,-115.194432,36.08762],
-  "geometry": {"coordinates":[-115.194432,36.08762],"type":"Point"}
+  "bbox": [
+    -115.194432,
+    36.08762,
+    -115.194432,
+    36.08762
+],
+  "geometry": {"coordinates":[-115.19443200000001,36.08762],"type":"Point"}
 }

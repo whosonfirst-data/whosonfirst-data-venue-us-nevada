@@ -2,13 +2,14 @@
   "id": 219936081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762284,39.490922,-119.762284,39.490922",
     "geom:latitude":39.490922,
     "geom:longitude":-119.762284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4649 Aircenter Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219936081,
-    "wof:lastmodified":1449071573,
+    "wof:lastmodified":1466705819,
     "wof:name":"Milbank Manufacturing Co",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "electric"
     ]
 },
-  "bbox": [-119.762284,39.490922,-119.762284,39.490922],
-  "geometry": {"coordinates":[-119.762284,39.490922],"type":"Point"}
+  "bbox": [
+    -119.762284,
+    39.490922,
+    -119.762284,
+    39.490922
+],
+  "geometry": {"coordinates":[-119.76228399999999,39.490922],"type":"Point"}
 }

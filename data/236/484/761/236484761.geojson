@@ -2,13 +2,14 @@
   "id": 236484761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297006,36.156295,-115.297006,36.156295",
     "geom:latitude":36.156295,
     "geom:longitude":-115.297006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Sun Copper Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236484761,
-    "wof:lastmodified":1449005023,
+    "wof:lastmodified":1466705859,
     "wof:name":"Carrara Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-115.297006,36.156295,-115.297006,36.156295],
+  "bbox": [
+    -115.297006,
+    36.156295,
+    -115.297006,
+    36.156295
+],
   "geometry": {"coordinates":[-115.297006,36.156295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236373295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.0794,36.232778,-115.0794,36.232778",
     "geom:latitude":36.232778,
     "geom:longitude":-115.0794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4352 E Alexander Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236373295,
-    "wof:lastmodified":1449003342,
+    "wof:lastmodified":1466705189,
     "wof:name":"Metal Works",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-115.0794,36.232778,-115.0794,36.232778],
-  "geometry": {"coordinates":[-115.0794,36.232778],"type":"Point"}
+  "bbox": [
+    -115.0794,
+    36.232778,
+    -115.0794,
+    36.232778
+],
+  "geometry": {"coordinates":[-115.07940000000001,36.232778],"type":"Point"}
 }

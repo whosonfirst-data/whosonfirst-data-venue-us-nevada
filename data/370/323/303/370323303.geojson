@@ -2,13 +2,14 @@
   "id": 370323303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838368,39.684105,-119.838368,39.684105",
     "geom:latitude":39.684105,
     "geom:longitude":-119.838368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11705 Deodar Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370323303,
-    "wof:lastmodified":1449029377,
+    "wof:lastmodified":1466704770,
     "wof:name":"Unstables",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "horse-boarding"
     ]
 },
-  "bbox": [-119.838368,39.684105,-119.838368,39.684105],
+  "bbox": [
+    -119.838368,
+    39.684105,
+    -119.838368,
+    39.684105
+],
   "geometry": {"coordinates":[-119.838368,39.684105],"type":"Point"}
 }

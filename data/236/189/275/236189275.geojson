@@ -2,13 +2,14 @@
   "id": 236189275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735667,38.93743,-119.735667,38.93743",
     "geom:latitude":38.93743,
     "geom:longitude":-119.735667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1359 Toiyabe Ave",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236189275,
-    "wof:lastmodified":1449004084,
+    "wof:lastmodified":1466703356,
     "wof:name":"Rype Gear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-119.735667,38.93743,-119.735667,38.93743],
-  "geometry": {"coordinates":[-119.735667,38.93743],"type":"Point"}
+  "bbox": [
+    -119.735667,
+    38.93743,
+    -119.735667,
+    38.93743
+],
+  "geometry": {"coordinates":[-119.73566700000001,38.93743],"type":"Point"}
 }

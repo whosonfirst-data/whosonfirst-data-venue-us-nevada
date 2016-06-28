@@ -2,13 +2,14 @@
   "id": 236931727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089223,36.16221,-115.089223,36.16221",
     "geom:latitude":36.16221,
     "geom:longitude":-115.089223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 Sunrise Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236931727,
-    "wof:lastmodified":1449004894,
+    "wof:lastmodified":1466706735,
     "wof:name":"Las Vegas Golf Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cart"
     ]
 },
-  "bbox": [-115.089223,36.16221,-115.089223,36.16221],
+  "bbox": [
+    -115.089223,
+    36.16221,
+    -115.089223,
+    36.16221
+],
   "geometry": {"coordinates":[-115.089223,36.16221],"type":"Point"}
 }

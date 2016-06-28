@@ -2,13 +2,14 @@
   "id": 370169641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.329689,36.222028,-115.329689,36.222028",
     "geom:latitude":36.222028,
     "geom:longitude":-115.329689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3390 Novat St Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370169641,
-    "wof:lastmodified":1449031177,
+    "wof:lastmodified":1466701974,
     "wof:name":"Vit's Pizza",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-115.329689,36.222028,-115.329689,36.222028],
+  "bbox": [
+    -115.329689,
+    36.222028,
+    -115.329689,
+    36.222028
+],
   "geometry": {"coordinates":[-115.329689,36.222028],"type":"Point"}
 }

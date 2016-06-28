@@ -2,13 +2,14 @@
   "id": 219635323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.95291,36.047628,-114.95291,36.047628",
     "geom:latitude":36.047628,
     "geom:longitude":-114.95291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Long Shadow Ter",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219635323,
-    "wof:lastmodified":1449071914,
+    "wof:lastmodified":1466703553,
     "wof:name":"Verns Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-114.95291,36.047628,-114.95291,36.047628],
+  "bbox": [
+    -114.95291,
+    36.047628,
+    -114.95291,
+    36.047628
+],
   "geometry": {"coordinates":[-114.95291,36.047628],"type":"Point"}
 }

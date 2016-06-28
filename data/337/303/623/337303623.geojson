@@ -2,13 +2,14 @@
   "id": 337303623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280049,36.313122,-115.280049,36.313122",
     "geom:latitude":36.313122,
     "geom:longitude":-115.280049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8452 Brody Marsh Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337303623,
-    "wof:lastmodified":1449026939,
+    "wof:lastmodified":1466701816,
     "wof:name":"Las Vegas Telecom LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "system"
     ]
 },
-  "bbox": [-115.280049,36.313122,-115.280049,36.313122],
-  "geometry": {"coordinates":[-115.280049,36.313122],"type":"Point"}
+  "bbox": [
+    -115.280049,
+    36.313122,
+    -115.280049,
+    36.313122
+],
+  "geometry": {"coordinates":[-115.28004900000001,36.313122],"type":"Point"}
 }

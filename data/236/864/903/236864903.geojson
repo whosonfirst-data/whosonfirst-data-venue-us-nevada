@@ -2,13 +2,14 @@
   "id": 236864903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.443342,36.539681,-114.443342,36.539681",
     "geom:latitude":36.539681,
     "geom:longitude":-114.443342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 S Moapa Valley Blvd",
     "sg:city":"Overton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236864903,
-    "wof:lastmodified":1449005298,
+    "wof:lastmodified":1466706867,
     "wof:name":"Valley Herbs & Health LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-114.443342,36.539681,-114.443342,36.539681],
+  "bbox": [
+    -114.443342,
+    36.539681,
+    -114.443342,
+    36.539681
+],
   "geometry": {"coordinates":[-114.443342,36.539681],"type":"Point"}
 }

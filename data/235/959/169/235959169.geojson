@@ -2,13 +2,14 @@
   "id": 235959169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.730897,39.540815,-119.730897,39.540815",
     "geom:latitude":39.540815,
     "geom:longitude":-119.730897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Howard Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235959169,
-    "wof:lastmodified":1449008578,
+    "wof:lastmodified":1466703572,
     "wof:name":"Marina Gardens",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.730897,39.540815,-119.730897,39.540815],
+  "bbox": [
+    -119.730897,
+    39.540815,
+    -119.730897,
+    39.540815
+],
   "geometry": {"coordinates":[-119.730897,39.540815],"type":"Point"}
 }

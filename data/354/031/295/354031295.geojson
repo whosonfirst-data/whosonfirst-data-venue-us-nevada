@@ -2,13 +2,14 @@
   "id": 354031295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114176,36.226339,-115.114176,36.226339",
     "geom:latitude":36.226339,
     "geom:longitude":-115.114176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Branson Ave Suite A",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354031295,
-    "wof:lastmodified":1449066546,
+    "wof:lastmodified":1466702313,
     "wof:name":"Nationwide Outdoor",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-115.114176,36.226339,-115.114176,36.226339],
+  "bbox": [
+    -115.114176,
+    36.226339,
+    -115.114176,
+    36.226339
+],
   "geometry": {"coordinates":[-115.114176,36.226339],"type":"Point"}
 }

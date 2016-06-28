@@ -2,13 +2,14 @@
   "id": 236427421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.857743,39.516013,-119.857743,39.516013",
     "geom:latitude":39.516013,
     "geom:longitude":-119.857743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Twin Lakes Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236427421,
-    "wof:lastmodified":1449002474,
+    "wof:lastmodified":1466705360,
     "wof:name":"All Seasons Lawn",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.857743,39.516013,-119.857743,39.516013],
+  "bbox": [
+    -119.857743,
+    39.516013,
+    -119.857743,
+    39.516013
+],
   "geometry": {"coordinates":[-119.857743,39.516013],"type":"Point"}
 }

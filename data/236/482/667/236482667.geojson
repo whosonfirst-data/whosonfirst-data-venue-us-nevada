@@ -2,13 +2,14 @@
   "id": 236482667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113893,36.159427,-115.113893,36.159427",
     "geom:latitude":36.159427,
     "geom:longitude":-115.113893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Meadows Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236482667,
-    "wof:lastmodified":1449002691,
+    "wof:lastmodified":1466705727,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-115.113893,36.159427,-115.113893,36.159427],
+  "bbox": [
+    -115.113893,
+    36.159427,
+    -115.113893,
+    36.159427
+],
   "geometry": {"coordinates":[-115.113893,36.159427],"type":"Point"}
 }

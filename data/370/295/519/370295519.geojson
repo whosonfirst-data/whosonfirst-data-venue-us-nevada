@@ -2,13 +2,14 @@
   "id": 370295519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137088,36.126917,-115.137088,36.126917",
     "geom:latitude":36.126917,
     "geom:longitude":-115.137088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3453 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370295519,
-    "wof:lastmodified":1449030463,
+    "wof:lastmodified":1466704388,
     "wof:name":"Las Vegas Auto Body",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-115.137088,36.126917,-115.137088,36.126917],
-  "geometry": {"coordinates":[-115.137088,36.126917],"type":"Point"}
+  "bbox": [
+    -115.137088,
+    36.126917,
+    -115.137088,
+    36.126917
+],
+  "geometry": {"coordinates":[-115.13708800000001,36.126917],"type":"Point"}
 }

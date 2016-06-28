@@ -2,13 +2,14 @@
   "id": 236139173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208473,35.994433,-115.208473,35.994433",
     "geom:latitude":35.994433,
     "geom:longitude":-115.208473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4972 Kaibab Forest Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236139173,
-    "wof:lastmodified":1449001907,
+    "wof:lastmodified":1466702318,
     "wof:name":"Shadow Images Art & Design",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.208473,35.994433,-115.208473,35.994433],
+  "bbox": [
+    -115.208473,
+    35.994433,
+    -115.208473,
+    35.994433
+],
   "geometry": {"coordinates":[-115.208473,35.994433],"type":"Point"}
 }

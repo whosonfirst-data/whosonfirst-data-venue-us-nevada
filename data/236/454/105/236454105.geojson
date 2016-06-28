@@ -2,13 +2,14 @@
   "id": 236454105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100753,36.071626,-115.100753,36.071626",
     "geom:latitude":36.071626,
     "geom:longitude":-115.100753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6316 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236454105,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466705613,
     "wof:name":"Norwalk The Furniture Idea",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-115.100753,36.071626,-115.100753,36.071626],
+  "bbox": [
+    -115.100753,
+    36.071626,
+    -115.100753,
+    36.071626
+],
   "geometry": {"coordinates":[-115.100753,36.071626],"type":"Point"}
 }

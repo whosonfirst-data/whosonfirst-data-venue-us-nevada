@@ -2,13 +2,14 @@
   "id": 236044417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121776,35.988506,-115.121776,35.988506",
     "geom:latitude":35.988506,
     "geom:longitude":-115.121776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3091 Quail Crest Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236044417,
-    "wof:lastmodified":1449003354,
+    "wof:lastmodified":1466703943,
     "wof:name":"Sterling Touch",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concierge"
     ]
 },
-  "bbox": [-115.121776,35.988506,-115.121776,35.988506],
+  "bbox": [
+    -115.121776,
+    35.988506,
+    -115.121776,
+    35.988506
+],
   "geometry": {"coordinates":[-115.121776,35.988506],"type":"Point"}
 }

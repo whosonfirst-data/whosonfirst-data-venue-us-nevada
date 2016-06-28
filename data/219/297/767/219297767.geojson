@@ -2,13 +2,14 @@
   "id": 219297767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.038076,36.101966,-115.038076,36.101966",
     "geom:latitude":36.101966,
     "geom:longitude":-115.038076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4785 Canna Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219297767,
-    "wof:lastmodified":1449072625,
+    "wof:lastmodified":1466703061,
     "wof:name":"Misty Mountain Co",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.038076,36.101966,-115.038076,36.101966],
+  "bbox": [
+    -115.038076,
+    36.101966,
+    -115.038076,
+    36.101966
+],
   "geometry": {"coordinates":[-115.038076,36.101966],"type":"Point"}
 }

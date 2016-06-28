@@ -2,13 +2,14 @@
   "id": 236201105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.824348,39.472328,-118.824348,39.472328",
     "geom:latitude":39.472328,
     "geom:longitude":-118.824348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3334 Bottom Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236201105,
-    "wof:lastmodified":1449004714,
+    "wof:lastmodified":1466703592,
     "wof:name":"United Dughters of Confederacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.824348,39.472328,-118.824348,39.472328],
+  "bbox": [
+    -118.824348,
+    39.472328,
+    -118.824348,
+    39.472328
+],
   "geometry": {"coordinates":[-118.824348,39.472328],"type":"Point"}
 }

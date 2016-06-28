@@ -2,13 +2,14 @@
   "id": 236404859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.837901,35.982439,-114.837901,35.982439",
     "geom:latitude":35.982439,
     "geom:longitude":-114.837901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Alpine Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236404859,
-    "wof:lastmodified":1449003923,
+    "wof:lastmodified":1466705387,
     "wof:name":"First & 10 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-114.837901,35.982439,-114.837901,35.982439],
+  "bbox": [
+    -114.837901,
+    35.982439,
+    -114.837901,
+    35.982439
+],
   "geometry": {"coordinates":[-114.837901,35.982439],"type":"Point"}
 }

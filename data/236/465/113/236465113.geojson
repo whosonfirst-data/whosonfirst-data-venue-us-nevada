@@ -2,13 +2,14 @@
   "id": 236465113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.033766,36.15494,-115.033766,36.15494",
     "geom:latitude":36.15494,
     "geom:longitude":-115.033766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6341 Wild Strawberry Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236465113,
-    "wof:lastmodified":1449003950,
+    "wof:lastmodified":1466705649,
     "wof:name":"Open Field",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-115.033766,36.15494,-115.033766,36.15494],
+  "bbox": [
+    -115.033766,
+    36.15494,
+    -115.033766,
+    36.15494
+],
   "geometry": {"coordinates":[-115.033766,36.15494],"type":"Point"}
 }

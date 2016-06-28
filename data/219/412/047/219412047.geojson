@@ -2,13 +2,14 @@
   "id": 219412047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195687,36.073655,-115.195687,36.073655",
     "geom:latitude":36.073655,
     "geom:longitude":-115.195687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 W Teco Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219412047,
-    "wof:lastmodified":1449071115,
+    "wof:lastmodified":1466703692,
     "wof:name":"Montroy Supply Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.195687,36.073655,-115.195687,36.073655],
-  "geometry": {"coordinates":[-115.195687,36.073655],"type":"Point"}
+  "bbox": [
+    -115.195687,
+    36.073655,
+    -115.195687,
+    36.073655
+],
+  "geometry": {"coordinates":[-115.19568700000001,36.073655],"type":"Point"}
 }

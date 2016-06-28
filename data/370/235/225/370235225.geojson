@@ -2,13 +2,14 @@
   "id": 370235225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233369,36.125638,-115.233369,36.125638",
     "geom:latitude":36.125638,
     "geom:longitude":-115.233369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6480 Spring Mountain Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370235225,
-    "wof:lastmodified":1449029673,
+    "wof:lastmodified":1466703362,
     "wof:name":"Tham Foeng R DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.233369,36.125638,-115.233369,36.125638],
+  "bbox": [
+    -115.233369,
+    36.125638,
+    -115.233369,
+    36.125638
+],
   "geometry": {"coordinates":[-115.233369,36.125638],"type":"Point"}
 }

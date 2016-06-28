@@ -2,13 +2,14 @@
   "id": 354010991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06577,36.05036,-115.06577,36.05036",
     "geom:latitude":36.05036,
     "geom:longitude":-115.06577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Fuente Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354010991,
-    "wof:lastmodified":1449067008,
+    "wof:lastmodified":1466701760,
     "wof:name":"Taffer Computers",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "web"
     ]
 },
-  "bbox": [-115.06577,36.05036,-115.06577,36.05036],
+  "bbox": [
+    -115.06577,
+    36.05036,
+    -115.06577,
+    36.05036
+],
   "geometry": {"coordinates":[-115.06577,36.05036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236957779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154192,36.159976,-115.154192,36.159976",
     "geom:latitude":36.159976,
     "geom:longitude":-115.154192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Commerce St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236957779,
-    "wof:lastmodified":1449004653,
+    "wof:lastmodified":1466706941,
     "wof:name":"Cartridge Recyclers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "system"
     ]
 },
-  "bbox": [-115.154192,36.159976,-115.154192,36.159976],
-  "geometry": {"coordinates":[-115.154192,36.159976],"type":"Point"}
+  "bbox": [
+    -115.154192,
+    36.159976,
+    -115.154192,
+    36.159976
+],
+  "geometry": {"coordinates":[-115.15419199999999,36.159976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219436705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191662,36.08442,-115.191662,36.08442",
     "geom:latitude":36.08442,
     "geom:longitude":-115.191662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3995 W Quail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219436705,
-    "wof:lastmodified":1449073583,
+    "wof:lastmodified":1466703814,
     "wof:name":"Gulli Devlopment Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.191662,36.08442,-115.191662,36.08442],
-  "geometry": {"coordinates":[-115.191662,36.08442],"type":"Point"}
+  "bbox": [
+    -115.191662,
+    36.08442,
+    -115.191662,
+    36.08442
+],
+  "geometry": {"coordinates":[-115.19166199999999,36.08442],"type":"Point"}
 }

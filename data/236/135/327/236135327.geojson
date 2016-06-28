@@ -2,13 +2,14 @@
   "id": 236135327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801329,39.491308,-119.801329,39.491308",
     "geom:latitude":39.491308,
     "geom:longitude":-119.801329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 W Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236135327,
-    "wof:lastmodified":1449002815,
+    "wof:lastmodified":1466702236,
     "wof:name":"Moana Lane Optometric",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.801329,39.491308,-119.801329,39.491308],
+  "bbox": [
+    -119.801329,
+    39.491308,
+    -119.801329,
+    39.491308
+],
   "geometry": {"coordinates":[-119.801329,39.491308],"type":"Point"}
 }

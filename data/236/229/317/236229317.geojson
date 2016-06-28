@@ -2,13 +2,14 @@
   "id": 236229317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769061,39.137523,-119.769061,39.137523",
     "geom:latitude":39.137523,
     "geom:longitude":-119.769061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3129 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236229317,
-    "wof:lastmodified":1449004444,
+    "wof:lastmodified":1466704166,
     "wof:name":"Cable Alternative",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-119.769061,39.137523,-119.769061,39.137523],
-  "geometry": {"coordinates":[-119.769061,39.137523],"type":"Point"}
+  "bbox": [
+    -119.769061,
+    39.137523,
+    -119.769061,
+    39.137523
+],
+  "geometry": {"coordinates":[-119.76906099999999,39.137523],"type":"Point"}
 }

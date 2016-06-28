@@ -2,13 +2,14 @@
   "id": 203159721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.0694,36.817636,-114.0694,36.817636",
     "geom:latitude":36.817636,
     "geom:longitude":-114.0694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 W Pioneer Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203159721,
-    "wof:lastmodified":1449025178,
+    "wof:lastmodified":1466701623,
     "wof:name":"Sentra Securities Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-114.0694,36.817636,-114.0694,36.817636],
+  "bbox": [
+    -114.0694,
+    36.817636,
+    -114.0694,
+    36.817636
+],
   "geometry": {"coordinates":[-114.0694,36.817636],"type":"Point"}
 }

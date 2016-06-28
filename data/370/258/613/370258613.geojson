@@ -2,13 +2,14 @@
   "id": 370258613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308238,36.105131,-115.308238,36.105131",
     "geom:latitude":36.105131,
     "geom:longitude":-115.308238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9889 Ashton Pines Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370258613,
-    "wof:lastmodified":1449031788,
+    "wof:lastmodified":1466703887,
     "wof:name":"Barzaga Trucking",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "installation"
     ]
 },
-  "bbox": [-115.308238,36.105131,-115.308238,36.105131],
+  "bbox": [
+    -115.308238,
+    36.105131,
+    -115.308238,
+    36.105131
+],
   "geometry": {"coordinates":[-115.308238,36.105131],"type":"Point"}
 }

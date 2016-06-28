@@ -2,13 +2,14 @@
   "id": 219346915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191629,36.188425,-115.191629,36.188425",
     "geom:latitude":36.188425,
     "geom:longitude":-115.191629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219346915,
-    "wof:lastmodified":1449070362,
+    "wof:lastmodified":1466703384,
     "wof:name":"Jack Wall Insurance",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.191629,36.188425,-115.191629,36.188425],
-  "geometry": {"coordinates":[-115.191629,36.188425],"type":"Point"}
+  "bbox": [
+    -115.191629,
+    36.188425,
+    -115.191629,
+    36.188425
+],
+  "geometry": {"coordinates":[-115.19162900000001,36.188425],"type":"Point"}
 }

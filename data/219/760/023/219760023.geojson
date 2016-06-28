@@ -2,13 +2,14 @@
   "id": 219760023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763493,39.591562,-119.763493,39.591562",
     "geom:latitude":39.591562,
     "geom:longitude":-119.763493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Glenmyra Cir",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219760023,
-    "wof:lastmodified":1449073783,
+    "wof:lastmodified":1466704960,
     "wof:name":"Delta Tree Service",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tree"
     ]
 },
-  "bbox": [-119.763493,39.591562,-119.763493,39.591562],
+  "bbox": [
+    -119.763493,
+    39.591562,
+    -119.763493,
+    39.591562
+],
   "geometry": {"coordinates":[-119.763493,39.591562],"type":"Point"}
 }

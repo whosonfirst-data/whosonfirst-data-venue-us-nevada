@@ -2,13 +2,14 @@
   "id": 354151175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207523,36.123593,-115.207523,36.123593",
     "geom:latitude":36.123593,
     "geom:longitude":-115.207523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 S Decatur Blvd Ste 26",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354151175,
-    "wof:lastmodified":1449065945,
+    "wof:lastmodified":1466704809,
     "wof:name":"Milano's Pizza",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.207523,36.123593,-115.207523,36.123593],
-  "geometry": {"coordinates":[-115.207523,36.123593],"type":"Point"}
+  "bbox": [
+    -115.207523,
+    36.123593,
+    -115.207523,
+    36.123593
+],
+  "geometry": {"coordinates":[-115.20752299999999,36.123593],"type":"Point"}
 }

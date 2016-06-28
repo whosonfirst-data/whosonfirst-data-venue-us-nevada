@@ -2,13 +2,14 @@
   "id": 219204899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.776853,40.827738,-115.776853,40.827738",
     "geom:latitude":40.827738,
     "geom:longitude":-115.776853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Mountain City Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219204899,
-    "wof:lastmodified":1449074037,
+    "wof:lastmodified":1466702108,
     "wof:name":"Elko Truck Repair",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-115.776853,40.827738,-115.776853,40.827738],
+  "bbox": [
+    -115.776853,
+    40.827738,
+    -115.776853,
+    40.827738
+],
   "geometry": {"coordinates":[-115.776853,40.827738],"type":"Point"}
 }

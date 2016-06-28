@@ -2,13 +2,14 @@
   "id": 235976069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763526,39.58918,-119.763526,39.58918",
     "geom:latitude":39.58918,
     "geom:longitude":-119.763526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 Torobie Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235976069,
-    "wof:lastmodified":1449008394,
+    "wof:lastmodified":1466703633,
     "wof:name":"M S Leather Products",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.763526,39.58918,-119.763526,39.58918],
+  "bbox": [
+    -119.763526,
+    39.58918,
+    -119.763526,
+    39.58918
+],
   "geometry": {"coordinates":[-119.763526,39.58918],"type":"Point"}
 }

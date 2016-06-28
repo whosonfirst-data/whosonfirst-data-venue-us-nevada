@@ -2,13 +2,14 @@
   "id": 236678449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049743,36.070947,-115.049743,36.070947",
     "geom:latitude":36.070947,
     "geom:longitude":-115.049743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1484 Powder Horn",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236678449,
-    "wof:lastmodified":1449003202,
+    "wof:lastmodified":1466706434,
     "wof:name":"Nevada Marine Electronics",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.049743,36.070947,-115.049743,36.070947],
-  "geometry": {"coordinates":[-115.049743,36.070947],"type":"Point"}
+  "bbox": [
+    -115.049743,
+    36.070947,
+    -115.049743,
+    36.070947
+],
+  "geometry": {"coordinates":[-115.04974300000001,36.070947],"type":"Point"}
 }

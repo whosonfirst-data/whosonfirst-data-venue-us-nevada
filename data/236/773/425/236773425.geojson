@@ -2,13 +2,14 @@
   "id": 236773425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809483,39.481053,-119.809483,39.481053",
     "geom:latitude":39.481053,
     "geom:longitude":-119.809483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4665 Lakewood Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236773425,
-    "wof:lastmodified":1449001991,
+    "wof:lastmodified":1466706609,
     "wof:name":"Luciano Engineering Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.809483,39.481053,-119.809483,39.481053],
+  "bbox": [
+    -119.809483,
+    39.481053,
+    -119.809483,
+    39.481053
+],
   "geometry": {"coordinates":[-119.809483,39.481053],"type":"Point"}
 }

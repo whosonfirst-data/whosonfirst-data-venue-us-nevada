@@ -2,13 +2,14 @@
   "id": 219356567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092819,36.078647,-115.092819,36.078647",
     "geom:latitude":36.078647,
     "geom:longitude":-115.092819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219356567,
-    "wof:lastmodified":1449073302,
+    "wof:lastmodified":1466703431,
     "wof:name":"Door Pro",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-115.092819,36.078647,-115.092819,36.078647],
-  "geometry": {"coordinates":[-115.092819,36.078647],"type":"Point"}
+  "bbox": [
+    -115.092819,
+    36.078647,
+    -115.092819,
+    36.078647
+],
+  "geometry": {"coordinates":[-115.09281900000001,36.078647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203306279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244124,36.163179,-115.244124,36.163179",
     "geom:latitude":36.163179,
     "geom:longitude":-115.244124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203306279,
-    "wof:lastmodified":1449026783,
+    "wof:lastmodified":1466702894,
     "wof:name":"Reba Labat Agency",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.244124,36.163179,-115.244124,36.163179],
+  "bbox": [
+    -115.244124,
+    36.163179,
+    -115.244124,
+    36.163179
+],
   "geometry": {"coordinates":[-115.244124,36.163179],"type":"Point"}
 }

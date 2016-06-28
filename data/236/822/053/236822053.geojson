@@ -2,13 +2,14 @@
   "id": 236822053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242546,36.305309,-115.242546,36.305309",
     "geom:latitude":36.305309,
     "geom:longitude":-115.242546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Grand Teton Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236822053,
-    "wof:lastmodified":1449005126,
+    "wof:lastmodified":1466706684,
     "wof:name":"I G M Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-115.242546,36.305309,-115.242546,36.305309],
+  "bbox": [
+    -115.242546,
+    36.305309,
+    -115.242546,
+    36.305309
+],
   "geometry": {"coordinates":[-115.242546,36.305309],"type":"Point"}
 }

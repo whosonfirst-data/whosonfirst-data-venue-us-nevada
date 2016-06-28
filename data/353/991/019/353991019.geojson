@@ -2,13 +2,14 @@
   "id": 353991019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080734,36.019197,-115.080734,36.019197",
     "geom:latitude":36.019197,
     "geom:longitude":-115.080734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":353991019,
-    "wof:lastmodified":1449019056,
+    "wof:lastmodified":1466701616,
     "wof:name":"Nevada Wild Fest",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.080734,36.019197,-115.080734,36.019197],
-  "geometry": {"coordinates":[-115.080734,36.019197],"type":"Point"}
+  "bbox": [
+    -115.080734,
+    36.019197,
+    -115.080734,
+    36.019197
+],
+  "geometry": {"coordinates":[-115.08073400000001,36.019197],"type":"Point"}
 }

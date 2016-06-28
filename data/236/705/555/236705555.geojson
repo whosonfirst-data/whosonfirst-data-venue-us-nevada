@@ -2,13 +2,14 @@
   "id": 236705555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.819105,39.542765,-119.819105,39.542765",
     "geom:latitude":39.542765,
     "geom:longitude":-119.819105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 Hillside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236705555,
-    "wof:lastmodified":1449005274,
+    "wof:lastmodified":1466706632,
     "wof:name":"Structures Home Inspection Svc",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-119.819105,39.542765,-119.819105,39.542765],
-  "geometry": {"coordinates":[-119.819105,39.542765],"type":"Point"}
+  "bbox": [
+    -119.819105,
+    39.542765,
+    -119.819105,
+    39.542765
+],
+  "geometry": {"coordinates":[-119.81910499999999,39.542765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236256395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76208,39.447913,-119.76208,39.447913",
     "geom:latitude":39.447913,
     "geom:longitude":-119.76208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9335 Prototype Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236256395,
-    "wof:lastmodified":1449004299,
+    "wof:lastmodified":1466704421,
     "wof:name":"Charter Communications",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-119.76208,39.447913,-119.76208,39.447913],
+  "bbox": [
+    -119.76208,
+    39.447913,
+    -119.76208,
+    39.447913
+],
   "geometry": {"coordinates":[-119.76208,39.447913],"type":"Point"}
 }

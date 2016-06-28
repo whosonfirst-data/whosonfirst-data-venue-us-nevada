@@ -2,13 +2,14 @@
   "id": 236276177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838775,39.496319,-119.838775,39.496319",
     "geom:latitude":39.496319,
     "geom:longitude":-119.838775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Markridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236276177,
-    "wof:lastmodified":1449001771,
+    "wof:lastmodified":1466704357,
     "wof:name":"Barbers Board",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-119.838775,39.496319,-119.838775,39.496319],
+  "bbox": [
+    -119.838775,
+    39.496319,
+    -119.838775,
+    39.496319
+],
   "geometry": {"coordinates":[-119.838775,39.496319],"type":"Point"}
 }

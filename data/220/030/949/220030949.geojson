@@ -2,13 +2,14 @@
   "id": 220030949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.155361,36.153551,-115.155361,36.153551",
     "geom:latitude":36.153551,
     "geom:longitude":-115.155361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Commerce St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220030949,
-    "wof:lastmodified":1449074325,
+    "wof:lastmodified":1466701816,
     "wof:name":"Hubzone Contractors of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-115.155361,36.153551,-115.155361,36.153551],
+  "bbox": [
+    -115.155361,
+    36.153551,
+    -115.155361,
+    36.153551
+],
   "geometry": {"coordinates":[-115.155361,36.153551],"type":"Point"}
 }

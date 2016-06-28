@@ -2,13 +2,14 @@
   "id": 354367693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103147,36.07906,-115.103147,36.07906",
     "geom:latitude":36.07906,
     "geom:longitude":-115.103147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 E Patrick Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354367693,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1466706164,
     "wof:name":"Animal Emergency Center",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-115.103147,36.07906,-115.103147,36.07906],
-  "geometry": {"coordinates":[-115.103147,36.07906],"type":"Point"}
+  "bbox": [
+    -115.103147,
+    36.07906,
+    -115.103147,
+    36.07906
+],
+  "geometry": {"coordinates":[-115.10314700000001,36.07906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370338385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761002,39.158001,-119.761002,39.158001",
     "geom:latitude":39.158001,
     "geom:longitude":-119.761002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 S Roop St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370338385,
-    "wof:lastmodified":1449030270,
+    "wof:lastmodified":1466704957,
     "wof:name":"Tanglewood Village",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.761002,39.158001,-119.761002,39.158001],
+  "bbox": [
+    -119.761002,
+    39.158001,
+    -119.761002,
+    39.158001
+],
   "geometry": {"coordinates":[-119.761002,39.158001],"type":"Point"}
 }

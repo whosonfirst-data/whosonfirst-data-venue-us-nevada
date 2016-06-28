@@ -2,13 +2,14 @@
   "id": 219506221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104637,36.10632,-115.104637,36.10632",
     "geom:latitude":36.10632,
     "geom:longitude":-115.104637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4554 Portadown Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219506221,
-    "wof:lastmodified":1449070446,
+    "wof:lastmodified":1466704173,
     "wof:name":"Window Vogues By Mary Ann",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.104637,36.10632,-115.104637,36.10632],
+  "bbox": [
+    -115.104637,
+    36.10632,
+    -115.104637,
+    36.10632
+],
   "geometry": {"coordinates":[-115.104637,36.10632],"type":"Point"}
 }

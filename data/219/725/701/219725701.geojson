@@ -2,13 +2,14 @@
   "id": 219725701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164639,36.13255,-115.164639,36.13255",
     "geom:latitude":36.13255,
     "geom:longitude":-115.164639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219725701,
-    "wof:lastmodified":1449071255,
+    "wof:lastmodified":1466704760,
     "wof:name":"Quality Leather & Luggage",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.164639,36.13255,-115.164639,36.13255],
-  "geometry": {"coordinates":[-115.164639,36.13255],"type":"Point"}
+  "bbox": [
+    -115.164639,
+    36.13255,
+    -115.164639,
+    36.13255
+],
+  "geometry": {"coordinates":[-115.16463899999999,36.13255],"type":"Point"}
 }

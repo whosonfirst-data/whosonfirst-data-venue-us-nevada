@@ -2,13 +2,14 @@
   "id": 220038701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.777164,40.915198,-117.777164,40.915198",
     "geom:latitude":40.915198,
     "geom:longitude":-117.777164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 W Thomas Canyon Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220038701,
-    "wof:lastmodified":1449074571,
+    "wof:lastmodified":1466701888,
     "wof:name":"Grass Valley Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.777164,40.915198,-117.777164,40.915198],
+  "bbox": [
+    -117.777164,
+    40.915198,
+    -117.777164,
+    40.915198
+],
   "geometry": {"coordinates":[-117.777164,40.915198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354407533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118509,36.032668,-115.118509,36.032668",
     "geom:latitude":36.032668,
     "geom:longitude":-115.118509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8610 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354407533,
-    "wof:lastmodified":1449066891,
+    "wof:lastmodified":1466706310,
     "wof:name":"Kimberly's Kleaning",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.118509,36.032668,-115.118509,36.032668],
+  "bbox": [
+    -115.118509,
+    36.032668,
+    -115.118509,
+    36.032668
+],
   "geometry": {"coordinates":[-115.118509,36.032668],"type":"Point"}
 }

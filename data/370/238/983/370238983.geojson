@@ -2,13 +2,14 @@
   "id": 370238983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230001,36.125699,-115.230001,36.125699",
     "geom:latitude":36.125699,
     "geom:longitude":-115.230001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 Spring Mountain Rd Ste E",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370238983,
-    "wof:lastmodified":1449030354,
+    "wof:lastmodified":1466703438,
     "wof:name":"Select Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.230001,36.125699,-115.230001,36.125699],
+  "bbox": [
+    -115.230001,
+    36.125699,
+    -115.230001,
+    36.125699
+],
   "geometry": {"coordinates":[-115.230001,36.125699],"type":"Point"}
 }

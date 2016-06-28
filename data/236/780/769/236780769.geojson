@@ -2,13 +2,14 @@
   "id": 236780769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763203,40.832459,-115.763203,40.832459",
     "geom:latitude":40.832459,
     "geom:longitude":-115.763203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236780769,
-    "wof:lastmodified":1449004247,
+    "wof:lastmodified":1466706733,
     "wof:name":"Anacabe's-Elko General Mrchnds",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-115.763203,40.832459,-115.763203,40.832459],
+  "bbox": [
+    -115.763203,
+    40.832459,
+    -115.763203,
+    40.832459
+],
   "geometry": {"coordinates":[-115.763203,40.832459],"type":"Point"}
 }

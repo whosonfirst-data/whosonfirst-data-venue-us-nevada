@@ -2,13 +2,14 @@
   "id": 219723533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.736888,40.831229,-115.736888,40.831229",
     "geom:latitude":40.831229,
     "geom:longitude":-115.736888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1683 Winchester Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219723533,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466704589,
     "wof:name":"Bee Hive Homes",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "home"
     ]
 },
-  "bbox": [-115.736888,40.831229,-115.736888,40.831229],
-  "geometry": {"coordinates":[-115.736888,40.831229],"type":"Point"}
+  "bbox": [
+    -115.736888,
+    40.831229,
+    -115.736888,
+    40.831229
+],
+  "geometry": {"coordinates":[-115.73688799999999,40.831229],"type":"Point"}
 }

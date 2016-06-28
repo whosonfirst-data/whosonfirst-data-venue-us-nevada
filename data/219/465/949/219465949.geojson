@@ -2,13 +2,14 @@
   "id": 219465949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203907,36.0444,-115.203907,36.0444",
     "geom:latitude":36.0444,
     "geom:longitude":-115.203907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4643 Englewood Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219465949,
-    "wof:lastmodified":1449072761,
+    "wof:lastmodified":1466704028,
     "wof:name":"Two Heads Studios",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.203907,36.0444,-115.203907,36.0444],
+  "bbox": [
+    -115.203907,
+    36.0444,
+    -115.203907,
+    36.0444
+],
   "geometry": {"coordinates":[-115.203907,36.0444],"type":"Point"}
 }

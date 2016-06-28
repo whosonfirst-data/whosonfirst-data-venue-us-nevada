@@ -2,13 +2,14 @@
   "id": 236533235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123507,36.114575,-115.123507,36.114575",
     "geom:latitude":36.114575,
     "geom:longitude":-115.123507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 E Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236533235,
-    "wof:lastmodified":1449001646,
+    "wof:lastmodified":1466705955,
     "wof:name":"Desert Springs Dental Practice",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.123507,36.114575,-115.123507,36.114575],
+  "bbox": [
+    -115.123507,
+    36.114575,
+    -115.123507,
+    36.114575
+],
   "geometry": {"coordinates":[-115.123507,36.114575],"type":"Point"}
 }

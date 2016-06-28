@@ -2,13 +2,14 @@
   "id": 219790643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773496,39.513359,-119.773496,39.513359",
     "geom:latitude":39.513359,
     "geom:longitude":-119.773496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Telegraph St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219790643,
-    "wof:lastmodified":1449073109,
+    "wof:lastmodified":1466705161,
     "wof:name":"Industrial Controls & Automtn",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-119.773496,39.513359,-119.773496,39.513359],
-  "geometry": {"coordinates":[-119.773496,39.513359],"type":"Point"}
+  "bbox": [
+    -119.773496,
+    39.513359,
+    -119.773496,
+    39.513359
+],
+  "geometry": {"coordinates":[-119.77349599999999,39.513359],"type":"Point"}
 }

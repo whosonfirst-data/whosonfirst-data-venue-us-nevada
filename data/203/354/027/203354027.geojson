@@ -2,13 +2,14 @@
   "id": 203354027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.877834,39.524128,-119.877834,39.524128",
     "geom:latitude":39.524128,
     "geom:longitude":-119.877834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Backer Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203354027,
-    "wof:lastmodified":1449026655,
+    "wof:lastmodified":1466704234,
     "wof:name":"Going Places",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.877834,39.524128,-119.877834,39.524128],
-  "geometry": {"coordinates":[-119.877834,39.524128],"type":"Point"}
+  "bbox": [
+    -119.877834,
+    39.524128,
+    -119.877834,
+    39.524128
+],
+  "geometry": {"coordinates":[-119.87783399999999,39.524128],"type":"Point"}
 }

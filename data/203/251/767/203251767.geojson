@@ -2,13 +2,14 @@
   "id": 203251767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.678769,39.626709,-119.678769,39.626709",
     "geom:latitude":39.626709,
     "geom:longitude":-119.678769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7722 Cerritos Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203251767,
-    "wof:lastmodified":1449024982,
+    "wof:lastmodified":1466702510,
     "wof:name":"Z Pizza",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.678769,39.626709,-119.678769,39.626709],
+  "bbox": [
+    -119.678769,
+    39.626709,
+    -119.678769,
+    39.626709
+],
   "geometry": {"coordinates":[-119.678769,39.626709],"type":"Point"}
 }

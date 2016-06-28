@@ -2,13 +2,14 @@
   "id": 370228559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221084,36.140696,-115.221084,36.140696",
     "geom:latitude":36.140696,
     "geom:longitude":-115.221084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5825 Eldora Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370228559,
-    "wof:lastmodified":1449030152,
+    "wof:lastmodified":1466703231,
     "wof:name":"Cornerstone Christian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.221084,36.140696,-115.221084,36.140696],
+  "bbox": [
+    -115.221084,
+    36.140696,
+    -115.221084,
+    36.140696
+],
   "geometry": {"coordinates":[-115.221084,36.140696],"type":"Point"}
 }

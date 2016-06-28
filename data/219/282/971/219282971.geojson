@@ -2,13 +2,14 @@
   "id": 219282971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087201,35.959942,-115.087201,35.959942",
     "geom:latitude":35.959942,
     "geom:longitude":-115.087201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Brookridge Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219282971,
-    "wof:lastmodified":1449072602,
+    "wof:lastmodified":1466702878,
     "wof:name":"Susan F Silverton MD",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.087201,35.959942,-115.087201,35.959942],
-  "geometry": {"coordinates":[-115.087201,35.959942],"type":"Point"}
+  "bbox": [
+    -115.087201,
+    35.959942,
+    -115.087201,
+    35.959942
+],
+  "geometry": {"coordinates":[-115.08720099999999,35.959942],"type":"Point"}
 }

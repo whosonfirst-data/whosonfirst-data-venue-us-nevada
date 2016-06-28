@@ -2,13 +2,14 @@
   "id": 219405155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.711139,39.54194,-119.711139,39.54194",
     "geom:latitude":39.54194,
     "geom:longitude":-119.711139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219405155,
-    "wof:lastmodified":1449073628,
+    "wof:lastmodified":1466703654,
     "wof:name":"Senior Helpers",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-119.711139,39.54194,-119.711139,39.54194],
+  "bbox": [
+    -119.711139,
+    39.54194,
+    -119.711139,
+    39.54194
+],
   "geometry": {"coordinates":[-119.711139,39.54194],"type":"Point"}
 }

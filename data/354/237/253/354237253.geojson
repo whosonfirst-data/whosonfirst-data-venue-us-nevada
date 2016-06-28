@@ -2,13 +2,14 @@
   "id": 354237253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119003,36.1441,-115.119003,36.1441",
     "geom:latitude":36.1441,
     "geom:longitude":-115.119003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354237253,
-    "wof:lastmodified":1449065981,
+    "wof:lastmodified":1466705410,
     "wof:name":"Food-4 Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.119003,36.1441,-115.119003,36.1441],
-  "geometry": {"coordinates":[-115.119003,36.1441],"type":"Point"}
+  "bbox": [
+    -115.119003,
+    36.1441,
+    -115.119003,
+    36.1441
+],
+  "geometry": {"coordinates":[-115.11900300000001,36.1441],"type":"Point"}
 }

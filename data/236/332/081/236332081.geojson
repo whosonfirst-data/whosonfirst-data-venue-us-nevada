@@ -2,13 +2,14 @@
   "id": 236332081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731156,38.901325,-119.731156,38.901325",
     "geom:latitude":38.901325,
     "geom:longitude":-119.731156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 Muir Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236332081,
-    "wof:lastmodified":1449003501,
+    "wof:lastmodified":1466704810,
     "wof:name":"Bidart Landscape Maintenace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.731156,38.901325,-119.731156,38.901325],
+  "bbox": [
+    -119.731156,
+    38.901325,
+    -119.731156,
+    38.901325
+],
   "geometry": {"coordinates":[-119.731156,38.901325],"type":"Point"}
 }

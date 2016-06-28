@@ -2,13 +2,14 @@
   "id": 203399981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.063931,36.100234,-115.063931,36.100234",
     "geom:latitude":36.100234,
     "geom:longitude":-115.063931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203399981,
-    "wof:lastmodified":1449025281,
+    "wof:lastmodified":1466703327,
     "wof:name":"Anastacias Kitchen",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.063931,36.100234,-115.063931,36.100234],
+  "bbox": [
+    -115.063931,
+    36.100234,
+    -115.063931,
+    36.100234
+],
   "geometry": {"coordinates":[-115.063931,36.100234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219963883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207991,36.089153,-115.207991,36.089153",
     "geom:latitude":36.089153,
     "geom:longitude":-115.207991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5565 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219963883,
-    "wof:lastmodified":1449070726,
+    "wof:lastmodified":1466706029,
     "wof:name":"AlphaGraphics",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "graphic"
     ]
 },
-  "bbox": [-115.207991,36.089153,-115.207991,36.089153],
-  "geometry": {"coordinates":[-115.207991,36.089153],"type":"Point"}
+  "bbox": [
+    -115.207991,
+    36.089153,
+    -115.207991,
+    36.089153
+],
+  "geometry": {"coordinates":[-115.20799100000001,36.089153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236636443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249378,36.195971,-115.249378,36.195971",
     "geom:latitude":36.195971,
     "geom:longitude":-115.249378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236636443,
-    "wof:lastmodified":1449002870,
+    "wof:lastmodified":1466706359,
     "wof:name":"Right Solution Gateway",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "market"
     ]
 },
-  "bbox": [-115.249378,36.195971,-115.249378,36.195971],
-  "geometry": {"coordinates":[-115.249378,36.195971],"type":"Point"}
+  "bbox": [
+    -115.249378,
+    36.195971,
+    -115.249378,
+    36.195971
+],
+  "geometry": {"coordinates":[-115.24937799999999,36.195971],"type":"Point"}
 }

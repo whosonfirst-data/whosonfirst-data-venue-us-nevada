@@ -2,13 +2,14 @@
   "id": 236171897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802009,39.531086,-119.802009,39.531086",
     "geom:latitude":39.531086,
     "geom:longitude":-119.802009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Morrill Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236171897,
-    "wof:lastmodified":1449005268,
+    "wof:lastmodified":1466703018,
     "wof:name":"Bighorn Iron Works Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabrication"
     ]
 },
-  "bbox": [-119.802009,39.531086,-119.802009,39.531086],
+  "bbox": [
+    -119.802009,
+    39.531086,
+    -119.802009,
+    39.531086
+],
   "geometry": {"coordinates":[-119.802009,39.531086],"type":"Point"}
 }

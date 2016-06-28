@@ -2,13 +2,14 @@
   "id": 236725545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.319384,36.16495,-115.319384,36.16495",
     "geom:latitude":36.16495,
     "geom:longitude":-115.319384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Canyon Brook Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236725545,
-    "wof:lastmodified":1449002281,
+    "wof:lastmodified":1466706529,
     "wof:name":"Homes Pix",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.319384,36.16495,-115.319384,36.16495],
+  "bbox": [
+    -115.319384,
+    36.16495,
+    -115.319384,
+    36.16495
+],
   "geometry": {"coordinates":[-115.319384,36.16495],"type":"Point"}
 }

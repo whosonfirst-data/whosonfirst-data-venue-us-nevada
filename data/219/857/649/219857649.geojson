@@ -2,13 +2,14 @@
   "id": 219857649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.616855,38.524387,-118.616855,38.524387",
     "geom:latitude":38.524387,
     "geom:longitude":-118.616855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 5th St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219857649,
-    "wof:lastmodified":1449072674,
+    "wof:lastmodified":1466705411,
     "wof:name":"Covered Wagon Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.616855,38.524387,-118.616855,38.524387],
+  "bbox": [
+    -118.616855,
+    38.524387,
+    -118.616855,
+    38.524387
+],
   "geometry": {"coordinates":[-118.616855,38.524387],"type":"Point"}
 }

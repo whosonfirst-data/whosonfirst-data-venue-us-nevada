@@ -2,13 +2,14 @@
   "id": 370248603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232002,36.144299,-115.232002,36.144299",
     "geom:latitude":36.144299,
     "geom:longitude":-115.232002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6362 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370248603,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466703640,
     "wof:name":"Prommares Thai Food",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"
     ]
 },
-  "bbox": [-115.232002,36.144299,-115.232002,36.144299],
-  "geometry": {"coordinates":[-115.232002,36.144299],"type":"Point"}
+  "bbox": [
+    -115.232002,
+    36.144299,
+    -115.232002,
+    36.144299
+],
+  "geometry": {"coordinates":[-115.23200199999999,36.144299],"type":"Point"}
 }

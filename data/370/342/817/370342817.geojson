@@ -2,13 +2,14 @@
   "id": 370342817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767011,39.156299,-119.767011,39.156299",
     "geom:latitude":39.156299,
     "geom:longitude":-119.767011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 S. Carson St.",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370342817,
-    "wof:lastmodified":1449032224,
+    "wof:lastmodified":1466704987,
     "wof:name":"Radio Shack",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.767011,39.156299,-119.767011,39.156299],
+  "bbox": [
+    -119.767011,
+    39.156299,
+    -119.767011,
+    39.156299
+],
   "geometry": {"coordinates":[-119.767011,39.156299],"type":"Point"}
 }

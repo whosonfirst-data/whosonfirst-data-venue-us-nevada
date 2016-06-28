@@ -2,13 +2,14 @@
   "id": 236870843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295533,36.119334,-115.295533,36.119334",
     "geom:latitude":36.119334,
     "geom:longitude":-115.295533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9367 Snow Flower Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236870843,
-    "wof:lastmodified":1449002329,
+    "wof:lastmodified":1466706766,
     "wof:name":"Zorn J",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.295533,36.119334,-115.295533,36.119334],
-  "geometry": {"coordinates":[-115.295533,36.119334],"type":"Point"}
+  "bbox": [
+    -115.295533,
+    36.119334,
+    -115.295533,
+    36.119334
+],
+  "geometry": {"coordinates":[-115.29553300000001,36.119334],"type":"Point"}
 }

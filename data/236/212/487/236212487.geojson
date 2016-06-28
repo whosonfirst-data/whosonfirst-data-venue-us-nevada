@@ -2,13 +2,14 @@
   "id": 236212487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777435,39.517674,-119.777435,39.517674",
     "geom:latitude":39.517674,
     "geom:longitude":-119.777435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236212487,
-    "wof:lastmodified":1449003855,
+    "wof:lastmodified":1466703821,
     "wof:name":"Cope & Mc Phetres Marine",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-119.777435,39.517674,-119.777435,39.517674],
+  "bbox": [
+    -119.777435,
+    39.517674,
+    -119.777435,
+    39.517674
+],
   "geometry": {"coordinates":[-119.777435,39.517674],"type":"Point"}
 }

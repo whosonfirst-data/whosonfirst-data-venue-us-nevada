@@ -2,13 +2,14 @@
   "id": 370308689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755557,39.53587,-119.755557,39.53587",
     "geom:latitude":39.53587,
     "geom:longitude":-119.755557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 C St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":370308689,
-    "wof:lastmodified":1449032573,
+    "wof:lastmodified":1466704796,
     "wof:name":"Sparks Tribune Inc.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "plotting"
     ]
 },
-  "bbox": [-119.755557,39.53587,-119.755557,39.53587],
+  "bbox": [
+    -119.755557,
+    39.53587,
+    -119.755557,
+    39.53587
+],
   "geometry": {"coordinates":[-119.755557,39.53587],"type":"Point"}
 }

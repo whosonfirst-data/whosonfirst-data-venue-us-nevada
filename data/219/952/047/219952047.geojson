@@ -2,13 +2,14 @@
   "id": 219952047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223293,36.122274,-115.223293,36.122274",
     "geom:latitude":36.122274,
     "geom:longitude":-115.223293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Edinburgh Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219952047,
-    "wof:lastmodified":1449072942,
+    "wof:lastmodified":1466705803,
     "wof:name":"JAS Express Inc",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.223293,36.122274,-115.223293,36.122274],
+  "bbox": [
+    -115.223293,
+    36.122274,
+    -115.223293,
+    36.122274
+],
   "geometry": {"coordinates":[-115.223293,36.122274],"type":"Point"}
 }

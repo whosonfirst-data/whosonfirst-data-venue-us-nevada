@@ -2,13 +2,14 @@
   "id": 236352485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.512304,38.74349,-119.512304,38.74349",
     "geom:latitude":38.74349,
     "geom:longitude":-119.512304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Hematite Ct",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236352485,
-    "wof:lastmodified":1449003722,
+    "wof:lastmodified":1466705061,
     "wof:name":"Multi Point Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-119.512304,38.74349,-119.512304,38.74349],
+  "bbox": [
+    -119.512304,
+    38.74349,
+    -119.512304,
+    38.74349
+],
   "geometry": {"coordinates":[-119.512304,38.74349],"type":"Point"}
 }

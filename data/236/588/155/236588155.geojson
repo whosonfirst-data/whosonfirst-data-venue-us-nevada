@@ -2,13 +2,14 @@
   "id": 236588155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268132,36.285867,-115.268132,36.285867",
     "geom:latitude":36.285867,
     "geom:longitude":-115.268132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7905 Pinnochio Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236588155,
-    "wof:lastmodified":1449004465,
+    "wof:lastmodified":1466706225,
     "wof:name":"Total Merchant Svc",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "credit"
     ]
 },
-  "bbox": [-115.268132,36.285867,-115.268132,36.285867],
-  "geometry": {"coordinates":[-115.268132,36.285867],"type":"Point"}
+  "bbox": [
+    -115.268132,
+    36.285867,
+    -115.268132,
+    36.285867
+],
+  "geometry": {"coordinates":[-115.26813199999999,36.285867],"type":"Point"}
 }

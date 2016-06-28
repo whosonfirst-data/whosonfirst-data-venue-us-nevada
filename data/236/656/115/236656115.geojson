@@ -2,13 +2,14 @@
   "id": 236656115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239494,36.168263,-115.239494,36.168263",
     "geom:latitude":36.168263,
     "geom:longitude":-115.239494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Davenport Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236656115,
-    "wof:lastmodified":1449003872,
+    "wof:lastmodified":1466706392,
     "wof:name":"Newlon Communications Inc",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-115.239494,36.168263,-115.239494,36.168263],
-  "geometry": {"coordinates":[-115.239494,36.168263],"type":"Point"}
+  "bbox": [
+    -115.239494,
+    36.168263,
+    -115.239494,
+    36.168263
+],
+  "geometry": {"coordinates":[-115.23949399999999,36.168263],"type":"Point"}
 }

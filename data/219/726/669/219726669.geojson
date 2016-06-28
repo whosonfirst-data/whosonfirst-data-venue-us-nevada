@@ -2,13 +2,14 @@
   "id": 219726669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134894,36.162572,-115.134894,36.162572",
     "geom:latitude":36.162572,
     "geom:longitude":-115.134894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219726669,
-    "wof:lastmodified":1449072803,
+    "wof:lastmodified":1466704495,
     "wof:name":"Code 3",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "first"
     ]
 },
-  "bbox": [-115.134894,36.162572,-115.134894,36.162572],
+  "bbox": [
+    -115.134894,
+    36.162572,
+    -115.134894,
+    36.162572
+],
   "geometry": {"coordinates":[-115.134894,36.162572],"type":"Point"}
 }

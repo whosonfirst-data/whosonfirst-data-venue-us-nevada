@@ -2,13 +2,14 @@
   "id": 219923663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088311,35.979483,-115.088311,35.979483",
     "geom:latitude":35.979483,
     "geom:longitude":-115.088311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2278 Pacini Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219923663,
-    "wof:lastmodified":1449073794,
+    "wof:lastmodified":1466705759,
     "wof:name":"JCR Plastering",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.088311,35.979483,-115.088311,35.979483],
+  "bbox": [
+    -115.088311,
+    35.979483,
+    -115.088311,
+    35.979483
+],
   "geometry": {"coordinates":[-115.088311,35.979483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236772253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085551,36.026729,-115.085551,36.026729",
     "geom:latitude":36.026729,
     "geom:longitude":-115.085551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236772253,
-    "wof:lastmodified":1449003072,
+    "wof:lastmodified":1466706604,
     "wof:name":"Chatterbox Wireless Inc",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-115.085551,36.026729,-115.085551,36.026729],
+  "bbox": [
+    -115.085551,
+    36.026729,
+    -115.085551,
+    36.026729
+],
   "geometry": {"coordinates":[-115.085551,36.026729],"type":"Point"}
 }

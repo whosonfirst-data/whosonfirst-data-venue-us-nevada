@@ -2,13 +2,14 @@
   "id": 236975251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134463,36.180413,-115.134463,36.180413",
     "geom:latitude":36.180413,
     "geom:longitude":-115.134463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236975251,
-    "wof:lastmodified":1449004694,
+    "wof:lastmodified":1466706955,
     "wof:name":"Rainbow Co Children's Theatre",
     "wof:parent_id":85892657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-115.134463,36.180413,-115.134463,36.180413],
+  "bbox": [
+    -115.134463,
+    36.180413,
+    -115.134463,
+    36.180413
+],
   "geometry": {"coordinates":[-115.134463,36.180413],"type":"Point"}
 }

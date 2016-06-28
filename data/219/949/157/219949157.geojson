@@ -2,13 +2,14 @@
   "id": 219949157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.686683,39.647928,-119.686683,39.647928",
     "geom:latitude":39.647928,
     "geom:longitude":-119.686683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Stags Leap Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219949157,
-    "wof:lastmodified":1449072585,
+    "wof:lastmodified":1466705775,
     "wof:name":"Cocas Medical Billing",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-119.686683,39.647928,-119.686683,39.647928],
+  "bbox": [
+    -119.686683,
+    39.647928,
+    -119.686683,
+    39.647928
+],
   "geometry": {"coordinates":[-119.686683,39.647928],"type":"Point"}
 }

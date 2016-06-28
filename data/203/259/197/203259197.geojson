@@ -2,13 +2,14 @@
   "id": 203259197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064049,36.10031,-115.064049,36.10031",
     "geom:latitude":36.10031,
     "geom:longitude":-115.064049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4906 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203259197,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466702569,
     "wof:name":"Parole Prbation Dst IV Sub Off",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parole"
     ]
 },
-  "bbox": [-115.064049,36.10031,-115.064049,36.10031],
+  "bbox": [
+    -115.064049,
+    36.10031,
+    -115.064049,
+    36.10031
+],
   "geometry": {"coordinates":[-115.064049,36.10031],"type":"Point"}
 }

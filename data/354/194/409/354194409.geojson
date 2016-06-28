@@ -2,13 +2,14 @@
   "id": 354194409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167786,36.18581,-115.167786,36.18581",
     "geom:latitude":36.18581,
     "geom:longitude":-115.167786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Virginia City Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354194409,
-    "wof:lastmodified":1449067412,
+    "wof:lastmodified":1466704993,
     "wof:name":"Canyon Lake Mortgage",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.167786,36.18581,-115.167786,36.18581],
-  "geometry": {"coordinates":[-115.167786,36.18581],"type":"Point"}
+  "bbox": [
+    -115.167786,
+    36.18581,
+    -115.167786,
+    36.18581
+],
+  "geometry": {"coordinates":[-115.16778600000001,36.18581],"type":"Point"}
 }

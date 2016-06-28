@@ -2,13 +2,14 @@
   "id": 203251955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.321407,36.134198,-115.321407,36.134198",
     "geom:latitude":36.134198,
     "geom:longitude":-115.321407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10416 Blenheim Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203251955,
-    "wof:lastmodified":1449024985,
+    "wof:lastmodified":1466702514,
     "wof:name":"Las Vegas Building Svc",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.321407,36.134198,-115.321407,36.134198],
-  "geometry": {"coordinates":[-115.321407,36.134198],"type":"Point"}
+  "bbox": [
+    -115.321407,
+    36.134198,
+    -115.321407,
+    36.134198
+],
+  "geometry": {"coordinates":[-115.32140699999999,36.134198],"type":"Point"}
 }

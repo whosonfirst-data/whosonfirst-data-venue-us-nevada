@@ -2,13 +2,14 @@
   "id": 219283741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069516,36.165896,-115.069516,36.165896",
     "geom:latitude":36.165896,
     "geom:longitude":-115.069516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Ballantine Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219283741,
-    "wof:lastmodified":1449071446,
+    "wof:lastmodified":1466702884,
     "wof:name":"Koritas Ice Cream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.069516,36.165896,-115.069516,36.165896],
-  "geometry": {"coordinates":[-115.069516,36.165896],"type":"Point"}
+  "bbox": [
+    -115.069516,
+    36.165896,
+    -115.069516,
+    36.165896
+],
+  "geometry": {"coordinates":[-115.06951599999999,36.165896],"type":"Point"}
 }

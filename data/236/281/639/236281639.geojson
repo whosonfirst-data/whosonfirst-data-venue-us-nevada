@@ -2,13 +2,14 @@
   "id": 236281639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084051,36.195554,-115.084051,36.195554",
     "geom:latitude":36.195554,
     "geom:longitude":-115.084051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4049 E Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236281639,
-    "wof:lastmodified":1449004644,
+    "wof:lastmodified":1466704563,
     "wof:name":"Expert Air Conditioning & Htg",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.084051,36.195554,-115.084051,36.195554],
+  "bbox": [
+    -115.084051,
+    36.195554,
+    -115.084051,
+    36.195554
+],
   "geometry": {"coordinates":[-115.084051,36.195554],"type":"Point"}
 }

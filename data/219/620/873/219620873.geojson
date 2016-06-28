@@ -2,13 +2,14 @@
   "id": 219620873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207525,36.235386,-115.207525,36.235386",
     "geom:latitude":36.235386,
     "geom:longitude":-115.207525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4324 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219620873,
-    "wof:lastmodified":1449073613,
+    "wof:lastmodified":1466703291,
     "wof:name":"Super Kid Karate Sign Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-115.207525,36.235386,-115.207525,36.235386],
+  "bbox": [
+    -115.207525,
+    36.235386,
+    -115.207525,
+    36.235386
+],
   "geometry": {"coordinates":[-115.207525,36.235386],"type":"Point"}
 }

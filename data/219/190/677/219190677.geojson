@@ -2,13 +2,14 @@
   "id": 219190677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054986,36.209207,-115.054986,36.209207",
     "geom:latitude":36.209207,
     "geom:longitude":-115.054986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5412 Tolentino Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219190677,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466702015,
     "wof:name":"Affordable Renovations",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.054986,36.209207,-115.054986,36.209207],
+  "bbox": [
+    -115.054986,
+    36.209207,
+    -115.054986,
+    36.209207
+],
   "geometry": {"coordinates":[-115.054986,36.209207],"type":"Point"}
 }

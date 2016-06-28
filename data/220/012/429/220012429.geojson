@@ -2,13 +2,14 @@
   "id": 220012429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.83796,39.637557,-119.83796,39.637557",
     "geom:latitude":39.637557,
     "geom:longitude":-119.83796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 Reservoir St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220012429,
-    "wof:lastmodified":1449074796,
+    "wof:lastmodified":1466701559,
     "wof:name":"Moto Storage Services",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.83796,39.637557,-119.83796,39.637557],
+  "bbox": [
+    -119.83796,
+    39.637557,
+    -119.83796,
+    39.637557
+],
   "geometry": {"coordinates":[-119.83796,39.637557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203223169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069387,36.176348,-115.069387,36.176348",
     "geom:latitude":36.176348,
     "geom:longitude":-115.069387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4792 Nettie Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203223169,
-    "wof:lastmodified":1449025072,
+    "wof:lastmodified":1466702316,
     "wof:name":"Gifts For Everyone Co",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.069387,36.176348,-115.069387,36.176348],
-  "geometry": {"coordinates":[-115.069387,36.176348],"type":"Point"}
+  "bbox": [
+    -115.069387,
+    36.176348,
+    -115.069387,
+    36.176348
+],
+  "geometry": {"coordinates":[-115.06938700000001,36.176348],"type":"Point"}
 }

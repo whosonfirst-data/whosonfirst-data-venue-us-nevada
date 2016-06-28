@@ -2,13 +2,14 @@
   "id": 236806063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.072842,36.269591,-116.072842,36.269591",
     "geom:latitude":36.269591,
     "geom:longitude":-116.072842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Sherry Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236806063,
-    "wof:lastmodified":1449001667,
+    "wof:lastmodified":1466706659,
     "wof:name":"Mechanical Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.072842,36.269591,-116.072842,36.269591],
-  "geometry": {"coordinates":[-116.072842,36.269591],"type":"Point"}
+  "bbox": [
+    -116.072842,
+    36.269591,
+    -116.072842,
+    36.269591
+],
+  "geometry": {"coordinates":[-116.07284199999999,36.269591],"type":"Point"}
 }

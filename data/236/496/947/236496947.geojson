@@ -2,13 +2,14 @@
   "id": 236496947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.972472,36.025425,-114.972472,36.025425",
     "geom:latitude":36.025425,
     "geom:longitude":-114.972472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Blackmore Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236496947,
-    "wof:lastmodified":1449004648,
+    "wof:lastmodified":1466705789,
     "wof:name":"Corshas",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.972472,36.025425,-114.972472,36.025425],
+  "bbox": [
+    -114.972472,
+    36.025425,
+    -114.972472,
+    36.025425
+],
   "geometry": {"coordinates":[-114.972472,36.025425],"type":"Point"}
 }

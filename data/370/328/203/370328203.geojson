@@ -2,13 +2,14 @@
   "id": 370328203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764841,39.474159,-119.764841,39.474159",
     "geom:latitude":39.474159,
     "geom:longitude":-119.764841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":370328203,
-    "wof:lastmodified":1449031069,
+    "wof:lastmodified":1466704700,
     "wof:name":"Shear Bliss Salon & Spa",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.764841,39.474159,-119.764841,39.474159],
+  "bbox": [
+    -119.764841,
+    39.474159,
+    -119.764841,
+    39.474159
+],
   "geometry": {"coordinates":[-119.764841,39.474159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203341511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750952,38.942597,-119.750952,38.942597",
     "geom:latitude":38.942597,
     "geom:longitude":-119.750952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 US Hwy 395 N",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203341511,
-    "wof:lastmodified":1449026787,
+    "wof:lastmodified":1466703103,
     "wof:name":"Noel E Manouckian Ltd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.750952,38.942597,-119.750952,38.942597],
+  "bbox": [
+    -119.750952,
+    38.942597,
+    -119.750952,
+    38.942597
+],
   "geometry": {"coordinates":[-119.750952,38.942597],"type":"Point"}
 }

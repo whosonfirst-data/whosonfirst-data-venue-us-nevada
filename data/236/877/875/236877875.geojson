@@ -2,13 +2,14 @@
   "id": 236877875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.831337,39.624415,-119.831337,39.624415",
     "geom:latitude":39.624415,
     "geom:longitude":-119.831337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7845 Tamra Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236877875,
-    "wof:lastmodified":1449004073,
+    "wof:lastmodified":1466706779,
     "wof:name":"Transaction Facilitators",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.831337,39.624415,-119.831337,39.624415],
+  "bbox": [
+    -119.831337,
+    39.624415,
+    -119.831337,
+    39.624415
+],
   "geometry": {"coordinates":[-119.831337,39.624415],"type":"Point"}
 }

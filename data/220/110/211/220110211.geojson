@@ -2,13 +2,14 @@
   "id": 220110211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317187,36.159041,-115.317187,36.159041",
     "geom:latitude":36.159041,
     "geom:longitude":-115.317187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10220 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220110211,
-    "wof:lastmodified":1449074280,
+    "wof:lastmodified":1466702443,
     "wof:name":"Comfort Dental Of Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.317187,36.159041,-115.317187,36.159041],
+  "bbox": [
+    -115.317187,
+    36.159041,
+    -115.317187,
+    36.159041
+],
   "geometry": {"coordinates":[-115.317187,36.159041],"type":"Point"}
 }

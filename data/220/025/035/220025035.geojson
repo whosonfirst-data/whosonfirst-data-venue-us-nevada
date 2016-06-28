@@ -2,13 +2,14 @@
   "id": 220025035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759911,39.620126,-119.759911,39.620126",
     "geom:latitude":39.620126,
     "geom:longitude":-119.759911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7516 Cezanne Ct",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025035,
-    "wof:lastmodified":1449074733,
+    "wof:lastmodified":1466701756,
     "wof:name":"Hannahs Buggy Bath",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-119.759911,39.620126,-119.759911,39.620126],
+  "bbox": [
+    -119.759911,
+    39.620126,
+    -119.759911,
+    39.620126
+],
   "geometry": {"coordinates":[-119.759911,39.620126],"type":"Point"}
 }

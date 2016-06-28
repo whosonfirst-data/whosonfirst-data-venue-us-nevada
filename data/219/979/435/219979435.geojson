@@ -2,13 +2,14 @@
   "id": 219979435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.834548,35.991362,-114.834548,35.991362",
     "geom:latitude":35.991362,
     "geom:longitude":-114.834548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"674 Florence Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219979435,
-    "wof:lastmodified":1449072889,
+    "wof:lastmodified":1466706097,
     "wof:name":"B C Appraisals Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-114.834548,35.991362,-114.834548,35.991362],
+  "bbox": [
+    -114.834548,
+    35.991362,
+    -114.834548,
+    35.991362
+],
   "geometry": {"coordinates":[-114.834548,35.991362],"type":"Point"}
 }

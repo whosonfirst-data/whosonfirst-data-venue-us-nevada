@@ -2,13 +2,14 @@
   "id": 219940811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.328309,36.159019,-115.328309,36.159019",
     "geom:latitude":36.159019,
     "geom:longitude":-115.328309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10600 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219940811,
-    "wof:lastmodified":1449071257,
+    "wof:lastmodified":1466705698,
     "wof:name":"Nevada Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "li"
     ]
 },
-  "bbox": [-115.328309,36.159019,-115.328309,36.159019],
+  "bbox": [
+    -115.328309,
+    36.159019,
+    -115.328309,
+    36.159019
+],
   "geometry": {"coordinates":[-115.328309,36.159019],"type":"Point"}
 }

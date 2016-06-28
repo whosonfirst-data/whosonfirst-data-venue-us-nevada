@@ -2,13 +2,14 @@
   "id": 370326731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811354,39.519308,-119.811354,39.519308",
     "geom:latitude":39.519308,
     "geom:longitude":-119.811354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 Forest St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":370326731,
-    "wof:lastmodified":1449030527,
+    "wof:lastmodified":1466704669,
     "wof:name":"Allstate Insurance Company - Gene L Gardella",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-119.811354,39.519308,-119.811354,39.519308],
-  "geometry": {"coordinates":[-119.811354,39.519308],"type":"Point"}
+  "bbox": [
+    -119.811354,
+    39.519308,
+    -119.811354,
+    39.519308
+],
+  "geometry": {"coordinates":[-119.81135399999999,39.519308],"type":"Point"}
 }

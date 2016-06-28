@@ -2,13 +2,14 @@
   "id": 236294717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.720286,39.521246,-119.720286,39.521246",
     "geom:latitude":39.521246,
     "geom:longitude":-119.720286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236294717,
-    "wof:lastmodified":1449004104,
+    "wof:lastmodified":1466704655,
     "wof:name":"Sani-Hut Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.720286,39.521246,-119.720286,39.521246],
+  "bbox": [
+    -119.720286,
+    39.521246,
+    -119.720286,
+    39.521246
+],
   "geometry": {"coordinates":[-119.720286,39.521246],"type":"Point"}
 }

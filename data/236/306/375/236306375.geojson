@@ -2,13 +2,14 @@
   "id": 236306375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163068,38.992067,-119.163068,38.992067",
     "geom:latitude":38.992067,
     "geom:longitude":-119.163068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236306375,
-    "wof:lastmodified":1449005064,
+    "wof:lastmodified":1466704869,
     "wof:name":"Old Green House Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "thrift"
     ]
 },
-  "bbox": [-119.163068,38.992067,-119.163068,38.992067],
+  "bbox": [
+    -119.163068,
+    38.992067,
+    -119.163068,
+    38.992067
+],
   "geometry": {"coordinates":[-119.163068,38.992067],"type":"Point"}
 }

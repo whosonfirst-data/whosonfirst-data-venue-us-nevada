@@ -2,13 +2,14 @@
   "id": 354390893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100998,36.1087,-115.100998,36.1087",
     "geom:latitude":36.1087,
     "geom:longitude":-115.100998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4484 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354390893,
-    "wof:lastmodified":1449067677,
+    "wof:lastmodified":1466706231,
     "wof:name":"USA Capital",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.100998,36.1087,-115.100998,36.1087],
+  "bbox": [
+    -115.100998,
+    36.1087,
+    -115.100998,
+    36.1087
+],
   "geometry": {"coordinates":[-115.100998,36.1087],"type":"Point"}
 }

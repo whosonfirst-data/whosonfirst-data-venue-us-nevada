@@ -2,13 +2,14 @@
   "id": 236094943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749543,39.492859,-119.749543,39.492859",
     "geom:latitude":39.492859,
     "geom:longitude":-119.749543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 Perro Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236094943,
-    "wof:lastmodified":1449003771,
+    "wof:lastmodified":1466704187,
     "wof:name":"JSL Auto Glass",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-119.749543,39.492859,-119.749543,39.492859],
+  "bbox": [
+    -119.749543,
+    39.492859,
+    -119.749543,
+    39.492859
+],
   "geometry": {"coordinates":[-119.749543,39.492859],"type":"Point"}
 }

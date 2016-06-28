@@ -2,13 +2,14 @@
   "id": 236899363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.864035,39.257515,-114.864035,39.257515",
     "geom:latitude":39.257515,
     "geom:longitude":-114.864035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Avenue E",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236899363,
-    "wof:lastmodified":1449005052,
+    "wof:lastmodified":1466706682,
     "wof:name":"Grace Foursquare Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.864035,39.257515,-114.864035,39.257515],
+  "bbox": [
+    -114.864035,
+    39.257515,
+    -114.864035,
+    39.257515
+],
   "geometry": {"coordinates":[-114.864035,39.257515],"type":"Point"}
 }

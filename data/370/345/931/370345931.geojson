@@ -2,13 +2,14 @@
   "id": 370345931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767272,39.137477,-119.767272,39.137477",
     "geom:latitude":39.137477,
     "geom:longitude":-119.767272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3331 S Carson St Ste 102",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370345931,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1466705028,
     "wof:name":"Computer Base",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-119.767272,39.137477,-119.767272,39.137477],
-  "geometry": {"coordinates":[-119.767272,39.137477],"type":"Point"}
+  "bbox": [
+    -119.767272,
+    39.137477,
+    -119.767272,
+    39.137477
+],
+  "geometry": {"coordinates":[-119.76727200000001,39.137477],"type":"Point"}
 }

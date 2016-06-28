@@ -2,13 +2,14 @@
   "id": 236866297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825404,39.529291,-119.825404,39.529291",
     "geom:latitude":39.529291,
     "geom:longitude":-119.825404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236866297,
-    "wof:lastmodified":1449003173,
+    "wof:lastmodified":1466706754,
     "wof:name":"Discount Office Supply Inc",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.825404,39.529291,-119.825404,39.529291],
-  "geometry": {"coordinates":[-119.825404,39.529291],"type":"Point"}
+  "bbox": [
+    -119.825404,
+    39.529291,
+    -119.825404,
+    39.529291
+],
+  "geometry": {"coordinates":[-119.82540400000001,39.529291],"type":"Point"}
 }

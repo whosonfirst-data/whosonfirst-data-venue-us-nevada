@@ -2,13 +2,14 @@
   "id": 219957509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053564,36.10044,-115.053564,36.10044",
     "geom:latitude":36.10044,
     "geom:longitude":-115.053564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219957509,
-    "wof:lastmodified":1449073383,
+    "wof:lastmodified":1466706108,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-115.053564,36.10044,-115.053564,36.10044],
-  "geometry": {"coordinates":[-115.053564,36.10044],"type":"Point"}
+  "bbox": [
+    -115.053564,
+    36.10044,
+    -115.053564,
+    36.10044
+],
+  "geometry": {"coordinates":[-115.05356399999999,36.10044],"type":"Point"}
 }

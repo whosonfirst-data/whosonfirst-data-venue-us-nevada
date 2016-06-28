@@ -2,13 +2,14 @@
   "id": 252730119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268929,36.218988,-115.268929,36.218988",
     "geom:latitude":36.218988,
     "geom:longitude":-115.268929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7936 Indian Cloud Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252730119,
-    "wof:lastmodified":1449006347,
+    "wof:lastmodified":1466701925,
     "wof:name":"Millennium Sound Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-115.268929,36.218988,-115.268929,36.218988],
+  "bbox": [
+    -115.268929,
+    36.218988,
+    -115.268929,
+    36.218988
+],
   "geometry": {"coordinates":[-115.268929,36.218988],"type":"Point"}
 }

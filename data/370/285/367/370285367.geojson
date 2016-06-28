@@ -2,13 +2,14 @@
   "id": 370285367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141518,36.126902,-115.141518,36.126902",
     "geom:latitude":36.126902,
     "geom:longitude":-115.141518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Sierra Vista Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370285367,
-    "wof:lastmodified":1449029160,
+    "wof:lastmodified":1466704434,
     "wof:name":"Desert Aire Apartments",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.141518,36.126902,-115.141518,36.126902],
+  "bbox": [
+    -115.141518,
+    36.126902,
+    -115.141518,
+    36.126902
+],
   "geometry": {"coordinates":[-115.141518,36.126902],"type":"Point"}
 }

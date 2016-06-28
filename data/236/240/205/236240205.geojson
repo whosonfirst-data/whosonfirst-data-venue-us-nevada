@@ -2,13 +2,14 @@
   "id": 236240205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099686,36.100127,-115.099686,36.100127",
     "geom:latitude":36.100127,
     "geom:longitude":-115.099686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236240205,
-    "wof:lastmodified":1449001934,
+    "wof:lastmodified":1466704316,
     "wof:name":"TAM Cards",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.099686,36.100127,-115.099686,36.100127],
-  "geometry": {"coordinates":[-115.099686,36.100127],"type":"Point"}
+  "bbox": [
+    -115.099686,
+    36.100127,
+    -115.099686,
+    36.100127
+],
+  "geometry": {"coordinates":[-115.09968600000001,36.100127],"type":"Point"}
 }

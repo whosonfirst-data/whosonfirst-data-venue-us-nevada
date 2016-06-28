@@ -2,13 +2,14 @@
   "id": 220098405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768056,39.613017,-119.768056,39.613017",
     "geom:latitude":39.613017,
     "geom:longitude":-119.768056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Klamath Ct",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220098405,
-    "wof:lastmodified":1449074787,
+    "wof:lastmodified":1466702360,
     "wof:name":"Power Electric Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.768056,39.613017,-119.768056,39.613017],
+  "bbox": [
+    -119.768056,
+    39.613017,
+    -119.768056,
+    39.613017
+],
   "geometry": {"coordinates":[-119.768056,39.613017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236370187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268226,36.110345,-115.268226,36.110345",
     "geom:latitude":36.110345,
     "geom:longitude":-115.268226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8104 Sundown Vista Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236370187,
-    "wof:lastmodified":1449003458,
+    "wof:lastmodified":1466705176,
     "wof:name":"Asd Services Inc",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.268226,36.110345,-115.268226,36.110345],
+  "bbox": [
+    -115.268226,
+    36.110345,
+    -115.268226,
+    36.110345
+],
   "geometry": {"coordinates":[-115.268226,36.110345],"type":"Point"}
 }

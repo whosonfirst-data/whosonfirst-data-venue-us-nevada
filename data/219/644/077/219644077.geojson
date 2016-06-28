@@ -2,13 +2,14 @@
   "id": 219644077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272052,36.260781,-115.272052,36.260781",
     "geom:latitude":36.260781,
     "geom:longitude":-115.272052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5453 Painted Gorge Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219644077,
-    "wof:lastmodified":1449072396,
+    "wof:lastmodified":1466703710,
     "wof:name":"W D Wightman & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.272052,36.260781,-115.272052,36.260781],
+  "bbox": [
+    -115.272052,
+    36.260781,
+    -115.272052,
+    36.260781
+],
   "geometry": {"coordinates":[-115.272052,36.260781],"type":"Point"}
 }

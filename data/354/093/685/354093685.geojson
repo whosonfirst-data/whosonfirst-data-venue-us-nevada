@@ -2,13 +2,14 @@
   "id": 354093685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144028,36.170712,-115.144028,36.170712",
     "geom:latitude":36.170712,
     "geom:longitude":-115.144028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Four Queens Hotel and Casino 202 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":354093685,
-    "wof:lastmodified":1449065927,
+    "wof:lastmodified":1466703962,
     "wof:name":"Hugo's Cellar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "american"
     ]
 },
-  "bbox": [-115.144028,36.170712,-115.144028,36.170712],
-  "geometry": {"coordinates":[-115.144028,36.170712],"type":"Point"}
+  "bbox": [
+    -115.144028,
+    36.170712,
+    -115.144028,
+    36.170712
+],
+  "geometry": {"coordinates":[-115.14402800000001,36.170712],"type":"Point"}
 }

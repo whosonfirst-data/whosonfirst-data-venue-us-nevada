@@ -2,13 +2,14 @@
   "id": 236792951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802808,39.549731,-119.802808,39.549731",
     "geom:latitude":39.549731,
     "geom:longitude":-119.802808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 Tampa St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236792951,
-    "wof:lastmodified":1449002206,
+    "wof:lastmodified":1466706756,
     "wof:name":"Remarc Manufacturing",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.802808,39.549731,-119.802808,39.549731],
+  "bbox": [
+    -119.802808,
+    39.549731,
+    -119.802808,
+    39.549731
+],
   "geometry": {"coordinates":[-119.802808,39.549731],"type":"Point"}
 }

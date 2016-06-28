@@ -2,13 +2,14 @@
   "id": 220153343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150922,36.229191,-115.150922,36.229191",
     "geom:latitude":36.229191,
     "geom:longitude":-115.150922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 New Bridge Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220153343,
-    "wof:lastmodified":1449074609,
+    "wof:lastmodified":1466702788,
     "wof:name":"Travel All Over",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.150922,36.229191,-115.150922,36.229191],
-  "geometry": {"coordinates":[-115.150922,36.229191],"type":"Point"}
+  "bbox": [
+    -115.150922,
+    36.229191,
+    -115.150922,
+    36.229191
+],
+  "geometry": {"coordinates":[-115.15092199999999,36.229191],"type":"Point"}
 }

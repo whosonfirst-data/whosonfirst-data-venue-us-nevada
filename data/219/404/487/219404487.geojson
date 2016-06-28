@@ -2,13 +2,14 @@
   "id": 219404487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.294445,36.135204,-115.294445,36.135204",
     "geom:latitude":36.135204,
     "geom:longitude":-115.294445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9021 Cape Wood Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219404487,
-    "wof:lastmodified":1449072731,
+    "wof:lastmodified":1466703661,
     "wof:name":"Ivan Aralica MD",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.294445,36.135204,-115.294445,36.135204],
+  "bbox": [
+    -115.294445,
+    36.135204,
+    -115.294445,
+    36.135204
+],
   "geometry": {"coordinates":[-115.294445,36.135204],"type":"Point"}
 }

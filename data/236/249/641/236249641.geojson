@@ -2,13 +2,14 @@
   "id": 236249641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204936,36.126362,-115.204936,36.126362",
     "geom:latitude":36.126362,
     "geom:longitude":-115.204936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236249641,
-    "wof:lastmodified":1449001805,
+    "wof:lastmodified":1466704395,
     "wof:name":"Bargain City Sales & Lease",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-115.204936,36.126362,-115.204936,36.126362],
+  "bbox": [
+    -115.204936,
+    36.126362,
+    -115.204936,
+    36.126362
+],
   "geometry": {"coordinates":[-115.204936,36.126362],"type":"Point"}
 }

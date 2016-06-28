@@ -2,13 +2,14 @@
   "id": 354202573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223999,36.171101,-115.223999,36.171101",
     "geom:latitude":36.171101,
     "geom:longitude":-115.223999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354202573,
-    "wof:lastmodified":1449067444,
+    "wof:lastmodified":1466705034,
     "wof:name":"A-Frank Sorrentino",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"
     ]
 },
-  "bbox": [-115.223999,36.171101,-115.223999,36.171101],
-  "geometry": {"coordinates":[-115.223999,36.171101],"type":"Point"}
+  "bbox": [
+    -115.223999,
+    36.171101,
+    -115.223999,
+    36.171101
+],
+  "geometry": {"coordinates":[-115.22399900000001,36.171101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354166331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.133154,36.159024,-115.133154,36.159024",
     "geom:latitude":36.159024,
     "geom:longitude":-115.133154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 E Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354166331,
-    "wof:lastmodified":1449066902,
+    "wof:lastmodified":1466704926,
     "wof:name":"Back Door Lounge",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.133154,36.159024,-115.133154,36.159024],
+  "bbox": [
+    -115.133154,
+    36.159024,
+    -115.133154,
+    36.159024
+],
   "geometry": {"coordinates":[-115.133154,36.159024],"type":"Point"}
 }

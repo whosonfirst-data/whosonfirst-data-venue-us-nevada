@@ -2,13 +2,14 @@
   "id": 370168517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278999,36.2187,-115.278999,36.2187",
     "geom:latitude":36.2187,
     "geom:longitude":-115.278999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8410 W Cheyenne Ave Ste 104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370168517,
-    "wof:lastmodified":1449030846,
+    "wof:lastmodified":1466701953,
     "wof:name":"United Studios of Self Defense",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-115.278999,36.2187,-115.278999,36.2187],
+  "bbox": [
+    -115.278999,
+    36.2187,
+    -115.278999,
+    36.2187
+],
   "geometry": {"coordinates":[-115.278999,36.2187],"type":"Point"}
 }

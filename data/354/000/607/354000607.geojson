@@ -2,13 +2,14 @@
   "id": 354000607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053001,36.079899,-115.053001,36.079899",
     "geom:latitude":36.079899,
     "geom:longitude":-115.053001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Whitney Ranch Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354000607,
-    "wof:lastmodified":1449066200,
+    "wof:lastmodified":1466704197,
     "wof:name":"Racioppo's Inc",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.053001,36.079899,-115.053001,36.079899],
-  "geometry": {"coordinates":[-115.053001,36.079899],"type":"Point"}
+  "bbox": [
+    -115.053001,
+    36.079899,
+    -115.053001,
+    36.079899
+],
+  "geometry": {"coordinates":[-115.05300099999999,36.079899],"type":"Point"}
 }

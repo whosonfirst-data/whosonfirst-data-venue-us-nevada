@@ -2,13 +2,14 @@
   "id": 219236353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212444,36.248864,-115.212444,36.248864",
     "geom:latitude":36.248864,
     "geom:longitude":-115.212444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Pinon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219236353,
-    "wof:lastmodified":1449070764,
+    "wof:lastmodified":1466702402,
     "wof:name":"Gencon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-115.212444,36.248864,-115.212444,36.248864],
+  "bbox": [
+    -115.212444,
+    36.248864,
+    -115.212444,
+    36.248864
+],
   "geometry": {"coordinates":[-115.212444,36.248864],"type":"Point"}
 }

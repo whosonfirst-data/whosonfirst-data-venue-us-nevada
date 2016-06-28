@@ -2,13 +2,14 @@
   "id": 220194983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.882045,39.248396,-114.882045,39.248396",
     "geom:latitude":39.248396,
     "geom:longitude":-114.882045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Nevada Rd",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220194983,
-    "wof:lastmodified":1449074753,
+    "wof:lastmodified":1466703073,
     "wof:name":"Transwestern General Agency",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-114.882045,39.248396,-114.882045,39.248396],
-  "geometry": {"coordinates":[-114.882045,39.248396],"type":"Point"}
+  "bbox": [
+    -114.882045,
+    39.248396,
+    -114.882045,
+    39.248396
+],
+  "geometry": {"coordinates":[-114.88204500000001,39.248396],"type":"Point"}
 }

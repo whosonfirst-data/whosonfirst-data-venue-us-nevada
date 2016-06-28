@@ -2,13 +2,14 @@
   "id": 236508155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.514524,40.114565,-118.514524,40.114565",
     "geom:latitude":40.114565,
     "geom:longitude":-118.514524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1075 Westfall Rd",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236508155,
-    "wof:lastmodified":1449003513,
+    "wof:lastmodified":1466705849,
     "wof:name":"Rmc Nevada Cemex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-118.514524,40.114565,-118.514524,40.114565],
-  "geometry": {"coordinates":[-118.514524,40.114565],"type":"Point"}
+  "bbox": [
+    -118.514524,
+    40.114565,
+    -118.514524,
+    40.114565
+],
+  "geometry": {"coordinates":[-118.51452399999999,40.114565],"type":"Point"}
 }

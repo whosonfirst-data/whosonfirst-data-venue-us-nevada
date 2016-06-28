@@ -2,13 +2,14 @@
   "id": 236391241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.771884,40.825363,-115.771884,40.825363",
     "geom:latitude":40.825363,
     "geom:longitude":-115.771884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 W Silver St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236391241,
-    "wof:lastmodified":1449003824,
+    "wof:lastmodified":1466705297,
     "wof:name":"WDC Expiration & Wells",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.771884,40.825363,-115.771884,40.825363],
+  "bbox": [
+    -115.771884,
+    40.825363,
+    -115.771884,
+    40.825363
+],
   "geometry": {"coordinates":[-115.771884,40.825363],"type":"Point"}
 }

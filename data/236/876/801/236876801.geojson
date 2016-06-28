@@ -2,13 +2,14 @@
   "id": 236876801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243223,36.147796,-115.243223,36.147796",
     "geom:latitude":36.147796,
     "geom:longitude":-115.243223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6995 Obannon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236876801,
-    "wof:lastmodified":1449002176,
+    "wof:lastmodified":1466706883,
     "wof:name":"Platinum Services Directory",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-115.243223,36.147796,-115.243223,36.147796],
+  "bbox": [
+    -115.243223,
+    36.147796,
+    -115.243223,
+    36.147796
+],
   "geometry": {"coordinates":[-115.243223,36.147796],"type":"Point"}
 }

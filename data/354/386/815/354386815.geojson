@@ -2,13 +2,14 @@
   "id": 354386815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100354,36.143447,-115.100354,36.143447",
     "geom:latitude":36.143447,
     "geom:longitude":-115.100354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Chapel Collision Center 3470 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354386815,
-    "wof:lastmodified":1449066833,
+    "wof:lastmodified":1466706230,
     "wof:name":"Cycle School Motorcycle Training",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.100354,36.143447,-115.100354,36.143447],
+  "bbox": [
+    -115.100354,
+    36.143447,
+    -115.100354,
+    36.143447
+],
   "geometry": {"coordinates":[-115.100354,36.143447],"type":"Point"}
 }

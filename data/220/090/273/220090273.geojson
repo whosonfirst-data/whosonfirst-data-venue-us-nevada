@@ -2,13 +2,14 @@
   "id": 220090273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062231,36.203864,-115.062231,36.203864",
     "geom:latitude":36.203864,
     "geom:longitude":-115.062231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220090273,
-    "wof:lastmodified":1449074674,
+    "wof:lastmodified":1466702320,
     "wof:name":"Auburn Fibers",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pulp"
     ]
 },
-  "bbox": [-115.062231,36.203864,-115.062231,36.203864],
+  "bbox": [
+    -115.062231,
+    36.203864,
+    -115.062231,
+    36.203864
+],
   "geometry": {"coordinates":[-115.062231,36.203864],"type":"Point"}
 }

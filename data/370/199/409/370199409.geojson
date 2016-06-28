@@ -2,13 +2,14 @@
   "id": 370199409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.342442,36.148859,-115.342442,36.148859",
     "geom:latitude":36.148859,
     "geom:longitude":-115.342442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Alcova Ridge Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370199409,
-    "wof:lastmodified":1449029435,
+    "wof:lastmodified":1466702492,
     "wof:name":"Toll Coleman",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.342442,36.148859,-115.342442,36.148859],
-  "geometry": {"coordinates":[-115.342442,36.148859],"type":"Point"}
+  "bbox": [
+    -115.342442,
+    36.148859,
+    -115.342442,
+    36.148859
+],
+  "geometry": {"coordinates":[-115.34244200000001,36.148859],"type":"Point"}
 }

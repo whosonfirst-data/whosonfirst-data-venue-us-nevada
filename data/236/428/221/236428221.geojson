@@ -2,13 +2,14 @@
   "id": 236428221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.850048,39.487382,-119.850048,39.487382",
     "geom:latitude":39.487382,
     "geom:longitude":-119.850048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3867 Vistacrest Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236428221,
-    "wof:lastmodified":1449004984,
+    "wof:lastmodified":1466705485,
     "wof:name":"Atgi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.850048,39.487382,-119.850048,39.487382],
+  "bbox": [
+    -119.850048,
+    39.487382,
+    -119.850048,
+    39.487382
+],
   "geometry": {"coordinates":[-119.850048,39.487382],"type":"Point"}
 }

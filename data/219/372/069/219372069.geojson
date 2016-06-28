@@ -2,13 +2,14 @@
   "id": 219372069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.513345,37.614071,-114.513345,37.614071",
     "geom:latitude":37.614071,
     "geom:longitude":-114.513345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Front St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219372069,
-    "wof:lastmodified":1449072537,
+    "wof:lastmodified":1466703490,
     "wof:name":"Haven's Garage",
     "wof:parent_id":85827145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-114.513345,37.614071,-114.513345,37.614071],
+  "bbox": [
+    -114.513345,
+    37.614071,
+    -114.513345,
+    37.614071
+],
   "geometry": {"coordinates":[-114.513345,37.614071],"type":"Point"}
 }

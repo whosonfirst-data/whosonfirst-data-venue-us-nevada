@@ -2,13 +2,14 @@
   "id": 236045471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062339,36.024124,-115.062339,36.024124",
     "geom:latitude":36.024124,
     "geom:longitude":-115.062339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 S Valle Verde Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236045471,
-    "wof:lastmodified":1449004780,
+    "wof:lastmodified":1466703944,
     "wof:name":"Nevada Specialty Paper",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "paper"
     ]
 },
-  "bbox": [-115.062339,36.024124,-115.062339,36.024124],
-  "geometry": {"coordinates":[-115.062339,36.024124],"type":"Point"}
+  "bbox": [
+    -115.062339,
+    36.024124,
+    -115.062339,
+    36.024124
+],
+  "geometry": {"coordinates":[-115.06233899999999,36.024124],"type":"Point"}
 }

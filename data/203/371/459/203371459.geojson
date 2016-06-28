@@ -2,13 +2,14 @@
   "id": 203371459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745988,39.547274,-119.745988,39.547274",
     "geom:latitude":39.547274,
     "geom:longitude":-119.745988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Greenbrae Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203371459,
-    "wof:lastmodified":1449026407,
+    "wof:lastmodified":1466703230,
     "wof:name":"Aaron Absher Carpentry",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.745988,39.547274,-119.745988,39.547274],
+  "bbox": [
+    -119.745988,
+    39.547274,
+    -119.745988,
+    39.547274
+],
   "geometry": {"coordinates":[-119.745988,39.547274],"type":"Point"}
 }

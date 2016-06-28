@@ -2,13 +2,14 @@
   "id": 219393375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136114,36.027037,-115.136114,36.027037",
     "geom:latitude":36.027037,
     "geom:longitude":-115.136114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219393375,
-    "wof:lastmodified":1449071501,
+    "wof:lastmodified":1466703600,
     "wof:name":"Casa Security",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-115.136114,36.027037,-115.136114,36.027037],
-  "geometry": {"coordinates":[-115.136114,36.027037],"type":"Point"}
+  "bbox": [
+    -115.136114,
+    36.027037,
+    -115.136114,
+    36.027037
+],
+  "geometry": {"coordinates":[-115.13611400000001,36.027037],"type":"Point"}
 }

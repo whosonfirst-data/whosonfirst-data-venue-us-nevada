@@ -2,13 +2,14 @@
   "id": 236689337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.32913,36.207079,-115.32913,36.207079",
     "geom:latitude":36.207079,
     "geom:longitude":-115.32913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10620 Button Willow Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236689337,
-    "wof:lastmodified":1449004580,
+    "wof:lastmodified":1466706451,
     "wof:name":"Ledford George R & Diane B Tr",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-115.32913,36.207079,-115.32913,36.207079],
-  "geometry": {"coordinates":[-115.32913,36.207079],"type":"Point"}
+  "bbox": [
+    -115.32913,
+    36.207079,
+    -115.32913,
+    36.207079
+],
+  "geometry": {"coordinates":[-115.32913000000001,36.207079],"type":"Point"}
 }

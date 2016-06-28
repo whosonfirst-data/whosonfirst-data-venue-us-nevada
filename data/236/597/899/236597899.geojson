@@ -2,13 +2,14 @@
   "id": 236597899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260653,36.204136,-115.260653,36.204136",
     "geom:latitude":36.204136,
     "geom:longitude":-115.260653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236597899,
-    "wof:lastmodified":1449005196,
+    "wof:lastmodified":1466706349,
     "wof:name":"Jacobs Civil Inc",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-115.260653,36.204136,-115.260653,36.204136],
+  "bbox": [
+    -115.260653,
+    36.204136,
+    -115.260653,
+    36.204136
+],
   "geometry": {"coordinates":[-115.260653,36.204136],"type":"Point"}
 }

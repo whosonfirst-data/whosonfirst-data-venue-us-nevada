@@ -2,13 +2,14 @@
   "id": 203384417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075692,36.120141,-115.075692,36.120141",
     "geom:latitude":36.120141,
     "geom:longitude":-115.075692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Mountain Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203384417,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466703272,
     "wof:name":"TEG Maintenance",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.075692,36.120141,-115.075692,36.120141],
+  "bbox": [
+    -115.075692,
+    36.120141,
+    -115.075692,
+    36.120141
+],
   "geometry": {"coordinates":[-115.075692,36.120141],"type":"Point"}
 }

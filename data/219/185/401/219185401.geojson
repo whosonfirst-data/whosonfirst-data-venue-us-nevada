@@ -2,13 +2,14 @@
   "id": 219185401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774692,39.603837,-119.774692,39.603837",
     "geom:latitude":39.603837,
     "geom:longitude":-119.774692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Costa Dr",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219185401,
-    "wof:lastmodified":1449070966,
+    "wof:lastmodified":1466701975,
     "wof:name":"Mladens General",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-119.774692,39.603837,-119.774692,39.603837],
+  "bbox": [
+    -119.774692,
+    39.603837,
+    -119.774692,
+    39.603837
+],
   "geometry": {"coordinates":[-119.774692,39.603837],"type":"Point"}
 }

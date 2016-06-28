@@ -2,13 +2,14 @@
   "id": 203366503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.724104,39.657209,-119.724104,39.657209",
     "geom:latitude":39.657209,
     "geom:longitude":-119.724104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Spoonbill Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203366503,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466703209,
     "wof:name":"Ultimate Bouncers",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.724104,39.657209,-119.724104,39.657209],
+  "bbox": [
+    -119.724104,
+    39.657209,
+    -119.724104,
+    39.657209
+],
   "geometry": {"coordinates":[-119.724104,39.657209],"type":"Point"}
 }

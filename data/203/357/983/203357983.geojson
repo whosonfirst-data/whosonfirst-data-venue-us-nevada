@@ -2,13 +2,14 @@
   "id": 203357983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760034,39.161401,-119.760034,39.161401",
     "geom:latitude":39.161401,
     "geom:longitude":-119.760034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S Pratt Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203357983,
-    "wof:lastmodified":1449026636,
+    "wof:lastmodified":1466703168,
     "wof:name":"J & S Svc Etc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fix"
     ]
 },
-  "bbox": [-119.760034,39.161401,-119.760034,39.161401],
+  "bbox": [
+    -119.760034,
+    39.161401,
+    -119.760034,
+    39.161401
+],
   "geometry": {"coordinates":[-119.760034,39.161401],"type":"Point"}
 }

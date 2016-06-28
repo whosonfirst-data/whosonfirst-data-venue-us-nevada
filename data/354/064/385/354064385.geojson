@@ -2,13 +2,14 @@
   "id": 354064385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109066,36.276419,-115.109066,36.276419",
     "geom:latitude":36.276419,
     "geom:longitude":-115.109066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 W Centennial Pkwy #130",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354064385,
-    "wof:lastmodified":1449066522,
+    "wof:lastmodified":1466703153,
     "wof:name":"Sushi Tachi",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-115.109066,36.276419,-115.109066,36.276419],
+  "bbox": [
+    -115.109066,
+    36.276419,
+    -115.109066,
+    36.276419
+],
   "geometry": {"coordinates":[-115.109066,36.276419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203217649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118975,36.106186,-115.118975,36.106186",
     "geom:latitude":36.106186,
     "geom:longitude":-115.118975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203217649,
-    "wof:lastmodified":1449026760,
+    "wof:lastmodified":1466702215,
     "wof:name":"First Guaranty Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.118975,36.106186,-115.118975,36.106186],
-  "geometry": {"coordinates":[-115.118975,36.106186],"type":"Point"}
+  "bbox": [
+    -115.118975,
+    36.106186,
+    -115.118975,
+    36.106186
+],
+  "geometry": {"coordinates":[-115.11897500000001,36.106186],"type":"Point"}
 }

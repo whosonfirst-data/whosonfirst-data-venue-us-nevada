@@ -2,13 +2,14 @@
   "id": 220049799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.235481,36.108273,-115.235481,36.108273",
     "geom:latitude":36.108273,
     "geom:longitude":-115.235481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6615 Shasta Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220049799,
-    "wof:lastmodified":1449074433,
+    "wof:lastmodified":1466701999,
     "wof:name":"Ministerios Rhema",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.235481,36.108273,-115.235481,36.108273],
-  "geometry": {"coordinates":[-115.235481,36.108273],"type":"Point"}
+  "bbox": [
+    -115.235481,
+    36.108273,
+    -115.235481,
+    36.108273
+],
+  "geometry": {"coordinates":[-115.23548099999999,36.108273],"type":"Point"}
 }

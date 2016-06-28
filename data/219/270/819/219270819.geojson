@@ -2,13 +2,14 @@
   "id": 219270819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269193,36.143791,-115.269193,36.143791",
     "geom:latitude":36.143791,
     "geom:longitude":-115.269193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8125 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219270819,
-    "wof:lastmodified":1449071018,
+    "wof:lastmodified":1466702749,
     "wof:name":"As Is Department Store Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outlet"
     ]
 },
-  "bbox": [-115.269193,36.143791,-115.269193,36.143791],
+  "bbox": [
+    -115.269193,
+    36.143791,
+    -115.269193,
+    36.143791
+],
   "geometry": {"coordinates":[-115.269193,36.143791],"type":"Point"}
 }

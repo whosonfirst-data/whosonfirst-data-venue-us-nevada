@@ -2,13 +2,14 @@
   "id": 203242849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.804261,39.497058,-118.804261,39.497058",
     "geom:latitude":39.497058,
     "geom:longitude":-118.804261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2068 Gummow Dr",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203242849,
-    "wof:lastmodified":1449026640,
+    "wof:lastmodified":1466702460,
     "wof:name":"Valley Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mining"
     ]
 },
-  "bbox": [-118.804261,39.497058,-118.804261,39.497058],
+  "bbox": [
+    -118.804261,
+    39.497058,
+    -118.804261,
+    39.497058
+],
   "geometry": {"coordinates":[-118.804261,39.497058],"type":"Point"}
 }

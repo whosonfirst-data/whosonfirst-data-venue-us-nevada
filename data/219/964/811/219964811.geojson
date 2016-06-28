@@ -2,13 +2,14 @@
   "id": 219964811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071455,36.158917,-115.071455,36.158917",
     "geom:latitude":36.158917,
     "geom:longitude":-115.071455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4777 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219964811,
-    "wof:lastmodified":1449073061,
+    "wof:lastmodified":1466706039,
     "wof:name":"Instant Tax Svc",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.071455,36.158917,-115.071455,36.158917],
+  "bbox": [
+    -115.071455,
+    36.158917,
+    -115.071455,
+    36.158917
+],
   "geometry": {"coordinates":[-115.071455,36.158917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220119749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762689,39.117556,-119.762689,39.117556",
     "geom:latitude":39.117556,
     "geom:longitude":-119.762689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Clear Creek Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220119749,
-    "wof:lastmodified":1449074623,
+    "wof:lastmodified":1466702533,
     "wof:name":"Stewart Headstart Washoe Tribe",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-119.762689,39.117556,-119.762689,39.117556],
-  "geometry": {"coordinates":[-119.762689,39.117556],"type":"Point"}
+  "bbox": [
+    -119.762689,
+    39.117556,
+    -119.762689,
+    39.117556
+],
+  "geometry": {"coordinates":[-119.76268899999999,39.117556],"type":"Point"}
 }

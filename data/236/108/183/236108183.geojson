@@ -2,13 +2,14 @@
   "id": 236108183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.683995,39.20761,-119.683995,39.20761",
     "geom:latitude":39.20761,
     "geom:longitude":-119.683995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7871 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236108183,
-    "wof:lastmodified":1449001722,
+    "wof:lastmodified":1466701699,
     "wof:name":"Reno-Tahoe Concrete Pmpng Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.683995,39.20761,-119.683995,39.20761],
+  "bbox": [
+    -119.683995,
+    39.20761,
+    -119.683995,
+    39.20761
+],
   "geometry": {"coordinates":[-119.683995,39.20761],"type":"Point"}
 }

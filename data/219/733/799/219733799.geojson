@@ -2,13 +2,14 @@
   "id": 219733799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1368,36.137848,-115.1368,36.137848",
     "geom:latitude":36.137848,
     "geom:longitude":-115.1368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2770 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219733799,
-    "wof:lastmodified":1449070890,
+    "wof:lastmodified":1466704525,
     "wof:name":"Leonard P Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.1368,36.137848,-115.1368,36.137848],
-  "geometry": {"coordinates":[-115.1368,36.137848],"type":"Point"}
+  "bbox": [
+    -115.1368,
+    36.137848,
+    -115.1368,
+    36.137848
+],
+  "geometry": {"coordinates":[-115.13679999999999,36.137848],"type":"Point"}
 }

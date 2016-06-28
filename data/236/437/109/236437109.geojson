@@ -2,13 +2,14 @@
   "id": 236437109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153737,36.040518,-115.153737,36.040518",
     "geom:latitude":36.040518,
     "geom:longitude":-115.153737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Old Palms Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236437109,
-    "wof:lastmodified":1449004145,
+    "wof:lastmodified":1466705647,
     "wof:name":"Software & Systems-Tomorrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.153737,36.040518,-115.153737,36.040518],
-  "geometry": {"coordinates":[-115.153737,36.040518],"type":"Point"}
+  "bbox": [
+    -115.153737,
+    36.040518,
+    -115.153737,
+    36.040518
+],
+  "geometry": {"coordinates":[-115.15373700000001,36.040518],"type":"Point"}
 }

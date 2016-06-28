@@ -2,13 +2,14 @@
   "id": 203268581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.848651,38.930341,-119.848651,38.930341",
     "geom:latitude":38.930341,
     "geom:longitude":-119.848651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Tambourine Ranch Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203268581,
-    "wof:lastmodified":1449026030,
+    "wof:lastmodified":1466702636,
     "wof:name":"Navona & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.848651,38.930341,-119.848651,38.930341],
+  "bbox": [
+    -119.848651,
+    38.930341,
+    -119.848651,
+    38.930341
+],
   "geometry": {"coordinates":[-119.848651,38.930341],"type":"Point"}
 }

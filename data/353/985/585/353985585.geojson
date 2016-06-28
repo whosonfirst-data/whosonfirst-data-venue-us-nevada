@@ -2,13 +2,14 @@
   "id": 353985585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.991017,36.008782,-114.991017,36.008782",
     "geom:latitude":36.008782,
     "geom:longitude":-114.991017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 E Horizon Ridge Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353985585,
-    "wof:lastmodified":1449019531,
+    "wof:lastmodified":1466701463,
     "wof:name":"Tru Physical Therapy",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-114.991017,36.008782,-114.991017,36.008782],
+  "bbox": [
+    -114.991017,
+    36.008782,
+    -114.991017,
+    36.008782
+],
   "geometry": {"coordinates":[-114.991017,36.008782],"type":"Point"}
 }

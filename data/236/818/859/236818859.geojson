@@ -2,13 +2,14 @@
   "id": 236818859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163812,36.151171,-115.163812,36.151171",
     "geom:latitude":36.151171,
     "geom:longitude":-115.163812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 S Highland Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236818859,
-    "wof:lastmodified":1449003214,
+    "wof:lastmodified":1466706685,
     "wof:name":"Thomas Galligan LLC",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.163812,36.151171,-115.163812,36.151171],
-  "geometry": {"coordinates":[-115.163812,36.151171],"type":"Point"}
+  "bbox": [
+    -115.163812,
+    36.151171,
+    -115.163812,
+    36.151171
+],
+  "geometry": {"coordinates":[-115.16381199999999,36.151171],"type":"Point"}
 }

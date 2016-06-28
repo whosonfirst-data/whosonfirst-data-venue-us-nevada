@@ -2,13 +2,14 @@
   "id": 354036923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196061,36.268546,-115.196061,36.268546",
     "geom:latitude":36.268546,
     "geom:longitude":-115.196061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4122 Cotton Creek Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354036923,
-    "wof:lastmodified":1449066301,
+    "wof:lastmodified":1466702456,
     "wof:name":"JEM Accounting Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.196061,36.268546,-115.196061,36.268546],
+  "bbox": [
+    -115.196061,
+    36.268546,
+    -115.196061,
+    36.268546
+],
   "geometry": {"coordinates":[-115.196061,36.268546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236350649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213033,36.208346,-115.213033,36.208346",
     "geom:latitude":36.208346,
     "geom:longitude":-115.213033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5355 Madre Mesa Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236350649,
-    "wof:lastmodified":1449003313,
+    "wof:lastmodified":1466704923,
     "wof:name":"American Wheelchair Veterans",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-115.213033,36.208346,-115.213033,36.208346],
+  "bbox": [
+    -115.213033,
+    36.208346,
+    -115.213033,
+    36.208346
+],
   "geometry": {"coordinates":[-115.213033,36.208346],"type":"Point"}
 }

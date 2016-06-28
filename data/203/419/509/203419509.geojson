@@ -2,13 +2,14 @@
   "id": 203419509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.035465,36.212345,-116.035465,36.212345",
     "geom:latitude":36.212345,
     "geom:longitude":-116.035465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 W Wilson Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203419509,
-    "wof:lastmodified":1449026847,
+    "wof:lastmodified":1466703393,
     "wof:name":"High Places Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-116.035465,36.212345,-116.035465,36.212345],
+  "bbox": [
+    -116.035465,
+    36.212345,
+    -116.035465,
+    36.212345
+],
   "geometry": {"coordinates":[-116.035465,36.212345],"type":"Point"}
 }

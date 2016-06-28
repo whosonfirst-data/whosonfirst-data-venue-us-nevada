@@ -2,13 +2,14 @@
   "id": 236452111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181177,36.183381,-115.181177,36.183381",
     "geom:latitude":36.183381,
     "geom:longitude":-115.181177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236452111,
-    "wof:lastmodified":1449002265,
+    "wof:lastmodified":1466705602,
     "wof:name":"Cottman Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-115.181177,36.183381,-115.181177,36.183381],
-  "geometry": {"coordinates":[-115.181177,36.183381],"type":"Point"}
+  "bbox": [
+    -115.181177,
+    36.183381,
+    -115.181177,
+    36.183381
+],
+  "geometry": {"coordinates":[-115.18117700000001,36.183381],"type":"Point"}
 }

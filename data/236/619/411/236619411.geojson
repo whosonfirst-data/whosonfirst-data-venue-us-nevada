@@ -2,13 +2,14 @@
   "id": 236619411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.09747,36.113865,-115.09747,36.113865",
     "geom:latitude":36.113865,
     "geom:longitude":-115.09747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4180 Franciscan Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236619411,
-    "wof:lastmodified":1449002119,
+    "wof:lastmodified":1466706313,
     "wof:name":"Minnie Madden",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-115.09747,36.113865,-115.09747,36.113865],
+  "bbox": [
+    -115.09747,
+    36.113865,
+    -115.09747,
+    36.113865
+],
   "geometry": {"coordinates":[-115.09747,36.113865],"type":"Point"}
 }

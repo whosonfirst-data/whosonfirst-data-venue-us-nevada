@@ -2,13 +2,14 @@
   "id": 236935325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255864,36.18562,-115.255864,36.18562",
     "geom:latitude":36.18562,
     "geom:longitude":-115.255864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Pacific Terrace Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236935325,
-    "wof:lastmodified":1449004539,
+    "wof:lastmodified":1466706858,
     "wof:name":"Samson Equities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.255864,36.18562,-115.255864,36.18562],
+  "bbox": [
+    -115.255864,
+    36.18562,
+    -115.255864,
+    36.18562
+],
   "geometry": {"coordinates":[-115.255864,36.18562],"type":"Point"}
 }

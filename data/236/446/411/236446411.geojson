@@ -2,13 +2,14 @@
   "id": 236446411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06557,36.138287,-115.06557,36.138287",
     "geom:latitude":36.138287,
     "geom:longitude":-115.06557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2775 S Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236446411,
-    "wof:lastmodified":1449004910,
+    "wof:lastmodified":1466705585,
     "wof:name":"Check n Go",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "loan"
     ]
 },
-  "bbox": [-115.06557,36.138287,-115.06557,36.138287],
-  "geometry": {"coordinates":[-115.06557,36.138287],"type":"Point"}
+  "bbox": [
+    -115.06557,
+    36.138287,
+    -115.06557,
+    36.138287
+],
+  "geometry": {"coordinates":[-115.06556999999999,36.138287],"type":"Point"}
 }

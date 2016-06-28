@@ -2,13 +2,14 @@
   "id": 235950643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.892569,39.248144,-114.892569,39.248144",
     "geom:latitude":39.248144,
     "geom:longitude":-114.892569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235950643,
-    "wof:lastmodified":1449008392,
+    "wof:lastmodified":1466703530,
     "wof:name":"Liberty Club",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.892569,39.248144,-114.892569,39.248144],
-  "geometry": {"coordinates":[-114.892569,39.248144],"type":"Point"}
+  "bbox": [
+    -114.892569,
+    39.248144,
+    -114.892569,
+    39.248144
+],
+  "geometry": {"coordinates":[-114.89256899999999,39.248144],"type":"Point"}
 }

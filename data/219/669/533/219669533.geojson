@@ -2,13 +2,14 @@
   "id": 219669533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076627,35.964089,-115.076627,35.964089",
     "geom:latitude":35.964089,
     "geom:longitude":-115.076627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Mountain Cove Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219669533,
-    "wof:lastmodified":1449070792,
+    "wof:lastmodified":1466704167,
     "wof:name":"Anthem Country Club Comm Assn",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-115.076627,35.964089,-115.076627,35.964089],
+  "bbox": [
+    -115.076627,
+    35.964089,
+    -115.076627,
+    35.964089
+],
   "geometry": {"coordinates":[-115.076627,35.964089],"type":"Point"}
 }

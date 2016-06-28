@@ -2,13 +2,14 @@
   "id": 219216139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096835,36.223354,-115.096835,36.223354",
     "geom:latitude":36.223354,
     "geom:longitude":-115.096835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 Purdue Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219216139,
-    "wof:lastmodified":1449073515,
+    "wof:lastmodified":1466702206,
     "wof:name":"Computer Maintance & Supply",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.096835,36.223354,-115.096835,36.223354],
+  "bbox": [
+    -115.096835,
+    36.223354,
+    -115.096835,
+    36.223354
+],
   "geometry": {"coordinates":[-115.096835,36.223354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354143009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200228,36.125658,-115.200228,36.125658",
     "geom:latitude":36.125658,
     "geom:longitude":-115.200228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 W Spring Mountain Rd Ste 300",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354143009,
-    "wof:lastmodified":1449067364,
+    "wof:lastmodified":1466704413,
     "wof:name":"Golden Real Estate & Investments",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-115.200228,36.125658,-115.200228,36.125658],
+  "bbox": [
+    -115.200228,
+    36.125658,
+    -115.200228,
+    36.125658
+],
   "geometry": {"coordinates":[-115.200228,36.125658],"type":"Point"}
 }

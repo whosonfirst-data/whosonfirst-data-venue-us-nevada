@@ -2,13 +2,14 @@
   "id": 354256297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.133003,36.129799,-115.133003,36.129799",
     "geom:latitude":36.129799,
     "geom:longitude":-115.133003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 E Desert Inn Rd Apt 4",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354256297,
-    "wof:lastmodified":1449067237,
+    "wof:lastmodified":1466705518,
     "wof:name":"Amazona Pet Shop",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.133003,36.129799,-115.133003,36.129799],
+  "bbox": [
+    -115.133003,
+    36.129799,
+    -115.133003,
+    36.129799
+],
   "geometry": {"coordinates":[-115.133003,36.129799],"type":"Point"}
 }

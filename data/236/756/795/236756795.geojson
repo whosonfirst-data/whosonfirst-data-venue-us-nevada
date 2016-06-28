@@ -2,13 +2,14 @@
   "id": 236756795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116194,36.173942,-115.116194,36.173942",
     "geom:latitude":36.173942,
     "geom:longitude":-115.116194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236756795,
-    "wof:lastmodified":1449003656,
+    "wof:lastmodified":1466706578,
     "wof:name":"Elias Tax",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.116194,36.173942,-115.116194,36.173942],
-  "geometry": {"coordinates":[-115.116194,36.173942],"type":"Point"}
+  "bbox": [
+    -115.116194,
+    36.173942,
+    -115.116194,
+    36.173942
+],
+  "geometry": {"coordinates":[-115.11619399999999,36.173942],"type":"Point"}
 }

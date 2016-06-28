@@ -2,13 +2,14 @@
   "id": 219204309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092835,36.038261,-115.092835,36.038261",
     "geom:latitude":36.038261,
     "geom:longitude":-115.092835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2467 Ram Crossing Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219204309,
-    "wof:lastmodified":1449074035,
+    "wof:lastmodified":1466702098,
     "wof:name":"Tri County Business Services",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.092835,36.038261,-115.092835,36.038261],
-  "geometry": {"coordinates":[-115.092835,36.038261],"type":"Point"}
+  "bbox": [
+    -115.092835,
+    36.038261,
+    -115.092835,
+    36.038261
+],
+  "geometry": {"coordinates":[-115.09283499999999,36.038261],"type":"Point"}
 }

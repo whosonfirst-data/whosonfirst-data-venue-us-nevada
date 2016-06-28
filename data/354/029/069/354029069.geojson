@@ -2,13 +2,14 @@
   "id": 354029069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121564,36.195077,-115.121564,36.195077",
     "geom:latitude":36.195077,
     "geom:longitude":-115.121564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 E Lake Mead Blvd Ste 314",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354029069,
-    "wof:lastmodified":1449066643,
+    "wof:lastmodified":1466702246,
     "wof:name":"Centennial Hills OB/Gyn Assoc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-115.121564,36.195077,-115.121564,36.195077],
-  "geometry": {"coordinates":[-115.121564,36.195077],"type":"Point"}
+  "bbox": [
+    -115.121564,
+    36.195077,
+    -115.121564,
+    36.195077
+],
+  "geometry": {"coordinates":[-115.12156400000001,36.195077],"type":"Point"}
 }

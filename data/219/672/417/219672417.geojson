@@ -2,13 +2,14 @@
   "id": 219672417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.159822,36.133015,-115.159822,36.133015",
     "geom:latitude":36.133015,
     "geom:longitude":-115.159822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3064 Kishner Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219672417,
-    "wof:lastmodified":1449070609,
+    "wof:lastmodified":1466704196,
     "wof:name":"Resort Living Inc",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "day"
     ]
 },
-  "bbox": [-115.159822,36.133015,-115.159822,36.133015],
-  "geometry": {"coordinates":[-115.159822,36.133015],"type":"Point"}
+  "bbox": [
+    -115.159822,
+    36.133015,
+    -115.159822,
+    36.133015
+],
+  "geometry": {"coordinates":[-115.15982200000001,36.133015],"type":"Point"}
 }

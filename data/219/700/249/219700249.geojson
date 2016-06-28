@@ -2,13 +2,14 @@
   "id": 219700249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.837051,35.962255,-114.837051,35.962255",
     "geom:latitude":35.962255,
     "geom:longitude":-114.837051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Sandra Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219700249,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466704446,
     "wof:name":"Boundary Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.837051,35.962255,-114.837051,35.962255],
+  "bbox": [
+    -114.837051,
+    35.962255,
+    -114.837051,
+    35.962255
+],
   "geometry": {"coordinates":[-114.837051,35.962255],"type":"Point"}
 }

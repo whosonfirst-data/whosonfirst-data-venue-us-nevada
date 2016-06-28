@@ -2,13 +2,14 @@
   "id": 219716233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.757459,40.821883,-115.757459,40.821883",
     "geom:latitude":40.821883,
     "geom:longitude":-115.757459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Juneau St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219716233,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466704560,
     "wof:name":"Resource Exploration",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.757459,40.821883,-115.757459,40.821883],
+  "bbox": [
+    -115.757459,
+    40.821883,
+    -115.757459,
+    40.821883
+],
   "geometry": {"coordinates":[-115.757459,40.821883],"type":"Point"}
 }

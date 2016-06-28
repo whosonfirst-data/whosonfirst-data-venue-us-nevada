@@ -2,13 +2,14 @@
   "id": 219770929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.209637,38.989844,-119.209637,38.989844",
     "geom:latitude":38.989844,
     "geom:longitude":-119.209637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Austin St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219770929,
-    "wof:lastmodified":1449073994,
+    "wof:lastmodified":1466704925,
     "wof:name":"Weed Heights Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "utility"
     ]
 },
-  "bbox": [-119.209637,38.989844,-119.209637,38.989844],
+  "bbox": [
+    -119.209637,
+    38.989844,
+    -119.209637,
+    38.989844
+],
   "geometry": {"coordinates":[-119.209637,38.989844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203313353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101131,36.141172,-115.101131,36.141172",
     "geom:latitude":36.141172,
     "geom:longitude":-115.101131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 Jacyra Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203313353,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466702940,
     "wof:name":"T & G Enterprises",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.101131,36.141172,-115.101131,36.141172],
+  "bbox": [
+    -115.101131,
+    36.141172,
+    -115.101131,
+    36.141172
+],
   "geometry": {"coordinates":[-115.101131,36.141172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219956705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181309,36.104391,-115.181309,36.104391",
     "geom:latitude":36.104391,
     "geom:longitude":-115.181309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219956705,
-    "wof:lastmodified":1449070993,
+    "wof:lastmodified":1466705975,
     "wof:name":"South Las Vegas Dialysis Ctr",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "center"
     ]
 },
-  "bbox": [-115.181309,36.104391,-115.181309,36.104391],
+  "bbox": [
+    -115.181309,
+    36.104391,
+    -115.181309,
+    36.104391
+],
   "geometry": {"coordinates":[-115.181309,36.104391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370257331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296505,36.102027,-115.296505,36.102027",
     "geom:latitude":36.102027,
     "geom:longitude":-115.296505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4790 South Fort Apache Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370257331,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1466703848,
     "wof:name":"Sagos Baja Tavern & Lounge",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "american"
     ]
 },
-  "bbox": [-115.296505,36.102027,-115.296505,36.102027],
+  "bbox": [
+    -115.296505,
+    36.102027,
+    -115.296505,
+    36.102027
+],
   "geometry": {"coordinates":[-115.296505,36.102027],"type":"Point"}
 }

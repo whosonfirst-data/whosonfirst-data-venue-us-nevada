@@ -2,13 +2,14 @@
   "id": 236482825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.843937,39.515413,-119.843937,39.515413",
     "geom:latitude":39.515413,
     "geom:longitude":-119.843937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"682 W Riverview Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236482825,
-    "wof:lastmodified":1449002689,
+    "wof:lastmodified":1466705608,
     "wof:name":"Xchange Solutions Inc",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exchanger"
     ]
 },
-  "bbox": [-119.843937,39.515413,-119.843937,39.515413],
+  "bbox": [
+    -119.843937,
+    39.515413,
+    -119.843937,
+    39.515413
+],
   "geometry": {"coordinates":[-119.843937,39.515413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236021861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.037284,36.213776,-116.037284,36.213776",
     "geom:latitude":36.213776,
     "geom:longitude":-116.037284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Donner St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236021861,
-    "wof:lastmodified":1449003786,
+    "wof:lastmodified":1466703873,
     "wof:name":"Dollens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dog"
     ]
 },
-  "bbox": [-116.037284,36.213776,-116.037284,36.213776],
+  "bbox": [
+    -116.037284,
+    36.213776,
+    -116.037284,
+    36.213776
+],
   "geometry": {"coordinates":[-116.037284,36.213776],"type":"Point"}
 }

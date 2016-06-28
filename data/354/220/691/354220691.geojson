@@ -2,13 +2,14 @@
   "id": 354220691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242337,36.202921,-115.242337,36.202921",
     "geom:latitude":36.202921,
     "geom:longitude":-115.242337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 N Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354220691,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1466705141,
     "wof:name":"Yoko Hama Sushi",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "japanese"
     ]
 },
-  "bbox": [-115.242337,36.202921,-115.242337,36.202921],
-  "geometry": {"coordinates":[-115.242337,36.202921],"type":"Point"}
+  "bbox": [
+    -115.242337,
+    36.202921,
+    -115.242337,
+    36.202921
+],
+  "geometry": {"coordinates":[-115.24233700000001,36.202921],"type":"Point"}
 }

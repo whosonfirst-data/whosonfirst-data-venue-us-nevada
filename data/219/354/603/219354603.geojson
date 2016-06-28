@@ -2,13 +2,14 @@
   "id": 219354603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807795,39.492784,-119.807795,39.492784",
     "geom:latitude":39.492784,
     "geom:longitude":-119.807795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219354603,
-    "wof:lastmodified":1449073525,
+    "wof:lastmodified":1466703427,
     "wof:name":"Offishal Aquarium",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-119.807795,39.492784,-119.807795,39.492784],
+  "bbox": [
+    -119.807795,
+    39.492784,
+    -119.807795,
+    39.492784
+],
   "geometry": {"coordinates":[-119.807795,39.492784],"type":"Point"}
 }

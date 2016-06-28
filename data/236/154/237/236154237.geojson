@@ -2,13 +2,14 @@
   "id": 236154237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.768023,40.8484,-115.768023,40.8484",
     "geom:latitude":40.8484,
     "geom:longitude":-115.768023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Keppler Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236154237,
-    "wof:lastmodified":1449005300,
+    "wof:lastmodified":1466702658,
     "wof:name":"Long Shotz",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-115.768023,40.8484,-115.768023,40.8484],
+  "bbox": [
+    -115.768023,
+    40.8484,
+    -115.768023,
+    40.8484
+],
   "geometry": {"coordinates":[-115.768023,40.8484],"type":"Point"}
 }

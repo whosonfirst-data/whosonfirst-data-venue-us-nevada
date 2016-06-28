@@ -2,13 +2,14 @@
   "id": 370345109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735001,39.1763,-119.735001,39.1763",
     "geom:latitude":39.1763,
     "geom:longitude":-119.735001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3075 US Highway 50 E",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370345109,
-    "wof:lastmodified":1449032204,
+    "wof:lastmodified":1466705160,
     "wof:name":"Aamco Transmissions",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.735001,39.1763,-119.735001,39.1763],
+  "bbox": [
+    -119.735001,
+    39.1763,
+    -119.735001,
+    39.1763
+],
   "geometry": {"coordinates":[-119.735001,39.1763],"type":"Point"}
 }

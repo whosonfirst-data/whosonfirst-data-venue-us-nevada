@@ -2,13 +2,14 @@
   "id": 219471447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180582,36.159003,-115.180582,36.159003",
     "geom:latitude":36.159003,
     "geom:longitude":-115.180582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219471447,
-    "wof:lastmodified":1449071805,
+    "wof:lastmodified":1466704037,
     "wof:name":"Robert John Powers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-115.180582,36.159003,-115.180582,36.159003],
+  "bbox": [
+    -115.180582,
+    36.159003,
+    -115.180582,
+    36.159003
+],
   "geometry": {"coordinates":[-115.180582,36.159003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236251489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203778,36.093399,-115.203778,36.093399",
     "geom:latitude":36.093399,
     "geom:longitude":-115.203778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5430 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236251489,
-    "wof:lastmodified":1449001725,
+    "wof:lastmodified":1466704400,
     "wof:name":"Siemans Westinghouse Technical",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.203778,36.093399,-115.203778,36.093399],
+  "bbox": [
+    -115.203778,
+    36.093399,
+    -115.203778,
+    36.093399
+],
   "geometry": {"coordinates":[-115.203778,36.093399],"type":"Point"}
 }

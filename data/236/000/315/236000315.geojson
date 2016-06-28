@@ -2,13 +2,14 @@
   "id": 236000315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.226252,39.595457,-119.226252,39.595457",
     "geom:latitude":39.595457,
     "geom:longitude":-119.226252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Alexander Ct",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236000315,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1466703763,
     "wof:name":"Pacific Business Forms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-119.226252,39.595457,-119.226252,39.595457],
+  "bbox": [
+    -119.226252,
+    39.595457,
+    -119.226252,
+    39.595457
+],
   "geometry": {"coordinates":[-119.226252,39.595457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354009805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050086,36.056013,-115.050086,36.056013",
     "geom:latitude":36.056013,
     "geom:longitude":-115.050086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1489 W Warm Springs Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354009805,
-    "wof:lastmodified":1449067649,
+    "wof:lastmodified":1466701725,
     "wof:name":"Just Stop My Foreclosure",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.050086,36.056013,-115.050086,36.056013],
-  "geometry": {"coordinates":[-115.050086,36.056013],"type":"Point"}
+  "bbox": [
+    -115.050086,
+    36.056013,
+    -115.050086,
+    36.056013
+],
+  "geometry": {"coordinates":[-115.05008599999999,36.056013],"type":"Point"}
 }

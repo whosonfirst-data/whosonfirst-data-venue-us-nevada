@@ -2,13 +2,14 @@
   "id": 219295465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194471,36.104031,-115.194471,36.104031",
     "geom:latitude":36.104031,
     "geom:longitude":-115.194471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 Wynn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219295465,
-    "wof:lastmodified":1449071821,
+    "wof:lastmodified":1466703039,
     "wof:name":"Southern Nv Roofing Supply Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.194471,36.104031,-115.194471,36.104031],
-  "geometry": {"coordinates":[-115.194471,36.104031],"type":"Point"}
+  "bbox": [
+    -115.194471,
+    36.104031,
+    -115.194471,
+    36.104031
+],
+  "geometry": {"coordinates":[-115.19447099999999,36.104031],"type":"Point"}
 }

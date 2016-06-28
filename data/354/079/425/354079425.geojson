@@ -2,13 +2,14 @@
   "id": 354079425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140101,36.161782,-115.140101,36.161782",
     "geom:latitude":36.161782,
     "geom:longitude":-115.140101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 S 9th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354079425,
-    "wof:lastmodified":1449067364,
+    "wof:lastmodified":1466703574,
     "wof:name":"Radical Networks Inc",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "web"
     ]
 },
-  "bbox": [-115.140101,36.161782,-115.140101,36.161782],
+  "bbox": [
+    -115.140101,
+    36.161782,
+    -115.140101,
+    36.161782
+],
   "geometry": {"coordinates":[-115.140101,36.161782],"type":"Point"}
 }

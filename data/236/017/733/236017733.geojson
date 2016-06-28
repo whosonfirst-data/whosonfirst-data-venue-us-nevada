@@ -2,13 +2,14 @@
   "id": 236017733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.790908,39.473978,-118.790908,39.473978",
     "geom:latitude":39.473978,
     "geom:longitude":-118.790908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Whitaker Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236017733,
-    "wof:lastmodified":1449003399,
+    "wof:lastmodified":1466703851,
     "wof:name":"Family To Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-118.790908,39.473978,-118.790908,39.473978],
+  "bbox": [
+    -118.790908,
+    39.473978,
+    -118.790908,
+    39.473978
+],
   "geometry": {"coordinates":[-118.790908,39.473978],"type":"Point"}
 }

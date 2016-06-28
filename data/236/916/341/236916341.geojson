@@ -2,13 +2,14 @@
   "id": 236916341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774626,39.512983,-119.774626,39.512983",
     "geom:latitude":39.512983,
     "geom:longitude":-119.774626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 Vassar St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236916341,
-    "wof:lastmodified":1449003471,
+    "wof:lastmodified":1466706833,
     "wof:name":"Outboard Technologies",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [-119.774626,39.512983,-119.774626,39.512983],
+  "bbox": [
+    -119.774626,
+    39.512983,
+    -119.774626,
+    39.512983
+],
   "geometry": {"coordinates":[-119.774626,39.512983],"type":"Point"}
 }

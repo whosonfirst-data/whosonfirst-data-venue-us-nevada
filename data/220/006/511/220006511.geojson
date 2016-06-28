@@ -2,13 +2,14 @@
   "id": 220006511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103159,36.000743,-115.103159,36.000743",
     "geom:latitude":36.000743,
     "geom:longitude":-115.103159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2642 W Horizon Ridge Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220006511,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466701487,
     "wof:name":"3rd Eye Credit Repair",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rating"
     ]
 },
-  "bbox": [-115.103159,36.000743,-115.103159,36.000743],
-  "geometry": {"coordinates":[-115.103159,36.000743],"type":"Point"}
+  "bbox": [
+    -115.103159,
+    36.000743,
+    -115.103159,
+    36.000743
+],
+  "geometry": {"coordinates":[-115.10315900000001,36.000743],"type":"Point"}
 }

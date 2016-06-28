@@ -2,13 +2,14 @@
   "id": 220021733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.290575,36.220593,-115.290575,36.220593",
     "geom:latitude":36.220593,
     "geom:longitude":-115.290575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9016 Chenin Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021733,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466701698,
     "wof:name":"Kmj Entertainment",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-115.290575,36.220593,-115.290575,36.220593],
+  "bbox": [
+    -115.290575,
+    36.220593,
+    -115.290575,
+    36.220593
+],
   "geometry": {"coordinates":[-115.290575,36.220593],"type":"Point"}
 }

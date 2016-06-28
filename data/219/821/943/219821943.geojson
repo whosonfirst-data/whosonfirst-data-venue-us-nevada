@@ -2,13 +2,14 @@
   "id": 219821943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265707,36.245601,-115.265707,36.245601",
     "geom:latitude":36.245601,
     "geom:longitude":-115.265707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 Bird View Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219821943,
-    "wof:lastmodified":1449072296,
+    "wof:lastmodified":1466705070,
     "wof:name":"Envirocon International Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "construction"
     ]
 },
-  "bbox": [-115.265707,36.245601,-115.265707,36.245601],
-  "geometry": {"coordinates":[-115.265707,36.245601],"type":"Point"}
+  "bbox": [
+    -115.265707,
+    36.245601,
+    -115.265707,
+    36.245601
+],
+  "geometry": {"coordinates":[-115.26570700000001,36.245601],"type":"Point"}
 }

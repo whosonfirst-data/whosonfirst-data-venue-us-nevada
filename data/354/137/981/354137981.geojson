@@ -2,13 +2,14 @@
   "id": 354137981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203825,36.143844,-115.203825,36.143844",
     "geom:latitude":36.143844,
     "geom:longitude":-115.203825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 W Sahara Ave Ste H",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354137981,
-    "wof:lastmodified":1449067432,
+    "wof:lastmodified":1466704529,
     "wof:name":"Limelite Pro Audio & Dj Supply",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dj"
     ]
 },
-  "bbox": [-115.203825,36.143844,-115.203825,36.143844],
-  "geometry": {"coordinates":[-115.203825,36.143844],"type":"Point"}
+  "bbox": [
+    -115.203825,
+    36.143844,
+    -115.203825,
+    36.143844
+],
+  "geometry": {"coordinates":[-115.20382499999999,36.143844],"type":"Point"}
 }

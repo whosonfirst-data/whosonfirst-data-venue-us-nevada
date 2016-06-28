@@ -2,13 +2,14 @@
   "id": 220056861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802648,39.495512,-119.802648,39.495512",
     "geom:latitude":39.495512,
     "geom:longitude":-119.802648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220056861,
-    "wof:lastmodified":1449074243,
+    "wof:lastmodified":1466702100,
     "wof:name":"Ebmc Manegement",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-119.802648,39.495512,-119.802648,39.495512],
+  "bbox": [
+    -119.802648,
+    39.495512,
+    -119.802648,
+    39.495512
+],
   "geometry": {"coordinates":[-119.802648,39.495512],"type":"Point"}
 }

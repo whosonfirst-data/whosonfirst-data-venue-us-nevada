@@ -2,13 +2,14 @@
   "id": 236720377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811422,39.528645,-119.811422,39.528645",
     "geom:latitude":39.528645,
     "geom:longitude":-119.811422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Commercial Row",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236720377,
-    "wof:lastmodified":1449002271,
+    "wof:lastmodified":1466706504,
     "wof:name":"Amtrak",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-119.811422,39.528645,-119.811422,39.528645],
-  "geometry": {"coordinates":[-119.811422,39.528645],"type":"Point"}
+  "bbox": [
+    -119.811422,
+    39.528645,
+    -119.811422,
+    39.528645
+],
+  "geometry": {"coordinates":[-119.81142199999999,39.528645],"type":"Point"}
 }

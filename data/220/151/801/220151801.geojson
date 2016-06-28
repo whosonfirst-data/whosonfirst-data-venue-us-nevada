@@ -2,13 +2,14 @@
   "id": 220151801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284672,36.190273,-115.284672,36.190273",
     "geom:latitude":36.190273,
     "geom:longitude":-115.284672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Hills of Red Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220151801,
-    "wof:lastmodified":1449074072,
+    "wof:lastmodified":1466702780,
     "wof:name":"Richard Fletcher & Assoc Inc",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-115.284672,36.190273,-115.284672,36.190273],
+  "bbox": [
+    -115.284672,
+    36.190273,
+    -115.284672,
+    36.190273
+],
   "geometry": {"coordinates":[-115.284672,36.190273],"type":"Point"}
 }

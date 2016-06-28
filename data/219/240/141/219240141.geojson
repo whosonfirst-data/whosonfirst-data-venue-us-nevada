@@ -2,13 +2,14 @@
   "id": 219240141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.910029,39.633334,-119.910029,39.633334",
     "geom:latitude":39.633334,
     "geom:longitude":-119.910029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7990 Shifting Sands Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219240141,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1466702427,
     "wof:name":"OCP Records",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.910029,39.633334,-119.910029,39.633334],
-  "geometry": {"coordinates":[-119.910029,39.633334],"type":"Point"}
+  "bbox": [
+    -119.910029,
+    39.633334,
+    -119.910029,
+    39.633334
+],
+  "geometry": {"coordinates":[-119.91002899999999,39.633334],"type":"Point"}
 }

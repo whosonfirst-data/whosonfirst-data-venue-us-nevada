@@ -2,13 +2,14 @@
   "id": 236161247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242854,36.136476,-115.242854,36.136476",
     "geom:latitude":36.136476,
     "geom:longitude":-115.242854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236161247,
-    "wof:lastmodified":1449002866,
+    "wof:lastmodified":1466702797,
     "wof:name":"Vegas Valley Ventures Inc",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-115.242854,36.136476,-115.242854,36.136476],
-  "geometry": {"coordinates":[-115.242854,36.136476],"type":"Point"}
+  "bbox": [
+    -115.242854,
+    36.136476,
+    -115.242854,
+    36.136476
+],
+  "geometry": {"coordinates":[-115.24285399999999,36.136476],"type":"Point"}
 }

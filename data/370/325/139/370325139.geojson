@@ -2,13 +2,14 @@
   "id": 370325139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811416,39.505732,-119.811416,39.505732",
     "geom:latitude":39.505732,
     "geom:longitude":-119.811416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":370325139,
-    "wof:lastmodified":1449030408,
+    "wof:lastmodified":1466704637,
     "wof:name":"Answerwest Inc.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-119.811416,39.505732,-119.811416,39.505732],
-  "geometry": {"coordinates":[-119.811416,39.505732],"type":"Point"}
+  "bbox": [
+    -119.811416,
+    39.505732,
+    -119.811416,
+    39.505732
+],
+  "geometry": {"coordinates":[-119.81141599999999,39.505732],"type":"Point"}
 }

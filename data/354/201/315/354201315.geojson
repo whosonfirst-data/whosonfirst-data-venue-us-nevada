@@ -2,13 +2,14 @@
   "id": 354201315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206205,36.16528,-115.206205,36.16528",
     "geom:latitude":36.16528,
     "geom:longitude":-115.206205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 S Decatur Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354201315,
-    "wof:lastmodified":1449067442,
+    "wof:lastmodified":1466705030,
     "wof:name":"Peter Piper Pizza",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-115.206205,36.16528,-115.206205,36.16528],
+  "bbox": [
+    -115.206205,
+    36.16528,
+    -115.206205,
+    36.16528
+],
   "geometry": {"coordinates":[-115.206205,36.16528],"type":"Point"}
 }

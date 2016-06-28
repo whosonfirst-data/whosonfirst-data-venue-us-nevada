@@ -2,13 +2,14 @@
   "id": 252715539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242216,36.179289,-115.242216,36.179289",
     "geom:latitude":36.179289,
     "geom:longitude":-115.242216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252715539,
-    "wof:lastmodified":1449006284,
+    "wof:lastmodified":1466701635,
     "wof:name":"CYCLESCHOOL.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-115.242216,36.179289,-115.242216,36.179289],
+  "bbox": [
+    -115.242216,
+    36.179289,
+    -115.242216,
+    36.179289
+],
   "geometry": {"coordinates":[-115.242216,36.179289],"type":"Point"}
 }

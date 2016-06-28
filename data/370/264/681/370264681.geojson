@@ -2,13 +2,14 @@
   "id": 370264681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284775,36.070406,-115.284775,36.070406",
     "geom:latitude":36.070406,
     "geom:longitude":-115.284775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8930 W Sunset Rd Ste 140",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370264681,
-    "wof:lastmodified":1449031274,
+    "wof:lastmodified":1466704063,
     "wof:name":"Edward M Zimmerman MD, PC",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-115.284775,36.070406,-115.284775,36.070406],
+  "bbox": [
+    -115.284775,
+    36.070406,
+    -115.284775,
+    36.070406
+],
   "geometry": {"coordinates":[-115.284775,36.070406],"type":"Point"}
 }

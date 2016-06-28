@@ -2,13 +2,14 @@
   "id": 370326371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806875,39.509697,-119.806875,39.509697",
     "geom:latitude":39.509697,
     "geom:longitude":-119.806875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Mount Rose St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370326371,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466704661,
     "wof:name":"Life's Touch Therapeutic Body Works",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-119.806875,39.509697,-119.806875,39.509697],
-  "geometry": {"coordinates":[-119.806875,39.509697],"type":"Point"}
+  "bbox": [
+    -119.806875,
+    39.509697,
+    -119.806875,
+    39.509697
+],
+  "geometry": {"coordinates":[-119.80687500000001,39.509697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219237081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791635,39.529508,-119.791635,39.529508",
     "geom:latitude":39.529508,
     "geom:longitude":-119.791635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Kuenzli St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219237081,
-    "wof:lastmodified":1449070455,
+    "wof:lastmodified":1466704212,
     "wof:name":"Mill End Fabrics",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.791635,39.529508,-119.791635,39.529508],
+  "bbox": [
+    -119.791635,
+    39.529508,
+    -119.791635,
+    39.529508
+],
   "geometry": {"coordinates":[-119.791635,39.529508],"type":"Point"}
 }

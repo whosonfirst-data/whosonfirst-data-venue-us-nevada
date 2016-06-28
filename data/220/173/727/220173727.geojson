@@ -2,13 +2,14 @@
   "id": 220173727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.779165,40.835175,-115.779165,40.835175",
     "geom:latitude":40.835175,
     "geom:longitude":-115.779165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Northside Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220173727,
-    "wof:lastmodified":1449074193,
+    "wof:lastmodified":1466702911,
     "wof:name":"Zent Company",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-115.779165,40.835175,-115.779165,40.835175],
-  "geometry": {"coordinates":[-115.779165,40.835175],"type":"Point"}
+  "bbox": [
+    -115.779165,
+    40.835175,
+    -115.779165,
+    40.835175
+],
+  "geometry": {"coordinates":[-115.77916500000001,40.835175],"type":"Point"}
 }

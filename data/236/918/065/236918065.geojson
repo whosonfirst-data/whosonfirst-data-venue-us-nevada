@@ -2,13 +2,14 @@
   "id": 236918065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.971978,36.049169,-114.971978,36.049169",
     "geom:latitude":36.049169,
     "geom:longitude":-114.971978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236918065,
-    "wof:lastmodified":1449003987,
+    "wof:lastmodified":1466706827,
     "wof:name":"All Rainbow Rentals",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-114.971978,36.049169,-114.971978,36.049169],
-  "geometry": {"coordinates":[-114.971978,36.049169],"type":"Point"}
+  "bbox": [
+    -114.971978,
+    36.049169,
+    -114.971978,
+    36.049169
+],
+  "geometry": {"coordinates":[-114.97197799999999,36.049169],"type":"Point"}
 }

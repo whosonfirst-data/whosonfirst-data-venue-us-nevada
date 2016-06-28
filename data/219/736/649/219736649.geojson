@@ -2,13 +2,14 @@
   "id": 219736649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.090054,36.149424,-115.090054,36.149424",
     "geom:latitude":36.149424,
     "geom:longitude":-115.090054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 Shannon Christine Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219736649,
-    "wof:lastmodified":1449073872,
+    "wof:lastmodified":1466704660,
     "wof:name":"Amigos Auto Repair & Towing",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.090054,36.149424,-115.090054,36.149424],
-  "geometry": {"coordinates":[-115.090054,36.149424],"type":"Point"}
+  "bbox": [
+    -115.090054,
+    36.149424,
+    -115.090054,
+    36.149424
+],
+  "geometry": {"coordinates":[-115.09005399999999,36.149424],"type":"Point"}
 }

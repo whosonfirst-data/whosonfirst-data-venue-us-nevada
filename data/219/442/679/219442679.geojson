@@ -2,13 +2,14 @@
   "id": 219442679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.056863,36.21824,-115.056863,36.21824",
     "geom:latitude":36.21824,
     "geom:longitude":-115.056863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 E Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219442679,
-    "wof:lastmodified":1449071940,
+    "wof:lastmodified":1466703841,
     "wof:name":"Metals USA",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.056863,36.21824,-115.056863,36.21824],
-  "geometry": {"coordinates":[-115.056863,36.21824],"type":"Point"}
+  "bbox": [
+    -115.056863,
+    36.21824,
+    -115.056863,
+    36.21824
+],
+  "geometry": {"coordinates":[-115.05686300000001,36.21824],"type":"Point"}
 }

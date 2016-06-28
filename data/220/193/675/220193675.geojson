@@ -2,13 +2,14 @@
   "id": 220193675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.324401,36.113114,-115.324401,36.113114",
     "geom:latitude":36.113114,
     "geom:longitude":-115.324401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10565 Santo Marco Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220193675,
-    "wof:lastmodified":1449074168,
+    "wof:lastmodified":1466703045,
     "wof:name":"Jackie's Jems",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-115.324401,36.113114,-115.324401,36.113114],
-  "geometry": {"coordinates":[-115.324401,36.113114],"type":"Point"}
+  "bbox": [
+    -115.324401,
+    36.113114,
+    -115.324401,
+    36.113114
+],
+  "geometry": {"coordinates":[-115.32440099999999,36.113114],"type":"Point"}
 }

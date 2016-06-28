@@ -2,13 +2,14 @@
   "id": 236437453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837688,39.496728,-119.837688,39.496728",
     "geom:latitude":39.496728,
     "geom:longitude":-119.837688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3066 Markridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236437453,
-    "wof:lastmodified":1449004148,
+    "wof:lastmodified":1466705552,
     "wof:name":"Nims Associates",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.837688,39.496728,-119.837688,39.496728],
+  "bbox": [
+    -119.837688,
+    39.496728,
+    -119.837688,
+    39.496728
+],
   "geometry": {"coordinates":[-119.837688,39.496728],"type":"Point"}
 }

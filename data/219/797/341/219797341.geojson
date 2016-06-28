@@ -2,13 +2,14 @@
   "id": 219797341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775336,39.514013,-119.775336,39.514013",
     "geom:latitude":39.514013,
     "geom:longitude":-119.775336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 Bible Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219797341,
-    "wof:lastmodified":1449073571,
+    "wof:lastmodified":1466704947,
     "wof:name":"K M K Pro Body & Frame",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-119.775336,39.514013,-119.775336,39.514013],
+  "bbox": [
+    -119.775336,
+    39.514013,
+    -119.775336,
+    39.514013
+],
   "geometry": {"coordinates":[-119.775336,39.514013],"type":"Point"}
 }

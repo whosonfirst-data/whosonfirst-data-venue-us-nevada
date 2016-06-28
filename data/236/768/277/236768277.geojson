@@ -2,13 +2,14 @@
   "id": 236768277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.890205,39.248388,-114.890205,39.248388",
     "geom:latitude":39.248388,
     "geom:longitude":-114.890205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236768277,
-    "wof:lastmodified":1449002820,
+    "wof:lastmodified":1466706727,
     "wof:name":"Aerocare Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-114.890205,39.248388,-114.890205,39.248388],
-  "geometry": {"coordinates":[-114.890205,39.248388],"type":"Point"}
+  "bbox": [
+    -114.890205,
+    39.248388,
+    -114.890205,
+    39.248388
+],
+  "geometry": {"coordinates":[-114.89020499999999,39.248388],"type":"Point"}
 }

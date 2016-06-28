@@ -2,13 +2,14 @@
   "id": 354053771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118592,36.016911,-115.118592,36.016911",
     "geom:latitude":36.016911,
     "geom:longitude":-115.118592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 S Eastern Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354053771,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1466702873,
     "wof:name":"Cars and Coffee",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.118592,36.016911,-115.118592,36.016911],
-  "geometry": {"coordinates":[-115.118592,36.016911],"type":"Point"}
+  "bbox": [
+    -115.118592,
+    36.016911,
+    -115.118592,
+    36.016911
+],
+  "geometry": {"coordinates":[-115.11859200000001,36.016911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219674083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.083551,39.010874,-119.083551,39.010874",
     "geom:latitude":39.010874,
     "geom:longitude":-119.083551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Cardon Ln",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219674083,
-    "wof:lastmodified":1449073037,
+    "wof:lastmodified":1466704278,
     "wof:name":"A & B Lawnmowers & Second Hand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-119.083551,39.010874,-119.083551,39.010874],
+  "bbox": [
+    -119.083551,
+    39.010874,
+    -119.083551,
+    39.010874
+],
   "geometry": {"coordinates":[-119.083551,39.010874],"type":"Point"}
 }

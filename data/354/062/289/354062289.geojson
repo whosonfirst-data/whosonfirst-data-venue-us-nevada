@@ -2,13 +2,14 @@
   "id": 354062289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118768,36.013494,-115.118768,36.013494",
     "geom:latitude":36.013494,
     "geom:longitude":-115.118768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9680 S Eastern #110",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354062289,
-    "wof:lastmodified":1449067552,
+    "wof:lastmodified":1466703090,
     "wof:name":"Vegas Sports Nutrition",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.118768,36.013494,-115.118768,36.013494],
+  "bbox": [
+    -115.118768,
+    36.013494,
+    -115.118768,
+    36.013494
+],
   "geometry": {"coordinates":[-115.118768,36.013494],"type":"Point"}
 }

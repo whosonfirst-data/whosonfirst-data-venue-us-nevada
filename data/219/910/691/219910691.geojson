@@ -2,13 +2,14 @@
   "id": 219910691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118494,36.021329,-115.118494,36.021329",
     "geom:latitude":36.021329,
     "geom:longitude":-115.118494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9260 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219910691,
-    "wof:lastmodified":1449071855,
+    "wof:lastmodified":1466705698,
     "wof:name":"Smog Busters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "smog"
     ]
 },
-  "bbox": [-115.118494,36.021329,-115.118494,36.021329],
+  "bbox": [
+    -115.118494,
+    36.021329,
+    -115.118494,
+    36.021329
+],
   "geometry": {"coordinates":[-115.118494,36.021329],"type":"Point"}
 }

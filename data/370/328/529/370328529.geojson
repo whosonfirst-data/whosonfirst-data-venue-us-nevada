@@ -2,13 +2,14 @@
   "id": 370328529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770808,39.44088,-119.770808,39.44088",
     "geom:latitude":39.44088,
     "geom:longitude":-119.770808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9744 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":370328529,
-    "wof:lastmodified":1449031070,
+    "wof:lastmodified":1466704706,
     "wof:name":"The Woodworking Source",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "finishing"
     ]
 },
-  "bbox": [-119.770808,39.44088,-119.770808,39.44088],
+  "bbox": [
+    -119.770808,
+    39.44088,
+    -119.770808,
+    39.44088
+],
   "geometry": {"coordinates":[-119.770808,39.44088],"type":"Point"}
 }

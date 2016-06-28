@@ -2,13 +2,14 @@
   "id": 219482357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.126131,36.158787,-115.126131,36.158787",
     "geom:latitude":36.158787,
     "geom:longitude":-115.126131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1748 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219482357,
-    "wof:lastmodified":1449071645,
+    "wof:lastmodified":1466704078,
     "wof:name":"Wild Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.126131,36.158787,-115.126131,36.158787],
+  "bbox": [
+    -115.126131,
+    36.158787,
+    -115.126131,
+    36.158787
+],
   "geometry": {"coordinates":[-115.126131,36.158787],"type":"Point"}
 }

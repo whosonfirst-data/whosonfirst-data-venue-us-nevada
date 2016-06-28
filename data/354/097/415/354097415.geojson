@@ -2,13 +2,14 @@
   "id": 354097415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145445,36.159945,-115.145445,36.159945",
     "geom:latitude":36.159945,
     "geom:longitude":-115.145445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 S 6th Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354097415,
-    "wof:lastmodified":1449066584,
+    "wof:lastmodified":1466704061,
     "wof:name":"Cawley F Kelly Atty",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.145445,36.159945,-115.145445,36.159945],
+  "bbox": [
+    -115.145445,
+    36.159945,
+    -115.145445,
+    36.159945
+],
   "geometry": {"coordinates":[-115.145445,36.159945],"type":"Point"}
 }

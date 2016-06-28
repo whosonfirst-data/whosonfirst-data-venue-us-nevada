@@ -2,13 +2,14 @@
   "id": 236852357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.156162,38.990347,-119.156162,38.990347",
     "geom:latitude":38.990347,
     "geom:longitude":-119.156162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Pearl St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236852357,
-    "wof:lastmodified":1449004575,
+    "wof:lastmodified":1466706734,
     "wof:name":"Just Like Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-119.156162,38.990347,-119.156162,38.990347],
-  "geometry": {"coordinates":[-119.156162,38.990347],"type":"Point"}
+  "bbox": [
+    -119.156162,
+    38.990347,
+    -119.156162,
+    38.990347
+],
+  "geometry": {"coordinates":[-119.15616199999999,38.990347],"type":"Point"}
 }

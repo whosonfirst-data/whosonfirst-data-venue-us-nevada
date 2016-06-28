@@ -2,13 +2,14 @@
   "id": 219347845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059788,36.100385,-115.059788,36.100385",
     "geom:latitude":36.100385,
     "geom:longitude":-115.059788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219347845,
-    "wof:lastmodified":1449072099,
+    "wof:lastmodified":1466703392,
     "wof:name":"Up In Smoke",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.059788,36.100385,-115.059788,36.100385],
+  "bbox": [
+    -115.059788,
+    36.100385,
+    -115.059788,
+    36.100385
+],
   "geometry": {"coordinates":[-115.059788,36.100385],"type":"Point"}
 }

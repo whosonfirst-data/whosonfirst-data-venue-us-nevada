@@ -2,13 +2,14 @@
   "id": 236058139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.993218,36.217377,-115.993218,36.217377",
     "geom:latitude":36.217377,
     "geom:longitude":-115.993218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236058139,
-    "wof:lastmodified":1449002037,
+    "wof:lastmodified":1466703981,
     "wof:name":"Pahrump Express Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-115.993218,36.217377,-115.993218,36.217377],
+  "bbox": [
+    -115.993218,
+    36.217377,
+    -115.993218,
+    36.217377
+],
   "geometry": {"coordinates":[-115.993218,36.217377],"type":"Point"}
 }

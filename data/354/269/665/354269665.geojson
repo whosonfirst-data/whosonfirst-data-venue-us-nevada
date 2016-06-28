@@ -2,13 +2,14 @@
   "id": 354269665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06954,36.188645,-115.06954,36.188645",
     "geom:latitude":36.188645,
     "geom:longitude":-115.06954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4770 E Owens Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354269665,
-    "wof:lastmodified":1449067025,
+    "wof:lastmodified":1466705508,
     "wof:name":"Cc Soul Food",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soul"
     ]
 },
-  "bbox": [-115.06954,36.188645,-115.06954,36.188645],
+  "bbox": [
+    -115.06954,
+    36.188645,
+    -115.06954,
+    36.188645
+],
   "geometry": {"coordinates":[-115.06954,36.188645],"type":"Point"}
 }

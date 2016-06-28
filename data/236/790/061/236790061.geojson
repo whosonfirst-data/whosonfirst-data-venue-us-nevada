@@ -2,13 +2,14 @@
   "id": 236790061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781659,39.381224,-119.781659,39.381224",
     "geom:latitude":39.381224,
     "geom:longitude":-119.781659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4290 Great Falls Loop",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236790061,
-    "wof:lastmodified":1449004322,
+    "wof:lastmodified":1466706637,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "industrial"
     ]
 },
-  "bbox": [-119.781659,39.381224,-119.781659,39.381224],
+  "bbox": [
+    -119.781659,
+    39.381224,
+    -119.781659,
+    39.381224
+],
   "geometry": {"coordinates":[-119.781659,39.381224],"type":"Point"}
 }

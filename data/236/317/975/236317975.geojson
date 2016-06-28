@@ -2,13 +2,14 @@
   "id": 236317975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242849,36.092165,-115.242849,36.092165",
     "geom:latitude":36.092165,
     "geom:longitude":-115.242849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5380 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236317975,
-    "wof:lastmodified":1449003105,
+    "wof:lastmodified":1466704819,
     "wof:name":"Glassman Kramer & Scarff",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.242849,36.092165,-115.242849,36.092165],
-  "geometry": {"coordinates":[-115.242849,36.092165],"type":"Point"}
+  "bbox": [
+    -115.242849,
+    36.092165,
+    -115.242849,
+    36.092165
+],
+  "geometry": {"coordinates":[-115.24284900000001,36.092165],"type":"Point"}
 }

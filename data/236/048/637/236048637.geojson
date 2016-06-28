@@ -2,13 +2,14 @@
   "id": 236048637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808282,39.513352,-119.808282,39.513352",
     "geom:latitude":39.513352,
     "geom:longitude":-119.808282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1091 Haskell St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236048637,
-    "wof:lastmodified":1449002660,
+    "wof:lastmodified":1466703961,
     "wof:name":"Couples Institute of Reno Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-119.808282,39.513352,-119.808282,39.513352],
-  "geometry": {"coordinates":[-119.808282,39.513352],"type":"Point"}
+  "bbox": [
+    -119.808282,
+    39.513352,
+    -119.808282,
+    39.513352
+],
+  "geometry": {"coordinates":[-119.80828200000001,39.513352],"type":"Point"}
 }

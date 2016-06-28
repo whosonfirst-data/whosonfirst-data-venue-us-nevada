@@ -2,13 +2,14 @@
   "id": 220067981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.84107,35.97995,-114.84107,35.97995",
     "geom:latitude":35.97995,
     "geom:longitude":-114.84107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Colorado St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220067981,
-    "wof:lastmodified":1449074092,
+    "wof:lastmodified":1466702195,
     "wof:name":"Los Posadas Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-114.84107,35.97995,-114.84107,35.97995],
+  "bbox": [
+    -114.84107,
+    35.97995,
+    -114.84107,
+    35.97995
+],
   "geometry": {"coordinates":[-114.84107,35.97995],"type":"Point"}
 }

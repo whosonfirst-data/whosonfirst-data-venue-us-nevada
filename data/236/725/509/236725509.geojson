@@ -2,13 +2,14 @@
   "id": 236725509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184842,36.184132,-115.184842,36.184132",
     "geom:latitude":36.184132,
     "geom:longitude":-115.184842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Riverside Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236725509,
-    "wof:lastmodified":1449002279,
+    "wof:lastmodified":1466706528,
     "wof:name":"Cooper Concrete",
     "wof:parent_id":85892731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.184842,36.184132,-115.184842,36.184132],
+  "bbox": [
+    -115.184842,
+    36.184132,
+    -115.184842,
+    36.184132
+],
   "geometry": {"coordinates":[-115.184842,36.184132],"type":"Point"}
 }

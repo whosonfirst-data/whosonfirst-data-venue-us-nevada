@@ -2,13 +2,14 @@
   "id": 203161283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798263,39.476653,-119.798263,39.476653",
     "geom:latitude":39.476653,
     "geom:longitude":-119.798263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6560 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203161283,
-    "wof:lastmodified":1449025663,
+    "wof:lastmodified":1466701633,
     "wof:name":"Mill Direct Svcs A Nev Corp",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-119.798263,39.476653,-119.798263,39.476653],
-  "geometry": {"coordinates":[-119.798263,39.476653],"type":"Point"}
+  "bbox": [
+    -119.798263,
+    39.476653,
+    -119.798263,
+    39.476653
+],
+  "geometry": {"coordinates":[-119.79826300000001,39.476653],"type":"Point"}
 }

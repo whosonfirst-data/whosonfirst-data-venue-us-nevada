@@ -2,13 +2,14 @@
   "id": 236778141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.155605,36.055152,-115.155605,36.055152",
     "geom:latitude":36.055152,
     "geom:longitude":-115.155605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Kenya Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236778141,
-    "wof:lastmodified":1449001727,
+    "wof:lastmodified":1466706607,
     "wof:name":"Advanced Pro Remediation LLC",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.155605,36.055152,-115.155605,36.055152],
-  "geometry": {"coordinates":[-115.155605,36.055152],"type":"Point"}
+  "bbox": [
+    -115.155605,
+    36.055152,
+    -115.155605,
+    36.055152
+],
+  "geometry": {"coordinates":[-115.15560499999999,36.055152],"type":"Point"}
 }

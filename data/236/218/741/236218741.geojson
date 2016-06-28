@@ -2,13 +2,14 @@
   "id": 236218741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136603,36.175429,-115.136603,36.175429",
     "geom:latitude":36.175429,
     "geom:longitude":-115.136603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236218741,
-    "wof:lastmodified":1449003798,
+    "wof:lastmodified":1466703951,
     "wof:name":"Ukulele Lounge",
     "wof:parent_id":85892657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-115.136603,36.175429,-115.136603,36.175429],
-  "geometry": {"coordinates":[-115.136603,36.175429],"type":"Point"}
+  "bbox": [
+    -115.136603,
+    36.175429,
+    -115.136603,
+    36.175429
+],
+  "geometry": {"coordinates":[-115.13660299999999,36.175429],"type":"Point"}
 }

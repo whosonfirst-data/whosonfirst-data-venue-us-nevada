@@ -2,13 +2,14 @@
   "id": 370150217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256653,36.196018,-115.256653,36.196018",
     "geom:latitude":36.196018,
     "geom:longitude":-115.256653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7477 W Lake Mead Blvd Ste 150",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370150217,
-    "wof:lastmodified":1449029114,
+    "wof:lastmodified":1466701536,
     "wof:name":"Desert Hoa Management",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.256653,36.196018,-115.256653,36.196018],
+  "bbox": [
+    -115.256653,
+    36.196018,
+    -115.256653,
+    36.196018
+],
   "geometry": {"coordinates":[-115.256653,36.196018],"type":"Point"}
 }

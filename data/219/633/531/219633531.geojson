@@ -2,13 +2,14 @@
   "id": 219633531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749466,39.143391,-119.749466,39.143391",
     "geom:latitude":39.143391,
     "geom:longitude":-119.749466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2639 Sycamore Glen Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219633531,
-    "wof:lastmodified":1449073882,
+    "wof:lastmodified":1466703521,
     "wof:name":"All American Blind Cleaning",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.749466,39.143391,-119.749466,39.143391],
+  "bbox": [
+    -119.749466,
+    39.143391,
+    -119.749466,
+    39.143391
+],
   "geometry": {"coordinates":[-119.749466,39.143391],"type":"Point"}
 }

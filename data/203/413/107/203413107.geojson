@@ -2,13 +2,14 @@
   "id": 203413107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.711938,39.552673,-119.711938,39.552673",
     "geom:latitude":39.552673,
     "geom:longitude":-119.711938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 del Rosa Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203413107,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466703367,
     "wof:name":"Lloyd Ddrchsen Elementary Schl",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.711938,39.552673,-119.711938,39.552673],
+  "bbox": [
+    -119.711938,
+    39.552673,
+    -119.711938,
+    39.552673
+],
   "geometry": {"coordinates":[-119.711938,39.552673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236890223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2277,36.224275,-115.2277,36.224275",
     "geom:latitude":36.224275,
     "geom:longitude":-115.2277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3560 N Bronco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236890223,
-    "wof:lastmodified":1449002217,
+    "wof:lastmodified":1466706788,
     "wof:name":"Summit Arms Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.2277,36.224275,-115.2277,36.224275],
+  "bbox": [
+    -115.2277,
+    36.224275,
+    -115.2277,
+    36.224275
+],
   "geometry": {"coordinates":[-115.2277,36.224275],"type":"Point"}
 }

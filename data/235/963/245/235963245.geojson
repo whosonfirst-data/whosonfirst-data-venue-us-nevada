@@ -2,13 +2,14 @@
   "id": 235963245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992724,36.206526,-115.992724,36.206526",
     "geom:latitude":36.206526,
     "geom:longitude":-115.992724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 5th St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235963245,
-    "wof:lastmodified":1449008313,
+    "wof:lastmodified":1466703580,
     "wof:name":"United Title of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-115.992724,36.206526,-115.992724,36.206526],
+  "bbox": [
+    -115.992724,
+    36.206526,
+    -115.992724,
+    36.206526
+],
   "geometry": {"coordinates":[-115.992724,36.206526],"type":"Point"}
 }

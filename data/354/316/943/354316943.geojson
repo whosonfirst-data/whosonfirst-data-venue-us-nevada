@@ -2,13 +2,14 @@
   "id": 354316943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277032,36.144267,-115.277032,36.144267",
     "geom:latitude":36.144267,
     "geom:longitude":-115.277032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8508 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354316943,
-    "wof:lastmodified":1449067129,
+    "wof:lastmodified":1466705691,
     "wof:name":"0 007 Lock 1 Service",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.277032,36.144267,-115.277032,36.144267],
-  "geometry": {"coordinates":[-115.277032,36.144267],"type":"Point"}
+  "bbox": [
+    -115.277032,
+    36.144267,
+    -115.277032,
+    36.144267
+],
+  "geometry": {"coordinates":[-115.27703200000001,36.144267],"type":"Point"}
 }

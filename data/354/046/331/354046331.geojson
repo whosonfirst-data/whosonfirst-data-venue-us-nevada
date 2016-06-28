@@ -2,13 +2,14 @@
   "id": 354046331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184419,36.197461,-115.184419,36.197461",
     "geom:latitude":36.197461,
     "geom:longitude":-115.184419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3395 W Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354046331,
-    "wof:lastmodified":1449066887,
+    "wof:lastmodified":1466702673,
     "wof:name":"Scooterx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.184419,36.197461,-115.184419,36.197461],
-  "geometry": {"coordinates":[-115.184419,36.197461],"type":"Point"}
+  "bbox": [
+    -115.184419,
+    36.197461,
+    -115.184419,
+    36.197461
+],
+  "geometry": {"coordinates":[-115.18441900000001,36.197461],"type":"Point"}
 }

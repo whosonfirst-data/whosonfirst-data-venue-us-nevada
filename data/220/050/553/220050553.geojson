@@ -2,13 +2,14 @@
   "id": 220050553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.330569,36.16337,-115.330569,36.16337",
     "geom:latitude":36.16337,
     "geom:longitude":-115.330569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10710 Destination Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220050553,
-    "wof:lastmodified":1449074493,
+    "wof:lastmodified":1466701994,
     "wof:name":"Breaking Into Hollywood",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-115.330569,36.16337,-115.330569,36.16337],
+  "bbox": [
+    -115.330569,
+    36.16337,
+    -115.330569,
+    36.16337
+],
   "geometry": {"coordinates":[-115.330569,36.16337],"type":"Point"}
 }

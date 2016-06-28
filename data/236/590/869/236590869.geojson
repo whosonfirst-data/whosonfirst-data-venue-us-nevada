@@ -2,13 +2,14 @@
   "id": 236590869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178949,36.155733,-115.178949,36.155733",
     "geom:latitude":36.155733,
     "geom:longitude":-115.178949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Cahlan Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236590869,
-    "wof:lastmodified":1449003646,
+    "wof:lastmodified":1466706239,
     "wof:name":"In Speer Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.178949,36.155733,-115.178949,36.155733],
+  "bbox": [
+    -115.178949,
+    36.155733,
+    -115.178949,
+    36.155733
+],
   "geometry": {"coordinates":[-115.178949,36.155733],"type":"Point"}
 }

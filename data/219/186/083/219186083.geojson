@@ -2,13 +2,14 @@
   "id": 219186083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742402,39.519964,-119.742402,39.519964",
     "geom:latitude":39.519964,
     "geom:longitude":-119.742402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Coney Island Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219186083,
-    "wof:lastmodified":1449073165,
+    "wof:lastmodified":1466701977,
     "wof:name":"Comstock Transportation Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-119.742402,39.519964,-119.742402,39.519964],
+  "bbox": [
+    -119.742402,
+    39.519964,
+    -119.742402,
+    39.519964
+],
   "geometry": {"coordinates":[-119.742402,39.519964],"type":"Point"}
 }

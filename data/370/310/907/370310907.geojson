@@ -2,13 +2,14 @@
   "id": 370310907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722974,39.523072,-119.722974,39.523072",
     "geom:latitude":39.523072,
     "geom:longitude":-119.722974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Kleppe Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370310907,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466704683,
     "wof:name":"Pestmaster Services",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "weed"
     ]
 },
-  "bbox": [-119.722974,39.523072,-119.722974,39.523072],
-  "geometry": {"coordinates":[-119.722974,39.523072],"type":"Point"}
+  "bbox": [
+    -119.722974,
+    39.523072,
+    -119.722974,
+    39.523072
+],
+  "geometry": {"coordinates":[-119.72297399999999,39.523072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235984037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76851,39.165942,-119.76851,39.165942",
     "geom:latitude":39.165942,
     "geom:longitude":-119.76851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Telegraph St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":235984037,
-    "wof:lastmodified":1449008439,
+    "wof:lastmodified":1466704250,
     "wof:name":"Glass Creek Studio",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.76851,39.165942,-119.76851,39.165942],
-  "geometry": {"coordinates":[-119.76851,39.165942],"type":"Point"}
+  "bbox": [
+    -119.76851,
+    39.165942,
+    -119.76851,
+    39.165942
+],
+  "geometry": {"coordinates":[-119.76851000000001,39.165942],"type":"Point"}
 }

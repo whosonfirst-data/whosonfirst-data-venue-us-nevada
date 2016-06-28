@@ -2,13 +2,14 @@
   "id": 219520997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189911,36.092236,-115.189911,36.092236",
     "geom:latitude":36.092236,
     "geom:longitude":-115.189911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219520997,
-    "wof:lastmodified":1449071561,
+    "wof:lastmodified":1466701683,
     "wof:name":"Titan Stairs & Trim",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stair"
     ]
 },
-  "bbox": [-115.189911,36.092236,-115.189911,36.092236],
+  "bbox": [
+    -115.189911,
+    36.092236,
+    -115.189911,
+    36.092236
+],
   "geometry": {"coordinates":[-115.189911,36.092236],"type":"Point"}
 }

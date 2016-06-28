@@ -2,13 +2,14 @@
   "id": 236695787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.954474,39.252862,-119.954474,39.252862",
     "geom:latitude":39.252862,
     "geom:longitude":-119.954474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"866 Northwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236695787,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466706599,
     "wof:name":"Henry's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.954474,39.252862,-119.954474,39.252862],
+  "bbox": [
+    -119.954474,
+    39.252862,
+    -119.954474,
+    39.252862
+],
   "geometry": {"coordinates":[-119.954474,39.252862],"type":"Point"}
 }

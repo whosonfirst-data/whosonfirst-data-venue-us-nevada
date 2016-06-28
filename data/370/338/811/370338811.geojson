@@ -2,13 +2,14 @@
   "id": 370338811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.685997,39.1996,-119.685997,39.1996",
     "geom:latitude":39.1996,
     "geom:longitude":-119.685997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Flint Drive",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370338811,
-    "wof:lastmodified":1449030270,
+    "wof:lastmodified":1466704962,
     "wof:name":"Carson City Shooting Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "life"
     ]
 },
-  "bbox": [-119.685997,39.1996,-119.685997,39.1996],
+  "bbox": [
+    -119.685997,
+    39.1996,
+    -119.685997,
+    39.1996
+],
   "geometry": {"coordinates":[-119.685997,39.1996],"type":"Point"}
 }

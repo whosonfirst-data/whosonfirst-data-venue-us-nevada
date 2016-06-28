@@ -2,13 +2,14 @@
   "id": 354417635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.25975,36.188747,-115.25975,36.188747",
     "geom:latitude":36.188747,
     "geom:longitude":-115.25975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7595 W Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354417635,
-    "wof:lastmodified":1449066618,
+    "wof:lastmodified":1466706350,
     "wof:name":"Fresh & Easy Neighborhood Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.25975,36.188747,-115.25975,36.188747],
+  "bbox": [
+    -115.25975,
+    36.188747,
+    -115.25975,
+    36.188747
+],
   "geometry": {"coordinates":[-115.25975,36.188747],"type":"Point"}
 }

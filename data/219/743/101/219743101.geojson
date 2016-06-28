@@ -2,13 +2,14 @@
   "id": 219743101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.018818,36.209608,-116.018818,36.209608",
     "geom:latitude":36.209608,
     "geom:longitude":-116.018818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Big Five Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219743101,
-    "wof:lastmodified":1449073892,
+    "wof:lastmodified":1466704574,
     "wof:name":"America One Finance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.018818,36.209608,-116.018818,36.209608],
+  "bbox": [
+    -116.018818,
+    36.209608,
+    -116.018818,
+    36.209608
+],
   "geometry": {"coordinates":[-116.018818,36.209608],"type":"Point"}
 }

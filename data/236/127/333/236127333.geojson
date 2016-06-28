@@ -2,13 +2,14 @@
   "id": 236127333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764664,39.52761,-119.764664,39.52761",
     "geom:latitude":39.52761,
     "geom:longitude":-119.764664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236127333,
-    "wof:lastmodified":1449004926,
+    "wof:lastmodified":1466702076,
     "wof:name":"Ross's Garage",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-119.764664,39.52761,-119.764664,39.52761],
+  "bbox": [
+    -119.764664,
+    39.52761,
+    -119.764664,
+    39.52761
+],
   "geometry": {"coordinates":[-119.764664,39.52761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219358047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10972,36.089935,-115.10972,36.089935",
     "geom:latitude":36.089935,
     "geom:longitude":-115.10972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5530 McLeod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219358047,
-    "wof:lastmodified":1449071871,
+    "wof:lastmodified":1466703420,
     "wof:name":"Chapel Gordon Productions Inc",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-115.10972,36.089935,-115.10972,36.089935],
+  "bbox": [
+    -115.10972,
+    36.089935,
+    -115.10972,
+    36.089935
+],
   "geometry": {"coordinates":[-115.10972,36.089935],"type":"Point"}
 }

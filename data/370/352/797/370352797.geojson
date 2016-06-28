@@ -2,13 +2,14 @@
   "id": 370352797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774072,39.109567,-119.774072,39.109567",
     "geom:latitude":39.109567,
     "geom:longitude":-119.774072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3790 US Highway 395 S Ste 303",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370352797,
-    "wof:lastmodified":1449031169,
+    "wof:lastmodified":1466705055,
     "wof:name":"Clear Creek Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774072,39.109567,-119.774072,39.109567],
+  "bbox": [
+    -119.774072,
+    39.109567,
+    -119.774072,
+    39.109567
+],
   "geometry": {"coordinates":[-119.774072,39.109567],"type":"Point"}
 }

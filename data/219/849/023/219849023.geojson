@@ -2,13 +2,14 @@
   "id": 219849023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260593,36.172247,-115.260593,36.172247",
     "geom:latitude":36.172247,
     "geom:longitude":-115.260593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Sam Jonas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219849023,
-    "wof:lastmodified":1449071047,
+    "wof:lastmodified":1466705464,
     "wof:name":"UDS Professional Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.260593,36.172247,-115.260593,36.172247],
+  "bbox": [
+    -115.260593,
+    36.172247,
+    -115.260593,
+    36.172247
+],
   "geometry": {"coordinates":[-115.260593,36.172247],"type":"Point"}
 }

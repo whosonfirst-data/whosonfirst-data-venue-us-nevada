@@ -2,13 +2,14 @@
   "id": 236906993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142049,36.129691,-115.142049,36.129691",
     "geom:latitude":36.129691,
     "geom:longitude":-115.142049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236906993,
-    "wof:lastmodified":1449002800,
+    "wof:lastmodified":1466706826,
     "wof:name":"Rock & Hollywood Sports Legend",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-115.142049,36.129691,-115.142049,36.129691],
+  "bbox": [
+    -115.142049,
+    36.129691,
+    -115.142049,
+    36.129691
+],
   "geometry": {"coordinates":[-115.142049,36.129691],"type":"Point"}
 }

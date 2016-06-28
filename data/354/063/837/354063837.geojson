@@ -2,13 +2,14 @@
   "id": 354063837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119041,36.276259,-115.119041,36.276259",
     "geom:latitude":36.276259,
     "geom:longitude":-115.119041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 E Centennial Pkwy Ste 110",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354063837,
-    "wof:lastmodified":1449066078,
+    "wof:lastmodified":1466703137,
     "wof:name":"Staples Dental Implants",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "endodontist"
     ]
 },
-  "bbox": [-115.119041,36.276259,-115.119041,36.276259],
+  "bbox": [
+    -115.119041,
+    36.276259,
+    -115.119041,
+    36.276259
+],
   "geometry": {"coordinates":[-115.119041,36.276259],"type":"Point"}
 }

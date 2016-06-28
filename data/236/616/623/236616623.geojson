@@ -2,13 +2,14 @@
   "id": 236616623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760639,39.139213,-119.760639,39.139213",
     "geom:latitude":39.139213,
     "geom:longitude":-119.760639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Travis Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236616623,
-    "wof:lastmodified":1449004193,
+    "wof:lastmodified":1466706301,
     "wof:name":"Little Ones Childcare",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.760639,39.139213,-119.760639,39.139213],
+  "bbox": [
+    -119.760639,
+    39.139213,
+    -119.760639,
+    39.139213
+],
   "geometry": {"coordinates":[-119.760639,39.139213],"type":"Point"}
 }

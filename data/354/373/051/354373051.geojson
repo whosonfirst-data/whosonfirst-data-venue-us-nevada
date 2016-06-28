@@ -2,13 +2,14 @@
   "id": 354373051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103758,36.086428,-115.103758,36.086428",
     "geom:latitude":36.086428,
     "geom:longitude":-115.103758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 E Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354373051,
-    "wof:lastmodified":1449066806,
+    "wof:lastmodified":1466706256,
     "wof:name":"Golden Flower Chinese Cuisine",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.103758,36.086428,-115.103758,36.086428],
+  "bbox": [
+    -115.103758,
+    36.086428,
+    -115.103758,
+    36.086428
+],
   "geometry": {"coordinates":[-115.103758,36.086428],"type":"Point"}
 }

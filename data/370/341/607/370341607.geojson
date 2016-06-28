@@ -2,13 +2,14 @@
   "id": 370341607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749001,39.148499,-119.749001,39.148499",
     "geom:latitude":39.148499,
     "geom:longitude":-119.749001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6490 S McCarran Bl 18",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370341607,
-    "wof:lastmodified":1449032321,
+    "wof:lastmodified":1466704846,
     "wof:name":"American Academy of Pediatric Dentistry",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-119.749001,39.148499,-119.749001,39.148499],
-  "geometry": {"coordinates":[-119.749001,39.148499],"type":"Point"}
+  "bbox": [
+    -119.749001,
+    39.148499,
+    -119.749001,
+    39.148499
+],
+  "geometry": {"coordinates":[-119.74900100000001,39.148499],"type":"Point"}
 }

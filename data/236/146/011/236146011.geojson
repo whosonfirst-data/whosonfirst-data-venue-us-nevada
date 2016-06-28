@@ -2,13 +2,14 @@
   "id": 236146011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.158339,38.996514,-119.158339,38.996514",
     "geom:latitude":38.996514,
     "geom:longitude":-119.158339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Oregon St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236146011,
-    "wof:lastmodified":1449002939,
+    "wof:lastmodified":1466702474,
     "wof:name":"Emmetts Landscape Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.158339,38.996514,-119.158339,38.996514],
+  "bbox": [
+    -119.158339,
+    38.996514,
+    -119.158339,
+    38.996514
+],
   "geometry": {"coordinates":[-119.158339,38.996514],"type":"Point"}
 }

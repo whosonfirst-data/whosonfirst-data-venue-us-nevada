@@ -2,13 +2,14 @@
   "id": 236857933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164165,36.1496,-115.164165,36.1496",
     "geom:latitude":36.1496,
     "geom:longitude":-115.164165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236857933,
-    "wof:lastmodified":1449003861,
+    "wof:lastmodified":1466706861,
     "wof:name":"Navada Floor Covering",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.164165,36.1496,-115.164165,36.1496],
+  "bbox": [
+    -115.164165,
+    36.1496,
+    -115.164165,
+    36.1496
+],
   "geometry": {"coordinates":[-115.164165,36.1496],"type":"Point"}
 }

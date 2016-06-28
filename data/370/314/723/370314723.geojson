@@ -2,13 +2,14 @@
   "id": 370314723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.810498,39.52647,-119.810498,39.52647",
     "geom:latitude":39.52647,
     "geom:longitude":-119.810498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 E 1st St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370314723,
-    "wof:lastmodified":1449032325,
+    "wof:lastmodified":1466704818,
     "wof:name":"Bible Mousel",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.810498,39.52647,-119.810498,39.52647],
+  "bbox": [
+    -119.810498,
+    39.52647,
+    -119.810498,
+    39.52647
+],
   "geometry": {"coordinates":[-119.810498,39.52647],"type":"Point"}
 }

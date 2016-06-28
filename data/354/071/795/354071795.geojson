@@ -2,13 +2,14 @@
   "id": 354071795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.083386,36.136848,-115.083386,36.136848",
     "geom:latitude":36.136848,
     "geom:longitude":-115.083386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4186 Vegas Valley Drive B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354071795,
-    "wof:lastmodified":1449067031,
+    "wof:lastmodified":1466703368,
     "wof:name":"Children's Choice Learning Centers",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.083386,36.136848,-115.083386,36.136848],
+  "bbox": [
+    -115.083386,
+    36.136848,
+    -115.083386,
+    36.136848
+],
   "geometry": {"coordinates":[-115.083386,36.136848],"type":"Point"}
 }

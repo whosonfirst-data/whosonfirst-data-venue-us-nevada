@@ -2,13 +2,14 @@
   "id": 236881339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062642,36.051067,-115.062642,36.051067",
     "geom:latitude":36.051067,
     "geom:longitude":-115.062642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Vallarte Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236881339,
-    "wof:lastmodified":1449003584,
+    "wof:lastmodified":1466706884,
     "wof:name":"Cuisine By Design",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.062642,36.051067,-115.062642,36.051067],
+  "bbox": [
+    -115.062642,
+    36.051067,
+    -115.062642,
+    36.051067
+],
   "geometry": {"coordinates":[-115.062642,36.051067],"type":"Point"}
 }

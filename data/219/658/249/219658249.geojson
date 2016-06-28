@@ -2,13 +2,14 @@
   "id": 219658249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80856,39.514388,-119.80856,39.514388",
     "geom:latitude":39.514388,
     "geom:longitude":-119.80856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Mary St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219658249,
-    "wof:lastmodified":1449070301,
+    "wof:lastmodified":1466703966,
     "wof:name":"Marketec Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "analysis"
     ]
 },
-  "bbox": [-119.80856,39.514388,-119.80856,39.514388],
+  "bbox": [
+    -119.80856,
+    39.514388,
+    -119.80856,
+    39.514388
+],
   "geometry": {"coordinates":[-119.80856,39.514388],"type":"Point"}
 }

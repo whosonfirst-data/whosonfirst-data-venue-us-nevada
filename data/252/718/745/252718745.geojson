@@ -2,13 +2,14 @@
   "id": 252718745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789244,39.525623,-119.789244,39.525623",
     "geom:latitude":39.525623,
     "geom:longitude":-119.789244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252718745,
-    "wof:lastmodified":1449005660,
+    "wof:lastmodified":1466701703,
     "wof:name":"Sierra Classics & Imports",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789244,39.525623,-119.789244,39.525623],
+  "bbox": [
+    -119.789244,
+    39.525623,
+    -119.789244,
+    39.525623
+],
   "geometry": {"coordinates":[-119.789244,39.525623],"type":"Point"}
 }

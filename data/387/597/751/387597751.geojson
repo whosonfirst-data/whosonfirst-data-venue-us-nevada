@@ -2,13 +2,14 @@
   "id": 387597751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.944015,38.956275,-119.944015,38.956275",
     "geom:latitude":38.956275,
     "geom:longitude":-119.944015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4061 Lake Tahoe Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387597751,
-    "wof:lastmodified":1449059870,
+    "wof:lastmodified":1466701494,
     "wof:name":"Stardust Lodge",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-119.944015,38.956275,-119.944015,38.956275],
-  "geometry": {"coordinates":[-119.944015,38.956275],"type":"Point"}
+  "bbox": [
+    -119.944015,
+    38.956275,
+    -119.944015,
+    38.956275
+],
+  "geometry": {"coordinates":[-119.94401499999999,38.956275],"type":"Point"}
 }

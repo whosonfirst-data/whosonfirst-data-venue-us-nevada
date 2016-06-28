@@ -2,13 +2,14 @@
   "id": 354160293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194301,36.124739,-115.194301,36.124739",
     "geom:latitude":36.124739,
     "geom:longitude":-115.194301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 Schiff Dr.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354160293,
-    "wof:lastmodified":1449067375,
+    "wof:lastmodified":1466704617,
     "wof:name":"Triton Security Inc.",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "event"
     ]
 },
-  "bbox": [-115.194301,36.124739,-115.194301,36.124739],
+  "bbox": [
+    -115.194301,
+    36.124739,
+    -115.194301,
+    36.124739
+],
   "geometry": {"coordinates":[-115.194301,36.124739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219325381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.282225,36.043028,-115.282225,36.043028",
     "geom:latitude":36.043028,
     "geom:longitude":-115.282225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Sea Rim Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219325381,
-    "wof:lastmodified":1449071771,
+    "wof:lastmodified":1466703252,
     "wof:name":"SPI Corp",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "imaging"
     ]
 },
-  "bbox": [-115.282225,36.043028,-115.282225,36.043028],
+  "bbox": [
+    -115.282225,
+    36.043028,
+    -115.282225,
+    36.043028
+],
   "geometry": {"coordinates":[-115.282225,36.043028],"type":"Point"}
 }

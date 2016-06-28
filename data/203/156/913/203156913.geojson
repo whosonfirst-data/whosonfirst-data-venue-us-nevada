@@ -2,13 +2,14 @@
   "id": 203156913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06577,36.016412,-115.06577,36.016412",
     "geom:latitude":36.016412,
     "geom:longitude":-115.06577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1863 Desert Forest Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203156913,
-    "wof:lastmodified":1449025313,
+    "wof:lastmodified":1466701587,
     "wof:name":"Pacific Arena Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gravel"
     ]
 },
-  "bbox": [-115.06577,36.016412,-115.06577,36.016412],
+  "bbox": [
+    -115.06577,
+    36.016412,
+    -115.06577,
+    36.016412
+],
   "geometry": {"coordinates":[-115.06577,36.016412],"type":"Point"}
 }

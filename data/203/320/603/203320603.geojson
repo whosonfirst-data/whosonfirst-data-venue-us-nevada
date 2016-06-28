@@ -2,13 +2,14 @@
   "id": 203320603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227288,36.21214,-115.227288,36.21214",
     "geom:latitude":36.21214,
     "geom:longitude":-115.227288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2885 N Bronco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203320603,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466702971,
     "wof:name":"Ladas Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.227288,36.21214,-115.227288,36.21214],
+  "bbox": [
+    -115.227288,
+    36.21214,
+    -115.227288,
+    36.21214
+],
   "geometry": {"coordinates":[-115.227288,36.21214],"type":"Point"}
 }

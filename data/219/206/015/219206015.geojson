@@ -2,13 +2,14 @@
   "id": 219206015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798037,39.500052,-119.798037,39.500052",
     "geom:latitude":39.500052,
     "geom:longitude":-119.798037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Linden St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219206015,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466702112,
     "wof:name":"Majestic Neon & Sign Mntnc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.798037,39.500052,-119.798037,39.500052],
-  "geometry": {"coordinates":[-119.798037,39.500052],"type":"Point"}
+  "bbox": [
+    -119.798037,
+    39.500052,
+    -119.798037,
+    39.500052
+],
+  "geometry": {"coordinates":[-119.79803699999999,39.500052],"type":"Point"}
 }

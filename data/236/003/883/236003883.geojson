@@ -2,13 +2,14 @@
   "id": 236003883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.044436,36.080757,-115.044436,36.080757",
     "geom:latitude":36.080757,
     "geom:longitude":-115.044436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1098 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236003883,
-    "wof:lastmodified":1449004940,
+    "wof:lastmodified":1466703790,
     "wof:name":"Storage Place",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "leasing"
     ]
 },
-  "bbox": [-115.044436,36.080757,-115.044436,36.080757],
+  "bbox": [
+    -115.044436,
+    36.080757,
+    -115.044436,
+    36.080757
+],
   "geometry": {"coordinates":[-115.044436,36.080757],"type":"Point"}
 }

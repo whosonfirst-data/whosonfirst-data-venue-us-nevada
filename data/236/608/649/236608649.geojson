@@ -2,13 +2,14 @@
   "id": 236608649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.676544,40.782363,-115.676544,40.782363",
     "geom:latitude":40.782363,
     "geom:longitude":-115.676544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Belloak Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236608649,
-    "wof:lastmodified":1449002997,
+    "wof:lastmodified":1466706372,
     "wof:name":"Genesis Professional Svcs LLC",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveying"
     ]
 },
-  "bbox": [-115.676544,40.782363,-115.676544,40.782363],
-  "geometry": {"coordinates":[-115.676544,40.782363],"type":"Point"}
+  "bbox": [
+    -115.676544,
+    40.782363,
+    -115.676544,
+    40.782363
+],
+  "geometry": {"coordinates":[-115.67654400000001,40.782363],"type":"Point"}
 }

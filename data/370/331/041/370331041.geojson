@@ -2,13 +2,14 @@
   "id": 370331041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807906,39.549974,-119.807906,39.549974",
     "geom:latitude":39.549974,
     "geom:longitude":-119.807906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Valley Rd Ste U",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370331041,
-    "wof:lastmodified":1449031142,
+    "wof:lastmodified":1466704858,
     "wof:name":"Desert Wood Products",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-119.807906,39.549974,-119.807906,39.549974],
+  "bbox": [
+    -119.807906,
+    39.549974,
+    -119.807906,
+    39.549974
+],
   "geometry": {"coordinates":[-119.807906,39.549974],"type":"Point"}
 }

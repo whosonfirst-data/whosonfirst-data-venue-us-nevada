@@ -2,13 +2,14 @@
   "id": 370211167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035281,36.144579,-115.035281,36.144579",
     "geom:latitude":36.144579,
     "geom:longitude":-115.035281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6360 E Sahara Avenue Apt 2092",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370211167,
-    "wof:lastmodified":1449029929,
+    "wof:lastmodified":1466702831,
     "wof:name":"The Villas At Sunrise Mountain",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.035281,36.144579,-115.035281,36.144579],
+  "bbox": [
+    -115.035281,
+    36.144579,
+    -115.035281,
+    36.144579
+],
   "geometry": {"coordinates":[-115.035281,36.144579],"type":"Point"}
 }

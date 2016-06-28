@@ -2,13 +2,14 @@
   "id": 370195145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280256,36.210382,-115.280256,36.210382",
     "geom:latitude":36.210382,
     "geom:longitude":-115.280256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8538 Del Webb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370195145,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1466702390,
     "wof:name":"Active Lady",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.280256,36.210382,-115.280256,36.210382],
-  "geometry": {"coordinates":[-115.280256,36.210382],"type":"Point"}
+  "bbox": [
+    -115.280256,
+    36.210382,
+    -115.280256,
+    36.210382
+],
+  "geometry": {"coordinates":[-115.28025599999999,36.210382],"type":"Point"}
 }

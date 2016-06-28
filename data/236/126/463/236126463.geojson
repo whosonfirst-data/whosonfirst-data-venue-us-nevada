@@ -2,13 +2,14 @@
   "id": 236126463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778719,39.511381,-119.778719,39.511381",
     "geom:latitude":39.511381,
     "geom:longitude":-119.778719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Airmotive Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236126463,
-    "wof:lastmodified":1449002751,
+    "wof:lastmodified":1466702060,
     "wof:name":"Quadravision",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-119.778719,39.511381,-119.778719,39.511381],
+  "bbox": [
+    -119.778719,
+    39.511381,
+    -119.778719,
+    39.511381
+],
   "geometry": {"coordinates":[-119.778719,39.511381],"type":"Point"}
 }

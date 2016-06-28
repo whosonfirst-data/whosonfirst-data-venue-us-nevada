@@ -2,13 +2,14 @@
   "id": 236193153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210983,36.246675,-115.210983,36.246675",
     "geom:latitude":36.246675,
     "geom:longitude":-115.210983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4822 W Lone Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236193153,
-    "wof:lastmodified":1449002077,
+    "wof:lastmodified":1466703423,
     "wof:name":"Pearly Whites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hygienist"
     ]
 },
-  "bbox": [-115.210983,36.246675,-115.210983,36.246675],
+  "bbox": [
+    -115.210983,
+    36.246675,
+    -115.210983,
+    36.246675
+],
   "geometry": {"coordinates":[-115.210983,36.246675],"type":"Point"}
 }

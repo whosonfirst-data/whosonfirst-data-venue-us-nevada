@@ -2,13 +2,14 @@
   "id": 354175423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121136,36.144304,-115.121136,36.144304",
     "geom:latitude":36.144304,
     "geom:longitude":-115.121136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":354175423,
-    "wof:lastmodified":1449067151,
+    "wof:lastmodified":1466704870,
     "wof:name":"Kramer Steven F MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.121136,36.144304,-115.121136,36.144304],
-  "geometry": {"coordinates":[-115.121136,36.144304],"type":"Point"}
+  "bbox": [
+    -115.121136,
+    36.144304,
+    -115.121136,
+    36.144304
+],
+  "geometry": {"coordinates":[-115.12113600000001,36.144304],"type":"Point"}
 }

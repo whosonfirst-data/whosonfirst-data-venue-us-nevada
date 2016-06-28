@@ -2,13 +2,14 @@
   "id": 220160849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.247331,36.144352,-115.247331,36.144352",
     "geom:latitude":36.144352,
     "geom:longitude":-115.247331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2250 Montessouri St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220160849,
-    "wof:lastmodified":1449074735,
+    "wof:lastmodified":1466702829,
     "wof:name":"Litex Commerce Inc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.247331,36.144352,-115.247331,36.144352],
+  "bbox": [
+    -115.247331,
+    36.144352,
+    -115.247331,
+    36.144352
+],
   "geometry": {"coordinates":[-115.247331,36.144352],"type":"Point"}
 }

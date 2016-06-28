@@ -2,13 +2,14 @@
   "id": 220174811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.957309,36.075369,-114.957309,36.075369",
     "geom:latitude":36.075369,
     "geom:longitude":-114.957309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Olsen St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220174811,
-    "wof:lastmodified":1449074135,
+    "wof:lastmodified":1466702923,
     "wof:name":"Stow Away Storage Inc",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-114.957309,36.075369,-114.957309,36.075369],
+  "bbox": [
+    -114.957309,
+    36.075369,
+    -114.957309,
+    36.075369
+],
   "geometry": {"coordinates":[-114.957309,36.075369],"type":"Point"}
 }

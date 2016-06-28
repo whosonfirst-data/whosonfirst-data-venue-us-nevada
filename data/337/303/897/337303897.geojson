@@ -2,13 +2,14 @@
   "id": 337303897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243068,36.148631,-115.243068,36.148631",
     "geom:latitude":36.148631,
     "geom:longitude":-115.243068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337303897,
-    "wof:lastmodified":1449026939,
+    "wof:lastmodified":1466701820,
     "wof:name":"Ezquerro Y Catala Fine Office",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243068,36.148631,-115.243068,36.148631],
-  "geometry": {"coordinates":[-115.243068,36.148631],"type":"Point"}
+  "bbox": [
+    -115.243068,
+    36.148631,
+    -115.243068,
+    36.148631
+],
+  "geometry": {"coordinates":[-115.24306799999999,36.148631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219652889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211516,36.246171,-115.211516,36.246171",
     "geom:latitude":36.246171,
     "geom:longitude":-115.211516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 Boston Ivy Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219652889,
-    "wof:lastmodified":1449072655,
+    "wof:lastmodified":1466703868,
     "wof:name":"First Class",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.211516,36.246171,-115.211516,36.246171],
+  "bbox": [
+    -115.211516,
+    36.246171,
+    -115.211516,
+    36.246171
+],
   "geometry": {"coordinates":[-115.211516,36.246171],"type":"Point"}
 }

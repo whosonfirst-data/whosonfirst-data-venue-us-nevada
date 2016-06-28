@@ -2,13 +2,14 @@
   "id": 219490709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838067,39.684782,-119.838067,39.684782",
     "geom:latitude":39.684782,
     "geom:longitude":-119.838067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Idaho St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219490709,
-    "wof:lastmodified":1449073558,
+    "wof:lastmodified":1466704121,
     "wof:name":"Ski Town Iron Works",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.838067,39.684782,-119.838067,39.684782],
+  "bbox": [
+    -119.838067,
+    39.684782,
+    -119.838067,
+    39.684782
+],
   "geometry": {"coordinates":[-119.838067,39.684782],"type":"Point"}
 }

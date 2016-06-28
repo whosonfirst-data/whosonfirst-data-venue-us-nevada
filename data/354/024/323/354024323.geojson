@@ -2,13 +2,14 @@
   "id": 354024323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121469,36.239835,-115.121469,36.239835",
     "geom:latitude":36.239835,
     "geom:longitude":-115.121469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 E Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354024323,
-    "wof:lastmodified":1449066730,
+    "wof:lastmodified":1466702109,
     "wof:name":"Sophia's Pizza & Subs",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.121469,36.239835,-115.121469,36.239835],
+  "bbox": [
+    -115.121469,
+    36.239835,
+    -115.121469,
+    36.239835
+],
   "geometry": {"coordinates":[-115.121469,36.239835],"type":"Point"}
 }

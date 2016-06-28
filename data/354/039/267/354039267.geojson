@@ -2,13 +2,14 @@
   "id": 354039267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197877,36.240029,-115.197877,36.240029",
     "geom:latitude":36.240029,
     "geom:longitude":-115.197877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 W Craig Rd Suite 106",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354039267,
-    "wof:lastmodified":1449067453,
+    "wof:lastmodified":1466702511,
     "wof:name":"Bestseller Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dvd's"
     ]
 },
-  "bbox": [-115.197877,36.240029,-115.197877,36.240029],
-  "geometry": {"coordinates":[-115.197877,36.240029],"type":"Point"}
+  "bbox": [
+    -115.197877,
+    36.240029,
+    -115.197877,
+    36.240029
+],
+  "geometry": {"coordinates":[-115.19787700000001,36.240029],"type":"Point"}
 }

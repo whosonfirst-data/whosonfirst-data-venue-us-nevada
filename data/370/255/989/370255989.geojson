@@ -2,13 +2,14 @@
   "id": 370255989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.309998,36.120701,-115.309998,36.120701",
     "geom:latitude":36.120701,
     "geom:longitude":-115.309998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9999 W Katie Ave Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370255989,
-    "wof:lastmodified":1449030638,
+    "wof:lastmodified":1466703809,
     "wof:name":"Resort At the Lakes the",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.309998,36.120701,-115.309998,36.120701],
-  "geometry": {"coordinates":[-115.309998,36.120701],"type":"Point"}
+  "bbox": [
+    -115.309998,
+    36.120701,
+    -115.309998,
+    36.120701
+],
+  "geometry": {"coordinates":[-115.30999799999999,36.120701],"type":"Point"}
 }

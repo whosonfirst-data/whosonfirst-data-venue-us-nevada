@@ -2,13 +2,14 @@
   "id": 220113115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087548,36.035223,-115.087548,36.035223",
     "geom:latitude":36.035223,
     "geom:longitude":-115.087548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Wigwam Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220113115,
-    "wof:lastmodified":1449074806,
+    "wof:lastmodified":1466702467,
     "wof:name":"Rons Tax & Bookkeeping Svc",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.087548,36.035223,-115.087548,36.035223],
+  "bbox": [
+    -115.087548,
+    36.035223,
+    -115.087548,
+    36.035223
+],
   "geometry": {"coordinates":[-115.087548,36.035223],"type":"Point"}
 }

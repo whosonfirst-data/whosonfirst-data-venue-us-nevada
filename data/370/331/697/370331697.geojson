@@ -2,13 +2,14 @@
   "id": 370331697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761556,39.439469,-119.761556,39.439469",
     "geom:latitude":39.439469,
     "geom:longitude":-119.761556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9795 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":370331697,
-    "wof:lastmodified":1449031141,
+    "wof:lastmodified":1466704868,
     "wof:name":"Extended Stay America Reno - South Meadows",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761556,39.439469,-119.761556,39.439469],
+  "bbox": [
+    -119.761556,
+    39.439469,
+    -119.761556,
+    39.439469
+],
   "geometry": {"coordinates":[-119.761556,39.439469],"type":"Point"}
 }

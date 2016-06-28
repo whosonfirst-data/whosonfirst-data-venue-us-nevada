@@ -2,13 +2,14 @@
   "id": 219513581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.343853,36.135047,-115.343853,36.135047",
     "geom:latitude":36.135047,
     "geom:longitude":-115.343853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2634 Red Arrow Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219513581,
-    "wof:lastmodified":1449072721,
+    "wof:lastmodified":1466701544,
     "wof:name":"Rossin Goldin Investment Co",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.343853,36.135047,-115.343853,36.135047],
+  "bbox": [
+    -115.343853,
+    36.135047,
+    -115.343853,
+    36.135047
+],
   "geometry": {"coordinates":[-115.343853,36.135047],"type":"Point"}
 }

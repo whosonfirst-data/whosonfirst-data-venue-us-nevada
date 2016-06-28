@@ -2,13 +2,14 @@
   "id": 219515119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770957,39.288363,-119.770957,39.288363",
     "geom:latitude":39.288363,
     "geom:longitude":-119.770957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Esmeralda Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219515119,
-    "wof:lastmodified":1449071213,
+    "wof:lastmodified":1466701569,
     "wof:name":"New Beginnings Christn Church",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.770957,39.288363,-119.770957,39.288363],
+  "bbox": [
+    -119.770957,
+    39.288363,
+    -119.770957,
+    39.288363
+],
   "geometry": {"coordinates":[-119.770957,39.288363],"type":"Point"}
 }

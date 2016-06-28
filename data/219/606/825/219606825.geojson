@@ -2,13 +2,14 @@
   "id": 219606825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763597,39.144815,-119.763597,39.144815",
     "geom:latitude":39.144815,
     "geom:longitude":-119.763597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 Silver Sage Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219606825,
-    "wof:lastmodified":1449070934,
+    "wof:lastmodified":1466703035,
     "wof:name":"Drown Builders",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.763597,39.144815,-119.763597,39.144815],
+  "bbox": [
+    -119.763597,
+    39.144815,
+    -119.763597,
+    39.144815
+],
   "geometry": {"coordinates":[-119.763597,39.144815],"type":"Point"}
 }

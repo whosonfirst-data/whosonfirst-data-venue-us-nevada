@@ -2,13 +2,14 @@
   "id": 219950839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818251,39.505463,-119.818251,39.505463",
     "geom:latitude":39.505463,
     "geom:longitude":-119.818251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219950839,
-    "wof:lastmodified":1449071763,
+    "wof:lastmodified":1466705890,
     "wof:name":"Hawaiian Bronze Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-119.818251,39.505463,-119.818251,39.505463],
+  "bbox": [
+    -119.818251,
+    39.505463,
+    -119.818251,
+    39.505463
+],
   "geometry": {"coordinates":[-119.818251,39.505463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203413903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.737326,40.837864,-115.737326,40.837864",
     "geom:latitude":40.837864,
     "geom:longitude":-115.737326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2135 Industrial Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203413903,
-    "wof:lastmodified":1449025224,
+    "wof:lastmodified":1466703384,
     "wof:name":"Lake Shore Mining Equipment",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mining"
     ]
 },
-  "bbox": [-115.737326,40.837864,-115.737326,40.837864],
+  "bbox": [
+    -115.737326,
+    40.837864,
+    -115.737326,
+    40.837864
+],
   "geometry": {"coordinates":[-115.737326,40.837864],"type":"Point"}
 }

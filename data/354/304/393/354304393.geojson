@@ -2,13 +2,14 @@
   "id": 354304393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.304783,36.158909,-115.304783,36.158909",
     "geom:latitude":36.158909,
     "geom:longitude":-115.304783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9599 W Charleston Blvd .",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354304393,
-    "wof:lastmodified":1449067223,
+    "wof:lastmodified":1466705868,
     "wof:name":"Palms At Peccole Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.304783,36.158909,-115.304783,36.158909],
+  "bbox": [
+    -115.304783,
+    36.158909,
+    -115.304783,
+    36.158909
+],
   "geometry": {"coordinates":[-115.304783,36.158909],"type":"Point"}
 }

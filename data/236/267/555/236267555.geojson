@@ -2,13 +2,14 @@
   "id": 236267555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182661,36.146532,-115.182661,36.146532",
     "geom:latitude":36.146532,
     "geom:longitude":-115.182661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3048 el Camino Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236267555,
-    "wof:lastmodified":1449004891,
+    "wof:lastmodified":1466704485,
     "wof:name":"Wash It All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.182661,36.146532,-115.182661,36.146532],
+  "bbox": [
+    -115.182661,
+    36.146532,
+    -115.182661,
+    36.146532
+],
   "geometry": {"coordinates":[-115.182661,36.146532],"type":"Point"}
 }

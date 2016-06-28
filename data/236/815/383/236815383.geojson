@@ -2,13 +2,14 @@
   "id": 236815383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.932781,36.10764,-114.932781,36.10764",
     "geom:latitude":36.10764,
     "geom:longitude":-114.932781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Ave Sorrento",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236815383,
-    "wof:lastmodified":1449003209,
+    "wof:lastmodified":1466706805,
     "wof:name":"Bluestone Studio Inc",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-114.932781,36.10764,-114.932781,36.10764],
-  "geometry": {"coordinates":[-114.932781,36.10764],"type":"Point"}
+  "bbox": [
+    -114.932781,
+    36.10764,
+    -114.932781,
+    36.10764
+],
+  "geometry": {"coordinates":[-114.93278100000001,36.10764],"type":"Point"}
 }

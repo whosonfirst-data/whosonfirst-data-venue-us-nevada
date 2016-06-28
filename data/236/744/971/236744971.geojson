@@ -2,13 +2,14 @@
   "id": 236744971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716347,39.482777,-119.716347,39.482777",
     "geom:latitude":39.482777,
     "geom:longitude":-119.716347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5736 Sumrall Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236744971,
-    "wof:lastmodified":1449002709,
+    "wof:lastmodified":1466706563,
     "wof:name":"Berry Ken Enterprises LLC",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.716347,39.482777,-119.716347,39.482777],
+  "bbox": [
+    -119.716347,
+    39.482777,
+    -119.716347,
+    39.482777
+],
   "geometry": {"coordinates":[-119.716347,39.482777],"type":"Point"}
 }

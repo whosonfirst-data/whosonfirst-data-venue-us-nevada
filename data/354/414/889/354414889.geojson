@@ -2,13 +2,14 @@
   "id": 354414889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249001,36.211498,-115.249001,36.211498",
     "geom:latitude":36.211498,
     "geom:longitude":-115.249001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7180 Cascade Valley Ct Ste 180",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354414889,
-    "wof:lastmodified":1449066714,
+    "wof:lastmodified":1466706473,
     "wof:name":"Silver State Schools Credit Union",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.249001,36.211498,-115.249001,36.211498],
-  "geometry": {"coordinates":[-115.249001,36.211498],"type":"Point"}
+  "bbox": [
+    -115.249001,
+    36.211498,
+    -115.249001,
+    36.211498
+],
+  "geometry": {"coordinates":[-115.24900100000001,36.211498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236419199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069628,36.095997,-115.069628,36.095997",
     "geom:latitude":36.095997,
     "geom:longitude":-115.069628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4773 San Leandro Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236419199,
-    "wof:lastmodified":1449005174,
+    "wof:lastmodified":1466705314,
     "wof:name":"Blad Insulation Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.069628,36.095997,-115.069628,36.095997],
-  "geometry": {"coordinates":[-115.069628,36.095997],"type":"Point"}
+  "bbox": [
+    -115.069628,
+    36.095997,
+    -115.069628,
+    36.095997
+],
+  "geometry": {"coordinates":[-115.06962799999999,36.095997],"type":"Point"}
 }

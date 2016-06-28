@@ -2,13 +2,14 @@
   "id": 354390091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064618,36.119862,-115.064618,36.119862",
     "geom:latitude":36.119862,
     "geom:longitude":-115.064618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3860 S Nellis Blvd Ste 102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354390091,
-    "wof:lastmodified":1449067675,
+    "wof:lastmodified":1466706214,
     "wof:name":"Wings Restaurant",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wing"
     ]
 },
-  "bbox": [-115.064618,36.119862,-115.064618,36.119862],
+  "bbox": [
+    -115.064618,
+    36.119862,
+    -115.064618,
+    36.119862
+],
   "geometry": {"coordinates":[-115.064618,36.119862],"type":"Point"}
 }

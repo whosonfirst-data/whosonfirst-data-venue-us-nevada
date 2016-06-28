@@ -2,13 +2,14 @@
   "id": 354404113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172339,36.017846,-115.172339,36.017846",
     "geom:latitude":36.017846,
     "geom:longitude":-115.172339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9457 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354404113,
-    "wof:lastmodified":1449067105,
+    "wof:lastmodified":1466706288,
     "wof:name":"Paradise Spa Homeowners Association",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.172339,36.017846,-115.172339,36.017846],
-  "geometry": {"coordinates":[-115.172339,36.017846],"type":"Point"}
+  "bbox": [
+    -115.172339,
+    36.017846,
+    -115.172339,
+    36.017846
+],
+  "geometry": {"coordinates":[-115.17233899999999,36.017846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235958019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201029,36.115425,-115.201029,36.115425",
     "geom:latitude":36.115425,
     "geom:longitude":-115.201029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4571 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":235958019,
-    "wof:lastmodified":1449008523,
+    "wof:lastmodified":1466704247,
     "wof:name":"Pella Window Store",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-115.201029,36.115425,-115.201029,36.115425],
-  "geometry": {"coordinates":[-115.201029,36.115425],"type":"Point"}
+  "bbox": [
+    -115.201029,
+    36.115425,
+    -115.201029,
+    36.115425
+],
+  "geometry": {"coordinates":[-115.20102900000001,36.115425],"type":"Point"}
 }

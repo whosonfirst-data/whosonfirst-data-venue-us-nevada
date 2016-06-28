@@ -2,13 +2,14 @@
   "id": 203151283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12331,36.020605,-115.12331,36.020605",
     "geom:latitude":36.020605,
     "geom:longitude":-115.12331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 E Serene Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203151283,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466701501,
     "wof:name":"Shucks Tavern & Oyster Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-115.12331,36.020605,-115.12331,36.020605],
+  "bbox": [
+    -115.12331,
+    36.020605,
+    -115.12331,
+    36.020605
+],
   "geometry": {"coordinates":[-115.12331,36.020605],"type":"Point"}
 }

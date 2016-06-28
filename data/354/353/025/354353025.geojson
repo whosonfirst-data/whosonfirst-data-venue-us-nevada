@@ -2,13 +2,14 @@
   "id": 354353025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137545,36.121135,-115.137545,36.121135",
     "geom:latitude":36.121135,
     "geom:longitude":-115.137545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3770 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":354353025,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466706124,
     "wof:name":"Ted Wiens Tire & Auto Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.137545,36.121135,-115.137545,36.121135],
+  "bbox": [
+    -115.137545,
+    36.121135,
+    -115.137545,
+    36.121135
+],
   "geometry": {"coordinates":[-115.137545,36.121135],"type":"Point"}
 }

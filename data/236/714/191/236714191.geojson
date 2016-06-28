@@ -2,13 +2,14 @@
   "id": 236714191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082459,36.070293,-115.082459,36.070293",
     "geom:latitude":36.070293,
     "geom:longitude":-115.082459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236714191,
-    "wof:lastmodified":1449003242,
+    "wof:lastmodified":1466706499,
     "wof:name":"Jeanie Moore",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"
     ]
 },
-  "bbox": [-115.082459,36.070293,-115.082459,36.070293],
+  "bbox": [
+    -115.082459,
+    36.070293,
+    -115.082459,
+    36.070293
+],
   "geometry": {"coordinates":[-115.082459,36.070293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370358213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763,39.180401,-119.763,39.180401",
     "geom:latitude":39.180401,
     "geom:longitude":-119.763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2151 Lone Mountain Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370358213,
-    "wof:lastmodified":1449030505,
+    "wof:lastmodified":1466705054,
     "wof:name":"Johnny's Upholstery",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-119.763,39.180401,-119.763,39.180401],
-  "geometry": {"coordinates":[-119.763,39.180401],"type":"Point"}
+  "bbox": [
+    -119.763,
+    39.180401,
+    -119.763,
+    39.180401
+],
+  "geometry": {"coordinates":[-119.76300000000001,39.180401],"type":"Point"}
 }

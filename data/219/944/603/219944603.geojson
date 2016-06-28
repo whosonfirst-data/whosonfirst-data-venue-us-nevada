@@ -2,13 +2,14 @@
   "id": 219944603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.215735,36.257487,-115.215735,36.257487",
     "geom:latitude":36.257487,
     "geom:longitude":-115.215735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Coral Gables Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219944603,
-    "wof:lastmodified":1449072149,
+    "wof:lastmodified":1466705734,
     "wof:name":"Shining Moments",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.215735,36.257487,-115.215735,36.257487],
+  "bbox": [
+    -115.215735,
+    36.257487,
+    -115.215735,
+    36.257487
+],
   "geometry": {"coordinates":[-115.215735,36.257487],"type":"Point"}
 }

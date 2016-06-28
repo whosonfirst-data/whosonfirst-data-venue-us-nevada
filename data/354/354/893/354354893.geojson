@@ -2,13 +2,14 @@
   "id": 354354893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172232,36.068156,-115.172232,36.068156",
     "geom:latitude":36.068156,
     "geom:longitude":-115.172232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6659 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354354893,
-    "wof:lastmodified":1449067483,
+    "wof:lastmodified":1466706033,
     "wof:name":"Sanrio",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-115.172232,36.068156,-115.172232,36.068156],
-  "geometry": {"coordinates":[-115.172232,36.068156],"type":"Point"}
+  "bbox": [
+    -115.172232,
+    36.068156,
+    -115.172232,
+    36.068156
+],
+  "geometry": {"coordinates":[-115.17223199999999,36.068156],"type":"Point"}
 }

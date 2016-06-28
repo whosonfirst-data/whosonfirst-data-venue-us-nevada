@@ -2,13 +2,14 @@
   "id": 219767453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216911,35.992718,-115.216911,35.992718",
     "geom:latitude":35.992718,
     "geom:longitude":-115.216911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5530 Villa Lucia Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219767453,
-    "wof:lastmodified":1449071416,
+    "wof:lastmodified":1466704760,
     "wof:name":"Spa Pro",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.216911,35.992718,-115.216911,35.992718],
+  "bbox": [
+    -115.216911,
+    35.992718,
+    -115.216911,
+    35.992718
+],
   "geometry": {"coordinates":[-115.216911,35.992718],"type":"Point"}
 }

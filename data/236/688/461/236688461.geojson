@@ -2,13 +2,14 @@
   "id": 236688461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816502,39.521903,-119.816502,39.521903",
     "geom:latitude":39.521903,
     "geom:longitude":-119.816502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236688461,
-    "wof:lastmodified":1449002772,
+    "wof:lastmodified":1466706456,
     "wof:name":"Brooksbank & Assoc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.816502,39.521903,-119.816502,39.521903],
+  "bbox": [
+    -119.816502,
+    39.521903,
+    -119.816502,
+    39.521903
+],
   "geometry": {"coordinates":[-119.816502,39.521903],"type":"Point"}
 }

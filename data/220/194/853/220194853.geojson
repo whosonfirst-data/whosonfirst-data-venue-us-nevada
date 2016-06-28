@@ -2,13 +2,14 @@
   "id": 220194853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113688,35.952255,-115.113688,35.952255",
     "geom:latitude":35.952255,
     "geom:longitude":-115.113688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2083 Colvin Run Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220194853,
-    "wof:lastmodified":1449074753,
+    "wof:lastmodified":1466703070,
     "wof:name":"Craft Village",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-115.113688,35.952255,-115.113688,35.952255],
+  "bbox": [
+    -115.113688,
+    35.952255,
+    -115.113688,
+    35.952255
+],
   "geometry": {"coordinates":[-115.113688,35.952255],"type":"Point"}
 }

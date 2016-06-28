@@ -2,13 +2,14 @@
   "id": 220153339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182926,36.147813,-115.182926,36.147813",
     "geom:latitude":36.147813,
     "geom:longitude":-115.182926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Plz del Puerto",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220153339,
-    "wof:lastmodified":1449074607,
+    "wof:lastmodified":1466702788,
     "wof:name":"Helen Naugle & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.182926,36.147813,-115.182926,36.147813],
-  "geometry": {"coordinates":[-115.182926,36.147813],"type":"Point"}
+  "bbox": [
+    -115.182926,
+    36.147813,
+    -115.182926,
+    36.147813
+],
+  "geometry": {"coordinates":[-115.18292599999999,36.147813],"type":"Point"}
 }

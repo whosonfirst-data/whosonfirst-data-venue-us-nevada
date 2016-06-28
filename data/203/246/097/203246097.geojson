@@ -2,13 +2,14 @@
   "id": 203246097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.783953,39.474733,-118.783953,39.474733",
     "geom:latitude":39.474733,
     "geom:longitude":-118.783953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203246097,
-    "wof:lastmodified":1449025064,
+    "wof:lastmodified":1466702458,
     "wof:name":"Nice N'Tidy Carpet & Uphlstry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-118.783953,39.474733,-118.783953,39.474733],
+  "bbox": [
+    -118.783953,
+    39.474733,
+    -118.783953,
+    39.474733
+],
   "geometry": {"coordinates":[-118.783953,39.474733],"type":"Point"}
 }

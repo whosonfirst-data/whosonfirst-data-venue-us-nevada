@@ -2,13 +2,14 @@
   "id": 236415201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799291,39.505806,-119.799291,39.505806",
     "geom:latitude":39.505806,
     "geom:longitude":-119.799291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236415201,
-    "wof:lastmodified":1449004141,
+    "wof:lastmodified":1466705439,
     "wof:name":"Super Selectos",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-119.799291,39.505806,-119.799291,39.505806],
+  "bbox": [
+    -119.799291,
+    39.505806,
+    -119.799291,
+    39.505806
+],
   "geometry": {"coordinates":[-119.799291,39.505806],"type":"Point"}
 }

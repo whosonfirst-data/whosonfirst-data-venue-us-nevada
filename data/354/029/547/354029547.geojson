@@ -2,13 +2,14 @@
   "id": 354029547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118642,36.195821,-115.118642,36.195821",
     "geom:latitude":36.195821,
     "geom:longitude":-115.118642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 E Lake Mead Boulevard",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354029547,
-    "wof:lastmodified":1449066642,
+    "wof:lastmodified":1466702260,
     "wof:name":"Boston's Custom Tailor & Alterations",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alteration"
     ]
 },
-  "bbox": [-115.118642,36.195821,-115.118642,36.195821],
-  "geometry": {"coordinates":[-115.118642,36.195821],"type":"Point"}
+  "bbox": [
+    -115.118642,
+    36.195821,
+    -115.118642,
+    36.195821
+],
+  "geometry": {"coordinates":[-115.11864199999999,36.195821],"type":"Point"}
 }

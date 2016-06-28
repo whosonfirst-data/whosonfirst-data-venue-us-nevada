@@ -2,13 +2,14 @@
   "id": 236862601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288122,36.198964,-115.288122,36.198964",
     "geom:latitude":36.198964,
     "geom:longitude":-115.288122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Hillsgate St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236862601,
-    "wof:lastmodified":1449005348,
+    "wof:lastmodified":1466706748,
     "wof:name":"Ms Enterprises LLC",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.288122,36.198964,-115.288122,36.198964],
+  "bbox": [
+    -115.288122,
+    36.198964,
+    -115.288122,
+    36.198964
+],
   "geometry": {"coordinates":[-115.288122,36.198964],"type":"Point"}
 }

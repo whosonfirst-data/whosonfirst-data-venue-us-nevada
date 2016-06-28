@@ -2,13 +2,14 @@
   "id": 219251417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.737242,39.18274,-119.737242,39.18274",
     "geom:latitude":39.18274,
     "geom:longitude":-119.737242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2795 Sherman Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219251417,
-    "wof:lastmodified":1449070433,
+    "wof:lastmodified":1466702553,
     "wof:name":"Eagle Valley Photography",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-119.737242,39.18274,-119.737242,39.18274],
-  "geometry": {"coordinates":[-119.737242,39.18274],"type":"Point"}
+  "bbox": [
+    -119.737242,
+    39.18274,
+    -119.737242,
+    39.18274
+],
+  "geometry": {"coordinates":[-119.73724199999999,39.18274],"type":"Point"}
 }

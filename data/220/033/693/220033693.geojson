@@ -2,13 +2,14 @@
   "id": 220033693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191905,36.0955,-115.191905,36.0955",
     "geom:latitude":36.0955,
     "geom:longitude":-115.191905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 W Ali Baba Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220033693,
-    "wof:lastmodified":1449074208,
+    "wof:lastmodified":1466701829,
     "wof:name":"Pacific Technical Institute",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-115.191905,36.0955,-115.191905,36.0955],
-  "geometry": {"coordinates":[-115.191905,36.0955],"type":"Point"}
+  "bbox": [
+    -115.191905,
+    36.0955,
+    -115.191905,
+    36.0955
+],
+  "geometry": {"coordinates":[-115.19190500000001,36.0955],"type":"Point"}
 }

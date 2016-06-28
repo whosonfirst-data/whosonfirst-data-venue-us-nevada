@@ -2,13 +2,14 @@
   "id": 203197483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308347,36.161702,-115.308347,36.161702",
     "geom:latitude":36.161702,
     "geom:longitude":-115.308347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 Camden Hills Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203197483,
-    "wof:lastmodified":1449026619,
+    "wof:lastmodified":1466702029,
     "wof:name":"Valley Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-115.308347,36.161702,-115.308347,36.161702],
+  "bbox": [
+    -115.308347,
+    36.161702,
+    -115.308347,
+    36.161702
+],
   "geometry": {"coordinates":[-115.308347,36.161702],"type":"Point"}
 }

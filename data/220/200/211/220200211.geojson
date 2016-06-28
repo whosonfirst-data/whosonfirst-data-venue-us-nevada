@@ -2,13 +2,14 @@
   "id": 220200211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.606063,40.741842,-115.606063,40.741842",
     "geom:latitude":40.741842,
     "geom:longitude":-115.606063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Glen Brier Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220200211,
-    "wof:lastmodified":1449074357,
+    "wof:lastmodified":1466703122,
     "wof:name":"Hunsaker Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "geological"
     ]
 },
-  "bbox": [-115.606063,40.741842,-115.606063,40.741842],
-  "geometry": {"coordinates":[-115.606063,40.741842],"type":"Point"}
+  "bbox": [
+    -115.606063,
+    40.741842,
+    -115.606063,
+    40.741842
+],
+  "geometry": {"coordinates":[-115.60606300000001,40.741842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236341013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.866515,39.539173,-119.866515,39.539173",
     "geom:latitude":39.539173,
     "geom:longitude":-119.866515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5160 Driftstone Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236341013,
-    "wof:lastmodified":1449005075,
+    "wof:lastmodified":1466705096,
     "wof:name":"Refrigeration & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-119.866515,39.539173,-119.866515,39.539173],
-  "geometry": {"coordinates":[-119.866515,39.539173],"type":"Point"}
+  "bbox": [
+    -119.866515,
+    39.539173,
+    -119.866515,
+    39.539173
+],
+  "geometry": {"coordinates":[-119.86651500000001,39.539173],"type":"Point"}
 }

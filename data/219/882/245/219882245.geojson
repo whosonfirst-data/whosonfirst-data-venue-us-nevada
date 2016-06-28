@@ -2,13 +2,14 @@
   "id": 219882245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.525081,38.735912,-119.525081,38.735912",
     "geom:latitude":38.735912,
     "geom:longitude":-119.525081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Topaz Ranch Dr",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219882245,
-    "wof:lastmodified":1449071028,
+    "wof:lastmodified":1466705435,
     "wof:name":"Simpsons Water Truck Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.525081,38.735912,-119.525081,38.735912],
+  "bbox": [
+    -119.525081,
+    38.735912,
+    -119.525081,
+    38.735912
+],
   "geometry": {"coordinates":[-119.525081,38.735912],"type":"Point"}
 }

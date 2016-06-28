@@ -2,13 +2,14 @@
   "id": 220050559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23648,36.164992,-115.23648,36.164992",
     "geom:latitude":36.164992,
     "geom:longitude":-115.23648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Scholl Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220050559,
-    "wof:lastmodified":1449074494,
+    "wof:lastmodified":1466701994,
     "wof:name":"A Pro Clean Window Washing",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-115.23648,36.164992,-115.23648,36.164992],
+  "bbox": [
+    -115.23648,
+    36.164992,
+    -115.23648,
+    36.164992
+],
   "geometry": {"coordinates":[-115.23648,36.164992],"type":"Point"}
 }

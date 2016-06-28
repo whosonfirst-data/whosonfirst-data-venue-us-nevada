@@ -2,13 +2,14 @@
   "id": 219415135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.692949,38.93647,-119.692949,38.93647",
     "geom:latitude":38.93647,
     "geom:longitude":-119.692949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 View Pointe",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219415135,
-    "wof:lastmodified":1449072948,
+    "wof:lastmodified":1466703713,
     "wof:name":"Sawdust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-119.692949,38.93647,-119.692949,38.93647],
+  "bbox": [
+    -119.692949,
+    38.93647,
+    -119.692949,
+    38.93647
+],
   "geometry": {"coordinates":[-119.692949,38.93647],"type":"Point"}
 }

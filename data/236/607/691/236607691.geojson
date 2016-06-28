@@ -2,13 +2,14 @@
   "id": 236607691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199237,36.119123,-115.199237,36.119123",
     "geom:latitude":36.119123,
     "geom:longitude":-115.199237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236607691,
-    "wof:lastmodified":1449002002,
+    "wof:lastmodified":1466706369,
     "wof:name":"Sarah's Cleaning Svc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.199237,36.119123,-115.199237,36.119123],
+  "bbox": [
+    -115.199237,
+    36.119123,
+    -115.199237,
+    36.119123
+],
   "geometry": {"coordinates":[-115.199237,36.119123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219350755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766901,39.165314,-119.766901,39.165314",
     "geom:latitude":39.165314,
     "geom:longitude":-119.766901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219350755,
-    "wof:lastmodified":1449072182,
+    "wof:lastmodified":1466703411,
     "wof:name":"Dawn Raes Indulgence Gifts",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.766901,39.165314,-119.766901,39.165314],
+  "bbox": [
+    -119.766901,
+    39.165314,
+    -119.766901,
+    39.165314
+],
   "geometry": {"coordinates":[-119.766901,39.165314],"type":"Point"}
 }

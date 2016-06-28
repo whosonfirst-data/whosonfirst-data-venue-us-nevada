@@ -2,13 +2,14 @@
   "id": 219340859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794641,39.50575,-119.794641,39.50575",
     "geom:latitude":39.50575,
     "geom:longitude":-119.794641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219340859,
-    "wof:lastmodified":1449073129,
+    "wof:lastmodified":1466703356,
     "wof:name":"Guard Rite Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.794641,39.50575,-119.794641,39.50575],
+  "bbox": [
+    -119.794641,
+    39.50575,
+    -119.794641,
+    39.50575
+],
   "geometry": {"coordinates":[-119.794641,39.50575],"type":"Point"}
 }

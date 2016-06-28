@@ -2,13 +2,14 @@
   "id": 235957769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.967284,36.055921,-114.967284,36.055921",
     "geom:latitude":36.055921,
     "geom:longitude":-114.967284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235957769,
-    "wof:lastmodified":1449008545,
+    "wof:lastmodified":1466703566,
     "wof:name":"Aqua Marine",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "boat"
     ]
 },
-  "bbox": [-114.967284,36.055921,-114.967284,36.055921],
-  "geometry": {"coordinates":[-114.967284,36.055921],"type":"Point"}
+  "bbox": [
+    -114.967284,
+    36.055921,
+    -114.967284,
+    36.055921
+],
+  "geometry": {"coordinates":[-114.96728400000001,36.055921],"type":"Point"}
 }

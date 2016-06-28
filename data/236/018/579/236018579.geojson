@@ -2,13 +2,14 @@
   "id": 236018579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734158,39.514786,-119.734158,39.514786",
     "geom:latitude":39.514786,
     "geom:longitude":-119.734158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236018579,
-    "wof:lastmodified":1449003261,
+    "wof:lastmodified":1466703847,
     "wof:name":"Desert Threads",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-119.734158,39.514786,-119.734158,39.514786],
-  "geometry": {"coordinates":[-119.734158,39.514786],"type":"Point"}
+  "bbox": [
+    -119.734158,
+    39.514786,
+    -119.734158,
+    39.514786
+],
+  "geometry": {"coordinates":[-119.73415799999999,39.514786],"type":"Point"}
 }

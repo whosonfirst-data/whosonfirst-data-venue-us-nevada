@@ -2,13 +2,14 @@
   "id": 219754963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.729471,39.19706,-119.729471,39.19706",
     "geom:latitude":39.19706,
     "geom:longitude":-119.729471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3522 Arrowhead Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219754963,
-    "wof:lastmodified":1449072692,
+    "wof:lastmodified":1466704668,
     "wof:name":"Plasma Etch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.729471,39.19706,-119.729471,39.19706],
+  "bbox": [
+    -119.729471,
+    39.19706,
+    -119.729471,
+    39.19706
+],
   "geometry": {"coordinates":[-119.729471,39.19706],"type":"Point"}
 }

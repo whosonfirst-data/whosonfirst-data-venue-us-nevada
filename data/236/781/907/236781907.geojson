@@ -2,13 +2,14 @@
   "id": 236781907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.230576,38.067723,-117.230576,38.067723",
     "geom:latitude":38.067723,
     "geom:longitude":-117.230576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Main St",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236781907,
-    "wof:lastmodified":1449002143,
+    "wof:lastmodified":1466706733,
     "wof:name":"A-Bar-L Western Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.230576,38.067723,-117.230576,38.067723],
+  "bbox": [
+    -117.230576,
+    38.067723,
+    -117.230576,
+    38.067723
+],
   "geometry": {"coordinates":[-117.230576,38.067723],"type":"Point"}
 }

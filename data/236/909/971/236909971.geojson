@@ -2,13 +2,14 @@
   "id": 236909971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.950227,39.249503,-119.950227,39.249503",
     "geom:latitude":39.249503,
     "geom:longitude":-119.950227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236909971,
-    "wof:lastmodified":1449004262,
+    "wof:lastmodified":1466706835,
     "wof:name":"Wells Fargo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "loan"
     ]
 },
-  "bbox": [-119.950227,39.249503,-119.950227,39.249503],
+  "bbox": [
+    -119.950227,
+    39.249503,
+    -119.950227,
+    39.249503
+],
   "geometry": {"coordinates":[-119.950227,39.249503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236915745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286089,36.311694,-115.286089,36.311694",
     "geom:latitude":36.311694,
     "geom:longitude":-115.286089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8604 Vivid Violet Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236915745,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1466706841,
     "wof:name":"Salt LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.286089,36.311694,-115.286089,36.311694],
+  "bbox": [
+    -115.286089,
+    36.311694,
+    -115.286089,
+    36.311694
+],
   "geometry": {"coordinates":[-115.286089,36.311694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219208827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766152,39.171168,-119.766152,39.171168",
     "geom:latitude":39.171168,
     "geom:longitude":-119.766152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E John St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219208827,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466702144,
     "wof:name":"Sunset & Assoc Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-119.766152,39.171168,-119.766152,39.171168],
-  "geometry": {"coordinates":[-119.766152,39.171168],"type":"Point"}
+  "bbox": [
+    -119.766152,
+    39.171168,
+    -119.766152,
+    39.171168
+],
+  "geometry": {"coordinates":[-119.76615200000001,39.171168],"type":"Point"}
 }

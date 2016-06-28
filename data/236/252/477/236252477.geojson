@@ -2,13 +2,14 @@
   "id": 236252477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767106,39.536153,-119.767106,39.536153",
     "geom:latitude":39.536153,
     "geom:longitude":-119.767106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 C St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236252477,
-    "wof:lastmodified":1449002000,
+    "wof:lastmodified":1466704564,
     "wof:name":"Allen's Graphic Art Designs",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.767106,39.536153,-119.767106,39.536153],
+  "bbox": [
+    -119.767106,
+    39.536153,
+    -119.767106,
+    39.536153
+],
   "geometry": {"coordinates":[-119.767106,39.536153],"type":"Point"}
 }

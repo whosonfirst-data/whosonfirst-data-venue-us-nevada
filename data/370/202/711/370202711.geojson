@@ -2,13 +2,14 @@
   "id": 370202711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169324,36.12555,-115.169324,36.12555",
     "geom:latitude":36.12555,
     "geom:longitude":-115.169324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Neiman Marcus, Fashion Show Mall 3200 Las Vegas Blvd S, Ste 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370202711,
-    "wof:lastmodified":1449032031,
+    "wof:lastmodified":1466702578,
     "wof:name":"NM Cafe",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "asian"
     ]
 },
-  "bbox": [-115.169324,36.12555,-115.169324,36.12555],
+  "bbox": [
+    -115.169324,
+    36.12555,
+    -115.169324,
+    36.12555
+],
   "geometry": {"coordinates":[-115.169324,36.12555],"type":"Point"}
 }

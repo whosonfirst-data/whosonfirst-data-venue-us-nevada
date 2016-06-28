@@ -2,13 +2,14 @@
   "id": 387208469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.929775,38.968285,-119.929775,38.968285",
     "geom:latitude":38.968285,
     "geom:longitude":-119.929775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Kingsbury Grade Rd",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387208469,
-    "wof:lastmodified":1449056555,
+    "wof:lastmodified":1466704269,
     "wof:name":"Weidinger Public Relations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-119.929775,38.968285,-119.929775,38.968285],
-  "geometry": {"coordinates":[-119.929775,38.968285],"type":"Point"}
+  "bbox": [
+    -119.929775,
+    38.968285,
+    -119.929775,
+    38.968285
+],
+  "geometry": {"coordinates":[-119.92977500000001,38.968285],"type":"Point"}
 }

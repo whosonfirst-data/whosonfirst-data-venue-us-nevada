@@ -2,13 +2,14 @@
   "id": 203405155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035433,36.03815,-115.035433,36.03815",
     "geom:latitude":36.03815,
     "geom:longitude":-115.035433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Military Tribute Pl",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203405155,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466703337,
     "wof:name":"Clark County Maintenance Dept",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.035433,36.03815,-115.035433,36.03815],
+  "bbox": [
+    -115.035433,
+    36.03815,
+    -115.035433,
+    36.03815
+],
   "geometry": {"coordinates":[-115.035433,36.03815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219169049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.228695,36.188036,-115.228695,36.188036",
     "geom:latitude":36.188036,
     "geom:longitude":-115.228695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6316 Mint Frost Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219169049,
-    "wof:lastmodified":1449072576,
+    "wof:lastmodified":1466704194,
     "wof:name":"Sierra Tech Inspection Svcs",
     "wof:parent_id":85892713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-115.228695,36.188036,-115.228695,36.188036],
+  "bbox": [
+    -115.228695,
+    36.188036,
+    -115.228695,
+    36.188036
+],
   "geometry": {"coordinates":[-115.228695,36.188036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236878109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.059153,36.228279,-116.059153,36.228279",
     "geom:latitude":36.228279,
     "geom:longitude":-116.059153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"671 N Woodchips Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236878109,
-    "wof:lastmodified":1449003366,
+    "wof:lastmodified":1466706770,
     "wof:name":"Sotos Wild West Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.059153,36.228279,-116.059153,36.228279],
-  "geometry": {"coordinates":[-116.059153,36.228279],"type":"Point"}
+  "bbox": [
+    -116.059153,
+    36.228279,
+    -116.059153,
+    36.228279
+],
+  "geometry": {"coordinates":[-116.05915299999999,36.228279],"type":"Point"}
 }

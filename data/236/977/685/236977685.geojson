@@ -2,13 +2,14 @@
   "id": 236977685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.734392,39.515188,-119.734392,39.515188",
     "geom:latitude":39.515188,
     "geom:longitude":-119.734392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236977685,
-    "wof:lastmodified":1449005345,
+    "wof:lastmodified":1466706904,
     "wof:name":"Sandell's Business Forms & Ptg",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-119.734392,39.515188,-119.734392,39.515188],
+  "bbox": [
+    -119.734392,
+    39.515188,
+    -119.734392,
+    39.515188
+],
   "geometry": {"coordinates":[-119.734392,39.515188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219232433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744769,39.52565,-119.744769,39.52565",
     "geom:latitude":39.52565,
     "geom:longitude":-119.744769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219232433,
-    "wof:lastmodified":1449071534,
+    "wof:lastmodified":1466702325,
     "wof:name":"Advanced Seamless Rain Gutter",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-119.744769,39.52565,-119.744769,39.52565],
-  "geometry": {"coordinates":[-119.744769,39.52565],"type":"Point"}
+  "bbox": [
+    -119.744769,
+    39.52565,
+    -119.744769,
+    39.52565
+],
+  "geometry": {"coordinates":[-119.74476900000001,39.52565],"type":"Point"}
 }

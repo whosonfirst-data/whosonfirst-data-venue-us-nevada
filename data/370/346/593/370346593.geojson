@@ -2,13 +2,14 @@
   "id": 370346593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768137,39.179335,-119.768137,39.179335",
     "geom:latitude":39.179335,
     "geom:longitude":-119.768137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 W Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370346593,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1466705021,
     "wof:name":"Tommy's Neighborhood Bar",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-119.768137,39.179335,-119.768137,39.179335],
+  "bbox": [
+    -119.768137,
+    39.179335,
+    -119.768137,
+    39.179335
+],
   "geometry": {"coordinates":[-119.768137,39.179335],"type":"Point"}
 }

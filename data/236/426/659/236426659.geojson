@@ -2,13 +2,14 @@
   "id": 236426659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.856816,35.969004,-114.856816,35.969004",
     "geom:latitude":35.969004,
     "geom:longitude":-114.856816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1647 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236426659,
-    "wof:lastmodified":1449002204,
+    "wof:lastmodified":1466705481,
     "wof:name":"Charles's Country Cupboards",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-114.856816,35.969004,-114.856816,35.969004],
-  "geometry": {"coordinates":[-114.856816,35.969004],"type":"Point"}
+  "bbox": [
+    -114.856816,
+    35.969004,
+    -114.856816,
+    35.969004
+],
+  "geometry": {"coordinates":[-114.85681599999999,35.969004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236440455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230687,36.167949,-115.230687,36.167949",
     "geom:latitude":36.167949,
     "geom:longitude":-115.230687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6332 Arlington Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236440455,
-    "wof:lastmodified":1449002688,
+    "wof:lastmodified":1466705658,
     "wof:name":"Pigeon Patrol",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.230687,36.167949,-115.230687,36.167949],
+  "bbox": [
+    -115.230687,
+    36.167949,
+    -115.230687,
+    36.167949
+],
   "geometry": {"coordinates":[-115.230687,36.167949],"type":"Point"}
 }

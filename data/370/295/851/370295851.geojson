@@ -2,13 +2,14 @@
   "id": 370295851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.132091,36.132708,-115.132091,36.132708",
     "geom:latitude":36.132708,
     "geom:longitude":-115.132091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 La Canada Street Suite 200",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370295851,
-    "wof:lastmodified":1449030463,
+    "wof:lastmodified":1466704551,
     "wof:name":"Cardiovascular Consultants of Nevada",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"
     ]
 },
-  "bbox": [-115.132091,36.132708,-115.132091,36.132708],
+  "bbox": [
+    -115.132091,
+    36.132708,
+    -115.132091,
+    36.132708
+],
   "geometry": {"coordinates":[-115.132091,36.132708],"type":"Point"}
 }

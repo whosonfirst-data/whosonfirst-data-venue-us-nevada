@@ -2,13 +2,14 @@
   "id": 354220433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224724,36.195945,-115.224724,36.195945",
     "geom:latitude":36.195945,
     "geom:longitude":-115.224724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6126 W Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354220433,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1466705140,
     "wof:name":"China Joe's",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.224724,36.195945,-115.224724,36.195945],
-  "geometry": {"coordinates":[-115.224724,36.195945],"type":"Point"}
+  "bbox": [
+    -115.224724,
+    36.195945,
+    -115.224724,
+    36.195945
+],
+  "geometry": {"coordinates":[-115.22472399999999,36.195945],"type":"Point"}
 }

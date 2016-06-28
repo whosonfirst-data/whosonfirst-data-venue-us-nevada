@@ -2,13 +2,14 @@
   "id": 220163199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.961838,39.250368,-119.961838,39.250368",
     "geom:latitude":39.250368,
     "geom:longitude":-119.961838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220163199,
-    "wof:lastmodified":1449074855,
+    "wof:lastmodified":1466702831,
     "wof:name":"Active Repair LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.961838,39.250368,-119.961838,39.250368],
+  "bbox": [
+    -119.961838,
+    39.250368,
+    -119.961838,
+    39.250368
+],
   "geometry": {"coordinates":[-119.961838,39.250368],"type":"Point"}
 }

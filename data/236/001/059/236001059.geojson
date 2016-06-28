@@ -2,13 +2,14 @@
   "id": 236001059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.834628,39.530794,-119.834628,39.530794",
     "geom:latitude":39.530794,
     "geom:longitude":-119.834628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W 7th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236001059,
-    "wof:lastmodified":1449002240,
+    "wof:lastmodified":1466703759,
     "wof:name":"Patrick A O'Bryan Rentals",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.834628,39.530794,-119.834628,39.530794],
+  "bbox": [
+    -119.834628,
+    39.530794,
+    -119.834628,
+    39.530794
+],
   "geometry": {"coordinates":[-119.834628,39.530794],"type":"Point"}
 }

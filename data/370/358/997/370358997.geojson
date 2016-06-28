@@ -2,13 +2,14 @@
   "id": 370358997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.739601,39.187641,-119.739601,39.187641",
     "geom:latitude":39.187641,
     "geom:longitude":-119.739601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Riley Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370358997,
-    "wof:lastmodified":1449030507,
+    "wof:lastmodified":1466705074,
     "wof:name":"Riley Circle Park",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.739601,39.187641,-119.739601,39.187641],
-  "geometry": {"coordinates":[-119.739601,39.187641],"type":"Point"}
+  "bbox": [
+    -119.739601,
+    39.187641,
+    -119.739601,
+    39.187641
+],
+  "geometry": {"coordinates":[-119.73960099999999,39.187641],"type":"Point"}
 }

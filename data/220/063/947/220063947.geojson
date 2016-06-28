@@ -2,13 +2,14 @@
   "id": 220063947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798413,39.526196,-119.798413,39.526196",
     "geom:latitude":39.526196,
     "geom:longitude":-119.798413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Kirman Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220063947,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466702167,
     "wof:name":"Crystal Mountain Properties",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.798413,39.526196,-119.798413,39.526196],
+  "bbox": [
+    -119.798413,
+    39.526196,
+    -119.798413,
+    39.526196
+],
   "geometry": {"coordinates":[-119.798413,39.526196],"type":"Point"}
 }

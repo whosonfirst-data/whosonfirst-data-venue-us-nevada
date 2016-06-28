@@ -2,13 +2,14 @@
   "id": 203237375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.25959,36.288818,-115.25959,36.288818",
     "geom:latitude":36.288818,
     "geom:longitude":-115.25959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7509 Mardean Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203237375,
-    "wof:lastmodified":1449024992,
+    "wof:lastmodified":1466702414,
     "wof:name":"R and A Investments",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.25959,36.288818,-115.25959,36.288818],
+  "bbox": [
+    -115.25959,
+    36.288818,
+    -115.25959,
+    36.288818
+],
   "geometry": {"coordinates":[-115.25959,36.288818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236373321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288724,36.224963,-115.288724,36.224963",
     "geom:latitude":36.224963,
     "geom:longitude":-115.288724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3565 Sedwick Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236373321,
-    "wof:lastmodified":1449003340,
+    "wof:lastmodified":1466705190,
     "wof:name":"Housekeeping Goddess",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.288724,36.224963,-115.288724,36.224963],
+  "bbox": [
+    -115.288724,
+    36.224963,
+    -115.288724,
+    36.224963
+],
   "geometry": {"coordinates":[-115.288724,36.224963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354050431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085834,36.028219,-115.085834,36.028219",
     "geom:latitude":36.028219,
     "geom:longitude":-115.085834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354050431,
-    "wof:lastmodified":1449066879,
+    "wof:lastmodified":1466702782,
     "wof:name":"Simple Computer Repair",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.085834,36.028219,-115.085834,36.028219],
-  "geometry": {"coordinates":[-115.085834,36.028219],"type":"Point"}
+  "bbox": [
+    -115.085834,
+    36.028219,
+    -115.085834,
+    36.028219
+],
+  "geometry": {"coordinates":[-115.08583400000001,36.028219],"type":"Point"}
 }

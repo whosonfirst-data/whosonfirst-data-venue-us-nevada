@@ -2,13 +2,14 @@
   "id": 203259371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.0871,36.067725,-115.0871,36.067725",
     "geom:latitude":36.067725,
     "geom:longitude":-115.0871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Bluegill Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203259371,
-    "wof:lastmodified":1449025371,
+    "wof:lastmodified":1466702574,
     "wof:name":"Blue Chip Enterprise",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.0871,36.067725,-115.0871,36.067725],
-  "geometry": {"coordinates":[-115.0871,36.067725],"type":"Point"}
+  "bbox": [
+    -115.0871,
+    36.067725,
+    -115.0871,
+    36.067725
+],
+  "geometry": {"coordinates":[-115.08710000000001,36.067725],"type":"Point"}
 }

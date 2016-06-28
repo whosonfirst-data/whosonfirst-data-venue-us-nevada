@@ -2,13 +2,14 @@
   "id": 219694537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164155,36.149618,-115.164155,36.149618",
     "geom:latitude":36.149618,
     "geom:longitude":-115.164155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219694537,
-    "wof:lastmodified":1449071398,
+    "wof:lastmodified":1466704406,
     "wof:name":"Sundown Window Tinting",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-115.164155,36.149618,-115.164155,36.149618],
-  "geometry": {"coordinates":[-115.164155,36.149618],"type":"Point"}
+  "bbox": [
+    -115.164155,
+    36.149618,
+    -115.164155,
+    36.149618
+],
+  "geometry": {"coordinates":[-115.16415499999999,36.149618],"type":"Point"}
 }

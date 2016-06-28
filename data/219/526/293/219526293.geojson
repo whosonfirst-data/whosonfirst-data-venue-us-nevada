@@ -2,13 +2,14 @@
   "id": 219526293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225501,36.151059,-115.225501,36.151059",
     "geom:latitude":36.151059,
     "geom:longitude":-115.225501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219526293,
-    "wof:lastmodified":1449071477,
+    "wof:lastmodified":1466701788,
     "wof:name":"Harolds Saltzman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.225501,36.151059,-115.225501,36.151059],
-  "geometry": {"coordinates":[-115.225501,36.151059],"type":"Point"}
+  "bbox": [
+    -115.225501,
+    36.151059,
+    -115.225501,
+    36.151059
+],
+  "geometry": {"coordinates":[-115.22550099999999,36.151059],"type":"Point"}
 }

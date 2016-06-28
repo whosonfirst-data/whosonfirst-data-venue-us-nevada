@@ -2,13 +2,14 @@
   "id": 219809019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.988981,36.193173,-115.988981,36.193173",
     "geom:latitude":36.193173,
     "geom:longitude":-115.988981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 Pahrump Valley Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219809019,
-    "wof:lastmodified":1449073287,
+    "wof:lastmodified":1466705140,
     "wof:name":"Welfare Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-115.988981,36.193173,-115.988981,36.193173],
+  "bbox": [
+    -115.988981,
+    36.193173,
+    -115.988981,
+    36.193173
+],
   "geometry": {"coordinates":[-115.988981,36.193173],"type":"Point"}
 }

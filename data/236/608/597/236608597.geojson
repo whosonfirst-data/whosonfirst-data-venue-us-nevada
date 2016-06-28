@@ -2,13 +2,14 @@
   "id": 236608597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78493,39.458485,-119.78493,39.458485",
     "geom:latitude":39.458485,
     "geom:longitude":-119.78493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7661 Water View Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236608597,
-    "wof:lastmodified":1449002999,
+    "wof:lastmodified":1466706372,
     "wof:name":"Wellness Company",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-119.78493,39.458485,-119.78493,39.458485],
+  "bbox": [
+    -119.78493,
+    39.458485,
+    -119.78493,
+    39.458485
+],
   "geometry": {"coordinates":[-119.78493,39.458485],"type":"Point"}
 }

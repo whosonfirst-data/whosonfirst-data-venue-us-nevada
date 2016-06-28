@@ -2,13 +2,14 @@
   "id": 370231783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210359,36.158551,-115.210359,36.158551",
     "geom:latitude":36.158551,
     "geom:longitude":-115.210359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 W. Charleston, Suite 110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370231783,
-    "wof:lastmodified":1449030811,
+    "wof:lastmodified":1466703294,
     "wof:name":"Jalapeno Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.210359,36.158551,-115.210359,36.158551],
+  "bbox": [
+    -115.210359,
+    36.158551,
+    -115.210359,
+    36.158551
+],
   "geometry": {"coordinates":[-115.210359,36.158551],"type":"Point"}
 }

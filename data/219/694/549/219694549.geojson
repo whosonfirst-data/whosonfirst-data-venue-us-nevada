@@ -2,13 +2,14 @@
   "id": 219694549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057945,36.238066,-115.057945,36.238066",
     "geom:latitude":36.238066,
     "geom:longitude":-115.057945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4244 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219694549,
-    "wof:lastmodified":1449071397,
+    "wof:lastmodified":1466704406,
     "wof:name":"Thriftlodge",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.057945,36.238066,-115.057945,36.238066],
+  "bbox": [
+    -115.057945,
+    36.238066,
+    -115.057945,
+    36.238066
+],
   "geometry": {"coordinates":[-115.057945,36.238066],"type":"Point"}
 }

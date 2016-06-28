@@ -2,13 +2,14 @@
   "id": 236151989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.841177,39.594273,-119.841177,39.594273",
     "geom:latitude":39.594273,
     "geom:longitude":-119.841177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7789 Fowler Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236151989,
-    "wof:lastmodified":1449001705,
+    "wof:lastmodified":1466702611,
     "wof:name":"Pamelas Specialty Gifts",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.841177,39.594273,-119.841177,39.594273],
+  "bbox": [
+    -119.841177,
+    39.594273,
+    -119.841177,
+    39.594273
+],
   "geometry": {"coordinates":[-119.841177,39.594273],"type":"Point"}
 }

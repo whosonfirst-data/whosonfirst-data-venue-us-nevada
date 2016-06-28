@@ -2,13 +2,14 @@
   "id": 354015949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.979005,36.041456,-114.979005,36.041456",
     "geom:latitude":36.041456,
     "geom:longitude":-114.979005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 E Lake Mead Pkwy Ste B",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354015949,
-    "wof:lastmodified":1449066318,
+    "wof:lastmodified":1466701907,
     "wof:name":"Mfk Llc",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.979005,36.041456,-114.979005,36.041456],
+  "bbox": [
+    -114.979005,
+    36.041456,
+    -114.979005,
+    36.041456
+],
   "geometry": {"coordinates":[-114.979005,36.041456],"type":"Point"}
 }

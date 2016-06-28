@@ -2,13 +2,14 @@
   "id": 236454915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.68167,39.613397,-119.68167,39.613397",
     "geom:latitude":39.613397,
     "geom:longitude":-119.68167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6538 Golden Dawn Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236454915,
-    "wof:lastmodified":1449004874,
+    "wof:lastmodified":1466705624,
     "wof:name":"Mindi Levrett",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.68167,39.613397,-119.68167,39.613397],
+  "bbox": [
+    -119.68167,
+    39.613397,
+    -119.68167,
+    39.613397
+],
   "geometry": {"coordinates":[-119.68167,39.613397],"type":"Point"}
 }

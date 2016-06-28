@@ -2,13 +2,14 @@
   "id": 337294553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.314827,36.188826,-115.314827,36.188826",
     "geom:latitude":36.188826,
     "geom:longitude":-115.314827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Desert Crossing Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337294553,
-    "wof:lastmodified":1449027526,
+    "wof:lastmodified":1466701593,
     "wof:name":"Nevada State Development Corp",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-115.314827,36.188826,-115.314827,36.188826],
-  "geometry": {"coordinates":[-115.314827,36.188826],"type":"Point"}
+  "bbox": [
+    -115.314827,
+    36.188826,
+    -115.314827,
+    36.188826
+],
+  "geometry": {"coordinates":[-115.31482699999999,36.188826],"type":"Point"}
 }

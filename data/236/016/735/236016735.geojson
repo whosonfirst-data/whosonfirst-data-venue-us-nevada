@@ -2,13 +2,14 @@
   "id": 236016735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288236,36.046794,-115.288236,36.046794",
     "geom:latitude":36.046794,
     "geom:longitude":-115.288236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Painted Mountain Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236016735,
-    "wof:lastmodified":1449002104,
+    "wof:lastmodified":1466703847,
     "wof:name":"Company See",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.288236,36.046794,-115.288236,36.046794],
+  "bbox": [
+    -115.288236,
+    36.046794,
+    -115.288236,
+    36.046794
+],
   "geometry": {"coordinates":[-115.288236,36.046794],"type":"Point"}
 }

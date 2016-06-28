@@ -2,13 +2,14 @@
   "id": 219498557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772394,39.117541,-119.772394,39.117541",
     "geom:latitude":39.117541,
     "geom:longitude":-119.772394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219498557,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1466704157,
     "wof:name":"Comstock Country Rv Resort",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.772394,39.117541,-119.772394,39.117541],
-  "geometry": {"coordinates":[-119.772394,39.117541],"type":"Point"}
+  "bbox": [
+    -119.772394,
+    39.117541,
+    -119.772394,
+    39.117541
+],
+  "geometry": {"coordinates":[-119.77239400000001,39.117541],"type":"Point"}
 }

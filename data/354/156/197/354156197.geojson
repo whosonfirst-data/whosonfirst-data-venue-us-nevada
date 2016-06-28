@@ -2,13 +2,14 @@
   "id": 354156197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203847,36.111636,-115.203847,36.111636",
     "geom:latitude":36.111636,
     "geom:longitude":-115.203847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 Cameron St Ste 1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354156197,
-    "wof:lastmodified":1449066268,
+    "wof:lastmodified":1466704573,
     "wof:name":"Building Consensus",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.203847,36.111636,-115.203847,36.111636],
+  "bbox": [
+    -115.203847,
+    36.111636,
+    -115.203847,
+    36.111636
+],
   "geometry": {"coordinates":[-115.203847,36.111636],"type":"Point"}
 }

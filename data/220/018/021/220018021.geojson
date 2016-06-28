@@ -2,13 +2,14 @@
   "id": 220018021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.948331,39.249466,-119.948331,39.249466",
     "geom:latitude":39.249466,
     "geom:longitude":-119.948331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220018021,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466704192,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.948331,39.249466,-119.948331,39.249466],
+  "bbox": [
+    -119.948331,
+    39.249466,
+    -119.948331,
+    39.249466
+],
   "geometry": {"coordinates":[-119.948331,39.249466],"type":"Point"}
 }

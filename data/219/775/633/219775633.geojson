@@ -2,13 +2,14 @@
   "id": 219775633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.344015,38.782441,-119.344015,38.782441",
     "geom:latitude":38.782441,
     "geom:longitude":-119.344015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 State Hwy 208",
     "sg:city":"Smith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219775633,
-    "wof:lastmodified":1449073013,
+    "wof:lastmodified":1466704816,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.344015,38.782441,-119.344015,38.782441],
+  "bbox": [
+    -119.344015,
+    38.782441,
+    -119.344015,
+    38.782441
+],
   "geometry": {"coordinates":[-119.344015,38.782441],"type":"Point"}
 }

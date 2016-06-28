@@ -2,13 +2,14 @@
   "id": 219692883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093308,36.037422,-115.093308,36.037422",
     "geom:latitude":36.037422,
     "geom:longitude":-115.093308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2466 Ping Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219692883,
-    "wof:lastmodified":1449071337,
+    "wof:lastmodified":1466704393,
     "wof:name":"Mcu",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.093308,36.037422,-115.093308,36.037422],
-  "geometry": {"coordinates":[-115.093308,36.037422],"type":"Point"}
+  "bbox": [
+    -115.093308,
+    36.037422,
+    -115.093308,
+    36.037422
+],
+  "geometry": {"coordinates":[-115.09330799999999,36.037422],"type":"Point"}
 }

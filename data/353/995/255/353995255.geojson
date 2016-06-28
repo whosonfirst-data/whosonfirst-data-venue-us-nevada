@@ -2,13 +2,14 @@
   "id": 353995255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080099,36.07096,-115.080099,36.07096",
     "geom:latitude":36.07096,
     "geom:longitude":-115.080099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 E Sunset Rd Ste C8",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353995255,
-    "wof:lastmodified":1449020520,
+    "wof:lastmodified":1466701726,
     "wof:name":"Eden the Salon and Day Spa",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.080099,36.07096,-115.080099,36.07096],
+  "bbox": [
+    -115.080099,
+    36.07096,
+    -115.080099,
+    36.07096
+],
   "geometry": {"coordinates":[-115.080099,36.07096],"type":"Point"}
 }

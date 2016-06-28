@@ -2,13 +2,14 @@
   "id": 220031975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29236,36.130962,-115.29236,36.130962",
     "geom:latitude":36.130962,
     "geom:longitude":-115.29236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8837 Country Vista Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220031975,
-    "wof:lastmodified":1449074333,
+    "wof:lastmodified":1466701833,
     "wof:name":"Gibbons Holding",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-115.29236,36.130962,-115.29236,36.130962],
+  "bbox": [
+    -115.29236,
+    36.130962,
+    -115.29236,
+    36.130962
+],
   "geometry": {"coordinates":[-115.29236,36.130962],"type":"Point"}
 }

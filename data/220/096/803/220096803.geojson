@@ -2,13 +2,14 @@
   "id": 220096803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288467,36.12352,-115.288467,36.12352",
     "geom:latitude":36.12352,
     "geom:longitude":-115.288467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9030 Sunny Hills Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220096803,
-    "wof:lastmodified":1449074281,
+    "wof:lastmodified":1466702359,
     "wof:name":"Bartolo Photography Inc",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.288467,36.12352,-115.288467,36.12352],
+  "bbox": [
+    -115.288467,
+    36.12352,
+    -115.288467,
+    36.12352
+],
   "geometry": {"coordinates":[-115.288467,36.12352],"type":"Point"}
 }

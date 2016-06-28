@@ -2,13 +2,14 @@
   "id": 236819675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172669,36.082018,-115.172669,36.082018",
     "geom:latitude":36.082018,
     "geom:longitude":-115.172669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236819675,
-    "wof:lastmodified":1449002269,
+    "wof:lastmodified":1466706683,
     "wof:name":"Maverick Helicopters Inc",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tour"
     ]
 },
-  "bbox": [-115.172669,36.082018,-115.172669,36.082018],
+  "bbox": [
+    -115.172669,
+    36.082018,
+    -115.172669,
+    36.082018
+],
   "geometry": {"coordinates":[-115.172669,36.082018],"type":"Point"}
 }

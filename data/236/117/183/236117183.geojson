@@ -2,13 +2,14 @@
   "id": 236117183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992901,36.152146,-115.992901,36.152146",
     "geom:latitude":36.152146,
     "geom:longitude":-115.992901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4585 Pahrump Valley Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236117183,
-    "wof:lastmodified":1449003976,
+    "wof:lastmodified":1466701877,
     "wof:name":"Dan's Automotive Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.992901,36.152146,-115.992901,36.152146],
+  "bbox": [
+    -115.992901,
+    36.152146,
+    -115.992901,
+    36.152146
+],
   "geometry": {"coordinates":[-115.992901,36.152146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236822917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086904,36.078438,-115.086904,36.078438",
     "geom:latitude":36.078438,
     "geom:longitude":-115.086904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236822917,
-    "wof:lastmodified":1449005128,
+    "wof:lastmodified":1466706812,
     "wof:name":"Bruce Kaplan Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.086904,36.078438,-115.086904,36.078438],
+  "bbox": [
+    -115.086904,
+    36.078438,
+    -115.086904,
+    36.078438
+],
   "geometry": {"coordinates":[-115.086904,36.078438],"type":"Point"}
 }

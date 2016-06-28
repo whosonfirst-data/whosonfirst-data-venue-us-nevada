@@ -2,13 +2,14 @@
   "id": 220146773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.292866,36.225776,-115.292866,36.225776",
     "geom:latitude":36.225776,
     "geom:longitude":-115.292866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3579 N Campbell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220146773,
-    "wof:lastmodified":1449074370,
+    "wof:lastmodified":1466702749,
     "wof:name":"Your Bro Veterans Protection",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-115.292866,36.225776,-115.292866,36.225776],
+  "bbox": [
+    -115.292866,
+    36.225776,
+    -115.292866,
+    36.225776
+],
   "geometry": {"coordinates":[-115.292866,36.225776],"type":"Point"}
 }

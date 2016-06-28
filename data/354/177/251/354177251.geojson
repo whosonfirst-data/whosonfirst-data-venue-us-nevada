@@ -2,13 +2,14 @@
   "id": 354177251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081356,36.158858,-115.081356,36.158858",
     "geom:latitude":36.158858,
     "geom:longitude":-115.081356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 E Charleston Blvd Ste D-345",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354177251,
-    "wof:lastmodified":1449067662,
+    "wof:lastmodified":1466704885,
     "wof:name":"PinPoint Media Service",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.081356,36.158858,-115.081356,36.158858],
+  "bbox": [
+    -115.081356,
+    36.158858,
+    -115.081356,
+    36.158858
+],
   "geometry": {"coordinates":[-115.081356,36.158858],"type":"Point"}
 }

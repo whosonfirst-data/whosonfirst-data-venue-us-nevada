@@ -2,13 +2,14 @@
   "id": 236305369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262674,36.135559,-115.262674,36.135559",
     "geom:latitude":36.135559,
     "geom:longitude":-115.262674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2958 Imperial Purple Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236305369,
-    "wof:lastmodified":1449002056,
+    "wof:lastmodified":1466704748,
     "wof:name":"Amerasia Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.262674,36.135559,-115.262674,36.135559],
+  "bbox": [
+    -115.262674,
+    36.135559,
+    -115.262674,
+    36.135559
+],
   "geometry": {"coordinates":[-115.262674,36.135559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370309733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733719,39.514252,-119.733719,39.514252",
     "geom:latitude":39.514252,
     "geom:longitude":-119.733719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":370309733,
-    "wof:lastmodified":1449029848,
+    "wof:lastmodified":1466704652,
     "wof:name":"ALCAL Arcade Contracting Inc.",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-119.733719,39.514252,-119.733719,39.514252],
-  "geometry": {"coordinates":[-119.733719,39.514252],"type":"Point"}
+  "bbox": [
+    -119.733719,
+    39.514252,
+    -119.733719,
+    39.514252
+],
+  "geometry": {"coordinates":[-119.73371899999999,39.514252],"type":"Point"}
 }

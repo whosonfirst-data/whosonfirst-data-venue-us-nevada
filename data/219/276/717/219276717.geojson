@@ -2,13 +2,14 @@
   "id": 219276717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748836,39.541995,-119.748836,39.541995",
     "geom:latitude":39.541995,
     "geom:longitude":-119.748836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 G St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219276717,
-    "wof:lastmodified":1449070497,
+    "wof:lastmodified":1466702793,
     "wof:name":"KQMC Community Radio",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-119.748836,39.541995,-119.748836,39.541995],
+  "bbox": [
+    -119.748836,
+    39.541995,
+    -119.748836,
+    39.541995
+],
   "geometry": {"coordinates":[-119.748836,39.541995],"type":"Point"}
 }

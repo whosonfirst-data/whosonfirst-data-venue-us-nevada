@@ -2,13 +2,14 @@
   "id": 219876225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11143,36.149729,-115.11143,36.149729",
     "geom:latitude":36.149729,
     "geom:longitude":-115.11143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2329 Canosa Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219876225,
-    "wof:lastmodified":1449071109,
+    "wof:lastmodified":1466705528,
     "wof:name":"Rosa Linda Group Care",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-115.11143,36.149729,-115.11143,36.149729],
+  "bbox": [
+    -115.11143,
+    36.149729,
+    -115.11143,
+    36.149729
+],
   "geometry": {"coordinates":[-115.11143,36.149729],"type":"Point"}
 }

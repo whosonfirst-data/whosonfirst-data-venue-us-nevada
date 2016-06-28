@@ -2,13 +2,14 @@
   "id": 220192755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.886967,39.250171,-114.886967,39.250171",
     "geom:latitude":39.250171,
     "geom:longitude":-114.886967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"297 11th St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220192755,
-    "wof:lastmodified":1449074618,
+    "wof:lastmodified":1466703038,
     "wof:name":"Ely Daily Times",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.886967,39.250171,-114.886967,39.250171],
+  "bbox": [
+    -114.886967,
+    39.250171,
+    -114.886967,
+    39.250171
+],
   "geometry": {"coordinates":[-114.886967,39.250171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236072369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15123,36.158768,-115.15123,36.158768",
     "geom:latitude":36.158768,
     "geom:longitude":-115.15123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236072369,
-    "wof:lastmodified":1449003383,
+    "wof:lastmodified":1466704051,
     "wof:name":"D'Loe House Of Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "period"
     ]
 },
-  "bbox": [-115.15123,36.158768,-115.15123,36.158768],
+  "bbox": [
+    -115.15123,
+    36.158768,
+    -115.15123,
+    36.158768
+],
   "geometry": {"coordinates":[-115.15123,36.158768],"type":"Point"}
 }

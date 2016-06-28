@@ -2,13 +2,14 @@
   "id": 236152315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084888,36.095836,-115.084888,36.095836",
     "geom:latitude":36.095836,
     "geom:longitude":-115.084888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 Montoya Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236152315,
-    "wof:lastmodified":1449004336,
+    "wof:lastmodified":1466702617,
     "wof:name":"Color Crazy",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-115.084888,36.095836,-115.084888,36.095836],
-  "geometry": {"coordinates":[-115.084888,36.095836],"type":"Point"}
+  "bbox": [
+    -115.084888,
+    36.095836,
+    -115.084888,
+    36.095836
+],
+  "geometry": {"coordinates":[-115.08488800000001,36.095836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236361921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806028,39.470228,-119.806028,39.470228",
     "geom:latitude":39.470228,
     "geom:longitude":-119.806028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"997 Leah Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236361921,
-    "wof:lastmodified":1449004170,
+    "wof:lastmodified":1466704989,
     "wof:name":"JGM Consulting Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.806028,39.470228,-119.806028,39.470228],
+  "bbox": [
+    -119.806028,
+    39.470228,
+    -119.806028,
+    39.470228
+],
   "geometry": {"coordinates":[-119.806028,39.470228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354058077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.08561,36.02642,-115.08561,36.02642",
     "geom:latitude":36.02642,
     "geom:longitude":-115.08561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Green Valley Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354058077,
-    "wof:lastmodified":1449066180,
+    "wof:lastmodified":1466702984,
     "wof:name":"Ags Consultants",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-115.08561,36.02642,-115.08561,36.02642],
+  "bbox": [
+    -115.08561,
+    36.02642,
+    -115.08561,
+    36.02642
+],
   "geometry": {"coordinates":[-115.08561,36.02642],"type":"Point"}
 }

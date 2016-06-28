@@ -2,13 +2,14 @@
   "id": 220101157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280466,36.149254,-115.280466,36.149254",
     "geom:latitude":36.149254,
     "geom:longitude":-115.280466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Skyline Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220101157,
-    "wof:lastmodified":1449074467,
+    "wof:lastmodified":1466702370,
     "wof:name":"Lea Detection System Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-115.280466,36.149254,-115.280466,36.149254],
+  "bbox": [
+    -115.280466,
+    36.149254,
+    -115.280466,
+    36.149254
+],
   "geometry": {"coordinates":[-115.280466,36.149254],"type":"Point"}
 }

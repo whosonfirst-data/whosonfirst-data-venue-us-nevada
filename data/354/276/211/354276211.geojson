@@ -2,13 +2,14 @@
   "id": 354276211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265376,36.040612,-115.265376,36.040612",
     "geom:latitude":36.040612,
     "geom:longitude":-115.265376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8118 Warbonnet Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354276211,
-    "wof:lastmodified":1449066006,
+    "wof:lastmodified":1466705556,
     "wof:name":"Richmond American Homes Sales Offices",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.265376,36.040612,-115.265376,36.040612],
+  "bbox": [
+    -115.265376,
+    36.040612,
+    -115.265376,
+    36.040612
+],
   "geometry": {"coordinates":[-115.265376,36.040612],"type":"Point"}
 }

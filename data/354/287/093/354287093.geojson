@@ -2,13 +2,14 @@
   "id": 354287093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098999,36.214901,-115.098999,36.214901",
     "geom:latitude":36.214901,
     "geom:longitude":-115.098999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354287093,
-    "wof:lastmodified":1449066037,
+    "wof:lastmodified":1466705651,
     "wof:name":"Silver Star Self Storage",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-115.098999,36.214901,-115.098999,36.214901],
-  "geometry": {"coordinates":[-115.098999,36.214901],"type":"Point"}
+  "bbox": [
+    -115.098999,
+    36.214901,
+    -115.098999,
+    36.214901
+],
+  "geometry": {"coordinates":[-115.09899900000001,36.214901],"type":"Point"}
 }

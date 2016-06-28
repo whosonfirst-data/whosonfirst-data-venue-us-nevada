@@ -2,13 +2,14 @@
   "id": 236842457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.115064,40.71186,-116.115064,40.71186",
     "geom:latitude":40.71186,
     "geom:longitude":-116.115064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Hamilton St",
     "sg:city":"Carlin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236842457,
-    "wof:lastmodified":1449001857,
+    "wof:lastmodified":1466706716,
     "wof:name":"Carlin Fire Station",
     "wof:parent_id":85852339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-116.115064,40.71186,-116.115064,40.71186],
+  "bbox": [
+    -116.115064,
+    40.71186,
+    -116.115064,
+    40.71186
+],
   "geometry": {"coordinates":[-116.115064,40.71186],"type":"Point"}
 }

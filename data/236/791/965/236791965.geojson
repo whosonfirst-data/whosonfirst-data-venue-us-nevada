@@ -2,13 +2,14 @@
   "id": 236791965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.890407,39.541739,-119.890407,39.541739",
     "geom:latitude":39.541739,
     "geom:longitude":-119.890407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2481 Bentley Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236791965,
-    "wof:lastmodified":1449004326,
+    "wof:lastmodified":1466706651,
     "wof:name":"Bay Front Brokerage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.890407,39.541739,-119.890407,39.541739],
+  "bbox": [
+    -119.890407,
+    39.541739,
+    -119.890407,
+    39.541739
+],
   "geometry": {"coordinates":[-119.890407,39.541739],"type":"Point"}
 }

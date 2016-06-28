@@ -2,13 +2,14 @@
   "id": 219230043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.819577,39.538807,-119.819577,39.538807",
     "geom:latitude":39.538807,
     "geom:longitude":-119.819577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Seminary Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219230043,
-    "wof:lastmodified":1449073021,
+    "wof:lastmodified":1466702286,
     "wof:name":"College Courtyard Apartments",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.819577,39.538807,-119.819577,39.538807],
+  "bbox": [
+    -119.819577,
+    39.538807,
+    -119.819577,
+    39.538807
+],
   "geometry": {"coordinates":[-119.819577,39.538807],"type":"Point"}
 }

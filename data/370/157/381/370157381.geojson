@@ -2,13 +2,14 @@
   "id": 370157381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259215,36.198213,-115.259215,36.198213",
     "geom:latitude":36.198213,
     "geom:longitude":-115.259215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Tosca St Bldg 18, Unit 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370157381,
-    "wof:lastmodified":1449031988,
+    "wof:lastmodified":1466701717,
     "wof:name":"Busybodies Daycare",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.259215,36.198213,-115.259215,36.198213],
+  "bbox": [
+    -115.259215,
+    36.198213,
+    -115.259215,
+    36.198213
+],
   "geometry": {"coordinates":[-115.259215,36.198213],"type":"Point"}
 }

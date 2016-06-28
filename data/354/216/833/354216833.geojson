@@ -2,13 +2,14 @@
   "id": 354216833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206203,36.202369,-115.206203,36.202369",
     "geom:latitude":36.202369,
     "geom:longitude":-115.206203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2385 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354216833,
-    "wof:lastmodified":1449067476,
+    "wof:lastmodified":1466705135,
     "wof:name":"BHi Insurance",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.206203,36.202369,-115.206203,36.202369],
+  "bbox": [
+    -115.206203,
+    36.202369,
+    -115.206203,
+    36.202369
+],
   "geometry": {"coordinates":[-115.206203,36.202369],"type":"Point"}
 }

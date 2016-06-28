@@ -2,13 +2,14 @@
   "id": 236591705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.323282,36.223657,-115.323282,36.223657",
     "geom:latitude":36.223657,
     "geom:longitude":-115.323282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Shady Timber St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236591705,
-    "wof:lastmodified":1449003417,
+    "wof:lastmodified":1466706248,
     "wof:name":"Keeping It Clean In Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.323282,36.223657,-115.323282,36.223657],
-  "geometry": {"coordinates":[-115.323282,36.223657],"type":"Point"}
+  "bbox": [
+    -115.323282,
+    36.223657,
+    -115.323282,
+    36.223657
+],
+  "geometry": {"coordinates":[-115.32328200000001,36.223657],"type":"Point"}
 }

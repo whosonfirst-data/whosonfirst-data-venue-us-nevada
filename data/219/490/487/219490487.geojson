@@ -2,13 +2,14 @@
   "id": 219490487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79179,39.527544,-119.79179,39.527544",
     "geom:latitude":39.527544,
     "geom:longitude":-119.79179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219490487,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466704116,
     "wof:name":"Latinos Auto Repair",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.79179,39.527544,-119.79179,39.527544],
-  "geometry": {"coordinates":[-119.79179,39.527544],"type":"Point"}
+  "bbox": [
+    -119.79179,
+    39.527544,
+    -119.79179,
+    39.527544
+],
+  "geometry": {"coordinates":[-119.79179000000001,39.527544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219153041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125332,36.057864,-115.125332,36.057864",
     "geom:latitude":36.057864,
     "geom:longitude":-115.125332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 Mill Pond Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219153041,
-    "wof:lastmodified":1449072818,
+    "wof:lastmodified":1466701457,
     "wof:name":"Marilyn's Childrens Charity",
     "wof:parent_id":85879745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-115.125332,36.057864,-115.125332,36.057864],
+  "bbox": [
+    -115.125332,
+    36.057864,
+    -115.125332,
+    36.057864
+],
   "geometry": {"coordinates":[-115.125332,36.057864],"type":"Point"}
 }

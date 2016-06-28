@@ -2,13 +2,14 @@
   "id": 370357295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.749001,39.174198,-119.749001,39.174198",
     "geom:latitude":39.174198,
     "geom:longitude":-119.749001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1883 E Long St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":370357295,
-    "wof:lastmodified":1449032059,
+    "wof:lastmodified":1466705058,
     "wof:name":"Srinsky Betty Electrolysis",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.749001,39.174198,-119.749001,39.174198],
-  "geometry": {"coordinates":[-119.749001,39.174198],"type":"Point"}
+  "bbox": [
+    -119.749001,
+    39.174198,
+    -119.749001,
+    39.174198
+],
+  "geometry": {"coordinates":[-119.74900100000001,39.174198],"type":"Point"}
 }

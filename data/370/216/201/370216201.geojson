@@ -2,13 +2,14 @@
   "id": 370216201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.282546,36.173495,-115.282546,36.173495",
     "geom:latitude":36.173495,
     "geom:longitude":-115.282546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Rampart Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370216201,
-    "wof:lastmodified":1449032091,
+    "wof:lastmodified":1466702974,
     "wof:name":"Golf Fest Las Vegas",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.282546,36.173495,-115.282546,36.173495],
+  "bbox": [
+    -115.282546,
+    36.173495,
+    -115.282546,
+    36.173495
+],
   "geometry": {"coordinates":[-115.282546,36.173495],"type":"Point"}
 }

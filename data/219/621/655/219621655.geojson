@@ -2,13 +2,14 @@
   "id": 219621655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206053,36.17186,-115.206053,36.17186",
     "geom:latitude":36.17186,
     "geom:longitude":-115.206053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219621655,
-    "wof:lastmodified":1449073499,
+    "wof:lastmodified":1466703309,
     "wof:name":"Strouds Linen Warehouse",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bedding"
     ]
 },
-  "bbox": [-115.206053,36.17186,-115.206053,36.17186],
+  "bbox": [
+    -115.206053,
+    36.17186,
+    -115.206053,
+    36.17186
+],
   "geometry": {"coordinates":[-115.206053,36.17186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262674,36.131909,-115.262674,36.131909",
     "geom:latitude":36.131909,
     "geom:longitude":-115.262674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 Blue Monaco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220135423,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466702664,
     "wof:name":"Sandis Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.262674,36.131909,-115.262674,36.131909],
+  "bbox": [
+    -115.262674,
+    36.131909,
+    -115.262674,
+    36.131909
+],
   "geometry": {"coordinates":[-115.262674,36.131909],"type":"Point"}
 }

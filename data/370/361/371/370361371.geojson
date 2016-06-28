@@ -2,13 +2,14 @@
   "id": 370361371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768997,39.183601,-119.768997,39.183601",
     "geom:latitude":39.183601,
     "geom:longitude":-119.768997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2589 N Carson St Ste B",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370361371,
-    "wof:lastmodified":1449031560,
+    "wof:lastmodified":1466705075,
     "wof:name":"Sub Factory",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-119.768997,39.183601,-119.768997,39.183601],
+  "bbox": [
+    -119.768997,
+    39.183601,
+    -119.768997,
+    39.183601
+],
   "geometry": {"coordinates":[-119.768997,39.183601],"type":"Point"}
 }

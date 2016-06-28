@@ -2,13 +2,14 @@
   "id": 219326209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803091,39.514515,-119.803091,39.514515",
     "geom:latitude":39.514515,
     "geom:longitude":-119.803091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 S Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219326209,
-    "wof:lastmodified":1449071888,
+    "wof:lastmodified":1466703248,
     "wof:name":"Nevada Camera & Repair",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.803091,39.514515,-119.803091,39.514515],
-  "geometry": {"coordinates":[-119.803091,39.514515],"type":"Point"}
+  "bbox": [
+    -119.803091,
+    39.514515,
+    -119.803091,
+    39.514515
+],
+  "geometry": {"coordinates":[-119.80309099999999,39.514515],"type":"Point"}
 }

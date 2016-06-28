@@ -2,13 +2,14 @@
   "id": 236774275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059557,36.051213,-115.059557,36.051213",
     "geom:latitude":36.051213,
     "geom:longitude":-115.059557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Navarre Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236774275,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466706607,
     "wof:name":"Seemee Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lighting"
     ]
 },
-  "bbox": [-115.059557,36.051213,-115.059557,36.051213],
+  "bbox": [
+    -115.059557,
+    36.051213,
+    -115.059557,
+    36.051213
+],
   "geometry": {"coordinates":[-115.059557,36.051213],"type":"Point"}
 }

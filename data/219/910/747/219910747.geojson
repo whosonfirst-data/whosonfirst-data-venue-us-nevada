@@ -2,13 +2,14 @@
   "id": 219910747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.222238,39.611007,-119.222238,39.611007",
     "geom:latitude":39.611007,
     "geom:longitude":-119.222238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Jill Ct",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219910747,
-    "wof:lastmodified":1449071854,
+    "wof:lastmodified":1466705699,
     "wof:name":"Landmark Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.222238,39.611007,-119.222238,39.611007],
+  "bbox": [
+    -119.222238,
+    39.611007,
+    -119.222238,
+    39.611007
+],
   "geometry": {"coordinates":[-119.222238,39.611007],"type":"Point"}
 }

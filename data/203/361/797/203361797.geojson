@@ -2,13 +2,14 @@
   "id": 203361797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167892,36.1662,-115.167892,36.1662",
     "geom:latitude":36.1662,
     "geom:longitude":-115.167892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Alta Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203361797,
-    "wof:lastmodified":1449026349,
+    "wof:lastmodified":1466703189,
     "wof:name":"Hawkins & Colleagues",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-115.167892,36.1662,-115.167892,36.1662],
-  "geometry": {"coordinates":[-115.167892,36.1662],"type":"Point"}
+  "bbox": [
+    -115.167892,
+    36.1662,
+    -115.167892,
+    36.1662
+],
+  "geometry": {"coordinates":[-115.16789199999999,36.1662],"type":"Point"}
 }

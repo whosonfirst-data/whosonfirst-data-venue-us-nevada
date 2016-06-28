@@ -2,13 +2,14 @@
   "id": 219912067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11581,36.010931,-115.11581,36.010931",
     "geom:latitude":36.010931,
     "geom:longitude":-115.11581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Artemus Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219912067,
-    "wof:lastmodified":1449072124,
+    "wof:lastmodified":1466705699,
     "wof:name":"Deltour Travel",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.11581,36.010931,-115.11581,36.010931],
+  "bbox": [
+    -115.11581,
+    36.010931,
+    -115.11581,
+    36.010931
+],
   "geometry": {"coordinates":[-115.11581,36.010931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220123145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.674175,40.789158,-115.674175,40.789158",
     "geom:latitude":40.789158,
     "geom:longitude":-115.674175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Edgewater Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220123145,
-    "wof:lastmodified":1449074255,
+    "wof:lastmodified":1466702553,
     "wof:name":"Steve Colyer Portable Welding",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.674175,40.789158,-115.674175,40.789158],
-  "geometry": {"coordinates":[-115.674175,40.789158],"type":"Point"}
+  "bbox": [
+    -115.674175,
+    40.789158,
+    -115.674175,
+    40.789158
+],
+  "geometry": {"coordinates":[-115.67417500000001,40.789158],"type":"Point"}
 }

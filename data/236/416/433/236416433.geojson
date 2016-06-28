@@ -2,13 +2,14 @@
   "id": 236416433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113042,36.079017,-115.113042,36.079017",
     "geom:latitude":36.079017,
     "geom:longitude":-115.113042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236416433,
-    "wof:lastmodified":1449003074,
+    "wof:lastmodified":1466705441,
     "wof:name":"ICEE Company",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.113042,36.079017,-115.113042,36.079017],
-  "geometry": {"coordinates":[-115.113042,36.079017],"type":"Point"}
+  "bbox": [
+    -115.113042,
+    36.079017,
+    -115.113042,
+    36.079017
+],
+  "geometry": {"coordinates":[-115.11304199999999,36.079017],"type":"Point"}
 }

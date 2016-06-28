@@ -2,13 +2,14 @@
   "id": 236679697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.633418,38.954364,-119.633418,38.954364",
     "geom:latitude":38.954364,
     "geom:longitude":-119.633418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2457 Juniper Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236679697,
-    "wof:lastmodified":1449003841,
+    "wof:lastmodified":1466706440,
     "wof:name":"Liberty Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.633418,38.954364,-119.633418,38.954364],
-  "geometry": {"coordinates":[-119.633418,38.954364],"type":"Point"}
+  "bbox": [
+    -119.633418,
+    38.954364,
+    -119.633418,
+    38.954364
+],
+  "geometry": {"coordinates":[-119.63341800000001,38.954364],"type":"Point"}
 }

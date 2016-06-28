@@ -2,13 +2,14 @@
   "id": 219492359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.974206,36.02817,-114.974206,36.02817",
     "geom:latitude":36.02817,
     "geom:longitude":-114.974206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Minor Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219492359,
-    "wof:lastmodified":1449070374,
+    "wof:lastmodified":1466704123,
     "wof:name":"Harry & Eric's Quality Paint",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-114.974206,36.02817,-114.974206,36.02817],
+  "bbox": [
+    -114.974206,
+    36.02817,
+    -114.974206,
+    36.02817
+],
   "geometry": {"coordinates":[-114.974206,36.02817],"type":"Point"}
 }

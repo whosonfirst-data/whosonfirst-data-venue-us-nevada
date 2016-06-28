@@ -2,13 +2,14 @@
   "id": 236795347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203914,36.08964,-115.203914,36.08964",
     "geom:latitude":36.08964,
     "geom:longitude":-115.203914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5581 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236795347,
-    "wof:lastmodified":1449003632,
+    "wof:lastmodified":1466706643,
     "wof:name":"Nevada Pools Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.203914,36.08964,-115.203914,36.08964],
+  "bbox": [
+    -115.203914,
+    36.08964,
+    -115.203914,
+    36.08964
+],
   "geometry": {"coordinates":[-115.203914,36.08964],"type":"Point"}
 }

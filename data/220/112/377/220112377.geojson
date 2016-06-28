@@ -2,13 +2,14 @@
   "id": 220112377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.324986,36.14813,-115.324986,36.14813",
     "geom:latitude":36.14813,
     "geom:longitude":-115.324986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Silvered Bark Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220112377,
-    "wof:lastmodified":1449074388,
+    "wof:lastmodified":1466702467,
     "wof:name":"Intouractive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.324986,36.14813,-115.324986,36.14813],
+  "bbox": [
+    -115.324986,
+    36.14813,
+    -115.324986,
+    36.14813
+],
   "geometry": {"coordinates":[-115.324986,36.14813],"type":"Point"}
 }

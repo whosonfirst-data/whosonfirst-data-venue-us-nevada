@@ -2,13 +2,14 @@
   "id": 203283025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.660953,40.812279,-115.660953,40.812279",
     "geom:latitude":40.812279,
     "geom:longitude":-115.660953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Merino Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203283025,
-    "wof:lastmodified":1449025471,
+    "wof:lastmodified":1466702707,
     "wof:name":"Ayso Soccer",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-115.660953,40.812279,-115.660953,40.812279],
-  "geometry": {"coordinates":[-115.660953,40.812279],"type":"Point"}
+  "bbox": [
+    -115.660953,
+    40.812279,
+    -115.660953,
+    40.812279
+],
+  "geometry": {"coordinates":[-115.66095300000001,40.812279],"type":"Point"}
 }

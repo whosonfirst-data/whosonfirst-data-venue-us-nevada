@@ -2,13 +2,14 @@
   "id": 220170939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186535,36.144459,-115.186535,36.144459",
     "geom:latitude":36.144459,
     "geom:longitude":-115.186535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220170939,
-    "wof:lastmodified":1449074098,
+    "wof:lastmodified":1466702889,
     "wof:name":"Wells Fargo Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-115.186535,36.144459,-115.186535,36.144459],
-  "geometry": {"coordinates":[-115.186535,36.144459],"type":"Point"}
+  "bbox": [
+    -115.186535,
+    36.144459,
+    -115.186535,
+    36.144459
+],
+  "geometry": {"coordinates":[-115.18653500000001,36.144459],"type":"Point"}
 }

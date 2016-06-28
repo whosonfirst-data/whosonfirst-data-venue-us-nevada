@@ -2,13 +2,14 @@
   "id": 370352787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776248,39.110208,-119.776248,39.110208",
     "geom:latitude":39.110208,
     "geom:longitude":-119.776248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Topsy Ln, Ste 112",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370352787,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1466705055,
     "wof:name":"Michaels Arts and Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.776248,39.110208,-119.776248,39.110208],
+  "bbox": [
+    -119.776248,
+    39.110208,
+    -119.776248,
+    39.110208
+],
   "geometry": {"coordinates":[-119.776248,39.110208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252707797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187483,36.146759,-115.187483,36.146759",
     "geom:latitude":36.146759,
     "geom:longitude":-115.187483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Plz del Prado",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252707797,
-    "wof:lastmodified":1449006352,
+    "wof:lastmodified":1466701472,
     "wof:name":"Chapel Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.187483,36.146759,-115.187483,36.146759],
+  "bbox": [
+    -115.187483,
+    36.146759,
+    -115.187483,
+    36.146759
+],
   "geometry": {"coordinates":[-115.187483,36.146759],"type":"Point"}
 }

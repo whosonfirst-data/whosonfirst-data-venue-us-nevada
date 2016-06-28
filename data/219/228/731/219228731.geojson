@@ -2,13 +2,14 @@
   "id": 219228731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.762107,40.854914,-115.762107,40.854914",
     "geom:latitude":40.854914,
     "geom:longitude":-115.762107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Ruby View Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":219228731,
-    "wof:lastmodified":1449071501,
+    "wof:lastmodified":1466702287,
     "wof:name":"Mulligan's Bar & Grill",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.762107,40.854914,-115.762107,40.854914],
+  "bbox": [
+    -115.762107,
+    40.854914,
+    -115.762107,
+    40.854914
+],
   "geometry": {"coordinates":[-115.762107,40.854914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370258087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296968,36.113049,-115.296968,36.113049",
     "geom:latitude":36.113049,
     "geom:longitude":-115.296968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Cross Road Shopping Center 5035 S Fort Apache, Ste 106",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370258087,
-    "wof:lastmodified":1449031787,
+    "wof:lastmodified":1466703873,
     "wof:name":"Viva El Taco",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.296968,36.113049,-115.296968,36.113049],
-  "geometry": {"coordinates":[-115.296968,36.113049],"type":"Point"}
+  "bbox": [
+    -115.296968,
+    36.113049,
+    -115.296968,
+    36.113049
+],
+  "geometry": {"coordinates":[-115.29696800000001,36.113049],"type":"Point"}
 }

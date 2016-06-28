@@ -2,13 +2,14 @@
   "id": 370207345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211382,36.026041,-115.211382,36.026041",
     "geom:latitude":36.026041,
     "geom:longitude":-115.211382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5091 W Oleta Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370207345,
-    "wof:lastmodified":1449031456,
+    "wof:lastmodified":1466702711,
     "wof:name":"Daisy Carpet Cleaning",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.211382,36.026041,-115.211382,36.026041],
+  "bbox": [
+    -115.211382,
+    36.026041,
+    -115.211382,
+    36.026041
+],
   "geometry": {"coordinates":[-115.211382,36.026041],"type":"Point"}
 }

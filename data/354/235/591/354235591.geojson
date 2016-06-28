@@ -2,13 +2,14 @@
   "id": 354235591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137001,36.137798,-115.137001,36.137798",
     "geom:latitude":36.137798,
     "geom:longitude":-115.137001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2850 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354235591,
-    "wof:lastmodified":1449066230,
+    "wof:lastmodified":1466705260,
     "wof:name":"Casa Tiempo Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.137001,36.137798,-115.137001,36.137798],
+  "bbox": [
+    -115.137001,
+    36.137798,
+    -115.137001,
+    36.137798
+],
   "geometry": {"coordinates":[-115.137001,36.137798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203263751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093605,35.962526,-115.093605,35.962526",
     "geom:latitude":35.962526,
     "geom:longitude":-115.093605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Anthem Creek Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203263751,
-    "wof:lastmodified":1449026818,
+    "wof:lastmodified":1466702602,
     "wof:name":"Green Valley Landscape",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.093605,35.962526,-115.093605,35.962526],
+  "bbox": [
+    -115.093605,
+    35.962526,
+    -115.093605,
+    35.962526
+],
   "geometry": {"coordinates":[-115.093605,35.962526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236832655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.30101,36.095246,-115.30101,36.095246",
     "geom:latitude":36.095246,
     "geom:longitude":-115.30101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9548 Ancala Hollow Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236832655,
-    "wof:lastmodified":1449001687,
+    "wof:lastmodified":1466706709,
     "wof:name":"Raw Tech",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.30101,36.095246,-115.30101,36.095246],
-  "geometry": {"coordinates":[-115.30101,36.095246],"type":"Point"}
+  "bbox": [
+    -115.30101,
+    36.095246,
+    -115.30101,
+    36.095246
+],
+  "geometry": {"coordinates":[-115.30101000000001,36.095246],"type":"Point"}
 }

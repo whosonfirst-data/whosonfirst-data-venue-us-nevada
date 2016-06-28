@@ -2,13 +2,14 @@
   "id": 219335383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243053,36.12992,-115.243053,36.12992",
     "geom:latitude":36.12992,
     "geom:longitude":-115.243053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219335383,
-    "wof:lastmodified":1449072713,
+    "wof:lastmodified":1466703313,
     "wof:name":"PHD Properties",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-115.243053,36.12992,-115.243053,36.12992],
+  "bbox": [
+    -115.243053,
+    36.12992,
+    -115.243053,
+    36.12992
+],
   "geometry": {"coordinates":[-115.243053,36.12992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236843063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735998,39.562511,-119.735998,39.562511",
     "geom:latitude":39.562511,
     "geom:longitude":-119.735998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 Teglia St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236843063,
-    "wof:lastmodified":1449001892,
+    "wof:lastmodified":1466706710,
     "wof:name":"TGN Insurance Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-119.735998,39.562511,-119.735998,39.562511],
+  "bbox": [
+    -119.735998,
+    39.562511,
+    -119.735998,
+    39.562511
+],
   "geometry": {"coordinates":[-119.735998,39.562511],"type":"Point"}
 }

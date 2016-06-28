@@ -2,13 +2,14 @@
   "id": 236417813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.037904,36.169285,-116.037904,36.169285",
     "geom:latitude":36.169285,
     "geom:longitude":-116.037904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Labrador St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236417813,
-    "wof:lastmodified":1449002917,
+    "wof:lastmodified":1466705449,
     "wof:name":"Alcohlics Anonymous Nev Dst 17",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-116.037904,36.169285,-116.037904,36.169285],
+  "bbox": [
+    -116.037904,
+    36.169285,
+    -116.037904,
+    36.169285
+],
   "geometry": {"coordinates":[-116.037904,36.169285],"type":"Point"}
 }

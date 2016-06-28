@@ -2,13 +2,14 @@
   "id": 219802555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812333,38.872356,-119.812333,38.872356",
     "geom:latitude":38.872356,
     "geom:longitude":-119.812333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Foothill Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219802555,
-    "wof:lastmodified":1449073265,
+    "wof:lastmodified":1466705103,
     "wof:name":"Chuck Paya Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.812333,38.872356,-119.812333,38.872356],
+  "bbox": [
+    -119.812333,
+    38.872356,
+    -119.812333,
+    38.872356
+],
   "geometry": {"coordinates":[-119.812333,38.872356],"type":"Point"}
 }

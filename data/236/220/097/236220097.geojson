@@ -2,13 +2,14 @@
   "id": 236220097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073133,36.120541,-115.073133,36.120541",
     "geom:latitude":36.120541,
     "geom:longitude":-115.073133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4760 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236220097,
-    "wof:lastmodified":1449005104,
+    "wof:lastmodified":1466703977,
     "wof:name":"Nationwide Homes Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.073133,36.120541,-115.073133,36.120541],
+  "bbox": [
+    -115.073133,
+    36.120541,
+    -115.073133,
+    36.120541
+],
   "geometry": {"coordinates":[-115.073133,36.120541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219225667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29686,36.115013,-115.29686,36.115013",
     "geom:latitude":36.115013,
     "geom:longitude":-115.29686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9350 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219225667,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466702276,
     "wof:name":"Chatter Box Wireless Inc",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.29686,36.115013,-115.29686,36.115013],
+  "bbox": [
+    -115.29686,
+    36.115013,
+    -115.29686,
+    36.115013
+],
   "geometry": {"coordinates":[-115.29686,36.115013],"type":"Point"}
 }

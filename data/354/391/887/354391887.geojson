@@ -2,13 +2,14 @@
   "id": 354391887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109955,36.102287,-115.109955,36.102287",
     "geom:latitude":36.102287,
     "geom:longitude":-115.109955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4775 McLeod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354391887,
-    "wof:lastmodified":1449067059,
+    "wof:lastmodified":1466706230,
     "wof:name":"Paradise Park",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.109955,36.102287,-115.109955,36.102287],
+  "bbox": [
+    -115.109955,
+    36.102287,
+    -115.109955,
+    36.102287
+],
   "geometry": {"coordinates":[-115.109955,36.102287],"type":"Point"}
 }

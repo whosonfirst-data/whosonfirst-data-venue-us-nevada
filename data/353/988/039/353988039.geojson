@@ -2,13 +2,14 @@
   "id": 353988039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.013779,36.068975,-115.013779,36.068975",
     "geom:latitude":36.068975,
     "geom:longitude":-115.013779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353988039,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1466701534,
     "wof:name":"Roadhouse Farmers Market",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.013779,36.068975,-115.013779,36.068975],
+  "bbox": [
+    -115.013779,
+    36.068975,
+    -115.013779,
+    36.068975
+],
   "geometry": {"coordinates":[-115.013779,36.068975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354319777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191383,36.093564,-115.191383,36.093564",
     "geom:latitude":36.093564,
     "geom:longitude":-115.191383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3915 W Hacienda Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354319777,
-    "wof:lastmodified":1449066611,
+    "wof:lastmodified":1466705849,
     "wof:name":"Arfa Contracting",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.191383,36.093564,-115.191383,36.093564],
+  "bbox": [
+    -115.191383,
+    36.093564,
+    -115.191383,
+    36.093564
+],
   "geometry": {"coordinates":[-115.191383,36.093564],"type":"Point"}
 }

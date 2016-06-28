@@ -2,13 +2,14 @@
   "id": 370339377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754997,39.149899,-119.754997,39.149899",
     "geom:latitude":39.149899,
     "geom:longitude":-119.754997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370339377,
-    "wof:lastmodified":1449030606,
+    "wof:lastmodified":1466705090,
     "wof:name":"Mpei",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-119.754997,39.149899,-119.754997,39.149899],
+  "bbox": [
+    -119.754997,
+    39.149899,
+    -119.754997,
+    39.149899
+],
   "geometry": {"coordinates":[-119.754997,39.149899],"type":"Point"}
 }

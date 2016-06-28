@@ -2,13 +2,14 @@
   "id": 354022783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093266,36.24021,-115.093266,36.24021",
     "geom:latitude":36.24021,
     "geom:longitude":-115.093266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3853 E Craig Road",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354022783,
-    "wof:lastmodified":1449066476,
+    "wof:lastmodified":1466702066,
     "wof:name":"A Star Furniture",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.093266,36.24021,-115.093266,36.24021],
+  "bbox": [
+    -115.093266,
+    36.24021,
+    -115.093266,
+    36.24021
+],
   "geometry": {"coordinates":[-115.093266,36.24021],"type":"Point"}
 }

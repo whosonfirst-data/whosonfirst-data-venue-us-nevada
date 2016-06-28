@@ -2,13 +2,14 @@
   "id": 219795573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094904,36.239741,-115.094904,36.239741",
     "geom:latitude":36.239741,
     "geom:longitude":-115.094904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 N Production Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219795573,
-    "wof:lastmodified":1449072476,
+    "wof:lastmodified":1466704936,
     "wof:name":"Loadtech",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.094904,36.239741,-115.094904,36.239741],
+  "bbox": [
+    -115.094904,
+    36.239741,
+    -115.094904,
+    36.239741
+],
   "geometry": {"coordinates":[-115.094904,36.239741],"type":"Point"}
 }

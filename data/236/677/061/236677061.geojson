@@ -2,13 +2,14 @@
   "id": 236677061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7809,39.385592,-119.7809,39.385592",
     "geom:latitude":39.385592,
     "geom:longitude":-119.7809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476 Missoula Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236677061,
-    "wof:lastmodified":1449002708,
+    "wof:lastmodified":1466706429,
     "wof:name":"Sunset Anchor Properties LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-119.7809,39.385592,-119.7809,39.385592],
+  "bbox": [
+    -119.7809,
+    39.385592,
+    -119.7809,
+    39.385592
+],
   "geometry": {"coordinates":[-119.7809,39.385592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236255923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757382,39.114362,-119.757382,39.114362",
     "geom:latitude":39.114362,
     "geom:longitude":-119.757382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Jacobsen Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236255923,
-    "wof:lastmodified":1449003097,
+    "wof:lastmodified":1466704428,
     "wof:name":"Parade Region 9",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "prevention"
     ]
 },
-  "bbox": [-119.757382,39.114362,-119.757382,39.114362],
-  "geometry": {"coordinates":[-119.757382,39.114362],"type":"Point"}
+  "bbox": [
+    -119.757382,
+    39.114362,
+    -119.757382,
+    39.114362
+],
+  "geometry": {"coordinates":[-119.75738200000001,39.114362],"type":"Point"}
 }

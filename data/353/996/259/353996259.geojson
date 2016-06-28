@@ -2,13 +2,14 @@
   "id": 353996259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.042,36.069401,-115.042,36.069401",
     "geom:latitude":36.069401,
     "geom:longitude":-115.042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 Galleria Dr Ste 101",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353996259,
-    "wof:lastmodified":1449018948,
+    "wof:lastmodified":1466701758,
     "wof:name":"Valley Mortgage Group Inc",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.042,36.069401,-115.042,36.069401],
+  "bbox": [
+    -115.042,
+    36.069401,
+    -115.042,
+    36.069401
+],
   "geometry": {"coordinates":[-115.042,36.069401],"type":"Point"}
 }

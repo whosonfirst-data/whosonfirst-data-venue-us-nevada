@@ -2,13 +2,14 @@
   "id": 236078353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771384,39.548347,-119.771384,39.548347",
     "geom:latitude":39.548347,
     "geom:longitude":-119.771384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Sullivan Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236078353,
-    "wof:lastmodified":1449004629,
+    "wof:lastmodified":1466704087,
     "wof:name":"Keep Wireless Communications",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-119.771384,39.548347,-119.771384,39.548347],
+  "bbox": [
+    -119.771384,
+    39.548347,
+    -119.771384,
+    39.548347
+],
   "geometry": {"coordinates":[-119.771384,39.548347],"type":"Point"}
 }

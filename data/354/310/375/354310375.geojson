@@ -2,13 +2,14 @@
   "id": 354310375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.290687,36.141286,-115.290687,36.141286",
     "geom:latitude":36.141286,
     "geom:longitude":-115.290687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 W Desert Inn Road Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354310375,
-    "wof:lastmodified":1449066986,
+    "wof:lastmodified":1466705776,
     "wof:name":"Monaco Park",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.290687,36.141286,-115.290687,36.141286],
-  "geometry": {"coordinates":[-115.290687,36.141286],"type":"Point"}
+  "bbox": [
+    -115.290687,
+    36.141286,
+    -115.290687,
+    36.141286
+],
+  "geometry": {"coordinates":[-115.29068700000001,36.141286],"type":"Point"}
 }

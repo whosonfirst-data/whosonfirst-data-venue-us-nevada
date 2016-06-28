@@ -2,13 +2,14 @@
   "id": 203330019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760984,39.106999,-119.760984,39.106999",
     "geom:latitude":39.106999,
     "geom:longitude":-119.760984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7171 Center Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203330019,
-    "wof:lastmodified":1449025878,
+    "wof:lastmodified":1466704230,
     "wof:name":"Catlin Construction Co",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.760984,39.106999,-119.760984,39.106999],
-  "geometry": {"coordinates":[-119.760984,39.106999],"type":"Point"}
+  "bbox": [
+    -119.760984,
+    39.106999,
+    -119.760984,
+    39.106999
+],
+  "geometry": {"coordinates":[-119.76098399999999,39.106999],"type":"Point"}
 }

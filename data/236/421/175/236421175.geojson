@@ -2,13 +2,14 @@
   "id": 236421175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168819,36.229826,-115.168819,36.229826",
     "geom:latitude":36.229826,
     "geom:longitude":-115.168819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1944 Quartet Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236421175,
-    "wof:lastmodified":1449003807,
+    "wof:lastmodified":1466705463,
     "wof:name":"Lady's Touch",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.168819,36.229826,-115.168819,36.229826],
+  "bbox": [
+    -115.168819,
+    36.229826,
+    -115.168819,
+    36.229826
+],
   "geometry": {"coordinates":[-115.168819,36.229826],"type":"Point"}
 }

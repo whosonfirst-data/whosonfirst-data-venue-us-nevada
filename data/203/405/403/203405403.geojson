@@ -2,13 +2,14 @@
   "id": 203405403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.050362,36.149578,-115.050362,36.149578",
     "geom:latitude":36.149578,
     "geom:longitude":-115.050362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Bowstring Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203405403,
-    "wof:lastmodified":1449026700,
+    "wof:lastmodified":1466703341,
     "wof:name":"Taco Palenque",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.050362,36.149578,-115.050362,36.149578],
-  "geometry": {"coordinates":[-115.050362,36.149578],"type":"Point"}
+  "bbox": [
+    -115.050362,
+    36.149578,
+    -115.050362,
+    36.149578
+],
+  "geometry": {"coordinates":[-115.05036200000001,36.149578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219630865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.748932,40.85378,-115.748932,40.85378",
     "geom:latitude":40.85378,
     "geom:longitude":-115.748932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 Alta Vis",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219630865,
-    "wof:lastmodified":1449071653,
+    "wof:lastmodified":1466703477,
     "wof:name":"Milex Technologies",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.748932,40.85378,-115.748932,40.85378],
+  "bbox": [
+    -115.748932,
+    40.85378,
+    -115.748932,
+    40.85378
+],
   "geometry": {"coordinates":[-115.748932,40.85378],"type":"Point"}
 }

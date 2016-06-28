@@ -2,13 +2,14 @@
   "id": 354222715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206232,36.194737,-115.206232,36.194737",
     "geom:latitude":36.194737,
     "geom:longitude":-115.206232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1949 N Decatur Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354222715,
-    "wof:lastmodified":1449067115,
+    "wof:lastmodified":1466705016,
     "wof:name":"1013 Family Shoes",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.206232,36.194737,-115.206232,36.194737],
+  "bbox": [
+    -115.206232,
+    36.194737,
+    -115.206232,
+    36.194737
+],
   "geometry": {"coordinates":[-115.206232,36.194737],"type":"Point"}
 }

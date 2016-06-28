@@ -2,13 +2,14 @@
   "id": 236501555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076441,36.171016,-115.076441,36.171016",
     "geom:latitude":36.171016,
     "geom:longitude":-115.076441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4533 Queen Angel Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236501555,
-    "wof:lastmodified":1449005283,
+    "wof:lastmodified":1466705672,
     "wof:name":"Centro De Apoyo",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-115.076441,36.171016,-115.076441,36.171016],
+  "bbox": [
+    -115.076441,
+    36.171016,
+    -115.076441,
+    36.171016
+],
   "geometry": {"coordinates":[-115.076441,36.171016],"type":"Point"}
 }

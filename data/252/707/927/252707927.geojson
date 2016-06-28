@@ -2,13 +2,14 @@
   "id": 252707927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.792134,40.891691,-117.792134,40.891691",
     "geom:latitude":40.891691,
     "geom:longitude":-117.792134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4995 Airview Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252707927,
-    "wof:lastmodified":1449006352,
+    "wof:lastmodified":1466701476,
     "wof:name":"V F Anderson & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mobile"
     ]
 },
-  "bbox": [-117.792134,40.891691,-117.792134,40.891691],
+  "bbox": [
+    -117.792134,
+    40.891691,
+    -117.792134,
+    40.891691
+],
   "geometry": {"coordinates":[-117.792134,40.891691],"type":"Point"}
 }

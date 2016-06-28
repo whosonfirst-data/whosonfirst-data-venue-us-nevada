@@ -2,13 +2,14 @@
   "id": 219923119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.842463,39.478432,-119.842463,39.478432",
     "geom:latitude":39.478432,
     "geom:longitude":-119.842463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3975 Skyline Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219923119,
-    "wof:lastmodified":1449073794,
+    "wof:lastmodified":1466705637,
     "wof:name":"Barbara Taves Attorney At Law",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.842463,39.478432,-119.842463,39.478432],
+  "bbox": [
+    -119.842463,
+    39.478432,
+    -119.842463,
+    39.478432
+],
   "geometry": {"coordinates":[-119.842463,39.478432],"type":"Point"}
 }

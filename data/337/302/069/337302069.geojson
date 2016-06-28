@@ -2,13 +2,14 @@
   "id": 337302069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.957013,35.999182,-114.957013,35.999182",
     "geom:latitude":35.999182,
     "geom:longitude":-114.957013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Singing Drum Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337302069,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1466701783,
     "wof:name":"Big Foot Saws",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-114.957013,35.999182,-114.957013,35.999182],
+  "bbox": [
+    -114.957013,
+    35.999182,
+    -114.957013,
+    35.999182
+],
   "geometry": {"coordinates":[-114.957013,35.999182],"type":"Point"}
 }

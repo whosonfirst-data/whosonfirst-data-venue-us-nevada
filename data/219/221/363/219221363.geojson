@@ -2,13 +2,14 @@
   "id": 219221363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.841307,35.947591,-114.841307,35.947591",
     "geom:latitude":35.947591,
     "geom:longitude":-114.841307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1648 Riviera Ct",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219221363,
-    "wof:lastmodified":1449071945,
+    "wof:lastmodified":1466702243,
     "wof:name":"Ferrari Bookkeeping Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.841307,35.947591,-114.841307,35.947591],
+  "bbox": [
+    -114.841307,
+    35.947591,
+    -114.841307,
+    35.947591
+],
   "geometry": {"coordinates":[-114.841307,35.947591],"type":"Point"}
 }

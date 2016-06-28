@@ -2,13 +2,14 @@
   "id": 354223679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239309,36.208066,-115.239309,36.208066",
     "geom:latitude":36.208066,
     "geom:longitude":-115.239309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Chandler Mews Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354223679,
-    "wof:lastmodified":1449066053,
+    "wof:lastmodified":1466705169,
     "wof:name":"Smoke Ranch Recreation Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "team"
     ]
 },
-  "bbox": [-115.239309,36.208066,-115.239309,36.208066],
-  "geometry": {"coordinates":[-115.239309,36.208066],"type":"Point"}
+  "bbox": [
+    -115.239309,
+    36.208066,
+    -115.239309,
+    36.208066
+],
+  "geometry": {"coordinates":[-115.23930900000001,36.208066],"type":"Point"}
 }

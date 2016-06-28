@@ -2,13 +2,14 @@
   "id": 236626795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098772,36.060051,-115.098772,36.060051",
     "geom:latitude":36.060051,
     "geom:longitude":-115.098772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Quail Run Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236626795,
-    "wof:lastmodified":1449005252,
+    "wof:lastmodified":1466706233,
     "wof:name":"Med-Recruit",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-115.098772,36.060051,-115.098772,36.060051],
+  "bbox": [
+    -115.098772,
+    36.060051,
+    -115.098772,
+    36.060051
+],
   "geometry": {"coordinates":[-115.098772,36.060051],"type":"Point"}
 }

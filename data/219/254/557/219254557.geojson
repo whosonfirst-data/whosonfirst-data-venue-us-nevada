@@ -2,13 +2,14 @@
   "id": 219254557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154704,36.188487,-115.154704,36.188487",
     "geom:latitude":36.188487,
     "geom:longitude":-115.154704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 W Owens Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219254557,
-    "wof:lastmodified":1449072814,
+    "wof:lastmodified":1466702599,
     "wof:name":"Southern Nev Workforce Inv Bd",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "training"
     ]
 },
-  "bbox": [-115.154704,36.188487,-115.154704,36.188487],
+  "bbox": [
+    -115.154704,
+    36.188487,
+    -115.154704,
+    36.188487
+],
   "geometry": {"coordinates":[-115.154704,36.188487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354310971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.291463,36.144094,-115.291463,36.144094",
     "geom:latitude":36.144094,
     "geom:longitude":-115.291463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8937 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354310971,
-    "wof:lastmodified":1449066988,
+    "wof:lastmodified":1466705885,
     "wof:name":"Beckwith James OD",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-115.291463,36.144094,-115.291463,36.144094],
-  "geometry": {"coordinates":[-115.291463,36.144094],"type":"Point"}
+  "bbox": [
+    -115.291463,
+    36.144094,
+    -115.291463,
+    36.144094
+],
+  "geometry": {"coordinates":[-115.29146299999999,36.144094],"type":"Point"}
 }

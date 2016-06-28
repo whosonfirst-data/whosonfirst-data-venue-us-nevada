@@ -2,13 +2,14 @@
   "id": 235988359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257171,36.153242,-115.257171,36.153242",
     "geom:latitude":36.153242,
     "geom:longitude":-115.257171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7417 Doe Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235988359,
-    "wof:lastmodified":1449008375,
+    "wof:lastmodified":1466703698,
     "wof:name":"William N Chingros Md A Prof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.257171,36.153242,-115.257171,36.153242],
+  "bbox": [
+    -115.257171,
+    36.153242,
+    -115.257171,
+    36.153242
+],
   "geometry": {"coordinates":[-115.257171,36.153242],"type":"Point"}
 }

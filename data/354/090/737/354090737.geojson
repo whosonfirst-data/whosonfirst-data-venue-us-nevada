@@ -2,13 +2,14 @@
   "id": 354090737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140582,36.169079,-115.140582,36.169079",
     "geom:latitude":36.169079,
     "geom:longitude":-115.140582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Fremont Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354090737,
-    "wof:lastmodified":1449067285,
+    "wof:lastmodified":1466703886,
     "wof:name":"Mesa Gift and Cigars",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.140582,36.169079,-115.140582,36.169079],
-  "geometry": {"coordinates":[-115.140582,36.169079],"type":"Point"}
+  "bbox": [
+    -115.140582,
+    36.169079,
+    -115.140582,
+    36.169079
+],
+  "geometry": {"coordinates":[-115.14058199999999,36.169079],"type":"Point"}
 }

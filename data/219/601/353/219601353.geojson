@@ -2,13 +2,14 @@
   "id": 219601353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157413,36.117181,-115.157413,36.117181",
     "geom:latitude":36.117181,
     "geom:longitude":-115.157413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3980 Howard Hughes Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":219601353,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466702937,
     "wof:name":"Top Rank Inc",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "match"
     ]
 },
-  "bbox": [-115.157413,36.117181,-115.157413,36.117181],
-  "geometry": {"coordinates":[-115.157413,36.117181],"type":"Point"}
+  "bbox": [
+    -115.157413,
+    36.117181,
+    -115.157413,
+    36.117181
+],
+  "geometry": {"coordinates":[-115.15741300000001,36.117181],"type":"Point"}
 }

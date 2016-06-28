@@ -2,13 +2,14 @@
   "id": 219305517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158626,36.193114,-115.158626,36.193114",
     "geom:latitude":36.193114,
     "geom:longitude":-115.158626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Lexington St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219305517,
-    "wof:lastmodified":1449070927,
+    "wof:lastmodified":1466703122,
     "wof:name":"Greater Evergreen Missionary",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.158626,36.193114,-115.158626,36.193114],
+  "bbox": [
+    -115.158626,
+    36.193114,
+    -115.158626,
+    36.193114
+],
   "geometry": {"coordinates":[-115.158626,36.193114],"type":"Point"}
 }

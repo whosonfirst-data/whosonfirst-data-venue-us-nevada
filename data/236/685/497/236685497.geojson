@@ -2,13 +2,14 @@
   "id": 236685497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252174,36.318538,-115.252174,36.318538",
     "geom:latitude":36.318538,
     "geom:longitude":-115.252174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8640 Cupp Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236685497,
-    "wof:lastmodified":1449005155,
+    "wof:lastmodified":1466706443,
     "wof:name":"Gi Kim Golf",
     "wof:parent_id":85896895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "golf"
     ]
 },
-  "bbox": [-115.252174,36.318538,-115.252174,36.318538],
+  "bbox": [
+    -115.252174,
+    36.318538,
+    -115.252174,
+    36.318538
+],
   "geometry": {"coordinates":[-115.252174,36.318538],"type":"Point"}
 }

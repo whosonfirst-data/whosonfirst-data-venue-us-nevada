@@ -2,13 +2,14 @@
   "id": 220049805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284728,36.303957,-115.284728,36.303957",
     "geom:latitude":36.303957,
     "geom:longitude":-115.284728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8624 Shady Pines Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220049805,
-    "wof:lastmodified":1449074430,
+    "wof:lastmodified":1466702000,
     "wof:name":"Word Of Mouth Promo Printing",
     "wof:parent_id":85892681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-115.284728,36.303957,-115.284728,36.303957],
+  "bbox": [
+    -115.284728,
+    36.303957,
+    -115.284728,
+    36.303957
+],
   "geometry": {"coordinates":[-115.284728,36.303957],"type":"Point"}
 }

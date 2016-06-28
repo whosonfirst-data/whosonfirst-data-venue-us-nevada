@@ -2,13 +2,14 @@
   "id": 219491393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.725339,40.963697,-117.725339,40.963697",
     "geom:latitude":40.963697,
     "geom:longitude":-117.725339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 W Minor St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219491393,
-    "wof:lastmodified":1449070324,
+    "wof:lastmodified":1466704120,
     "wof:name":"Rick L Grant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-117.725339,40.963697,-117.725339,40.963697],
-  "geometry": {"coordinates":[-117.725339,40.963697],"type":"Point"}
+  "bbox": [
+    -117.725339,
+    40.963697,
+    -117.725339,
+    40.963697
+],
+  "geometry": {"coordinates":[-117.72533900000001,40.963697],"type":"Point"}
 }

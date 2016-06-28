@@ -2,13 +2,14 @@
   "id": 203312779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.780917,39.474721,-118.780917,39.474721",
     "geom:latitude":39.474721,
     "geom:longitude":-118.780917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203312779,
-    "wof:lastmodified":1449025881,
+    "wof:lastmodified":1466702941,
     "wof:name":"Custom Massage Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "massage"
     ]
 },
-  "bbox": [-118.780917,39.474721,-118.780917,39.474721],
+  "bbox": [
+    -118.780917,
+    39.474721,
+    -118.780917,
+    39.474721
+],
   "geometry": {"coordinates":[-118.780917,39.474721],"type":"Point"}
 }

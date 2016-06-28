@@ -2,13 +2,14 @@
   "id": 219802421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23276,36.151651,-115.23276,36.151651",
     "geom:latitude":36.151651,
     "geom:longitude":-115.23276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219802421,
-    "wof:lastmodified":1449073262,
+    "wof:lastmodified":1466705100,
     "wof:name":"C & C Signs",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.23276,36.151651,-115.23276,36.151651],
+  "bbox": [
+    -115.23276,
+    36.151651,
+    -115.23276,
+    36.151651
+],
   "geometry": {"coordinates":[-115.23276,36.151651],"type":"Point"}
 }

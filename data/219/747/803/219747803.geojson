@@ -2,13 +2,14 @@
   "id": 219747803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100716,36.134017,-115.100716,36.134017",
     "geom:latitude":36.134017,
     "geom:longitude":-115.100716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Pecos Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219747803,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466704748,
     "wof:name":"Ken Bahoora DC",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.100716,36.134017,-115.100716,36.134017],
-  "geometry": {"coordinates":[-115.100716,36.134017],"type":"Point"}
+  "bbox": [
+    -115.100716,
+    36.134017,
+    -115.100716,
+    36.134017
+],
+  "geometry": {"coordinates":[-115.10071600000001,36.134017],"type":"Point"}
 }

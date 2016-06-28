@@ -2,13 +2,14 @@
   "id": 354415201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281174,36.201199,-115.281174,36.201199",
     "geom:latitude":36.201199,
     "geom:longitude":-115.281174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 N Rampart Blvd Ste 202",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354415201,
-    "wof:lastmodified":1449067187,
+    "wof:lastmodified":1466706469,
     "wof:name":"Clearwater Cleaning Company",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.281174,36.201199,-115.281174,36.201199],
-  "geometry": {"coordinates":[-115.281174,36.201199],"type":"Point"}
+  "bbox": [
+    -115.281174,
+    36.201199,
+    -115.281174,
+    36.201199
+],
+  "geometry": {"coordinates":[-115.28117399999999,36.201199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236624347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.019659,36.278981,-115.019659,36.278981",
     "geom:latitude":36.278981,
     "geom:longitude":-115.019659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6775 Speedway Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236624347,
-    "wof:lastmodified":1449004008,
+    "wof:lastmodified":1466706191,
     "wof:name":"Giga Crete",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.019659,36.278981,-115.019659,36.278981],
+  "bbox": [
+    -115.019659,
+    36.278981,
+    -115.019659,
+    36.278981
+],
   "geometry": {"coordinates":[-115.019659,36.278981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236620547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178078,36.144415,-115.178078,36.144415",
     "geom:latitude":36.144415,
     "geom:longitude":-115.178078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2970 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236620547,
-    "wof:lastmodified":1449004904,
+    "wof:lastmodified":1466706317,
     "wof:name":"Lee Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-115.178078,36.144415,-115.178078,36.144415],
+  "bbox": [
+    -115.178078,
+    36.144415,
+    -115.178078,
+    36.144415
+],
   "geometry": {"coordinates":[-115.178078,36.144415],"type":"Point"}
 }

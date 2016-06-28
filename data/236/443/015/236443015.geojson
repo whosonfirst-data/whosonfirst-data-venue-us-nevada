@@ -2,13 +2,14 @@
   "id": 236443015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203768,36.086015,-115.203768,36.086015",
     "geom:latitude":36.086015,
     "geom:longitude":-115.203768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5880 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236443015,
-    "wof:lastmodified":1449004513,
+    "wof:lastmodified":1466705673,
     "wof:name":"Clark County Sheriff's Work",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-115.203768,36.086015,-115.203768,36.086015],
+  "bbox": [
+    -115.203768,
+    36.086015,
+    -115.203768,
+    36.086015
+],
   "geometry": {"coordinates":[-115.203768,36.086015],"type":"Point"}
 }

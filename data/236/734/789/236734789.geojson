@@ -2,13 +2,14 @@
   "id": 236734789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239326,36.16739,-115.239326,36.16739",
     "geom:latitude":36.16739,
     "geom:longitude":-115.239326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Davenport Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236734789,
-    "wof:lastmodified":1449004743,
+    "wof:lastmodified":1466706535,
     "wof:name":"Green Acres Landscape Mntnc",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.239326,36.16739,-115.239326,36.16739],
-  "geometry": {"coordinates":[-115.239326,36.16739],"type":"Point"}
+  "bbox": [
+    -115.239326,
+    36.16739,
+    -115.239326,
+    36.16739
+],
+  "geometry": {"coordinates":[-115.23932600000001,36.16739],"type":"Point"}
 }

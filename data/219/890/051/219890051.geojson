@@ -2,13 +2,14 @@
   "id": 219890051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296989,36.205149,-115.296989,36.205149",
     "geom:latitude":36.205149,
     "geom:longitude":-115.296989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 Twin Flower Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219890051,
-    "wof:lastmodified":1449071174,
+    "wof:lastmodified":1466705486,
     "wof:name":"Parba Distributors LLC",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.296989,36.205149,-115.296989,36.205149],
+  "bbox": [
+    -115.296989,
+    36.205149,
+    -115.296989,
+    36.205149
+],
   "geometry": {"coordinates":[-115.296989,36.205149],"type":"Point"}
 }

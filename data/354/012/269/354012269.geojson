@@ -2,13 +2,14 @@
   "id": 354012269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.962048,36.030478,-114.962048,36.030478",
     "geom:latitude":36.030478,
     "geom:longitude":-114.962048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Village Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354012269,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1466701799,
     "wof:name":"A Daisy Bouquet",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.962048,36.030478,-114.962048,36.030478],
+  "bbox": [
+    -114.962048,
+    36.030478,
+    -114.962048,
+    36.030478
+],
   "geometry": {"coordinates":[-114.962048,36.030478],"type":"Point"}
 }

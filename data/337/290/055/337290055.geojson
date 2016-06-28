@@ -2,13 +2,14 @@
   "id": 337290055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821949,39.589338,-119.821949,39.589338",
     "geom:latitude":39.589338,
     "geom:longitude":-119.821949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Western Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337290055,
-    "wof:lastmodified":1449027285,
+    "wof:lastmodified":1466701488,
     "wof:name":"Sanderson Counter Top Co",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counter"
     ]
 },
-  "bbox": [-119.821949,39.589338,-119.821949,39.589338],
+  "bbox": [
+    -119.821949,
+    39.589338,
+    -119.821949,
+    39.589338
+],
   "geometry": {"coordinates":[-119.821949,39.589338],"type":"Point"}
 }

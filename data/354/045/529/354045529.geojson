@@ -2,13 +2,14 @@
   "id": 354045529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185306,36.197471,-115.185306,36.197471",
     "geom:latitude":36.197471,
     "geom:longitude":-115.185306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 W Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354045529,
-    "wof:lastmodified":1449067473,
+    "wof:lastmodified":1466702653,
     "wof:name":"Spectrum Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.185306,36.197471,-115.185306,36.197471],
+  "bbox": [
+    -115.185306,
+    36.197471,
+    -115.185306,
+    36.197471
+],
   "geometry": {"coordinates":[-115.185306,36.197471],"type":"Point"}
 }

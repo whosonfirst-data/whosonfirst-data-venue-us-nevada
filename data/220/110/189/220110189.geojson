@@ -2,13 +2,14 @@
   "id": 220110189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.274206,36.18276,-115.274206,36.18276",
     "geom:latitude":36.18276,
     "geom:longitude":-115.274206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Seabury Hill",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220110189,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466702442,
     "wof:name":"Palms Trimmed For Less",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.274206,36.18276,-115.274206,36.18276],
-  "geometry": {"coordinates":[-115.274206,36.18276],"type":"Point"}
+  "bbox": [
+    -115.274206,
+    36.18276,
+    -115.274206,
+    36.18276
+],
+  "geometry": {"coordinates":[-115.27420600000001,36.18276],"type":"Point"}
 }

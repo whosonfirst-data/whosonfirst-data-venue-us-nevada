@@ -2,13 +2,14 @@
   "id": 354286009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.07496,36.242385,-115.07496,36.242385",
     "geom:latitude":36.242385,
     "geom:longitude":-115.07496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4510 Copper Sage St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354286009,
-    "wof:lastmodified":1449066359,
+    "wof:lastmodified":1466705541,
     "wof:name":"J & S Mechanical",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.07496,36.242385,-115.07496,36.242385],
+  "bbox": [
+    -115.07496,
+    36.242385,
+    -115.07496,
+    36.242385
+],
   "geometry": {"coordinates":[-115.07496,36.242385],"type":"Point"}
 }

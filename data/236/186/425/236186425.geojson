@@ -2,13 +2,14 @@
   "id": 236186425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743523,39.486139,-119.743523,39.486139",
     "geom:latitude":39.486139,
     "geom:longitude":-119.743523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Mira Loma Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236186425,
-    "wof:lastmodified":1449004382,
+    "wof:lastmodified":1466703302,
     "wof:name":"Debis Cleaning Service",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.743523,39.486139,-119.743523,39.486139],
+  "bbox": [
+    -119.743523,
+    39.486139,
+    -119.743523,
+    39.486139
+],
   "geometry": {"coordinates":[-119.743523,39.486139],"type":"Point"}
 }

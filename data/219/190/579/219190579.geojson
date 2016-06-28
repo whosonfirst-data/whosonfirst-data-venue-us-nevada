@@ -2,13 +2,14 @@
   "id": 219190579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203958,36.098623,-115.203958,36.098623",
     "geom:latitude":36.098623,
     "geom:longitude":-115.203958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5075 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219190579,
-    "wof:lastmodified":1449073683,
+    "wof:lastmodified":1466702013,
     "wof:name":"Red Rock Mechanical",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.203958,36.098623,-115.203958,36.098623],
+  "bbox": [
+    -115.203958,
+    36.098623,
+    -115.203958,
+    36.098623
+],
   "geometry": {"coordinates":[-115.203958,36.098623],"type":"Point"}
 }

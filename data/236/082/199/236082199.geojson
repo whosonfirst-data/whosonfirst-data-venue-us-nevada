@@ -2,13 +2,14 @@
   "id": 236082199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204546,36.093534,-115.204546,36.093534",
     "geom:latitude":36.093534,
     "geom:longitude":-115.204546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 W Hacienda Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236082199,
-    "wof:lastmodified":1449001740,
+    "wof:lastmodified":1466704104,
     "wof:name":"Global Aviation Testing Lab",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-115.204546,36.093534,-115.204546,36.093534],
-  "geometry": {"coordinates":[-115.204546,36.093534],"type":"Point"}
+  "bbox": [
+    -115.204546,
+    36.093534,
+    -115.204546,
+    36.093534
+],
+  "geometry": {"coordinates":[-115.20454599999999,36.093534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219583313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.883974,39.544574,-119.883974,39.544574",
     "geom:latitude":39.544574,
     "geom:longitude":-119.883974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Roxbury Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219583313,
-    "wof:lastmodified":1449073185,
+    "wof:lastmodified":1466702796,
     "wof:name":"Stephen J Packer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.883974,39.544574,-119.883974,39.544574],
-  "geometry": {"coordinates":[-119.883974,39.544574],"type":"Point"}
+  "bbox": [
+    -119.883974,
+    39.544574,
+    -119.883974,
+    39.544574
+],
+  "geometry": {"coordinates":[-119.88397399999999,39.544574],"type":"Point"}
 }

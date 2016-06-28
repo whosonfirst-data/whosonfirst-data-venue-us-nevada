@@ -2,13 +2,14 @@
   "id": 354009111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.048785,36.055136,-115.048785,36.055136",
     "geom:latitude":36.055136,
     "geom:longitude":-115.048785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1489 W Warm Springs Rd #110",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354009111,
-    "wof:lastmodified":1449067654,
+    "wof:lastmodified":1466701705,
     "wof:name":"Ami Studios Inc",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "web"
     ]
 },
-  "bbox": [-115.048785,36.055136,-115.048785,36.055136],
+  "bbox": [
+    -115.048785,
+    36.055136,
+    -115.048785,
+    36.055136
+],
   "geometry": {"coordinates":[-115.048785,36.055136],"type":"Point"}
 }

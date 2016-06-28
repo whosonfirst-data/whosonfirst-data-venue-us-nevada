@@ -2,13 +2,14 @@
   "id": 236725599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.937837,38.991479,-119.937837,38.991479",
     "geom:latitude":38.991479,
     "geom:longitude":-119.937837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Elks Point Rd",
     "sg:city":"Glenbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236725599,
-    "wof:lastmodified":1449002281,
+    "wof:lastmodified":1466706530,
     "wof:name":"Tri-State Water Operations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pollution"
     ]
 },
-  "bbox": [-119.937837,38.991479,-119.937837,38.991479],
+  "bbox": [
+    -119.937837,
+    38.991479,
+    -119.937837,
+    38.991479
+],
   "geometry": {"coordinates":[-119.937837,38.991479],"type":"Point"}
 }

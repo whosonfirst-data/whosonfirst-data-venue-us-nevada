@@ -2,13 +2,14 @@
   "id": 236925183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827491,39.521748,-119.827491,39.521748",
     "geom:latitude":39.521748,
     "geom:longitude":-119.827491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Jones St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236925183,
-    "wof:lastmodified":1449001698,
+    "wof:lastmodified":1466706916,
     "wof:name":"River Arms Apartments",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.827491,39.521748,-119.827491,39.521748],
-  "geometry": {"coordinates":[-119.827491,39.521748],"type":"Point"}
+  "bbox": [
+    -119.827491,
+    39.521748,
+    -119.827491,
+    39.521748
+],
+  "geometry": {"coordinates":[-119.82749099999999,39.521748],"type":"Point"}
 }

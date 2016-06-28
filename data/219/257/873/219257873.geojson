@@ -2,13 +2,14 @@
   "id": 219257873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.89572,39.247517,-114.89572,39.247517",
     "geom:latitude":39.247517,
     "geom:longitude":-114.89572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219257873,
-    "wof:lastmodified":1449071443,
+    "wof:lastmodified":1466702625,
     "wof:name":"E Lee Ford/Lincoln/Mercury Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-114.89572,39.247517,-114.89572,39.247517],
+  "bbox": [
+    -114.89572,
+    39.247517,
+    -114.89572,
+    39.247517
+],
   "geometry": {"coordinates":[-114.89572,39.247517],"type":"Point"}
 }

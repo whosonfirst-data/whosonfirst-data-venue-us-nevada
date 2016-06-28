@@ -2,13 +2,14 @@
   "id": 236011427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.829836,39.524246,-119.829836,39.524246",
     "geom:latitude":39.524246,
     "geom:longitude":-119.829836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Chism St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236011427,
-    "wof:lastmodified":1449004522,
+    "wof:lastmodified":1466703817,
     "wof:name":"Pinnacle Construction & Dev",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.829836,39.524246,-119.829836,39.524246],
+  "bbox": [
+    -119.829836,
+    39.524246,
+    -119.829836,
+    39.524246
+],
   "geometry": {"coordinates":[-119.829836,39.524246],"type":"Point"}
 }

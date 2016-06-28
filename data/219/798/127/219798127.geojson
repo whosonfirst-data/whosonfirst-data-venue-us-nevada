@@ -2,13 +2,14 @@
   "id": 219798127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743803,38.905155,-119.743803,38.905155",
     "geom:latitude":38.905155,
     "geom:longitude":-119.743803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1281 Bodie Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219798127,
-    "wof:lastmodified":1449071054,
+    "wof:lastmodified":1466705206,
     "wof:name":"Silver-Sear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-119.743803,38.905155,-119.743803,38.905155],
+  "bbox": [
+    -119.743803,
+    38.905155,
+    -119.743803,
+    38.905155
+],
   "geometry": {"coordinates":[-119.743803,38.905155],"type":"Point"}
 }

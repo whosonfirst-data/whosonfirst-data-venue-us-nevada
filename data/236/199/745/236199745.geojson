@@ -2,13 +2,14 @@
   "id": 236199745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.70352,39.524237,-119.70352,39.524237",
     "geom:latitude":39.524237,
     "geom:longitude":-119.70352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 Kleppe Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236199745,
-    "wof:lastmodified":1449001933,
+    "wof:lastmodified":1466703564,
     "wof:name":"Advanced Asphalt",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-119.70352,39.524237,-119.70352,39.524237],
+  "bbox": [
+    -119.70352,
+    39.524237,
+    -119.70352,
+    39.524237
+],
   "geometry": {"coordinates":[-119.70352,39.524237],"type":"Point"}
 }

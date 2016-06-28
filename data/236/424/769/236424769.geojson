@@ -2,13 +2,14 @@
   "id": 236424769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.797778,39.494692,-119.797778,39.494692",
     "geom:latitude":39.494692,
     "geom:longitude":-119.797778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Gentry Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236424769,
-    "wof:lastmodified":1449005002,
+    "wof:lastmodified":1466705480,
     "wof:name":"Tiger Tom's",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-119.797778,39.494692,-119.797778,39.494692],
-  "geometry": {"coordinates":[-119.797778,39.494692],"type":"Point"}
+  "bbox": [
+    -119.797778,
+    39.494692,
+    -119.797778,
+    39.494692
+],
+  "geometry": {"coordinates":[-119.79777799999999,39.494692],"type":"Point"}
 }

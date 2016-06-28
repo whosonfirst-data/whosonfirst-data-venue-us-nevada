@@ -2,13 +2,14 @@
   "id": 236897783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.478327,40.174823,-118.478327,40.174823",
     "geom:latitude":40.174823,
     "geom:longitude":-118.478327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236897783,
-    "wof:lastmodified":1449004603,
+    "wof:lastmodified":1466706890,
     "wof:name":"Heart Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-118.478327,40.174823,-118.478327,40.174823],
-  "geometry": {"coordinates":[-118.478327,40.174823],"type":"Point"}
+  "bbox": [
+    -118.478327,
+    40.174823,
+    -118.478327,
+    40.174823
+],
+  "geometry": {"coordinates":[-118.47832699999999,40.174823],"type":"Point"}
 }

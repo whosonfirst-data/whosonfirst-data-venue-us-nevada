@@ -2,13 +2,14 @@
   "id": 236966513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209901,36.214229,-115.209901,36.214229",
     "geom:latitude":36.214229,
     "geom:longitude":-115.209901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236966513,
-    "wof:lastmodified":1449001693,
+    "wof:lastmodified":1466706949,
     "wof:name":"Mercado Y Carniceria Los Psn's",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.209901,36.214229,-115.209901,36.214229],
+  "bbox": [
+    -115.209901,
+    36.214229,
+    -115.209901,
+    36.214229
+],
   "geometry": {"coordinates":[-115.209901,36.214229],"type":"Point"}
 }

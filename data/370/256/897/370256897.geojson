@@ -2,13 +2,14 @@
   "id": 370256897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279106,36.108282,-115.279106,36.108282",
     "geom:latitude":36.108282,
     "geom:longitude":-115.279106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 S Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370256897,
-    "wof:lastmodified":1449031674,
+    "wof:lastmodified":1466703836,
     "wof:name":"Da Vinci's Pasta Factory",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.279106,36.108282,-115.279106,36.108282],
+  "bbox": [
+    -115.279106,
+    36.108282,
+    -115.279106,
+    36.108282
+],
   "geometry": {"coordinates":[-115.279106,36.108282],"type":"Point"}
 }

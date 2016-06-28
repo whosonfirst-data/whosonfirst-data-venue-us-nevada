@@ -2,13 +2,14 @@
   "id": 219503411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.311991,36.192661,-115.311991,36.192661",
     "geom:latitude":36.192661,
     "geom:longitude":-115.311991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1837 Lyell Canyon Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219503411,
-    "wof:lastmodified":1449073926,
+    "wof:lastmodified":1466704163,
     "wof:name":"C&S Landscaping Inc",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.311991,36.192661,-115.311991,36.192661],
-  "geometry": {"coordinates":[-115.311991,36.192661],"type":"Point"}
+  "bbox": [
+    -115.311991,
+    36.192661,
+    -115.311991,
+    36.192661
+],
+  "geometry": {"coordinates":[-115.31199100000001,36.192661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236561647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301866,36.204559,-115.301866,36.204559",
     "geom:latitude":36.204559,
     "geom:longitude":-115.301866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9425 Cedar Heights Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236561647,
-    "wof:lastmodified":1449004092,
+    "wof:lastmodified":1466706147,
     "wof:name":"Tsb LLC",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financial"
     ]
 },
-  "bbox": [-115.301866,36.204559,-115.301866,36.204559],
+  "bbox": [
+    -115.301866,
+    36.204559,
+    -115.301866,
+    36.204559
+],
   "geometry": {"coordinates":[-115.301866,36.204559],"type":"Point"}
 }

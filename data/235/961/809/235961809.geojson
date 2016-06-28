@@ -2,13 +2,14 @@
   "id": 235961809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.835699,39.504037,-119.835699,39.504037",
     "geom:latitude":39.504037,
     "geom:longitude":-119.835699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Hunter Lake Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235961809,
-    "wof:lastmodified":1449008598,
+    "wof:lastmodified":1466703589,
     "wof:name":"Etc Publishing",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-119.835699,39.504037,-119.835699,39.504037],
-  "geometry": {"coordinates":[-119.835699,39.504037],"type":"Point"}
+  "bbox": [
+    -119.835699,
+    39.504037,
+    -119.835699,
+    39.504037
+],
+  "geometry": {"coordinates":[-119.83569900000001,39.504037],"type":"Point"}
 }

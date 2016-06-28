@@ -2,13 +2,14 @@
   "id": 236318107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198202,36.229438,-115.198202,36.229438",
     "geom:latitude":36.229438,
     "geom:longitude":-115.198202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3837 Valley Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236318107,
-    "wof:lastmodified":1449002223,
+    "wof:lastmodified":1466704690,
     "wof:name":"C W Eats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.198202,36.229438,-115.198202,36.229438],
-  "geometry": {"coordinates":[-115.198202,36.229438],"type":"Point"}
+  "bbox": [
+    -115.198202,
+    36.229438,
+    -115.198202,
+    36.229438
+],
+  "geometry": {"coordinates":[-115.19820199999999,36.229438],"type":"Point"}
 }

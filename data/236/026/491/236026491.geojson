@@ -2,13 +2,14 @@
   "id": 236026491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114526,35.957201,-115.114526,35.957201",
     "geom:latitude":35.957201,
     "geom:longitude":-115.114526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1954 Colvin Run Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236026491,
-    "wof:lastmodified":1449003622,
+    "wof:lastmodified":1466703894,
     "wof:name":"David & David",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.114526,35.957201,-115.114526,35.957201],
+  "bbox": [
+    -115.114526,
+    35.957201,
+    -115.114526,
+    35.957201
+],
   "geometry": {"coordinates":[-115.114526,35.957201],"type":"Point"}
 }

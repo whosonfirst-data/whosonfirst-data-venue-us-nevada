@@ -2,13 +2,14 @@
   "id": 219350185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.165174,36.164404,-115.165174,36.164404",
     "geom:latitude":36.164404,
     "geom:longitude":-115.165174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Pinto Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219350185,
-    "wof:lastmodified":1449072181,
+    "wof:lastmodified":1466703399,
     "wof:name":"Ernest Lied Ambulatory Care",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.165174,36.164404,-115.165174,36.164404],
-  "geometry": {"coordinates":[-115.165174,36.164404],"type":"Point"}
+  "bbox": [
+    -115.165174,
+    36.164404,
+    -115.165174,
+    36.164404
+],
+  "geometry": {"coordinates":[-115.16517399999999,36.164404],"type":"Point"}
 }

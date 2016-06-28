@@ -2,13 +2,14 @@
   "id": 219208881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.979992,36.190526,-115.979992,36.190526",
     "geom:latitude":36.190526,
     "geom:longitude":-115.979992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Ambush St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219208881,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466702147,
     "wof:name":"Bee Hive Homes of Nye County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-115.979992,36.190526,-115.979992,36.190526],
+  "bbox": [
+    -115.979992,
+    36.190526,
+    -115.979992,
+    36.190526
+],
   "geometry": {"coordinates":[-115.979992,36.190526],"type":"Point"}
 }

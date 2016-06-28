@@ -2,13 +2,14 @@
   "id": 203200033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7602,39.150876,-119.7602,39.150876",
     "geom:latitude":39.150876,
     "geom:longitude":-119.7602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Mallory Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203200033,
-    "wof:lastmodified":1449025677,
+    "wof:lastmodified":1466702058,
     "wof:name":"Upstage Center Theatre",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-119.7602,39.150876,-119.7602,39.150876],
+  "bbox": [
+    -119.7602,
+    39.150876,
+    -119.7602,
+    39.150876
+],
   "geometry": {"coordinates":[-119.7602,39.150876],"type":"Point"}
 }

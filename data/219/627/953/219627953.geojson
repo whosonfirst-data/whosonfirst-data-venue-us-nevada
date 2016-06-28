@@ -2,13 +2,14 @@
   "id": 219627953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.891924,39.248271,-114.891924,39.248271",
     "geom:latitude":39.248271,
     "geom:longitude":-114.891924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219627953,
-    "wof:lastmodified":1449074004,
+    "wof:lastmodified":1466703428,
     "wof:name":"Steptoe Drug Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-114.891924,39.248271,-114.891924,39.248271],
+  "bbox": [
+    -114.891924,
+    39.248271,
+    -114.891924,
+    39.248271
+],
   "geometry": {"coordinates":[-114.891924,39.248271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236237917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089526,36.089334,-115.089526,36.089334",
     "geom:latitude":36.089334,
     "geom:longitude":-115.089526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3895 Rawhide St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236237917,
-    "wof:lastmodified":1449001740,
+    "wof:lastmodified":1466704330,
     "wof:name":"Steve Dahl",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.089526,36.089334,-115.089526,36.089334],
-  "geometry": {"coordinates":[-115.089526,36.089334],"type":"Point"}
+  "bbox": [
+    -115.089526,
+    36.089334,
+    -115.089526,
+    36.089334
+],
+  "geometry": {"coordinates":[-115.08952600000001,36.089334],"type":"Point"}
 }

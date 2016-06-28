@@ -2,13 +2,14 @@
   "id": 370275189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.314692,36.266223,-115.314692,36.266223",
     "geom:latitude":36.266223,
     "geom:longitude":-115.314692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9995 W El Campo Grande Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370275189,
-    "wof:lastmodified":1449030187,
+    "wof:lastmodified":1466704214,
     "wof:name":"Smoody Michael General Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.314692,36.266223,-115.314692,36.266223],
-  "geometry": {"coordinates":[-115.314692,36.266223],"type":"Point"}
+  "bbox": [
+    -115.314692,
+    36.266223,
+    -115.314692,
+    36.266223
+],
+  "geometry": {"coordinates":[-115.31469199999999,36.266223],"type":"Point"}
 }

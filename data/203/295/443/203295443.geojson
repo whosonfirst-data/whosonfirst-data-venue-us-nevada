@@ -2,13 +2,14 @@
   "id": 203295443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213597,36.260649,-115.213597,36.260649",
     "geom:latitude":36.260649,
     "geom:longitude":-115.213597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5033 Glenarden Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203295443,
-    "wof:lastmodified":1449025688,
+    "wof:lastmodified":1466702798,
     "wof:name":"Magnetic Health & Healing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.213597,36.260649,-115.213597,36.260649],
-  "geometry": {"coordinates":[-115.213597,36.260649],"type":"Point"}
+  "bbox": [
+    -115.213597,
+    36.260649,
+    -115.213597,
+    36.260649
+],
+  "geometry": {"coordinates":[-115.21359699999999,36.260649],"type":"Point"}
 }

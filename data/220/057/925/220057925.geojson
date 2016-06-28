@@ -2,13 +2,14 @@
   "id": 220057925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223721,36.166967,-115.223721,36.166967",
     "geom:latitude":36.166967,
     "geom:longitude":-115.223721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220057925,
-    "wof:lastmodified":1449074426,
+    "wof:lastmodified":1466702114,
     "wof:name":"Uno Processing",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.223721,36.166967,-115.223721,36.166967],
+  "bbox": [
+    -115.223721,
+    36.166967,
+    -115.223721,
+    36.166967
+],
   "geometry": {"coordinates":[-115.223721,36.166967],"type":"Point"}
 }

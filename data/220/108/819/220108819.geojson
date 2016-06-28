@@ -2,13 +2,14 @@
   "id": 220108819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143036,36.050776,-115.143036,36.050776",
     "geom:latitude":36.050776,
     "geom:longitude":-115.143036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Buffwood Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220108819,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466702452,
     "wof:name":"Northern Reflections Massage",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.143036,36.050776,-115.143036,36.050776],
+  "bbox": [
+    -115.143036,
+    36.050776,
+    -115.143036,
+    36.050776
+],
   "geometry": {"coordinates":[-115.143036,36.050776],"type":"Point"}
 }

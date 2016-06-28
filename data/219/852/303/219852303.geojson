@@ -2,13 +2,14 @@
   "id": 219852303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233098,36.193298,-115.233098,36.193298",
     "geom:latitude":36.193298,
     "geom:longitude":-115.233098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 N Torrey Pines Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219852303,
-    "wof:lastmodified":1449073317,
+    "wof:lastmodified":1466705375,
     "wof:name":"Curtis Circulation Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-115.233098,36.193298,-115.233098,36.193298],
+  "bbox": [
+    -115.233098,
+    36.193298,
+    -115.233098,
+    36.193298
+],
   "geometry": {"coordinates":[-115.233098,36.193298],"type":"Point"}
 }

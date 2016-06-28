@@ -2,13 +2,14 @@
   "id": 219418183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754329,39.534808,-119.754329,39.534808",
     "geom:latitude":39.534808,
     "geom:longitude":-119.754329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219418183,
-    "wof:lastmodified":1449073168,
+    "wof:lastmodified":1466703733,
     "wof:name":"Hello World Cruise Shoppe",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-119.754329,39.534808,-119.754329,39.534808],
+  "bbox": [
+    -119.754329,
+    39.534808,
+    -119.754329,
+    39.534808
+],
   "geometry": {"coordinates":[-119.754329,39.534808],"type":"Point"}
 }

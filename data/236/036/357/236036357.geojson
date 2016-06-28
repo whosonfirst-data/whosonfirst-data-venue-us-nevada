@@ -2,13 +2,14 @@
   "id": 236036357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121098,36.103688,-115.121098,36.103688",
     "geom:latitude":36.103688,
     "geom:longitude":-115.121098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 Renaissance Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236036357,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466703923,
     "wof:name":"B R Vacation Resort Marketing",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-115.121098,36.103688,-115.121098,36.103688],
+  "bbox": [
+    -115.121098,
+    36.103688,
+    -115.121098,
+    36.103688
+],
   "geometry": {"coordinates":[-115.121098,36.103688],"type":"Point"}
 }

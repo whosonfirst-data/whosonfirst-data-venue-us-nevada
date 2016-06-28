@@ -2,13 +2,14 @@
   "id": 354404639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118554,36.027729,-115.118554,36.027729",
     "geom:latitude":36.027729,
     "geom:longitude":-115.118554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8899 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354404639,
-    "wof:lastmodified":1449067106,
+    "wof:lastmodified":1466706297,
     "wof:name":"Super B Burrito",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.118554,36.027729,-115.118554,36.027729],
+  "bbox": [
+    -115.118554,
+    36.027729,
+    -115.118554,
+    36.027729
+],
   "geometry": {"coordinates":[-115.118554,36.027729],"type":"Point"}
 }

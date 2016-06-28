@@ -2,13 +2,14 @@
   "id": 219972873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.022574,36.238943,-116.022574,36.238943",
     "geom:latitude":36.238943,
     "geom:longitude":-116.022574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 W Stagecoach Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219972873,
-    "wof:lastmodified":1449072149,
+    "wof:lastmodified":1466706070,
     "wof:name":"ANC Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.022574,36.238943,-116.022574,36.238943],
-  "geometry": {"coordinates":[-116.022574,36.238943],"type":"Point"}
+  "bbox": [
+    -116.022574,
+    36.238943,
+    -116.022574,
+    36.238943
+],
+  "geometry": {"coordinates":[-116.02257400000001,36.238943],"type":"Point"}
 }

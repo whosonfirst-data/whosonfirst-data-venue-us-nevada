@@ -2,13 +2,14 @@
   "id": 236430629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303954,36.192881,-115.303954,36.192881",
     "geom:latitude":36.192881,
     "geom:longitude":-115.303954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236430629,
-    "wof:lastmodified":1449003815,
+    "wof:lastmodified":1466705501,
     "wof:name":"Kumpes Inc",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-115.303954,36.192881,-115.303954,36.192881],
+  "bbox": [
+    -115.303954,
+    36.192881,
+    -115.303954,
+    36.192881
+],
   "geometry": {"coordinates":[-115.303954,36.192881],"type":"Point"}
 }

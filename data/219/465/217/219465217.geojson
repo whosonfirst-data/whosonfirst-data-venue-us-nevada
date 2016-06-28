@@ -2,13 +2,14 @@
   "id": 219465217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066862,36.045529,-115.066862,36.045529",
     "geom:latitude":36.045529,
     "geom:longitude":-115.066862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Adonis Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219465217,
-    "wof:lastmodified":1449072763,
+    "wof:lastmodified":1466704014,
     "wof:name":"Associated Credit Card Svc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "card"
     ]
 },
-  "bbox": [-115.066862,36.045529,-115.066862,36.045529],
+  "bbox": [
+    -115.066862,
+    36.045529,
+    -115.066862,
+    36.045529
+],
   "geometry": {"coordinates":[-115.066862,36.045529],"type":"Point"}
 }

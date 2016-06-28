@@ -2,13 +2,14 @@
   "id": 337302139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157008,36.118475,-115.157008,36.118475",
     "geom:latitude":36.118475,
     "geom:longitude":-115.157008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Howard Hughes Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337302139,
-    "wof:lastmodified":1449027213,
+    "wof:lastmodified":1466701785,
     "wof:name":"Republic Services Western Reg",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "management"
     ]
 },
-  "bbox": [-115.157008,36.118475,-115.157008,36.118475],
+  "bbox": [
+    -115.157008,
+    36.118475,
+    -115.157008,
+    36.118475
+],
   "geometry": {"coordinates":[-115.157008,36.118475],"type":"Point"}
 }

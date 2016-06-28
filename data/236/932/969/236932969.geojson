@@ -2,13 +2,14 @@
   "id": 236932969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731264,39.529894,-119.731264,39.529894",
     "geom:latitude":39.529894,
     "geom:longitude":-119.731264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Nugget Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236932969,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466706921,
     "wof:name":"Sacramento Insulation Contrs",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.731264,39.529894,-119.731264,39.529894],
+  "bbox": [
+    -119.731264,
+    39.529894,
+    -119.731264,
+    39.529894
+],
   "geometry": {"coordinates":[-119.731264,39.529894],"type":"Point"}
 }

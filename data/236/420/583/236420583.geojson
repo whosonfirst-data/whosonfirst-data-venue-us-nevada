@@ -2,13 +2,14 @@
   "id": 236420583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248794,36.109726,-115.248794,36.109726",
     "geom:latitude":36.109726,
     "geom:longitude":-115.248794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4345 Golden Ring Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236420583,
-    "wof:lastmodified":1449003187,
+    "wof:lastmodified":1466705335,
     "wof:name":"Anubus Software",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-115.248794,36.109726,-115.248794,36.109726],
+  "bbox": [
+    -115.248794,
+    36.109726,
+    -115.248794,
+    36.109726
+],
   "geometry": {"coordinates":[-115.248794,36.109726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236564077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761838,39.501715,-119.761838,39.501715",
     "geom:latitude":39.501715,
     "geom:longitude":-119.761838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Rock Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236564077,
-    "wof:lastmodified":1449005016,
+    "wof:lastmodified":1466706277,
     "wof:name":"Barker Business Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-119.761838,39.501715,-119.761838,39.501715],
+  "bbox": [
+    -119.761838,
+    39.501715,
+    -119.761838,
+    39.501715
+],
   "geometry": {"coordinates":[-119.761838,39.501715],"type":"Point"}
 }

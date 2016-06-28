@@ -2,13 +2,14 @@
   "id": 219364835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781955,39.468644,-119.781955,39.468644",
     "geom:latitude":39.468644,
     "geom:longitude":-119.781955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Neil Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219364835,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466703467,
     "wof:name":"Microsoft Licensing Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "transactions"
     ]
 },
-  "bbox": [-119.781955,39.468644,-119.781955,39.468644],
+  "bbox": [
+    -119.781955,
+    39.468644,
+    -119.781955,
+    39.468644
+],
   "geometry": {"coordinates":[-119.781955,39.468644],"type":"Point"}
 }

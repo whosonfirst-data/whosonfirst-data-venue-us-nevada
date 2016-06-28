@@ -2,13 +2,14 @@
   "id": 219413917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079334,36.180394,-115.079334,36.180394",
     "geom:latitude":36.180394,
     "geom:longitude":-115.079334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 N Stratton Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219413917,
-    "wof:lastmodified":1449070949,
+    "wof:lastmodified":1466703715,
     "wof:name":"William F Hargis",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.079334,36.180394,-115.079334,36.180394],
+  "bbox": [
+    -115.079334,
+    36.180394,
+    -115.079334,
+    36.180394
+],
   "geometry": {"coordinates":[-115.079334,36.180394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236187947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187623,36.104931,-115.187623,36.104931",
     "geom:latitude":36.104931,
     "geom:longitude":-115.187623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236187947,
-    "wof:lastmodified":1449002046,
+    "wof:lastmodified":1466703332,
     "wof:name":"Camden Entertainment Group",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-115.187623,36.104931,-115.187623,36.104931],
+  "bbox": [
+    -115.187623,
+    36.104931,
+    -115.187623,
+    36.104931
+],
   "geometry": {"coordinates":[-115.187623,36.104931],"type":"Point"}
 }

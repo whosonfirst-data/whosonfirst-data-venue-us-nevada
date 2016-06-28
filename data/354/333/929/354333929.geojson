@@ -2,13 +2,14 @@
   "id": 354333929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172706,36.091044,-115.172706,36.091044",
     "geom:latitude":36.091044,
     "geom:longitude":-115.172706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3999 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354333929,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1466706061,
     "wof:name":"Super Liquor",
     "wof:parent_id":85879735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.172706,36.091044,-115.172706,36.091044],
-  "geometry": {"coordinates":[-115.172706,36.091044],"type":"Point"}
+  "bbox": [
+    -115.172706,
+    36.091044,
+    -115.172706,
+    36.091044
+],
+  "geometry": {"coordinates":[-115.17270600000001,36.091044],"type":"Point"}
 }

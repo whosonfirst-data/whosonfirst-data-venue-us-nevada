@@ -2,13 +2,14 @@
   "id": 236044509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172257,36.053441,-115.172257,36.053441",
     "geom:latitude":36.053441,
     "geom:longitude":-115.172257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7310 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236044509,
-    "wof:lastmodified":1449003355,
+    "wof:lastmodified":1466703945,
     "wof:name":"Terrible Herbst Inc",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-115.172257,36.053441,-115.172257,36.053441],
+  "bbox": [
+    -115.172257,
+    36.053441,
+    -115.172257,
+    36.053441
+],
   "geometry": {"coordinates":[-115.172257,36.053441],"type":"Point"}
 }

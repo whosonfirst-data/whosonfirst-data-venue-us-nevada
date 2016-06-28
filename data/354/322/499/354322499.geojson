@@ -2,13 +2,14 @@
   "id": 354322499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190902,36.059699,-115.190902,36.059699",
     "geom:latitude":36.059699,
     "geom:longitude":-115.190902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7061 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354322499,
-    "wof:lastmodified":1449065910,
+    "wof:lastmodified":1466706005,
     "wof:name":"Crescent Peak Quarries",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-115.190902,36.059699,-115.190902,36.059699],
-  "geometry": {"coordinates":[-115.190902,36.059699],"type":"Point"}
+  "bbox": [
+    -115.190902,
+    36.059699,
+    -115.190902,
+    36.059699
+],
+  "geometry": {"coordinates":[-115.19090199999999,36.059699],"type":"Point"}
 }

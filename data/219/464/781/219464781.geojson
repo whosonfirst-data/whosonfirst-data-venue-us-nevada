@@ -2,13 +2,14 @@
   "id": 219464781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242834,36.14161,-115.242834,36.14161",
     "geom:latitude":36.14161,
     "geom:longitude":-115.242834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219464781,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466704026,
     "wof:name":"Pacific American Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-115.242834,36.14161,-115.242834,36.14161],
+  "bbox": [
+    -115.242834,
+    36.14161,
+    -115.242834,
+    36.14161
+],
   "geometry": {"coordinates":[-115.242834,36.14161],"type":"Point"}
 }

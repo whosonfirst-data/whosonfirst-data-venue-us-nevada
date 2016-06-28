@@ -2,13 +2,14 @@
   "id": 337298035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750595,39.510327,-119.750595,39.510327",
     "geom:latitude":39.510327,
     "geom:longitude":-119.750595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Corporate Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337298035,
-    "wof:lastmodified":1449027157,
+    "wof:lastmodified":1466701682,
     "wof:name":"Northern Nv Oprtng Engrs",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.750595,39.510327,-119.750595,39.510327],
+  "bbox": [
+    -119.750595,
+    39.510327,
+    -119.750595,
+    39.510327
+],
   "geometry": {"coordinates":[-119.750595,39.510327],"type":"Point"}
 }

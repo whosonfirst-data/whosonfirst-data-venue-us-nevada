@@ -2,13 +2,14 @@
   "id": 370331341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.824531,39.472902,-119.824531,39.472902",
     "geom:latitude":39.472902,
     "geom:longitude":-119.824531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 W Lake Ridge Shrs",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370331341,
-    "wof:lastmodified":1449031145,
+    "wof:lastmodified":1466704987,
     "wof:name":"Nevada's Injury Law Firm - Free Consultation",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "injury"
     ]
 },
-  "bbox": [-119.824531,39.472902,-119.824531,39.472902],
-  "geometry": {"coordinates":[-119.824531,39.472902],"type":"Point"}
+  "bbox": [
+    -119.824531,
+    39.472902,
+    -119.824531,
+    39.472902
+],
+  "geometry": {"coordinates":[-119.82453099999999,39.472902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219545495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2879,36.114831,-115.2879,36.114831",
     "geom:latitude":36.114831,
     "geom:longitude":-115.2879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8865 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219545495,
-    "wof:lastmodified":1449071245,
+    "wof:lastmodified":1466702148,
     "wof:name":"Computer Masters",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disaster"
     ]
 },
-  "bbox": [-115.2879,36.114831,-115.2879,36.114831],
-  "geometry": {"coordinates":[-115.2879,36.114831],"type":"Point"}
+  "bbox": [
+    -115.2879,
+    36.114831,
+    -115.2879,
+    36.114831
+],
+  "geometry": {"coordinates":[-115.28789999999999,36.114831],"type":"Point"}
 }

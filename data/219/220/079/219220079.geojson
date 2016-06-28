@@ -2,13 +2,14 @@
   "id": 219220079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.826142,39.607598,-119.826142,39.607598",
     "geom:latitude":39.607598,
     "geom:longitude":-119.826142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 E Golden Valley Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219220079,
-    "wof:lastmodified":1449073791,
+    "wof:lastmodified":1466702237,
     "wof:name":"North Valley High School",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.826142,39.607598,-119.826142,39.607598],
+  "bbox": [
+    -119.826142,
+    39.607598,
+    -119.826142,
+    39.607598
+],
   "geometry": {"coordinates":[-119.826142,39.607598],"type":"Point"}
 }

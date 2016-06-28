@@ -2,13 +2,14 @@
   "id": 203318301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21903,35.995628,-115.21903,35.995628",
     "geom:latitude":35.995628,
     "geom:longitude":-115.21903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10605 San Bellacova Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203318301,
-    "wof:lastmodified":1449025335,
+    "wof:lastmodified":1466702960,
     "wof:name":"Weseri Corporation",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "monitor"
     ]
 },
-  "bbox": [-115.21903,35.995628,-115.21903,35.995628],
+  "bbox": [
+    -115.21903,
+    35.995628,
+    -115.21903,
+    35.995628
+],
   "geometry": {"coordinates":[-115.21903,35.995628],"type":"Point"}
 }

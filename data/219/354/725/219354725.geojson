@@ -2,13 +2,14 @@
   "id": 219354725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185129,36.165446,-115.185129,36.165446",
     "geom:latitude":36.165446,
     "geom:longitude":-115.185129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Kenny Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219354725,
-    "wof:lastmodified":1449073524,
+    "wof:lastmodified":1466703429,
     "wof:name":"Reality Bytes Resources",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-115.185129,36.165446,-115.185129,36.165446],
+  "bbox": [
+    -115.185129,
+    36.165446,
+    -115.185129,
+    36.165446
+],
   "geometry": {"coordinates":[-115.185129,36.165446],"type":"Point"}
 }

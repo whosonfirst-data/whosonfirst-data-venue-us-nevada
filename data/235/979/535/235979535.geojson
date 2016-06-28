@@ -2,13 +2,14 @@
   "id": 235979535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116811,36.245876,-115.116811,36.245876",
     "geom:latitude":36.245876,
     "geom:longitude":-115.116811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4580 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235979535,
-    "wof:lastmodified":1449008488,
+    "wof:lastmodified":1466703657,
     "wof:name":"Pan-Oston Co",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "out"
     ]
 },
-  "bbox": [-115.116811,36.245876,-115.116811,36.245876],
+  "bbox": [
+    -115.116811,
+    36.245876,
+    -115.116811,
+    36.245876
+],
   "geometry": {"coordinates":[-115.116811,36.245876],"type":"Point"}
 }

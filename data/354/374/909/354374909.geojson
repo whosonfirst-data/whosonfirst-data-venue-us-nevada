@@ -2,13 +2,14 @@
   "id": 354374909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111915,36.084543,-115.111915,36.084543",
     "geom:latitude":36.084543,
     "geom:longitude":-115.111915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 East Quail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354374909,
-    "wof:lastmodified":1449066659,
+    "wof:lastmodified":1466706143,
     "wof:name":"The 2810 Private Resort",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacation"
     ]
 },
-  "bbox": [-115.111915,36.084543,-115.111915,36.084543],
+  "bbox": [
+    -115.111915,
+    36.084543,
+    -115.111915,
+    36.084543
+],
   "geometry": {"coordinates":[-115.111915,36.084543],"type":"Point"}
 }

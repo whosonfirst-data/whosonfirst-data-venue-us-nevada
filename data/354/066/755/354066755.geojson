@@ -2,13 +2,14 @@
   "id": 354066755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115868,36.172172,-115.115868,36.172172",
     "geom:latitude":36.172172,
     "geom:longitude":-115.115868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"562 N Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354066755,
-    "wof:lastmodified":1449066396,
+    "wof:lastmodified":1466703223,
     "wof:name":"Famsa",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.115868,36.172172,-115.115868,36.172172],
-  "geometry": {"coordinates":[-115.115868,36.172172],"type":"Point"}
+  "bbox": [
+    -115.115868,
+    36.172172,
+    -115.115868,
+    36.172172
+],
+  "geometry": {"coordinates":[-115.11586800000001,36.172172],"type":"Point"}
 }

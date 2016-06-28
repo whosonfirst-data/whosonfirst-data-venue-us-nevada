@@ -2,13 +2,14 @@
   "id": 219257093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773343,39.515276,-119.773343,39.515276",
     "geom:latitude":39.515276,
     "geom:longitude":-119.773343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Telegraph St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219257093,
-    "wof:lastmodified":1449071442,
+    "wof:lastmodified":1466702610,
     "wof:name":"Falcon Roofing",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.773343,39.515276,-119.773343,39.515276],
+  "bbox": [
+    -119.773343,
+    39.515276,
+    -119.773343,
+    39.515276
+],
   "geometry": {"coordinates":[-119.773343,39.515276],"type":"Point"}
 }

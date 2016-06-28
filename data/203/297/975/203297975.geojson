@@ -2,13 +2,14 @@
   "id": 203297975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.994713,36.221617,-115.994713,36.221617",
     "geom:latitude":36.221617,
     "geom:longitude":-115.994713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203297975,
-    "wof:lastmodified":1449026180,
+    "wof:lastmodified":1466702827,
     "wof:name":"Crisis Pregnancy Ctr Pahrump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "abortion"
     ]
 },
-  "bbox": [-115.994713,36.221617,-115.994713,36.221617],
+  "bbox": [
+    -115.994713,
+    36.221617,
+    -115.994713,
+    36.221617
+],
   "geometry": {"coordinates":[-115.994713,36.221617],"type":"Point"}
 }

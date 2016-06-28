@@ -2,13 +2,14 @@
   "id": 236319523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792745,39.472058,-119.792745,39.472058",
     "geom:latitude":39.472058,
     "geom:longitude":-119.792745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Hammill Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236319523,
-    "wof:lastmodified":1449002913,
+    "wof:lastmodified":1466704837,
     "wof:name":"Robert L De Lett",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.792745,39.472058,-119.792745,39.472058],
+  "bbox": [
+    -119.792745,
+    39.472058,
+    -119.792745,
+    39.472058
+],
   "geometry": {"coordinates":[-119.792745,39.472058],"type":"Point"}
 }

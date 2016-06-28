@@ -2,13 +2,14 @@
   "id": 354370315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10431,36.086587,-115.10431,36.086587",
     "geom:latitude":36.086587,
     "geom:longitude":-115.10431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3288 E Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354370315,
-    "wof:lastmodified":1449066873,
+    "wof:lastmodified":1466706000,
     "wof:name":"Freedom Mortgage",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.10431,36.086587,-115.10431,36.086587],
+  "bbox": [
+    -115.10431,
+    36.086587,
+    -115.10431,
+    36.086587
+],
   "geometry": {"coordinates":[-115.10431,36.086587],"type":"Point"}
 }

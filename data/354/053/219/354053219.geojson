@@ -2,13 +2,14 @@
   "id": 354053219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088997,36.044399,-115.088997,36.044399",
     "geom:latitude":36.044399,
     "geom:longitude":-115.088997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Tilden Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354053219,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1466702856,
     "wof:name":"Eugene Garlick Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.088997,36.044399,-115.088997,36.044399],
-  "geometry": {"coordinates":[-115.088997,36.044399],"type":"Point"}
+  "bbox": [
+    -115.088997,
+    36.044399,
+    -115.088997,
+    36.044399
+],
+  "geometry": {"coordinates":[-115.08899700000001,36.044399],"type":"Point"}
 }

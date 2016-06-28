@@ -2,13 +2,14 @@
   "id": 236925493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084969,36.030457,-115.084969,36.030457",
     "geom:latitude":36.030457,
     "geom:longitude":-115.084969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Tahiti Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236925493,
-    "wof:lastmodified":1449001696,
+    "wof:lastmodified":1466706848,
     "wof:name":"Stuff You Buy",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.084969,36.030457,-115.084969,36.030457],
+  "bbox": [
+    -115.084969,
+    36.030457,
+    -115.084969,
+    36.030457
+],
   "geometry": {"coordinates":[-115.084969,36.030457],"type":"Point"}
 }

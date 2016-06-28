@@ -2,13 +2,14 @@
   "id": 220176447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283637,36.048322,-115.283637,36.048322",
     "geom:latitude":36.048322,
     "geom:longitude":-115.283637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Chateau Whistler Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220176447,
-    "wof:lastmodified":1449074583,
+    "wof:lastmodified":1466702932,
     "wof:name":"Needham Realty",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.283637,36.048322,-115.283637,36.048322],
+  "bbox": [
+    -115.283637,
+    36.048322,
+    -115.283637,
+    36.048322
+],
   "geometry": {"coordinates":[-115.283637,36.048322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370253441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209999,36.128899,-115.209999,36.128899",
     "geom:latitude":36.128899,
     "geom:longitude":-115.209999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 Hauck St Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370253441,
-    "wof:lastmodified":1449032056,
+    "wof:lastmodified":1466703732,
     "wof:name":"Hidden Cove Apartments",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.209999,36.128899,-115.209999,36.128899],
+  "bbox": [
+    -115.209999,
+    36.128899,
+    -115.209999,
+    36.128899
+],
   "geometry": {"coordinates":[-115.209999,36.128899],"type":"Point"}
 }

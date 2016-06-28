@@ -2,13 +2,14 @@
   "id": 236313141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043755,36.020426,-115.043755,36.020426",
     "geom:latitude":36.020426,
     "geom:longitude":-115.043755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Lynbrook St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236313141,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466704638,
     "wof:name":"Aarons Lock & Key",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-115.043755,36.020426,-115.043755,36.020426],
+  "bbox": [
+    -115.043755,
+    36.020426,
+    -115.043755,
+    36.020426
+],
   "geometry": {"coordinates":[-115.043755,36.020426],"type":"Point"}
 }

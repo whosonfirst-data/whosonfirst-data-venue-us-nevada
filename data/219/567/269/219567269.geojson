@@ -2,13 +2,14 @@
   "id": 219567269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119587,36.158776,-115.119587,36.158776",
     "geom:latitude":36.158776,
     "geom:longitude":-115.119587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2032 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219567269,
-    "wof:lastmodified":1449073945,
+    "wof:lastmodified":1466702524,
     "wof:name":"Fancy That",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-115.119587,36.158776,-115.119587,36.158776],
+  "bbox": [
+    -115.119587,
+    36.158776,
+    -115.119587,
+    36.158776
+],
   "geometry": {"coordinates":[-115.119587,36.158776],"type":"Point"}
 }

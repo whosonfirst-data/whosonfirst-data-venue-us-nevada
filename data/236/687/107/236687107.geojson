@@ -2,13 +2,14 @@
   "id": 236687107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.477687,40.180153,-118.477687,40.180153",
     "geom:latitude":40.180153,
     "geom:longitude":-118.477687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Western Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236687107,
-    "wof:lastmodified":1449002388,
+    "wof:lastmodified":1466706446,
     "wof:name":"Mc Guire's Construction",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-118.477687,40.180153,-118.477687,40.180153],
+  "bbox": [
+    -118.477687,
+    40.180153,
+    -118.477687,
+    40.180153
+],
   "geometry": {"coordinates":[-118.477687,40.180153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219517845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72809,38.906406,-119.72809,38.906406",
     "geom:latitude":38.906406,
     "geom:longitude":-119.72809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Monument Peak Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219517845,
-    "wof:lastmodified":1449072393,
+    "wof:lastmodified":1466701620,
     "wof:name":"Steve Mathews Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-119.72809,38.906406,-119.72809,38.906406],
-  "geometry": {"coordinates":[-119.72809,38.906406],"type":"Point"}
+  "bbox": [
+    -119.72809,
+    38.906406,
+    -119.72809,
+    38.906406
+],
+  "geometry": {"coordinates":[-119.72808999999999,38.906406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236888039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774578,39.473073,-119.774578,39.473073",
     "geom:latitude":39.473073,
     "geom:longitude":-119.774578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Meadow Wood Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236888039,
-    "wof:lastmodified":1449003757,
+    "wof:lastmodified":1466706886,
     "wof:name":"Byers & Sellers Realty",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774578,39.473073,-119.774578,39.473073],
-  "geometry": {"coordinates":[-119.774578,39.473073],"type":"Point"}
+  "bbox": [
+    -119.774578,
+    39.473073,
+    -119.774578,
+    39.473073
+],
+  "geometry": {"coordinates":[-119.77457800000001,39.473073],"type":"Point"}
 }

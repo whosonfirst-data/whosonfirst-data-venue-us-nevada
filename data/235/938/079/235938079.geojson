@@ -2,13 +2,14 @@
   "id": 235938079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754582,39.180127,-119.754582,39.180127",
     "geom:latitude":39.180127,
     "geom:longitude":-119.754582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1357 Lindsay Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235938079,
-    "wof:lastmodified":1449008510,
+    "wof:lastmodified":1466703460,
     "wof:name":"Gepharts Resource Development",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-119.754582,39.180127,-119.754582,39.180127],
+  "bbox": [
+    -119.754582,
+    39.180127,
+    -119.754582,
+    39.180127
+],
   "geometry": {"coordinates":[-119.754582,39.180127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235974993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137068,36.154334,-115.137068,36.154334",
     "geom:latitude":36.154334,
     "geom:longitude":-115.137068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235974993,
-    "wof:lastmodified":1449008557,
+    "wof:lastmodified":1466703651,
     "wof:name":"World Wide Web Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.137068,36.154334,-115.137068,36.154334],
+  "bbox": [
+    -115.137068,
+    36.154334,
+    -115.137068,
+    36.154334
+],
   "geometry": {"coordinates":[-115.137068,36.154334],"type":"Point"}
 }

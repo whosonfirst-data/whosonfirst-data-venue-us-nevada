@@ -2,13 +2,14 @@
   "id": 219802403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.970976,36.027372,-114.970976,36.027372",
     "geom:latitude":36.027372,
     "geom:longitude":-114.970976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Federal St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219802403,
-    "wof:lastmodified":1449073266,
+    "wof:lastmodified":1466705099,
     "wof:name":"Silverwind International Inc",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.970976,36.027372,-114.970976,36.027372],
-  "geometry": {"coordinates":[-114.970976,36.027372],"type":"Point"}
+  "bbox": [
+    -114.970976,
+    36.027372,
+    -114.970976,
+    36.027372
+],
+  "geometry": {"coordinates":[-114.97097599999999,36.027372],"type":"Point"}
 }

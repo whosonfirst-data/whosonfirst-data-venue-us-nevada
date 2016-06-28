@@ -2,13 +2,14 @@
   "id": 236057029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143948,36.15494,-115.143948,36.15494",
     "geom:latitude":36.15494,
     "geom:longitude":-115.143948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 S 8th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236057029,
-    "wof:lastmodified":1449003249,
+    "wof:lastmodified":1466703980,
     "wof:name":"Cypress Manor",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.143948,36.15494,-115.143948,36.15494],
-  "geometry": {"coordinates":[-115.143948,36.15494],"type":"Point"}
+  "bbox": [
+    -115.143948,
+    36.15494,
+    -115.143948,
+    36.15494
+],
+  "geometry": {"coordinates":[-115.14394799999999,36.15494],"type":"Point"}
 }

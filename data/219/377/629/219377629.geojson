@@ -2,13 +2,14 @@
   "id": 219377629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761177,39.128391,-119.761177,39.128391",
     "geom:latitude":39.128391,
     "geom:longitude":-119.761177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 E Clearview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219377629,
-    "wof:lastmodified":1449071713,
+    "wof:lastmodified":1466703521,
     "wof:name":"Silver Peak Stables",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-119.761177,39.128391,-119.761177,39.128391],
+  "bbox": [
+    -119.761177,
+    39.128391,
+    -119.761177,
+    39.128391
+],
   "geometry": {"coordinates":[-119.761177,39.128391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236323495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815533,39.526435,-119.815533,39.526435",
     "geom:latitude":39.526435,
     "geom:longitude":-119.815533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236323495,
-    "wof:lastmodified":1449001887,
+    "wof:lastmodified":1466704987,
     "wof:name":"D C Trader",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.815533,39.526435,-119.815533,39.526435],
+  "bbox": [
+    -119.815533,
+    39.526435,
+    -119.815533,
+    39.526435
+],
   "geometry": {"coordinates":[-119.815533,39.526435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219686221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.231475,36.27327,-115.231475,36.27327",
     "geom:latitude":36.27327,
     "geom:longitude":-115.231475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Markleham Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219686221,
-    "wof:lastmodified":1449073072,
+    "wof:lastmodified":1466704347,
     "wof:name":"Ciao Bella Publishing",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-115.231475,36.27327,-115.231475,36.27327],
+  "bbox": [
+    -115.231475,
+    36.27327,
+    -115.231475,
+    36.27327
+],
   "geometry": {"coordinates":[-115.231475,36.27327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219779675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145779,36.143997,-115.145779,36.143997",
     "geom:latitude":36.143997,
     "geom:longitude":-115.145779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219779675,
-    "wof:lastmodified":1449070933,
+    "wof:lastmodified":1466704969,
     "wof:name":"Advanced Treatment Cleaning",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.145779,36.143997,-115.145779,36.143997],
+  "bbox": [
+    -115.145779,
+    36.143997,
+    -115.145779,
+    36.143997
+],
   "geometry": {"coordinates":[-115.145779,36.143997],"type":"Point"}
 }

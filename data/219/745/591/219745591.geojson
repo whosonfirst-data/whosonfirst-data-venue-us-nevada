@@ -2,13 +2,14 @@
   "id": 219745591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741429,39.197619,-119.741429,39.197619",
     "geom:latitude":39.197619,
     "geom:longitude":-119.741429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Lockheed Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219745591,
-    "wof:lastmodified":1449073755,
+    "wof:lastmodified":1466704742,
     "wof:name":"Mustang Mfg",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lighting"
     ]
 },
-  "bbox": [-119.741429,39.197619,-119.741429,39.197619],
+  "bbox": [
+    -119.741429,
+    39.197619,
+    -119.741429,
+    39.197619
+],
   "geometry": {"coordinates":[-119.741429,39.197619],"type":"Point"}
 }

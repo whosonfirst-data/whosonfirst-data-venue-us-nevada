@@ -2,13 +2,14 @@
   "id": 235992373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102155,36.030139,-115.102155,36.030139",
     "geom:latitude":36.030139,
     "geom:longitude":-115.102155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Stone Cress Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235992373,
-    "wof:lastmodified":1449008412,
+    "wof:lastmodified":1466703718,
     "wof:name":"T & T Enterprise",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.102155,36.030139,-115.102155,36.030139],
+  "bbox": [
+    -115.102155,
+    36.030139,
+    -115.102155,
+    36.030139
+],
   "geometry": {"coordinates":[-115.102155,36.030139],"type":"Point"}
 }

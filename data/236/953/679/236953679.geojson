@@ -2,13 +2,14 @@
   "id": 236953679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722087,39.388403,-119.722087,39.388403",
     "geom:latitude":39.388403,
     "geom:longitude":-119.722087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 Ravenswood Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236953679,
-    "wof:lastmodified":1449004018,
+    "wof:lastmodified":1466706937,
     "wof:name":"Walt's Tree Svc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-119.722087,39.388403,-119.722087,39.388403],
+  "bbox": [
+    -119.722087,
+    39.388403,
+    -119.722087,
+    39.388403
+],
   "geometry": {"coordinates":[-119.722087,39.388403],"type":"Point"}
 }

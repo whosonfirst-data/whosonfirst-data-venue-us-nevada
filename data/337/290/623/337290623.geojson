@@ -2,13 +2,14 @@
   "id": 337290623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119009,36.158924,-115.119009,36.158924",
     "geom:latitude":36.158924,
     "geom:longitude":-115.119009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337290623,
-    "wof:lastmodified":1449027288,
+    "wof:lastmodified":1466701497,
     "wof:name":"Hobby House Las Vegas",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telescope"
     ]
 },
-  "bbox": [-115.119009,36.158924,-115.119009,36.158924],
-  "geometry": {"coordinates":[-115.119009,36.158924],"type":"Point"}
+  "bbox": [
+    -115.119009,
+    36.158924,
+    -115.119009,
+    36.158924
+],
+  "geometry": {"coordinates":[-115.11900900000001,36.158924],"type":"Point"}
 }

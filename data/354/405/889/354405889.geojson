@@ -2,13 +2,14 @@
   "id": 354405889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172199,36.053452,-115.172199,36.053452",
     "geom:latitude":36.053452,
     "geom:longitude":-115.172199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7490 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354405889,
-    "wof:lastmodified":1449067518,
+    "wof:lastmodified":1466706167,
     "wof:name":"IHOP",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-115.172199,36.053452,-115.172199,36.053452],
-  "geometry": {"coordinates":[-115.172199,36.053452],"type":"Point"}
+  "bbox": [
+    -115.172199,
+    36.053452,
+    -115.172199,
+    36.053452
+],
+  "geometry": {"coordinates":[-115.17219900000001,36.053452],"type":"Point"}
 }

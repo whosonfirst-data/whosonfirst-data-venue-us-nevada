@@ -2,13 +2,14 @@
   "id": 219801891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821608,39.531323,-119.821608,39.531323",
     "geom:latitude":39.531323,
     "geom:longitude":-119.821608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Ralston St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219801891,
-    "wof:lastmodified":1449073303,
+    "wof:lastmodified":1466705111,
     "wof:name":"Derek Anders DPM",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.821608,39.531323,-119.821608,39.531323],
+  "bbox": [
+    -119.821608,
+    39.531323,
+    -119.821608,
+    39.531323
+],
   "geometry": {"coordinates":[-119.821608,39.531323],"type":"Point"}
 }

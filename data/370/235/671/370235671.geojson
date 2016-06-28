@@ -2,13 +2,14 @@
   "id": 370235671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241454,36.126697,-115.241454,36.126697",
     "geom:latitude":36.126697,
     "geom:longitude":-115.241454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6850 W Spring Mountain Rd Ste 12",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370235671,
-    "wof:lastmodified":1449029672,
+    "wof:lastmodified":1466703373,
     "wof:name":"Tiffany Coffee",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dessert"
     ]
 },
-  "bbox": [-115.241454,36.126697,-115.241454,36.126697],
+  "bbox": [
+    -115.241454,
+    36.126697,
+    -115.241454,
+    36.126697
+],
   "geometry": {"coordinates":[-115.241454,36.126697],"type":"Point"}
 }

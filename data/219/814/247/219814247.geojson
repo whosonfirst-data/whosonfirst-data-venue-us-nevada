@@ -2,13 +2,14 @@
   "id": 219814247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161531,36.273265,-115.161531,36.273265",
     "geom:latitude":36.273265,
     "geom:longitude":-115.161531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6221 Blue Sky Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219814247,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466705151,
     "wof:name":"Wickel Excavation Inc",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.161531,36.273265,-115.161531,36.273265],
+  "bbox": [
+    -115.161531,
+    36.273265,
+    -115.161531,
+    36.273265
+],
   "geometry": {"coordinates":[-115.161531,36.273265],"type":"Point"}
 }

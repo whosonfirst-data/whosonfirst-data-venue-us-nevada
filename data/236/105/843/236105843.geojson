@@ -2,13 +2,14 @@
   "id": 236105843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78725,39.104787,-119.78725,39.104787",
     "geom:latitude":39.104787,
     "geom:longitude":-119.78725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3677 Green Acre Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236105843,
-    "wof:lastmodified":1449002801,
+    "wof:lastmodified":1466701652,
     "wof:name":"Tom Ediss Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.78725,39.104787,-119.78725,39.104787],
+  "bbox": [
+    -119.78725,
+    39.104787,
+    -119.78725,
+    39.104787
+],
   "geometry": {"coordinates":[-119.78725,39.104787],"type":"Point"}
 }

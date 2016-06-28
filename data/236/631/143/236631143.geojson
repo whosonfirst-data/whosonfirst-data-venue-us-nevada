@@ -2,13 +2,14 @@
   "id": 236631143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.873286,39.547047,-119.873286,39.547047",
     "geom:latitude":39.547047,
     "geom:longitude":-119.873286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2995 Shady Creek Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236631143,
-    "wof:lastmodified":1449002507,
+    "wof:lastmodified":1466706480,
     "wof:name":"Just Imagine Mktg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-119.873286,39.547047,-119.873286,39.547047],
-  "geometry": {"coordinates":[-119.873286,39.547047],"type":"Point"}
+  "bbox": [
+    -119.873286,
+    39.547047,
+    -119.873286,
+    39.547047
+],
+  "geometry": {"coordinates":[-119.87328599999999,39.547047],"type":"Point"}
 }

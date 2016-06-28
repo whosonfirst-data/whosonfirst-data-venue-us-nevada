@@ -2,13 +2,14 @@
   "id": 236693339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.780183,39.402249,-114.780183,39.402249",
     "geom:latitude":39.402249,
     "geom:longitude":-114.780183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 S 4th St",
     "sg:city":"Mc Gill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236693339,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466706455,
     "wof:name":"Mc Gill Antiques-Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-114.780183,39.402249,-114.780183,39.402249],
-  "geometry": {"coordinates":[-114.780183,39.402249],"type":"Point"}
+  "bbox": [
+    -114.780183,
+    39.402249,
+    -114.780183,
+    39.402249
+],
+  "geometry": {"coordinates":[-114.78018299999999,39.402249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220087009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.890406,39.248348,-114.890406,39.248348",
     "geom:latitude":39.248348,
     "geom:longitude":-114.890406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220087009,
-    "wof:lastmodified":1449074392,
+    "wof:lastmodified":1466704209,
     "wof:name":"Club Rio",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.890406,39.248348,-114.890406,39.248348],
+  "bbox": [
+    -114.890406,
+    39.248348,
+    -114.890406,
+    39.248348
+],
   "geometry": {"coordinates":[-114.890406,39.248348],"type":"Point"}
 }

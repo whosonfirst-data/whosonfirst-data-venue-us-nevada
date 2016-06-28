@@ -2,13 +2,14 @@
   "id": 236060525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236231,36.248077,-115.236231,36.248077",
     "geom:latitude":36.248077,
     "geom:longitude":-115.236231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Hillside Brook Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236060525,
-    "wof:lastmodified":1449004889,
+    "wof:lastmodified":1466703993,
     "wof:name":"C&T Comtech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-115.236231,36.248077,-115.236231,36.248077],
+  "bbox": [
+    -115.236231,
+    36.248077,
+    -115.236231,
+    36.248077
+],
   "geometry": {"coordinates":[-115.236231,36.248077],"type":"Point"}
 }

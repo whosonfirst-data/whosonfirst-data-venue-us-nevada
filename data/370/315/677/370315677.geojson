@@ -2,13 +2,14 @@
   "id": 370315677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79487,39.49195,-119.79487,39.49195",
     "geom:latitude":39.49195,
     "geom:longitude":-119.79487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 E Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":370315677,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1466704556,
     "wof:name":"Hearne Isaac",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.79487,39.49195,-119.79487,39.49195],
+  "bbox": [
+    -119.79487,
+    39.49195,
+    -119.79487,
+    39.49195
+],
   "geometry": {"coordinates":[-119.79487,39.49195],"type":"Point"}
 }

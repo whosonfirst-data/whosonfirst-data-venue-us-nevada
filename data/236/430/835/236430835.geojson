@@ -2,13 +2,14 @@
   "id": 236430835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261906,36.143778,-115.261906,36.143778",
     "geom:latitude":36.143778,
     "geom:longitude":-115.261906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7860 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236430835,
-    "wof:lastmodified":1449003812,
+    "wof:lastmodified":1466705401,
     "wof:name":"Intergraphic IG Cad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-115.261906,36.143778,-115.261906,36.143778],
+  "bbox": [
+    -115.261906,
+    36.143778,
+    -115.261906,
+    36.143778
+],
   "geometry": {"coordinates":[-115.261906,36.143778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219524297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.038933,36.068344,-115.038933,36.068344",
     "geom:latitude":36.068344,
     "geom:longitude":-115.038933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Mall Ring Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219524297,
-    "wof:lastmodified":1449070346,
+    "wof:lastmodified":1466701748,
     "wof:name":"Patchworks Inc",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-115.038933,36.068344,-115.038933,36.068344],
+  "bbox": [
+    -115.038933,
+    36.068344,
+    -115.038933,
+    36.068344
+],
   "geometry": {"coordinates":[-115.038933,36.068344],"type":"Point"}
 }

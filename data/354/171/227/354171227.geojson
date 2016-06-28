@@ -2,13 +2,14 @@
   "id": 354171227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087798,36.159062,-115.087798,36.159062",
     "geom:latitude":36.159062,
     "geom:longitude":-115.087798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 E Charleston Blvd Ste A100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354171227,
-    "wof:lastmodified":1449067671,
+    "wof:lastmodified":1466704831,
     "wof:name":"Tottori Allergy and Asthma Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.087798,36.159062,-115.087798,36.159062],
-  "geometry": {"coordinates":[-115.087798,36.159062],"type":"Point"}
+  "bbox": [
+    -115.087798,
+    36.159062,
+    -115.087798,
+    36.159062
+],
+  "geometry": {"coordinates":[-115.08779800000001,36.159062],"type":"Point"}
 }

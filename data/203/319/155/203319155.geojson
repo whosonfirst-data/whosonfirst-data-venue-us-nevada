@@ -2,13 +2,14 @@
   "id": 203319155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081179,36.086559,-115.081179,36.086559",
     "geom:latitude":36.086559,
     "geom:longitude":-115.081179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4282 Kinobe Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203319155,
-    "wof:lastmodified":1449025691,
+    "wof:lastmodified":1466702965,
     "wof:name":"Enviro Cleaning & Restoration",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.081179,36.086559,-115.081179,36.086559],
-  "geometry": {"coordinates":[-115.081179,36.086559],"type":"Point"}
+  "bbox": [
+    -115.081179,
+    36.086559,
+    -115.081179,
+    36.086559
+],
+  "geometry": {"coordinates":[-115.08117900000001,36.086559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236647981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.924328,39.521033,-119.924328,39.521033",
     "geom:latitude":39.521033,
     "geom:longitude":-119.924328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Cliff View Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236647981,
-    "wof:lastmodified":1449003168,
+    "wof:lastmodified":1466706399,
     "wof:name":"Elite Custom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.924328,39.521033,-119.924328,39.521033],
+  "bbox": [
+    -119.924328,
+    39.521033,
+    -119.924328,
+    39.521033
+],
   "geometry": {"coordinates":[-119.924328,39.521033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370326521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798936,39.47672,-119.798936,39.47672",
     "geom:latitude":39.47672,
     "geom:longitude":-119.798936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6542 S Mccarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370326521,
-    "wof:lastmodified":1449030528,
+    "wof:lastmodified":1466704804,
     "wof:name":"Saltern Companies",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-119.798936,39.47672,-119.798936,39.47672],
+  "bbox": [
+    -119.798936,
+    39.47672,
+    -119.798936,
+    39.47672
+],
   "geometry": {"coordinates":[-119.798936,39.47672],"type":"Point"}
 }

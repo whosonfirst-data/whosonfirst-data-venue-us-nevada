@@ -2,13 +2,14 @@
   "id": 203261435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1169,36.252747,-115.1169,36.252747",
     "geom:latitude":36.252747,
     "geom:longitude":-115.1169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5130 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203261435,
-    "wof:lastmodified":1449024976,
+    "wof:lastmodified":1466702583,
     "wof:name":"Pawprints Animal Hospital",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.1169,36.252747,-115.1169,36.252747],
+  "bbox": [
+    -115.1169,
+    36.252747,
+    -115.1169,
+    36.252747
+],
   "geometry": {"coordinates":[-115.1169,36.252747],"type":"Point"}
 }

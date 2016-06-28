@@ -2,13 +2,14 @@
   "id": 236936449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181404,36.077235,-115.181404,36.077235",
     "geom:latitude":36.077235,
     "geom:longitude":-115.181404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6235 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236936449,
-    "wof:lastmodified":1449002606,
+    "wof:lastmodified":1466706922,
     "wof:name":"Integrated Support Systems Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.181404,36.077235,-115.181404,36.077235],
+  "bbox": [
+    -115.181404,
+    36.077235,
+    -115.181404,
+    36.077235
+],
   "geometry": {"coordinates":[-115.181404,36.077235],"type":"Point"}
 }

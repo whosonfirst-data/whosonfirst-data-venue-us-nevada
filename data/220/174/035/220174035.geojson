@@ -2,13 +2,14 @@
   "id": 220174035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115127,36.166619,-115.115127,36.166619",
     "geom:latitude":36.166619,
     "geom:longitude":-115.115127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 E Stewart Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220174035,
-    "wof:lastmodified":1449074138,
+    "wof:lastmodified":1466702908,
     "wof:name":"El Pollo Real",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.115127,36.166619,-115.115127,36.166619],
+  "bbox": [
+    -115.115127,
+    36.166619,
+    -115.115127,
+    36.166619
+],
   "geometry": {"coordinates":[-115.115127,36.166619],"type":"Point"}
 }

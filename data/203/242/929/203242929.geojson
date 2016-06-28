@@ -2,13 +2,14 @@
   "id": 203242929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28847,36.142303,-115.28847,36.142303",
     "geom:latitude":36.142303,
     "geom:longitude":-115.28847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Baycliff Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203242929,
-    "wof:lastmodified":1449026641,
+    "wof:lastmodified":1466702461,
     "wof:name":"Bluedog Communications",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "datum"
     ]
 },
-  "bbox": [-115.28847,36.142303,-115.28847,36.142303],
+  "bbox": [
+    -115.28847,
+    36.142303,
+    -115.28847,
+    36.142303
+],
   "geometry": {"coordinates":[-115.28847,36.142303],"type":"Point"}
 }

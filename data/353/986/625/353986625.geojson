@@ -2,13 +2,14 @@
   "id": 353986625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.955492,36.074046,-114.955492,36.074046",
     "geom:latitude":36.074046,
     "geom:longitude":-114.955492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"891 De Marco Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353986625,
-    "wof:lastmodified":1449020335,
+    "wof:lastmodified":1466701491,
     "wof:name":"Carmines Little Italy",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-114.955492,36.074046,-114.955492,36.074046],
-  "geometry": {"coordinates":[-114.955492,36.074046],"type":"Point"}
+  "bbox": [
+    -114.955492,
+    36.074046,
+    -114.955492,
+    36.074046
+],
+  "geometry": {"coordinates":[-114.95549200000001,36.074046],"type":"Point"}
 }

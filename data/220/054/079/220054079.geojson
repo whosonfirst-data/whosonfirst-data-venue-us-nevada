@@ -2,13 +2,14 @@
   "id": 220054079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278071,36.187836,-115.278071,36.187836",
     "geom:latitude":36.187836,
     "geom:longitude":-115.278071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Faldo St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220054079,
-    "wof:lastmodified":1449074402,
+    "wof:lastmodified":1466702060,
     "wof:name":"Val D' Isere Home Owners",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.278071,36.187836,-115.278071,36.187836],
+  "bbox": [
+    -115.278071,
+    36.187836,
+    -115.278071,
+    36.187836
+],
   "geometry": {"coordinates":[-115.278071,36.187836],"type":"Point"}
 }

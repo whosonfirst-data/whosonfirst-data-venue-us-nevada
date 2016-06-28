@@ -2,13 +2,14 @@
   "id": 354043301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180583,36.196161,-115.180583,36.196161",
     "geom:latitude":36.196161,
     "geom:longitude":-115.180583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3083 W Lake Mead Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":354043301,
-    "wof:lastmodified":1449067228,
+    "wof:lastmodified":1466702603,
     "wof:name":"Triple 7 Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "shipping"
     ]
 },
-  "bbox": [-115.180583,36.196161,-115.180583,36.196161],
+  "bbox": [
+    -115.180583,
+    36.196161,
+    -115.180583,
+    36.196161
+],
   "geometry": {"coordinates":[-115.180583,36.196161],"type":"Point"}
 }

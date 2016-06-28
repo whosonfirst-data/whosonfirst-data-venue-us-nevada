@@ -2,13 +2,14 @@
   "id": 236551845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743018,38.903087,-119.743018,38.903087",
     "geom:latitude":38.903087,
     "geom:longitude":-119.743018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1283 Redwood Cir",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236551845,
-    "wof:lastmodified":1449002173,
+    "wof:lastmodified":1466706162,
     "wof:name":"Amflag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banner"
     ]
 },
-  "bbox": [-119.743018,38.903087,-119.743018,38.903087],
-  "geometry": {"coordinates":[-119.743018,38.903087],"type":"Point"}
+  "bbox": [
+    -119.743018,
+    38.903087,
+    -119.743018,
+    38.903087
+],
+  "geometry": {"coordinates":[-119.74301800000001,38.903087],"type":"Point"}
 }

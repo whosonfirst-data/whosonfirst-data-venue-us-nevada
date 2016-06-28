@@ -2,13 +2,14 @@
   "id": 354339947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123724,36.111456,-115.123724,36.111456",
     "geom:latitude":36.111456,
     "geom:longitude":-115.123724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 Burnham Avenue Suite 235",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354339947,
-    "wof:lastmodified":1449066673,
+    "wof:lastmodified":1466706097,
     "wof:name":"Snow Medical Center",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.123724,36.111456,-115.123724,36.111456],
+  "bbox": [
+    -115.123724,
+    36.111456,
+    -115.123724,
+    36.111456
+],
   "geometry": {"coordinates":[-115.123724,36.111456],"type":"Point"}
 }

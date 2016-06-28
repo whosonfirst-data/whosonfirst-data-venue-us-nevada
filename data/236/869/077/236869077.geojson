@@ -2,13 +2,14 @@
   "id": 236869077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118248,36.203127,-115.118248,36.203127",
     "geom:latitude":36.203127,
     "geom:longitude":-115.118248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 E Carey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236869077,
-    "wof:lastmodified":1449004930,
+    "wof:lastmodified":1466706654,
     "wof:name":"EOB Boys & Girls Club",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-115.118248,36.203127,-115.118248,36.203127],
-  "geometry": {"coordinates":[-115.118248,36.203127],"type":"Point"}
+  "bbox": [
+    -115.118248,
+    36.203127,
+    -115.118248,
+    36.203127
+],
+  "geometry": {"coordinates":[-115.11824799999999,36.203127],"type":"Point"}
 }

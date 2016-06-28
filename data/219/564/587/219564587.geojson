@@ -2,13 +2,14 @@
   "id": 219564587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11271,36.072296,-115.11271,36.072296",
     "geom:latitude":36.072296,
     "geom:longitude":-115.11271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 McLeod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219564587,
-    "wof:lastmodified":1449073702,
+    "wof:lastmodified":1466702479,
     "wof:name":"Extreme Food-Softea",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-115.11271,36.072296,-115.11271,36.072296],
-  "geometry": {"coordinates":[-115.11271,36.072296],"type":"Point"}
+  "bbox": [
+    -115.11271,
+    36.072296,
+    -115.11271,
+    36.072296
+],
+  "geometry": {"coordinates":[-115.11271000000001,36.072296],"type":"Point"}
 }

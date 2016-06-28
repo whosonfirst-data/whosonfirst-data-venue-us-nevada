@@ -2,13 +2,14 @@
   "id": 220069807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.302935,36.080576,-115.302935,36.080576",
     "geom:latitude":36.080576,
     "geom:longitude":-115.302935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5916 Lingering Breeze St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220069807,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466702203,
     "wof:name":"Creative Keyboarding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-115.302935,36.080576,-115.302935,36.080576],
-  "geometry": {"coordinates":[-115.302935,36.080576],"type":"Point"}
+  "bbox": [
+    -115.302935,
+    36.080576,
+    -115.302935,
+    36.080576
+],
+  "geometry": {"coordinates":[-115.30293500000001,36.080576],"type":"Point"}
 }

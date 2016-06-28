@@ -2,13 +2,14 @@
   "id": 203176097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.014147,36.207258,-116.014147,36.207258",
     "geom:latitude":36.207258,
     "geom:longitude":-116.014147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 S Blagg Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203176097,
-    "wof:lastmodified":1449026218,
+    "wof:lastmodified":1466701779,
     "wof:name":"Collett Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.014147,36.207258,-116.014147,36.207258],
-  "geometry": {"coordinates":[-116.014147,36.207258],"type":"Point"}
+  "bbox": [
+    -116.014147,
+    36.207258,
+    -116.014147,
+    36.207258
+],
+  "geometry": {"coordinates":[-116.01414699999999,36.207258],"type":"Point"}
 }

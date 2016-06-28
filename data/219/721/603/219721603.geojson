@@ -2,13 +2,14 @@
   "id": 219721603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.96205,36.050955,-114.96205,36.050955",
     "geom:latitude":36.050955,
     "geom:longitude":-114.96205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Winona Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219721603,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466704430,
     "wof:name":"Godon Development Inc",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.96205,36.050955,-114.96205,36.050955],
+  "bbox": [
+    -114.96205,
+    36.050955,
+    -114.96205,
+    36.050955
+],
   "geometry": {"coordinates":[-114.96205,36.050955],"type":"Point"}
 }

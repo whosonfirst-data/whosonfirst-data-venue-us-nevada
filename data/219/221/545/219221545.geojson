@@ -2,13 +2,14 @@
   "id": 219221545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765702,39.14753,-119.765702,39.14753",
     "geom:latitude":39.14753,
     "geom:longitude":-119.765702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 California St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219221545,
-    "wof:lastmodified":1449071943,
+    "wof:lastmodified":1466702246,
     "wof:name":"Mings Chinese Restaurant",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.765702,39.14753,-119.765702,39.14753],
+  "bbox": [
+    -119.765702,
+    39.14753,
+    -119.765702,
+    39.14753
+],
   "geometry": {"coordinates":[-119.765702,39.14753],"type":"Point"}
 }

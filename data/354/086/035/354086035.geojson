@@ -2,13 +2,14 @@
   "id": 354086035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115997,36.176601,-115.115997,36.176601",
     "geom:latitude":36.176601,
     "geom:longitude":-115.115997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 N Eastern Ave Ste 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354086035,
-    "wof:lastmodified":1449067117,
+    "wof:lastmodified":1466703758,
     "wof:name":"Complete Care Medical Center",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-115.115997,36.176601,-115.115997,36.176601],
-  "geometry": {"coordinates":[-115.115997,36.176601],"type":"Point"}
+  "bbox": [
+    -115.115997,
+    36.176601,
+    -115.115997,
+    36.176601
+],
+  "geometry": {"coordinates":[-115.11599699999999,36.176601],"type":"Point"}
 }

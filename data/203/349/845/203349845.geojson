@@ -2,13 +2,14 @@
   "id": 203349845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089911,36.078676,-115.089911,36.078676",
     "geom:latitude":36.078676,
     "geom:longitude":-115.089911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203349845,
-    "wof:lastmodified":1449025635,
+    "wof:lastmodified":1466703146,
     "wof:name":"Hitechmaestro LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.089911,36.078676,-115.089911,36.078676],
+  "bbox": [
+    -115.089911,
+    36.078676,
+    -115.089911,
+    36.078676
+],
   "geometry": {"coordinates":[-115.089911,36.078676],"type":"Point"}
 }

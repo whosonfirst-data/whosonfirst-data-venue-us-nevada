@@ -2,13 +2,14 @@
   "id": 370274491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306606,36.27209,-115.306606,36.27209",
     "geom:latitude":36.27209,
     "geom:longitude":-115.306606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 N Grand Canyon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370274491,
-    "wof:lastmodified":1449029502,
+    "wof:lastmodified":1466704309,
     "wof:name":"JM & Sons General Contractor LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.306606,36.27209,-115.306606,36.27209],
+  "bbox": [
+    -115.306606,
+    36.27209,
+    -115.306606,
+    36.27209
+],
   "geometry": {"coordinates":[-115.306606,36.27209],"type":"Point"}
 }

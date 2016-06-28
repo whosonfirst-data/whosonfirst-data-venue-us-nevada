@@ -2,13 +2,14 @@
   "id": 219535399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.711023,39.188142,-119.711023,39.188142",
     "geom:latitude":39.188142,
     "geom:longitude":-119.711023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3139 Sunrise Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219535399,
-    "wof:lastmodified":1449071033,
+    "wof:lastmodified":1466701958,
     "wof:name":"Woodys World of Wholesalers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "house"
     ]
 },
-  "bbox": [-119.711023,39.188142,-119.711023,39.188142],
+  "bbox": [
+    -119.711023,
+    39.188142,
+    -119.711023,
+    39.188142
+],
   "geometry": {"coordinates":[-119.711023,39.188142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252733875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111369,36.129708,-115.111369,36.129708",
     "geom:latitude":36.129708,
     "geom:longitude":-115.111369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2755 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":252733875,
-    "wof:lastmodified":1449005550,
+    "wof:lastmodified":1466702008,
     "wof:name":"Lyn Guadalupe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.111369,36.129708,-115.111369,36.129708],
+  "bbox": [
+    -115.111369,
+    36.129708,
+    -115.111369,
+    36.129708
+],
   "geometry": {"coordinates":[-115.111369,36.129708],"type":"Point"}
 }

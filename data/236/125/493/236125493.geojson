@@ -2,13 +2,14 @@
   "id": 236125493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.310083,36.159427,-115.310083,36.159427",
     "geom:latitude":36.159427,
     "geom:longitude":-115.310083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9825 Miss Peach Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236125493,
-    "wof:lastmodified":1449005108,
+    "wof:lastmodified":1466702042,
     "wof:name":"Aw Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-115.310083,36.159427,-115.310083,36.159427],
-  "geometry": {"coordinates":[-115.310083,36.159427],"type":"Point"}
+  "bbox": [
+    -115.310083,
+    36.159427,
+    -115.310083,
+    36.159427
+],
+  "geometry": {"coordinates":[-115.31008300000001,36.159427],"type":"Point"}
 }

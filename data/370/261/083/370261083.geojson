@@ -2,13 +2,14 @@
   "id": 370261083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288752,36.115097,-115.288752,36.115097",
     "geom:latitude":36.115097,
     "geom:longitude":-115.288752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9030 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370261083,
-    "wof:lastmodified":1449029123,
+    "wof:lastmodified":1466703961,
     "wof:name":"Alex Smoke Shop & Gifts",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.288752,36.115097,-115.288752,36.115097],
+  "bbox": [
+    -115.288752,
+    36.115097,
+    -115.288752,
+    36.115097
+],
   "geometry": {"coordinates":[-115.288752,36.115097],"type":"Point"}
 }

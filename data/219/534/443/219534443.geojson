@@ -2,13 +2,14 @@
   "id": 219534443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.841006,35.990323,-114.841006,35.990323",
     "geom:latitude":35.990323,
     "geom:longitude":-114.841006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Malaga Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219534443,
-    "wof:lastmodified":1449071314,
+    "wof:lastmodified":1466701937,
     "wof:name":"Digital Media Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-114.841006,35.990323,-114.841006,35.990323],
-  "geometry": {"coordinates":[-114.841006,35.990323],"type":"Point"}
+  "bbox": [
+    -114.841006,
+    35.990323,
+    -114.841006,
+    35.990323
+],
+  "geometry": {"coordinates":[-114.84100599999999,35.990323],"type":"Point"}
 }

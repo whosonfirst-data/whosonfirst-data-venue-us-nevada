@@ -2,13 +2,14 @@
   "id": 354015581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.981927,36.04319,-114.981927,36.04319",
     "geom:latitude":36.04319,
     "geom:longitude":-114.981927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Taylor Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354015581,
-    "wof:lastmodified":1449066315,
+    "wof:lastmodified":1466701895,
     "wof:name":"Highland Village Apts",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-114.981927,36.04319,-114.981927,36.04319],
+  "bbox": [
+    -114.981927,
+    36.04319,
+    -114.981927,
+    36.04319
+],
   "geometry": {"coordinates":[-114.981927,36.04319],"type":"Point"}
 }

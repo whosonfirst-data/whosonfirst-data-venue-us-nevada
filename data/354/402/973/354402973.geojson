@@ -2,13 +2,14 @@
   "id": 354402973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136202,36.035012,-115.136202,36.035012",
     "geom:latitude":36.035012,
     "geom:longitude":-115.136202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8520 Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354402973,
-    "wof:lastmodified":1449066453,
+    "wof:lastmodified":1466706307,
     "wof:name":"Saxby's Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136202,36.035012,-115.136202,36.035012],
+  "bbox": [
+    -115.136202,
+    36.035012,
+    -115.136202,
+    36.035012
+],
   "geometry": {"coordinates":[-115.136202,36.035012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337288065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172178,36.150733,-115.172178,36.150733",
     "geom:latitude":36.150733,
     "geom:longitude":-115.172178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Bryn Mawr Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337288065,
-    "wof:lastmodified":1449027026,
+    "wof:lastmodified":1466701457,
     "wof:name":"Gambil Consulting",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.172178,36.150733,-115.172178,36.150733],
+  "bbox": [
+    -115.172178,
+    36.150733,
+    -115.172178,
+    36.150733
+],
   "geometry": {"coordinates":[-115.172178,36.150733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203273047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.948331,39.249466,-119.948331,39.249466",
     "geom:latitude":39.249466,
     "geom:longitude":-119.948331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203273047,
-    "wof:lastmodified":1449025914,
+    "wof:lastmodified":1466702647,
     "wof:name":"Village Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-119.948331,39.249466,-119.948331,39.249466],
+  "bbox": [
+    -119.948331,
+    39.249466,
+    -119.948331,
+    39.249466
+],
   "geometry": {"coordinates":[-119.948331,39.249466],"type":"Point"}
 }

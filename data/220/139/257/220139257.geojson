@@ -2,13 +2,14 @@
   "id": 220139257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15018,36.144551,-115.15018,36.144551",
     "geom:latitude":36.144551,
     "geom:longitude":-115.15018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 San Pablo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220139257,
-    "wof:lastmodified":1449074104,
+    "wof:lastmodified":1466702691,
     "wof:name":"B & E Assoc",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-115.15018,36.144551,-115.15018,36.144551],
-  "geometry": {"coordinates":[-115.15018,36.144551],"type":"Point"}
+  "bbox": [
+    -115.15018,
+    36.144551,
+    -115.15018,
+    36.144551
+],
+  "geometry": {"coordinates":[-115.15018000000001,36.144551],"type":"Point"}
 }

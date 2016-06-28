@@ -2,13 +2,14 @@
   "id": 354053549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.044989,36.034518,-115.044989,36.034518",
     "geom:latitude":36.034518,
     "geom:longitude":-115.044989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1176 Wigwam Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354053549,
-    "wof:lastmodified":1449066250,
+    "wof:lastmodified":1466702867,
     "wof:name":"Construction Technology",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.044989,36.034518,-115.044989,36.034518],
+  "bbox": [
+    -115.044989,
+    36.034518,
+    -115.044989,
+    36.034518
+],
   "geometry": {"coordinates":[-115.044989,36.034518],"type":"Point"}
 }

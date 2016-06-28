@@ -2,13 +2,14 @@
   "id": 353987171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.930364,36.101973,-114.930364,36.101973",
     "geom:latitude":36.101973,
     "geom:longitude":-114.930364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Via Brianza Suite 100",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353987171,
-    "wof:lastmodified":1449019684,
+    "wof:lastmodified":1466701507,
     "wof:name":"Sonrisa Grill",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-114.930364,36.101973,-114.930364,36.101973],
+  "bbox": [
+    -114.930364,
+    36.101973,
+    -114.930364,
+    36.101973
+],
   "geometry": {"coordinates":[-114.930364,36.101973],"type":"Point"}
 }

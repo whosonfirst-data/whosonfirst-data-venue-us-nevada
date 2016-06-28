@@ -2,13 +2,14 @@
   "id": 235996159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066584,36.129692,-115.066584,36.129692",
     "geom:latitude":36.129692,
     "geom:longitude":-115.066584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4860 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235996159,
-    "wof:lastmodified":1449008347,
+    "wof:lastmodified":1466703730,
     "wof:name":"Irlas Child Care",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.066584,36.129692,-115.066584,36.129692],
-  "geometry": {"coordinates":[-115.066584,36.129692],"type":"Point"}
+  "bbox": [
+    -115.066584,
+    36.129692,
+    -115.066584,
+    36.129692
+],
+  "geometry": {"coordinates":[-115.06658400000001,36.129692],"type":"Point"}
 }

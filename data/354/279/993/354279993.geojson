@@ -2,13 +2,14 @@
   "id": 354279993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.247516,36.055685,-115.247516,36.055685",
     "geom:latitude":36.055685,
     "geom:longitude":-115.247516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7373 Montessouri Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":354279993,
-    "wof:lastmodified":1449066695,
+    "wof:lastmodified":1466705475,
     "wof:name":"Springstone Montessori School",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.247516,36.055685,-115.247516,36.055685],
+  "bbox": [
+    -115.247516,
+    36.055685,
+    -115.247516,
+    36.055685
+],
   "geometry": {"coordinates":[-115.247516,36.055685],"type":"Point"}
 }

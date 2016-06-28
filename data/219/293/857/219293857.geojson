@@ -2,13 +2,14 @@
   "id": 219293857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085809,36.02698,-115.085809,36.02698",
     "geom:latitude":36.02698,
     "geom:longitude":-115.085809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219293857,
-    "wof:lastmodified":1449071087,
+    "wof:lastmodified":1466703028,
     "wof:name":"Meridias Capital",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.085809,36.02698,-115.085809,36.02698],
+  "bbox": [
+    -115.085809,
+    36.02698,
+    -115.085809,
+    36.02698
+],
   "geometry": {"coordinates":[-115.085809,36.02698],"type":"Point"}
 }

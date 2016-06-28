@@ -2,13 +2,14 @@
   "id": 370238353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217003,36.144501,-115.217003,36.144501",
     "geom:latitude":36.144501,
     "geom:longitude":-115.217003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5450 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370238353,
-    "wof:lastmodified":1449030350,
+    "wof:lastmodified":1466703426,
     "wof:name":"Around Your Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-115.217003,36.144501,-115.217003,36.144501],
-  "geometry": {"coordinates":[-115.217003,36.144501],"type":"Point"}
+  "bbox": [
+    -115.217003,
+    36.144501,
+    -115.217003,
+    36.144501
+],
+  "geometry": {"coordinates":[-115.21700300000001,36.144501],"type":"Point"}
 }

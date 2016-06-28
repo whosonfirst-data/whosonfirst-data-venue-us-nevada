@@ -2,13 +2,14 @@
   "id": 203258719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125041,36.170053,-115.125041,36.170053",
     "geom:latitude":36.170053,
     "geom:longitude":-115.125041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 N Bruce St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203258719,
-    "wof:lastmodified":1449026434,
+    "wof:lastmodified":1466702566,
     "wof:name":"Clark County Homesteads",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-115.125041,36.170053,-115.125041,36.170053],
+  "bbox": [
+    -115.125041,
+    36.170053,
+    -115.125041,
+    36.170053
+],
   "geometry": {"coordinates":[-115.125041,36.170053],"type":"Point"}
 }

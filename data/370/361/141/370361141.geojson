@@ -2,13 +2,14 @@
   "id": 370361141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738157,39.190367,-119.738157,39.190367",
     "geom:latitude":39.190367,
     "geom:longitude":-119.738157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 College Pkwy Hngr H6",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370361141,
-    "wof:lastmodified":1449031558,
+    "wof:lastmodified":1466704937,
     "wof:name":"Carson City Airport Authority",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-119.738157,39.190367,-119.738157,39.190367],
+  "bbox": [
+    -119.738157,
+    39.190367,
+    -119.738157,
+    39.190367
+],
   "geometry": {"coordinates":[-119.738157,39.190367],"type":"Point"}
 }

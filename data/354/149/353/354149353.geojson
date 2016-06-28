@@ -2,13 +2,14 @@
   "id": 354149353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181,36.109798,-115.181,36.109798",
     "geom:latitude":36.109798,
     "geom:longitude":-115.181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354149353,
-    "wof:lastmodified":1449065930,
+    "wof:lastmodified":1466704793,
     "wof:name":"What's On In Las Vegas",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.181,36.109798,-115.181,36.109798],
+  "bbox": [
+    -115.181,
+    36.109798,
+    -115.181,
+    36.109798
+],
   "geometry": {"coordinates":[-115.181,36.109798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236519457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.96961,39.259528,-119.96961,39.259528",
     "geom:latitude":39.259528,
     "geom:longitude":-119.96961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"851 Tyner Way",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236519457,
-    "wof:lastmodified":1449004988,
+    "wof:lastmodified":1466705896,
     "wof:name":"Western Data Group Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-119.96961,39.259528,-119.96961,39.259528],
+  "bbox": [
+    -119.96961,
+    39.259528,
+    -119.96961,
+    39.259528
+],
   "geometry": {"coordinates":[-119.96961,39.259528],"type":"Point"}
 }

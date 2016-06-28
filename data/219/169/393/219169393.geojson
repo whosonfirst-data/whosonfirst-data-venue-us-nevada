@@ -2,13 +2,14 @@
   "id": 219169393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.709356,39.646781,-119.709356,39.646781",
     "geom:latitude":39.646781,
     "geom:longitude":-119.709356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Ryverson Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219169393,
-    "wof:lastmodified":1449072574,
+    "wof:lastmodified":1466701707,
     "wof:name":"Pyramid Key Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-119.709356,39.646781,-119.709356,39.646781],
+  "bbox": [
+    -119.709356,
+    39.646781,
+    -119.709356,
+    39.646781
+],
   "geometry": {"coordinates":[-119.709356,39.646781],"type":"Point"}
 }

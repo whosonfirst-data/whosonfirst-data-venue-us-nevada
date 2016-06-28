@@ -2,13 +2,14 @@
   "id": 219169135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232233,36.128655,-115.232233,36.128655",
     "geom:latitude":36.128655,
     "geom:longitude":-115.232233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6479 Bristlecone Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219169135,
-    "wof:lastmodified":1449072576,
+    "wof:lastmodified":1466701703,
     "wof:name":"Marys Brickhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-115.232233,36.128655,-115.232233,36.128655],
-  "geometry": {"coordinates":[-115.232233,36.128655],"type":"Point"}
+  "bbox": [
+    -115.232233,
+    36.128655,
+    -115.232233,
+    36.128655
+],
+  "geometry": {"coordinates":[-115.23223299999999,36.128655],"type":"Point"}
 }

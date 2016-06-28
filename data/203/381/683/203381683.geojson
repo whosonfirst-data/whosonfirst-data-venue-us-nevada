@@ -2,13 +2,14 @@
   "id": 203381683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.234528,39.597152,-119.234528,39.597152",
     "geom:latitude":39.597152,
     "geom:longitude":-119.234528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 Columbine St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203381683,
-    "wof:lastmodified":1449025087,
+    "wof:lastmodified":1466703272,
     "wof:name":"Precision Fleet Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-119.234528,39.597152,-119.234528,39.597152],
+  "bbox": [
+    -119.234528,
+    39.597152,
+    -119.234528,
+    39.597152
+],
   "geometry": {"coordinates":[-119.234528,39.597152],"type":"Point"}
 }

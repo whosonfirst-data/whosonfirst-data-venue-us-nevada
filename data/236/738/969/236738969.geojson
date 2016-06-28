@@ -2,13 +2,14 @@
   "id": 236738969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.520286,37.614095,-114.520286,37.614095",
     "geom:latitude":37.614095,
     "geom:longitude":-114.520286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"852 Holt Ave",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236738969,
-    "wof:lastmodified":1449004182,
+    "wof:lastmodified":1466706555,
     "wof:name":"Elbe Drilling & Blasting",
     "wof:parent_id":85827145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.520286,37.614095,-114.520286,37.614095],
+  "bbox": [
+    -114.520286,
+    37.614095,
+    -114.520286,
+    37.614095
+],
   "geometry": {"coordinates":[-114.520286,37.614095],"type":"Point"}
 }

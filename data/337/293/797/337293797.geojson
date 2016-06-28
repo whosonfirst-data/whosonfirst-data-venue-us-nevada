@@ -2,13 +2,14 @@
   "id": 337293797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181409,36.077184,-115.181409,36.077184",
     "geom:latitude":36.077184,
     "geom:longitude":-115.181409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6231 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337293797,
-    "wof:lastmodified":1449027086,
+    "wof:lastmodified":1466701576,
     "wof:name":"Executive Catering",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.181409,36.077184,-115.181409,36.077184],
+  "bbox": [
+    -115.181409,
+    36.077184,
+    -115.181409,
+    36.077184
+],
   "geometry": {"coordinates":[-115.181409,36.077184],"type":"Point"}
 }

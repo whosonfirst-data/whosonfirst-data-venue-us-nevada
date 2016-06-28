@@ -2,13 +2,14 @@
   "id": 236593995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.769854,40.819346,-115.769854,40.819346",
     "geom:latitude":40.819346,
     "geom:longitude":-115.769854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Bullion Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236593995,
-    "wof:lastmodified":1449003919,
+    "wof:lastmodified":1466706258,
     "wof:name":"Bullion Mobil Home Park",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-115.769854,40.819346,-115.769854,40.819346],
+  "bbox": [
+    -115.769854,
+    40.819346,
+    -115.769854,
+    40.819346
+],
   "geometry": {"coordinates":[-115.769854,40.819346],"type":"Point"}
 }

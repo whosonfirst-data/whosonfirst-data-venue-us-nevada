@@ -2,13 +2,14 @@
   "id": 219431193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.855668,39.517616,-119.855668,39.517616",
     "geom:latitude":39.517616,
     "geom:longitude":-119.855668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4686 Canyon Ridge Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219431193,
-    "wof:lastmodified":1449070873,
+    "wof:lastmodified":1466703783,
     "wof:name":"International Wood Resources",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.855668,39.517616,-119.855668,39.517616],
-  "geometry": {"coordinates":[-119.855668,39.517616],"type":"Point"}
+  "bbox": [
+    -119.855668,
+    39.517616,
+    -119.855668,
+    39.517616
+],
+  "geometry": {"coordinates":[-119.85566799999999,39.517616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370358675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757631,39.175067,-119.757631,39.175067",
     "geom:latitude":39.175067,
     "geom:longitude":-119.757631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Beverly Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370358675,
-    "wof:lastmodified":1449030507,
+    "wof:lastmodified":1466705069,
     "wof:name":"Autumn Village Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.757631,39.175067,-119.757631,39.175067],
+  "bbox": [
+    -119.757631,
+    39.175067,
+    -119.757631,
+    39.175067
+],
   "geometry": {"coordinates":[-119.757631,39.175067],"type":"Point"}
 }

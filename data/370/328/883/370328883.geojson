@@ -2,13 +2,14 @@
   "id": 370328883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771236,39.470029,-119.771236,39.470029",
     "geom:latitude":39.470029,
     "geom:longitude":-119.771236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 Louie Ln Ste C",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":370328883,
-    "wof:lastmodified":1449031070,
+    "wof:lastmodified":1466704837,
     "wof:name":"Elegant Party Rentals",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "store"
     ]
 },
-  "bbox": [-119.771236,39.470029,-119.771236,39.470029],
+  "bbox": [
+    -119.771236,
+    39.470029,
+    -119.771236,
+    39.470029
+],
   "geometry": {"coordinates":[-119.771236,39.470029],"type":"Point"}
 }

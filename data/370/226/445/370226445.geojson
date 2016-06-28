@@ -2,13 +2,14 @@
   "id": 370226445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221064,36.143068,-115.221064,36.143068",
     "geom:latitude":36.143068,
     "geom:longitude":-115.221064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Duneville Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370226445,
-    "wof:lastmodified":1449031548,
+    "wof:lastmodified":1466703190,
     "wof:name":"Quinceaneras At Jasmine Garden",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.221064,36.143068,-115.221064,36.143068],
+  "bbox": [
+    -115.221064,
+    36.143068,
+    -115.221064,
+    36.143068
+],
   "geometry": {"coordinates":[-115.221064,36.143068],"type":"Point"}
 }

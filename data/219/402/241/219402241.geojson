@@ -2,13 +2,14 @@
   "id": 219402241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.071869,36.802721,-114.071869,36.802721",
     "geom:latitude":36.802721,
     "geom:longitude":-114.071869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 1st S St",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219402241,
-    "wof:lastmodified":1449071530,
+    "wof:lastmodified":1466703639,
     "wof:name":"Mesquite Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.071869,36.802721,-114.071869,36.802721],
-  "geometry": {"coordinates":[-114.071869,36.802721],"type":"Point"}
+  "bbox": [
+    -114.071869,
+    36.802721,
+    -114.071869,
+    36.802721
+],
+  "geometry": {"coordinates":[-114.07186900000001,36.802721],"type":"Point"}
 }

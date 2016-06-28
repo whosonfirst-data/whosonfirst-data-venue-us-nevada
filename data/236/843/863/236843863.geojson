@@ -2,13 +2,14 @@
   "id": 236843863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.048587,36.053315,-115.048587,36.053315",
     "geom:latitude":36.053315,
     "geom:longitude":-115.048587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Reebok Ter",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236843863,
-    "wof:lastmodified":1449001893,
+    "wof:lastmodified":1466706818,
     "wof:name":"M & E Fire Security Systems",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-115.048587,36.053315,-115.048587,36.053315],
+  "bbox": [
+    -115.048587,
+    36.053315,
+    -115.048587,
+    36.053315
+],
   "geometry": {"coordinates":[-115.048587,36.053315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370318753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775071,39.469591,-119.775071,39.469591",
     "geom:latitude":39.469591,
     "geom:longitude":-119.775071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 Delucchi Ln Ste 210",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370318753,
-    "wof:lastmodified":1449029845,
+    "wof:lastmodified":1466704718,
     "wof:name":"Railroad Industries Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "railroad"
     ]
 },
-  "bbox": [-119.775071,39.469591,-119.775071,39.469591],
+  "bbox": [
+    -119.775071,
+    39.469591,
+    -119.775071,
+    39.469591
+],
   "geometry": {"coordinates":[-119.775071,39.469591],"type":"Point"}
 }

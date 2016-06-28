@@ -2,13 +2,14 @@
   "id": 354007901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055834,36.045277,-115.055834,36.045277",
     "geom:latitude":36.045277,
     "geom:longitude":-115.055834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Box Step Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354007901,
-    "wof:lastmodified":1449067355,
+    "wof:lastmodified":1466701669,
     "wof:name":"Insight Computer Services",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.055834,36.045277,-115.055834,36.045277],
+  "bbox": [
+    -115.055834,
+    36.045277,
+    -115.055834,
+    36.045277
+],
   "geometry": {"coordinates":[-115.055834,36.045277],"type":"Point"}
 }

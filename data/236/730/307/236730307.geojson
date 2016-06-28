@@ -2,13 +2,14 @@
   "id": 236730307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.754905,40.935833,-117.754905,40.935833",
     "geom:latitude":40.935833,
     "geom:longitude":-117.754905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5340 Grass Valley Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236730307,
-    "wof:lastmodified":1449004608,
+    "wof:lastmodified":1466706671,
     "wof:name":"KERR Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "metal"
     ]
 },
-  "bbox": [-117.754905,40.935833,-117.754905,40.935833],
-  "geometry": {"coordinates":[-117.754905,40.935833],"type":"Point"}
+  "bbox": [
+    -117.754905,
+    40.935833,
+    -117.754905,
+    40.935833
+],
+  "geometry": {"coordinates":[-117.75490499999999,40.935833],"type":"Point"}
 }

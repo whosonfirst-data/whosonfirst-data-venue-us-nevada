@@ -2,13 +2,14 @@
   "id": 219674281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81506,39.322854,-119.81506,39.322854",
     "geom:latitude":39.322854,
     "geom:longitude":-119.81506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 US Hwy 395",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219674281,
-    "wof:lastmodified":1449073039,
+    "wof:lastmodified":1466704282,
     "wof:name":"Chocolate Nugget Candy Factory",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.81506,39.322854,-119.81506,39.322854],
+  "bbox": [
+    -119.81506,
+    39.322854,
+    -119.81506,
+    39.322854
+],
   "geometry": {"coordinates":[-119.81506,39.322854],"type":"Point"}
 }

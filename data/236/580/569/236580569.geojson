@@ -2,13 +2,14 @@
   "id": 236580569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100306,36.161562,-115.100306,36.161562",
     "geom:latitude":36.161562,
     "geom:longitude":-115.100306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236580569,
-    "wof:lastmodified":1449003956,
+    "wof:lastmodified":1466706112,
     "wof:name":"California Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.100306,36.161562,-115.100306,36.161562],
+  "bbox": [
+    -115.100306,
+    36.161562,
+    -115.100306,
+    36.161562
+],
   "geometry": {"coordinates":[-115.100306,36.161562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219801329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.510785,37.625355,-114.510785,37.625355",
     "geom:latitude":37.625355,
     "geom:longitude":-114.510785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Spring St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219801329,
-    "wof:lastmodified":1449073303,
+    "wof:lastmodified":1466705102,
     "wof:name":"Agua Caliente MHP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-114.510785,37.625355,-114.510785,37.625355],
+  "bbox": [
+    -114.510785,
+    37.625355,
+    -114.510785,
+    37.625355
+],
   "geometry": {"coordinates":[-114.510785,37.625355],"type":"Point"}
 }

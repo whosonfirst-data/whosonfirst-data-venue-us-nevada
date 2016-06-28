@@ -2,13 +2,14 @@
   "id": 354386531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067607,36.100156,-115.067607,36.100156",
     "geom:latitude":36.100156,
     "geom:longitude":-115.067607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 E Tropicana Avenue Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354386531,
-    "wof:lastmodified":1449066831,
+    "wof:lastmodified":1466706223,
     "wof:name":"Wildwood Apartments",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.067607,36.100156,-115.067607,36.100156],
+  "bbox": [
+    -115.067607,
+    36.100156,
+    -115.067607,
+    36.100156
+],
   "geometry": {"coordinates":[-115.067607,36.100156],"type":"Point"}
 }

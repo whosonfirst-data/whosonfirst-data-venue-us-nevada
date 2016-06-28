@@ -2,13 +2,14 @@
   "id": 236065511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735283,39.204516,-119.735283,39.204516",
     "geom:latitude":39.204516,
     "geom:longitude":-119.735283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Conestoga Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236065511,
-    "wof:lastmodified":1449005200,
+    "wof:lastmodified":1466704004,
     "wof:name":"Nevada Seating & Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "ramp"
     ]
 },
-  "bbox": [-119.735283,39.204516,-119.735283,39.204516],
+  "bbox": [
+    -119.735283,
+    39.204516,
+    -119.735283,
+    39.204516
+],
   "geometry": {"coordinates":[-119.735283,39.204516],"type":"Point"}
 }

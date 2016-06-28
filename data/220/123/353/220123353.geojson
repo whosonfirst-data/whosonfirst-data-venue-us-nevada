@@ -2,13 +2,14 @@
   "id": 220123353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.830611,39.48532,-119.830611,39.48532",
     "geom:latitude":39.48532,
     "geom:longitude":-119.830611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2865 Juliann Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220123353,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466702557,
     "wof:name":"Electra Investments Corp",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.830611,39.48532,-119.830611,39.48532],
+  "bbox": [
+    -119.830611,
+    39.48532,
+    -119.830611,
+    39.48532
+],
   "geometry": {"coordinates":[-119.830611,39.48532],"type":"Point"}
 }

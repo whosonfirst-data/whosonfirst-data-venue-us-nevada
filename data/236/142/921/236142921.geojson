@@ -2,13 +2,14 @@
   "id": 236142921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180711,36.164325,-115.180711,36.164325",
     "geom:latitude":36.164325,
     "geom:longitude":-115.180711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Pinto Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236142921,
-    "wof:lastmodified":1449004454,
+    "wof:lastmodified":1466702405,
     "wof:name":"Carmena Neil MD Ltd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.180711,36.164325,-115.180711,36.164325],
+  "bbox": [
+    -115.180711,
+    36.164325,
+    -115.180711,
+    36.164325
+],
   "geometry": {"coordinates":[-115.180711,36.164325],"type":"Point"}
 }

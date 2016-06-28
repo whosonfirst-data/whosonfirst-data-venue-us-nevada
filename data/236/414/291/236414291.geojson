@@ -2,13 +2,14 @@
   "id": 236414291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21247,36.174706,-115.21247,36.174706",
     "geom:latitude":36.174706,
     "geom:longitude":-115.21247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5217 Casco Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236414291,
-    "wof:lastmodified":1449003145,
+    "wof:lastmodified":1466705287,
     "wof:name":"Hacienda Air",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.21247,36.174706,-115.21247,36.174706],
+  "bbox": [
+    -115.21247,
+    36.174706,
+    -115.21247,
+    36.174706
+],
   "geometry": {"coordinates":[-115.21247,36.174706],"type":"Point"}
 }

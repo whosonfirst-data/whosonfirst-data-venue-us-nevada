@@ -2,13 +2,14 @@
   "id": 353993309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068896,36.020362,-115.068896,36.020362",
     "geom:latitude":36.020362,
     "geom:longitude":-115.068896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Paseo Verde Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":353993309,
-    "wof:lastmodified":1449019389,
+    "wof:lastmodified":1466701675,
     "wof:name":"Midbar Kodesh Temple",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "day"
     ]
 },
-  "bbox": [-115.068896,36.020362,-115.068896,36.020362],
+  "bbox": [
+    -115.068896,
+    36.020362,
+    -115.068896,
+    36.020362
+],
   "geometry": {"coordinates":[-115.068896,36.020362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220141081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771835,39.089159,-119.771835,39.089159",
     "geom:latitude":39.089159,
     "geom:longitude":-119.771835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"969 Parkview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220141081,
-    "wof:lastmodified":1449074302,
+    "wof:lastmodified":1466702706,
     "wof:name":"Sunridge Myers Realty 500 Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-119.771835,39.089159,-119.771835,39.089159],
+  "bbox": [
+    -119.771835,
+    39.089159,
+    -119.771835,
+    39.089159
+],
   "geometry": {"coordinates":[-119.771835,39.089159],"type":"Point"}
 }

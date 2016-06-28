@@ -2,13 +2,14 @@
   "id": 252713055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074116,36.224246,-115.074116,36.224246",
     "geom:latitude":36.224246,
     "geom:longitude":-115.074116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4618 Crystal Peak Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252713055,
-    "wof:lastmodified":1449006409,
+    "wof:lastmodified":1466701581,
     "wof:name":"A Total Woman",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.074116,36.224246,-115.074116,36.224246],
+  "bbox": [
+    -115.074116,
+    36.224246,
+    -115.074116,
+    36.224246
+],
   "geometry": {"coordinates":[-115.074116,36.224246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236328157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06455,36.048802,-115.06455,36.048802",
     "geom:latitude":36.048802,
     "geom:longitude":-115.06455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Nuevo Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236328157,
-    "wof:lastmodified":1449003623,
+    "wof:lastmodified":1466704895,
     "wof:name":"Susubiridi Import",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.06455,36.048802,-115.06455,36.048802],
+  "bbox": [
+    -115.06455,
+    36.048802,
+    -115.06455,
+    36.048802
+],
   "geometry": {"coordinates":[-115.06455,36.048802],"type":"Point"}
 }

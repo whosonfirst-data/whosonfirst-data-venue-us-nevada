@@ -2,13 +2,14 @@
   "id": 203224831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.518252,40.727178,-115.518252,40.727178",
     "geom:latitude":40.727178,
     "geom:longitude":-115.518252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Rabbit Creek Rd",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203224831,
-    "wof:lastmodified":1449026354,
+    "wof:lastmodified":1466702334,
     "wof:name":"Caribou Construction",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-115.518252,40.727178,-115.518252,40.727178],
+  "bbox": [
+    -115.518252,
+    40.727178,
+    -115.518252,
+    40.727178
+],
   "geometry": {"coordinates":[-115.518252,40.727178],"type":"Point"}
 }

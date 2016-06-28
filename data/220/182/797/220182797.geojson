@@ -2,13 +2,14 @@
   "id": 220182797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.006219,36.037327,-115.006219,36.037327",
     "geom:latitude":36.037327,
     "geom:longitude":-115.006219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8350 S 4th St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220182797,
-    "wof:lastmodified":1449074564,
+    "wof:lastmodified":1466702971,
     "wof:name":"Service Rock Products",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-115.006219,36.037327,-115.006219,36.037327],
+  "bbox": [
+    -115.006219,
+    36.037327,
+    -115.006219,
+    36.037327
+],
   "geometry": {"coordinates":[-115.006219,36.037327],"type":"Point"}
 }

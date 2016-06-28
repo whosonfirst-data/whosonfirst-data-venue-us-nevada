@@ -2,13 +2,14 @@
   "id": 203375113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23587,36.215069,-115.23587,36.215069",
     "geom:latitude":36.215069,
     "geom:longitude":-115.23587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6465 Buckaroo Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203375113,
-    "wof:lastmodified":1449025019,
+    "wof:lastmodified":1466703227,
     "wof:name":"All Tour & Travel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.23587,36.215069,-115.23587,36.215069],
-  "geometry": {"coordinates":[-115.23587,36.215069],"type":"Point"}
+  "bbox": [
+    -115.23587,
+    36.215069,
+    -115.23587,
+    36.215069
+],
+  "geometry": {"coordinates":[-115.23587000000001,36.215069],"type":"Point"}
 }

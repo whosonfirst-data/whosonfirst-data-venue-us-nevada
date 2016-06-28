@@ -2,13 +2,14 @@
   "id": 219866465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767959,39.157327,-119.767959,39.157327",
     "geom:latitude":39.157327,
     "geom:longitude":-119.767959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Curry St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219866465,
-    "wof:lastmodified":1449072070,
+    "wof:lastmodified":1466705464,
     "wof:name":"Parks Division",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-119.767959,39.157327,-119.767959,39.157327],
+  "bbox": [
+    -119.767959,
+    39.157327,
+    -119.767959,
+    39.157327
+],
   "geometry": {"coordinates":[-119.767959,39.157327],"type":"Point"}
 }

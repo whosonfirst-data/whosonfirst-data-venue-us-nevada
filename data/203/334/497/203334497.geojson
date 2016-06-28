@@ -2,13 +2,14 @@
   "id": 203334497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.029626,36.211041,-115.029626,36.211041",
     "geom:latitude":36.211041,
     "geom:longitude":-115.029626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6566 Elk Creek Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203334497,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466703056,
     "wof:name":"Dominique's Designs",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.029626,36.211041,-115.029626,36.211041],
-  "geometry": {"coordinates":[-115.029626,36.211041],"type":"Point"}
+  "bbox": [
+    -115.029626,
+    36.211041,
+    -115.029626,
+    36.211041
+],
+  "geometry": {"coordinates":[-115.02962599999999,36.211041],"type":"Point"}
 }

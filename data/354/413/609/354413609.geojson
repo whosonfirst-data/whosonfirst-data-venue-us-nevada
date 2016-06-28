@@ -2,13 +2,14 @@
   "id": 354413609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172213,36.056435,-115.172213,36.056435",
     "geom:latitude":36.056435,
     "geom:longitude":-115.172213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 Las Vegas Blvd S, Ste 110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354413609,
-    "wof:lastmodified":1449066192,
+    "wof:lastmodified":1466706236,
     "wof:name":"La Cosina Mexican Restaurant",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.172213,36.056435,-115.172213,36.056435],
+  "bbox": [
+    -115.172213,
+    36.056435,
+    -115.172213,
+    36.056435
+],
   "geometry": {"coordinates":[-115.172213,36.056435],"type":"Point"}
 }

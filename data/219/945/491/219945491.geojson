@@ -2,13 +2,14 @@
   "id": 219945491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139848,36.096114,-115.139848,36.096114",
     "geom:latitude":36.096114,
     "geom:longitude":-115.139848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5126 Gray Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219945491,
-    "wof:lastmodified":1449070687,
+    "wof:lastmodified":1466705862,
     "wof:name":"AAA People's Choice Bail",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-115.139848,36.096114,-115.139848,36.096114],
+  "bbox": [
+    -115.139848,
+    36.096114,
+    -115.139848,
+    36.096114
+],
   "geometry": {"coordinates":[-115.139848,36.096114],"type":"Point"}
 }

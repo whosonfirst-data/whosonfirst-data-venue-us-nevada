@@ -2,13 +2,14 @@
   "id": 236311619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226808,36.299593,-115.226808,36.299593",
     "geom:latitude":36.299593,
     "geom:longitude":-115.226808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6180 Donald Nelson Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236311619,
-    "wof:lastmodified":1449002259,
+    "wof:lastmodified":1466704634,
     "wof:name":"Facet 58 Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.226808,36.299593,-115.226808,36.299593],
-  "geometry": {"coordinates":[-115.226808,36.299593],"type":"Point"}
+  "bbox": [
+    -115.226808,
+    36.299593,
+    -115.226808,
+    36.299593
+],
+  "geometry": {"coordinates":[-115.22680800000001,36.299593],"type":"Point"}
 }

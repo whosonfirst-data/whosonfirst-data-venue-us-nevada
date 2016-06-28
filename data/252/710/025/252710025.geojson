@@ -2,13 +2,14 @@
   "id": 252710025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107952,36.032133,-115.107952,36.032133",
     "geom:latitude":36.032133,
     "geom:longitude":-115.107952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Tidwell Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252710025,
-    "wof:lastmodified":1449005477,
+    "wof:lastmodified":1466701518,
     "wof:name":"Budget Cleaning Services",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.107952,36.032133,-115.107952,36.032133],
+  "bbox": [
+    -115.107952,
+    36.032133,
+    -115.107952,
+    36.032133
+],
   "geometry": {"coordinates":[-115.107952,36.032133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219537871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208364,36.089883,-115.208364,36.089883",
     "geom:latitude":36.089883,
     "geom:longitude":-115.208364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5175 W Diablo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219537871,
-    "wof:lastmodified":1449071263,
+    "wof:lastmodified":1466702007,
     "wof:name":"Boss Beverage",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-115.208364,36.089883,-115.208364,36.089883],
+  "bbox": [
+    -115.208364,
+    36.089883,
+    -115.208364,
+    36.089883
+],
   "geometry": {"coordinates":[-115.208364,36.089883],"type":"Point"}
 }

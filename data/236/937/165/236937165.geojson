@@ -2,13 +2,14 @@
   "id": 236937165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199101,36.085239,-115.199101,36.085239",
     "geom:latitude":36.085239,
     "geom:longitude":-115.199101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5740 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236937165,
-    "wof:lastmodified":1449002147,
+    "wof:lastmodified":1466706923,
     "wof:name":"Slater Hanifan Group",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.199101,36.085239,-115.199101,36.085239],
+  "bbox": [
+    -115.199101,
+    36.085239,
+    -115.199101,
+    36.085239
+],
   "geometry": {"coordinates":[-115.199101,36.085239],"type":"Point"}
 }

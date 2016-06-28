@@ -2,13 +2,14 @@
   "id": 236681229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.159435,36.198369,-115.159435,36.198369",
     "geom:latitude":36.198369,
     "geom:longitude":-115.159435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 Lawry Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236681229,
-    "wof:lastmodified":1449003712,
+    "wof:lastmodified":1466706438,
     "wof:name":"AAA Hardwood and Carpet Care",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.159435,36.198369,-115.159435,36.198369],
+  "bbox": [
+    -115.159435,
+    36.198369,
+    -115.159435,
+    36.198369
+],
   "geometry": {"coordinates":[-115.159435,36.198369],"type":"Point"}
 }

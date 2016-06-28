@@ -2,13 +2,14 @@
   "id": 370322503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.819878,39.530251,-119.819878,39.530251",
     "geom:latitude":39.530251,
     "geom:longitude":-119.819878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370322503,
-    "wof:lastmodified":1449029032,
+    "wof:lastmodified":1466704604,
     "wof:name":"Sushi Lover",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "japanese"
     ]
 },
-  "bbox": [-119.819878,39.530251,-119.819878,39.530251],
+  "bbox": [
+    -119.819878,
+    39.530251,
+    -119.819878,
+    39.530251
+],
   "geometry": {"coordinates":[-119.819878,39.530251],"type":"Point"}
 }

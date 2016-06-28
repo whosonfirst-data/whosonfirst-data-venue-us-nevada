@@ -2,13 +2,14 @@
   "id": 203351705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206193,36.188961,-115.206193,36.188961",
     "geom:latitude":36.188961,
     "geom:longitude":-115.206193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1799 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203351705,
-    "wof:lastmodified":1449026565,
+    "wof:lastmodified":1466703151,
     "wof:name":"Northern Lights Pilot Car",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.206193,36.188961,-115.206193,36.188961],
+  "bbox": [
+    -115.206193,
+    36.188961,
+    -115.206193,
+    36.188961
+],
   "geometry": {"coordinates":[-115.206193,36.188961],"type":"Point"}
 }

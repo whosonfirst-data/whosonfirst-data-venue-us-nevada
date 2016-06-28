@@ -2,13 +2,14 @@
   "id": 354050647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085083,36.025598,-115.085083,36.025598",
     "geom:latitude":36.025598,
     "geom:longitude":-115.085083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Green Valley Pkwy Ste 100",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354050647,
-    "wof:lastmodified":1449066879,
+    "wof:lastmodified":1466702788,
     "wof:name":"The Beauty Box",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.085083,36.025598,-115.085083,36.025598],
+  "bbox": [
+    -115.085083,
+    36.025598,
+    -115.085083,
+    36.025598
+],
   "geometry": {"coordinates":[-115.085083,36.025598],"type":"Point"}
 }

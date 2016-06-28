@@ -2,13 +2,14 @@
   "id": 236766153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20619,36.183924,-115.20619,36.183924",
     "geom:latitude":36.183924,
     "geom:longitude":-115.20619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236766153,
-    "wof:lastmodified":1449001645,
+    "wof:lastmodified":1466706462,
     "wof:name":"United Labor Agency Of Nevada",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-115.20619,36.183924,-115.20619,36.183924],
-  "geometry": {"coordinates":[-115.20619,36.183924],"type":"Point"}
+  "bbox": [
+    -115.20619,
+    36.183924,
+    -115.20619,
+    36.183924
+],
+  "geometry": {"coordinates":[-115.20619000000001,36.183924],"type":"Point"}
 }

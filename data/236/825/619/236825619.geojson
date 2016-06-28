@@ -2,13 +2,14 @@
   "id": 236825619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169432,36.140873,-115.169432,36.140873",
     "geom:latitude":36.140873,
     "geom:longitude":-115.169432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236825619,
-    "wof:lastmodified":1449001774,
+    "wof:lastmodified":1466706689,
     "wof:name":"Arrowhead Armored",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.169432,36.140873,-115.169432,36.140873],
+  "bbox": [
+    -115.169432,
+    36.140873,
+    -115.169432,
+    36.140873
+],
   "geometry": {"coordinates":[-115.169432,36.140873],"type":"Point"}
 }

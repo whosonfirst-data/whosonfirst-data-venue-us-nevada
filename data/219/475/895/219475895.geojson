@@ -2,13 +2,14 @@
   "id": 219475895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.213705,39.404379,-119.213705,39.404379",
     "geom:latitude":39.404379,
     "geom:longitude":-119.213705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Lake Ave",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219475895,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466704058,
     "wof:name":"Lenox Barns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-119.213705,39.404379,-119.213705,39.404379],
+  "bbox": [
+    -119.213705,
+    39.404379,
+    -119.213705,
+    39.404379
+],
   "geometry": {"coordinates":[-119.213705,39.404379],"type":"Point"}
 }

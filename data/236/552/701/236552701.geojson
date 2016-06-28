@@ -2,13 +2,14 @@
   "id": 236552701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.345323,36.131117,-115.345323,36.131117",
     "geom:latitude":36.131117,
     "geom:longitude":-115.345323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11460 Timber Mountain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236552701,
-    "wof:lastmodified":1449002958,
+    "wof:lastmodified":1466706091,
     "wof:name":"Mitchell Aronson Inc",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-115.345323,36.131117,-115.345323,36.131117],
-  "geometry": {"coordinates":[-115.345323,36.131117],"type":"Point"}
+  "bbox": [
+    -115.345323,
+    36.131117,
+    -115.345323,
+    36.131117
+],
+  "geometry": {"coordinates":[-115.34532299999999,36.131117],"type":"Point"}
 }

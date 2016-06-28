@@ -2,13 +2,14 @@
   "id": 220015921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158807,36.043868,-115.158807,36.043868",
     "geom:latitude":36.043868,
     "geom:longitude":-115.158807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7984 Placid St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220015921,
-    "wof:lastmodified":1449074229,
+    "wof:lastmodified":1466701609,
     "wof:name":"Lighting Services Of Nevada",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lighting"
     ]
 },
-  "bbox": [-115.158807,36.043868,-115.158807,36.043868],
+  "bbox": [
+    -115.158807,
+    36.043868,
+    -115.158807,
+    36.043868
+],
   "geometry": {"coordinates":[-115.158807,36.043868],"type":"Point"}
 }

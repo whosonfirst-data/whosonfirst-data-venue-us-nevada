@@ -2,13 +2,14 @@
   "id": 235965035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733259,39.382998,-119.733259,39.382998",
     "geom:latitude":39.382998,
     "geom:longitude":-119.733259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15081 Limonite Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235965035,
-    "wof:lastmodified":1449008483,
+    "wof:lastmodified":1466703589,
     "wof:name":"Dining By Design",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chef"
     ]
 },
-  "bbox": [-119.733259,39.382998,-119.733259,39.382998],
+  "bbox": [
+    -119.733259,
+    39.382998,
+    -119.733259,
+    39.382998
+],
   "geometry": {"coordinates":[-119.733259,39.382998],"type":"Point"}
 }

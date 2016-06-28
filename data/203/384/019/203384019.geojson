@@ -2,13 +2,14 @@
   "id": 203384019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.32111,36.18049,-115.32111,36.18049",
     "geom:latitude":36.18049,
     "geom:longitude":-115.32111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10312 Huxley Cross Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384019,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466704237,
     "wof:name":"Coastal Image",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.32111,36.18049,-115.32111,36.18049],
+  "bbox": [
+    -115.32111,
+    36.18049,
+    -115.32111,
+    36.18049
+],
   "geometry": {"coordinates":[-115.32111,36.18049],"type":"Point"}
 }

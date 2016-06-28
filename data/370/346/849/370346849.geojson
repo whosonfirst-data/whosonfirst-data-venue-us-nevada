@@ -2,13 +2,14 @@
   "id": 370346849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772523,39.135585,-119.772523,39.135585",
     "geom:latitude":39.135585,
     "geom:longitude":-119.772523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Moses St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370346849,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1466705024,
     "wof:name":"Fighters Pro Shop Bjj-Mma School",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-119.772523,39.135585,-119.772523,39.135585],
-  "geometry": {"coordinates":[-119.772523,39.135585],"type":"Point"}
+  "bbox": [
+    -119.772523,
+    39.135585,
+    -119.772523,
+    39.135585
+],
+  "geometry": {"coordinates":[-119.77252300000001,39.135585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236088385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.302262,36.240847,-115.302262,36.240847",
     "geom:latitude":36.240847,
     "geom:longitude":-115.302262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9480 W Craig Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236088385,
-    "wof:lastmodified":1449004368,
+    "wof:lastmodified":1466704142,
     "wof:name":"Gary Knapp",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigation"
     ]
 },
-  "bbox": [-115.302262,36.240847,-115.302262,36.240847],
+  "bbox": [
+    -115.302262,
+    36.240847,
+    -115.302262,
+    36.240847
+],
   "geometry": {"coordinates":[-115.302262,36.240847],"type":"Point"}
 }

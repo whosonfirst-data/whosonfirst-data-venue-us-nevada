@@ -2,13 +2,14 @@
   "id": 219685801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.837858,35.96569,-114.837858,35.96569",
     "geom:latitude":35.96569,
     "geom:longitude":-114.837858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Esther Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219685801,
-    "wof:lastmodified":1449073826,
+    "wof:lastmodified":1466704357,
     "wof:name":"Denman Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.837858,35.96569,-114.837858,35.96569],
+  "bbox": [
+    -114.837858,
+    35.96569,
+    -114.837858,
+    35.96569
+],
   "geometry": {"coordinates":[-114.837858,35.96569],"type":"Point"}
 }

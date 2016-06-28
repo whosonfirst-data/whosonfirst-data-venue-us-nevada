@@ -2,13 +2,14 @@
   "id": 236652805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766983,39.163906,-119.766983,39.163906",
     "geom:latitude":39.163906,
     "geom:longitude":-119.766983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236652805,
-    "wof:lastmodified":1449003843,
+    "wof:lastmodified":1466706397,
     "wof:name":"Lieutnant Gvrnor Nev Office of",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "governor"
     ]
 },
-  "bbox": [-119.766983,39.163906,-119.766983,39.163906],
+  "bbox": [
+    -119.766983,
+    39.163906,
+    -119.766983,
+    39.163906
+],
   "geometry": {"coordinates":[-119.766983,39.163906],"type":"Point"}
 }

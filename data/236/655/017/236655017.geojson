@@ -2,13 +2,14 @@
   "id": 236655017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.786039,39.421614,-119.786039,39.421614",
     "geom:latitude":39.421614,
     "geom:longitude":-119.786039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Twin Oaks Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236655017,
-    "wof:lastmodified":1449003564,
+    "wof:lastmodified":1466706581,
     "wof:name":"Fisher Alice Bass",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-119.786039,39.421614,-119.786039,39.421614],
+  "bbox": [
+    -119.786039,
+    39.421614,
+    -119.786039,
+    39.421614
+],
   "geometry": {"coordinates":[-119.786039,39.421614],"type":"Point"}
 }

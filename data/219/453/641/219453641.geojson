@@ -2,13 +2,14 @@
   "id": 219453641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.324412,36.174929,-115.324412,36.174929",
     "geom:latitude":36.174929,
     "geom:longitude":-115.324412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10500 Narra Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219453641,
-    "wof:lastmodified":1449073054,
+    "wof:lastmodified":1466703890,
     "wof:name":"Gilded Pages Inc",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-115.324412,36.174929,-115.324412,36.174929],
+  "bbox": [
+    -115.324412,
+    36.174929,
+    -115.324412,
+    36.174929
+],
   "geometry": {"coordinates":[-115.324412,36.174929],"type":"Point"}
 }

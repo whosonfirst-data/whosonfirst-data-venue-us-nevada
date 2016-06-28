@@ -2,13 +2,14 @@
   "id": 236596981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071212,36.213094,-115.071212,36.213094",
     "geom:latitude":36.213094,
     "geom:longitude":-115.071212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 Marion Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236596981,
-    "wof:lastmodified":1449003324,
+    "wof:lastmodified":1466706260,
     "wof:name":"OfficeMax",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.071212,36.213094,-115.071212,36.213094],
+  "bbox": [
+    -115.071212,
+    36.213094,
+    -115.071212,
+    36.213094
+],
   "geometry": {"coordinates":[-115.071212,36.213094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236812321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101401,36.185531,-115.101401,36.185531",
     "geom:latitude":36.185531,
     "geom:longitude":-115.101401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Mary Ann Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236812321,
-    "wof:lastmodified":1449001746,
+    "wof:lastmodified":1466706542,
     "wof:name":"Courtesy Cleaning Svc",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.101401,36.185531,-115.101401,36.185531],
+  "bbox": [
+    -115.101401,
+    36.185531,
+    -115.101401,
+    36.185531
+],
   "geometry": {"coordinates":[-115.101401,36.185531],"type":"Point"}
 }

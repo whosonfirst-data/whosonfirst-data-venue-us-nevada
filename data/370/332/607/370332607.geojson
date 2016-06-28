@@ -2,13 +2,14 @@
   "id": 370332607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754253,39.427836,-119.754253,39.427836",
     "geom:latitude":39.427836,
     "geom:longitude":-119.754253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10685 Professional Cir Ste A",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":370332607,
-    "wof:lastmodified":1449030947,
+    "wof:lastmodified":1466704763,
     "wof:name":"Eye Care Professionals",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.754253,39.427836,-119.754253,39.427836],
-  "geometry": {"coordinates":[-119.754253,39.427836],"type":"Point"}
+  "bbox": [
+    -119.754253,
+    39.427836,
+    -119.754253,
+    39.427836
+],
+  "geometry": {"coordinates":[-119.75425300000001,39.427836],"type":"Point"}
 }

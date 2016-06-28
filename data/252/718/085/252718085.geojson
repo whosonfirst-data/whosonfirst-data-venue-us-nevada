@@ -2,13 +2,14 @@
   "id": 252718085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269566,36.162255,-115.269566,36.162255",
     "geom:latitude":36.162255,
     "geom:longitude":-115.269566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Angel Star Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252718085,
-    "wof:lastmodified":1449005658,
+    "wof:lastmodified":1466701690,
     "wof:name":"Steve Levy Inc",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.269566,36.162255,-115.269566,36.162255],
+  "bbox": [
+    -115.269566,
+    36.162255,
+    -115.269566,
+    36.162255
+],
   "geometry": {"coordinates":[-115.269566,36.162255],"type":"Point"}
 }

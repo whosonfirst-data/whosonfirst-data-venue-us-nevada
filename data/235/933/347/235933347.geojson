@@ -2,13 +2,14 @@
   "id": 235933347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298319,36.210609,-115.298319,36.210609",
     "geom:latitude":36.210609,
     "geom:longitude":-115.298319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9408 del Webb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235933347,
-    "wof:lastmodified":1449008328,
+    "wof:lastmodified":1466703445,
     "wof:name":"Young's Tailors & Cleaner",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-115.298319,36.210609,-115.298319,36.210609],
-  "geometry": {"coordinates":[-115.298319,36.210609],"type":"Point"}
+  "bbox": [
+    -115.298319,
+    36.210609,
+    -115.298319,
+    36.210609
+],
+  "geometry": {"coordinates":[-115.29831900000001,36.210609],"type":"Point"}
 }

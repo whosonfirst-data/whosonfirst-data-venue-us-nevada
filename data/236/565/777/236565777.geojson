@@ -2,13 +2,14 @@
   "id": 236565777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.986735,36.02823,-114.986735,36.02823",
     "geom:latitude":36.02823,
     "geom:longitude":-114.986735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 E Van Wagenen St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236565777,
-    "wof:lastmodified":1449004899,
+    "wof:lastmodified":1466706080,
     "wof:name":"Tropicana Sq Homeowners Assn",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeowner"
     ]
 },
-  "bbox": [-114.986735,36.02823,-114.986735,36.02823],
+  "bbox": [
+    -114.986735,
+    36.02823,
+    -114.986735,
+    36.02823
+],
   "geometry": {"coordinates":[-114.986735,36.02823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236080349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73418,39.601834,-119.73418,39.601834",
     "geom:latitude":39.601834,
     "geom:longitude":-119.73418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7595 Pah Rah Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236080349,
-    "wof:lastmodified":1449005138,
+    "wof:lastmodified":1466704096,
     "wof:name":"Nevada Office",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.73418,39.601834,-119.73418,39.601834],
-  "geometry": {"coordinates":[-119.73418,39.601834],"type":"Point"}
+  "bbox": [
+    -119.73418,
+    39.601834,
+    -119.73418,
+    39.601834
+],
+  "geometry": {"coordinates":[-119.73417999999999,39.601834],"type":"Point"}
 }

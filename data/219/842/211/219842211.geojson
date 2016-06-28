@@ -2,13 +2,14 @@
   "id": 219842211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081595,36.089863,-115.081595,36.089863",
     "geom:latitude":36.089863,
     "geom:longitude":-115.081595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5443 Saltaire St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219842211,
-    "wof:lastmodified":1449070645,
+    "wof:lastmodified":1466705317,
     "wof:name":"A A Baby Sitters",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sitter"
     ]
 },
-  "bbox": [-115.081595,36.089863,-115.081595,36.089863],
-  "geometry": {"coordinates":[-115.081595,36.089863],"type":"Point"}
+  "bbox": [
+    -115.081595,
+    36.089863,
+    -115.081595,
+    36.089863
+],
+  "geometry": {"coordinates":[-115.08159499999999,36.089863],"type":"Point"}
 }

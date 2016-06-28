@@ -2,13 +2,14 @@
   "id": 219182835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.937163,40.642608,-116.937163,40.642608",
     "geom:latitude":40.642608,
     "geom:longitude":-116.937163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 W 2nd St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219182835,
-    "wof:lastmodified":1449072614,
+    "wof:lastmodified":1466701958,
     "wof:name":"Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.937163,40.642608,-116.937163,40.642608],
+  "bbox": [
+    -116.937163,
+    40.642608,
+    -116.937163,
+    40.642608
+],
   "geometry": {"coordinates":[-116.937163,40.642608],"type":"Point"}
 }

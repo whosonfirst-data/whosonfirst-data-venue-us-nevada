@@ -2,13 +2,14 @@
   "id": 370201277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176129,36.011693,-115.176129,36.011693",
     "geom:latitude":36.011693,
     "geom:longitude":-115.176129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"South Pointe Casino 9777 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370201277,
-    "wof:lastmodified":1449032011,
+    "wof:lastmodified":1466702536,
     "wof:name":"Silverado Steakhouse",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-115.176129,36.011693,-115.176129,36.011693],
+  "bbox": [
+    -115.176129,
+    36.011693,
+    -115.176129,
+    36.011693
+],
   "geometry": {"coordinates":[-115.176129,36.011693],"type":"Point"}
 }

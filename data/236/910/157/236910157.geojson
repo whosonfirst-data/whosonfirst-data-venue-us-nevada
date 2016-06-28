@@ -2,13 +2,14 @@
   "id": 236910157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105535,36.160616,-115.105535,36.160616",
     "geom:latitude":36.160616,
     "geom:longitude":-115.105535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 N Mojave Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236910157,
-    "wof:lastmodified":1449002954,
+    "wof:lastmodified":1466706823,
     "wof:name":"Oklahoma Kitchen & Bakery",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.105535,36.160616,-115.105535,36.160616],
+  "bbox": [
+    -115.105535,
+    36.160616,
+    -115.105535,
+    36.160616
+],
   "geometry": {"coordinates":[-115.105535,36.160616],"type":"Point"}
 }

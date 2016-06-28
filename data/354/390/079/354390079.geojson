@@ -2,13 +2,14 @@
   "id": 354390079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114106,36.129188,-115.114106,36.129188",
     "geom:latitude":36.129188,
     "geom:longitude":-115.114106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Topaz Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354390079,
-    "wof:lastmodified":1449067677,
+    "wof:lastmodified":1466706213,
     "wof:name":"McKellar Development Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.114106,36.129188,-115.114106,36.129188],
-  "geometry": {"coordinates":[-115.114106,36.129188],"type":"Point"}
+  "bbox": [
+    -115.114106,
+    36.129188,
+    -115.114106,
+    36.129188
+],
+  "geometry": {"coordinates":[-115.11410600000001,36.129188],"type":"Point"}
 }

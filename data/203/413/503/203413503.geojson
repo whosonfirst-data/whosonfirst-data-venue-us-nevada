@@ -2,13 +2,14 @@
   "id": 203413503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796203,39.49495,-119.796203,39.49495",
     "geom:latitude":39.49495,
     "geom:longitude":-119.796203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Gentry Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203413503,
-    "wof:lastmodified":1449025232,
+    "wof:lastmodified":1466703376,
     "wof:name":"Freeport Moving & Storage",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-119.796203,39.49495,-119.796203,39.49495],
-  "geometry": {"coordinates":[-119.796203,39.49495],"type":"Point"}
+  "bbox": [
+    -119.796203,
+    39.49495,
+    -119.796203,
+    39.49495
+],
+  "geometry": {"coordinates":[-119.79620300000001,39.49495],"type":"Point"}
 }

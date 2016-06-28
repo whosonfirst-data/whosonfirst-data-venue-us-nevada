@@ -2,13 +2,14 @@
   "id": 236811559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187844,36.03089,-115.187844,36.03089",
     "geom:latitude":36.03089,
     "geom:longitude":-115.187844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8736 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236811559,
-    "wof:lastmodified":1449003197,
+    "wof:lastmodified":1466706529,
     "wof:name":"Aztec Communication",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.187844,36.03089,-115.187844,36.03089],
+  "bbox": [
+    -115.187844,
+    36.03089,
+    -115.187844,
+    36.03089
+],
   "geometry": {"coordinates":[-115.187844,36.03089],"type":"Point"}
 }

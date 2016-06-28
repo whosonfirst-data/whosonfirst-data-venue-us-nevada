@@ -2,13 +2,14 @@
   "id": 219345765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752555,39.480976,-119.752555,39.480976",
     "geom:latitude":39.480976,
     "geom:longitude":-119.752555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Noche Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219345765,
-    "wof:lastmodified":1449073635,
+    "wof:lastmodified":1466703381,
     "wof:name":"Lomaga Vending Services",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-119.752555,39.480976,-119.752555,39.480976],
+  "bbox": [
+    -119.752555,
+    39.480976,
+    -119.752555,
+    39.480976
+],
   "geometry": {"coordinates":[-119.752555,39.480976],"type":"Point"}
 }

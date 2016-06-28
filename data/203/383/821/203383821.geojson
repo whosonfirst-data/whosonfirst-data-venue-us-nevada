@@ -2,13 +2,14 @@
   "id": 203383821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072921,36.123139,-115.072921,36.123139",
     "geom:latitude":36.123139,
     "geom:longitude":-115.072921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203383821,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466703280,
     "wof:name":"Ruth's Personal Care Home",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.072921,36.123139,-115.072921,36.123139],
-  "geometry": {"coordinates":[-115.072921,36.123139],"type":"Point"}
+  "bbox": [
+    -115.072921,
+    36.123139,
+    -115.072921,
+    36.123139
+],
+  "geometry": {"coordinates":[-115.07292099999999,36.123139],"type":"Point"}
 }

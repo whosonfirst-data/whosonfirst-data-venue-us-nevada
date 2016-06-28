@@ -2,13 +2,14 @@
   "id": 370158061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262841,36.195034,-115.262841,36.195034",
     "geom:latitude":36.195034,
     "geom:longitude":-115.262841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8551 W Lake Mead Boulevard Suite 231",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370158061,
-    "wof:lastmodified":1449031336,
+    "wof:lastmodified":1466701735,
     "wof:name":"Innovative Health Care",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.262841,36.195034,-115.262841,36.195034],
-  "geometry": {"coordinates":[-115.262841,36.195034],"type":"Point"}
+  "bbox": [
+    -115.262841,
+    36.195034,
+    -115.262841,
+    36.195034
+],
+  "geometry": {"coordinates":[-115.26284099999999,36.195034],"type":"Point"}
 }

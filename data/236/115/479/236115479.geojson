@@ -2,13 +2,14 @@
   "id": 236115479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065065,36.122277,-115.065065,36.122277",
     "geom:latitude":36.122277,
     "geom:longitude":-115.065065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5303 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236115479,
-    "wof:lastmodified":1449001658,
+    "wof:lastmodified":1466701841,
     "wof:name":"One Star Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.065065,36.122277,-115.065065,36.122277],
+  "bbox": [
+    -115.065065,
+    36.122277,
+    -115.065065,
+    36.122277
+],
   "geometry": {"coordinates":[-115.065065,36.122277],"type":"Point"}
 }

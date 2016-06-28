@@ -2,13 +2,14 @@
   "id": 370215797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316979,36.179149,-115.316979,36.179149",
     "geom:latitude":36.179149,
     "geom:longitude":-115.316979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 N Town Center Dr Ste 210",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370215797,
-    "wof:lastmodified":1449031887,
+    "wof:lastmodified":1466702962,
     "wof:name":"Muir William MD Spine Surgery",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.316979,36.179149,-115.316979,36.179149],
+  "bbox": [
+    -115.316979,
+    36.179149,
+    -115.316979,
+    36.179149
+],
   "geometry": {"coordinates":[-115.316979,36.179149],"type":"Point"}
 }

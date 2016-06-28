@@ -2,13 +2,14 @@
   "id": 354310675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.246803,36.142706,-115.246803,36.142706",
     "geom:latitude":36.142706,
     "geom:longitude":-115.246803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Montessour St Ste 206",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354310675,
-    "wof:lastmodified":1449066988,
+    "wof:lastmodified":1466705783,
     "wof:name":"E.nopi Math and Reading",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "tutoring"
     ]
 },
-  "bbox": [-115.246803,36.142706,-115.246803,36.142706],
+  "bbox": [
+    -115.246803,
+    36.142706,
+    -115.246803,
+    36.142706
+],
   "geometry": {"coordinates":[-115.246803,36.142706],"type":"Point"}
 }

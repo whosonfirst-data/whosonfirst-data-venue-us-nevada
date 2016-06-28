@@ -2,13 +2,14 @@
   "id": 236634495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.012703,36.074178,-115.012703,36.074178",
     "geom:latitude":36.074178,
     "geom:longitude":-115.012703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Angelus Oaks Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236634495,
-    "wof:lastmodified":1449003182,
+    "wof:lastmodified":1466706487,
     "wof:name":"Suburban Silk",
     "wof:parent_id":85878125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "whole"
     ]
 },
-  "bbox": [-115.012703,36.074178,-115.012703,36.074178],
+  "bbox": [
+    -115.012703,
+    36.074178,
+    -115.012703,
+    36.074178
+],
   "geometry": {"coordinates":[-115.012703,36.074178],"type":"Point"}
 }

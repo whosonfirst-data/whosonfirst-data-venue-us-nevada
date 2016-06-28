@@ -2,13 +2,14 @@
   "id": 236230687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769837,39.536997,-119.769837,39.536997",
     "geom:latitude":39.536997,
     "geom:longitude":-119.769837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236230687,
-    "wof:lastmodified":1449004221,
+    "wof:lastmodified":1466704190,
     "wof:name":"Cyber Zone Computers",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769837,39.536997,-119.769837,39.536997],
+  "bbox": [
+    -119.769837,
+    39.536997,
+    -119.769837,
+    39.536997
+],
   "geometry": {"coordinates":[-119.769837,39.536997],"type":"Point"}
 }

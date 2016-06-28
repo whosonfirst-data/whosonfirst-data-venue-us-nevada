@@ -2,13 +2,14 @@
   "id": 235953091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.779069,39.473227,-118.779069,39.473227",
     "geom:latitude":39.473227,
     "geom:longitude":-118.779069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 S Laverne St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235953091,
-    "wof:lastmodified":1449008469,
+    "wof:lastmodified":1466703533,
     "wof:name":"Mackedon Mc Cormick & King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-118.779069,39.473227,-118.779069,39.473227],
-  "geometry": {"coordinates":[-118.779069,39.473227],"type":"Point"}
+  "bbox": [
+    -118.779069,
+    39.473227,
+    -118.779069,
+    39.473227
+],
+  "geometry": {"coordinates":[-118.77906900000001,39.473227],"type":"Point"}
 }

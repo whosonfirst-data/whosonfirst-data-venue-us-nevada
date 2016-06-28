@@ -2,13 +2,14 @@
   "id": 354023281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156495,36.142234,-115.156495,36.142234",
     "geom:latitude":36.142234,
     "geom:longitude":-115.156495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Las Vegas Blvd S",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354023281,
-    "wof:lastmodified":1449067508,
+    "wof:lastmodified":1466702080,
     "wof:name":"Striptease, The Show",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-115.156495,36.142234,-115.156495,36.142234],
-  "geometry": {"coordinates":[-115.156495,36.142234],"type":"Point"}
+  "bbox": [
+    -115.156495,
+    36.142234,
+    -115.156495,
+    36.142234
+],
+  "geometry": {"coordinates":[-115.15649500000001,36.142234],"type":"Point"}
 }

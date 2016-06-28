@@ -2,13 +2,14 @@
   "id": 354158493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243162,36.122173,-115.243162,36.122173",
     "geom:latitude":36.122173,
     "geom:longitude":-115.243162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3685 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354158493,
-    "wof:lastmodified":1449067106,
+    "wof:lastmodified":1466704759,
     "wof:name":"24 Hour",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.243162,36.122173,-115.243162,36.122173],
+  "bbox": [
+    -115.243162,
+    36.122173,
+    -115.243162,
+    36.122173
+],
   "geometry": {"coordinates":[-115.243162,36.122173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236820961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213158,36.096876,-115.213158,36.096876",
     "geom:latitude":36.096876,
     "geom:longitude":-115.213158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5225 W Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236820961,
-    "wof:lastmodified":1449003341,
+    "wof:lastmodified":1466706695,
     "wof:name":"As Is Productions",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.213158,36.096876,-115.213158,36.096876],
-  "geometry": {"coordinates":[-115.213158,36.096876],"type":"Point"}
+  "bbox": [
+    -115.213158,
+    36.096876,
+    -115.213158,
+    36.096876
+],
+  "geometry": {"coordinates":[-115.21315800000001,36.096876],"type":"Point"}
 }

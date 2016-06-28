@@ -2,13 +2,14 @@
   "id": 236389151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.99345,35.999068,-114.99345,35.999068",
     "geom:latitude":35.999068,
     "geom:longitude":-114.99345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"779 Wigan Pier Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236389151,
-    "wof:lastmodified":1449004434,
+    "wof:lastmodified":1466705180,
     "wof:name":"Best Janitorial",
     "wof:parent_id":85878113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-114.99345,35.999068,-114.99345,35.999068],
+  "bbox": [
+    -114.99345,
+    35.999068,
+    -114.99345,
+    35.999068
+],
   "geometry": {"coordinates":[-114.99345,35.999068],"type":"Point"}
 }

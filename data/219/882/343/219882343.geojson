@@ -2,13 +2,14 @@
   "id": 219882343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802638,39.527439,-119.802638,39.527439",
     "geom:latitude":39.527439,
     "geom:longitude":-119.802638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219882343,
-    "wof:lastmodified":1449071025,
+    "wof:lastmodified":1466705544,
     "wof:name":"Conley & Assoc Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.802638,39.527439,-119.802638,39.527439],
+  "bbox": [
+    -119.802638,
+    39.527439,
+    -119.802638,
+    39.527439
+],
   "geometry": {"coordinates":[-119.802638,39.527439],"type":"Point"}
 }

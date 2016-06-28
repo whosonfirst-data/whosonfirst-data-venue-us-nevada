@@ -2,13 +2,14 @@
   "id": 236060219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.864418,39.258113,-114.864418,39.258113",
     "geom:latitude":39.258113,
     "geom:longitude":-114.864418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 E 13th St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236060219,
-    "wof:lastmodified":1449004890,
+    "wof:lastmodified":1466703985,
     "wof:name":"Little Peoples Hd Start/Wic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-114.864418,39.258113,-114.864418,39.258113],
+  "bbox": [
+    -114.864418,
+    39.258113,
+    -114.864418,
+    39.258113
+],
   "geometry": {"coordinates":[-114.864418,39.258113],"type":"Point"}
 }

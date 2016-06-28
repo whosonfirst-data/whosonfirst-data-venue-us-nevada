@@ -2,13 +2,14 @@
   "id": 354147387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185449,36.124301,-115.185449,36.124301",
     "geom:latitude":36.124301,
     "geom:longitude":-115.185449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3560 Polaris Avenue Suite 21",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354147387,
-    "wof:lastmodified":1449067486,
+    "wof:lastmodified":1466704505,
     "wof:name":"Land Developing & Housing",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.185449,36.124301,-115.185449,36.124301],
-  "geometry": {"coordinates":[-115.185449,36.124301],"type":"Point"}
+  "bbox": [
+    -115.185449,
+    36.124301,
+    -115.185449,
+    36.124301
+],
+  "geometry": {"coordinates":[-115.18544900000001,36.124301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219944101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158834,36.152481,-115.158834,36.152481",
     "geom:latitude":36.152481,
     "geom:longitude":-115.158834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Wyoming Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219944101,
-    "wof:lastmodified":1449072147,
+    "wof:lastmodified":1466705852,
     "wof:name":"A Welding Shop",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.158834,36.152481,-115.158834,36.152481],
+  "bbox": [
+    -115.158834,
+    36.152481,
+    -115.158834,
+    36.152481
+],
   "geometry": {"coordinates":[-115.158834,36.152481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219675209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.186703,38.891781,-119.186703,38.891781",
     "geom:latitude":38.891781,
     "geom:longitude":-119.186703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 State Hwy 339",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219675209,
-    "wof:lastmodified":1449072180,
+    "wof:lastmodified":1466704281,
     "wof:name":"Mason Stow All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-119.186703,38.891781,-119.186703,38.891781],
-  "geometry": {"coordinates":[-119.186703,38.891781],"type":"Point"}
+  "bbox": [
+    -119.186703,
+    38.891781,
+    -119.186703,
+    38.891781
+],
+  "geometry": {"coordinates":[-119.18670299999999,38.891781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220164479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262121,36.070194,-115.262121,36.070194",
     "geom:latitude":36.070194,
     "geom:longitude":-115.262121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8379 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220164479,
-    "wof:lastmodified":1449074128,
+    "wof:lastmodified":1466702848,
     "wof:name":"Keep Memory Alive",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-115.262121,36.070194,-115.262121,36.070194],
-  "geometry": {"coordinates":[-115.262121,36.070194],"type":"Point"}
+  "bbox": [
+    -115.262121,
+    36.070194,
+    -115.262121,
+    36.070194
+],
+  "geometry": {"coordinates":[-115.26212099999999,36.070194],"type":"Point"}
 }

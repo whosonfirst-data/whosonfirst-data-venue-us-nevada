@@ -2,13 +2,14 @@
   "id": 236710451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.785111,40.837523,-115.785111,40.837523",
     "geom:latitude":40.837523,
     "geom:longitude":-115.785111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spruce Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236710451,
-    "wof:lastmodified":1449001831,
+    "wof:lastmodified":1466706500,
     "wof:name":"Walsh Reclamation Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-115.785111,40.837523,-115.785111,40.837523],
+  "bbox": [
+    -115.785111,
+    40.837523,
+    -115.785111,
+    40.837523
+],
   "geometry": {"coordinates":[-115.785111,40.837523],"type":"Point"}
 }

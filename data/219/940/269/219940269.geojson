@@ -2,13 +2,14 @@
   "id": 219940269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.990892,36.212374,-115.990892,36.212374",
     "geom:latitude":36.212374,
     "geom:longitude":-115.990892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Wilson Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219940269,
-    "wof:lastmodified":1449071258,
+    "wof:lastmodified":1466705688,
     "wof:name":"Manse Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.990892,36.212374,-115.990892,36.212374],
+  "bbox": [
+    -115.990892,
+    36.212374,
+    -115.990892,
+    36.212374
+],
   "geometry": {"coordinates":[-115.990892,36.212374],"type":"Point"}
 }

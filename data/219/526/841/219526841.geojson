@@ -2,13 +2,14 @@
   "id": 219526841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.345244,36.138753,-115.345244,36.138753",
     "geom:latitude":36.138753,
     "geom:longitude":-115.345244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2766 Evening Rock St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219526841,
-    "wof:lastmodified":1449071477,
+    "wof:lastmodified":1466701798,
     "wof:name":"Office Dynamics LTD",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-115.345244,36.138753,-115.345244,36.138753],
-  "geometry": {"coordinates":[-115.345244,36.138753],"type":"Point"}
+  "bbox": [
+    -115.345244,
+    36.138753,
+    -115.345244,
+    36.138753
+],
+  "geometry": {"coordinates":[-115.34524399999999,36.138753],"type":"Point"}
 }

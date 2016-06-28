@@ -2,13 +2,14 @@
   "id": 220083107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.703228,39.187785,-119.703228,39.187785",
     "geom:latitude":39.187785,
     "geom:longitude":-119.703228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3198 N Deer Run Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":220083107,
-    "wof:lastmodified":1449074402,
+    "wof:lastmodified":1466702276,
     "wof:name":"Tattoo Revolution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-119.703228,39.187785,-119.703228,39.187785],
+  "bbox": [
+    -119.703228,
+    39.187785,
+    -119.703228,
+    39.187785
+],
   "geometry": {"coordinates":[-119.703228,39.187785],"type":"Point"}
 }

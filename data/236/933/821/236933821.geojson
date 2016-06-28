@@ -2,13 +2,14 @@
   "id": 236933821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73643,39.041141,-119.73643,39.041141",
     "geom:latitude":39.041141,
     "geom:longitude":-119.73643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1361 Stephanie Way",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236933821,
-    "wof:lastmodified":1449002186,
+    "wof:lastmodified":1466706920,
     "wof:name":"A One Window Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-119.73643,39.041141,-119.73643,39.041141],
+  "bbox": [
+    -119.73643,
+    39.041141,
+    -119.73643,
+    39.041141
+],
   "geometry": {"coordinates":[-119.73643,39.041141],"type":"Point"}
 }

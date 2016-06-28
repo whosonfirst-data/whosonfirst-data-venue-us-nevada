@@ -2,13 +2,14 @@
   "id": 203256995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825537,39.521096,-119.825537,39.521096",
     "geom:latitude":39.521096,
     "geom:longitude":-119.825537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Boyd Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203256995,
-    "wof:lastmodified":1449026389,
+    "wof:lastmodified":1466702553,
     "wof:name":"Personalized Home Health Care",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-119.825537,39.521096,-119.825537,39.521096],
+  "bbox": [
+    -119.825537,
+    39.521096,
+    -119.825537,
+    39.521096
+],
   "geometry": {"coordinates":[-119.825537,39.521096],"type":"Point"}
 }

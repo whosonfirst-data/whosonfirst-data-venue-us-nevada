@@ -2,13 +2,14 @@
   "id": 354043561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181782,36.222432,-115.181782,36.222432",
     "geom:latitude":36.222432,
     "geom:longitude":-115.181782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Edgehill Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":354043561,
-    "wof:lastmodified":1449067231,
+    "wof:lastmodified":1466702610,
     "wof:name":"Home School Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.181782,36.222432,-115.181782,36.222432],
+  "bbox": [
+    -115.181782,
+    36.222432,
+    -115.181782,
+    36.222432
+],
   "geometry": {"coordinates":[-115.181782,36.222432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236641775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251748,36.19377,-115.251748,36.19377",
     "geom:latitude":36.19377,
     "geom:longitude":-115.251748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Villa Vista Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236641775,
-    "wof:lastmodified":1449004292,
+    "wof:lastmodified":1466706369,
     "wof:name":"Ross Publications",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-115.251748,36.19377,-115.251748,36.19377],
-  "geometry": {"coordinates":[-115.251748,36.19377],"type":"Point"}
+  "bbox": [
+    -115.251748,
+    36.19377,
+    -115.251748,
+    36.19377
+],
+  "geometry": {"coordinates":[-115.25174800000001,36.19377],"type":"Point"}
 }

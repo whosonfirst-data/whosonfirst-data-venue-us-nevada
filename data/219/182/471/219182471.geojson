@@ -2,13 +2,14 @@
   "id": 219182471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.676326,40.787009,-115.676326,40.787009",
     "geom:latitude":40.787009,
     "geom:longitude":-115.676326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Spring Valley Ct",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219182471,
-    "wof:lastmodified":1449072615,
+    "wof:lastmodified":1466701952,
     "wof:name":"Khoury's Market Place",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-115.676326,40.787009,-115.676326,40.787009],
+  "bbox": [
+    -115.676326,
+    40.787009,
+    -115.676326,
+    40.787009
+],
   "geometry": {"coordinates":[-115.676326,40.787009],"type":"Point"}
 }

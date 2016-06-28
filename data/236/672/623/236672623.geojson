@@ -2,13 +2,14 @@
   "id": 236672623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759832,39.483395,-119.759832,39.483395",
     "geom:latitude":39.483395,
     "geom:longitude":-119.759832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Boynton Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236672623,
-    "wof:lastmodified":1449001837,
+    "wof:lastmodified":1466706428,
     "wof:name":"Lucky Lane Mobile Home Park",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-119.759832,39.483395,-119.759832,39.483395],
+  "bbox": [
+    -119.759832,
+    39.483395,
+    -119.759832,
+    39.483395
+],
   "geometry": {"coordinates":[-119.759832,39.483395],"type":"Point"}
 }

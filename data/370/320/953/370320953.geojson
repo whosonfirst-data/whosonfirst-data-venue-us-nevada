@@ -2,13 +2,14 @@
   "id": 370320953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794992,39.488905,-119.794992,39.488905",
     "geom:latitude":39.488905,
     "geom:longitude":-119.794992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":370320953,
-    "wof:lastmodified":1449029952,
+    "wof:lastmodified":1466704750,
     "wof:name":"Atlantis Casino Resort Spa",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.794992,39.488905,-119.794992,39.488905],
-  "geometry": {"coordinates":[-119.794992,39.488905],"type":"Point"}
+  "bbox": [
+    -119.794992,
+    39.488905,
+    -119.794992,
+    39.488905
+],
+  "geometry": {"coordinates":[-119.79499199999999,39.488905],"type":"Point"}
 }

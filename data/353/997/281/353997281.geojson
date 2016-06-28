@@ -2,13 +2,14 @@
   "id": 353997281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043123,36.069802,-115.043123,36.069802",
     "geom:latitude":36.069802,
     "geom:longitude":-115.043123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Mall Ring Cir Suite 101",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353997281,
-    "wof:lastmodified":1449020380,
+    "wof:lastmodified":1466701790,
     "wof:name":"Schmutz Joseph R DDS",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-115.043123,36.069802,-115.043123,36.069802],
-  "geometry": {"coordinates":[-115.043123,36.069802],"type":"Point"}
+  "bbox": [
+    -115.043123,
+    36.069802,
+    -115.043123,
+    36.069802
+],
+  "geometry": {"coordinates":[-115.04312299999999,36.069802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236842725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.234955,36.259602,-115.234955,36.259602",
     "geom:latitude":36.259602,
     "geom:longitude":-115.234955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 Blacklion Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236842725,
-    "wof:lastmodified":1449001856,
+    "wof:lastmodified":1466706817,
     "wof:name":"Unique Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.234955,36.259602,-115.234955,36.259602],
+  "bbox": [
+    -115.234955,
+    36.259602,
+    -115.234955,
+    36.259602
+],
   "geometry": {"coordinates":[-115.234955,36.259602],"type":"Point"}
 }

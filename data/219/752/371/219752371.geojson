@@ -2,13 +2,14 @@
   "id": 219752371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054951,36.209901,-115.054951,36.209901",
     "geom:latitude":36.209901,
     "geom:longitude":-115.054951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5488 Reflex Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219752371,
-    "wof:lastmodified":1449070978,
+    "wof:lastmodified":1466704791,
     "wof:name":"J D Russel Co Duraedge",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-115.054951,36.209901,-115.054951,36.209901],
+  "bbox": [
+    -115.054951,
+    36.209901,
+    -115.054951,
+    36.209901
+],
   "geometry": {"coordinates":[-115.054951,36.209901],"type":"Point"}
 }

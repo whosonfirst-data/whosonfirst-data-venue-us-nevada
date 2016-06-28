@@ -2,13 +2,14 @@
   "id": 203367365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.849261,35.977469,-114.849261,35.977469",
     "geom:latitude":35.977469,
     "geom:longitude":-114.849261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Industrial Rd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203367365,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1466703210,
     "wof:name":"A-1 Truck Driver Training",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-114.849261,35.977469,-114.849261,35.977469],
+  "bbox": [
+    -114.849261,
+    35.977469,
+    -114.849261,
+    35.977469
+],
   "geometry": {"coordinates":[-114.849261,35.977469],"type":"Point"}
 }

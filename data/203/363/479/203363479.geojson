@@ -2,13 +2,14 @@
   "id": 203363479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262714,36.210454,-115.262714,36.210454",
     "geom:latitude":36.210454,
     "geom:longitude":-115.262714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7608 Hudson Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203363479,
-    "wof:lastmodified":1449026638,
+    "wof:lastmodified":1466703191,
     "wof:name":"Tantis Pottery",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-115.262714,36.210454,-115.262714,36.210454],
+  "bbox": [
+    -115.262714,
+    36.210454,
+    -115.262714,
+    36.210454
+],
   "geometry": {"coordinates":[-115.262714,36.210454],"type":"Point"}
 }

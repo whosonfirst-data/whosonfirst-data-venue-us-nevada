@@ -2,13 +2,14 @@
   "id": 236961325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172667,36.159803,-115.172667,36.159803",
     "geom:latitude":36.159803,
     "geom:longitude":-115.172667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236961325,
-    "wof:lastmodified":1449005171,
+    "wof:lastmodified":1466706943,
     "wof:name":"Access Legal Protection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-115.172667,36.159803,-115.172667,36.159803],
+  "bbox": [
+    -115.172667,
+    36.159803,
+    -115.172667,
+    36.159803
+],
   "geometry": {"coordinates":[-115.172667,36.159803],"type":"Point"}
 }

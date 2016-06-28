@@ -2,13 +2,14 @@
   "id": 236792649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207385,36.129919,-115.207385,36.129919",
     "geom:latitude":36.129919,
     "geom:longitude":-115.207385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4855 W Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236792649,
-    "wof:lastmodified":1449002208,
+    "wof:lastmodified":1466706648,
     "wof:name":"Valley Memorial Crematory",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-115.207385,36.129919,-115.207385,36.129919],
+  "bbox": [
+    -115.207385,
+    36.129919,
+    -115.207385,
+    36.129919
+],
   "geometry": {"coordinates":[-115.207385,36.129919],"type":"Point"}
 }

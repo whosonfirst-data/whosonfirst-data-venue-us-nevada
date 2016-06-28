@@ -2,13 +2,14 @@
   "id": 370233787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224998,36.1334,-115.224998,36.1334",
     "geom:latitude":36.1334,
     "geom:longitude":-115.224998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370233787,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1466703333,
     "wof:name":"Mdl Group",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "property"
     ]
 },
-  "bbox": [-115.224998,36.1334,-115.224998,36.1334],
+  "bbox": [
+    -115.224998,
+    36.1334,
+    -115.224998,
+    36.1334
+],
   "geometry": {"coordinates":[-115.224998,36.1334],"type":"Point"}
 }

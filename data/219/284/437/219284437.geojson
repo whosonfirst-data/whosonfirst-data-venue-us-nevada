@@ -2,13 +2,14 @@
   "id": 219284437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046126,36.058011,-115.046126,36.058011",
     "geom:latitude":36.058011,
     "geom:longitude":-115.046126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219284437,
-    "wof:lastmodified":1449072590,
+    "wof:lastmodified":1466702890,
     "wof:name":"Seasons & Reasons",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.046126,36.058011,-115.046126,36.058011],
+  "bbox": [
+    -115.046126,
+    36.058011,
+    -115.046126,
+    36.058011
+],
   "geometry": {"coordinates":[-115.046126,36.058011],"type":"Point"}
 }

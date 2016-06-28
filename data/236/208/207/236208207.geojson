@@ -2,13 +2,14 @@
   "id": 236208207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.213247,39.062112,-119.213247,39.062112",
     "geom:latitude":39.062112,
     "geom:longitude":-119.213247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Sunset Hills Dr",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236208207,
-    "wof:lastmodified":1449001966,
+    "wof:lastmodified":1466703737,
     "wof:name":"Allied Sanitation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.213247,39.062112,-119.213247,39.062112],
+  "bbox": [
+    -119.213247,
+    39.062112,
+    -119.213247,
+    39.062112
+],
   "geometry": {"coordinates":[-119.213247,39.062112],"type":"Point"}
 }

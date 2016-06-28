@@ -2,13 +2,14 @@
   "id": 236554023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787913,39.522608,-119.787913,39.522608",
     "geom:latitude":39.522608,
     "geom:longitude":-119.787913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Sunshine Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236554023,
-    "wof:lastmodified":1449002190,
+    "wof:lastmodified":1466705974,
     "wof:name":"Reno Brake Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brakes"
     ]
 },
-  "bbox": [-119.787913,39.522608,-119.787913,39.522608],
+  "bbox": [
+    -119.787913,
+    39.522608,
+    -119.787913,
+    39.522608
+],
   "geometry": {"coordinates":[-119.787913,39.522608],"type":"Point"}
 }

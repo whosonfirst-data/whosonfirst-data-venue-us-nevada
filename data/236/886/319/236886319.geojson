@@ -2,13 +2,14 @@
   "id": 236886319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.870841,39.250904,-114.870841,39.250904",
     "geom:latitude":39.250904,
     "geom:longitude":-114.870841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Park Ave",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236886319,
-    "wof:lastmodified":1449003490,
+    "wof:lastmodified":1466706783,
     "wof:name":"Twin Wok Restaurant",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.870841,39.250904,-114.870841,39.250904],
+  "bbox": [
+    -114.870841,
+    39.250904,
+    -114.870841,
+    39.250904
+],
   "geometry": {"coordinates":[-114.870841,39.250904],"type":"Point"}
 }

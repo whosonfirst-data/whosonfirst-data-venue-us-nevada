@@ -2,13 +2,14 @@
   "id": 236549629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195643,36.088223,-115.195643,36.088223",
     "geom:latitude":36.088223,
     "geom:longitude":-115.195643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 W Dewey Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236549629,
-    "wof:lastmodified":1449002372,
+    "wof:lastmodified":1466706072,
     "wof:name":"Water Products Distributors",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "durable"
     ]
 },
-  "bbox": [-115.195643,36.088223,-115.195643,36.088223],
+  "bbox": [
+    -115.195643,
+    36.088223,
+    -115.195643,
+    36.088223
+],
   "geometry": {"coordinates":[-115.195643,36.088223],"type":"Point"}
 }

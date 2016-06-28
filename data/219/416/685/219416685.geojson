@@ -2,13 +2,14 @@
   "id": 219416685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232951,36.092913,-115.232951,36.092913",
     "geom:latitude":36.092913,
     "geom:longitude":-115.232951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6447 Silver Dawn Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219416685,
-    "wof:lastmodified":1449071984,
+    "wof:lastmodified":1466703730,
     "wof:name":"SLK Eraser Inc",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.232951,36.092913,-115.232951,36.092913],
+  "bbox": [
+    -115.232951,
+    36.092913,
+    -115.232951,
+    36.092913
+],
   "geometry": {"coordinates":[-115.232951,36.092913],"type":"Point"}
 }

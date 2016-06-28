@@ -2,13 +2,14 @@
   "id": 203278733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.918,36.106584,-114.918,36.106584",
     "geom:latitude":36.106584,
     "geom:longitude":-114.918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Costa del Sol Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203278733,
-    "wof:lastmodified":1449025990,
+    "wof:lastmodified":1466702683,
     "wof:name":"Tutti Gelati",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-114.918,36.106584,-114.918,36.106584],
-  "geometry": {"coordinates":[-114.918,36.106584],"type":"Point"}
+  "bbox": [
+    -114.918,
+    36.106584,
+    -114.918,
+    36.106584
+],
+  "geometry": {"coordinates":[-114.91800000000001,36.106584],"type":"Point"}
 }

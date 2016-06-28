@@ -2,13 +2,14 @@
   "id": 236305951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28087,36.227845,-115.28087,36.227845",
     "geom:latitude":36.227845,
     "geom:longitude":-115.28087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8633 Copper Knoll Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236305951,
-    "wof:lastmodified":1449002052,
+    "wof:lastmodified":1466704601,
     "wof:name":"Monsoon Irrigation Inc",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-115.28087,36.227845,-115.28087,36.227845],
-  "geometry": {"coordinates":[-115.28087,36.227845],"type":"Point"}
+  "bbox": [
+    -115.28087,
+    36.227845,
+    -115.28087,
+    36.227845
+],
+  "geometry": {"coordinates":[-115.28086999999999,36.227845],"type":"Point"}
 }

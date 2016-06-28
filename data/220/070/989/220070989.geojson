@@ -2,13 +2,14 @@
   "id": 220070989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203204,36.159138,-115.203204,36.159138",
     "geom:latitude":36.159138,
     "geom:longitude":-115.203204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4676 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220070989,
-    "wof:lastmodified":1449074413,
+    "wof:lastmodified":1466702220,
     "wof:name":"Alpha Medical Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.203204,36.159138,-115.203204,36.159138],
+  "bbox": [
+    -115.203204,
+    36.159138,
+    -115.203204,
+    36.159138
+],
   "geometry": {"coordinates":[-115.203204,36.159138],"type":"Point"}
 }

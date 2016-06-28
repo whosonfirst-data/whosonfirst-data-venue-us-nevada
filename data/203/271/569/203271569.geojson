@@ -2,13 +2,14 @@
   "id": 203271569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744025,39.566019,-119.744025,39.566019",
     "geom:latitude":39.566019,
     "geom:longitude":-119.744025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3672 Hobart Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203271569,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466702647,
     "wof:name":"Woods Publishing Svc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-119.744025,39.566019,-119.744025,39.566019],
-  "geometry": {"coordinates":[-119.744025,39.566019],"type":"Point"}
+  "bbox": [
+    -119.744025,
+    39.566019,
+    -119.744025,
+    39.566019
+],
+  "geometry": {"coordinates":[-119.74402499999999,39.566019],"type":"Point"}
 }

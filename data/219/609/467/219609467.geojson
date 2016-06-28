@@ -2,13 +2,14 @@
   "id": 219609467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116836,36.246068,-115.116836,36.246068",
     "geom:latitude":36.246068,
     "geom:longitude":-115.116836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219609467,
-    "wof:lastmodified":1449071701,
+    "wof:lastmodified":1466703082,
     "wof:name":"Saint John Ent Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-115.116836,36.246068,-115.116836,36.246068],
-  "geometry": {"coordinates":[-115.116836,36.246068],"type":"Point"}
+  "bbox": [
+    -115.116836,
+    36.246068,
+    -115.116836,
+    36.246068
+],
+  "geometry": {"coordinates":[-115.11683600000001,36.246068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370326821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798659,39.489761,-119.798659,39.489761",
     "geom:latitude":39.489761,
     "geom:longitude":-119.798659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3590 Baker Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370326821,
-    "wof:lastmodified":1449030525,
+    "wof:lastmodified":1466704672,
     "wof:name":"Rhapsody",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.798659,39.489761,-119.798659,39.489761],
+  "bbox": [
+    -119.798659,
+    39.489761,
+    -119.798659,
+    39.489761
+],
   "geometry": {"coordinates":[-119.798659,39.489761],"type":"Point"}
 }

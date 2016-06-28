@@ -2,13 +2,14 @@
   "id": 219455021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731037,39.527181,-119.731037,39.527181",
     "geom:latitude":39.527181,
     "geom:longitude":-119.731037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219455021,
-    "wof:lastmodified":1449073349,
+    "wof:lastmodified":1466704257,
     "wof:name":"D M Morrin Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.731037,39.527181,-119.731037,39.527181],
+  "bbox": [
+    -119.731037,
+    39.527181,
+    -119.731037,
+    39.527181
+],
   "geometry": {"coordinates":[-119.731037,39.527181],"type":"Point"}
 }

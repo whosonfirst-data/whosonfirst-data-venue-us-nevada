@@ -2,13 +2,14 @@
   "id": 236234051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.641211,38.93569,-119.641211,38.93569",
     "geom:latitude":38.93569,
     "geom:longitude":-119.641211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2336 Jacobsen Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236234051,
-    "wof:lastmodified":1449005033,
+    "wof:lastmodified":1466704286,
     "wof:name":"Northern Nevada Home Pro Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-119.641211,38.93569,-119.641211,38.93569],
+  "bbox": [
+    -119.641211,
+    38.93569,
+    -119.641211,
+    38.93569
+],
   "geometry": {"coordinates":[-119.641211,38.93569],"type":"Point"}
 }

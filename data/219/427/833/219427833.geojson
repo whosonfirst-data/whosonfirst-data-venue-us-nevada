@@ -2,13 +2,14 @@
   "id": 219427833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102838,36.1868,-115.102838,36.1868",
     "geom:latitude":36.1868,
     "geom:longitude":-115.102838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3297 Lava Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219427833,
-    "wof:lastmodified":1449071462,
+    "wof:lastmodified":1466703771,
     "wof:name":"Cals Auto Electric",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.102838,36.1868,-115.102838,36.1868],
-  "geometry": {"coordinates":[-115.102838,36.1868],"type":"Point"}
+  "bbox": [
+    -115.102838,
+    36.1868,
+    -115.102838,
+    36.1868
+],
+  "geometry": {"coordinates":[-115.10283800000001,36.1868],"type":"Point"}
 }

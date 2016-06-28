@@ -2,13 +2,14 @@
   "id": 354005051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.052247,36.065592,-115.052247,36.065592",
     "geom:latitude":36.065592,
     "geom:longitude":-115.052247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Whitney Ranch Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354005051,
-    "wof:lastmodified":1449067530,
+    "wof:lastmodified":1466701588,
     "wof:name":"Dyane Jeffers",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.052247,36.065592,-115.052247,36.065592],
-  "geometry": {"coordinates":[-115.052247,36.065592],"type":"Point"}
+  "bbox": [
+    -115.052247,
+    36.065592,
+    -115.052247,
+    36.065592
+],
+  "geometry": {"coordinates":[-115.05224699999999,36.065592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236406219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148247,36.137256,-115.148247,36.137256",
     "geom:latitude":36.137256,
     "geom:longitude":-115.148247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 Oakmont Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236406219,
-    "wof:lastmodified":1449003423,
+    "wof:lastmodified":1466705391,
     "wof:name":"Dento Art Of Japan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "information"
     ]
 },
-  "bbox": [-115.148247,36.137256,-115.148247,36.137256],
+  "bbox": [
+    -115.148247,
+    36.137256,
+    -115.148247,
+    36.137256
+],
   "geometry": {"coordinates":[-115.148247,36.137256],"type":"Point"}
 }

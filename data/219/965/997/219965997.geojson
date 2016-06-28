@@ -2,13 +2,14 @@
   "id": 219965997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14017,36.158846,-115.14017,36.158846",
     "geom:latitude":36.158846,
     "geom:longitude":-115.14017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219965997,
-    "wof:lastmodified":1449072861,
+    "wof:lastmodified":1466706042,
     "wof:name":"S M & A Outreach Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.14017,36.158846,-115.14017,36.158846],
+  "bbox": [
+    -115.14017,
+    36.158846,
+    -115.14017,
+    36.158846
+],
   "geometry": {"coordinates":[-115.14017,36.158846],"type":"Point"}
 }

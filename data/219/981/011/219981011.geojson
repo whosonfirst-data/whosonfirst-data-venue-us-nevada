@@ -2,13 +2,14 @@
   "id": 219981011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129303,36.049717,-115.129303,36.049717",
     "geom:latitude":36.049717,
     "geom:longitude":-115.129303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1567 E Robindale Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219981011,
-    "wof:lastmodified":1449073992,
+    "wof:lastmodified":1466705976,
     "wof:name":"Steven Coxson Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.129303,36.049717,-115.129303,36.049717],
-  "geometry": {"coordinates":[-115.129303,36.049717],"type":"Point"}
+  "bbox": [
+    -115.129303,
+    36.049717,
+    -115.129303,
+    36.049717
+],
+  "geometry": {"coordinates":[-115.12930299999999,36.049717],"type":"Point"}
 }

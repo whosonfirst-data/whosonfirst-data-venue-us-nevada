@@ -2,13 +2,14 @@
   "id": 220192789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784018,39.083746,-119.784018,39.083746",
     "geom:latitude":39.083746,
     "geom:longitude":-119.784018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"881 Amador Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220192789,
-    "wof:lastmodified":1449074620,
+    "wof:lastmodified":1466703039,
     "wof:name":"Neumann Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.784018,39.083746,-119.784018,39.083746],
+  "bbox": [
+    -119.784018,
+    39.083746,
+    -119.784018,
+    39.083746
+],
   "geometry": {"coordinates":[-119.784018,39.083746],"type":"Point"}
 }

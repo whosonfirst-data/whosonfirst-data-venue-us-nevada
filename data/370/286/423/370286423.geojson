@@ -2,13 +2,14 @@
   "id": 370286423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.138336,36.122151,-115.138336,36.122151",
     "geom:latitude":36.122151,
     "geom:longitude":-115.138336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 E Twain Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370286423,
-    "wof:lastmodified":1449029986,
+    "wof:lastmodified":1466704261,
     "wof:name":"Smoke For Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.138336,36.122151,-115.138336,36.122151],
+  "bbox": [
+    -115.138336,
+    36.122151,
+    -115.138336,
+    36.122151
+],
   "geometry": {"coordinates":[-115.138336,36.122151],"type":"Point"}
 }

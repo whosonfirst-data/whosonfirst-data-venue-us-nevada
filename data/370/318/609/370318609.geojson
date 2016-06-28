@@ -2,13 +2,14 @@
   "id": 370318609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789147,39.515569,-119.789147,39.515569",
     "geom:latitude":39.515569,
     "geom:longitude":-119.789147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370318609,
-    "wof:lastmodified":1449029844,
+    "wof:lastmodified":1466704717,
     "wof:name":"Debsmart",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-119.789147,39.515569,-119.789147,39.515569],
+  "bbox": [
+    -119.789147,
+    39.515569,
+    -119.789147,
+    39.515569
+],
   "geometry": {"coordinates":[-119.789147,39.515569],"type":"Point"}
 }

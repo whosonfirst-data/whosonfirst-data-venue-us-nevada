@@ -2,13 +2,14 @@
   "id": 219499509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.832079,39.604249,-119.832079,39.604249",
     "geom:latitude":39.604249,
     "geom:longitude":-119.832079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Golden West Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219499509,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466704161,
     "wof:name":"James F Ewing",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-119.832079,39.604249,-119.832079,39.604249],
-  "geometry": {"coordinates":[-119.832079,39.604249],"type":"Point"}
+  "bbox": [
+    -119.832079,
+    39.604249,
+    -119.832079,
+    39.604249
+],
+  "geometry": {"coordinates":[-119.83207899999999,39.604249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354342045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176653,36.071935,-115.176653,36.071935",
     "geom:latitude":36.071935,
     "geom:longitude":-115.176653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 Windy St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354342045,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1466706099,
     "wof:name":"Red Rock Renal Care",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.176653,36.071935,-115.176653,36.071935],
+  "bbox": [
+    -115.176653,
+    36.071935,
+    -115.176653,
+    36.071935
+],
   "geometry": {"coordinates":[-115.176653,36.071935],"type":"Point"}
 }

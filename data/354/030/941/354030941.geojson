@@ -2,13 +2,14 @@
   "id": 354030941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118958,36.217432,-115.118958,36.217432",
     "geom:latitude":36.217432,
     "geom:longitude":-115.118958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 E Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354030941,
-    "wof:lastmodified":1449066541,
+    "wof:lastmodified":1466702303,
     "wof:name":"Nevada Nails & Spa",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.118958,36.217432,-115.118958,36.217432],
-  "geometry": {"coordinates":[-115.118958,36.217432],"type":"Point"}
+  "bbox": [
+    -115.118958,
+    36.217432,
+    -115.118958,
+    36.217432
+],
+  "geometry": {"coordinates":[-115.11895800000001,36.217432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354362917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172473,36.069724,-115.172473,36.069724",
     "geom:latitude":36.069724,
     "geom:longitude":-115.172473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Town Square 6569 Las Vegas Blvd S., Suite 158",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354362917,
-    "wof:lastmodified":1449067070,
+    "wof:lastmodified":1466705946,
     "wof:name":"Blend Boutique",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.172473,36.069724,-115.172473,36.069724],
+  "bbox": [
+    -115.172473,
+    36.069724,
+    -115.172473,
+    36.069724
+],
   "geometry": {"coordinates":[-115.172473,36.069724],"type":"Point"}
 }

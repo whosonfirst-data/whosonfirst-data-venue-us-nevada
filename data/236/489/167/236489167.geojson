@@ -2,13 +2,14 @@
   "id": 236489167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069698,36.14508,-115.069698,36.14508",
     "geom:latitude":36.14508,
     "geom:longitude":-115.069698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4890 E Cincinnati Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236489167,
-    "wof:lastmodified":1449003464,
+    "wof:lastmodified":1466705870,
     "wof:name":"Mathias Communications",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.069698,36.14508,-115.069698,36.14508],
+  "bbox": [
+    -115.069698,
+    36.14508,
+    -115.069698,
+    36.14508
+],
   "geometry": {"coordinates":[-115.069698,36.14508],"type":"Point"}
 }

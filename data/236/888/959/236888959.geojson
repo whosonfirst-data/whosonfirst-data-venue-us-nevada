@@ -2,13 +2,14 @@
   "id": 236888959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242834,36.14161,-115.242834,36.14161",
     "geom:latitude":36.14161,
     "geom:longitude":-115.242834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236888959,
-    "wof:lastmodified":1449003756,
+    "wof:lastmodified":1466706803,
     "wof:name":"Distinctive Design Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.242834,36.14161,-115.242834,36.14161],
+  "bbox": [
+    -115.242834,
+    36.14161,
+    -115.242834,
+    36.14161
+],
   "geometry": {"coordinates":[-115.242834,36.14161],"type":"Point"}
 }

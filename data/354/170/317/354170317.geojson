@@ -2,13 +2,14 @@
   "id": 354170317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082167,36.144252,-115.082167,36.144252",
     "geom:latitude":36.144252,
     "geom:longitude":-115.082167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 E Sahara Suite 08",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354170317,
-    "wof:lastmodified":1449066082,
+    "wof:lastmodified":1466704824,
     "wof:name":"HD Installers: Home Theater Installation",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.082167,36.144252,-115.082167,36.144252],
+  "bbox": [
+    -115.082167,
+    36.144252,
+    -115.082167,
+    36.144252
+],
   "geometry": {"coordinates":[-115.082167,36.144252],"type":"Point"}
 }

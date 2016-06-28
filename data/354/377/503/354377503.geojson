@@ -2,13 +2,14 @@
   "id": 354377503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102349,36.100111,-115.102349,36.100111",
     "geom:latitude":36.100111,
     "geom:longitude":-115.102349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 E Tropicana Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354377503,
-    "wof:lastmodified":1449066559,
+    "wof:lastmodified":1466706279,
     "wof:name":"Advanced Guitar & Amp Repair",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-115.102349,36.100111,-115.102349,36.100111],
+  "bbox": [
+    -115.102349,
+    36.100111,
+    -115.102349,
+    36.100111
+],
   "geometry": {"coordinates":[-115.102349,36.100111],"type":"Point"}
 }

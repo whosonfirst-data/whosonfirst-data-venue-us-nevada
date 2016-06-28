@@ -2,13 +2,14 @@
   "id": 219552127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726049,38.923976,-119.726049,38.923976",
     "geom:latitude":38.923976,
     "geom:longitude":-119.726049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1191 Service Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219552127,
-    "wof:lastmodified":1449071862,
+    "wof:lastmodified":1466702269,
     "wof:name":"Carson Valley Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.726049,38.923976,-119.726049,38.923976],
+  "bbox": [
+    -119.726049,
+    38.923976,
+    -119.726049,
+    38.923976
+],
   "geometry": {"coordinates":[-119.726049,38.923976],"type":"Point"}
 }

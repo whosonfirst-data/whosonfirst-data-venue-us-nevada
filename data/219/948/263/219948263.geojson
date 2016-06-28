@@ -2,13 +2,14 @@
   "id": 219948263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279233,36.105473,-115.279233,36.105473",
     "geom:latitude":36.105473,
     "geom:longitude":-115.279233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 S Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219948263,
-    "wof:lastmodified":1449073202,
+    "wof:lastmodified":1466705764,
     "wof:name":"Colorado Landscape",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.279233,36.105473,-115.279233,36.105473],
+  "bbox": [
+    -115.279233,
+    36.105473,
+    -115.279233,
+    36.105473
+],
   "geometry": {"coordinates":[-115.279233,36.105473],"type":"Point"}
 }

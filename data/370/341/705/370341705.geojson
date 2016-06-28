@@ -2,13 +2,14 @@
   "id": 370341705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762716,39.164677,-119.762716,39.164677",
     "geom:latitude":39.164677,
     "geom:longitude":-119.762716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 E Musser St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370341705,
-    "wof:lastmodified":1449032323,
+    "wof:lastmodified":1466704848,
     "wof:name":"Carson City School District",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-119.762716,39.164677,-119.762716,39.164677],
+  "bbox": [
+    -119.762716,
+    39.164677,
+    -119.762716,
+    39.164677
+],
   "geometry": {"coordinates":[-119.762716,39.164677],"type":"Point"}
 }

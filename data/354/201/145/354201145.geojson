@@ -2,13 +2,14 @@
   "id": 354201145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209132,36.165903,-115.209132,36.165903",
     "geom:latitude":36.165903,
     "geom:longitude":-115.209132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5013 Alta Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354201145,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1466704919,
     "wof:name":"Executive Gaming",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hobby"
     ]
 },
-  "bbox": [-115.209132,36.165903,-115.209132,36.165903],
+  "bbox": [
+    -115.209132,
+    36.165903,
+    -115.209132,
+    36.165903
+],
   "geometry": {"coordinates":[-115.209132,36.165903],"type":"Point"}
 }

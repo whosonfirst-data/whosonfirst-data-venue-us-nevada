@@ -2,13 +2,14 @@
   "id": 220176047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208221,36.148405,-115.208221,36.148405",
     "geom:latitude":36.148405,
     "geom:longitude":-115.208221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220176047,
-    "wof:lastmodified":1449074582,
+    "wof:lastmodified":1466702924,
     "wof:name":"Llantera Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.208221,36.148405,-115.208221,36.148405],
-  "geometry": {"coordinates":[-115.208221,36.148405],"type":"Point"}
+  "bbox": [
+    -115.208221,
+    36.148405,
+    -115.208221,
+    36.148405
+],
+  "geometry": {"coordinates":[-115.20822099999999,36.148405],"type":"Point"}
 }

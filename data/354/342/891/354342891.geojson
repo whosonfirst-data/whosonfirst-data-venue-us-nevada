@@ -2,13 +2,14 @@
   "id": 354342891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137115,36.105272,-115.137115,36.105272",
     "geom:latitude":36.105272,
     "geom:longitude":-115.137115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4632 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354342891,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1466705983,
     "wof:name":"Yofrutto Frozen Yogurt",
     "wof:parent_id":85879729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-115.137115,36.105272,-115.137115,36.105272],
-  "geometry": {"coordinates":[-115.137115,36.105272],"type":"Point"}
+  "bbox": [
+    -115.137115,
+    36.105272,
+    -115.137115,
+    36.105272
+],
+  "geometry": {"coordinates":[-115.13711499999999,36.105272],"type":"Point"}
 }

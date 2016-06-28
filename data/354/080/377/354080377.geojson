@@ -2,13 +2,14 @@
   "id": 354080377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115997,36.187785,-115.115997,36.187785",
     "geom:latitude":36.187785,
     "geom:longitude":-115.115997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 N Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354080377,
-    "wof:lastmodified":1449067638,
+    "wof:lastmodified":1466703601,
     "wof:name":"Mins Gift World",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-115.115997,36.187785,-115.115997,36.187785],
-  "geometry": {"coordinates":[-115.115997,36.187785],"type":"Point"}
+  "bbox": [
+    -115.115997,
+    36.187785,
+    -115.115997,
+    36.187785
+],
+  "geometry": {"coordinates":[-115.11599699999999,36.187785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203318371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163509,36.239484,-115.163509,36.239484",
     "geom:latitude":36.239484,
     "geom:longitude":-115.163509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203318371,
-    "wof:lastmodified":1449025338,
+    "wof:lastmodified":1466702962,
     "wof:name":"Cheezteak Company",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.163509,36.239484,-115.163509,36.239484],
+  "bbox": [
+    -115.163509,
+    36.239484,
+    -115.163509,
+    36.239484
+],
   "geometry": {"coordinates":[-115.163509,36.239484],"type":"Point"}
 }

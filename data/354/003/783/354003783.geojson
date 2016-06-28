@@ -2,13 +2,14 @@
   "id": 354003783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.052305,36.056003,-115.052305,36.056003",
     "geom:latitude":36.056003,
     "geom:longitude":-115.052305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 W Warm Springs Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354003783,
-    "wof:lastmodified":1449067538,
+    "wof:lastmodified":1466701551,
     "wof:name":"Shine Dance Studio Performing Arts",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.052305,36.056003,-115.052305,36.056003],
+  "bbox": [
+    -115.052305,
+    36.056003,
+    -115.052305,
+    36.056003
+],
   "geometry": {"coordinates":[-115.052305,36.056003],"type":"Point"}
 }

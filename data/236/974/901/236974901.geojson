@@ -2,13 +2,14 @@
   "id": 236974901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.646137,39.210519,-119.646137,39.210519",
     "geom:latitude":39.210519,
     "geom:longitude":-119.646137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Jeanette Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236974901,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466706958,
     "wof:name":"Ponderosa Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-119.646137,39.210519,-119.646137,39.210519],
+  "bbox": [
+    -119.646137,
+    39.210519,
+    -119.646137,
+    39.210519
+],
   "geometry": {"coordinates":[-119.646137,39.210519],"type":"Point"}
 }

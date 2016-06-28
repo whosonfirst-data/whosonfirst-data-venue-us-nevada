@@ -2,13 +2,14 @@
   "id": 219713529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.579453,40.758017,-115.579453,40.758017",
     "geom:latitude":40.758017,
     "geom:longitude":-115.579453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Birchwood Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219713529,
-    "wof:lastmodified":1449073589,
+    "wof:lastmodified":1466704387,
     "wof:name":"High Wire Systems Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.579453,40.758017,-115.579453,40.758017],
+  "bbox": [
+    -115.579453,
+    40.758017,
+    -115.579453,
+    40.758017
+],
   "geometry": {"coordinates":[-115.579453,40.758017],"type":"Point"}
 }

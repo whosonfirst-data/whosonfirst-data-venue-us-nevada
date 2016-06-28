@@ -2,13 +2,14 @@
   "id": 219490087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.805943,39.467551,-118.805943,39.467551",
     "geom:latitude":39.467551,
     "geom:longitude":-118.805943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Birch Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219490087,
-    "wof:lastmodified":1449073563,
+    "wof:lastmodified":1466704106,
     "wof:name":"Winged Artistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.805943,39.467551,-118.805943,39.467551],
+  "bbox": [
+    -118.805943,
+    39.467551,
+    -118.805943,
+    39.467551
+],
   "geometry": {"coordinates":[-118.805943,39.467551],"type":"Point"}
 }

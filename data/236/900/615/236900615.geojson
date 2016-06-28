@@ -2,13 +2,14 @@
   "id": 236900615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.762773,39.46005,-118.762773,39.46005",
     "geom:latitude":39.46005,
     "geom:longitude":-118.762773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Harrigan Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236900615,
-    "wof:lastmodified":1449003006,
+    "wof:lastmodified":1466706700,
     "wof:name":"Flying M Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.762773,39.46005,-118.762773,39.46005],
+  "bbox": [
+    -118.762773,
+    39.46005,
+    -118.762773,
+    39.46005
+],
   "geometry": {"coordinates":[-118.762773,39.46005],"type":"Point"}
 }

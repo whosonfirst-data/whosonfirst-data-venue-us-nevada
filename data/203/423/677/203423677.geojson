@@ -2,13 +2,14 @@
   "id": 203423677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173058,36.110187,-115.173058,36.110187",
     "geom:latitude":36.110187,
     "geom:longitude":-115.173058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203423677,
-    "wof:lastmodified":1449025255,
+    "wof:lastmodified":1466703419,
     "wof:name":"Gates Radio & TV Reps",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-115.173058,36.110187,-115.173058,36.110187],
+  "bbox": [
+    -115.173058,
+    36.110187,
+    -115.173058,
+    36.110187
+],
   "geometry": {"coordinates":[-115.173058,36.110187],"type":"Point"}
 }

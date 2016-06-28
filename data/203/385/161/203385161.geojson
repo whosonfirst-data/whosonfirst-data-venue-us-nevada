@@ -2,13 +2,14 @@
   "id": 203385161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.994055,36.024359,-114.994055,36.024359",
     "geom:latitude":36.024359,
     "geom:longitude":-114.994055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Crestway Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203385161,
-    "wof:lastmodified":1449026074,
+    "wof:lastmodified":1466703270,
     "wof:name":"Bob's Construction",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "highway"
     ]
 },
-  "bbox": [-114.994055,36.024359,-114.994055,36.024359],
+  "bbox": [
+    -114.994055,
+    36.024359,
+    -114.994055,
+    36.024359
+],
   "geometry": {"coordinates":[-114.994055,36.024359],"type":"Point"}
 }

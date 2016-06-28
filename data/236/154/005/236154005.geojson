@@ -2,13 +2,14 @@
   "id": 236154005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75949,39.293627,-119.75949,39.293627",
     "geom:latitude":39.293627,
     "geom:longitude":-119.75949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Sparrow Way",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236154005,
-    "wof:lastmodified":1449005307,
+    "wof:lastmodified":1466702653,
     "wof:name":"Greg A Bailor Dry Wall & Paint",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.75949,39.293627,-119.75949,39.293627],
+  "bbox": [
+    -119.75949,
+    39.293627,
+    -119.75949,
+    39.293627
+],
   "geometry": {"coordinates":[-119.75949,39.293627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354016043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.945374,36.061306,-114.945374,36.061306",
     "geom:latitude":36.061306,
     "geom:longitude":-114.945374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 N Milan St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354016043,
-    "wof:lastmodified":1449066234,
+    "wof:lastmodified":1466701909,
     "wof:name":"Pioneer Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.945374,36.061306,-114.945374,36.061306],
+  "bbox": [
+    -114.945374,
+    36.061306,
+    -114.945374,
+    36.061306
+],
   "geometry": {"coordinates":[-114.945374,36.061306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354305417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269953,36.142373,-115.269953,36.142373",
     "geom:latitude":36.142373,
     "geom:longitude":-115.269953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 S Cimarron Road Suite 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354305417,
-    "wof:lastmodified":1449066191,
+    "wof:lastmodified":1466705637,
     "wof:name":"Aventina Salon & Spa",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.269953,36.142373,-115.269953,36.142373],
+  "bbox": [
+    -115.269953,
+    36.142373,
+    -115.269953,
+    36.142373
+],
   "geometry": {"coordinates":[-115.269953,36.142373],"type":"Point"}
 }

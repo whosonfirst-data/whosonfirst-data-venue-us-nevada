@@ -2,13 +2,14 @@
   "id": 370325861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807867,39.492538,-119.807867,39.492538",
     "geom:latitude":39.492538,
     "geom:longitude":-119.807867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3446 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370325861,
-    "wof:lastmodified":1449030414,
+    "wof:lastmodified":1466704649,
     "wof:name":"Zozo's Ristorante",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "italian"
     ]
 },
-  "bbox": [-119.807867,39.492538,-119.807867,39.492538],
+  "bbox": [
+    -119.807867,
+    39.492538,
+    -119.807867,
+    39.492538
+],
   "geometry": {"coordinates":[-119.807867,39.492538],"type":"Point"}
 }

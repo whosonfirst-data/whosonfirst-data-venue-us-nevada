@@ -2,13 +2,14 @@
   "id": 219264205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.713911,39.539225,-119.713911,39.539225",
     "geom:latitude":39.539225,
     "geom:longitude":-119.713911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Boxington Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":219264205,
-    "wof:lastmodified":1449072676,
+    "wof:lastmodified":1466702669,
     "wof:name":"Montroy Supply Company",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.713911,39.539225,-119.713911,39.539225],
+  "bbox": [
+    -119.713911,
+    39.539225,
+    -119.713911,
+    39.539225
+],
   "geometry": {"coordinates":[-119.713911,39.539225],"type":"Point"}
 }

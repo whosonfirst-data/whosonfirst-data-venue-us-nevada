@@ -2,13 +2,14 @@
   "id": 354076331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115577,36.171325,-115.115577,36.171325",
     "geom:latitude":36.171325,
     "geom:longitude":-115.115577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Eastern Ave Ste 130",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354076331,
-    "wof:lastmodified":1449067272,
+    "wof:lastmodified":1466703492,
     "wof:name":"Tortilleria San Diego",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.115577,36.171325,-115.115577,36.171325],
+  "bbox": [
+    -115.115577,
+    36.171325,
+    -115.115577,
+    36.171325
+],
   "geometry": {"coordinates":[-115.115577,36.171325],"type":"Point"}
 }

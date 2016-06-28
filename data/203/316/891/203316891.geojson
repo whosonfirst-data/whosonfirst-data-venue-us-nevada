@@ -2,13 +2,14 @@
   "id": 203316891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.95795,36.186866,-115.95795,36.186866",
     "geom:latitude":36.186866,
     "geom:longitude":-115.95795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203316891,
-    "wof:lastmodified":1449026264,
+    "wof:lastmodified":1466702961,
     "wof:name":"Remax Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.95795,36.186866,-115.95795,36.186866],
+  "bbox": [
+    -115.95795,
+    36.186866,
+    -115.95795,
+    36.186866
+],
   "geometry": {"coordinates":[-115.95795,36.186866],"type":"Point"}
 }

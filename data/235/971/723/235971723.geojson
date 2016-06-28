@@ -2,13 +2,14 @@
   "id": 235971723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199304,36.132879,-115.199304,36.132879",
     "geom:latitude":36.132879,
     "geom:longitude":-115.199304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235971723,
-    "wof:lastmodified":1449008428,
+    "wof:lastmodified":1466703626,
     "wof:name":"PDS",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-115.199304,36.132879,-115.199304,36.132879],
+  "bbox": [
+    -115.199304,
+    36.132879,
+    -115.199304,
+    36.132879
+],
   "geometry": {"coordinates":[-115.199304,36.132879],"type":"Point"}
 }

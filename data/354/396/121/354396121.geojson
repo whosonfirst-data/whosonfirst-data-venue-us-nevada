@@ -2,13 +2,14 @@
   "id": 354396121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118545,36.01751,-115.118545,36.01751",
     "geom:latitude":36.01751,
     "geom:longitude":-115.118545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9465 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354396121,
-    "wof:lastmodified":1449067094,
+    "wof:lastmodified":1466706256,
     "wof:name":"T-Bird Lounge",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "american"
     ]
 },
-  "bbox": [-115.118545,36.01751,-115.118545,36.01751],
+  "bbox": [
+    -115.118545,
+    36.01751,
+    -115.118545,
+    36.01751
+],
   "geometry": {"coordinates":[-115.118545,36.01751],"type":"Point"}
 }

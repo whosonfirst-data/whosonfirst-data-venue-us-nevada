@@ -2,13 +2,14 @@
   "id": 235941609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.944841,36.018224,-114.944841,36.018224",
     "geom:latitude":36.018224,
     "geom:longitude":-114.944841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Kennebunk Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235941609,
-    "wof:lastmodified":1449008449,
+    "wof:lastmodified":1466703484,
     "wof:name":"Tony Wymer",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.944841,36.018224,-114.944841,36.018224],
+  "bbox": [
+    -114.944841,
+    36.018224,
+    -114.944841,
+    36.018224
+],
   "geometry": {"coordinates":[-114.944841,36.018224],"type":"Point"}
 }

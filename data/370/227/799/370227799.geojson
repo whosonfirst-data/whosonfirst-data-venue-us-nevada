@@ -2,13 +2,14 @@
   "id": 370227799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243448,36.156812,-115.243448,36.156812",
     "geom:latitude":36.156812,
     "geom:longitude":-115.243448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370227799,
-    "wof:lastmodified":1449029844,
+    "wof:lastmodified":1466703217,
     "wof:name":"Fencing Academy of Nevada",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "life"
     ]
 },
-  "bbox": [-115.243448,36.156812,-115.243448,36.156812],
+  "bbox": [
+    -115.243448,
+    36.156812,
+    -115.243448,
+    36.156812
+],
   "geometry": {"coordinates":[-115.243448,36.156812],"type":"Point"}
 }

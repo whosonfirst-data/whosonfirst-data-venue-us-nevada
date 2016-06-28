@@ -2,13 +2,14 @@
   "id": 219365201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127811,36.158929,-115.127811,36.158929",
     "geom:latitude":36.158929,
     "geom:longitude":-115.127811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219365201,
-    "wof:lastmodified":1449070956,
+    "wof:lastmodified":1466703456,
     "wof:name":"Exodus Christian Fellowship",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.127811,36.158929,-115.127811,36.158929],
-  "geometry": {"coordinates":[-115.127811,36.158929],"type":"Point"}
+  "bbox": [
+    -115.127811,
+    36.158929,
+    -115.127811,
+    36.158929
+],
+  "geometry": {"coordinates":[-115.12781099999999,36.158929],"type":"Point"}
 }

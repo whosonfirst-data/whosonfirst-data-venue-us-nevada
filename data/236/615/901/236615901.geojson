@@ -2,13 +2,14 @@
   "id": 236615901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176768,36.072104,-115.176768,36.072104",
     "geom:latitude":36.072104,
     "geom:longitude":-115.176768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 Windy St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236615901,
-    "wof:lastmodified":1449002533,
+    "wof:lastmodified":1466706302,
     "wof:name":"Kenquest Medical",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.176768,36.072104,-115.176768,36.072104],
+  "bbox": [
+    -115.176768,
+    36.072104,
+    -115.176768,
+    36.072104
+],
   "geometry": {"coordinates":[-115.176768,36.072104],"type":"Point"}
 }

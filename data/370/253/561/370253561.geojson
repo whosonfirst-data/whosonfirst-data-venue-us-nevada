@@ -2,13 +2,14 @@
   "id": 370253561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242792,36.142298,-115.242792,36.142298",
     "geom:latitude":36.142298,
     "geom:longitude":-115.242792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S Rainbow Blvd Ste 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370253561,
-    "wof:lastmodified":1449032057,
+    "wof:lastmodified":1466703735,
     "wof:name":"Nevada Orthodontic Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-115.242792,36.142298,-115.242792,36.142298],
-  "geometry": {"coordinates":[-115.242792,36.142298],"type":"Point"}
+  "bbox": [
+    -115.242792,
+    36.142298,
+    -115.242792,
+    36.142298
+],
+  "geometry": {"coordinates":[-115.24279199999999,36.142298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203379725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.959618,36.012603,-114.959618,36.012603",
     "geom:latitude":36.012603,
     "geom:longitude":-114.959618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 E Horizon Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203379725,
-    "wof:lastmodified":1449026043,
+    "wof:lastmodified":1466703255,
     "wof:name":"Purrfect Auto Svc",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-114.959618,36.012603,-114.959618,36.012603],
-  "geometry": {"coordinates":[-114.959618,36.012603],"type":"Point"}
+  "bbox": [
+    -114.959618,
+    36.012603,
+    -114.959618,
+    36.012603
+],
+  "geometry": {"coordinates":[-114.95961800000001,36.012603],"type":"Point"}
 }

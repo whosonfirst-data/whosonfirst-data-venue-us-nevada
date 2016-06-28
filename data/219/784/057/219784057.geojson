@@ -2,13 +2,14 @@
   "id": 219784057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177852,36.131813,-115.177852,36.131813",
     "geom:latitude":36.131813,
     "geom:longitude":-115.177852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Capella Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219784057,
-    "wof:lastmodified":1449072744,
+    "wof:lastmodified":1466705128,
     "wof:name":"George D Lewis Co Inc",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-115.177852,36.131813,-115.177852,36.131813],
+  "bbox": [
+    -115.177852,
+    36.131813,
+    -115.177852,
+    36.131813
+],
   "geometry": {"coordinates":[-115.177852,36.131813],"type":"Point"}
 }

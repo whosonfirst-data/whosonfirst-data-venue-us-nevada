@@ -2,13 +2,14 @@
   "id": 370325533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811421,39.476609,-119.811421,39.476609",
     "geom:latitude":39.476609,
     "geom:longitude":-119.811421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6990 S Mccarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370325533,
-    "wof:lastmodified":1449030409,
+    "wof:lastmodified":1466704789,
     "wof:name":"Maza Salon & Spa",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.811421,39.476609,-119.811421,39.476609],
+  "bbox": [
+    -119.811421,
+    39.476609,
+    -119.811421,
+    39.476609
+],
   "geometry": {"coordinates":[-119.811421,39.476609],"type":"Point"}
 }

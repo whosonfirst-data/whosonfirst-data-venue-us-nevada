@@ -2,13 +2,14 @@
   "id": 219500113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.892898,39.248048,-114.892898,39.248048",
     "geom:latitude":39.248048,
     "geom:longitude":-114.892898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219500113,
-    "wof:lastmodified":1449071283,
+    "wof:lastmodified":1466704156,
     "wof:name":"Smoke Signals Tradingpost & G",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.892898,39.248048,-114.892898,39.248048],
+  "bbox": [
+    -114.892898,
+    39.248048,
+    -114.892898,
+    39.248048
+],
   "geometry": {"coordinates":[-114.892898,39.248048],"type":"Point"}
 }

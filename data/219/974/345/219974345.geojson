@@ -2,13 +2,14 @@
   "id": 219974345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.624641,38.529174,-118.624641,38.529174",
     "geom:latitude":38.529174,
     "geom:longitude":-118.624641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219974345,
-    "wof:lastmodified":1449073452,
+    "wof:lastmodified":1466706075,
     "wof:name":"Doggie Doos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-118.624641,38.529174,-118.624641,38.529174],
+  "bbox": [
+    -118.624641,
+    38.529174,
+    -118.624641,
+    38.529174
+],
   "geometry": {"coordinates":[-118.624641,38.529174],"type":"Point"}
 }

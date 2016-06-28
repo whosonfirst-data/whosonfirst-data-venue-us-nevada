@@ -2,13 +2,14 @@
   "id": 203331355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181363,36.07756,-115.181363,36.07756",
     "geom:latitude":36.07756,
     "geom:longitude":-115.181363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6265 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203331355,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466703033,
     "wof:name":"Forrest Hummer Tours",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-115.181363,36.07756,-115.181363,36.07756],
+  "bbox": [
+    -115.181363,
+    36.07756,
+    -115.181363,
+    36.07756
+],
   "geometry": {"coordinates":[-115.181363,36.07756],"type":"Point"}
 }

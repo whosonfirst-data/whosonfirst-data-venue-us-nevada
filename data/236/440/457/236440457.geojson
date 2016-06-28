@@ -2,13 +2,14 @@
   "id": 236440457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106461,36.129818,-115.106461,36.129818",
     "geom:latitude":36.129818,
     "geom:longitude":-115.106461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236440457,
-    "wof:lastmodified":1449002687,
+    "wof:lastmodified":1466705560,
     "wof:name":"Purified Water To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "bottled"
     ]
 },
-  "bbox": [-115.106461,36.129818,-115.106461,36.129818],
+  "bbox": [
+    -115.106461,
+    36.129818,
+    -115.106461,
+    36.129818
+],
   "geometry": {"coordinates":[-115.106461,36.129818],"type":"Point"}
 }

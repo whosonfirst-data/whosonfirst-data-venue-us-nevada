@@ -2,13 +2,14 @@
   "id": 370325711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807878,39.492052,-119.807878,39.492052",
     "geom:latitude":39.492052,
     "geom:longitude":-119.807878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3495 Lakeside Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":370325711,
-    "wof:lastmodified":1449030413,
+    "wof:lastmodified":1466704645,
     "wof:name":"Video Plus",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "tape"
     ]
 },
-  "bbox": [-119.807878,39.492052,-119.807878,39.492052],
+  "bbox": [
+    -119.807878,
+    39.492052,
+    -119.807878,
+    39.492052
+],
   "geometry": {"coordinates":[-119.807878,39.492052],"type":"Point"}
 }

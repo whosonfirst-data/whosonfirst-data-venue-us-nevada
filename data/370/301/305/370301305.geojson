@@ -2,13 +2,14 @@
   "id": 370301305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152461,36.013089,-115.152461,36.013089",
     "geom:latitude":36.013089,
     "geom:longitude":-115.152461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 E Silverado Ranch Blvd Ste 180",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370301305,
-    "wof:lastmodified":1449029959,
+    "wof:lastmodified":1466704463,
     "wof:name":"Smoke 4 U",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.152461,36.013089,-115.152461,36.013089],
+  "bbox": [
+    -115.152461,
+    36.013089,
+    -115.152461,
+    36.013089
+],
   "geometry": {"coordinates":[-115.152461,36.013089],"type":"Point"}
 }

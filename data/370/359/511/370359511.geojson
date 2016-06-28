@@ -2,13 +2,14 @@
   "id": 370359511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726997,39.183201,-119.726997,39.183201",
     "geom:latitude":39.183201,
     "geom:longitude":-119.726997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 Kit Sierra Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":370359511,
-    "wof:lastmodified":1449029017,
+    "wof:lastmodified":1466705062,
     "wof:name":"American Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "furniture"
     ]
 },
-  "bbox": [-119.726997,39.183201,-119.726997,39.183201],
+  "bbox": [
+    -119.726997,
+    39.183201,
+    -119.726997,
+    39.183201
+],
   "geometry": {"coordinates":[-119.726997,39.183201],"type":"Point"}
 }

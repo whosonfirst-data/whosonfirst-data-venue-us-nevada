@@ -2,13 +2,14 @@
   "id": 219203689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.914363,39.667935,-119.914363,39.667935",
     "geom:latitude":39.667935,
     "geom:longitude":-119.914363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11090 Cimarron Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219203689,
-    "wof:lastmodified":1449071963,
+    "wof:lastmodified":1466702091,
     "wof:name":"Sunquest Arabian",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.914363,39.667935,-119.914363,39.667935],
-  "geometry": {"coordinates":[-119.914363,39.667935],"type":"Point"}
+  "bbox": [
+    -119.914363,
+    39.667935,
+    -119.914363,
+    39.667935
+],
+  "geometry": {"coordinates":[-119.91436299999999,39.667935],"type":"Point"}
 }

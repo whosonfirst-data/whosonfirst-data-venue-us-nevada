@@ -2,13 +2,14 @@
   "id": 354279301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279179,36.05642,-115.279179,36.05642",
     "geom:latitude":36.05642,
     "geom:longitude":-115.279179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 S Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354279301,
-    "wof:lastmodified":1449066691,
+    "wof:lastmodified":1466705463,
     "wof:name":"Rosati's Pizza",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-115.279179,36.05642,-115.279179,36.05642],
+  "bbox": [
+    -115.279179,
+    36.05642,
+    -115.279179,
+    36.05642
+],
   "geometry": {"coordinates":[-115.279179,36.05642],"type":"Point"}
 }

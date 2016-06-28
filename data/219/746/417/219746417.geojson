@@ -2,13 +2,14 @@
   "id": 219746417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.83718,35.989962,-114.83718,35.989962",
     "geom:latitude":35.989962,
     "geom:longitude":-114.83718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Valencia Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219746417,
-    "wof:lastmodified":1449070350,
+    "wof:lastmodified":1466704740,
     "wof:name":"Besler Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.83718,35.989962,-114.83718,35.989962],
+  "bbox": [
+    -114.83718,
+    35.989962,
+    -114.83718,
+    35.989962
+],
   "geometry": {"coordinates":[-114.83718,35.989962],"type":"Point"}
 }

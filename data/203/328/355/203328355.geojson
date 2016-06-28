@@ -2,13 +2,14 @@
   "id": 203328355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218903,36.268955,-115.218903,36.268955",
     "geom:latitude":36.268955,
     "geom:longitude":-115.218903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Resort Ridge St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203328355,
-    "wof:lastmodified":1449026060,
+    "wof:lastmodified":1466703009,
     "wof:name":"Cardinal Landscape",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.218903,36.268955,-115.218903,36.268955],
+  "bbox": [
+    -115.218903,
+    36.268955,
+    -115.218903,
+    36.268955
+],
   "geometry": {"coordinates":[-115.218903,36.268955],"type":"Point"}
 }

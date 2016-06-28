@@ -2,13 +2,14 @@
   "id": 236608811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266603,36.172396,-115.266603,36.172396",
     "geom:latitude":36.172396,
     "geom:longitude":-115.266603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Sedran Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236608811,
-    "wof:lastmodified":1449002997,
+    "wof:lastmodified":1466706292,
     "wof:name":"AK Media",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-115.266603,36.172396,-115.266603,36.172396],
+  "bbox": [
+    -115.266603,
+    36.172396,
+    -115.266603,
+    36.172396
+],
   "geometry": {"coordinates":[-115.266603,36.172396],"type":"Point"}
 }

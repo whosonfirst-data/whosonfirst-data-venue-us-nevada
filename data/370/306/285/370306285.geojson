@@ -2,13 +2,14 @@
   "id": 370306285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.680748,38.883783,-119.680748,38.883783",
     "geom:latitude":38.883783,
     "geom:longitude":-119.680748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 Mustang Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370306285,
-    "wof:lastmodified":1449032313,
+    "wof:lastmodified":1466704783,
     "wof:name":"Jayne & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "coach"
     ]
 },
-  "bbox": [-119.680748,38.883783,-119.680748,38.883783],
-  "geometry": {"coordinates":[-119.680748,38.883783],"type":"Point"}
+  "bbox": [
+    -119.680748,
+    38.883783,
+    -119.680748,
+    38.883783
+],
+  "geometry": {"coordinates":[-119.68074799999999,38.883783],"type":"Point"}
 }

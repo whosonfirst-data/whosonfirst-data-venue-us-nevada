@@ -2,13 +2,14 @@
   "id": 220074569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260476,36.188683,-115.260476,36.188683",
     "geom:latitude":36.188683,
     "geom:longitude":-115.260476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7709 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220074569,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466702239,
     "wof:name":"Adagio Apartments",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.260476,36.188683,-115.260476,36.188683],
+  "bbox": [
+    -115.260476,
+    36.188683,
+    -115.260476,
+    36.188683
+],
   "geometry": {"coordinates":[-115.260476,36.188683],"type":"Point"}
 }

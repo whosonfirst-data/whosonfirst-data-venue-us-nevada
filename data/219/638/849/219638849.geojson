@@ -2,13 +2,14 @@
   "id": 219638849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791894,39.492917,-119.791894,39.492917",
     "geom:latitude":39.492917,
     "geom:longitude":-119.791894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 E Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219638849,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1466703620,
     "wof:name":"Discount Office Supply",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-119.791894,39.492917,-119.791894,39.492917],
+  "bbox": [
+    -119.791894,
+    39.492917,
+    -119.791894,
+    39.492917
+],
   "geometry": {"coordinates":[-119.791894,39.492917],"type":"Point"}
 }

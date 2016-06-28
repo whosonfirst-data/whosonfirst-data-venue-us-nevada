@@ -2,13 +2,14 @@
   "id": 370351937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806576,39.206223,-119.806576,39.206223",
     "geom:latitude":39.206223,
     "geom:longitude":-119.806576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3663 Hobart Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370351937,
-    "wof:lastmodified":1449031959,
+    "wof:lastmodified":1466705068,
     "wof:name":"Matt Theilen Photography",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-119.806576,39.206223,-119.806576,39.206223],
-  "geometry": {"coordinates":[-119.806576,39.206223],"type":"Point"}
+  "bbox": [
+    -119.806576,
+    39.206223,
+    -119.806576,
+    39.206223
+],
+  "geometry": {"coordinates":[-119.80657600000001,39.206223],"type":"Point"}
 }

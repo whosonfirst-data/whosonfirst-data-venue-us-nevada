@@ -2,13 +2,14 @@
   "id": 354019567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.007105,36.034241,-115.007105,36.034241",
     "geom:latitude":36.034241,
     "geom:longitude":-115.007105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 W Lake Mead Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354019567,
-    "wof:lastmodified":1449066930,
+    "wof:lastmodified":1466702005,
     "wof:name":"Amigo's Mexican Cantina",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mexican"
     ]
 },
-  "bbox": [-115.007105,36.034241,-115.007105,36.034241],
+  "bbox": [
+    -115.007105,
+    36.034241,
+    -115.007105,
+    36.034241
+],
   "geometry": {"coordinates":[-115.007105,36.034241],"type":"Point"}
 }

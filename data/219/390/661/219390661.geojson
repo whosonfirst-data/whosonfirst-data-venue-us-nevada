@@ -2,13 +2,14 @@
   "id": 219390661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317547,36.188416,-115.317547,36.188416",
     "geom:latitude":36.188416,
     "geom:longitude":-115.317547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Ruby Cliffs Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219390661,
-    "wof:lastmodified":1449073961,
+    "wof:lastmodified":1466703579,
     "wof:name":"C A & M Marketing",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.317547,36.188416,-115.317547,36.188416],
+  "bbox": [
+    -115.317547,
+    36.188416,
+    -115.317547,
+    36.188416
+],
   "geometry": {"coordinates":[-115.317547,36.188416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236400655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.22571,36.218079,-115.22571,36.218079",
     "geom:latitude":36.218079,
     "geom:longitude":-115.22571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 N Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236400655,
-    "wof:lastmodified":1449001916,
+    "wof:lastmodified":1466705481,
     "wof:name":"Tropical Expressions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.22571,36.218079,-115.22571,36.218079],
-  "geometry": {"coordinates":[-115.22571,36.218079],"type":"Point"}
+  "bbox": [
+    -115.22571,
+    36.218079,
+    -115.22571,
+    36.218079
+],
+  "geometry": {"coordinates":[-115.22571000000001,36.218079],"type":"Point"}
 }

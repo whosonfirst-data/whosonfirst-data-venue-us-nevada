@@ -2,13 +2,14 @@
   "id": 236631847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.786718,39.474721,-118.786718,39.474721",
     "geom:latitude":39.474721,
     "geom:longitude":-118.786718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"959 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236631847,
-    "wof:lastmodified":1449002505,
+    "wof:lastmodified":1466706485,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.786718,39.474721,-118.786718,39.474721],
-  "geometry": {"coordinates":[-118.786718,39.474721],"type":"Point"}
+  "bbox": [
+    -118.786718,
+    39.474721,
+    -118.786718,
+    39.474721
+],
+  "geometry": {"coordinates":[-118.78671799999999,39.474721],"type":"Point"}
 }

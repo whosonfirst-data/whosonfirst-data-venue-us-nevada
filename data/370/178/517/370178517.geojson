@@ -2,13 +2,14 @@
   "id": 370178517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230878,36.237406,-115.230878,36.237406",
     "geom:latitude":36.237406,
     "geom:longitude":-115.230878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 N Rancho Dr Ste 150",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370178517,
-    "wof:lastmodified":1449031522,
+    "wof:lastmodified":1466702102,
     "wof:name":"Robertos Taco Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.230878,36.237406,-115.230878,36.237406],
+  "bbox": [
+    -115.230878,
+    36.237406,
+    -115.230878,
+    36.237406
+],
   "geometry": {"coordinates":[-115.230878,36.237406],"type":"Point"}
 }

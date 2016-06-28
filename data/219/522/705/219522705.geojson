@@ -2,13 +2,14 @@
   "id": 219522705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.74021,39.509704,-118.74021,39.509704",
     "geom:latitude":39.509704,
     "geom:longitude":-118.74021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Bafford Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219522705,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466701716,
     "wof:name":"Dan O Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.74021,39.509704,-118.74021,39.509704],
+  "bbox": [
+    -118.74021,
+    39.509704,
+    -118.74021,
+    39.509704
+],
   "geometry": {"coordinates":[-118.74021,39.509704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220171119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190814,36.125743,-115.190814,36.125743",
     "geom:latitude":36.125743,
     "geom:longitude":-115.190814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4059 Renate Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220171119,
-    "wof:lastmodified":1449074887,
+    "wof:lastmodified":1466702881,
     "wof:name":"Vegas Laminate Hardwood Floors",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-115.190814,36.125743,-115.190814,36.125743],
+  "bbox": [
+    -115.190814,
+    36.125743,
+    -115.190814,
+    36.125743
+],
   "geometry": {"coordinates":[-115.190814,36.125743],"type":"Point"}
 }

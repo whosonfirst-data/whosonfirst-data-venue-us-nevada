@@ -2,13 +2,14 @@
   "id": 219648945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074442,36.115787,-115.074442,36.115787",
     "geom:latitude":36.115787,
     "geom:longitude":-115.074442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4526 Charles Ronald Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219648945,
-    "wof:lastmodified":1449071367,
+    "wof:lastmodified":1466703800,
     "wof:name":"Arena Co",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-115.074442,36.115787,-115.074442,36.115787],
+  "bbox": [
+    -115.074442,
+    36.115787,
+    -115.074442,
+    36.115787
+],
   "geometry": {"coordinates":[-115.074442,36.115787],"type":"Point"}
 }

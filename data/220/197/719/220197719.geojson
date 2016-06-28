@@ -2,13 +2,14 @@
   "id": 220197719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16411,36.117161,-115.16411,36.117161",
     "geom:latitude":36.117161,
     "geom:longitude":-115.16411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3993 Koval Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220197719,
-    "wof:lastmodified":1449074769,
+    "wof:lastmodified":1466703081,
     "wof:name":"Flamingo Arms Apartments",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.16411,36.117161,-115.16411,36.117161],
-  "geometry": {"coordinates":[-115.16411,36.117161],"type":"Point"}
+  "bbox": [
+    -115.16411,
+    36.117161,
+    -115.16411,
+    36.117161
+],
+  "geometry": {"coordinates":[-115.16410999999999,36.117161],"type":"Point"}
 }

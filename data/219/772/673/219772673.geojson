@@ -2,13 +2,14 @@
   "id": 219772673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811611,39.3866,-119.811611,39.3866",
     "geom:latitude":39.3866,
     "geom:longitude":-119.811611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5859 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219772673,
-    "wof:lastmodified":1449071979,
+    "wof:lastmodified":1466705029,
     "wof:name":"Western Botanical Svc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-119.811611,39.3866,-119.811611,39.3866],
+  "bbox": [
+    -119.811611,
+    39.3866,
+    -119.811611,
+    39.3866
+],
   "geometry": {"coordinates":[-119.811611,39.3866],"type":"Point"}
 }

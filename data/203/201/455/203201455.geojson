@@ -2,13 +2,14 @@
   "id": 203201455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.844138,39.536465,-119.844138,39.536465",
     "geom:latitude":39.536465,
     "geom:longitude":-119.844138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Saint Alberts Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203201455,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466702075,
     "wof:name":"Sandia Builders",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.844138,39.536465,-119.844138,39.536465],
+  "bbox": [
+    -119.844138,
+    39.536465,
+    -119.844138,
+    39.536465
+],
   "geometry": {"coordinates":[-119.844138,39.536465],"type":"Point"}
 }

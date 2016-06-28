@@ -2,13 +2,14 @@
   "id": 252724199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.176138,36.016123,-115.176138,36.016123",
     "geom:latitude":36.016123,
     "geom:longitude":-115.176138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9555 Orca St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252724199,
-    "wof:lastmodified":1449006475,
+    "wof:lastmodified":1466701810,
     "wof:name":"Nova Services Servicio Nova",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.176138,36.016123,-115.176138,36.016123],
-  "geometry": {"coordinates":[-115.176138,36.016123],"type":"Point"}
+  "bbox": [
+    -115.176138,
+    36.016123,
+    -115.176138,
+    36.016123
+],
+  "geometry": {"coordinates":[-115.17613799999999,36.016123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236136443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763849,39.179244,-119.763849,39.179244",
     "geom:latitude":39.179244,
     "geom:longitude":-119.763849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 E Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236136443,
-    "wof:lastmodified":1449005191,
+    "wof:lastmodified":1466702256,
     "wof:name":"Opti Health",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.763849,39.179244,-119.763849,39.179244],
-  "geometry": {"coordinates":[-119.763849,39.179244],"type":"Point"}
+  "bbox": [
+    -119.763849,
+    39.179244,
+    -119.763849,
+    39.179244
+],
+  "geometry": {"coordinates":[-119.76384899999999,39.179244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219566463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295301,36.065061,-115.295301,36.065061",
     "geom:latitude":36.065061,
     "geom:longitude":-115.295301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6756 Pastel Camellia St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219566463,
-    "wof:lastmodified":1449070442,
+    "wof:lastmodified":1466702507,
     "wof:name":"Margarita Barber",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.295301,36.065061,-115.295301,36.065061],
-  "geometry": {"coordinates":[-115.295301,36.065061],"type":"Point"}
+  "bbox": [
+    -115.295301,
+    36.065061,
+    -115.295301,
+    36.065061
+],
+  "geometry": {"coordinates":[-115.29530099999999,36.065061],"type":"Point"}
 }

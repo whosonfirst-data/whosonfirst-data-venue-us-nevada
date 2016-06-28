@@ -2,13 +2,14 @@
   "id": 370207567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21692,36.031252,-115.21692,36.031252",
     "geom:latitude":36.031252,
     "geom:longitude":-115.21692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8705 Lindell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370207567,
-    "wof:lastmodified":1449031455,
+    "wof:lastmodified":1466702720,
     "wof:name":"Ambassadors For Christ International",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.21692,36.031252,-115.21692,36.031252],
+  "bbox": [
+    -115.21692,
+    36.031252,
+    -115.21692,
+    36.031252
+],
   "geometry": {"coordinates":[-115.21692,36.031252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219982939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.321914,36.177961,-115.321914,36.177961",
     "geom:latitude":36.177961,
     "geom:longitude":-115.321914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Crestdale Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219982939,
-    "wof:lastmodified":1449070994,
+    "wof:lastmodified":1466706193,
     "wof:name":"Advanced Concepts & Designs",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-115.321914,36.177961,-115.321914,36.177961],
-  "geometry": {"coordinates":[-115.321914,36.177961],"type":"Point"}
+  "bbox": [
+    -115.321914,
+    36.177961,
+    -115.321914,
+    36.177961
+],
+  "geometry": {"coordinates":[-115.32191400000001,36.177961],"type":"Point"}
 }

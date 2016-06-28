@@ -2,13 +2,14 @@
   "id": 354052349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046997,36.044701,-115.046997,36.044701",
     "geom:latitude":36.044701,
     "geom:longitude":-115.046997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354052349,
-    "wof:lastmodified":1449066679,
+    "wof:lastmodified":1466702834,
     "wof:name":"Furniture Factory Outlet",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outlet"
     ]
 },
-  "bbox": [-115.046997,36.044701,-115.046997,36.044701],
+  "bbox": [
+    -115.046997,
+    36.044701,
+    -115.046997,
+    36.044701
+],
   "geometry": {"coordinates":[-115.046997,36.044701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203196669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75293,39.166462,-119.75293,39.166462",
     "geom:latitude":39.166462,
     "geom:longitude":-119.75293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 E Telegraph St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203196669,
-    "wof:lastmodified":1449025354,
+    "wof:lastmodified":1466702016,
     "wof:name":"Global Plastics Group Corp",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.75293,39.166462,-119.75293,39.166462],
-  "geometry": {"coordinates":[-119.75293,39.166462],"type":"Point"}
+  "bbox": [
+    -119.75293,
+    39.166462,
+    -119.75293,
+    39.166462
+],
+  "geometry": {"coordinates":[-119.75293000000001,39.166462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236496625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.9739,36.025527,-114.9739,36.025527",
     "geom:latitude":36.025527,
     "geom:longitude":-114.9739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Blackmore Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236496625,
-    "wof:lastmodified":1449004648,
+    "wof:lastmodified":1466705784,
     "wof:name":"BR Colson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.9739,36.025527,-114.9739,36.025527],
+  "bbox": [
+    -114.9739,
+    36.025527,
+    -114.9739,
+    36.025527
+],
   "geometry": {"coordinates":[-114.9739,36.025527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219231773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.746112,38.90894,-119.746112,38.90894",
     "geom:latitude":38.90894,
     "geom:longitude":-119.746112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1246 Topaz Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219231773,
-    "wof:lastmodified":1449072188,
+    "wof:lastmodified":1466702309,
     "wof:name":"Mary Bricker Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.746112,38.90894,-119.746112,38.90894],
+  "bbox": [
+    -119.746112,
+    38.90894,
+    -119.746112,
+    38.90894
+],
   "geometry": {"coordinates":[-119.746112,38.90894],"type":"Point"}
 }

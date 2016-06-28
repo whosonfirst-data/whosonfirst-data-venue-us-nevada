@@ -2,13 +2,14 @@
   "id": 354311571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253889,36.143665,-115.253889,36.143665",
     "geom:latitude":36.143665,
     "geom:longitude":-115.253889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7353 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354311571,
-    "wof:lastmodified":1449066330,
+    "wof:lastmodified":1466705776,
     "wof:name":"Computer Builders Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.253889,36.143665,-115.253889,36.143665],
+  "bbox": [
+    -115.253889,
+    36.143665,
+    -115.253889,
+    36.143665
+],
   "geometry": {"coordinates":[-115.253889,36.143665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236692579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217199,36.271052,-115.217199,36.271052",
     "geom:latitude":36.271052,
     "geom:longitude":-115.217199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5509 Raincreek Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236692579,
-    "wof:lastmodified":1449002337,
+    "wof:lastmodified":1466706594,
     "wof:name":"Pro Suds",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.217199,36.271052,-115.217199,36.271052],
-  "geometry": {"coordinates":[-115.217199,36.271052],"type":"Point"}
+  "bbox": [
+    -115.217199,
+    36.271052,
+    -115.217199,
+    36.271052
+],
+  "geometry": {"coordinates":[-115.21719899999999,36.271052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219670257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.85226,39.485331,-118.85226,39.485331",
     "geom:latitude":39.485331,
     "geom:longitude":-118.85226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4629 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219670257,
-    "wof:lastmodified":1449070916,
+    "wof:lastmodified":1466704181,
     "wof:name":"Hendrick Upholstery & Drapery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-118.85226,39.485331,-118.85226,39.485331],
+  "bbox": [
+    -118.85226,
+    39.485331,
+    -118.85226,
+    39.485331
+],
   "geometry": {"coordinates":[-118.85226,39.485331],"type":"Point"}
 }

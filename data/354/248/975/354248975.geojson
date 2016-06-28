@@ -2,13 +2,14 @@
   "id": 354248975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170434,36.121243,-115.170434,36.121243",
     "geom:latitude":36.121243,
     "geom:longitude":-115.170434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Venetian 3355 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354248975,
-    "wof:lastmodified":1449066875,
+    "wof:lastmodified":1466705353,
     "wof:name":"Grand Lux Cafe",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-115.170434,36.121243,-115.170434,36.121243],
+  "bbox": [
+    -115.170434,
+    36.121243,
+    -115.170434,
+    36.121243
+],
   "geometry": {"coordinates":[-115.170434,36.121243],"type":"Point"}
 }

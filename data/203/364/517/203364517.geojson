@@ -2,13 +2,14 @@
   "id": 203364517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189748,36.106025,-115.189748,36.106025",
     "geom:latitude":36.106025,
     "geom:longitude":-115.189748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203364517,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1466703197,
     "wof:name":"Univar USA Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-115.189748,36.106025,-115.189748,36.106025],
-  "geometry": {"coordinates":[-115.189748,36.106025],"type":"Point"}
+  "bbox": [
+    -115.189748,
+    36.106025,
+    -115.189748,
+    36.106025
+],
+  "geometry": {"coordinates":[-115.18974799999999,36.106025],"type":"Point"}
 }

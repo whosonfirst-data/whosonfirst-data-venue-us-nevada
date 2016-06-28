@@ -2,13 +2,14 @@
   "id": 219456235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774797,39.607563,-119.774797,39.607563",
     "geom:latitude":39.607563,
     "geom:longitude":-119.774797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Emigrant Cir",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219456235,
-    "wof:lastmodified":1449071453,
+    "wof:lastmodified":1466703899,
     "wof:name":"Ultrablock Of California Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-119.774797,39.607563,-119.774797,39.607563],
-  "geometry": {"coordinates":[-119.774797,39.607563],"type":"Point"}
+  "bbox": [
+    -119.774797,
+    39.607563,
+    -119.774797,
+    39.607563
+],
+  "geometry": {"coordinates":[-119.77479700000001,39.607563],"type":"Point"}
 }

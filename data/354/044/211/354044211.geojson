@@ -2,13 +2,14 @@
   "id": 354044211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197354,36.217472,-115.197354,36.217472",
     "geom:latitude":36.217472,
     "geom:longitude":-115.197354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4344 W Cheyenne Avenue",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354044211,
-    "wof:lastmodified":1449066818,
+    "wof:lastmodified":1466702622,
     "wof:name":"V T Construction",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.197354,36.217472,-115.197354,36.217472],
+  "bbox": [
+    -115.197354,
+    36.217472,
+    -115.197354,
+    36.217472
+],
   "geometry": {"coordinates":[-115.197354,36.217472],"type":"Point"}
 }

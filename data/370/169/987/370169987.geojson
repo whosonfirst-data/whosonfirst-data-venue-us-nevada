@@ -2,13 +2,14 @@
   "id": 370169987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.276824,36.218752,-115.276824,36.218752",
     "geom:latitude":36.218752,
     "geom:longitude":-115.276824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8410 W Cheyenne Ave Ste 102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370169987,
-    "wof:lastmodified":1449031177,
+    "wof:lastmodified":1466701980,
     "wof:name":"Eddie D's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.276824,36.218752,-115.276824,36.218752],
+  "bbox": [
+    -115.276824,
+    36.218752,
+    -115.276824,
+    36.218752
+],
   "geometry": {"coordinates":[-115.276824,36.218752],"type":"Point"}
 }

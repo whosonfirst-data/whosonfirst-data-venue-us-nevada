@@ -2,13 +2,14 @@
   "id": 235940939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185626,36.088528,-115.185626,36.088528",
     "geom:latitude":36.088528,
     "geom:longitude":-115.185626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5325 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235940939,
-    "wof:lastmodified":1449008339,
+    "wof:lastmodified":1466703489,
     "wof:name":"Vista Paint & Wallcovering",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-115.185626,36.088528,-115.185626,36.088528],
+  "bbox": [
+    -115.185626,
+    36.088528,
+    -115.185626,
+    36.088528
+],
   "geometry": {"coordinates":[-115.185626,36.088528],"type":"Point"}
 }

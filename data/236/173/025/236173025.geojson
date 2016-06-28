@@ -2,13 +2,14 @@
   "id": 236173025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745846,39.486112,-119.745846,39.486112",
     "geom:latitude":39.486112,
     "geom:longitude":-119.745846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Mira Loma Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236173025,
-    "wof:lastmodified":1449002155,
+    "wof:lastmodified":1466703040,
     "wof:name":"Rosewood Park Apartments",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.745846,39.486112,-119.745846,39.486112],
+  "bbox": [
+    -119.745846,
+    39.486112,
+    -119.745846,
+    39.486112
+],
   "geometry": {"coordinates":[-119.745846,39.486112],"type":"Point"}
 }

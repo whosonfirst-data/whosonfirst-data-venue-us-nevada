@@ -2,13 +2,14 @@
   "id": 219425851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.84584,39.356174,-119.84584,39.356174",
     "geom:latitude":39.356174,
     "geom:longitude":-119.84584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Mugo Pine Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219425851,
-    "wof:lastmodified":1449071633,
+    "wof:lastmodified":1466703768,
     "wof:name":"AAA Tourbooks",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-119.84584,39.356174,-119.84584,39.356174],
+  "bbox": [
+    -119.84584,
+    39.356174,
+    -119.84584,
+    39.356174
+],
   "geometry": {"coordinates":[-119.84584,39.356174],"type":"Point"}
 }

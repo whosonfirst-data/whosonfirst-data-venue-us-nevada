@@ -2,13 +2,14 @@
   "id": 236004149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152173,36.0342,-115.152173,36.0342",
     "geom:latitude":36.0342,
     "geom:longitude":-115.152173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Paulson Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236004149,
-    "wof:lastmodified":1449002728,
+    "wof:lastmodified":1466703777,
     "wof:name":"Avanti Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.152173,36.0342,-115.152173,36.0342],
+  "bbox": [
+    -115.152173,
+    36.0342,
+    -115.152173,
+    36.0342
+],
   "geometry": {"coordinates":[-115.152173,36.0342],"type":"Point"}
 }

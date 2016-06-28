@@ -2,13 +2,14 @@
   "id": 235999369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249983,36.210751,-115.249983,36.210751",
     "geom:latitude":36.210751,
     "geom:longitude":-115.249983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7375 Peak Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235999369,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466703744,
     "wof:name":"Peak Cardiovascular Surgery",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.249983,36.210751,-115.249983,36.210751],
+  "bbox": [
+    -115.249983,
+    36.210751,
+    -115.249983,
+    36.210751
+],
   "geometry": {"coordinates":[-115.249983,36.210751],"type":"Point"}
 }

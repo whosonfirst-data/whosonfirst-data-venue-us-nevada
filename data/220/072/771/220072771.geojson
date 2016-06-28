@@ -2,13 +2,14 @@
   "id": 220072771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199206,36.107119,-115.199206,36.107119",
     "geom:latitude":36.107119,
     "geom:longitude":-115.199206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220072771,
-    "wof:lastmodified":1449074469,
+    "wof:lastmodified":1466702234,
     "wof:name":"Southwest Ambulance - Nevada",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "provides"
     ]
 },
-  "bbox": [-115.199206,36.107119,-115.199206,36.107119],
+  "bbox": [
+    -115.199206,
+    36.107119,
+    -115.199206,
+    36.107119
+],
   "geometry": {"coordinates":[-115.199206,36.107119],"type":"Point"}
 }

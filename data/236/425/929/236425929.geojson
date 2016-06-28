@@ -2,13 +2,14 @@
   "id": 236425929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.026468,36.052847,-115.026468,36.052847",
     "geom:latitude":36.052847,
     "geom:longitude":-115.026468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Auto Mall Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236425929,
-    "wof:lastmodified":1449002682,
+    "wof:lastmodified":1466705587,
     "wof:name":"Findlay Subaru",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealership"
     ]
 },
-  "bbox": [-115.026468,36.052847,-115.026468,36.052847],
-  "geometry": {"coordinates":[-115.026468,36.052847],"type":"Point"}
+  "bbox": [
+    -115.026468,
+    36.052847,
+    -115.026468,
+    36.052847
+],
+  "geometry": {"coordinates":[-115.02646799999999,36.052847],"type":"Point"}
 }

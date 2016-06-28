@@ -2,13 +2,14 @@
   "id": 219260921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780518,39.176732,-119.780518,39.176732",
     "geom:latitude":39.176732,
     "geom:longitude":-119.780518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Chaparral Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219260921,
-    "wof:lastmodified":1449070973,
+    "wof:lastmodified":1466702646,
     "wof:name":"MJB Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.780518,39.176732,-119.780518,39.176732],
+  "bbox": [
+    -119.780518,
+    39.176732,
+    -119.780518,
+    39.176732
+],
   "geometry": {"coordinates":[-119.780518,39.176732],"type":"Point"}
 }

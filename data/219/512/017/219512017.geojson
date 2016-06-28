@@ -2,13 +2,14 @@
   "id": 219512017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196848,36.073386,-115.196848,36.073386",
     "geom:latitude":36.073386,
     "geom:longitude":-115.196848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Schirlls St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219512017,
-    "wof:lastmodified":1449072969,
+    "wof:lastmodified":1466701516,
     "wof:name":"Drywall Systems",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.196848,36.073386,-115.196848,36.073386],
+  "bbox": [
+    -115.196848,
+    36.073386,
+    -115.196848,
+    36.073386
+],
   "geometry": {"coordinates":[-115.196848,36.073386],"type":"Point"}
 }

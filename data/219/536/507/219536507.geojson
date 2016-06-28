@@ -2,13 +2,14 @@
   "id": 219536507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079885,36.25273,-115.079885,36.25273",
     "geom:latitude":36.25273,
     "geom:longitude":-115.079885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5090 N Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219536507,
-    "wof:lastmodified":1449072492,
+    "wof:lastmodified":1466701980,
     "wof:name":"Auto Recyclers",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-115.079885,36.25273,-115.079885,36.25273],
+  "bbox": [
+    -115.079885,
+    36.25273,
+    -115.079885,
+    36.25273
+],
   "geometry": {"coordinates":[-115.079885,36.25273],"type":"Point"}
 }

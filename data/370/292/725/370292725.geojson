@@ -2,13 +2,14 @@
   "id": 370292725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142743,36.12202,-115.142743,36.12202",
     "geom:latitude":36.12202,
     "geom:longitude":-115.142743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370292725,
-    "wof:lastmodified":1449029372,
+    "wof:lastmodified":1466704322,
     "wof:name":"Hop Over Llc",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.142743,36.12202,-115.142743,36.12202],
+  "bbox": [
+    -115.142743,
+    36.12202,
+    -115.142743,
+    36.12202
+],
   "geometry": {"coordinates":[-115.142743,36.12202],"type":"Point"}
 }

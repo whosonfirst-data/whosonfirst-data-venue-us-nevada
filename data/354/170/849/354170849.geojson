@@ -2,13 +2,14 @@
   "id": 354170849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121002,36.144402,-115.121002,36.144402",
     "geom:latitude":36.144402,
     "geom:longitude":-115.121002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1942 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354170849,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1466704829,
     "wof:name":"X-Press Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.121002,36.144402,-115.121002,36.144402],
+  "bbox": [
+    -115.121002,
+    36.144402,
+    -115.121002,
+    36.144402
+],
   "geometry": {"coordinates":[-115.121002,36.144402],"type":"Point"}
 }

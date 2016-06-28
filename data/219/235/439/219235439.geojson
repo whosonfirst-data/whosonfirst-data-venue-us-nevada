@@ -2,13 +2,14 @@
   "id": 219235439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112347,36.074698,-115.112347,36.074698",
     "geom:latitude":36.074698,
     "geom:longitude":-115.112347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6135 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219235439,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466702391,
     "wof:name":"W A Mesa",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-115.112347,36.074698,-115.112347,36.074698],
+  "bbox": [
+    -115.112347,
+    36.074698,
+    -115.112347,
+    36.074698
+],
   "geometry": {"coordinates":[-115.112347,36.074698],"type":"Point"}
 }

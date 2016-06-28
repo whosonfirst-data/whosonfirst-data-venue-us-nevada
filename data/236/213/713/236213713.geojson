@@ -2,13 +2,14 @@
   "id": 236213713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735348,39.176058,-119.735348,39.176058",
     "geom:latitude":39.176058,
     "geom:longitude":-119.735348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236213713,
-    "wof:lastmodified":1449001707,
+    "wof:lastmodified":1466703849,
     "wof:name":"Carson Convalescent Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-119.735348,39.176058,-119.735348,39.176058],
+  "bbox": [
+    -119.735348,
+    39.176058,
+    -119.735348,
+    39.176058
+],
   "geometry": {"coordinates":[-119.735348,39.176058],"type":"Point"}
 }

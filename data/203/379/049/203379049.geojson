@@ -2,13 +2,14 @@
   "id": 203379049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137129,36.105413,-115.137129,36.105413",
     "geom:latitude":36.105413,
     "geom:longitude":-115.137129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203379049,
-    "wof:lastmodified":1449026043,
+    "wof:lastmodified":1466704236,
     "wof:name":"Carrows",
     "wof:parent_id":85879729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-115.137129,36.105413,-115.137129,36.105413],
+  "bbox": [
+    -115.137129,
+    36.105413,
+    -115.137129,
+    36.105413
+],
   "geometry": {"coordinates":[-115.137129,36.105413],"type":"Point"}
 }

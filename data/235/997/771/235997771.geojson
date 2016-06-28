@@ -2,13 +2,14 @@
   "id": 235997771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098362,36.182992,-115.098362,36.182992",
     "geom:latitude":36.182992,
     "geom:longitude":-115.098362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235997771,
-    "wof:lastmodified":1449008541,
+    "wof:lastmodified":1466703745,
     "wof:name":"J K Jordan Tax Svc",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.098362,36.182992,-115.098362,36.182992],
-  "geometry": {"coordinates":[-115.098362,36.182992],"type":"Point"}
+  "bbox": [
+    -115.098362,
+    36.182992,
+    -115.098362,
+    36.182992
+],
+  "geometry": {"coordinates":[-115.09836199999999,36.182992],"type":"Point"}
 }

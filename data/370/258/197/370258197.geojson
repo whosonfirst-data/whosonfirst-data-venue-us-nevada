@@ -2,13 +2,14 @@
   "id": 370258197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.31449,36.100788,-115.31449,36.100788",
     "geom:latitude":36.100788,
     "geom:longitude":-115.31449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10180 W Tropicana Ave #133",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370258197,
-    "wof:lastmodified":1449031789,
+    "wof:lastmodified":1466703875,
     "wof:name":"Glacier Home Made Ice Cream & Gelato",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-115.31449,36.100788,-115.31449,36.100788],
-  "geometry": {"coordinates":[-115.31449,36.100788],"type":"Point"}
+  "bbox": [
+    -115.31449,
+    36.100788,
+    -115.31449,
+    36.100788
+],
+  "geometry": {"coordinates":[-115.31449000000001,36.100788],"type":"Point"}
 }

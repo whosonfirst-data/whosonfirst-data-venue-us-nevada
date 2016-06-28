@@ -2,13 +2,14 @@
   "id": 235942933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776368,39.094402,-119.776368,39.094402",
     "geom:latitude":39.094402,
     "geom:longitude":-119.776368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 Opalite Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235942933,
-    "wof:lastmodified":1449008405,
+    "wof:lastmodified":1466703495,
     "wof:name":"Maria's House Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.776368,39.094402,-119.776368,39.094402],
-  "geometry": {"coordinates":[-119.776368,39.094402],"type":"Point"}
+  "bbox": [
+    -119.776368,
+    39.094402,
+    -119.776368,
+    39.094402
+],
+  "geometry": {"coordinates":[-119.77636800000001,39.094402],"type":"Point"}
 }

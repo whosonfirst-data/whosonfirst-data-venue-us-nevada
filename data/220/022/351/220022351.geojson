@@ -2,13 +2,14 @@
   "id": 220022351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131489,36.186211,-115.131489,36.186211",
     "geom:latitude":36.186211,
     "geom:longitude":-115.131489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Foremaster Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220022351,
-    "wof:lastmodified":1449074288,
+    "wof:lastmodified":1466701706,
     "wof:name":"Wiener Communication Group",
     "wof:parent_id":85896897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.131489,36.186211,-115.131489,36.186211],
+  "bbox": [
+    -115.131489,
+    36.186211,
+    -115.131489,
+    36.186211
+],
   "geometry": {"coordinates":[-115.131489,36.186211],"type":"Point"}
 }

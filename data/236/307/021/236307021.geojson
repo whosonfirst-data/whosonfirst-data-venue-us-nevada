@@ -2,13 +2,14 @@
   "id": 236307021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.562903,39.245281,-119.562903,39.245281",
     "geom:latitude":39.245281,
     "geom:longitude":-119.562903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Bayhill Cir",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236307021,
-    "wof:lastmodified":1449002320,
+    "wof:lastmodified":1466704756,
     "wof:name":"Strategic Corporate Assessment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-119.562903,39.245281,-119.562903,39.245281],
-  "geometry": {"coordinates":[-119.562903,39.245281],"type":"Point"}
+  "bbox": [
+    -119.562903,
+    39.245281,
+    -119.562903,
+    39.245281
+],
+  "geometry": {"coordinates":[-119.56290300000001,39.245281],"type":"Point"}
 }

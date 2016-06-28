@@ -2,13 +2,14 @@
   "id": 236752129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.939115,39.091699,-119.939115,39.091699",
     "geom:latitude":39.091699,
     "geom:longitude":-119.939115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 Pray Meadow Rd",
     "sg:city":"Glenbrook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236752129,
-    "wof:lastmodified":1449002090,
+    "wof:lastmodified":1466706568,
     "wof:name":"Glenbrook Rental Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.939115,39.091699,-119.939115,39.091699],
+  "bbox": [
+    -119.939115,
+    39.091699,
+    -119.939115,
+    39.091699
+],
   "geometry": {"coordinates":[-119.939115,39.091699],"type":"Point"}
 }

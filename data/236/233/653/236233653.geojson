@@ -2,13 +2,14 @@
   "id": 236233653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.77906,39.474057,-118.77906,39.474057",
     "geom:latitude":39.474057,
     "geom:longitude":-118.77906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 S Laverne St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236233653,
-    "wof:lastmodified":1449005315,
+    "wof:lastmodified":1466704297,
     "wof:name":"John S Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-118.77906,39.474057,-118.77906,39.474057],
+  "bbox": [
+    -118.77906,
+    39.474057,
+    -118.77906,
+    39.474057
+],
   "geometry": {"coordinates":[-118.77906,39.474057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252730289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.91805,35.461901,-114.91805,35.461901",
     "geom:latitude":35.461901,
     "geom:longitude":-114.91805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Gaviland St",
     "sg:city":"Searchlight",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252730289,
-    "wof:lastmodified":1449006348,
+    "wof:lastmodified":1466701930,
     "wof:name":"Kay Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.91805,35.461901,-114.91805,35.461901],
-  "geometry": {"coordinates":[-114.91805,35.461901],"type":"Point"}
+  "bbox": [
+    -114.91805,
+    35.461901,
+    -114.91805,
+    35.461901
+],
+  "geometry": {"coordinates":[-114.91804999999999,35.461901],"type":"Point"}
 }

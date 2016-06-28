@@ -2,13 +2,14 @@
   "id": 219777225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.174902,36.215857,-115.174902,36.215857",
     "geom:latitude":36.215857,
     "geom:longitude":-115.174902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Coleman St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219777225,
-    "wof:lastmodified":1449072239,
+    "wof:lastmodified":1466704948,
     "wof:name":"L V Silver Dolls",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-115.174902,36.215857,-115.174902,36.215857],
+  "bbox": [
+    -115.174902,
+    36.215857,
+    -115.174902,
+    36.215857
+],
   "geometry": {"coordinates":[-115.174902,36.215857],"type":"Point"}
 }

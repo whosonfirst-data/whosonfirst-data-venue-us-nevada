@@ -2,13 +2,14 @@
   "id": 220123067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744293,39.547331,-119.744293,39.547331",
     "geom:latitude":39.547331,
     "geom:longitude":-119.744293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 1st St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220123067,
-    "wof:lastmodified":1449074254,
+    "wof:lastmodified":1466702549,
     "wof:name":"Kayen Vaughn Designs",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.744293,39.547331,-119.744293,39.547331],
+  "bbox": [
+    -119.744293,
+    39.547331,
+    -119.744293,
+    39.547331
+],
   "geometry": {"coordinates":[-119.744293,39.547331],"type":"Point"}
 }

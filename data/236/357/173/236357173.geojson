@@ -2,13 +2,14 @@
   "id": 236357173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.912372,39.628295,-119.912372,39.628295",
     "geom:latitude":39.628295,
     "geom:longitude":-119.912372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8441 Coral Reef Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236357173,
-    "wof:lastmodified":1449004759,
+    "wof:lastmodified":1466705112,
     "wof:name":"Dcr Telecommunications L L C",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-119.912372,39.628295,-119.912372,39.628295],
+  "bbox": [
+    -119.912372,
+    39.628295,
+    -119.912372,
+    39.628295
+],
   "geometry": {"coordinates":[-119.912372,39.628295],"type":"Point"}
 }

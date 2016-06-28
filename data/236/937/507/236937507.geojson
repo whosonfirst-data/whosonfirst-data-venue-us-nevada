@@ -2,13 +2,14 @@
   "id": 236937507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.985212,36.219621,-115.985212,36.219621",
     "geom:latitude":36.219621,
     "geom:longitude":-115.985212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 E Basin Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236937507,
-    "wof:lastmodified":1449002146,
+    "wof:lastmodified":1466706924,
     "wof:name":"Parole & Probation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parole"
     ]
 },
-  "bbox": [-115.985212,36.219621,-115.985212,36.219621],
+  "bbox": [
+    -115.985212,
+    36.219621,
+    -115.985212,
+    36.219621
+],
   "geometry": {"coordinates":[-115.985212,36.219621],"type":"Point"}
 }

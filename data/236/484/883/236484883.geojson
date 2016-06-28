@@ -2,13 +2,14 @@
   "id": 236484883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163068,38.992067,-119.163068,38.992067",
     "geom:latitude":38.992067,
     "geom:longitude":-119.163068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236484883,
-    "wof:lastmodified":1449005021,
+    "wof:lastmodified":1466705743,
     "wof:name":"Nevada Quarter Horse Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "horse"
     ]
 },
-  "bbox": [-119.163068,38.992067,-119.163068,38.992067],
+  "bbox": [
+    -119.163068,
+    38.992067,
+    -119.163068,
+    38.992067
+],
   "geometry": {"coordinates":[-119.163068,38.992067],"type":"Point"}
 }

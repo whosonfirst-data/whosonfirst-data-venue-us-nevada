@@ -2,13 +2,14 @@
   "id": 370315667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80381,39.506991,-119.80381,39.506991",
     "geom:latitude":39.506991,
     "geom:longitude":-119.80381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370315667,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1466704555,
     "wof:name":"Kragen O'Reilly Auto Parts",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.80381,39.506991,-119.80381,39.506991],
+  "bbox": [
+    -119.80381,
+    39.506991,
+    -119.80381,
+    39.506991
+],
   "geometry": {"coordinates":[-119.80381,39.506991],"type":"Point"}
 }

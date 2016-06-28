@@ -2,13 +2,14 @@
   "id": 203223705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084974,36.078297,-115.084974,36.078297",
     "geom:latitude":36.078297,
     "geom:longitude":-115.084974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203223705,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466702327,
     "wof:name":"Victory Christian Ctr",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.084974,36.078297,-115.084974,36.078297],
+  "bbox": [
+    -115.084974,
+    36.078297,
+    -115.084974,
+    36.078297
+],
   "geometry": {"coordinates":[-115.084974,36.078297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236559413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226888,36.144122,-115.226888,36.144122",
     "geom:latitude":36.144122,
     "geom:longitude":-115.226888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236559413,
-    "wof:lastmodified":1449004379,
+    "wof:lastmodified":1466706130,
     "wof:name":"Westside Reinvestment Co LLC",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "banker"
     ]
 },
-  "bbox": [-115.226888,36.144122,-115.226888,36.144122],
+  "bbox": [
+    -115.226888,
+    36.144122,
+    -115.226888,
+    36.144122
+],
   "geometry": {"coordinates":[-115.226888,36.144122],"type":"Point"}
 }

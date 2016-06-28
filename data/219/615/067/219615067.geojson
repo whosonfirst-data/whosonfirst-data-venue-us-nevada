@@ -2,13 +2,14 @@
   "id": 219615067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763484,39.503168,-119.763484,39.503168",
     "geom:latitude":39.503168,
     "geom:longitude":-119.763484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 S Rock Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219615067,
-    "wof:lastmodified":1449071506,
+    "wof:lastmodified":1466703185,
     "wof:name":"Medic Air",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-119.763484,39.503168,-119.763484,39.503168],
-  "geometry": {"coordinates":[-119.763484,39.503168],"type":"Point"}
+  "bbox": [
+    -119.763484,
+    39.503168,
+    -119.763484,
+    39.503168
+],
+  "geometry": {"coordinates":[-119.76348400000001,39.503168],"type":"Point"}
 }

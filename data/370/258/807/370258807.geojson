@@ -2,13 +2,14 @@
   "id": 370258807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299886,36.110839,-115.299886,36.110839",
     "geom:latitude":36.110839,
     "geom:longitude":-115.299886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4342 Woodwell Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370258807,
-    "wof:lastmodified":1449031787,
+    "wof:lastmodified":1466703893,
     "wof:name":"Shadow Ridge Townhomes",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.299886,36.110839,-115.299886,36.110839],
+  "bbox": [
+    -115.299886,
+    36.110839,
+    -115.299886,
+    36.110839
+],
   "geometry": {"coordinates":[-115.299886,36.110839],"type":"Point"}
 }

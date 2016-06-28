@@ -2,13 +2,14 @@
   "id": 203402669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.889003,39.249523,-114.889003,39.249523",
     "geom:latitude":39.249523,
     "geom:longitude":-114.889003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Lyons Ave",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203402669,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466703337,
     "wof:name":"Loft",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.889003,39.249523,-114.889003,39.249523],
+  "bbox": [
+    -114.889003,
+    39.249523,
+    -114.889003,
+    39.249523
+],
   "geometry": {"coordinates":[-114.889003,39.249523],"type":"Point"}
 }

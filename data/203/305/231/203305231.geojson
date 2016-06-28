@@ -2,13 +2,14 @@
   "id": 203305231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.890664,39.24845,-114.890664,39.24845",
     "geom:latitude":39.24845,
     "geom:longitude":-114.890664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"768 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203305231,
-    "wof:lastmodified":1449025223,
+    "wof:lastmodified":1466702886,
     "wof:name":"Join-Job Opportunities In Nev",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.890664,39.24845,-114.890664,39.24845],
+  "bbox": [
+    -114.890664,
+    39.24845,
+    -114.890664,
+    39.24845
+],
   "geometry": {"coordinates":[-114.890664,39.24845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219211517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283532,36.101242,-115.283532,36.101242",
     "geom:latitude":36.101242,
     "geom:longitude":-115.283532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8828 Crystal Port Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219211517,
-    "wof:lastmodified":1449071268,
+    "wof:lastmodified":1466702172,
     "wof:name":"Millenium Relationship Mktng",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-115.283532,36.101242,-115.283532,36.101242],
-  "geometry": {"coordinates":[-115.283532,36.101242],"type":"Point"}
+  "bbox": [
+    -115.283532,
+    36.101242,
+    -115.283532,
+    36.101242
+],
+  "geometry": {"coordinates":[-115.28353199999999,36.101242],"type":"Point"}
 }

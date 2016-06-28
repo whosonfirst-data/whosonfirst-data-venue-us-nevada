@@ -2,13 +2,14 @@
   "id": 236769851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088036,36.015488,-115.088036,36.015488",
     "geom:latitude":36.015488,
     "geom:longitude":-115.088036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 New River Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236769851,
-    "wof:lastmodified":1449002601,
+    "wof:lastmodified":1466706611,
     "wof:name":"I Write Transcription Inc",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-115.088036,36.015488,-115.088036,36.015488],
+  "bbox": [
+    -115.088036,
+    36.015488,
+    -115.088036,
+    36.015488
+],
   "geometry": {"coordinates":[-115.088036,36.015488],"type":"Point"}
 }

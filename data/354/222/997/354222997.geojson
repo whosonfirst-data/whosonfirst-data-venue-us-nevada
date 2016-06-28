@@ -2,13 +2,14 @@
   "id": 354222997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.188004,36.1884,-115.188004,36.1884",
     "geom:latitude":36.1884,
     "geom:longitude":-115.188004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":354222997,
-    "wof:lastmodified":1449067114,
+    "wof:lastmodified":1466705164,
     "wof:name":"Little Margie's Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "day"
     ]
 },
-  "bbox": [-115.188004,36.1884,-115.188004,36.1884],
-  "geometry": {"coordinates":[-115.188004,36.1884],"type":"Point"}
+  "bbox": [
+    -115.188004,
+    36.1884,
+    -115.188004,
+    36.1884
+],
+  "geometry": {"coordinates":[-115.18800400000001,36.1884],"type":"Point"}
 }

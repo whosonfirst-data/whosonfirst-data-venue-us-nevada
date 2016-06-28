@@ -2,13 +2,14 @@
   "id": 219816923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140413,36.180584,-115.140413,36.180584",
     "geom:latitude":36.180584,
     "geom:longitude":-115.140413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 N Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219816923,
-    "wof:lastmodified":1449072441,
+    "wof:lastmodified":1466705164,
     "wof:name":"Durango Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.140413,36.180584,-115.140413,36.180584],
+  "bbox": [
+    -115.140413,
+    36.180584,
+    -115.140413,
+    36.180584
+],
   "geometry": {"coordinates":[-115.140413,36.180584],"type":"Point"}
 }

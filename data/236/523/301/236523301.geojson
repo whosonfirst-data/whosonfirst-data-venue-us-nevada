@@ -2,13 +2,14 @@
   "id": 236523301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.023285,36.180993,-115.023285,36.180993",
     "geom:latitude":36.180993,
     "geom:longitude":-115.023285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Morning Sun Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236523301,
-    "wof:lastmodified":1449003569,
+    "wof:lastmodified":1466705913,
     "wof:name":"Bruce Sereta",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.023285,36.180993,-115.023285,36.180993],
+  "bbox": [
+    -115.023285,
+    36.180993,
+    -115.023285,
+    36.180993
+],
   "geometry": {"coordinates":[-115.023285,36.180993],"type":"Point"}
 }

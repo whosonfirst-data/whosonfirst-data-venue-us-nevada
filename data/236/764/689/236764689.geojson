@@ -2,13 +2,14 @@
   "id": 236764689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.752146,40.834973,-115.752146,40.834973",
     "geom:latitude":40.834973,
     "geom:longitude":-115.752146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 Water St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236764689,
-    "wof:lastmodified":1449005063,
+    "wof:lastmodified":1466706725,
     "wof:name":"Desert Paradise Lanes",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-115.752146,40.834973,-115.752146,40.834973],
+  "bbox": [
+    -115.752146,
+    40.834973,
+    -115.752146,
+    40.834973
+],
   "geometry": {"coordinates":[-115.752146,40.834973],"type":"Point"}
 }

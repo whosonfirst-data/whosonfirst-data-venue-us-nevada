@@ -2,13 +2,14 @@
   "id": 236192411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.996548,36.069136,-114.996548,36.069136",
     "geom:latitude":36.069136,
     "geom:longitude":-114.996548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236192411,
-    "wof:lastmodified":1449004085,
+    "wof:lastmodified":1466703411,
     "wof:name":"Stoneworks Of Nevada",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.996548,36.069136,-114.996548,36.069136],
+  "bbox": [
+    -114.996548,
+    36.069136,
+    -114.996548,
+    36.069136
+],
   "geometry": {"coordinates":[-114.996548,36.069136],"type":"Point"}
 }

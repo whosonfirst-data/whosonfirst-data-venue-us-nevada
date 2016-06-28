@@ -2,13 +2,14 @@
   "id": 219673613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137411,36.203584,-115.137411,36.203584",
     "geom:latitude":36.203584,
     "geom:longitude":-115.137411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219673613,
-    "wof:lastmodified":1449071754,
+    "wof:lastmodified":1466704289,
     "wof:name":"Universal Fiberglass",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-115.137411,36.203584,-115.137411,36.203584],
+  "bbox": [
+    -115.137411,
+    36.203584,
+    -115.137411,
+    36.203584
+],
   "geometry": {"coordinates":[-115.137411,36.203584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220074699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.443394,36.534713,-114.443394,36.534713",
     "geom:latitude":36.534713,
     "geom:longitude":-114.443394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 S Moapa Valley Blvd",
     "sg:city":"Overton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220074699,
-    "wof:lastmodified":1449074482,
+    "wof:lastmodified":1466702242,
     "wof:name":"Home Hardware & Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.443394,36.534713,-114.443394,36.534713],
+  "bbox": [
+    -114.443394,
+    36.534713,
+    -114.443394,
+    36.534713
+],
   "geometry": {"coordinates":[-114.443394,36.534713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236908129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244316,36.165237,-115.244316,36.165237",
     "geom:latitude":36.165237,
     "geom:longitude":-115.244316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236908129,
-    "wof:lastmodified":1449003535,
+    "wof:lastmodified":1466706910,
     "wof:name":"Chatter Box Wireless Inc",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.244316,36.165237,-115.244316,36.165237],
+  "bbox": [
+    -115.244316,
+    36.165237,
+    -115.244316,
+    36.165237
+],
   "geometry": {"coordinates":[-115.244316,36.165237],"type":"Point"}
 }

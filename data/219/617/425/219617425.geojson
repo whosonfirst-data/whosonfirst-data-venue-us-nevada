@@ -2,13 +2,14 @@
   "id": 219617425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759012,39.170554,-119.759012,39.170554",
     "geom:latitude":39.170554,
     "geom:longitude":-119.759012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E William St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219617425,
-    "wof:lastmodified":1449070489,
+    "wof:lastmodified":1466703232,
     "wof:name":"Prostar Publications Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-119.759012,39.170554,-119.759012,39.170554],
+  "bbox": [
+    -119.759012,
+    39.170554,
+    -119.759012,
+    39.170554
+],
   "geometry": {"coordinates":[-119.759012,39.170554],"type":"Point"}
 }

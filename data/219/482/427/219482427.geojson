@@ -2,13 +2,14 @@
   "id": 219482427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.233081,39.599096,-119.233081,39.599096",
     "geom:latitude":39.599096,
     "geom:longitude":-119.233081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Wildrose Dr",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219482427,
-    "wof:lastmodified":1449071641,
+    "wof:lastmodified":1466704080,
     "wof:name":"Old Ways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.233081,39.599096,-119.233081,39.599096],
+  "bbox": [
+    -119.233081,
+    39.599096,
+    -119.233081,
+    39.599096
+],
   "geometry": {"coordinates":[-119.233081,39.599096],"type":"Point"}
 }

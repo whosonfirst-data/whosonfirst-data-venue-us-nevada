@@ -2,13 +2,14 @@
   "id": 354168961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125438,36.144587,-115.125438,36.144587",
     "geom:latitude":36.144587,
     "geom:longitude":-115.125438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Sahara Ave Ste 104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":354168961,
-    "wof:lastmodified":1449066824,
+    "wof:lastmodified":1466704675,
     "wof:name":"David A Stella Dcpc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.125438,36.144587,-115.125438,36.144587],
+  "bbox": [
+    -115.125438,
+    36.144587,
+    -115.125438,
+    36.144587
+],
   "geometry": {"coordinates":[-115.125438,36.144587],"type":"Point"}
 }

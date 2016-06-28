@@ -2,13 +2,14 @@
   "id": 236726833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186948,36.108269,-115.186948,36.108269",
     "geom:latitude":36.108269,
     "geom:longitude":-115.186948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3570 W Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236726833,
-    "wof:lastmodified":1449003999,
+    "wof:lastmodified":1466706670,
     "wof:name":"Seven-Up/Rc Btlg Southern Cal",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "soft"
     ]
 },
-  "bbox": [-115.186948,36.108269,-115.186948,36.108269],
+  "bbox": [
+    -115.186948,
+    36.108269,
+    -115.186948,
+    36.108269
+],
   "geometry": {"coordinates":[-115.186948,36.108269],"type":"Point"}
 }

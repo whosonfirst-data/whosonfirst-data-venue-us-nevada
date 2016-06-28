@@ -2,13 +2,14 @@
   "id": 236225379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770553,39.46581,-119.770553,39.46581",
     "geom:latitude":39.46581,
     "geom:longitude":-119.770553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3595 Airway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236225379,
-    "wof:lastmodified":1449002516,
+    "wof:lastmodified":1466704084,
     "wof:name":"Signs By Tomorrow",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.770553,39.46581,-119.770553,39.46581],
-  "geometry": {"coordinates":[-119.770553,39.46581],"type":"Point"}
+  "bbox": [
+    -119.770553,
+    39.46581,
+    -119.770553,
+    39.46581
+],
+  "geometry": {"coordinates":[-119.77055300000001,39.46581],"type":"Point"}
 }

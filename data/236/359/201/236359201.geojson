@@ -2,13 +2,14 @@
   "id": 236359201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792991,39.527535,-119.792991,39.527535",
     "geom:latitude":39.527535,
     "geom:longitude":-119.792991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 E 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236359201,
-    "wof:lastmodified":1449001640,
+    "wof:lastmodified":1466705228,
     "wof:name":"Textile Supply",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "textile"
     ]
 },
-  "bbox": [-119.792991,39.527535,-119.792991,39.527535],
+  "bbox": [
+    -119.792991,
+    39.527535,
+    -119.792991,
+    39.527535
+],
   "geometry": {"coordinates":[-119.792991,39.527535],"type":"Point"}
 }

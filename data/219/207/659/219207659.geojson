@@ -2,13 +2,14 @@
   "id": 219207659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117057,36.259961,-115.117057,36.259961",
     "geom:latitude":36.259961,
     "geom:longitude":-115.117057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5541 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219207659,
-    "wof:lastmodified":1449072860,
+    "wof:lastmodified":1466702128,
     "wof:name":"Tri Con Pipelines",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.117057,36.259961,-115.117057,36.259961],
+  "bbox": [
+    -115.117057,
+    36.259961,
+    -115.117057,
+    36.259961
+],
   "geometry": {"coordinates":[-115.117057,36.259961],"type":"Point"}
 }

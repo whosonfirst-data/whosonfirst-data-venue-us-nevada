@@ -2,13 +2,14 @@
   "id": 219402169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185497,36.131944,-115.185497,36.131944",
     "geom:latitude":36.131944,
     "geom:longitude":-115.185497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219402169,
-    "wof:lastmodified":1449071526,
+    "wof:lastmodified":1466703637,
     "wof:name":"Pilkington North America",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.185497,36.131944,-115.185497,36.131944],
+  "bbox": [
+    -115.185497,
+    36.131944,
+    -115.185497,
+    36.131944
+],
   "geometry": {"coordinates":[-115.185497,36.131944],"type":"Point"}
 }

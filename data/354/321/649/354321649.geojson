@@ -2,13 +2,14 @@
   "id": 354321649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243399,36.081971,-115.243399,36.081971",
     "geom:latitude":36.081971,
     "geom:longitude":-115.243399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5875 S Rainbow Blvd Ste 201",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354321649,
-    "wof:lastmodified":1449065976,
+    "wof:lastmodified":1466705857,
     "wof:name":"Dr Lean",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-115.243399,36.081971,-115.243399,36.081971],
+  "bbox": [
+    -115.243399,
+    36.081971,
+    -115.243399,
+    36.081971
+],
   "geometry": {"coordinates":[-115.243399,36.081971],"type":"Point"}
 }

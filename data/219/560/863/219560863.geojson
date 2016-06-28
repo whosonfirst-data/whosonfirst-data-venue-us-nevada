@@ -2,13 +2,14 @@
   "id": 219560863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203674,36.144572,-115.203674,36.144572",
     "geom:latitude":36.144572,
     "geom:longitude":-115.203674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219560863,
-    "wof:lastmodified":1449073096,
+    "wof:lastmodified":1466702413,
     "wof:name":"Avenue",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.203674,36.144572,-115.203674,36.144572],
-  "geometry": {"coordinates":[-115.203674,36.144572],"type":"Point"}
+  "bbox": [
+    -115.203674,
+    36.144572,
+    -115.203674,
+    36.144572
+],
+  "geometry": {"coordinates":[-115.20367400000001,36.144572],"type":"Point"}
 }

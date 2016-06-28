@@ -2,13 +2,14 @@
   "id": 236275081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081128,36.106803,-115.081128,36.106803",
     "geom:latitude":36.106803,
     "geom:longitude":-115.081128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4373 el Carnal Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236275081,
-    "wof:lastmodified":1449002556,
+    "wof:lastmodified":1466704343,
     "wof:name":"Ruiter Construction",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.081128,36.106803,-115.081128,36.106803],
-  "geometry": {"coordinates":[-115.081128,36.106803],"type":"Point"}
+  "bbox": [
+    -115.081128,
+    36.106803,
+    -115.081128,
+    36.106803
+],
+  "geometry": {"coordinates":[-115.08112800000001,36.106803],"type":"Point"}
 }

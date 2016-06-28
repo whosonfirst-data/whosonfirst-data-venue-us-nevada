@@ -2,13 +2,14 @@
   "id": 236187723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222112,36.173328,-115.222112,36.173328",
     "geom:latitude":36.173328,
     "geom:longitude":-115.222112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Harmony Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236187723,
-    "wof:lastmodified":1449002045,
+    "wof:lastmodified":1466703328,
     "wof:name":"Gustavo Villa",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.222112,36.173328,-115.222112,36.173328],
+  "bbox": [
+    -115.222112,
+    36.173328,
+    -115.222112,
+    36.173328
+],
   "geometry": {"coordinates":[-115.222112,36.173328],"type":"Point"}
 }

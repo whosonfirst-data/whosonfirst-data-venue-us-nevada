@@ -2,13 +2,14 @@
   "id": 370361249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762526,39.174185,-119.762526,39.174185",
     "geom:latitude":39.174185,
     "geom:longitude":-119.762526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Long St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370361249,
-    "wof:lastmodified":1449031558,
+    "wof:lastmodified":1466704939,
     "wof:name":"Safe At Home Pet Sitting",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sitting"
     ]
 },
-  "bbox": [-119.762526,39.174185,-119.762526,39.174185],
-  "geometry": {"coordinates":[-119.762526,39.174185],"type":"Point"}
+  "bbox": [
+    -119.762526,
+    39.174185,
+    -119.762526,
+    39.174185
+],
+  "geometry": {"coordinates":[-119.76252599999999,39.174185],"type":"Point"}
 }

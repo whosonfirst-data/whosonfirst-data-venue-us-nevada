@@ -2,13 +2,14 @@
   "id": 236776317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.238363,39.606147,-119.238363,39.606147",
     "geom:latitude":39.606147,
     "geom:longitude":-119.238363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 E Main St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236776317,
-    "wof:lastmodified":1449002216,
+    "wof:lastmodified":1466706614,
     "wof:name":"Lyon County Health Nurse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-119.238363,39.606147,-119.238363,39.606147],
-  "geometry": {"coordinates":[-119.238363,39.606147],"type":"Point"}
+  "bbox": [
+    -119.238363,
+    39.606147,
+    -119.238363,
+    39.606147
+],
+  "geometry": {"coordinates":[-119.23836300000001,39.606147],"type":"Point"}
 }

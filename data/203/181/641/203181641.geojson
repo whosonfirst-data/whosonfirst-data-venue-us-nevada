@@ -2,13 +2,14 @@
   "id": 203181641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111229,36.004555,-115.111229,36.004555",
     "geom:latitude":36.004555,
     "geom:longitude":-115.111229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 S Eastern Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203181641,
-    "wof:lastmodified":1449026097,
+    "wof:lastmodified":1466701845,
     "wof:name":"Ear Nose & Throat Consultants",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.111229,36.004555,-115.111229,36.004555],
-  "geometry": {"coordinates":[-115.111229,36.004555],"type":"Point"}
+  "bbox": [
+    -115.111229,
+    36.004555,
+    -115.111229,
+    36.004555
+],
+  "geometry": {"coordinates":[-115.11122899999999,36.004555],"type":"Point"}
 }

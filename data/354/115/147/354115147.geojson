@@ -2,13 +2,14 @@
   "id": 354115147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19089,36.130525,-115.19089,36.130525",
     "geom:latitude":36.130525,
     "geom:longitude":-115.19089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 W Desert Inn Rd Ste 107",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354115147,
-    "wof:lastmodified":1449065918,
+    "wof:lastmodified":1466704544,
     "wof:name":"Exclusive Tailoring",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alteration"
     ]
 },
-  "bbox": [-115.19089,36.130525,-115.19089,36.130525],
+  "bbox": [
+    -115.19089,
+    36.130525,
+    -115.19089,
+    36.130525
+],
   "geometry": {"coordinates":[-115.19089,36.130525],"type":"Point"}
 }

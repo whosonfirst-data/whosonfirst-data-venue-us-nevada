@@ -2,13 +2,14 @@
   "id": 219350193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.723878,38.904427,-119.723878,38.904427",
     "geom:latitude":38.904427,
     "geom:longitude":-119.723878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"876 Dresslerville Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219350193,
-    "wof:lastmodified":1449072183,
+    "wof:lastmodified":1466703400,
     "wof:name":"Haywire Outfit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.723878,38.904427,-119.723878,38.904427],
+  "bbox": [
+    -119.723878,
+    38.904427,
+    -119.723878,
+    38.904427
+],
   "geometry": {"coordinates":[-119.723878,38.904427],"type":"Point"}
 }

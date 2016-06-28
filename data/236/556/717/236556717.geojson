@@ -2,13 +2,14 @@
   "id": 236556717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.958752,36.186089,-115.958752,36.186089",
     "geom:latitude":36.186089,
     "geom:longitude":-115.958752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236556717,
-    "wof:lastmodified":1449002291,
+    "wof:lastmodified":1466706009,
     "wof:name":"Shadow Mountain Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.958752,36.186089,-115.958752,36.186089],
+  "bbox": [
+    -115.958752,
+    36.186089,
+    -115.958752,
+    36.186089
+],
   "geometry": {"coordinates":[-115.958752,36.186089],"type":"Point"}
 }

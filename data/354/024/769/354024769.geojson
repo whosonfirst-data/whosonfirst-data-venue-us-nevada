@@ -2,13 +2,14 @@
   "id": 354024769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139195,36.201007,-115.139195,36.201007",
     "geom:latitude":36.201007,
     "geom:longitude":-115.139195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2256 Losee Rd Ste C",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354024769,
-    "wof:lastmodified":1449066734,
+    "wof:lastmodified":1466702122,
     "wof:name":"House Family Worship Center the",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.139195,36.201007,-115.139195,36.201007],
+  "bbox": [
+    -115.139195,
+    36.201007,
+    -115.139195,
+    36.201007
+],
   "geometry": {"coordinates":[-115.139195,36.201007],"type":"Point"}
 }

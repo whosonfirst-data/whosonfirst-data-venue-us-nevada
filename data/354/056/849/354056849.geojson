@@ -2,13 +2,14 @@
   "id": 354056849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102645,36.033943,-115.102645,36.033943",
     "geom:latitude":36.033943,
     "geom:longitude":-115.102645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 Wigwam Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":354056849,
-    "wof:lastmodified":1449066383,
+    "wof:lastmodified":1466702955,
     "wof:name":"Terrible Herbst",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.102645,36.033943,-115.102645,36.033943],
+  "bbox": [
+    -115.102645,
+    36.033943,
+    -115.102645,
+    36.033943
+],
   "geometry": {"coordinates":[-115.102645,36.033943],"type":"Point"}
 }

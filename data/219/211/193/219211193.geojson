@@ -2,13 +2,14 @@
   "id": 219211193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817221,39.5201,-119.817221,39.5201",
     "geom:latitude":39.5201,
     "geom:longitude":-119.817221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219211193,
-    "wof:lastmodified":1449071265,
+    "wof:lastmodified":1466702165,
     "wof:name":"Hansen & Assoc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-119.817221,39.5201,-119.817221,39.5201],
+  "bbox": [
+    -119.817221,
+    39.5201,
+    -119.817221,
+    39.5201
+],
   "geometry": {"coordinates":[-119.817221,39.5201],"type":"Point"}
 }

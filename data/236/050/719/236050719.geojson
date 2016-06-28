@@ -2,13 +2,14 @@
   "id": 236050719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.712163,39.384555,-119.712163,39.384555",
     "geom:latitude":39.384555,
     "geom:longitude":-119.712163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Geiger Grade Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236050719,
-    "wof:lastmodified":1449003479,
+    "wof:lastmodified":1466703972,
     "wof:name":"Sierra Loft Winds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.712163,39.384555,-119.712163,39.384555],
+  "bbox": [
+    -119.712163,
+    39.384555,
+    -119.712163,
+    39.384555
+],
   "geometry": {"coordinates":[-119.712163,39.384555],"type":"Point"}
 }

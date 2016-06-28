@@ -2,13 +2,14 @@
   "id": 219398141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223806,36.195765,-115.223806,36.195765",
     "geom:latitude":36.195765,
     "geom:longitude":-115.223806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 N Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219398141,
-    "wof:lastmodified":1449070674,
+    "wof:lastmodified":1466703615,
     "wof:name":"Tony Manitta",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-115.223806,36.195765,-115.223806,36.195765],
+  "bbox": [
+    -115.223806,
+    36.195765,
+    -115.223806,
+    36.195765
+],
   "geometry": {"coordinates":[-115.223806,36.195765],"type":"Point"}
 }

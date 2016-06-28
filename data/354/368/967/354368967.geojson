@@ -2,13 +2,14 @@
   "id": 354368967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112946,36.081434,-115.112946,36.081434",
     "geom:latitude":36.081434,
     "geom:longitude":-115.112946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5967 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354368967,
-    "wof:lastmodified":1449066328,
+    "wof:lastmodified":1466705971,
     "wof:name":"Edward Turrentine Design",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.112946,36.081434,-115.112946,36.081434],
-  "geometry": {"coordinates":[-115.112946,36.081434],"type":"Point"}
+  "bbox": [
+    -115.112946,
+    36.081434,
+    -115.112946,
+    36.081434
+],
+  "geometry": {"coordinates":[-115.11294599999999,36.081434],"type":"Point"}
 }

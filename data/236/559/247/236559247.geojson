@@ -2,13 +2,14 @@
   "id": 236559247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109194,35.996734,-115.109194,35.996734",
     "geom:latitude":35.996734,
     "geom:longitude":-115.109194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2749 Pine Flat Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236559247,
-    "wof:lastmodified":1449004381,
+    "wof:lastmodified":1466706034,
     "wof:name":"Paragon Express Delivery",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-115.109194,35.996734,-115.109194,35.996734],
+  "bbox": [
+    -115.109194,
+    35.996734,
+    -115.109194,
+    35.996734
+],
   "geometry": {"coordinates":[-115.109194,35.996734],"type":"Point"}
 }

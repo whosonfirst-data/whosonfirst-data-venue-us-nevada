@@ -2,13 +2,14 @@
   "id": 354323157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.215718,36.090757,-115.215718,36.090757",
     "geom:latitude":36.090757,
     "geom:longitude":-115.215718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5452 Cactus Thorn Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354323157,
-    "wof:lastmodified":1449066075,
+    "wof:lastmodified":1466705744,
     "wof:name":"Oakwood Management Co",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.215718,36.090757,-115.215718,36.090757],
+  "bbox": [
+    -115.215718,
+    36.090757,
+    -115.215718,
+    36.090757
+],
   "geometry": {"coordinates":[-115.215718,36.090757],"type":"Point"}
 }

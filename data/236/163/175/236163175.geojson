@@ -2,13 +2,14 @@
   "id": 236163175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765328,39.182606,-119.765328,39.182606",
     "geom:latitude":39.182606,
     "geom:longitude":-119.765328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Hot Springs Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236163175,
-    "wof:lastmodified":1449005159,
+    "wof:lastmodified":1466702838,
     "wof:name":"Lone Mountain Mobile HM Cmnty",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "community"
     ]
 },
-  "bbox": [-119.765328,39.182606,-119.765328,39.182606],
+  "bbox": [
+    -119.765328,
+    39.182606,
+    -119.765328,
+    39.182606
+],
   "geometry": {"coordinates":[-119.765328,39.182606],"type":"Point"}
 }

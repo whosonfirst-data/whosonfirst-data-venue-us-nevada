@@ -2,13 +2,14 @@
   "id": 220114903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760812,39.170472,-119.760812,39.170472",
     "geom:latitude":39.170472,
     "geom:longitude":-119.760812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"886 E William St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220114903,
-    "wof:lastmodified":1449074373,
+    "wof:lastmodified":1466702493,
     "wof:name":"Maverick Finance",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-119.760812,39.170472,-119.760812,39.170472],
+  "bbox": [
+    -119.760812,
+    39.170472,
+    -119.760812,
+    39.170472
+],
   "geometry": {"coordinates":[-119.760812,39.170472],"type":"Point"}
 }

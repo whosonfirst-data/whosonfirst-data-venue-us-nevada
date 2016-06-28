@@ -2,13 +2,14 @@
   "id": 354413175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118369,36.05437,-115.118369,36.05437",
     "geom:latitude":36.05437,
     "geom:longitude":-115.118369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7435 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354413175,
-    "wof:lastmodified":1449066195,
+    "wof:lastmodified":1466706335,
     "wof:name":"Centra Construction",
     "wof:parent_id":85879745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.118369,36.05437,-115.118369,36.05437],
+  "bbox": [
+    -115.118369,
+    36.05437,
+    -115.118369,
+    36.05437
+],
   "geometry": {"coordinates":[-115.118369,36.05437],"type":"Point"}
 }

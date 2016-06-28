@@ -2,13 +2,14 @@
   "id": 203224107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175458,36.057064,-115.175458,36.057064",
     "geom:latitude":36.057064,
     "geom:longitude":-115.175458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 W Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203224107,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466702320,
     "wof:name":"Horse N Around 2",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.175458,36.057064,-115.175458,36.057064],
-  "geometry": {"coordinates":[-115.175458,36.057064],"type":"Point"}
+  "bbox": [
+    -115.175458,
+    36.057064,
+    -115.175458,
+    36.057064
+],
+  "geometry": {"coordinates":[-115.17545800000001,36.057064],"type":"Point"}
 }

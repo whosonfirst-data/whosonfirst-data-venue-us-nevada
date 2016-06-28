@@ -2,13 +2,14 @@
   "id": 220027699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.347483,36.142796,-115.347483,36.142796",
     "geom:latitude":36.142796,
     "geom:longitude":-115.347483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3092 Red Arrow Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220027699,
-    "wof:lastmodified":1449074186,
+    "wof:lastmodified":1466701786,
     "wof:name":"Bevinco Bar Systems",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-115.347483,36.142796,-115.347483,36.142796],
+  "bbox": [
+    -115.347483,
+    36.142796,
+    -115.347483,
+    36.142796
+],
   "geometry": {"coordinates":[-115.347483,36.142796],"type":"Point"}
 }

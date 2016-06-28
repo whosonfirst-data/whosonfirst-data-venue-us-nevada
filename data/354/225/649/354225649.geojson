@@ -2,13 +2,14 @@
   "id": 354225649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242132,36.199025,-115.242132,36.199025",
     "geom:latitude":36.199025,
     "geom:longitude":-115.242132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2192 N Rainbow Boulevard Suite 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354225649,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1466705179,
     "wof:name":"Desert Birkenstock",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.242132,36.199025,-115.242132,36.199025],
+  "bbox": [
+    -115.242132,
+    36.199025,
+    -115.242132,
+    36.199025
+],
   "geometry": {"coordinates":[-115.242132,36.199025],"type":"Point"}
 }

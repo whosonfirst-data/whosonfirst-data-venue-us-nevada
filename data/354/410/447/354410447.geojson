@@ -2,13 +2,14 @@
   "id": 354410447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119003,36.032799,-115.119003,36.032799",
     "geom:latitude":36.032799,
     "geom:longitude":-115.119003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8610 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354410447,
-    "wof:lastmodified":1449065958,
+    "wof:lastmodified":1466706182,
     "wof:name":"Schultz William A CPA Ltd",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.119003,36.032799,-115.119003,36.032799],
-  "geometry": {"coordinates":[-115.119003,36.032799],"type":"Point"}
+  "bbox": [
+    -115.119003,
+    36.032799,
+    -115.119003,
+    36.032799
+],
+  "geometry": {"coordinates":[-115.11900300000001,36.032799],"type":"Point"}
 }

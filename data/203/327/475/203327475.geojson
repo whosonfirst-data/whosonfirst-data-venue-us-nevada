@@ -2,13 +2,14 @@
   "id": 203327475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74092,39.528554,-119.74092,39.528554",
     "geom:latitude":39.528554,
     "geom:longitude":-119.74092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Glen Carran Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203327475,
-    "wof:lastmodified":1449025077,
+    "wof:lastmodified":1466703011,
     "wof:name":"Sierra Nevada Bldrs Control In",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-119.74092,39.528554,-119.74092,39.528554],
+  "bbox": [
+    -119.74092,
+    39.528554,
+    -119.74092,
+    39.528554
+],
   "geometry": {"coordinates":[-119.74092,39.528554],"type":"Point"}
 }

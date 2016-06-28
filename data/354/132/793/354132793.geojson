@@ -2,13 +2,14 @@
   "id": 354132793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162437,36.152212,-115.162437,36.152212",
     "geom:latitude":36.152212,
     "geom:longitude":-115.162437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354132793,
-    "wof:lastmodified":1449066746,
+    "wof:lastmodified":1466704282,
     "wof:name":"Rebel Wine & Spirit",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.162437,36.152212,-115.162437,36.152212],
+  "bbox": [
+    -115.162437,
+    36.152212,
+    -115.162437,
+    36.152212
+],
   "geometry": {"coordinates":[-115.162437,36.152212],"type":"Point"}
 }

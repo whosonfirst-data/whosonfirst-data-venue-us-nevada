@@ -2,13 +2,14 @@
   "id": 220156941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745939,39.125649,-119.745939,39.125649",
     "geom:latitude":39.125649,
     "geom:longitude":-119.745939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 S Edmonds Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220156941,
-    "wof:lastmodified":1449074199,
+    "wof:lastmodified":1466702813,
     "wof:name":"Capitol Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.745939,39.125649,-119.745939,39.125649],
-  "geometry": {"coordinates":[-119.745939,39.125649],"type":"Point"}
+  "bbox": [
+    -119.745939,
+    39.125649,
+    -119.745939,
+    39.125649
+],
+  "geometry": {"coordinates":[-119.74593900000001,39.125649],"type":"Point"}
 }

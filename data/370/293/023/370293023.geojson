@@ -2,13 +2,14 @@
   "id": 370293023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152902,36.122587,-115.152902,36.122587",
     "geom:latitude":36.122587,
     "geom:longitude":-115.152902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3684 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370293023,
-    "wof:lastmodified":1449029758,
+    "wof:lastmodified":1466704330,
     "wof:name":"Hotel Suites of America",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.152902,36.122587,-115.152902,36.122587],
+  "bbox": [
+    -115.152902,
+    36.122587,
+    -115.152902,
+    36.122587
+],
   "geometry": {"coordinates":[-115.152902,36.122587],"type":"Point"}
 }

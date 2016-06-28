@@ -2,13 +2,14 @@
   "id": 219760375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182797,36.170856,-115.182797,36.170856",
     "geom:latitude":36.170856,
     "geom:longitude":-115.182797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Justice Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219760375,
-    "wof:lastmodified":1449073780,
+    "wof:lastmodified":1466704837,
     "wof:name":"Sharks Bail Bonds",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-115.182797,36.170856,-115.182797,36.170856],
-  "geometry": {"coordinates":[-115.182797,36.170856],"type":"Point"}
+  "bbox": [
+    -115.182797,
+    36.170856,
+    -115.182797,
+    36.170856
+],
+  "geometry": {"coordinates":[-115.18279699999999,36.170856],"type":"Point"}
 }

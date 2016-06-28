@@ -2,13 +2,14 @@
   "id": 219612927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221563,36.204466,-115.221563,36.204466",
     "geom:latitude":36.204466,
     "geom:longitude":-115.221563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 San Fernando Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219612927,
-    "wof:lastmodified":1449071954,
+    "wof:lastmodified":1466703145,
     "wof:name":"Chief Roofing Inc",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.221563,36.204466,-115.221563,36.204466],
+  "bbox": [
+    -115.221563,
+    36.204466,
+    -115.221563,
+    36.204466
+],
   "geometry": {"coordinates":[-115.221563,36.204466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236706821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.249833,39.370736,-119.249833,39.370736",
     "geom:latitude":39.370736,
     "geom:longitude":-119.249833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5340 Aspen St",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236706821,
-    "wof:lastmodified":1449001852,
+    "wof:lastmodified":1466706635,
     "wof:name":"Stepping Up Stairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-119.249833,39.370736,-119.249833,39.370736],
+  "bbox": [
+    -119.249833,
+    39.370736,
+    -119.249833,
+    39.370736
+],
   "geometry": {"coordinates":[-119.249833,39.370736],"type":"Point"}
 }

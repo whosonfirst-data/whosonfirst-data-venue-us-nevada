@@ -2,13 +2,14 @@
   "id": 235998727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.719112,39.545807,-119.719112,39.545807",
     "geom:latitude":39.545807,
     "geom:longitude":-119.719112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Kendal Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235998727,
-    "wof:lastmodified":1449008370,
+    "wof:lastmodified":1466703747,
     "wof:name":"Dial-A-Sitter",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-119.719112,39.545807,-119.719112,39.545807],
+  "bbox": [
+    -119.719112,
+    39.545807,
+    -119.719112,
+    39.545807
+],
   "geometry": {"coordinates":[-119.719112,39.545807],"type":"Point"}
 }

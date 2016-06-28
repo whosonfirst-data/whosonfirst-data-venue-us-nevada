@@ -2,13 +2,14 @@
   "id": 354253303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173147,36.137072,-115.173147,36.137072",
     "geom:latitude":36.137072,
     "geom:longitude":-115.173147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 S Highland Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354253303,
-    "wof:lastmodified":1449067454,
+    "wof:lastmodified":1466705366,
     "wof:name":"Touch Star Media Services",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-115.173147,36.137072,-115.173147,36.137072],
+  "bbox": [
+    -115.173147,
+    36.137072,
+    -115.173147,
+    36.137072
+],
   "geometry": {"coordinates":[-115.173147,36.137072],"type":"Point"}
 }

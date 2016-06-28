@@ -2,13 +2,14 @@
   "id": 219581755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250702,36.100303,-115.250702,36.100303",
     "geom:latitude":36.100303,
     "geom:longitude":-115.250702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4809 Ashbrook Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219581755,
-    "wof:lastmodified":1449071139,
+    "wof:lastmodified":1466702771,
     "wof:name":"Aprc",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.250702,36.100303,-115.250702,36.100303],
+  "bbox": [
+    -115.250702,
+    36.100303,
+    -115.250702,
+    36.100303
+],
   "geometry": {"coordinates":[-115.250702,36.100303],"type":"Point"}
 }

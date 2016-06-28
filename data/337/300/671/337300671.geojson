@@ -2,13 +2,14 @@
   "id": 337300671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770617,39.545408,-119.770617,39.545408",
     "geom:latitude":39.545408,
     "geom:longitude":-119.770617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Oddie Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337300671,
-    "wof:lastmodified":1449027409,
+    "wof:lastmodified":1466701739,
     "wof:name":"Sun Valley Stereo and TV Repr",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "fidelity"
     ]
 },
-  "bbox": [-119.770617,39.545408,-119.770617,39.545408],
+  "bbox": [
+    -119.770617,
+    39.545408,
+    -119.770617,
+    39.545408
+],
   "geometry": {"coordinates":[-119.770617,39.545408],"type":"Point"}
 }

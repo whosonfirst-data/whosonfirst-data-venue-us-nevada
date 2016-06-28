@@ -2,13 +2,14 @@
   "id": 354173585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079173,36.143351,-115.079173,36.143351",
     "geom:latitude":36.143351,
     "geom:longitude":-115.079173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 E Sahara Ave Ste 11",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354173585,
-    "wof:lastmodified":1449066257,
+    "wof:lastmodified":1466704733,
     "wof:name":"Charlie's Janitorial Services",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.079173,36.143351,-115.079173,36.143351],
+  "bbox": [
+    -115.079173,
+    36.143351,
+    -115.079173,
+    36.143351
+],
   "geometry": {"coordinates":[-115.079173,36.143351],"type":"Point"}
 }

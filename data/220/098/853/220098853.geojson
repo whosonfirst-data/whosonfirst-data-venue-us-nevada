@@ -2,13 +2,14 @@
   "id": 220098853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731771,39.632465,-119.731771,39.632465",
     "geom:latitude":39.632465,
     "geom:longitude":-119.731771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Grove Springs Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220098853,
-    "wof:lastmodified":1449074787,
+    "wof:lastmodified":1466702371,
     "wof:name":"Spanish Springs Realty",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.731771,39.632465,-119.731771,39.632465],
-  "geometry": {"coordinates":[-119.731771,39.632465],"type":"Point"}
+  "bbox": [
+    -119.731771,
+    39.632465,
+    -119.731771,
+    39.632465
+],
+  "geometry": {"coordinates":[-119.73177099999999,39.632465],"type":"Point"}
 }

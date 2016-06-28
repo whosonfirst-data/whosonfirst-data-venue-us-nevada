@@ -2,13 +2,14 @@
   "id": 219402309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.856905,35.9735,-114.856905,35.9735",
     "geom:latitude":35.9735,
     "geom:longitude":-114.856905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Yucca St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219402309,
-    "wof:lastmodified":1449071526,
+    "wof:lastmodified":1466703640,
     "wof:name":"Vogue Marine Ctr",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-114.856905,35.9735,-114.856905,35.9735],
+  "bbox": [
+    -114.856905,
+    35.9735,
+    -114.856905,
+    35.9735
+],
   "geometry": {"coordinates":[-114.856905,35.9735],"type":"Point"}
 }

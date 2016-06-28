@@ -2,13 +2,14 @@
   "id": 219191565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813039,39.220131,-119.813039,39.220131",
     "geom:latitude":39.220131,
     "geom:longitude":-119.813039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Lonesome Polecat Ln",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219191565,
-    "wof:lastmodified":1449072533,
+    "wof:lastmodified":1466702017,
     "wof:name":"Washoe Valley Custom Clubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.813039,39.220131,-119.813039,39.220131],
+  "bbox": [
+    -119.813039,
+    39.220131,
+    -119.813039,
+    39.220131
+],
   "geometry": {"coordinates":[-119.813039,39.220131],"type":"Point"}
 }

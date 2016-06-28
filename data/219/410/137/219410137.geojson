@@ -2,13 +2,14 @@
   "id": 219410137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794701,39.473399,-119.794701,39.473399",
     "geom:latitude":39.473399,
     "geom:longitude":-119.794701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Sierra Rose Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219410137,
-    "wof:lastmodified":1449070422,
+    "wof:lastmodified":1466703691,
     "wof:name":"Ultraviox LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-119.794701,39.473399,-119.794701,39.473399],
+  "bbox": [
+    -119.794701,
+    39.473399,
+    -119.794701,
+    39.473399
+],
   "geometry": {"coordinates":[-119.794701,39.473399],"type":"Point"}
 }

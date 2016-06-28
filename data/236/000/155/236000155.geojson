@@ -2,13 +2,14 @@
   "id": 236000155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.648494,39.489571,-118.648494,39.489571",
     "geom:latitude":39.489571,
     "geom:longitude":-118.648494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7133 Stillwater Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236000155,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1466703760,
     "wof:name":"Round House Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gallery"
     ]
 },
-  "bbox": [-118.648494,39.489571,-118.648494,39.489571],
+  "bbox": [
+    -118.648494,
+    39.489571,
+    -118.648494,
+    39.489571
+],
   "geometry": {"coordinates":[-118.648494,39.489571],"type":"Point"}
 }

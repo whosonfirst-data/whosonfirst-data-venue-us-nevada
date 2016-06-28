@@ -2,13 +2,14 @@
   "id": 354158745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20615,36.100974,-115.20615,36.100974",
     "geom:latitude":36.100974,
     "geom:longitude":-115.20615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354158745,
-    "wof:lastmodified":1449067108,
+    "wof:lastmodified":1466704763,
     "wof:name":"Las Vegas' Choice Overhead Garage Door",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.20615,36.100974,-115.20615,36.100974],
-  "geometry": {"coordinates":[-115.20615,36.100974],"type":"Point"}
+  "bbox": [
+    -115.20615,
+    36.100974,
+    -115.20615,
+    36.100974
+],
+  "geometry": {"coordinates":[-115.20614999999999,36.100974],"type":"Point"}
 }

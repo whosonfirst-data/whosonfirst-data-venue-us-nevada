@@ -2,13 +2,14 @@
   "id": 219992109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121846,36.079028,-115.121846,36.079028",
     "geom:latitude":36.079028,
     "geom:longitude":-115.121846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219992109,
-    "wof:lastmodified":1449072053,
+    "wof:lastmodified":1466706148,
     "wof:name":"Reelvips",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-115.121846,36.079028,-115.121846,36.079028],
-  "geometry": {"coordinates":[-115.121846,36.079028],"type":"Point"}
+  "bbox": [
+    -115.121846,
+    36.079028,
+    -115.121846,
+    36.079028
+],
+  "geometry": {"coordinates":[-115.12184600000001,36.079028],"type":"Point"}
 }

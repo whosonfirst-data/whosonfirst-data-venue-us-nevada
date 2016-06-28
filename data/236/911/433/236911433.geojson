@@ -2,13 +2,14 @@
   "id": 236911433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.688475,39.61773,-119.688475,39.61773",
     "geom:latitude":39.61773,
     "geom:longitude":-119.688475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 Island Queen Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236911433,
-    "wof:lastmodified":1449004598,
+    "wof:lastmodified":1466706828,
     "wof:name":"Ironwood At Wingfield Springs",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.688475,39.61773,-119.688475,39.61773],
+  "bbox": [
+    -119.688475,
+    39.61773,
+    -119.688475,
+    39.61773
+],
   "geometry": {"coordinates":[-119.688475,39.61773],"type":"Point"}
 }

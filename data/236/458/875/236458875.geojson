@@ -2,13 +2,14 @@
   "id": 236458875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241896,36.19835,-115.241896,36.19835",
     "geom:latitude":36.19835,
     "geom:longitude":-115.241896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236458875,
-    "wof:lastmodified":1449004103,
+    "wof:lastmodified":1466705754,
     "wof:name":"Babies R Us",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [-115.241896,36.19835,-115.241896,36.19835],
+  "bbox": [
+    -115.241896,
+    36.19835,
+    -115.241896,
+    36.19835
+],
   "geometry": {"coordinates":[-115.241896,36.19835],"type":"Point"}
 }

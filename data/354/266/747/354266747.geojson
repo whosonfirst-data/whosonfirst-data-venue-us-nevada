@@ -2,13 +2,14 @@
   "id": 354266747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173128,36.107361,-115.173128,36.107361",
     "geom:latitude":36.107361,
     "geom:longitude":-115.173128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Aria Resort and Casino 3730 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354266747,
-    "wof:lastmodified":1449065997,
+    "wof:lastmodified":1466705599,
     "wof:name":"Caf? Vettro",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-115.173128,36.107361,-115.173128,36.107361],
-  "geometry": {"coordinates":[-115.173128,36.107361],"type":"Point"}
+  "bbox": [
+    -115.173128,
+    36.107361,
+    -115.173128,
+    36.107361
+],
+  "geometry": {"coordinates":[-115.17312800000001,36.107361],"type":"Point"}
 }

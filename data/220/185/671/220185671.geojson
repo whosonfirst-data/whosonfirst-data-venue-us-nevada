@@ -2,13 +2,14 @@
   "id": 220185671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192596,36.161799,-115.192596,36.161799",
     "geom:latitude":36.161799,
     "geom:longitude":-115.192596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220185671,
-    "wof:lastmodified":1449074173,
+    "wof:lastmodified":1466702988,
     "wof:name":"Lidia's Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-115.192596,36.161799,-115.192596,36.161799],
-  "geometry": {"coordinates":[-115.192596,36.161799],"type":"Point"}
+  "bbox": [
+    -115.192596,
+    36.161799,
+    -115.192596,
+    36.161799
+],
+  "geometry": {"coordinates":[-115.19259599999999,36.161799],"type":"Point"}
 }

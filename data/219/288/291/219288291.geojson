@@ -2,13 +2,14 @@
   "id": 219288291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217298,36.175625,-115.217298,36.175625",
     "geom:latitude":36.175625,
     "geom:longitude":-115.217298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5513 Morendo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219288291,
-    "wof:lastmodified":1449070762,
+    "wof:lastmodified":1466702926,
     "wof:name":"WTC Consulting",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-115.217298,36.175625,-115.217298,36.175625],
+  "bbox": [
+    -115.217298,
+    36.175625,
+    -115.217298,
+    36.175625
+],
   "geometry": {"coordinates":[-115.217298,36.175625],"type":"Point"}
 }

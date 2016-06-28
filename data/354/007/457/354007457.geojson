@@ -2,13 +2,14 @@
   "id": 354007457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068961,36.073133,-115.068961,36.073133",
     "geom:latitude":36.073133,
     "geom:longitude":-115.068961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Commerce Center Drive",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007457,
-    "wof:lastmodified":1449067355,
+    "wof:lastmodified":1466701657,
     "wof:name":"Howard Francis CPA",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.068961,36.073133,-115.068961,36.073133],
+  "bbox": [
+    -115.068961,
+    36.073133,
+    -115.068961,
+    36.073133
+],
   "geometry": {"coordinates":[-115.068961,36.073133],"type":"Point"}
 }

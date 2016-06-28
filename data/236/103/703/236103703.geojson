@@ -2,13 +2,14 @@
   "id": 236103703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.86307,39.259579,-114.86307,39.259579",
     "geom:latitude":39.259579,
     "geom:longitude":-114.86307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 Ave C",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236103703,
-    "wof:lastmodified":1449003761,
+    "wof:lastmodified":1466701609,
     "wof:name":"Gubler Construction Innovator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.86307,39.259579,-114.86307,39.259579],
-  "geometry": {"coordinates":[-114.86307,39.259579],"type":"Point"}
+  "bbox": [
+    -114.86307,
+    39.259579,
+    -114.86307,
+    39.259579
+],
+  "geometry": {"coordinates":[-114.86306999999999,39.259579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219718821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166887,36.18163,-115.166887,36.18163",
     "geom:latitude":36.18163,
     "geom:longitude":-115.166887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Ophir Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219718821,
-    "wof:lastmodified":1449071157,
+    "wof:lastmodified":1466704422,
     "wof:name":"Creative Balloon",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-115.166887,36.18163,-115.166887,36.18163],
+  "bbox": [
+    -115.166887,
+    36.18163,
+    -115.166887,
+    36.18163
+],
   "geometry": {"coordinates":[-115.166887,36.18163],"type":"Point"}
 }

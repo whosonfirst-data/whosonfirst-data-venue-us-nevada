@@ -2,13 +2,14 @@
   "id": 370261405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306168,36.112392,-115.306168,36.112392",
     "geom:latitude":36.112392,
     "geom:longitude":-115.306168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 South Grand Canyon Dr. Suite 126",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370261405,
-    "wof:lastmodified":1449029126,
+    "wof:lastmodified":1466703970,
     "wof:name":"Decanter Tapas & Wine Bar",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tapa"
     ]
 },
-  "bbox": [-115.306168,36.112392,-115.306168,36.112392],
+  "bbox": [
+    -115.306168,
+    36.112392,
+    -115.306168,
+    36.112392
+],
   "geometry": {"coordinates":[-115.306168,36.112392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203391379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128097,36.212385,-115.128097,36.212385",
     "geom:latitude":36.212385,
     "geom:longitude":-115.128097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2934 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203391379,
-    "wof:lastmodified":1449026187,
+    "wof:lastmodified":1466703295,
     "wof:name":"North Las Vegas Awareness Schl",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-115.128097,36.212385,-115.128097,36.212385],
+  "bbox": [
+    -115.128097,
+    36.212385,
+    -115.128097,
+    36.212385
+],
   "geometry": {"coordinates":[-115.128097,36.212385],"type":"Point"}
 }

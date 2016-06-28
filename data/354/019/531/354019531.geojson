@@ -2,13 +2,14 @@
   "id": 354019531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.975258,36.03461,-114.975258,36.03461",
     "geom:latitude":36.03461,
     "geom:longitude":-114.975258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354019531,
-    "wof:lastmodified":1449066927,
+    "wof:lastmodified":1466702004,
     "wof:name":"Pep Boys Automotive Supercenters",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.975258,36.03461,-114.975258,36.03461],
+  "bbox": [
+    -114.975258,
+    36.03461,
+    -114.975258,
+    36.03461
+],
   "geometry": {"coordinates":[-114.975258,36.03461],"type":"Point"}
 }

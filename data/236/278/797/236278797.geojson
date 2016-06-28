@@ -2,13 +2,14 @@
   "id": 236278797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.167853,38.985801,-119.167853,38.985801",
     "geom:latitude":38.985801,
     "geom:longitude":-119.167853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Mountain View St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236278797,
-    "wof:lastmodified":1449003484,
+    "wof:lastmodified":1466704384,
     "wof:name":"Yerington Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.167853,38.985801,-119.167853,38.985801],
-  "geometry": {"coordinates":[-119.167853,38.985801],"type":"Point"}
+  "bbox": [
+    -119.167853,
+    38.985801,
+    -119.167853,
+    38.985801
+],
+  "geometry": {"coordinates":[-119.16785299999999,38.985801],"type":"Point"}
 }

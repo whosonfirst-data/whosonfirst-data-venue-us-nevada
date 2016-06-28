@@ -2,13 +2,14 @@
   "id": 353992801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.018343,36.027189,-115.018343,36.027189",
     "geom:latitude":36.027189,
     "geom:longitude":-115.018343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Pacific Cascades Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353992801,
-    "wof:lastmodified":1449019461,
+    "wof:lastmodified":1466701664,
     "wof:name":"A. G Furniture",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.018343,36.027189,-115.018343,36.027189],
+  "bbox": [
+    -115.018343,
+    36.027189,
+    -115.018343,
+    36.027189
+],
   "geometry": {"coordinates":[-115.018343,36.027189],"type":"Point"}
 }

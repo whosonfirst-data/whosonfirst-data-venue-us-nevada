@@ -2,13 +2,14 @@
   "id": 236968655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.788363,39.317125,-119.788363,39.317125",
     "geom:latitude":39.317125,
     "geom:longitude":-119.788363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Skinner Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236968655,
-    "wof:lastmodified":1449001834,
+    "wof:lastmodified":1466706956,
     "wof:name":"James C Kingsbury Tile",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.788363,39.317125,-119.788363,39.317125],
+  "bbox": [
+    -119.788363,
+    39.317125,
+    -119.788363,
+    39.317125
+],
   "geometry": {"coordinates":[-119.788363,39.317125],"type":"Point"}
 }

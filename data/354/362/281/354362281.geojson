@@ -2,13 +2,14 @@
   "id": 354362281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173015,36.096084,-115.173015,36.096084",
     "geom:latitude":36.096084,
     "geom:longitude":-115.173015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Las Vegas Boulevard S Luxor Hotel Casino",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354362281,
-    "wof:lastmodified":1449067070,
+    "wof:lastmodified":1466706058,
     "wof:name":"Company American Bistro",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-115.173015,36.096084,-115.173015,36.096084],
-  "geometry": {"coordinates":[-115.173015,36.096084],"type":"Point"}
+  "bbox": [
+    -115.173015,
+    36.096084,
+    -115.173015,
+    36.096084
+],
+  "geometry": {"coordinates":[-115.17301500000001,36.096084],"type":"Point"}
 }

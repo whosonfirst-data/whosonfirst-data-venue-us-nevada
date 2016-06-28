@@ -2,13 +2,14 @@
   "id": 370359823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772003,39.189098,-119.772003,39.189098",
     "geom:latitude":39.189098,
     "geom:longitude":-119.772003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370359823,
-    "wof:lastmodified":1449029019,
+    "wof:lastmodified":1466705069,
     "wof:name":"Forbes Keith R Dr Silver Hills Veterinary Hospital",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sitting"
     ]
 },
-  "bbox": [-119.772003,39.189098,-119.772003,39.189098],
+  "bbox": [
+    -119.772003,
+    39.189098,
+    -119.772003,
+    39.189098
+],
   "geometry": {"coordinates":[-119.772003,39.189098],"type":"Point"}
 }

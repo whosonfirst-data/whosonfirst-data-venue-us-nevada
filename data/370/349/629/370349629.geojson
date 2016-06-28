@@ -2,13 +2,14 @@
   "id": 370349629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771004,39.1455,-119.771004,39.1455",
     "geom:latitude":39.1455,
     "geom:longitude":-119.771004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2384 S Curry St Ste 1",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370349629,
-    "wof:lastmodified":1449030367,
+    "wof:lastmodified":1466705036,
     "wof:name":"Strictly Scuba & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diving"
     ]
 },
-  "bbox": [-119.771004,39.1455,-119.771004,39.1455],
+  "bbox": [
+    -119.771004,
+    39.1455,
+    -119.771004,
+    39.1455
+],
   "geometry": {"coordinates":[-119.771004,39.1455],"type":"Point"}
 }

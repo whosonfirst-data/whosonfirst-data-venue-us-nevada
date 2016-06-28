@@ -2,13 +2,14 @@
   "id": 219817009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.835219,35.96083,-114.835219,35.96083",
     "geom:latitude":35.96083,
     "geom:longitude":-114.835219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"788 Marita Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219817009,
-    "wof:lastmodified":1449073242,
+    "wof:lastmodified":1466705017,
     "wof:name":"Darwins Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.835219,35.96083,-114.835219,35.96083],
+  "bbox": [
+    -114.835219,
+    35.96083,
+    -114.835219,
+    35.96083
+],
   "geometry": {"coordinates":[-114.835219,35.96083],"type":"Point"}
 }

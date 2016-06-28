@@ -2,13 +2,14 @@
   "id": 236907957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.75764,40.931758,-117.75764,40.931758",
     "geom:latitude":40.931758,
     "geom:longitude":-117.75764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5815 Grass Valley Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236907957,
-    "wof:lastmodified":1449004949,
+    "wof:lastmodified":1466706838,
     "wof:name":"Carolyn Henderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mail"
     ]
 },
-  "bbox": [-117.75764,40.931758,-117.75764,40.931758],
-  "geometry": {"coordinates":[-117.75764,40.931758],"type":"Point"}
+  "bbox": [
+    -117.75764,
+    40.931758,
+    -117.75764,
+    40.931758
+],
+  "geometry": {"coordinates":[-117.75763999999999,40.931758],"type":"Point"}
 }

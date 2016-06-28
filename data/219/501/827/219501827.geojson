@@ -2,13 +2,14 @@
   "id": 219501827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092134,36.087866,-115.092134,36.087866",
     "geom:latitude":36.087866,
     "geom:longitude":-115.092134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3741 E Crellin Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219501827,
-    "wof:lastmodified":1449073950,
+    "wof:lastmodified":1466704168,
     "wof:name":"Elizabeth Schunk",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nursing"
     ]
 },
-  "bbox": [-115.092134,36.087866,-115.092134,36.087866],
+  "bbox": [
+    -115.092134,
+    36.087866,
+    -115.092134,
+    36.087866
+],
   "geometry": {"coordinates":[-115.092134,36.087866],"type":"Point"}
 }

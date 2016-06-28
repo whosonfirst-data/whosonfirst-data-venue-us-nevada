@@ -2,13 +2,14 @@
   "id": 236705119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755753,39.161311,-119.755753,39.161311",
     "geom:latitude":39.161311,
     "geom:longitude":-119.755753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Carson Meadows Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236705119,
-    "wof:lastmodified":1449005273,
+    "wof:lastmodified":1466706631,
     "wof:name":"Sierra Garden Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.755753,39.161311,-119.755753,39.161311],
+  "bbox": [
+    -119.755753,
+    39.161311,
+    -119.755753,
+    39.161311
+],
   "geometry": {"coordinates":[-119.755753,39.161311],"type":"Point"}
 }

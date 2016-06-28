@@ -2,13 +2,14 @@
   "id": 220136135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.126107,35.973935,-115.126107,35.973935",
     "geom:latitude":35.973935,
     "geom:longitude":-115.126107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Misty Sky Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220136135,
-    "wof:lastmodified":1449074866,
+    "wof:lastmodified":1466702668,
     "wof:name":"Shuler Transportation LLC",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-115.126107,35.973935,-115.126107,35.973935],
+  "bbox": [
+    -115.126107,
+    35.973935,
+    -115.126107,
+    35.973935
+],
   "geometry": {"coordinates":[-115.126107,35.973935],"type":"Point"}
 }

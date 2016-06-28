@@ -2,13 +2,14 @@
   "id": 219428817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053665,36.069156,-115.053665,36.069156",
     "geom:latitude":36.069156,
     "geom:longitude":-115.053665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"746 Rising Star Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219428817,
-    "wof:lastmodified":1449073667,
+    "wof:lastmodified":1466703782,
     "wof:name":"T & T Communications",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-115.053665,36.069156,-115.053665,36.069156],
+  "bbox": [
+    -115.053665,
+    36.069156,
+    -115.053665,
+    36.069156
+],
   "geometry": {"coordinates":[-115.053665,36.069156],"type":"Point"}
 }

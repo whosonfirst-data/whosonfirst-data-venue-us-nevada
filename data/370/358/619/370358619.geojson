@@ -2,13 +2,14 @@
   "id": 370358619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759003,39.203701,-119.759003,39.203701",
     "geom:latitude":39.203701,
     "geom:longitude":-119.759003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 N Sutro Ter",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370358619,
-    "wof:lastmodified":1449030505,
+    "wof:lastmodified":1466705198,
     "wof:name":"Chem-Dry Clarke's Carpet & Upholstery",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-119.759003,39.203701,-119.759003,39.203701],
-  "geometry": {"coordinates":[-119.759003,39.203701],"type":"Point"}
+  "bbox": [
+    -119.759003,
+    39.203701,
+    -119.759003,
+    39.203701
+],
+  "geometry": {"coordinates":[-119.75900300000001,39.203701],"type":"Point"}
 }

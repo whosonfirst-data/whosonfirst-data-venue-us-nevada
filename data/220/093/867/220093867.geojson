@@ -2,13 +2,14 @@
   "id": 220093867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201039,36.112689,-115.201039,36.112689",
     "geom:latitude":36.112689,
     "geom:longitude":-115.201039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4226 Fidus",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220093867,
-    "wof:lastmodified":1449074056,
+    "wof:lastmodified":1466702352,
     "wof:name":"Imperial Iron Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "work"
     ]
 },
-  "bbox": [-115.201039,36.112689,-115.201039,36.112689],
-  "geometry": {"coordinates":[-115.201039,36.112689],"type":"Point"}
+  "bbox": [
+    -115.201039,
+    36.112689,
+    -115.201039,
+    36.112689
+],
+  "geometry": {"coordinates":[-115.20103899999999,36.112689],"type":"Point"}
 }

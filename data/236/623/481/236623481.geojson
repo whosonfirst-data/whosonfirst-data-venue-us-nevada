@@ -2,13 +2,14 @@
   "id": 236623481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184418,36.126242,-115.184418,36.126242",
     "geom:latitude":36.126242,
     "geom:longitude":-115.184418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236623481,
-    "wof:lastmodified":1449004068,
+    "wof:lastmodified":1466706177,
     "wof:name":"A A & Assoc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.184418,36.126242,-115.184418,36.126242],
-  "geometry": {"coordinates":[-115.184418,36.126242],"type":"Point"}
+  "bbox": [
+    -115.184418,
+    36.126242,
+    -115.184418,
+    36.126242
+],
+  "geometry": {"coordinates":[-115.18441799999999,36.126242],"type":"Point"}
 }

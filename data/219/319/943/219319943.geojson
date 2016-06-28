@@ -2,13 +2,14 @@
   "id": 219319943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076845,36.167515,-115.076845,36.167515",
     "geom:latitude":36.167515,
     "geom:longitude":-115.076845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 Shoen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219319943,
-    "wof:lastmodified":1449071830,
+    "wof:lastmodified":1466703222,
     "wof:name":"M & G Mobile Wash & Detail",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-115.076845,36.167515,-115.076845,36.167515],
-  "geometry": {"coordinates":[-115.076845,36.167515],"type":"Point"}
+  "bbox": [
+    -115.076845,
+    36.167515,
+    -115.076845,
+    36.167515
+],
+  "geometry": {"coordinates":[-115.07684500000001,36.167515],"type":"Point"}
 }

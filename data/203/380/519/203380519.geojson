@@ -2,13 +2,14 @@
   "id": 203380519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151283,36.154384,-115.151283,36.154384",
     "geom:latitude":36.154384,
     "geom:longitude":-115.151283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 S 3rd St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380519,
-    "wof:lastmodified":1449025797,
+    "wof:lastmodified":1466703264,
     "wof:name":"Evangelism Unlimited",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.151283,36.154384,-115.151283,36.154384],
-  "geometry": {"coordinates":[-115.151283,36.154384],"type":"Point"}
+  "bbox": [
+    -115.151283,
+    36.154384,
+    -115.151283,
+    36.154384
+],
+  "geometry": {"coordinates":[-115.15128300000001,36.154384],"type":"Point"}
 }

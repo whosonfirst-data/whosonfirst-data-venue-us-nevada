@@ -2,13 +2,14 @@
   "id": 219398011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067454,36.072689,-115.067454,36.072689",
     "geom:latitude":36.072689,
     "geom:longitude":-115.067454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Sunset Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219398011,
-    "wof:lastmodified":1449070676,
+    "wof:lastmodified":1466704249,
     "wof:name":"Alex Displays & Company",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.067454,36.072689,-115.067454,36.072689],
+  "bbox": [
+    -115.067454,
+    36.072689,
+    -115.067454,
+    36.072689
+],
   "geometry": {"coordinates":[-115.067454,36.072689],"type":"Point"}
 }

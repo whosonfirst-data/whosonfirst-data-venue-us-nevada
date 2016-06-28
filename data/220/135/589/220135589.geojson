@@ -2,13 +2,14 @@
   "id": 220135589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81324,39.572185,-119.81324,39.572185",
     "geom:latitude":39.572185,
     "geom:longitude":-119.81324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Parr Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220135589,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466702666,
     "wof:name":"Glasfloss Industries Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.81324,39.572185,-119.81324,39.572185],
-  "geometry": {"coordinates":[-119.81324,39.572185],"type":"Point"}
+  "bbox": [
+    -119.81324,
+    39.572185,
+    -119.81324,
+    39.572185
+],
+  "geometry": {"coordinates":[-119.81323999999999,39.572185],"type":"Point"}
 }

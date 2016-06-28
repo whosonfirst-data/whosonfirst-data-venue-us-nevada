@@ -2,13 +2,14 @@
   "id": 370160791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26029,36.225786,-115.26029,36.225786",
     "geom:latitude":36.225786,
     "geom:longitude":-115.26029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370160791,
-    "wof:lastmodified":1449031932,
+    "wof:lastmodified":1466701805,
     "wof:name":"Hansen Blaine R DMD Ms",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-115.26029,36.225786,-115.26029,36.225786],
+  "bbox": [
+    -115.26029,
+    36.225786,
+    -115.26029,
+    36.225786
+],
   "geometry": {"coordinates":[-115.26029,36.225786],"type":"Point"}
 }

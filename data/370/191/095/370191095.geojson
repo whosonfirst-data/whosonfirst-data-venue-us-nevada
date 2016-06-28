@@ -2,13 +2,14 @@
   "id": 370191095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261088,36.281906,-115.261088,36.281906",
     "geom:latitude":36.281906,
     "geom:longitude":-115.261088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 N Buffalo Dr Ste 160",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370191095,
-    "wof:lastmodified":1449031135,
+    "wof:lastmodified":1466702297,
     "wof:name":"Preferred Funding",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.261088,36.281906,-115.261088,36.281906],
+  "bbox": [
+    -115.261088,
+    36.281906,
+    -115.261088,
+    36.281906
+],
   "geometry": {"coordinates":[-115.261088,36.281906],"type":"Point"}
 }

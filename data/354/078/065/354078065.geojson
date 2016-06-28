@@ -2,13 +2,14 @@
   "id": 354078065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136118,36.118903,-115.136118,36.118903",
     "geom:latitude":36.118903,
     "geom:longitude":-115.136118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3860 Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354078065,
-    "wof:lastmodified":1449067388,
+    "wof:lastmodified":1466703535,
     "wof:name":"Unlv Barnes & Noble Bookstore",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "music"
     ]
 },
-  "bbox": [-115.136118,36.118903,-115.136118,36.118903],
+  "bbox": [
+    -115.136118,
+    36.118903,
+    -115.136118,
+    36.118903
+],
   "geometry": {"coordinates":[-115.136118,36.118903],"type":"Point"}
 }

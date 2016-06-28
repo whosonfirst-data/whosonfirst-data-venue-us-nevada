@@ -2,13 +2,14 @@
   "id": 236932031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326254,36.101885,-115.326254,36.101885",
     "geom:latitude":36.101885,
     "geom:longitude":-115.326254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4881 Denaro Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236932031,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466706918,
     "wof:name":"Starbucks Scapes",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-115.326254,36.101885,-115.326254,36.101885],
-  "geometry": {"coordinates":[-115.326254,36.101885],"type":"Point"}
+  "bbox": [
+    -115.326254,
+    36.101885,
+    -115.326254,
+    36.101885
+],
+  "geometry": {"coordinates":[-115.32625400000001,36.101885],"type":"Point"}
 }

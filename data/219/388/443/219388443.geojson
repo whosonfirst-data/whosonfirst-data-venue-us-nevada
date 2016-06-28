@@ -2,13 +2,14 @@
   "id": 219388443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153831,36.159535,-115.153831,36.159535",
     "geom:latitude":36.159535,
     "geom:longitude":-115.153831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219388443,
-    "wof:lastmodified":1449070504,
+    "wof:lastmodified":1466703563,
     "wof:name":"Robinson's Used Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-115.153831,36.159535,-115.153831,36.159535],
+  "bbox": [
+    -115.153831,
+    36.159535,
+    -115.153831,
+    36.159535
+],
   "geometry": {"coordinates":[-115.153831,36.159535],"type":"Point"}
 }

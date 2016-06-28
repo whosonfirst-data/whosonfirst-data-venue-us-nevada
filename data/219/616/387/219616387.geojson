@@ -2,13 +2,14 @@
   "id": 219616387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24222,36.180352,-115.24222,36.180352",
     "geom:latitude":36.180352,
     "geom:longitude":-115.24222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219616387,
-    "wof:lastmodified":1449072997,
+    "wof:lastmodified":1466703212,
     "wof:name":"Foothill Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-115.24222,36.180352,-115.24222,36.180352],
+  "bbox": [
+    -115.24222,
+    36.180352,
+    -115.24222,
+    36.180352
+],
   "geometry": {"coordinates":[-115.24222,36.180352],"type":"Point"}
 }

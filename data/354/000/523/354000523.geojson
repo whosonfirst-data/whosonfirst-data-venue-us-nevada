@@ -2,13 +2,14 @@
   "id": 354000523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.048289,36.063602,-115.048289,36.063602",
     "geom:latitude":36.063602,
     "geom:longitude":-115.048289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 W Sunset Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354000523,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466704275,
     "wof:name":"Aaron Brothers Art & Framing",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.048289,36.063602,-115.048289,36.063602],
+  "bbox": [
+    -115.048289,
+    36.063602,
+    -115.048289,
+    36.063602
+],
   "geometry": {"coordinates":[-115.048289,36.063602],"type":"Point"}
 }

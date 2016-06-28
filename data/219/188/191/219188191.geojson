@@ -2,13 +2,14 @@
   "id": 219188191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164542,36.097136,-115.164542,36.097136",
     "geom:latitude":36.097136,
     "geom:longitude":-115.164542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219188191,
-    "wof:lastmodified":1449072129,
+    "wof:lastmodified":1466701991,
     "wof:name":"Delmastro + Eells Inc",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.164542,36.097136,-115.164542,36.097136],
+  "bbox": [
+    -115.164542,
+    36.097136,
+    -115.164542,
+    36.097136
+],
   "geometry": {"coordinates":[-115.164542,36.097136],"type":"Point"}
 }

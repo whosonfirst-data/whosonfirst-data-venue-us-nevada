@@ -2,13 +2,14 @@
   "id": 236401825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069028,36.0365,-115.069028,36.0365",
     "geom:latitude":36.0365,
     "geom:longitude":-115.069028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Broken Rock Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236401825,
-    "wof:lastmodified":1449004656,
+    "wof:lastmodified":1466705241,
     "wof:name":"Arty Girl",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "producer"
     ]
 },
-  "bbox": [-115.069028,36.0365,-115.069028,36.0365],
+  "bbox": [
+    -115.069028,
+    36.0365,
+    -115.069028,
+    36.0365
+],
   "geometry": {"coordinates":[-115.069028,36.0365],"type":"Point"}
 }

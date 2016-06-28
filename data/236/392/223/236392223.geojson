@@ -2,13 +2,14 @@
   "id": 236392223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142185,36.013701,-115.142185,36.013701",
     "geom:latitude":36.013701,
     "geom:longitude":-115.142185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 Menands Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236392223,
-    "wof:lastmodified":1449004456,
+    "wof:lastmodified":1466705299,
     "wof:name":"Complete Care Aquariums",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquarium"
     ]
 },
-  "bbox": [-115.142185,36.013701,-115.142185,36.013701],
+  "bbox": [
+    -115.142185,
+    36.013701,
+    -115.142185,
+    36.013701
+],
   "geometry": {"coordinates":[-115.142185,36.013701],"type":"Point"}
 }

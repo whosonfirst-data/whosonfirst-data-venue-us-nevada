@@ -2,13 +2,14 @@
   "id": 236041575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736169,39.541959,-119.736169,39.541959",
     "geom:latitude":39.541959,
     "geom:longitude":-119.736169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236041575,
-    "wof:lastmodified":1449002714,
+    "wof:lastmodified":1466703941,
     "wof:name":"Slip Away Ceramic Arts Studio",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-119.736169,39.541959,-119.736169,39.541959],
+  "bbox": [
+    -119.736169,
+    39.541959,
+    -119.736169,
+    39.541959
+],
   "geometry": {"coordinates":[-119.736169,39.541959],"type":"Point"}
 }

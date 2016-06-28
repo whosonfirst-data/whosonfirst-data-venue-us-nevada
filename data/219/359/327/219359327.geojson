@@ -2,13 +2,14 @@
   "id": 219359327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.081531,36.129754,-115.081531,36.129754",
     "geom:latitude":36.129754,
     "geom:longitude":-115.081531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219359327,
-    "wof:lastmodified":1449070327,
+    "wof:lastmodified":1466703425,
     "wof:name":"Desert Inn Mobile Home Park",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "site"
     ]
 },
-  "bbox": [-115.081531,36.129754,-115.081531,36.129754],
+  "bbox": [
+    -115.081531,
+    36.129754,
+    -115.081531,
+    36.129754
+],
   "geometry": {"coordinates":[-115.081531,36.129754],"type":"Point"}
 }

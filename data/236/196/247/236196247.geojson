@@ -2,13 +2,14 @@
   "id": 236196247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06183,36.02611,-115.06183,36.02611",
     "geom:latitude":36.02611,
     "geom:longitude":-115.06183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Tanner Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236196247,
-    "wof:lastmodified":1449002239,
+    "wof:lastmodified":1466703486,
     "wof:name":"Air Draulic Design",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.06183,36.02611,-115.06183,36.02611],
+  "bbox": [
+    -115.06183,
+    36.02611,
+    -115.06183,
+    36.02611
+],
   "geometry": {"coordinates":[-115.06183,36.02611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236836973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.9522,39.247681,-119.9522,39.247681",
     "geom:latitude":39.247681,
     "geom:longitude":-119.9522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Village Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236836973,
-    "wof:lastmodified":1449003910,
+    "wof:lastmodified":1466706716,
     "wof:name":"Hair It Goes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.9522,39.247681,-119.9522,39.247681],
+  "bbox": [
+    -119.9522,
+    39.247681,
+    -119.9522,
+    39.247681
+],
   "geometry": {"coordinates":[-119.9522,39.247681],"type":"Point"}
 }

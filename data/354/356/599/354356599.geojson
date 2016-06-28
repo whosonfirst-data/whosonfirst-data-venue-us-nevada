@@ -2,13 +2,14 @@
   "id": 354356599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118806,36.091498,-115.118806,36.091498",
     "geom:latitude":36.091498,
     "geom:longitude":-115.118806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5392 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354356599,
-    "wof:lastmodified":1449067339,
+    "wof:lastmodified":1466706046,
     "wof:name":"Roberto Taco Shop Management",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.118806,36.091498,-115.118806,36.091498],
-  "geometry": {"coordinates":[-115.118806,36.091498],"type":"Point"}
+  "bbox": [
+    -115.118806,
+    36.091498,
+    -115.118806,
+    36.091498
+],
+  "geometry": {"coordinates":[-115.11880600000001,36.091498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236700055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74173,39.525484,-119.74173,39.525484",
     "geom:latitude":39.525484,
     "geom:longitude":-119.74173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236700055,
-    "wof:lastmodified":1449004903,
+    "wof:lastmodified":1466706474,
     "wof:name":"Eternal Sports",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sporting"
     ]
 },
-  "bbox": [-119.74173,39.525484,-119.74173,39.525484],
+  "bbox": [
+    -119.74173,
+    39.525484,
+    -119.74173,
+    39.525484
+],
   "geometry": {"coordinates":[-119.74173,39.525484],"type":"Point"}
 }

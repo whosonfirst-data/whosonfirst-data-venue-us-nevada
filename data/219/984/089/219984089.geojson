@@ -2,13 +2,14 @@
   "id": 219984089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.834013,39.594741,-119.834013,39.594741",
     "geom:latitude":39.594741,
     "geom:longitude":-119.834013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7795 Security Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219984089,
-    "wof:lastmodified":1449072374,
+    "wof:lastmodified":1466706194,
     "wof:name":"High Time Products",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic"
     ]
 },
-  "bbox": [-119.834013,39.594741,-119.834013,39.594741],
+  "bbox": [
+    -119.834013,
+    39.594741,
+    -119.834013,
+    39.594741
+],
   "geometry": {"coordinates":[-119.834013,39.594741],"type":"Point"}
 }

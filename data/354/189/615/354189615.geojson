@@ -2,13 +2,14 @@
   "id": 354189615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157847,36.161863,-115.157847,36.161863",
     "geom:latitude":36.161863,
     "geom:longitude":-115.157847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Las Vegas Premium Outlets 875 S Grand Central Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":354189615,
-    "wof:lastmodified":1449067157,
+    "wof:lastmodified":1466704940,
     "wof:name":"United Colors of Benetton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.157847,36.161863,-115.157847,36.161863],
+  "bbox": [
+    -115.157847,
+    36.161863,
+    -115.157847,
+    36.161863
+],
   "geometry": {"coordinates":[-115.157847,36.161863],"type":"Point"}
 }

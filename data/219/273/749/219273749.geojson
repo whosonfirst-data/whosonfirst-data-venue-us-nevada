@@ -2,13 +2,14 @@
   "id": 219273749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.736587,40.834384,-115.736587,40.834384",
     "geom:latitude":40.834384,
     "geom:longitude":-115.736587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Colt Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219273749,
-    "wof:lastmodified":1449072212,
+    "wof:lastmodified":1466702775,
     "wof:name":"Vitality Center Housing",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.736587,40.834384,-115.736587,40.834384],
+  "bbox": [
+    -115.736587,
+    40.834384,
+    -115.736587,
+    40.834384
+],
   "geometry": {"coordinates":[-115.736587,40.834384],"type":"Point"}
 }

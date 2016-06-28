@@ -2,13 +2,14 @@
   "id": 370338803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766946,39.154541,-119.766946,39.154541",
     "geom:latitude":39.154541,
     "geom:longitude":-119.766946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Carson Mall 1233 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":370338803,
-    "wof:lastmodified":1449030273,
+    "wof:lastmodified":1466704835,
     "wof:name":"Alie's Flowers & Gifts",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.766946,39.154541,-119.766946,39.154541],
+  "bbox": [
+    -119.766946,
+    39.154541,
+    -119.766946,
+    39.154541
+],
   "geometry": {"coordinates":[-119.766946,39.154541],"type":"Point"}
 }

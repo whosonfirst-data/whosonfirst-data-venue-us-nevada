@@ -2,13 +2,14 @@
   "id": 370318231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761822,39.483706,-119.761822,39.483706",
     "geom:latitude":39.483706,
     "geom:longitude":-119.761822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4826 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":370318231,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1466704571,
     "wof:name":"Paisan's Old World Deli & Catering",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "caterer"
     ]
 },
-  "bbox": [-119.761822,39.483706,-119.761822,39.483706],
+  "bbox": [
+    -119.761822,
+    39.483706,
+    -119.761822,
+    39.483706
+],
   "geometry": {"coordinates":[-119.761822,39.483706],"type":"Point"}
 }

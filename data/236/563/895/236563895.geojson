@@ -2,13 +2,14 @@
   "id": 236563895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06771,36.207178,-115.06771,36.207178",
     "geom:latitude":36.207178,
     "geom:longitude":-115.06771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 E Cartier Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236563895,
-    "wof:lastmodified":1449001716,
+    "wof:lastmodified":1466706155,
     "wof:name":"Rain 2day Inc",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-115.06771,36.207178,-115.06771,36.207178],
-  "geometry": {"coordinates":[-115.06771,36.207178],"type":"Point"}
+  "bbox": [
+    -115.06771,
+    36.207178,
+    -115.06771,
+    36.207178
+],
+  "geometry": {"coordinates":[-115.06771000000001,36.207178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236799035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203929,36.092248,-115.203929,36.092248",
     "geom:latitude":36.092248,
     "geom:longitude":-115.203929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5375 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236799035,
-    "wof:lastmodified":1449005269,
+    "wof:lastmodified":1466706646,
     "wof:name":"Vegas Threadz",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-115.203929,36.092248,-115.203929,36.092248],
+  "bbox": [
+    -115.203929,
+    36.092248,
+    -115.203929,
+    36.092248
+],
   "geometry": {"coordinates":[-115.203929,36.092248],"type":"Point"}
 }

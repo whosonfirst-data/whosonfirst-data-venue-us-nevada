@@ -2,13 +2,14 @@
   "id": 236710353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.965461,39.26165,-119.965461,39.26165",
     "geom:latitude":39.26165,
     "geom:longitude":-119.965461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"886 Tyner Way",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236710353,
-    "wof:lastmodified":1449001830,
+    "wof:lastmodified":1466706498,
     "wof:name":"O'Brien Interests Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.965461,39.26165,-119.965461,39.26165],
+  "bbox": [
+    -119.965461,
+    39.26165,
+    -119.965461,
+    39.26165
+],
   "geometry": {"coordinates":[-119.965461,39.26165],"type":"Point"}
 }

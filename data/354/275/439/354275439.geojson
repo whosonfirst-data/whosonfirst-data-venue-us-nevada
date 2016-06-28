@@ -2,13 +2,14 @@
   "id": 354275439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256037,36.023361,-115.256037,36.023361",
     "geom:latitude":36.023361,
     "geom:longitude":-115.256037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7559 W. Agate Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354275439,
-    "wof:lastmodified":1449066457,
+    "wof:lastmodified":1466705443,
     "wof:name":"Complete Touch Cleaning Service",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.256037,36.023361,-115.256037,36.023361],
-  "geometry": {"coordinates":[-115.256037,36.023361],"type":"Point"}
+  "bbox": [
+    -115.256037,
+    36.023361,
+    -115.256037,
+    36.023361
+],
+  "geometry": {"coordinates":[-115.25603700000001,36.023361],"type":"Point"}
 }

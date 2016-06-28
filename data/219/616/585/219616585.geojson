@@ -2,13 +2,14 @@
   "id": 219616585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.26796,36.096081,-115.26796,36.096081",
     "geom:latitude":36.096081,
     "geom:longitude":-115.26796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8199 Pinnacle Peak Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219616585,
-    "wof:lastmodified":1449072997,
+    "wof:lastmodified":1466703215,
     "wof:name":"Sue Ellen Designs",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-115.26796,36.096081,-115.26796,36.096081],
+  "bbox": [
+    -115.26796,
+    36.096081,
+    -115.26796,
+    36.096081
+],
   "geometry": {"coordinates":[-115.26796,36.096081],"type":"Point"}
 }

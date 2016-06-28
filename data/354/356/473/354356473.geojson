@@ -2,13 +2,14 @@
   "id": 354356473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118804,36.087218,-115.118804,36.087218",
     "geom:latitude":36.087218,
     "geom:longitude":-115.118804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5645 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354356473,
-    "wof:lastmodified":1449067338,
+    "wof:lastmodified":1466706043,
     "wof:name":"Las Vegas House of Music",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-115.118804,36.087218,-115.118804,36.087218],
+  "bbox": [
+    -115.118804,
+    36.087218,
+    -115.118804,
+    36.087218
+],
   "geometry": {"coordinates":[-115.118804,36.087218],"type":"Point"}
 }

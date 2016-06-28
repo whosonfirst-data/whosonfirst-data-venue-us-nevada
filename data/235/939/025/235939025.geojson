@@ -2,13 +2,14 @@
   "id": 235939025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322747,36.161216,-115.322747,36.161216",
     "geom:latitude":36.161216,
     "geom:longitude":-115.322747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10317 Juniper Creek Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235939025,
-    "wof:lastmodified":1449008357,
+    "wof:lastmodified":1466703463,
     "wof:name":"Apetrol Industries Inc",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-115.322747,36.161216,-115.322747,36.161216],
-  "geometry": {"coordinates":[-115.322747,36.161216],"type":"Point"}
+  "bbox": [
+    -115.322747,
+    36.161216,
+    -115.322747,
+    36.161216
+],
+  "geometry": {"coordinates":[-115.32274700000001,36.161216],"type":"Point"}
 }

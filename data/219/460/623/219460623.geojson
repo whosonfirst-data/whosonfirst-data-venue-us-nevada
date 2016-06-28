@@ -2,13 +2,14 @@
   "id": 219460623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782948,39.098024,-119.782948,39.098024",
     "geom:latitude":39.098024,
     "geom:longitude":-119.782948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Valley Crest Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219460623,
-    "wof:lastmodified":1449073713,
+    "wof:lastmodified":1466703963,
     "wof:name":"Silvercrest Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.782948,39.098024,-119.782948,39.098024],
+  "bbox": [
+    -119.782948,
+    39.098024,
+    -119.782948,
+    39.098024
+],
   "geometry": {"coordinates":[-119.782948,39.098024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219731127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307081,36.192765,-115.307081,36.192765",
     "geom:latitude":36.192765,
     "geom:longitude":-115.307081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Spring Gate Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219731127,
-    "wof:lastmodified":1449073527,
+    "wof:lastmodified":1466704608,
     "wof:name":"Summerlin Council",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.307081,36.192765,-115.307081,36.192765],
+  "bbox": [
+    -115.307081,
+    36.192765,
+    -115.307081,
+    36.192765
+],
   "geometry": {"coordinates":[-115.307081,36.192765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370173855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.231773,36.238417,-115.231773,36.238417",
     "geom:latitude":36.238417,
     "geom:longitude":-115.231773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4333 N Rancho Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370173855,
-    "wof:lastmodified":1449029742,
+    "wof:lastmodified":1466702034,
     "wof:name":"University Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.231773,36.238417,-115.231773,36.238417],
+  "bbox": [
+    -115.231773,
+    36.238417,
+    -115.231773,
+    36.238417
+],
   "geometry": {"coordinates":[-115.231773,36.238417],"type":"Point"}
 }

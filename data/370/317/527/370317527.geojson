@@ -2,13 +2,14 @@
   "id": 370317527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776581,39.517371,-119.776581,39.517371",
     "geom:latitude":39.517371,
     "geom:longitude":-119.776581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":370317527,
-    "wof:lastmodified":1449030647,
+    "wof:lastmodified":1466704703,
     "wof:name":"Ballantine's Ballroom",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "physical"
     ]
 },
-  "bbox": [-119.776581,39.517371,-119.776581,39.517371],
-  "geometry": {"coordinates":[-119.776581,39.517371],"type":"Point"}
+  "bbox": [
+    -119.776581,
+    39.517371,
+    -119.776581,
+    39.517371
+],
+  "geometry": {"coordinates":[-119.77658099999999,39.517371],"type":"Point"}
 }

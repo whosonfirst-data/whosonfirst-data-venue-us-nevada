@@ -2,13 +2,14 @@
   "id": 219909025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.95821,36.044199,-114.95821,36.044199",
     "geom:latitude":36.044199,
     "geom:longitude":-114.95821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Skipjack Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219909025,
-    "wof:lastmodified":1449073058,
+    "wof:lastmodified":1466705825,
     "wof:name":"Loving Care Alzheimer's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-114.95821,36.044199,-114.95821,36.044199],
-  "geometry": {"coordinates":[-114.95821,36.044199],"type":"Point"}
+  "bbox": [
+    -114.95821,
+    36.044199,
+    -114.95821,
+    36.044199
+],
+  "geometry": {"coordinates":[-114.95820999999999,36.044199],"type":"Point"}
 }

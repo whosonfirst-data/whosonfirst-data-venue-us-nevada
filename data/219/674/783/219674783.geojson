@@ -2,13 +2,14 @@
   "id": 219674783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.843523,35.974401,-114.843523,35.974401",
     "geom:latitude":35.974401,
     "geom:longitude":-114.843523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219674783,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466704289,
     "wof:name":"Casa Flores Restaurant Inc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.843523,35.974401,-114.843523,35.974401],
+  "bbox": [
+    -114.843523,
+    35.974401,
+    -114.843523,
+    35.974401
+],
   "geometry": {"coordinates":[-114.843523,35.974401],"type":"Point"}
 }

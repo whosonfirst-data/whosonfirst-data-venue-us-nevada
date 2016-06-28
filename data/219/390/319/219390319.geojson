@@ -2,13 +2,14 @@
   "id": 219390319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.630522,38.532281,-118.630522,38.532281",
     "geom:latitude":38.532281,
     "geom:longitude":-118.630522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 10th St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219390319,
-    "wof:lastmodified":1449073959,
+    "wof:lastmodified":1466703573,
     "wof:name":"Trinity Temple Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-118.630522,38.532281,-118.630522,38.532281],
+  "bbox": [
+    -118.630522,
+    38.532281,
+    -118.630522,
+    38.532281
+],
   "geometry": {"coordinates":[-118.630522,38.532281],"type":"Point"}
 }

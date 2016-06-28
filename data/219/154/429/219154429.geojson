@@ -2,13 +2,14 @@
   "id": 219154429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049865,36.121859,-115.049865,36.121859",
     "geom:latitude":36.121859,
     "geom:longitude":-115.049865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5678 New Seabury Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219154429,
-    "wof:lastmodified":1449073975,
+    "wof:lastmodified":1466701484,
     "wof:name":"A C Telecommunications",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.049865,36.121859,-115.049865,36.121859],
+  "bbox": [
+    -115.049865,
+    36.121859,
+    -115.049865,
+    36.121859
+],
   "geometry": {"coordinates":[-115.049865,36.121859],"type":"Point"}
 }

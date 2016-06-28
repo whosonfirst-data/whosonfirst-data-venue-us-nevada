@@ -2,13 +2,14 @@
   "id": 219475173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213111,36.287772,-115.213111,36.287772",
     "geom:latitude":36.287772,
     "geom:longitude":-115.213111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 Red Tide Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219475173,
-    "wof:lastmodified":1449071851,
+    "wof:lastmodified":1466704046,
     "wof:name":"Hornbecks Refinishing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.213111,36.287772,-115.213111,36.287772],
+  "bbox": [
+    -115.213111,
+    36.287772,
+    -115.213111,
+    36.287772
+],
   "geometry": {"coordinates":[-115.213111,36.287772],"type":"Point"}
 }

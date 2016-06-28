@@ -2,13 +2,14 @@
   "id": 203400389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983069,36.032769,-114.983069,36.032769",
     "geom:latitude":36.032769,
     "geom:longitude":-114.983069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Water St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400389,
-    "wof:lastmodified":1449025122,
+    "wof:lastmodified":1466703319,
     "wof:name":"Erileas Hair & Nail Cottage",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.983069,36.032769,-114.983069,36.032769],
+  "bbox": [
+    -114.983069,
+    36.032769,
+    -114.983069,
+    36.032769
+],
   "geometry": {"coordinates":[-114.983069,36.032769],"type":"Point"}
 }

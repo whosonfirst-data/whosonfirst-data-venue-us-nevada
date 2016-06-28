@@ -2,13 +2,14 @@
   "id": 219500941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127857,36.099255,-115.127857,36.099255",
     "geom:latitude":36.099255,
     "geom:longitude":-115.127857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219500941,
-    "wof:lastmodified":1449071281,
+    "wof:lastmodified":1466704170,
     "wof:name":"Atwood Garage Svc",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-115.127857,36.099255,-115.127857,36.099255],
-  "geometry": {"coordinates":[-115.127857,36.099255],"type":"Point"}
+  "bbox": [
+    -115.127857,
+    36.099255,
+    -115.127857,
+    36.099255
+],
+  "geometry": {"coordinates":[-115.12785700000001,36.099255],"type":"Point"}
 }

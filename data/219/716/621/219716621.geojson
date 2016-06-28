@@ -2,13 +2,14 @@
   "id": 219716621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.985439,36.012603,-114.985439,36.012603",
     "geom:latitude":36.012603,
     "geom:longitude":-114.985439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Horizon Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219716621,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466704699,
     "wof:name":"Parsons & Parsons",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-114.985439,36.012603,-114.985439,36.012603],
+  "bbox": [
+    -114.985439,
+    36.012603,
+    -114.985439,
+    36.012603
+],
   "geometry": {"coordinates":[-114.985439,36.012603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219927565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.895915,39.235407,-114.895915,39.235407",
     "geom:latitude":39.235407,
     "geom:longitude":-114.895915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Mill St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219927565,
-    "wof:lastmodified":1449073549,
+    "wof:lastmodified":1466705939,
     "wof:name":"27-K Refrigeration AC & Htg",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.895915,39.235407,-114.895915,39.235407],
+  "bbox": [
+    -114.895915,
+    39.235407,
+    -114.895915,
+    39.235407
+],
   "geometry": {"coordinates":[-114.895915,39.235407],"type":"Point"}
 }

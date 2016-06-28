@@ -2,13 +2,14 @@
   "id": 236359131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136389,36.204874,-115.136389,36.204874",
     "geom:latitude":36.204874,
     "geom:longitude":-115.136389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2458 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236359131,
-    "wof:lastmodified":1449001639,
+    "wof:lastmodified":1466705114,
     "wof:name":"Sunrise Solar Screen",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136389,36.204874,-115.136389,36.204874],
-  "geometry": {"coordinates":[-115.136389,36.204874],"type":"Point"}
+  "bbox": [
+    -115.136389,
+    36.204874,
+    -115.136389,
+    36.204874
+],
+  "geometry": {"coordinates":[-115.13638899999999,36.204874],"type":"Point"}
 }

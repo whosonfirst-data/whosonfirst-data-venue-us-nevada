@@ -2,13 +2,14 @@
   "id": 370324127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.963463,39.673413,-119.963463,39.673413",
     "geom:latitude":39.673413,
     "geom:longitude":-119.963463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 Brant St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370324127,
-    "wof:lastmodified":1449031054,
+    "wof:lastmodified":1466704902,
     "wof:name":"Northwest Freight",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-119.963463,39.673413,-119.963463,39.673413],
+  "bbox": [
+    -119.963463,
+    39.673413,
+    -119.963463,
+    39.673413
+],
   "geometry": {"coordinates":[-119.963463,39.673413],"type":"Point"}
 }

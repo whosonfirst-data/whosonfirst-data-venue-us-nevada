@@ -2,13 +2,14 @@
   "id": 219435351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.76584,40.900873,-117.76584,40.900873",
     "geom:latitude":40.900873,
     "geom:longitude":-117.76584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 E Commander Dr",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219435351,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466703803,
     "wof:name":"Dance Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dancing"
     ]
 },
-  "bbox": [-117.76584,40.900873,-117.76584,40.900873],
+  "bbox": [
+    -117.76584,
+    40.900873,
+    -117.76584,
+    40.900873
+],
   "geometry": {"coordinates":[-117.76584,40.900873],"type":"Point"}
 }

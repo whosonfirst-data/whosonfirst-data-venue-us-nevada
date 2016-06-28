@@ -2,13 +2,14 @@
   "id": 370173097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221001,36.271702,-115.221001,36.271702",
     "geom:latitude":36.271702,
     "geom:longitude":-115.221001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Negril Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370173097,
-    "wof:lastmodified":1449029743,
+    "wof:lastmodified":1466702025,
     "wof:name":"Quality Carpet & Upholstery Cleaners",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.221001,36.271702,-115.221001,36.271702],
+  "bbox": [
+    -115.221001,
+    36.271702,
+    -115.221001,
+    36.271702
+],
   "geometry": {"coordinates":[-115.221001,36.271702],"type":"Point"}
 }

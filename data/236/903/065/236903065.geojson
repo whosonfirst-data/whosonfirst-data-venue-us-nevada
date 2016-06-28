@@ -2,13 +2,14 @@
   "id": 236903065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1447,36.143958,-115.1447,36.143958",
     "geom:latitude":36.143958,
     "geom:longitude":-115.1447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236903065,
-    "wof:lastmodified":1449001825,
+    "wof:lastmodified":1466706896,
     "wof:name":"Industry Records",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tape"
     ]
 },
-  "bbox": [-115.1447,36.143958,-115.1447,36.143958],
+  "bbox": [
+    -115.1447,
+    36.143958,
+    -115.1447,
+    36.143958
+],
   "geometry": {"coordinates":[-115.1447,36.143958],"type":"Point"}
 }

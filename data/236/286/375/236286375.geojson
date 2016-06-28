@@ -2,13 +2,14 @@
   "id": 236286375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.657563,38.936144,-119.657563,38.936144",
     "geom:latitude":38.936144,
     "geom:longitude":-119.657563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2219 Fish Springs Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236286375,
-    "wof:lastmodified":1449002327,
+    "wof:lastmodified":1466704458,
     "wof:name":"Creekside Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.657563,38.936144,-119.657563,38.936144],
+  "bbox": [
+    -119.657563,
+    38.936144,
+    -119.657563,
+    38.936144
+],
   "geometry": {"coordinates":[-119.657563,38.936144],"type":"Point"}
 }

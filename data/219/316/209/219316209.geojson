@@ -2,13 +2,14 @@
   "id": 219316209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804906,39.525716,-119.804906,39.525716",
     "geom:latitude":39.525716,
     "geom:longitude":-119.804906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219316209,
-    "wof:lastmodified":1449072780,
+    "wof:lastmodified":1466703192,
     "wof:name":"Youth Parole Bureau",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "parole"
     ]
 },
-  "bbox": [-119.804906,39.525716,-119.804906,39.525716],
+  "bbox": [
+    -119.804906,
+    39.525716,
+    -119.804906,
+    39.525716
+],
   "geometry": {"coordinates":[-119.804906,39.525716],"type":"Point"}
 }

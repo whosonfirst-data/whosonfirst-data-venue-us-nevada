@@ -2,13 +2,14 @@
   "id": 236571793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.840171,35.974784,-114.840171,35.974784",
     "geom:latitude":35.974784,
     "geom:longitude":-114.840171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236571793,
-    "wof:lastmodified":1449003994,
+    "wof:lastmodified":1466706321,
     "wof:name":"Bob's All Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.840171,35.974784,-114.840171,35.974784],
+  "bbox": [
+    -114.840171,
+    35.974784,
+    -114.840171,
+    35.974784
+],
   "geometry": {"coordinates":[-114.840171,35.974784],"type":"Point"}
 }

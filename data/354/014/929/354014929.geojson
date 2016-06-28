@@ -2,13 +2,14 @@
   "id": 354014929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.977018,36.043256,-114.977018,36.043256",
     "geom:latitude":36.043256,
     "geom:longitude":-114.977018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354014929,
-    "wof:lastmodified":1449066754,
+    "wof:lastmodified":1466701879,
     "wof:name":"Henderson Family Medical",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-114.977018,36.043256,-114.977018,36.043256],
+  "bbox": [
+    -114.977018,
+    36.043256,
+    -114.977018,
+    36.043256
+],
   "geometry": {"coordinates":[-114.977018,36.043256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353995673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.045327,36.078223,-115.045327,36.078223",
     "geom:latitude":36.078223,
     "geom:longitude":-115.045327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353995673,
-    "wof:lastmodified":1449020520,
+    "wof:lastmodified":1466701739,
     "wof:name":"Remington Studios",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-115.045327,36.078223,-115.045327,36.078223],
+  "bbox": [
+    -115.045327,
+    36.078223,
+    -115.045327,
+    36.078223
+],
   "geometry": {"coordinates":[-115.045327,36.078223],"type":"Point"}
 }

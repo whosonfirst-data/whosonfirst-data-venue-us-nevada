@@ -2,13 +2,14 @@
   "id": 219214823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738092,39.204284,-119.738092,39.204284",
     "geom:latitude":39.204284,
     "geom:longitude":-119.738092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Convair Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219214823,
-    "wof:lastmodified":1449073805,
+    "wof:lastmodified":1466702207,
     "wof:name":"Monarch Mailing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.738092,39.204284,-119.738092,39.204284],
-  "geometry": {"coordinates":[-119.738092,39.204284],"type":"Point"}
+  "bbox": [
+    -119.738092,
+    39.204284,
+    -119.738092,
+    39.204284
+],
+  "geometry": {"coordinates":[-119.73809199999999,39.204284],"type":"Point"}
 }

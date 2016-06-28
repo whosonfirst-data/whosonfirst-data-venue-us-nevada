@@ -2,13 +2,14 @@
   "id": 219193507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.759864,40.844294,-115.759864,40.844294",
     "geom:latitude":40.844294,
     "geom:longitude":-115.759864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Golf Course Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219193507,
-    "wof:lastmodified":1449070958,
+    "wof:lastmodified":1466702027,
     "wof:name":"Head Start Of Northeastern Nv",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-115.759864,40.844294,-115.759864,40.844294],
-  "geometry": {"coordinates":[-115.759864,40.844294],"type":"Point"}
+  "bbox": [
+    -115.759864,
+    40.844294,
+    -115.759864,
+    40.844294
+],
+  "geometry": {"coordinates":[-115.75986399999999,40.844294],"type":"Point"}
 }

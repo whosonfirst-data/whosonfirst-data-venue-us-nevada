@@ -2,13 +2,14 @@
   "id": 354164099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130934,36.144215,-115.130934,36.144215",
     "geom:latitude":36.144215,
     "geom:longitude":-115.130934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 E Sahara Avenue Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":354164099,
-    "wof:lastmodified":1449066138,
+    "wof:lastmodified":1466704790,
     "wof:name":"Royal Sahara Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.130934,36.144215,-115.130934,36.144215],
+  "bbox": [
+    -115.130934,
+    36.144215,
+    -115.130934,
+    36.144215
+],
   "geometry": {"coordinates":[-115.130934,36.144215],"type":"Point"}
 }

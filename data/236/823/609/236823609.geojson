@@ -2,13 +2,14 @@
   "id": 236823609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717308,39.551528,-119.717308,39.551528",
     "geom:latitude":39.551528,
     "geom:longitude":-119.717308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Sycamore Glen Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236823609,
-    "wof:lastmodified":1449005214,
+    "wof:lastmodified":1466706693,
     "wof:name":"Nevada Empowered Womens Prj",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.717308,39.551528,-119.717308,39.551528],
+  "bbox": [
+    -119.717308,
+    39.551528,
+    -119.717308,
+    39.551528
+],
   "geometry": {"coordinates":[-119.717308,39.551528],"type":"Point"}
 }

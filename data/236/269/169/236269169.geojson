@@ -2,13 +2,14 @@
   "id": 236269169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095572,36.103385,-115.095572,36.103385",
     "geom:latitude":36.103385,
     "geom:longitude":-115.095572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 S Hondo Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236269169,
-    "wof:lastmodified":1449003777,
+    "wof:lastmodified":1466704483,
     "wof:name":"Skyvalet Parking Garages",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-115.095572,36.103385,-115.095572,36.103385],
+  "bbox": [
+    -115.095572,
+    36.103385,
+    -115.095572,
+    36.103385
+],
   "geometry": {"coordinates":[-115.095572,36.103385],"type":"Point"}
 }

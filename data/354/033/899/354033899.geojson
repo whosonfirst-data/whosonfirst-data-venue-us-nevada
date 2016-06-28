@@ -2,13 +2,14 @@
   "id": 354033899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178352,36.261648,-115.178352,36.261648",
     "geom:latitude":36.261648,
     "geom:longitude":-115.178352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2696 W Ann Rd Ste 110",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354033899,
-    "wof:lastmodified":1449066283,
+    "wof:lastmodified":1466702387,
     "wof:name":"Little Divisoria",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "hawaiian"
     ]
 },
-  "bbox": [-115.178352,36.261648,-115.178352,36.261648],
+  "bbox": [
+    -115.178352,
+    36.261648,
+    -115.178352,
+    36.261648
+],
   "geometry": {"coordinates":[-115.178352,36.261648],"type":"Point"}
 }

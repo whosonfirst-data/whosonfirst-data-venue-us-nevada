@@ -2,13 +2,14 @@
   "id": 236730925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761236,39.536107,-119.761236,39.536107",
     "geom:latitude":39.536107,
     "geom:longitude":-119.761236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 C St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236730925,
-    "wof:lastmodified":1449004608,
+    "wof:lastmodified":1466706672,
     "wof:name":"Sparks Municipal Court House",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761236,39.536107,-119.761236,39.536107],
+  "bbox": [
+    -119.761236,
+    39.536107,
+    -119.761236,
+    39.536107
+],
   "geometry": {"coordinates":[-119.761236,39.536107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236463307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119055,36.045122,-115.119055,36.045122",
     "geom:latitude":36.045122,
     "geom:longitude":-115.119055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8054 Firethorn Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236463307,
-    "wof:lastmodified":1449004040,
+    "wof:lastmodified":1466705645,
     "wof:name":"Floyd Bryns & Assoc Inc",
     "wof:parent_id":85879751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-115.119055,36.045122,-115.119055,36.045122],
+  "bbox": [
+    -115.119055,
+    36.045122,
+    -115.119055,
+    36.045122
+],
   "geometry": {"coordinates":[-115.119055,36.045122],"type":"Point"}
 }

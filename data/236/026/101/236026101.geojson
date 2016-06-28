@@ -2,13 +2,14 @@
   "id": 236026101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109786,36.113687,-115.109786,36.113687",
     "geom:latitude":36.113687,
     "geom:longitude":-115.109786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 McLeod Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236026101,
-    "wof:lastmodified":1449003623,
+    "wof:lastmodified":1466703884,
     "wof:name":"Clark County Classroom Tchrs",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-115.109786,36.113687,-115.109786,36.113687],
+  "bbox": [
+    -115.109786,
+    36.113687,
+    -115.109786,
+    36.113687
+],
   "geometry": {"coordinates":[-115.109786,36.113687],"type":"Point"}
 }

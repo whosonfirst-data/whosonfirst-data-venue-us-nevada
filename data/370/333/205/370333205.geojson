@@ -2,13 +2,14 @@
   "id": 370333205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.859492,39.513315,-119.859492,39.513315",
     "geom:latitude":39.513315,
     "geom:longitude":-119.859492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9570 S Mccarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370333205,
-    "wof:lastmodified":1449032227,
+    "wof:lastmodified":1466704884,
     "wof:name":"American Family Insurance- Keith Balsiger Agency Inc",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "business"
     ]
 },
-  "bbox": [-119.859492,39.513315,-119.859492,39.513315],
+  "bbox": [
+    -119.859492,
+    39.513315,
+    -119.859492,
+    39.513315
+],
   "geometry": {"coordinates":[-119.859492,39.513315],"type":"Point"}
 }

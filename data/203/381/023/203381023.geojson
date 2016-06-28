@@ -2,13 +2,14 @@
   "id": 203381023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.780309,39.476241,-118.780309,39.476241",
     "geom:latitude":39.476241,
     "geom:longitude":-118.780309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 N Ada St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203381023,
-    "wof:lastmodified":1449025092,
+    "wof:lastmodified":1466703258,
     "wof:name":"Diabetes Wellness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-118.780309,39.476241,-118.780309,39.476241],
+  "bbox": [
+    -118.780309,
+    39.476241,
+    -118.780309,
+    39.476241
+],
   "geometry": {"coordinates":[-118.780309,39.476241],"type":"Point"}
 }

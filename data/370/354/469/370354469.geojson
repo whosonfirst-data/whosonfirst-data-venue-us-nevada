@@ -2,13 +2,14 @@
   "id": 370354469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.786457,39.084285,-119.786457,39.084285",
     "geom:latitude":39.084285,
     "geom:longitude":-119.786457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3394 James Lee Park Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370354469,
-    "wof:lastmodified":1449032096,
+    "wof:lastmodified":1466705056,
     "wof:name":"James Lee Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.786457,39.084285,-119.786457,39.084285],
+  "bbox": [
+    -119.786457,
+    39.084285,
+    -119.786457,
+    39.084285
+],
   "geometry": {"coordinates":[-119.786457,39.084285],"type":"Point"}
 }

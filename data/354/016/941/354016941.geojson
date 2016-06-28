@@ -2,13 +2,14 @@
   "id": 354016941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.99997,36.035225,-114.99997,36.035225",
     "geom:latitude":36.035225,
     "geom:longitude":-114.99997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 W Lake Mead Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354016941,
-    "wof:lastmodified":1449066234,
+    "wof:lastmodified":1466701932,
     "wof:name":"Kilpatrick Byron MD",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-114.99997,36.035225,-114.99997,36.035225],
+  "bbox": [
+    -114.99997,
+    36.035225,
+    -114.99997,
+    36.035225
+],
   "geometry": {"coordinates":[-114.99997,36.035225],"type":"Point"}
 }

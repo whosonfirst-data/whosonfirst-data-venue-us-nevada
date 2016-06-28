@@ -2,13 +2,14 @@
   "id": 219522317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742331,39.525495,-119.742331,39.525495",
     "geom:latitude":39.525495,
     "geom:longitude":-119.742331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 E Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219522317,
-    "wof:lastmodified":1449072073,
+    "wof:lastmodified":1466701708,
     "wof:name":"Patton Vending Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.742331,39.525495,-119.742331,39.525495],
-  "geometry": {"coordinates":[-119.742331,39.525495],"type":"Point"}
+  "bbox": [
+    -119.742331,
+    39.525495,
+    -119.742331,
+    39.525495
+],
+  "geometry": {"coordinates":[-119.74233099999999,39.525495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236361365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253746,36.204009,-115.253746,36.204009",
     "geom:latitude":36.204009,
     "geom:longitude":-115.253746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 Tech Center Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236361365,
-    "wof:lastmodified":1449004170,
+    "wof:lastmodified":1466705114,
     "wof:name":"Home Care Assistance",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.253746,36.204009,-115.253746,36.204009],
-  "geometry": {"coordinates":[-115.253746,36.204009],"type":"Point"}
+  "bbox": [
+    -115.253746,
+    36.204009,
+    -115.253746,
+    36.204009
+],
+  "geometry": {"coordinates":[-115.25374600000001,36.204009],"type":"Point"}
 }

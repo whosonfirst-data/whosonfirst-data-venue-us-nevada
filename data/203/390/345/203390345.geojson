@@ -2,13 +2,14 @@
   "id": 203390345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154751,36.130492,-115.154751,36.130492",
     "geom:latitude":36.130492,
     "geom:longitude":-115.154751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203390345,
-    "wof:lastmodified":1449026879,
+    "wof:lastmodified":1466703295,
     "wof:name":"AUCTIONARMS.COM",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-115.154751,36.130492,-115.154751,36.130492],
+  "bbox": [
+    -115.154751,
+    36.130492,
+    -115.154751,
+    36.130492
+],
   "geometry": {"coordinates":[-115.154751,36.130492],"type":"Point"}
 }

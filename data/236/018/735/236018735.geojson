@@ -2,13 +2,14 @@
   "id": 236018735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27513,36.198871,-115.27513,36.198871",
     "geom:latitude":36.198871,
     "geom:longitude":-115.27513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Cretan Blue Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236018735,
-    "wof:lastmodified":1449003263,
+    "wof:lastmodified":1466703852,
     "wof:name":"Vista Azul Inc",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.27513,36.198871,-115.27513,36.198871],
+  "bbox": [
+    -115.27513,
+    36.198871,
+    -115.27513,
+    36.198871
+],
   "geometry": {"coordinates":[-115.27513,36.198871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219741427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.335032,36.123026,-115.335032,36.123026",
     "geom:latitude":36.123026,
     "geom:longitude":-115.335032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11024 Caramel Crest Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219741427,
-    "wof:lastmodified":1449070568,
+    "wof:lastmodified":1466704695,
     "wof:name":"Visual Communication Systems",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-115.335032,36.123026,-115.335032,36.123026],
+  "bbox": [
+    -115.335032,
+    36.123026,
+    -115.335032,
+    36.123026
+],
   "geometry": {"coordinates":[-115.335032,36.123026],"type":"Point"}
 }

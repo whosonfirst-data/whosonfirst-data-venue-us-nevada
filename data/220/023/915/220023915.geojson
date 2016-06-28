@@ -2,13 +2,14 @@
   "id": 220023915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811394,39.519069,-119.811394,39.519069",
     "geom:latitude":39.519069,
     "geom:longitude":-119.811394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 Forest St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220023915,
-    "wof:lastmodified":1449074800,
+    "wof:lastmodified":1466701755,
     "wof:name":"Richard Todd Designs",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.811394,39.519069,-119.811394,39.519069],
-  "geometry": {"coordinates":[-119.811394,39.519069],"type":"Point"}
+  "bbox": [
+    -119.811394,
+    39.519069,
+    -119.811394,
+    39.519069
+],
+  "geometry": {"coordinates":[-119.81139400000001,39.519069],"type":"Point"}
 }

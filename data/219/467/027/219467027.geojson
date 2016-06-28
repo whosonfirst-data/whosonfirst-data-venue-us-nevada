@@ -2,13 +2,14 @@
   "id": 219467027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281493,36.199233,-115.281493,36.199233",
     "geom:latitude":36.199233,
     "geom:longitude":-115.281493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8551 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219467027,
-    "wof:lastmodified":1449073171,
+    "wof:lastmodified":1466704262,
     "wof:name":"Headache Center Of Southern Nv",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.281493,36.199233,-115.281493,36.199233],
+  "bbox": [
+    -115.281493,
+    36.199233,
+    -115.281493,
+    36.199233
+],
   "geometry": {"coordinates":[-115.281493,36.199233],"type":"Point"}
 }

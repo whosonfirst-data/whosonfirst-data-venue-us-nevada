@@ -2,13 +2,14 @@
   "id": 252707135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105835,35.993475,-115.105835,35.993475",
     "geom:latitude":35.993475,
     "geom:longitude":-115.105835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 Port Lewis Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252707135,
-    "wof:lastmodified":1449006352,
+    "wof:lastmodified":1466701457,
     "wof:name":"K&S Solutions Inc",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.105835,35.993475,-115.105835,35.993475],
+  "bbox": [
+    -115.105835,
+    35.993475,
+    -115.105835,
+    35.993475
+],
   "geometry": {"coordinates":[-115.105835,35.993475],"type":"Point"}
 }

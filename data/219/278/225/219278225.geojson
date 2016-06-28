@@ -2,13 +2,14 @@
   "id": 219278225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.961443,41.108671,-114.961443,41.108671",
     "geom:latitude":41.108671,
     "geom:longitude":-114.961443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 6th St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219278225,
-    "wof:lastmodified":1449072323,
+    "wof:lastmodified":1466702847,
     "wof:name":"Lone Star Motel",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.961443,41.108671,-114.961443,41.108671],
+  "bbox": [
+    -114.961443,
+    41.108671,
+    -114.961443,
+    41.108671
+],
   "geometry": {"coordinates":[-114.961443,41.108671],"type":"Point"}
 }

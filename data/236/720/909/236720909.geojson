@@ -2,13 +2,14 @@
   "id": 236720909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.285413,36.200823,-115.285413,36.200823",
     "geom:latitude":36.200823,
     "geom:longitude":-115.285413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 Rainbow Falls Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236720909,
-    "wof:lastmodified":1449002272,
+    "wof:lastmodified":1466706518,
     "wof:name":"Legal Source 2000",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-115.285413,36.200823,-115.285413,36.200823],
-  "geometry": {"coordinates":[-115.285413,36.200823],"type":"Point"}
+  "bbox": [
+    -115.285413,
+    36.200823,
+    -115.285413,
+    36.200823
+],
+  "geometry": {"coordinates":[-115.28541300000001,36.200823],"type":"Point"}
 }

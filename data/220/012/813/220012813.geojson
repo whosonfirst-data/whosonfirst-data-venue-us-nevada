@@ -2,13 +2,14 @@
   "id": 220012813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177278,36.130791,-115.177278,36.130791",
     "geom:latitude":36.130791,
     "geom:longitude":-115.177278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220012813,
-    "wof:lastmodified":1449074795,
+    "wof:lastmodified":1466701567,
     "wof:name":"Hotel Furniture Liquidators",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "f"
     ]
 },
-  "bbox": [-115.177278,36.130791,-115.177278,36.130791],
+  "bbox": [
+    -115.177278,
+    36.130791,
+    -115.177278,
+    36.130791
+],
   "geometry": {"coordinates":[-115.177278,36.130791],"type":"Point"}
 }

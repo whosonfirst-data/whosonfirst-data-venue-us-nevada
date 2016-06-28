@@ -2,13 +2,14 @@
   "id": 220102271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.928769,36.005577,-114.928769,36.005577",
     "geom:latitude":36.005577,
     "geom:longitude":-114.928769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Palomino Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220102271,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466702374,
     "wof:name":"Le Boudoir Boutique",
     "wof:parent_id":85878121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-114.928769,36.005577,-114.928769,36.005577],
+  "bbox": [
+    -114.928769,
+    36.005577,
+    -114.928769,
+    36.005577
+],
   "geometry": {"coordinates":[-114.928769,36.005577],"type":"Point"}
 }

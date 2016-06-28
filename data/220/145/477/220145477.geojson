@@ -2,13 +2,14 @@
   "id": 220145477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16935,36.14253,-115.16935,36.14253",
     "geom:latitude":36.14253,
     "geom:longitude":-115.16935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Sutter Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220145477,
-    "wof:lastmodified":1449074264,
+    "wof:lastmodified":1466702737,
     "wof:name":"Do Rite Sheet Metal & AC",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.16935,36.14253,-115.16935,36.14253],
-  "geometry": {"coordinates":[-115.16935,36.14253],"type":"Point"}
+  "bbox": [
+    -115.16935,
+    36.14253,
+    -115.16935,
+    36.14253
+],
+  "geometry": {"coordinates":[-115.16934999999999,36.14253],"type":"Point"}
 }

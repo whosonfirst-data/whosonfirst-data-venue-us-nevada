@@ -2,13 +2,14 @@
   "id": 370210569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.047654,36.144752,-115.047654,36.144752",
     "geom:latitude":36.144752,
     "geom:longitude":-115.047654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5780 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370210569,
-    "wof:lastmodified":1449030249,
+    "wof:lastmodified":1466702810,
     "wof:name":"Eva Italia Pizzeria",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.047654,36.144752,-115.047654,36.144752],
-  "geometry": {"coordinates":[-115.047654,36.144752],"type":"Point"}
+  "bbox": [
+    -115.047654,
+    36.144752,
+    -115.047654,
+    36.144752
+],
+  "geometry": {"coordinates":[-115.04765399999999,36.144752],"type":"Point"}
 }

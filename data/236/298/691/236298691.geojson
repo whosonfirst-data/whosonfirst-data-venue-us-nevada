@@ -2,13 +2,14 @@
   "id": 236298691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.71935,39.026728,-119.71935,39.026728",
     "geom:latitude":39.026728,
     "geom:longitude":-119.71935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1553 Johnson Ln",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236298691,
-    "wof:lastmodified":1449002353,
+    "wof:lastmodified":1466704824,
     "wof:name":"Homestead Carriages and Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.71935,39.026728,-119.71935,39.026728],
-  "geometry": {"coordinates":[-119.71935,39.026728],"type":"Point"}
+  "bbox": [
+    -119.71935,
+    39.026728,
+    -119.71935,
+    39.026728
+],
+  "geometry": {"coordinates":[-119.71935000000001,39.026728],"type":"Point"}
 }

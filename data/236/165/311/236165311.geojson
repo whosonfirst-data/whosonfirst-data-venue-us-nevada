@@ -2,13 +2,14 @@
   "id": 236165311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1975,36.159101,-115.1975,36.159101",
     "geom:latitude":36.159101,
     "geom:longitude":-115.1975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236165311,
-    "wof:lastmodified":1449005254,
+    "wof:lastmodified":1466702881,
     "wof:name":"PAGERIVER.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.1975,36.159101,-115.1975,36.159101],
-  "geometry": {"coordinates":[-115.1975,36.159101],"type":"Point"}
+  "bbox": [
+    -115.1975,
+    36.159101,
+    -115.1975,
+    36.159101
+],
+  "geometry": {"coordinates":[-115.19750000000001,36.159101],"type":"Point"}
 }

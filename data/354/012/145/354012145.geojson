@@ -2,13 +2,14 @@
   "id": 354012145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.024002,36.063999,-115.024002,36.063999",
     "geom:latitude":36.063999,
     "geom:longitude":-115.024002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354012145,
-    "wof:lastmodified":1449067500,
+    "wof:lastmodified":1466701796,
     "wof:name":"Phai House",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"
     ]
 },
-  "bbox": [-115.024002,36.063999,-115.024002,36.063999],
+  "bbox": [
+    -115.024002,
+    36.063999,
+    -115.024002,
+    36.063999
+],
   "geometry": {"coordinates":[-115.024002,36.063999],"type":"Point"}
 }

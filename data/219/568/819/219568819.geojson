@@ -2,13 +2,14 @@
   "id": 219568819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771727,39.122346,-119.771727,39.122346",
     "geom:latitude":39.122346,
     "geom:longitude":-119.771727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4999 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219568819,
-    "wof:lastmodified":1449070296,
+    "wof:lastmodified":1466702551,
     "wof:name":"Green Desert",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-119.771727,39.122346,-119.771727,39.122346],
+  "bbox": [
+    -119.771727,
+    39.122346,
+    -119.771727,
+    39.122346
+],
   "geometry": {"coordinates":[-119.771727,39.122346],"type":"Point"}
 }

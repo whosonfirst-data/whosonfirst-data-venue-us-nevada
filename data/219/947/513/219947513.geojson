@@ -2,13 +2,14 @@
   "id": 219947513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140121,36.170172,-115.140121,36.170172",
     "geom:latitude":36.170172,
     "geom:longitude":-115.140121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219947513,
-    "wof:lastmodified":1449072958,
+    "wof:lastmodified":1466705874,
     "wof:name":"Eastern Glass Inc",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.140121,36.170172,-115.140121,36.170172],
-  "geometry": {"coordinates":[-115.140121,36.170172],"type":"Point"}
+  "bbox": [
+    -115.140121,
+    36.170172,
+    -115.140121,
+    36.170172
+],
+  "geometry": {"coordinates":[-115.14012099999999,36.170172],"type":"Point"}
 }

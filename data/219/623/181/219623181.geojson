@@ -2,13 +2,14 @@
   "id": 219623181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766931,39.158087,-119.766931,39.158087",
     "geom:latitude":39.158087,
     "geom:longitude":-119.766931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219623181,
-    "wof:lastmodified":1449072871,
+    "wof:lastmodified":1466703342,
     "wof:name":"Super Hair",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.766931,39.158087,-119.766931,39.158087],
+  "bbox": [
+    -119.766931,
+    39.158087,
+    -119.766931,
+    39.158087
+],
   "geometry": {"coordinates":[-119.766931,39.158087],"type":"Point"}
 }

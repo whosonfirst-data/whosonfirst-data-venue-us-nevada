@@ -2,13 +2,14 @@
   "id": 236655991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.473377,40.178919,-118.473377,40.178919",
     "geom:latitude":40.178919,
     "geom:longitude":-118.473377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 E Broadway",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236655991,
-    "wof:lastmodified":1449003565,
+    "wof:lastmodified":1466706407,
     "wof:name":"Lovelock Hay Market",
     "wof:parent_id":85841421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hay"
     ]
 },
-  "bbox": [-118.473377,40.178919,-118.473377,40.178919],
+  "bbox": [
+    -118.473377,
+    40.178919,
+    -118.473377,
+    40.178919
+],
   "geometry": {"coordinates":[-118.473377,40.178919],"type":"Point"}
 }

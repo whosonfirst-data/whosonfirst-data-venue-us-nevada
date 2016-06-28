@@ -2,13 +2,14 @@
   "id": 219307163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.259209,36.16839,-115.259209,36.16839",
     "geom:latitude":36.16839,
     "geom:longitude":-115.259209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Huntly Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219307163,
-    "wof:lastmodified":1449071313,
+    "wof:lastmodified":1466703130,
     "wof:name":"Desert Rocketry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rocketry"
     ]
 },
-  "bbox": [-115.259209,36.16839,-115.259209,36.16839],
+  "bbox": [
+    -115.259209,
+    36.16839,
+    -115.259209,
+    36.16839
+],
   "geometry": {"coordinates":[-115.259209,36.16839],"type":"Point"}
 }

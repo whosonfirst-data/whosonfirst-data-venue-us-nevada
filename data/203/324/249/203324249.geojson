@@ -2,13 +2,14 @@
   "id": 203324249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766806,39.177556,-119.766806,39.177556",
     "geom:latitude":39.177556,
     "geom:longitude":-119.766806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203324249,
-    "wof:lastmodified":1449026049,
+    "wof:lastmodified":1466702987,
     "wof:name":"High Sierra Business Systems",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "copying"
     ]
 },
-  "bbox": [-119.766806,39.177556,-119.766806,39.177556],
+  "bbox": [
+    -119.766806,
+    39.177556,
+    -119.766806,
+    39.177556
+],
   "geometry": {"coordinates":[-119.766806,39.177556],"type":"Point"}
 }

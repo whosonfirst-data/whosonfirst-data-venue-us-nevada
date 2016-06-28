@@ -2,13 +2,14 @@
   "id": 219957861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28899,36.144208,-115.28899,36.144208",
     "geom:latitude":36.144208,
     "geom:longitude":-115.28899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9030 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219957861,
-    "wof:lastmodified":1449073387,
+    "wof:lastmodified":1466705995,
     "wof:name":"Blue Bird Pools Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.28899,36.144208,-115.28899,36.144208],
+  "bbox": [
+    -115.28899,
+    36.144208,
+    -115.28899,
+    36.144208
+],
   "geometry": {"coordinates":[-115.28899,36.144208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235954627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316062,36.197328,-115.316062,36.197328",
     "geom:latitude":36.197328,
     "geom:longitude":-115.316062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2032 Summer Spruce Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235954627,
-    "wof:lastmodified":1449008565,
+    "wof:lastmodified":1466703548,
     "wof:name":"Claude W Sharp",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.316062,36.197328,-115.316062,36.197328],
+  "bbox": [
+    -115.316062,
+    36.197328,
+    -115.316062,
+    36.197328
+],
   "geometry": {"coordinates":[-115.316062,36.197328],"type":"Point"}
 }

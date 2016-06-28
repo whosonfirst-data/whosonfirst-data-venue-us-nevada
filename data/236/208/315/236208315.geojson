@@ -2,13 +2,14 @@
   "id": 236208315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057651,36.025125,-115.057651,36.025125",
     "geom:latitude":36.025125,
     "geom:longitude":-115.057651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1778 Summerwood Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236208315,
-    "wof:lastmodified":1449001967,
+    "wof:lastmodified":1466703739,
     "wof:name":"Exel Transportation Services",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-115.057651,36.025125,-115.057651,36.025125],
-  "geometry": {"coordinates":[-115.057651,36.025125],"type":"Point"}
+  "bbox": [
+    -115.057651,
+    36.025125,
+    -115.057651,
+    36.025125
+],
+  "geometry": {"coordinates":[-115.05765100000001,36.025125],"type":"Point"}
 }

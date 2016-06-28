@@ -2,13 +2,14 @@
   "id": 370320143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796903,39.507459,-119.796903,39.507459",
     "geom:latitude":39.507459,
     "geom:longitude":-119.796903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Casazza Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370320143,
-    "wof:lastmodified":1449029953,
+    "wof:lastmodified":1466704731,
     "wof:name":"Lavoz Hispana Denevada Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-119.796903,39.507459,-119.796903,39.507459],
+  "bbox": [
+    -119.796903,
+    39.507459,
+    -119.796903,
+    39.507459
+],
   "geometry": {"coordinates":[-119.796903,39.507459],"type":"Point"}
 }

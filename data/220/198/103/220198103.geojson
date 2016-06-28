@@ -2,13 +2,14 @@
   "id": 220198103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.032398,36.205871,-115.032398,36.205871",
     "geom:latitude":36.205871,
     "geom:longitude":-115.032398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2576 Windy Leaf Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220198103,
-    "wof:lastmodified":1449074316,
+    "wof:lastmodified":1466703082,
     "wof:name":"CT Enterprises",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-115.032398,36.205871,-115.032398,36.205871],
+  "bbox": [
+    -115.032398,
+    36.205871,
+    -115.032398,
+    36.205871
+],
   "geometry": {"coordinates":[-115.032398,36.205871],"type":"Point"}
 }

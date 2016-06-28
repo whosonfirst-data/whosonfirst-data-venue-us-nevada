@@ -2,13 +2,14 @@
   "id": 220072245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.721598,39.55629,-119.721598,39.55629",
     "geom:latitude":39.55629,
     "geom:longitude":-119.721598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220072245,
-    "wof:lastmodified":1449074473,
+    "wof:lastmodified":1466702224,
     "wof:name":"Nails By Lu",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.721598,39.55629,-119.721598,39.55629],
+  "bbox": [
+    -119.721598,
+    39.55629,
+    -119.721598,
+    39.55629
+],
   "geometry": {"coordinates":[-119.721598,39.55629],"type":"Point"}
 }

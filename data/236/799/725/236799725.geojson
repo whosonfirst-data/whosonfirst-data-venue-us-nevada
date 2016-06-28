@@ -2,13 +2,14 @@
   "id": 236799725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266888,36.232057,-115.266888,36.232057",
     "geom:latitude":36.232057,
     "geom:longitude":-115.266888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Varallo St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236799725,
-    "wof:lastmodified":1449005269,
+    "wof:lastmodified":1466706655,
     "wof:name":"Tiffany Stout",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.266888,36.232057,-115.266888,36.232057],
-  "geometry": {"coordinates":[-115.266888,36.232057],"type":"Point"}
+  "bbox": [
+    -115.266888,
+    36.232057,
+    -115.266888,
+    36.232057
+],
+  "geometry": {"coordinates":[-115.26688799999999,36.232057],"type":"Point"}
 }

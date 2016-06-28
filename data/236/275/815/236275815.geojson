@@ -2,13 +2,14 @@
   "id": 236275815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738576,39.524209,-119.738576,39.524209",
     "geom:latitude":39.524209,
     "geom:longitude":-119.738576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Bergin Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236275815,
-    "wof:lastmodified":1449002555,
+    "wof:lastmodified":1466704533,
     "wof:name":"U-Store It",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-119.738576,39.524209,-119.738576,39.524209],
-  "geometry": {"coordinates":[-119.738576,39.524209],"type":"Point"}
+  "bbox": [
+    -119.738576,
+    39.524209,
+    -119.738576,
+    39.524209
+],
+  "geometry": {"coordinates":[-119.73857599999999,39.524209],"type":"Point"}
 }

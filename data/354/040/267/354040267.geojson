@@ -2,13 +2,14 @@
   "id": 354040267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15602,36.228898,-115.15602,36.228898",
     "geom:latitude":36.228898,
     "geom:longitude":-115.15602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Mosskag Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354040267,
-    "wof:lastmodified":1449067636,
+    "wof:lastmodified":1466702533,
     "wof:name":"Avon Beauty Center",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.15602,36.228898,-115.15602,36.228898],
+  "bbox": [
+    -115.15602,
+    36.228898,
+    -115.15602,
+    36.228898
+],
   "geometry": {"coordinates":[-115.15602,36.228898],"type":"Point"}
 }

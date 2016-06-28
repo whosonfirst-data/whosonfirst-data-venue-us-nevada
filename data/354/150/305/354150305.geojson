@@ -2,13 +2,14 @@
   "id": 354150305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242853,36.124472,-115.242853,36.124472",
     "geom:latitude":36.124472,
     "geom:longitude":-115.242853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354150305,
-    "wof:lastmodified":1449065950,
+    "wof:lastmodified":1466704649,
     "wof:name":"Target Pharmacy",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-115.242853,36.124472,-115.242853,36.124472],
+  "bbox": [
+    -115.242853,
+    36.124472,
+    -115.242853,
+    36.124472
+],
   "geometry": {"coordinates":[-115.242853,36.124472],"type":"Point"}
 }

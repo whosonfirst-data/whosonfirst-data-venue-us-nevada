@@ -2,13 +2,14 @@
   "id": 236834713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.235458,36.28313,-115.235458,36.28313",
     "geom:latitude":36.28313,
     "geom:longitude":-115.235458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6511 Deer Springs Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236834713,
-    "wof:lastmodified":1449001903,
+    "wof:lastmodified":1466706706,
     "wof:name":"H Bruce Cox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.235458,36.28313,-115.235458,36.28313],
-  "geometry": {"coordinates":[-115.235458,36.28313],"type":"Point"}
+  "bbox": [
+    -115.235458,
+    36.28313,
+    -115.235458,
+    36.28313
+],
+  "geometry": {"coordinates":[-115.23545799999999,36.28313],"type":"Point"}
 }

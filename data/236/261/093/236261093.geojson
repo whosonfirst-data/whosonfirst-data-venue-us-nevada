@@ -2,13 +2,14 @@
   "id": 236261093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216551,36.12384,-115.216551,36.12384",
     "geom:latitude":36.12384,
     "geom:longitude":-115.216551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3651 S Lindell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236261093,
-    "wof:lastmodified":1449001717,
+    "wof:lastmodified":1466704257,
     "wof:name":"Citinet Mortgage",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.216551,36.12384,-115.216551,36.12384],
+  "bbox": [
+    -115.216551,
+    36.12384,
+    -115.216551,
+    36.12384
+],
   "geometry": {"coordinates":[-115.216551,36.12384],"type":"Point"}
 }

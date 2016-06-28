@@ -2,13 +2,14 @@
   "id": 219258123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1973,36.168778,-115.1973,36.168778",
     "geom:latitude":36.168778,
     "geom:longitude":-115.1973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Bedford Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219258123,
-    "wof:lastmodified":1449073210,
+    "wof:lastmodified":1466702622,
     "wof:name":"Take Pride Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.1973,36.168778,-115.1973,36.168778],
+  "bbox": [
+    -115.1973,
+    36.168778,
+    -115.1973,
+    36.168778
+],
   "geometry": {"coordinates":[-115.1973,36.168778],"type":"Point"}
 }

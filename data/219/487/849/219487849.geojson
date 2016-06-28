@@ -2,13 +2,14 @@
   "id": 219487849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773429,39.619824,-119.773429,39.619824",
     "geom:latitude":39.619824,
     "geom:longitude":-119.773429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 Rams Horn Rd",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219487849,
-    "wof:lastmodified":1449071552,
+    "wof:lastmodified":1466704113,
     "wof:name":"All-Ways Pilot Car Svc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pilot"
     ]
 },
-  "bbox": [-119.773429,39.619824,-119.773429,39.619824],
-  "geometry": {"coordinates":[-119.773429,39.619824],"type":"Point"}
+  "bbox": [
+    -119.773429,
+    39.619824,
+    -119.773429,
+    39.619824
+],
+  "geometry": {"coordinates":[-119.77342899999999,39.619824],"type":"Point"}
 }

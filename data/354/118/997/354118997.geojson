@@ -2,13 +2,14 @@
   "id": 354118997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207827,36.155868,-115.207827,36.155868",
     "geom:latitude":36.155868,
     "geom:longitude":-115.207827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 S Decatur Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354118997,
-    "wof:lastmodified":1449067317,
+    "wof:lastmodified":1466704408,
     "wof:name":"Family Christian Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-115.207827,36.155868,-115.207827,36.155868],
-  "geometry": {"coordinates":[-115.207827,36.155868],"type":"Point"}
+  "bbox": [
+    -115.207827,
+    36.155868,
+    -115.207827,
+    36.155868
+],
+  "geometry": {"coordinates":[-115.20782699999999,36.155868],"type":"Point"}
 }

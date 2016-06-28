@@ -2,13 +2,14 @@
   "id": 354191477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148954,36.173611,-115.148954,36.173611",
     "geom:latitude":36.173611,
     "geom:longitude":-115.148954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N City Pkwy Ste 1700",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354191477,
-    "wof:lastmodified":1449066964,
+    "wof:lastmodified":1466704832,
     "wof:name":"Parkway Center Llc",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.148954,36.173611,-115.148954,36.173611],
+  "bbox": [
+    -115.148954,
+    36.173611,
+    -115.148954,
+    36.173611
+],
   "geometry": {"coordinates":[-115.148954,36.173611],"type":"Point"}
 }

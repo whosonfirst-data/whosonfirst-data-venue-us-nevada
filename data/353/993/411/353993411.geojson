@@ -2,13 +2,14 @@
   "id": 353993411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064009,36.010173,-115.064009,36.010173",
     "geom:latitude":36.010173,
     "geom:longitude":-115.064009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 W Horizon Ridge Pkwy Suite 110",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353993411,
-    "wof:lastmodified":1449019387,
+    "wof:lastmodified":1466701678,
     "wof:name":"Valley Cheese & Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.064009,36.010173,-115.064009,36.010173],
+  "bbox": [
+    -115.064009,
+    36.010173,
+    -115.064009,
+    36.010173
+],
   "geometry": {"coordinates":[-115.064009,36.010173],"type":"Point"}
 }

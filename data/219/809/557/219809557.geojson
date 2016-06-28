@@ -2,13 +2,14 @@
   "id": 219809557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.329773,36.167456,-115.329773,36.167456",
     "geom:latitude":36.167456,
     "geom:longitude":-115.329773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10741 Sprucedale Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219809557,
-    "wof:lastmodified":1449073286,
+    "wof:lastmodified":1466705149,
     "wof:name":"C L Clark",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-115.329773,36.167456,-115.329773,36.167456],
+  "bbox": [
+    -115.329773,
+    36.167456,
+    -115.329773,
+    36.167456
+],
   "geometry": {"coordinates":[-115.329773,36.167456],"type":"Point"}
 }

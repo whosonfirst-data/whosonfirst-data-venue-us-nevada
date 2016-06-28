@@ -2,13 +2,14 @@
   "id": 354264631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.138823,36.129647,-115.138823,36.129647",
     "geom:latitude":36.129647,
     "geom:longitude":-115.138823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 E Desert Inn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354264631,
-    "wof:lastmodified":1449067077,
+    "wof:lastmodified":1466705475,
     "wof:name":"Bank of America",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.138823,36.129647,-115.138823,36.129647],
+  "bbox": [
+    -115.138823,
+    36.129647,
+    -115.138823,
+    36.129647
+],
   "geometry": {"coordinates":[-115.138823,36.129647],"type":"Point"}
 }

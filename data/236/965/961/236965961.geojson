@@ -2,13 +2,14 @@
   "id": 236965961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.848836,39.355912,-119.848836,39.355912",
     "geom:latitude":39.355912,
     "geom:longitude":-119.848836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Douglas Fir Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236965961,
-    "wof:lastmodified":1449004054,
+    "wof:lastmodified":1466706948,
     "wof:name":"Dolls By Odell",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.848836,39.355912,-119.848836,39.355912],
-  "geometry": {"coordinates":[-119.848836,39.355912],"type":"Point"}
+  "bbox": [
+    -119.848836,
+    39.355912,
+    -119.848836,
+    39.355912
+],
+  "geometry": {"coordinates":[-119.84883600000001,39.355912],"type":"Point"}
 }

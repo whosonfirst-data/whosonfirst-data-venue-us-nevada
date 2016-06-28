@@ -2,13 +2,14 @@
   "id": 203384585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823775,39.522894,-119.823775,39.522894",
     "geom:latitude":39.522894,
     "geom:longitude":-119.823775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Vine St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384585,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466703274,
     "wof:name":"Labeeg Janitorial",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.823775,39.522894,-119.823775,39.522894],
+  "bbox": [
+    -119.823775,
+    39.522894,
+    -119.823775,
+    39.522894
+],
   "geometry": {"coordinates":[-119.823775,39.522894],"type":"Point"}
 }

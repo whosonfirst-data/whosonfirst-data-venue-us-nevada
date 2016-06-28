@@ -2,13 +2,14 @@
   "id": 354250263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137568,36.118567,-115.137568,36.118567",
     "geom:latitude":36.118567,
     "geom:longitude":-115.137568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3890 S Maryland Pkwy Ste 137",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354250263,
-    "wof:lastmodified":1449066924,
+    "wof:lastmodified":1466705482,
     "wof:name":"Jollibee",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filipino"
     ]
 },
-  "bbox": [-115.137568,36.118567,-115.137568,36.118567],
+  "bbox": [
+    -115.137568,
+    36.118567,
+    -115.137568,
+    36.118567
+],
   "geometry": {"coordinates":[-115.137568,36.118567],"type":"Point"}
 }

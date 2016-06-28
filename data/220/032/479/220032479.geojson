@@ -2,13 +2,14 @@
   "id": 220032479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.79455,40.83931,-115.79455,40.83931",
     "geom:latitude":40.83931,
     "geom:longitude":-115.79455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Mountain City Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220032479,
-    "wof:lastmodified":1449074420,
+    "wof:lastmodified":1466701820,
     "wof:name":"Matties",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.79455,40.83931,-115.79455,40.83931],
+  "bbox": [
+    -115.79455,
+    40.83931,
+    -115.79455,
+    40.83931
+],
   "geometry": {"coordinates":[-115.79455,40.83931],"type":"Point"}
 }

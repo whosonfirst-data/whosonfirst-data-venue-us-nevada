@@ -2,13 +2,14 @@
   "id": 203331101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767905,39.16588,-119.767905,39.16588",
     "geom:latitude":39.16588,
     "geom:longitude":-119.767905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Curry St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203331101,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466703028,
     "wof:name":"Beauty and Beads",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.767905,39.16588,-119.767905,39.16588],
+  "bbox": [
+    -119.767905,
+    39.16588,
+    -119.767905,
+    39.16588
+],
   "geometry": {"coordinates":[-119.767905,39.16588],"type":"Point"}
 }

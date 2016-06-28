@@ -2,13 +2,14 @@
   "id": 236130985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226926,36.144271,-115.226926,36.144271",
     "geom:latitude":36.144271,
     "geom:longitude":-115.226926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6122 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236130985,
-    "wof:lastmodified":1449002649,
+    "wof:lastmodified":1466702153,
     "wof:name":"Dollar Loan Center",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "installment"
     ]
 },
-  "bbox": [-115.226926,36.144271,-115.226926,36.144271],
-  "geometry": {"coordinates":[-115.226926,36.144271],"type":"Point"}
+  "bbox": [
+    -115.226926,
+    36.144271,
+    -115.226926,
+    36.144271
+],
+  "geometry": {"coordinates":[-115.22692600000001,36.144271],"type":"Point"}
 }

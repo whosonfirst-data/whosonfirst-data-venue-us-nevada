@@ -2,13 +2,14 @@
   "id": 219457893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297117,36.120446,-115.297117,36.120446",
     "geom:latitude":36.120446,
     "geom:longitude":-115.297117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9455 W Katie Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219457893,
-    "wof:lastmodified":1449072758,
+    "wof:lastmodified":1466703958,
     "wof:name":"Foothills Guard House",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-115.297117,36.120446,-115.297117,36.120446],
+  "bbox": [
+    -115.297117,
+    36.120446,
+    -115.297117,
+    36.120446
+],
   "geometry": {"coordinates":[-115.297117,36.120446],"type":"Point"}
 }

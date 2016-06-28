@@ -2,13 +2,14 @@
   "id": 219407695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992746,36.146661,-115.992746,36.146661",
     "geom:latitude":36.146661,
     "geom:longitude":-115.992746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 Pahrump Valley Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219407695,
-    "wof:lastmodified":1449072331,
+    "wof:lastmodified":1466703682,
     "wof:name":"Horizon Market 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-115.992746,36.146661,-115.992746,36.146661],
+  "bbox": [
+    -115.992746,
+    36.146661,
+    -115.992746,
+    36.146661
+],
   "geometry": {"coordinates":[-115.992746,36.146661],"type":"Point"}
 }

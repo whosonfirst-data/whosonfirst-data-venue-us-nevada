@@ -2,13 +2,14 @@
   "id": 219725391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.376498,39.370234,-119.376498,39.370234",
     "geom:latitude":39.370234,
     "geom:longitude":-119.376498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5345 Meadow Ln",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219725391,
-    "wof:lastmodified":1449071254,
+    "wof:lastmodified":1466704602,
     "wof:name":"Desert Garden & Yard Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-119.376498,39.370234,-119.376498,39.370234],
+  "bbox": [
+    -119.376498,
+    39.370234,
+    -119.376498,
+    39.370234
+],
   "geometry": {"coordinates":[-119.376498,39.370234],"type":"Point"}
 }

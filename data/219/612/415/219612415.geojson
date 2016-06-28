@@ -2,13 +2,14 @@
   "id": 219612415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13693,36.148068,-115.13693,36.148068",
     "geom:latitude":36.148068,
     "geom:longitude":-115.13693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219612415,
-    "wof:lastmodified":1449071954,
+    "wof:lastmodified":1466703136,
     "wof:name":"Petroleum House Inc",
     "wof:parent_id":85892673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.13693,36.148068,-115.13693,36.148068],
-  "geometry": {"coordinates":[-115.13693,36.148068],"type":"Point"}
+  "bbox": [
+    -115.13693,
+    36.148068,
+    -115.13693,
+    36.148068
+],
+  "geometry": {"coordinates":[-115.13693000000001,36.148068],"type":"Point"}
 }

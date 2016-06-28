@@ -2,13 +2,14 @@
   "id": 219233357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742248,39.588463,-119.742248,39.588463",
     "geom:latitude":39.588463,
     "geom:longitude":-119.742248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Noble Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219233357,
-    "wof:lastmodified":1449073986,
+    "wof:lastmodified":1466702329,
     "wof:name":"Bill Smith Racing",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-119.742248,39.588463,-119.742248,39.588463],
+  "bbox": [
+    -119.742248,
+    39.588463,
+    -119.742248,
+    39.588463
+],
   "geometry": {"coordinates":[-119.742248,39.588463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203395273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191378,36.241744,-115.191378,36.241744",
     "geom:latitude":36.241744,
     "geom:longitude":-115.191378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Fortress Dr",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203395273,
-    "wof:lastmodified":1449026573,
+    "wof:lastmodified":1466703303,
     "wof:name":"Aj Joshi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.191378,36.241744,-115.191378,36.241744],
+  "bbox": [
+    -115.191378,
+    36.241744,
+    -115.191378,
+    36.241744
+],
   "geometry": {"coordinates":[-115.191378,36.241744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219966983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796401,39.520987,-119.796401,39.520987",
     "geom:latitude":39.520987,
     "geom:longitude":-119.796401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Ballentyne Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219966983,
-    "wof:lastmodified":1449070397,
+    "wof:lastmodified":1466706134,
     "wof:name":"R&D Arts",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-119.796401,39.520987,-119.796401,39.520987],
+  "bbox": [
+    -119.796401,
+    39.520987,
+    -119.796401,
+    39.520987
+],
   "geometry": {"coordinates":[-119.796401,39.520987],"type":"Point"}
 }

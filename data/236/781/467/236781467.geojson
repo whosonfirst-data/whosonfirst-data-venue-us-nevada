@@ -2,13 +2,14 @@
   "id": 236781467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.781603,39.476758,-118.781603,39.476758",
     "geom:latitude":39.476758,
     "geom:longitude":-118.781603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 N Taylor St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236781467,
-    "wof:lastmodified":1449002141,
+    "wof:lastmodified":1466706617,
     "wof:name":"Churchill Cnty Building & Grnd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.781603,39.476758,-118.781603,39.476758],
+  "bbox": [
+    -118.781603,
+    39.476758,
+    -118.781603,
+    39.476758
+],
   "geometry": {"coordinates":[-118.781603,39.476758],"type":"Point"}
 }

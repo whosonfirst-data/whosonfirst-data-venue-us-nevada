@@ -2,13 +2,14 @@
   "id": 354130535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.179174,36.15913,-115.179174,36.15913",
     "geom:latitude":36.15913,
     "geom:longitude":-115.179174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354130535,
-    "wof:lastmodified":1449066497,
+    "wof:lastmodified":1466704477,
     "wof:name":"A Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-115.179174,36.15913,-115.179174,36.15913],
+  "bbox": [
+    -115.179174,
+    36.15913,
+    -115.179174,
+    36.15913
+],
   "geometry": {"coordinates":[-115.179174,36.15913],"type":"Point"}
 }

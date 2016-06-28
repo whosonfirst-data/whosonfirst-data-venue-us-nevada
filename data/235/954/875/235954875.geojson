@@ -2,13 +2,14 @@
   "id": 235954875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261059,36.174073,-115.261059,36.174073",
     "geom:latitude":36.174073,
     "geom:longitude":-115.261059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7634 Westcliff Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235954875,
-    "wof:lastmodified":1449008562,
+    "wof:lastmodified":1466703551,
     "wof:name":"Salon V",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.261059,36.174073,-115.261059,36.174073],
+  "bbox": [
+    -115.261059,
+    36.174073,
+    -115.261059,
+    36.174073
+],
   "geometry": {"coordinates":[-115.261059,36.174073],"type":"Point"}
 }

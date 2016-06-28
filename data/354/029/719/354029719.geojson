@@ -2,13 +2,14 @@
   "id": 354029719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.124696,36.221095,-115.124696,36.221095",
     "geom:latitude":36.221095,
     "geom:longitude":-115.124696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 Losee Rd North",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354029719,
-    "wof:lastmodified":1449066641,
+    "wof:lastmodified":1466702266,
     "wof:name":"Port of Subs",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.124696,36.221095,-115.124696,36.221095],
+  "bbox": [
+    -115.124696,
+    36.221095,
+    -115.124696,
+    36.221095
+],
   "geometry": {"coordinates":[-115.124696,36.221095],"type":"Point"}
 }

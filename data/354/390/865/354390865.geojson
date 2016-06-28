@@ -2,13 +2,14 @@
   "id": 354390865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064114,36.101763,-115.064114,36.101763",
     "geom:latitude":36.101763,
     "geom:longitude":-115.064114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4810 S Nellis Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354390865,
-    "wof:lastmodified":1449067678,
+    "wof:lastmodified":1466706230,
     "wof:name":"Royal Prestige",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-115.064114,36.101763,-115.064114,36.101763],
+  "bbox": [
+    -115.064114,
+    36.101763,
+    -115.064114,
+    36.101763
+],
   "geometry": {"coordinates":[-115.064114,36.101763],"type":"Point"}
 }

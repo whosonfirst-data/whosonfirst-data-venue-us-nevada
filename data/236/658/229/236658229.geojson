@@ -2,13 +2,14 @@
   "id": 236658229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.581121,39.238837,-119.581121,39.238837",
     "geom:latitude":39.238837,
     "geom:longitude":-119.581121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Dayton Valley Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236658229,
-    "wof:lastmodified":1449001624,
+    "wof:lastmodified":1466706405,
     "wof:name":"Mc Fadden Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-119.581121,39.238837,-119.581121,39.238837],
+  "bbox": [
+    -119.581121,
+    39.238837,
+    -119.581121,
+    39.238837
+],
   "geometry": {"coordinates":[-119.581121,39.238837],"type":"Point"}
 }

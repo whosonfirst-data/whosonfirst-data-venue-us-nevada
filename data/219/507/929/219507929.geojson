@@ -2,13 +2,14 @@
   "id": 219507929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.966903,41.108198,-114.966903,41.108198",
     "geom:latitude":41.108198,
     "geom:longitude":-114.966903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1269 Clover Ave",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219507929,
-    "wof:lastmodified":1449072198,
+    "wof:lastmodified":1466704187,
     "wof:name":"Wells Police Dept",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-114.966903,41.108198,-114.966903,41.108198],
+  "bbox": [
+    -114.966903,
+    41.108198,
+    -114.966903,
+    41.108198
+],
   "geometry": {"coordinates":[-114.966903,41.108198],"type":"Point"}
 }

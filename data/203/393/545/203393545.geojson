@@ -2,13 +2,14 @@
   "id": 203393545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761048,39.535908,-119.761048,39.535908",
     "geom:latitude":39.535908,
     "geom:longitude":-119.761048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1437 C St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203393545,
-    "wof:lastmodified":1449025513,
+    "wof:lastmodified":1466703305,
     "wof:name":"Gabc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.761048,39.535908,-119.761048,39.535908],
+  "bbox": [
+    -119.761048,
+    39.535908,
+    -119.761048,
+    39.535908
+],
   "geometry": {"coordinates":[-119.761048,39.535908],"type":"Point"}
 }

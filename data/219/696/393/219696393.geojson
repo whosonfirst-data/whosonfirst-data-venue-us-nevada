@@ -2,13 +2,14 @@
   "id": 219696393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.953285,39.249785,-119.953285,39.249785",
     "geom:latitude":39.249785,
     "geom:longitude":-119.953285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"868 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219696393,
-    "wof:lastmodified":1449070649,
+    "wof:lastmodified":1466704415,
     "wof:name":"Tahoe Store Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.953285,39.249785,-119.953285,39.249785],
-  "geometry": {"coordinates":[-119.953285,39.249785],"type":"Point"}
+  "bbox": [
+    -119.953285,
+    39.249785,
+    -119.953285,
+    39.249785
+],
+  "geometry": {"coordinates":[-119.95328499999999,39.249785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236049197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15003,36.002605,-115.15003,36.002605",
     "geom:latitude":36.002605,
     "geom:longitude":-115.15003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10317 Free Spirit St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236049197,
-    "wof:lastmodified":1449003254,
+    "wof:lastmodified":1466703962,
     "wof:name":"Air Conditioning Filter Man",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-115.15003,36.002605,-115.15003,36.002605],
+  "bbox": [
+    -115.15003,
+    36.002605,
+    -115.15003,
+    36.002605
+],
   "geometry": {"coordinates":[-115.15003,36.002605],"type":"Point"}
 }

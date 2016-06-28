@@ -2,13 +2,14 @@
   "id": 354208537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195,36.170101,-115.195,36.170101",
     "geom:latitude":36.170101,
     "geom:longitude":-115.195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Meadows Ln Ste 102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354208537,
-    "wof:lastmodified":1449066133,
+    "wof:lastmodified":1466705086,
     "wof:name":"Bryan A Lowe & Associates PC",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.195,36.170101,-115.195,36.170101],
-  "geometry": {"coordinates":[-115.195,36.170101],"type":"Point"}
+  "bbox": [
+    -115.195,
+    36.170101,
+    -115.195,
+    36.170101
+],
+  "geometry": {"coordinates":[-115.19499999999999,36.170101],"type":"Point"}
 }

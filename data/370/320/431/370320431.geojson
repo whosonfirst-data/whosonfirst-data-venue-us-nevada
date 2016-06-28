@@ -2,13 +2,14 @@
   "id": 370320431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785826,39.475528,-119.785826,39.475528",
     "geom:latitude":39.475528,
     "geom:longitude":-119.785826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Meadowood Mall Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370320431,
-    "wof:lastmodified":1449029949,
+    "wof:lastmodified":1466704740,
     "wof:name":"Joppa",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.785826,39.475528,-119.785826,39.475528],
+  "bbox": [
+    -119.785826,
+    39.475528,
+    -119.785826,
+    39.475528
+],
   "geometry": {"coordinates":[-119.785826,39.475528],"type":"Point"}
 }

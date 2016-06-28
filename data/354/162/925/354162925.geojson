@@ -2,13 +2,14 @@
   "id": 354162925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080869,36.143538,-115.080869,36.143538",
     "geom:latitude":36.143538,
     "geom:longitude":-115.080869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 E Sahara Ave Ste 27",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354162925,
-    "wof:lastmodified":1449067406,
+    "wof:lastmodified":1466704643,
     "wof:name":"Las Vegas House of Chrome",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.080869,36.143538,-115.080869,36.143538],
-  "geometry": {"coordinates":[-115.080869,36.143538],"type":"Point"}
+  "bbox": [
+    -115.080869,
+    36.143538,
+    -115.080869,
+    36.143538
+],
+  "geometry": {"coordinates":[-115.08086900000001,36.143538],"type":"Point"}
 }

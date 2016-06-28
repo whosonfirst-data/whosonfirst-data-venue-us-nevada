@@ -2,13 +2,14 @@
   "id": 370195543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297178,36.199196,-115.297178,36.199196",
     "geom:latitude":36.199196,
     "geom:longitude":-115.297178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9232 Jadecrest Dr Las Vegas",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370195543,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1466702402,
     "wof:name":"Dry Solutions",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"
     ]
 },
-  "bbox": [-115.297178,36.199196,-115.297178,36.199196],
+  "bbox": [
+    -115.297178,
+    36.199196,
+    -115.297178,
+    36.199196
+],
   "geometry": {"coordinates":[-115.297178,36.199196],"type":"Point"}
 }

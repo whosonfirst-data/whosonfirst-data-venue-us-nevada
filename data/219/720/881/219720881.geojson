@@ -2,13 +2,14 @@
   "id": 219720881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.825769,35.97297,-114.825769,35.97297",
     "geom:latitude":35.97297,
     "geom:longitude":-114.825769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 7th St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219720881,
-    "wof:lastmodified":1449071238,
+    "wof:lastmodified":1466704578,
     "wof:name":"H & S Lawncare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-114.825769,35.97297,-114.825769,35.97297],
-  "geometry": {"coordinates":[-114.825769,35.97297],"type":"Point"}
+  "bbox": [
+    -114.825769,
+    35.97297,
+    -114.825769,
+    35.97297
+],
+  "geometry": {"coordinates":[-114.82576899999999,35.97297],"type":"Point"}
 }

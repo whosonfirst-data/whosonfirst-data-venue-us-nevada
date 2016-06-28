@@ -2,13 +2,14 @@
   "id": 219392063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75829,39.198535,-119.75829,39.198535",
     "geom:latitude":39.198535,
     "geom:longitude":-119.75829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Arrowhead Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219392063,
-    "wof:lastmodified":1449073226,
+    "wof:lastmodified":1466703577,
     "wof:name":"Fernley Mini Storage Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-119.75829,39.198535,-119.75829,39.198535],
+  "bbox": [
+    -119.75829,
+    39.198535,
+    -119.75829,
+    39.198535
+],
   "geometry": {"coordinates":[-119.75829,39.198535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219198851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.805059,39.472648,-118.805059,39.472648",
     "geom:latitude":39.472648,
     "geom:longitude":-118.805059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1085 Taylor Pl",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219198851,
-    "wof:lastmodified":1449071669,
+    "wof:lastmodified":1466702056,
     "wof:name":"Curtis Paint & Body Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-118.805059,39.472648,-118.805059,39.472648],
+  "bbox": [
+    -118.805059,
+    39.472648,
+    -118.805059,
+    39.472648
+],
   "geometry": {"coordinates":[-118.805059,39.472648],"type":"Point"}
 }

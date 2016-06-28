@@ -2,13 +2,14 @@
   "id": 219690209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128662,36.222411,-115.128662,36.222411",
     "geom:latitude":36.222411,
     "geom:longitude":-115.128662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Wagner St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219690209,
-    "wof:lastmodified":1449072248,
+    "wof:lastmodified":1466704356,
     "wof:name":"Silver State Components Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-115.128662,36.222411,-115.128662,36.222411],
-  "geometry": {"coordinates":[-115.128662,36.222411],"type":"Point"}
+  "bbox": [
+    -115.128662,
+    36.222411,
+    -115.128662,
+    36.222411
+],
+  "geometry": {"coordinates":[-115.12866200000001,36.222411],"type":"Point"}
 }

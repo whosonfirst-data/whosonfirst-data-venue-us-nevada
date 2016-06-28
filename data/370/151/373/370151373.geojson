@@ -2,13 +2,14 @@
   "id": 370151373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281192,36.201211,-115.281192,36.201211",
     "geom:latitude":36.201211,
     "geom:longitude":-115.281192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 N Rampart Blvd Ste. #240",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370151373,
-    "wof:lastmodified":1449029101,
+    "wof:lastmodified":1466701566,
     "wof:name":"Tint Squad Window Tinting",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "local"
     ]
 },
-  "bbox": [-115.281192,36.201211,-115.281192,36.201211],
+  "bbox": [
+    -115.281192,
+    36.201211,
+    -115.281192,
+    36.201211
+],
   "geometry": {"coordinates":[-115.281192,36.201211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219618933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.953884,39.247603,-119.953884,39.247603",
     "geom:latitude":39.247603,
     "geom:longitude":-119.953884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Enterprise St",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219618933,
-    "wof:lastmodified":1449072591,
+    "wof:lastmodified":1466703259,
     "wof:name":"Incline Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-119.953884,39.247603,-119.953884,39.247603],
+  "bbox": [
+    -119.953884,
+    39.247603,
+    -119.953884,
+    39.247603
+],
   "geometry": {"coordinates":[-119.953884,39.247603],"type":"Point"}
 }

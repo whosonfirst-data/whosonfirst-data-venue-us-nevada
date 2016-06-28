@@ -2,13 +2,14 @@
   "id": 219892929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218948,36.277783,-115.218948,36.277783",
     "geom:latitude":36.277783,
     "geom:longitude":-115.218948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 Turkey Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219892929,
-    "wof:lastmodified":1449070906,
+    "wof:lastmodified":1466705610,
     "wof:name":"R V M J K Inc",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.218948,36.277783,-115.218948,36.277783],
+  "bbox": [
+    -115.218948,
+    36.277783,
+    -115.218948,
+    36.277783
+],
   "geometry": {"coordinates":[-115.218948,36.277783],"type":"Point"}
 }

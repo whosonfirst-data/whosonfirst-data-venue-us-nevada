@@ -2,13 +2,14 @@
   "id": 219955067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244302,36.173006,-115.244302,36.173006",
     "geom:latitude":36.173006,
     "geom:longitude":-115.244302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219955067,
-    "wof:lastmodified":1449072839,
+    "wof:lastmodified":1466705830,
     "wof:name":"Rainbow Oxygen Supply",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.244302,36.173006,-115.244302,36.173006],
+  "bbox": [
+    -115.244302,
+    36.173006,
+    -115.244302,
+    36.173006
+],
   "geometry": {"coordinates":[-115.244302,36.173006],"type":"Point"}
 }

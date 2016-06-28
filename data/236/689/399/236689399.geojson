@@ -2,13 +2,14 @@
   "id": 236689399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.090685,36.240249,-115.090685,36.240249",
     "geom:latitude":36.240249,
     "geom:longitude":-115.090685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3853 E Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236689399,
-    "wof:lastmodified":1449004578,
+    "wof:lastmodified":1466706454,
     "wof:name":"Image Photo Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-115.090685,36.240249,-115.090685,36.240249],
-  "geometry": {"coordinates":[-115.090685,36.240249],"type":"Point"}
+  "bbox": [
+    -115.090685,
+    36.240249,
+    -115.090685,
+    36.240249
+],
+  "geometry": {"coordinates":[-115.09068499999999,36.240249],"type":"Point"}
 }

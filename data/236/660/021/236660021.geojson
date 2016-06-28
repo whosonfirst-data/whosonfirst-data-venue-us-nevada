@@ -2,13 +2,14 @@
   "id": 236660021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303902,36.22367,-115.303902,36.22367",
     "geom:latitude":36.22367,
     "geom:longitude":-115.303902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3428 Carbury Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236660021,
-    "wof:lastmodified":1449004835,
+    "wof:lastmodified":1466706401,
     "wof:name":"Aaccurate-Affordable Paralegal",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paralegal"
     ]
 },
-  "bbox": [-115.303902,36.22367,-115.303902,36.22367],
-  "geometry": {"coordinates":[-115.303902,36.22367],"type":"Point"}
+  "bbox": [
+    -115.303902,
+    36.22367,
+    -115.303902,
+    36.22367
+],
+  "geometry": {"coordinates":[-115.30390199999999,36.22367],"type":"Point"}
 }

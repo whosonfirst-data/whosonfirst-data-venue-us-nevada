@@ -2,13 +2,14 @@
   "id": 219403301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209755,36.257657,-115.209755,36.257657",
     "geom:latitude":36.257657,
     "geom:longitude":-115.209755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Cedar Lawn Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219403301,
-    "wof:lastmodified":1449073416,
+    "wof:lastmodified":1466703655,
     "wof:name":"Southern Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.209755,36.257657,-115.209755,36.257657],
+  "bbox": [
+    -115.209755,
+    36.257657,
+    -115.209755,
+    36.257657
+],
   "geometry": {"coordinates":[-115.209755,36.257657],"type":"Point"}
 }

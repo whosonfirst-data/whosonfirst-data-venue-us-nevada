@@ -2,13 +2,14 @@
   "id": 354315191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281416,36.14395,-115.281416,36.14395",
     "geom:latitude":36.14395,
     "geom:longitude":-115.281416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8683 W Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354315191,
-    "wof:lastmodified":1449067588,
+    "wof:lastmodified":1466705806,
     "wof:name":"Stephens & Associates Ltd",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.281416,36.14395,-115.281416,36.14395],
-  "geometry": {"coordinates":[-115.281416,36.14395],"type":"Point"}
+  "bbox": [
+    -115.281416,
+    36.14395,
+    -115.281416,
+    36.14395
+],
+  "geometry": {"coordinates":[-115.28141599999999,36.14395],"type":"Point"}
 }

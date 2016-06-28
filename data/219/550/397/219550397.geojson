@@ -2,13 +2,14 @@
   "id": 219550397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.856151,35.9683,-114.856151,35.9683",
     "geom:latitude":35.9683,
     "geom:longitude":-114.856151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Aspen Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219550397,
-    "wof:lastmodified":1449072286,
+    "wof:lastmodified":1466702240,
     "wof:name":"Sorensen's",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewing"
     ]
 },
-  "bbox": [-114.856151,35.9683,-114.856151,35.9683],
+  "bbox": [
+    -114.856151,
+    35.9683,
+    -114.856151,
+    35.9683
+],
   "geometry": {"coordinates":[-114.856151,35.9683],"type":"Point"}
 }

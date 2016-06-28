@@ -2,13 +2,14 @@
   "id": 236477319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.052126,36.142745,-115.052126,36.142745",
     "geom:latitude":36.142745,
     "geom:longitude":-115.052126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5709 Ruby Creek Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236477319,
-    "wof:lastmodified":1449002097,
+    "wof:lastmodified":1466705717,
     "wof:name":"Construction and Service Elc",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-115.052126,36.142745,-115.052126,36.142745],
+  "bbox": [
+    -115.052126,
+    36.142745,
+    -115.052126,
+    36.142745
+],
   "geometry": {"coordinates":[-115.052126,36.142745],"type":"Point"}
 }

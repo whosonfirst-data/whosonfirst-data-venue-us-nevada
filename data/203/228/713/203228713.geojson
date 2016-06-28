@@ -2,13 +2,14 @@
   "id": 203228713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.726288,40.973911,-117.726288,40.973911",
     "geom:latitude":40.973911,
     "geom:longitude":-117.726288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Haskell St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203228713,
-    "wof:lastmodified":1449025508,
+    "wof:lastmodified":1466702365,
     "wof:name":"Winnemucca Youth Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-117.726288,40.973911,-117.726288,40.973911],
+  "bbox": [
+    -117.726288,
+    40.973911,
+    -117.726288,
+    40.973911
+],
   "geometry": {"coordinates":[-117.726288,40.973911],"type":"Point"}
 }

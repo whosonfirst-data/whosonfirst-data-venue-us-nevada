@@ -2,13 +2,14 @@
   "id": 236590131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110256,35.994155,-115.110256,35.994155",
     "geom:latitude":35.994155,
     "geom:longitude":-115.110256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Coronado Center Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236590131,
-    "wof:lastmodified":1449003645,
+    "wof:lastmodified":1466706237,
     "wof:name":"Church At South Las Vegas",
     "wof:parent_id":85878141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.110256,35.994155,-115.110256,35.994155],
-  "geometry": {"coordinates":[-115.110256,35.994155],"type":"Point"}
+  "bbox": [
+    -115.110256,
+    35.994155,
+    -115.110256,
+    35.994155
+],
+  "geometry": {"coordinates":[-115.11025600000001,35.994155],"type":"Point"}
 }

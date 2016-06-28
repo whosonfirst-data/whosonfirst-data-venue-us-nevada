@@ -2,13 +2,14 @@
   "id": 203328103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270919,36.176921,-115.270919,36.176921",
     "geom:latitude":36.176921,
     "geom:longitude":-115.270919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Star Cluster Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203328103,
-    "wof:lastmodified":1449026061,
+    "wof:lastmodified":1466704230,
     "wof:name":"AA-1 Entertainment Balloon",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planning"
     ]
 },
-  "bbox": [-115.270919,36.176921,-115.270919,36.176921],
-  "geometry": {"coordinates":[-115.270919,36.176921],"type":"Point"}
+  "bbox": [
+    -115.270919,
+    36.176921,
+    -115.270919,
+    36.176921
+],
+  "geometry": {"coordinates":[-115.27091900000001,36.176921],"type":"Point"}
 }

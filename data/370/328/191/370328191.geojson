@@ -2,13 +2,14 @@
   "id": 370328191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772976,39.444031,-119.772976,39.444031",
     "geom:latitude":39.444031,
     "geom:longitude":-119.772976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9490 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370328191,
-    "wof:lastmodified":1449031070,
+    "wof:lastmodified":1466704827,
     "wof:name":"Keith's Kars",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "new"
     ]
 },
-  "bbox": [-119.772976,39.444031,-119.772976,39.444031],
+  "bbox": [
+    -119.772976,
+    39.444031,
+    -119.772976,
+    39.444031
+],
   "geometry": {"coordinates":[-119.772976,39.444031],"type":"Point"}
 }

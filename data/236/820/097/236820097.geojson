@@ -2,13 +2,14 @@
   "id": 236820097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781538,39.528919,-119.781538,39.528919",
     "geom:latitude":39.528919,
     "geom:longitude":-119.781538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Jensen St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236820097,
-    "wof:lastmodified":1449003339,
+    "wof:lastmodified":1466706808,
     "wof:name":"Golden Eagle Press",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-119.781538,39.528919,-119.781538,39.528919],
+  "bbox": [
+    -119.781538,
+    39.528919,
+    -119.781538,
+    39.528919
+],
   "geometry": {"coordinates":[-119.781538,39.528919],"type":"Point"}
 }

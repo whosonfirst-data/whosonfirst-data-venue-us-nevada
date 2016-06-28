@@ -2,13 +2,14 @@
   "id": 236221961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249648,36.186523,-115.249648,36.186523",
     "geom:latitude":36.186523,
     "geom:longitude":-115.249648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Bittersweet Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236221961,
-    "wof:lastmodified":1449003044,
+    "wof:lastmodified":1466704015,
     "wof:name":"Lakes Merchandising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-115.249648,36.186523,-115.249648,36.186523],
-  "geometry": {"coordinates":[-115.249648,36.186523],"type":"Point"}
+  "bbox": [
+    -115.249648,
+    36.186523,
+    -115.249648,
+    36.186523
+],
+  "geometry": {"coordinates":[-115.24964799999999,36.186523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236331301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.046273,36.28741,-116.046273,36.28741",
     "geom:latitude":36.28741,
     "geom:longitude":-116.046273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4531 Kelishan St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236331301,
-    "wof:lastmodified":1449003697,
+    "wof:lastmodified":1466704920,
     "wof:name":"Dragon Web Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-116.046273,36.28741,-116.046273,36.28741],
+  "bbox": [
+    -116.046273,
+    36.28741,
+    -116.046273,
+    36.28741
+],
   "geometry": {"coordinates":[-116.046273,36.28741],"type":"Point"}
 }

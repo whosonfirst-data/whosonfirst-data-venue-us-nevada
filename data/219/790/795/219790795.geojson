@@ -2,13 +2,14 @@
   "id": 219790795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183656,36.133634,-115.183656,36.133634",
     "geom:latitude":36.133634,
     "geom:longitude":-115.183656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 W Sirius Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219790795,
-    "wof:lastmodified":1449073110,
+    "wof:lastmodified":1466705162,
     "wof:name":"Basch Construction Co LLC",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-115.183656,36.133634,-115.183656,36.133634],
+  "bbox": [
+    -115.183656,
+    36.133634,
+    -115.183656,
+    36.133634
+],
   "geometry": {"coordinates":[-115.183656,36.133634],"type":"Point"}
 }

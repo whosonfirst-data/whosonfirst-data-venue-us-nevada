@@ -2,13 +2,14 @@
   "id": 236094123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066248,36.050994,-115.066248,36.050994",
     "geom:latitude":36.050994,
     "geom:longitude":-115.066248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Medio Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236094123,
-    "wof:lastmodified":1449003770,
+    "wof:lastmodified":1466704173,
     "wof:name":"Sound N 60's",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.066248,36.050994,-115.066248,36.050994],
+  "bbox": [
+    -115.066248,
+    36.050994,
+    -115.066248,
+    36.050994
+],
   "geometry": {"coordinates":[-115.066248,36.050994],"type":"Point"}
 }

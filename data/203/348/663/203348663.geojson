@@ -2,13 +2,14 @@
   "id": 203348663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.276711,36.081083,-115.276711,36.081083",
     "geom:latitude":36.081083,
     "geom:longitude":-115.276711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8407 Prince of Tides Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203348663,
-    "wof:lastmodified":1449025037,
+    "wof:lastmodified":1466703144,
     "wof:name":"Exceptional Travel Service",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.276711,36.081083,-115.276711,36.081083],
-  "geometry": {"coordinates":[-115.276711,36.081083],"type":"Point"}
+  "bbox": [
+    -115.276711,
+    36.081083,
+    -115.276711,
+    36.081083
+],
+  "geometry": {"coordinates":[-115.27671100000001,36.081083],"type":"Point"}
 }

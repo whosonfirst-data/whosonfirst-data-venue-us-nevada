@@ -2,13 +2,14 @@
   "id": 236214323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222144,36.296848,-115.222144,36.296848",
     "geom:latitude":36.296848,
     "geom:longitude":-115.222144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5824 Bargull Bay Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236214323,
-    "wof:lastmodified":1449005120,
+    "wof:lastmodified":1466703860,
     "wof:name":"Smithy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.222144,36.296848,-115.222144,36.296848],
+  "bbox": [
+    -115.222144,
+    36.296848,
+    -115.222144,
+    36.296848
+],
   "geometry": {"coordinates":[-115.222144,36.296848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219753695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053247,36.157496,-115.053247,36.157496",
     "geom:latitude":36.157496,
     "geom:longitude":-115.053247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 S Christy Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219753695,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466704647,
     "wof:name":"Denture Center Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-115.053247,36.157496,-115.053247,36.157496],
+  "bbox": [
+    -115.053247,
+    36.157496,
+    -115.053247,
+    36.157496
+],
   "geometry": {"coordinates":[-115.053247,36.157496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353997345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046438,36.053741,-115.046438,36.053741",
     "geom:latitude":36.053741,
     "geom:longitude":-115.046438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 N Stephanie Street Suite 911",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353997345,
-    "wof:lastmodified":1449020379,
+    "wof:lastmodified":1466701792,
     "wof:name":"Nicklin Property",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.046438,36.053741,-115.046438,36.053741],
-  "geometry": {"coordinates":[-115.046438,36.053741],"type":"Point"}
+  "bbox": [
+    -115.046438,
+    36.053741,
+    -115.046438,
+    36.053741
+],
+  "geometry": {"coordinates":[-115.04643799999999,36.053741],"type":"Point"}
 }

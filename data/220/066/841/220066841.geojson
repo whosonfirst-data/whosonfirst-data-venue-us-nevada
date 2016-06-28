@@ -2,13 +2,14 @@
   "id": 220066841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123186,36.079859,-115.123186,36.079859",
     "geom:latitude":36.079859,
     "geom:longitude":-115.123186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6080 Burnham Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220066841,
-    "wof:lastmodified":1449074251,
+    "wof:lastmodified":1466702188,
     "wof:name":"Good Body's Fitness Ctr",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-115.123186,36.079859,-115.123186,36.079859],
+  "bbox": [
+    -115.123186,
+    36.079859,
+    -115.123186,
+    36.079859
+],
   "geometry": {"coordinates":[-115.123186,36.079859],"type":"Point"}
 }

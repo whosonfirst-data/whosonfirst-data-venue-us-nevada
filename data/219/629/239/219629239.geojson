@@ -2,13 +2,14 @@
   "id": 219629239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067373,35.998182,-115.067373,35.998182",
     "geom:latitude":35.998182,
     "geom:longitude":-115.067373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Towering Mesa Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219629239,
-    "wof:lastmodified":1449073101,
+    "wof:lastmodified":1466703448,
     "wof:name":"Moo Cow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.067373,35.998182,-115.067373,35.998182],
+  "bbox": [
+    -115.067373,
+    35.998182,
+    -115.067373,
+    35.998182
+],
   "geometry": {"coordinates":[-115.067373,35.998182],"type":"Point"}
 }

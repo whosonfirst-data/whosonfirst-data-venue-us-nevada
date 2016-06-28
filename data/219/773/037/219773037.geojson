@@ -2,13 +2,14 @@
   "id": 219773037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762194,39.52339,-119.762194,39.52339",
     "geom:latitude":39.52339,
     "geom:longitude":-119.762194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219773037,
-    "wof:lastmodified":1449070844,
+    "wof:lastmodified":1466704795,
     "wof:name":"Grinnell Supply Sales",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-119.762194,39.52339,-119.762194,39.52339],
-  "geometry": {"coordinates":[-119.762194,39.52339],"type":"Point"}
+  "bbox": [
+    -119.762194,
+    39.52339,
+    -119.762194,
+    39.52339
+],
+  "geometry": {"coordinates":[-119.76219399999999,39.52339],"type":"Point"}
 }

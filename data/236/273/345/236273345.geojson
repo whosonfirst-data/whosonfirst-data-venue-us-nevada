@@ -2,13 +2,14 @@
   "id": 236273345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157716,36.181861,-115.157716,36.181861",
     "geom:latitude":36.181861,
     "geom:longitude":-115.157716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 W Adams Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236273345,
-    "wof:lastmodified":1449003348,
+    "wof:lastmodified":1466704326,
     "wof:name":"Pilgrim Rest Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.157716,36.181861,-115.157716,36.181861],
-  "geometry": {"coordinates":[-115.157716,36.181861],"type":"Point"}
+  "bbox": [
+    -115.157716,
+    36.181861,
+    -115.157716,
+    36.181861
+],
+  "geometry": {"coordinates":[-115.15771599999999,36.181861],"type":"Point"}
 }

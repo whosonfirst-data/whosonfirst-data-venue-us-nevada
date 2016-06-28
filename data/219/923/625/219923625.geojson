@@ -2,13 +2,14 @@
   "id": 219923625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097906,36.238301,-115.097906,36.238301",
     "geom:latitude":36.238301,
     "geom:longitude":-115.097906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4244 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219923625,
-    "wof:lastmodified":1449073796,
+    "wof:lastmodified":1466705759,
     "wof:name":"Frazee Paint & Wallcovering",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.097906,36.238301,-115.097906,36.238301],
-  "geometry": {"coordinates":[-115.097906,36.238301],"type":"Point"}
+  "bbox": [
+    -115.097906,
+    36.238301,
+    -115.097906,
+    36.238301
+],
+  "geometry": {"coordinates":[-115.09790599999999,36.238301],"type":"Point"}
 }

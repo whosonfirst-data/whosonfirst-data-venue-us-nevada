@@ -2,13 +2,14 @@
   "id": 354352799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118685,36.081047,-115.118685,36.081047",
     "geom:latitude":36.081047,
     "geom:longitude":-115.118685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354352799,
-    "wof:lastmodified":1449066985,
+    "wof:lastmodified":1466705877,
     "wof:name":"Advanced Computer Solutions",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.118685,36.081047,-115.118685,36.081047],
+  "bbox": [
+    -115.118685,
+    36.081047,
+    -115.118685,
+    36.081047
+],
   "geometry": {"coordinates":[-115.118685,36.081047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236137523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139041,36.021164,-115.139041,36.021164",
     "geom:latitude":36.021164,
     "geom:longitude":-115.139041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Aspen Breeze Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236137523,
-    "wof:lastmodified":1449004701,
+    "wof:lastmodified":1466702279,
     "wof:name":"Blue Aquatics",
     "wof:parent_id":85879707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquarium"
     ]
 },
-  "bbox": [-115.139041,36.021164,-115.139041,36.021164],
-  "geometry": {"coordinates":[-115.139041,36.021164],"type":"Point"}
+  "bbox": [
+    -115.139041,
+    36.021164,
+    -115.139041,
+    36.021164
+],
+  "geometry": {"coordinates":[-115.13904100000001,36.021164],"type":"Point"}
 }

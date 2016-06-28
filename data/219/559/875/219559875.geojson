@@ -2,13 +2,14 @@
   "id": 219559875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150067,36.165894,-115.150067,36.165894",
     "geom:latitude":36.165894,
     "geom:longitude":-115.150067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219559875,
-    "wof:lastmodified":1449073160,
+    "wof:lastmodified":1466702397,
     "wof:name":"Clark County Auto Parts",
     "wof:parent_id":85866199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-115.150067,36.165894,-115.150067,36.165894],
-  "geometry": {"coordinates":[-115.150067,36.165894],"type":"Point"}
+  "bbox": [
+    -115.150067,
+    36.165894,
+    -115.150067,
+    36.165894
+],
+  "geometry": {"coordinates":[-115.15006700000001,36.165894],"type":"Point"}
 }

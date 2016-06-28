@@ -2,13 +2,14 @@
   "id": 236833591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079466,36.186699,-115.079466,36.186699",
     "geom:latitude":36.186699,
     "geom:longitude":-115.079466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 E Van Buren Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236833591,
-    "wof:lastmodified":1449001995,
+    "wof:lastmodified":1466706709,
     "wof:name":"Maxim Crane Works",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-115.079466,36.186699,-115.079466,36.186699],
+  "bbox": [
+    -115.079466,
+    36.186699,
+    -115.079466,
+    36.186699
+],
   "geometry": {"coordinates":[-115.079466,36.186699],"type":"Point"}
 }

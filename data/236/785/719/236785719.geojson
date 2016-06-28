@@ -2,13 +2,14 @@
   "id": 236785719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785636,38.960545,-119.785636,38.960545",
     "geom:latitude":38.960545,
     "geom:longitude":-119.785636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Maplewood Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236785719,
-    "wof:lastmodified":1449004565,
+    "wof:lastmodified":1466706743,
     "wof:name":"Elegant Enhancements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.785636,38.960545,-119.785636,38.960545],
+  "bbox": [
+    -119.785636,
+    38.960545,
+    -119.785636,
+    38.960545
+],
   "geometry": {"coordinates":[-119.785636,38.960545],"type":"Point"}
 }

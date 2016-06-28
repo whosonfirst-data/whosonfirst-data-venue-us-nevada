@@ -2,13 +2,14 @@
   "id": 219647461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.800536,39.512896,-119.800536,39.512896",
     "geom:latitude":39.512896,
     "geom:longitude":-119.800536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Locust St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219647461,
-    "wof:lastmodified":1449072063,
+    "wof:lastmodified":1466703769,
     "wof:name":"Veterans Mem Elementary Schl",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.800536,39.512896,-119.800536,39.512896],
-  "geometry": {"coordinates":[-119.800536,39.512896],"type":"Point"}
+  "bbox": [
+    -119.800536,
+    39.512896,
+    -119.800536,
+    39.512896
+],
+  "geometry": {"coordinates":[-119.80053599999999,39.512896],"type":"Point"}
 }

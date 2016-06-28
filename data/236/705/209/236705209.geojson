@@ -2,13 +2,14 @@
   "id": 236705209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.02672,36.053107,-115.02672,36.053107",
     "geom:latitude":36.053107,
     "geom:longitude":-115.02672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Auto Mall Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236705209,
-    "wof:lastmodified":1449005274,
+    "wof:lastmodified":1466706631,
     "wof:name":"Valley Auto Mall Owners Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-115.02672,36.053107,-115.02672,36.053107],
+  "bbox": [
+    -115.02672,
+    36.053107,
+    -115.02672,
+    36.053107
+],
   "geometry": {"coordinates":[-115.02672,36.053107],"type":"Point"}
 }

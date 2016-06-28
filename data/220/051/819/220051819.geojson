@@ -2,13 +2,14 @@
   "id": 220051819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798125,39.507135,-119.798125,39.507135",
     "geom:latitude":39.507135,
     "geom:longitude":-119.798125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Kirman Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220051819,
-    "wof:lastmodified":1449074534,
+    "wof:lastmodified":1466702054,
     "wof:name":"Any Dream Will Do Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.798125,39.507135,-119.798125,39.507135],
+  "bbox": [
+    -119.798125,
+    39.507135,
+    -119.798125,
+    39.507135
+],
   "geometry": {"coordinates":[-119.798125,39.507135],"type":"Point"}
 }

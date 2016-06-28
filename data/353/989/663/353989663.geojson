@@ -2,13 +2,14 @@
   "id": 353989663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.02859,36.063603,-115.02859,36.063603",
     "geom:latitude":36.063603,
     "geom:longitude":-115.02859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353989663,
-    "wof:lastmodified":1449020114,
+    "wof:lastmodified":1466701580,
     "wof:name":"Green Valley Grocery #43",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.02859,36.063603,-115.02859,36.063603],
-  "geometry": {"coordinates":[-115.02859,36.063603],"type":"Point"}
+  "bbox": [
+    -115.02859,
+    36.063603,
+    -115.02859,
+    36.063603
+],
+  "geometry": {"coordinates":[-115.02858999999999,36.063603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236577079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768622,39.359976,-119.768622,39.359976",
     "geom:latitude":39.359976,
     "geom:longitude":-119.768622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20695 Eaton Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236577079,
-    "wof:lastmodified":1449005370,
+    "wof:lastmodified":1466706323,
     "wof:name":"Advance Woodwork",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.768622,39.359976,-119.768622,39.359976],
-  "geometry": {"coordinates":[-119.768622,39.359976],"type":"Point"}
+  "bbox": [
+    -119.768622,
+    39.359976,
+    -119.768622,
+    39.359976
+],
+  "geometry": {"coordinates":[-119.76862199999999,39.359976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236915485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116088,35.971844,-115.116088,35.971844",
     "geom:latitude":35.971844,
     "geom:longitude":-115.116088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2961 Reatini Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236915485,
-    "wof:lastmodified":1449005211,
+    "wof:lastmodified":1466706832,
     "wof:name":"Sabby Scrapper",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-115.116088,35.971844,-115.116088,35.971844],
+  "bbox": [
+    -115.116088,
+    35.971844,
+    -115.116088,
+    35.971844
+],
   "geometry": {"coordinates":[-115.116088,35.971844],"type":"Point"}
 }

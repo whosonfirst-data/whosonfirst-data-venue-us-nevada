@@ -2,13 +2,14 @@
   "id": 219616595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821383,39.530816,-119.821383,39.530816",
     "geom:latitude":39.530816,
     "geom:longitude":-119.821383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Ralston St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219616595,
-    "wof:lastmodified":1449072998,
+    "wof:lastmodified":1466703216,
     "wof:name":"Hernandez Landscaping Co",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-119.821383,39.530816,-119.821383,39.530816],
+  "bbox": [
+    -119.821383,
+    39.530816,
+    -119.821383,
+    39.530816
+],
   "geometry": {"coordinates":[-119.821383,39.530816],"type":"Point"}
 }

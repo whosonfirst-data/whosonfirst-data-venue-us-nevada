@@ -2,13 +2,14 @@
   "id": 219796081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156332,36.202442,-115.156332,36.202442",
     "geom:latitude":36.202442,
     "geom:longitude":-115.156332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2381 Concord St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219796081,
-    "wof:lastmodified":1449072058,
+    "wof:lastmodified":1466705201,
     "wof:name":"C&L Towing",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.156332,36.202442,-115.156332,36.202442],
-  "geometry": {"coordinates":[-115.156332,36.202442],"type":"Point"}
+  "bbox": [
+    -115.156332,
+    36.202442,
+    -115.156332,
+    36.202442
+],
+  "geometry": {"coordinates":[-115.15633200000001,36.202442],"type":"Point"}
 }

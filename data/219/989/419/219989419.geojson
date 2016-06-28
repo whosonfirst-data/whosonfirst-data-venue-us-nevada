@@ -2,13 +2,14 @@
   "id": 219989419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.926225,39.517458,-119.926225,39.517458",
     "geom:latitude":39.517458,
     "geom:longitude":-119.926225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10225 Timberwolf Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219989419,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466706268,
     "wof:name":"Ad Source Ad Promotions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.926225,39.517458,-119.926225,39.517458],
+  "bbox": [
+    -119.926225,
+    39.517458,
+    -119.926225,
+    39.517458
+],
   "geometry": {"coordinates":[-119.926225,39.517458],"type":"Point"}
 }

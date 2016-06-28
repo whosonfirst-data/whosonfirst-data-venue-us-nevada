@@ -2,13 +2,14 @@
   "id": 220068913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161593,36.148783,-115.161593,36.148783",
     "geom:latitude":36.148783,
     "geom:longitude":-115.161593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220068913,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1466702203,
     "wof:name":"Mintchevi Inc",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-115.161593,36.148783,-115.161593,36.148783],
+  "bbox": [
+    -115.161593,
+    36.148783,
+    -115.161593,
+    36.148783
+],
   "geometry": {"coordinates":[-115.161593,36.148783],"type":"Point"}
 }

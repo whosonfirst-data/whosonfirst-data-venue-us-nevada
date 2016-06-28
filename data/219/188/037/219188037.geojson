@@ -2,13 +2,14 @@
   "id": 219188037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088206,35.979375,-115.088206,35.979375",
     "geom:latitude":35.979375,
     "geom:longitude":-115.088206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2279 Pacini Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219188037,
-    "wof:lastmodified":1449072130,
+    "wof:lastmodified":1466701989,
     "wof:name":"Priority Time Systems",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "time"
     ]
 },
-  "bbox": [-115.088206,35.979375,-115.088206,35.979375],
+  "bbox": [
+    -115.088206,
+    35.979375,
+    -115.088206,
+    35.979375
+],
   "geometry": {"coordinates":[-115.088206,35.979375],"type":"Point"}
 }

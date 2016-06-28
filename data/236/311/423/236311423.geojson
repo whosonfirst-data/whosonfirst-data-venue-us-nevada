@@ -2,13 +2,14 @@
   "id": 236311423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117486,36.108138,-115.117486,36.108138",
     "geom:latitude":36.108138,
     "geom:longitude":-115.117486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4451 Los Reyes Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236311423,
-    "wof:lastmodified":1449002259,
+    "wof:lastmodified":1466704777,
     "wof:name":"Captured Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.117486,36.108138,-115.117486,36.108138],
+  "bbox": [
+    -115.117486,
+    36.108138,
+    -115.117486,
+    36.108138
+],
   "geometry": {"coordinates":[-115.117486,36.108138],"type":"Point"}
 }

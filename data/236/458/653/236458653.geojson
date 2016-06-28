@@ -2,13 +2,14 @@
   "id": 236458653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163326,38.99396,-119.163326,38.99396",
     "geom:latitude":38.99396,
     "geom:longitude":-119.163326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 US Hwy 95 Alt",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236458653,
-    "wof:lastmodified":1449004099,
+    "wof:lastmodified":1466705751,
     "wof:name":"Yerington Transfer Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-119.163326,38.99396,-119.163326,38.99396],
+  "bbox": [
+    -119.163326,
+    38.99396,
+    -119.163326,
+    38.99396
+],
   "geometry": {"coordinates":[-119.163326,38.99396],"type":"Point"}
 }

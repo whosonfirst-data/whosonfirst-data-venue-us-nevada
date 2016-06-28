@@ -2,13 +2,14 @@
   "id": 203196561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.624707,38.527088,-118.624707,38.527088",
     "geom:latitude":38.527088,
     "geom:longitude":-118.624707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 E St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203196561,
-    "wof:lastmodified":1449025359,
+    "wof:lastmodified":1466702014,
     "wof:name":"Sierra Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.624707,38.527088,-118.624707,38.527088],
+  "bbox": [
+    -118.624707,
+    38.527088,
+    -118.624707,
+    38.527088
+],
   "geometry": {"coordinates":[-118.624707,38.527088],"type":"Point"}
 }

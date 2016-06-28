@@ -2,13 +2,14 @@
   "id": 354318037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242809,36.086622,-115.242809,36.086622",
     "geom:latitude":36.086622,
     "geom:longitude":-115.242809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5625 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354318037,
-    "wof:lastmodified":1449066293,
+    "wof:lastmodified":1466705961,
     "wof:name":"Great Clips For Hair",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.242809,36.086622,-115.242809,36.086622],
-  "geometry": {"coordinates":[-115.242809,36.086622],"type":"Point"}
+  "bbox": [
+    -115.242809,
+    36.086622,
+    -115.242809,
+    36.086622
+],
+  "geometry": {"coordinates":[-115.24280899999999,36.086622],"type":"Point"}
 }

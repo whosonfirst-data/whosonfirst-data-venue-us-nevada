@@ -2,13 +2,14 @@
   "id": 219663503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761203,39.164625,-119.761203,39.164625",
     "geom:latitude":39.164625,
     "geom:longitude":-119.761203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 E Musser St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219663503,
-    "wof:lastmodified":1449073001,
+    "wof:lastmodified":1466704063,
     "wof:name":"Norman J Azevedo Attorney-Law",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.761203,39.164625,-119.761203,39.164625],
-  "geometry": {"coordinates":[-119.761203,39.164625],"type":"Point"}
+  "bbox": [
+    -119.761203,
+    39.164625,
+    -119.761203,
+    39.164625
+],
+  "geometry": {"coordinates":[-119.76120299999999,39.164625],"type":"Point"}
 }

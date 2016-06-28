@@ -2,13 +2,14 @@
   "id": 219686963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072092,36.100348,-115.072092,36.100348",
     "geom:latitude":36.100348,
     "geom:longitude":-115.072092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219686963,
-    "wof:lastmodified":1449073072,
+    "wof:lastmodified":1466704221,
     "wof:name":"Baron Services Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.072092,36.100348,-115.072092,36.100348],
+  "bbox": [
+    -115.072092,
+    36.100348,
+    -115.072092,
+    36.100348
+],
   "geometry": {"coordinates":[-115.072092,36.100348],"type":"Point"}
 }

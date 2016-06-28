@@ -2,13 +2,14 @@
   "id": 236374835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.736947,40.838898,-115.736947,40.838898",
     "geom:latitude":40.838898,
     "geom:longitude":-115.736947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2193 Industrial Way",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236374835,
-    "wof:lastmodified":1449003024,
+    "wof:lastmodified":1466705294,
     "wof:name":"Brebeau Boarding Kennels",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-115.736947,40.838898,-115.736947,40.838898],
+  "bbox": [
+    -115.736947,
+    40.838898,
+    -115.736947,
+    40.838898
+],
   "geometry": {"coordinates":[-115.736947,40.838898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219538353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.061001,36.05545,-115.061001,36.05545",
     "geom:latitude":36.05545,
     "geom:longitude":-115.061001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Duarte Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219538353,
-    "wof:lastmodified":1449070835,
+    "wof:lastmodified":1466702017,
     "wof:name":"Stella M Swor",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-115.061001,36.05545,-115.061001,36.05545],
+  "bbox": [
+    -115.061001,
+    36.05545,
+    -115.061001,
+    36.05545
+],
   "geometry": {"coordinates":[-115.061001,36.05545],"type":"Point"}
 }

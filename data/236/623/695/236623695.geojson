@@ -2,13 +2,14 @@
   "id": 236623695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.291219,36.119293,-115.291219,36.119293",
     "geom:latitude":36.119293,
     "geom:longitude":-115.291219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9143 W Imperial Castle Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236623695,
-    "wof:lastmodified":1449004066,
+    "wof:lastmodified":1466706320,
     "wof:name":"Global Ventures",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.291219,36.119293,-115.291219,36.119293],
+  "bbox": [
+    -115.291219,
+    36.119293,
+    -115.291219,
+    36.119293
+],
   "geometry": {"coordinates":[-115.291219,36.119293],"type":"Point"}
 }

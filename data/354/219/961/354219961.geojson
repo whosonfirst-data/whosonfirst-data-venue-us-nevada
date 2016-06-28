@@ -2,13 +2,14 @@
   "id": 354219961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207593,36.185575,-115.207593,36.185575",
     "geom:latitude":36.185575,
     "geom:longitude":-115.207593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354219961,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1466705153,
     "wof:name":"Pepe's Taco's",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.207593,36.185575,-115.207593,36.185575],
+  "bbox": [
+    -115.207593,
+    36.185575,
+    -115.207593,
+    36.185575
+],
   "geometry": {"coordinates":[-115.207593,36.185575],"type":"Point"}
 }

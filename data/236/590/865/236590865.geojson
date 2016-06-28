@@ -2,13 +2,14 @@
   "id": 236590865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74092,39.528554,-119.74092,39.528554",
     "geom:latitude":39.528554,
     "geom:longitude":-119.74092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Glen Carran Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236590865,
-    "wof:lastmodified":1449003646,
+    "wof:lastmodified":1466706239,
     "wof:name":"Joe Mc Donald & Associates",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "property"
     ]
 },
-  "bbox": [-119.74092,39.528554,-119.74092,39.528554],
+  "bbox": [
+    -119.74092,
+    39.528554,
+    -119.74092,
+    39.528554
+],
   "geometry": {"coordinates":[-119.74092,39.528554],"type":"Point"}
 }

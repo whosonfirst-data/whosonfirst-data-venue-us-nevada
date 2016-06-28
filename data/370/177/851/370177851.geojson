@@ -2,13 +2,14 @@
   "id": 370177851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.240001,36.248054,-115.240001,36.248054",
     "geom:latitude":36.248054,
     "geom:longitude":-115.240001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 N Rancho Drive Suite A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370177851,
-    "wof:lastmodified":1449032468,
+    "wof:lastmodified":1466702093,
     "wof:name":"Sun Valley Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.240001,36.248054,-115.240001,36.248054],
-  "geometry": {"coordinates":[-115.240001,36.248054],"type":"Point"}
+  "bbox": [
+    -115.240001,
+    36.248054,
+    -115.240001,
+    36.248054
+],
+  "geometry": {"coordinates":[-115.24000100000001,36.248054],"type":"Point"}
 }

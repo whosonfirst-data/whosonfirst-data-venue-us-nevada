@@ -2,13 +2,14 @@
   "id": 236912109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.730412,39.516521,-119.730412,39.516521",
     "geom:latitude":39.516521,
     "geom:longitude":-119.730412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"988 United Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236912109,
-    "wof:lastmodified":1449003245,
+    "wof:lastmodified":1466706823,
     "wof:name":"Tifco Industries",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-119.730412,39.516521,-119.730412,39.516521],
+  "bbox": [
+    -119.730412,
+    39.516521,
+    -119.730412,
+    39.516521
+],
   "geometry": {"coordinates":[-119.730412,39.516521],"type":"Point"}
 }

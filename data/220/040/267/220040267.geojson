@@ -2,13 +2,14 @@
   "id": 220040267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299816,36.238405,-115.299816,36.238405",
     "geom:latitude":36.238405,
     "geom:longitude":-115.299816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 N Chieftain St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220040267,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466701898,
     "wof:name":"Mimi's Books",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.299816,36.238405,-115.299816,36.238405],
-  "geometry": {"coordinates":[-115.299816,36.238405],"type":"Point"}
+  "bbox": [
+    -115.299816,
+    36.238405,
+    -115.299816,
+    36.238405
+],
+  "geometry": {"coordinates":[-115.29981600000001,36.238405],"type":"Point"}
 }

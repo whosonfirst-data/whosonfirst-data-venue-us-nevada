@@ -2,13 +2,14 @@
   "id": 236778155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100765,36.072432,-115.100765,36.072432",
     "geom:latitude":36.072432,
     "geom:longitude":-115.100765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6360 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236778155,
-    "wof:lastmodified":1449001730,
+    "wof:lastmodified":1466706609,
     "wof:name":"Artware Injet Systems LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.100765,36.072432,-115.100765,36.072432],
+  "bbox": [
+    -115.100765,
+    36.072432,
+    -115.100765,
+    36.072432
+],
   "geometry": {"coordinates":[-115.100765,36.072432],"type":"Point"}
 }

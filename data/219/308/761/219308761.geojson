@@ -2,13 +2,14 @@
   "id": 219308761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.306843,36.127229,-115.306843,36.127229",
     "geom:latitude":36.127229,
     "geom:longitude":-115.306843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9927 Masked Duck Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219308761,
-    "wof:lastmodified":1449074028,
+    "wof:lastmodified":1466703166,
     "wof:name":"Verilegal Inc",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-115.306843,36.127229,-115.306843,36.127229],
+  "bbox": [
+    -115.306843,
+    36.127229,
+    -115.306843,
+    36.127229
+],
   "geometry": {"coordinates":[-115.306843,36.127229],"type":"Point"}
 }

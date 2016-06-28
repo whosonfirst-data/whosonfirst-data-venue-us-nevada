@@ -2,13 +2,14 @@
   "id": 203242663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210314,36.153391,-115.210314,36.153391",
     "geom:latitude":36.153391,
     "geom:longitude":-115.210314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5237 Doe Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203242663,
-    "wof:lastmodified":1449026645,
+    "wof:lastmodified":1466702455,
     "wof:name":"Dale W Forsythe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-115.210314,36.153391,-115.210314,36.153391],
+  "bbox": [
+    -115.210314,
+    36.153391,
+    -115.210314,
+    36.153391
+],
   "geometry": {"coordinates":[-115.210314,36.153391],"type":"Point"}
 }

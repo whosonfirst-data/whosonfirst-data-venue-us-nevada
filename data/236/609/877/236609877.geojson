@@ -2,13 +2,14 @@
   "id": 236609877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230829,36.094869,-115.230829,36.094869",
     "geom:latitude":36.094869,
     "geom:longitude":-115.230829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6337 W Elmira Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236609877,
-    "wof:lastmodified":1449002769,
+    "wof:lastmodified":1466706372,
     "wof:name":"G Glen Pierce",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-115.230829,36.094869,-115.230829,36.094869],
+  "bbox": [
+    -115.230829,
+    36.094869,
+    -115.230829,
+    36.094869
+],
   "geometry": {"coordinates":[-115.230829,36.094869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236550903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755571,39.514604,-119.755571,39.514604",
     "geom:latitude":39.514604,
     "geom:longitude":-119.755571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ohm Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236550903,
-    "wof:lastmodified":1449003436,
+    "wof:lastmodified":1466705954,
     "wof:name":"Sierra Pacific Power Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-119.755571,39.514604,-119.755571,39.514604],
+  "bbox": [
+    -119.755571,
+    39.514604,
+    -119.755571,
+    39.514604
+],
   "geometry": {"coordinates":[-119.755571,39.514604],"type":"Point"}
 }

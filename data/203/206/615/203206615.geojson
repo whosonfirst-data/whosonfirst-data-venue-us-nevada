@@ -2,13 +2,14 @@
   "id": 203206615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210717,36.120376,-115.210717,36.120376",
     "geom:latitude":36.120376,
     "geom:longitude":-115.210717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5162 Winston St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203206615,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466702111,
     "wof:name":"Premier Carpet Cleaning",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.210717,36.120376,-115.210717,36.120376],
+  "bbox": [
+    -115.210717,
+    36.120376,
+    -115.210717,
+    36.120376
+],
   "geometry": {"coordinates":[-115.210717,36.120376],"type":"Point"}
 }

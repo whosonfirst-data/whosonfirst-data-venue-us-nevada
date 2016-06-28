@@ -2,13 +2,14 @@
   "id": 370343893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750429,39.14496,-119.750429,39.14496",
     "geom:latitude":39.14496,
     "geom:longitude":-119.750429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 Pinebrook Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370343893,
-    "wof:lastmodified":1449031495,
+    "wof:lastmodified":1466704879,
     "wof:name":"Evergreen Jeans Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [-119.750429,39.14496,-119.750429,39.14496],
+  "bbox": [
+    -119.750429,
+    39.14496,
+    -119.750429,
+    39.14496
+],
   "geometry": {"coordinates":[-119.750429,39.14496],"type":"Point"}
 }

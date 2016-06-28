@@ -2,13 +2,14 @@
   "id": 235947409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722021,39.55644,-119.722021,39.55644",
     "geom:latitude":39.55644,
     "geom:longitude":-119.722021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235947409,
-    "wof:lastmodified":1449008500,
+    "wof:lastmodified":1466703505,
     "wof:name":"American General Development",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.722021,39.55644,-119.722021,39.55644],
+  "bbox": [
+    -119.722021,
+    39.55644,
+    -119.722021,
+    39.55644
+],
   "geometry": {"coordinates":[-119.722021,39.55644],"type":"Point"}
 }

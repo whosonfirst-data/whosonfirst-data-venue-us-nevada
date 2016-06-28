@@ -2,13 +2,14 @@
   "id": 236774257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136939,36.136672,-115.136939,36.136672",
     "geom:latitude":36.136672,
     "geom:longitude":-115.136939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3061 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236774257,
-    "wof:lastmodified":1449002836,
+    "wof:lastmodified":1466706606,
     "wof:name":"Freedman & Steinkohl",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.136939,36.136672,-115.136939,36.136672],
+  "bbox": [
+    -115.136939,
+    36.136672,
+    -115.136939,
+    36.136672
+],
   "geometry": {"coordinates":[-115.136939,36.136672],"type":"Point"}
 }

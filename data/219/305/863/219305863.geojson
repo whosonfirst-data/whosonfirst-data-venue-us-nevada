@@ -2,13 +2,14 @@
   "id": 219305863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257449,36.24481,-115.257449,36.24481",
     "geom:latitude":36.24481,
     "geom:longitude":-115.257449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7462 Tahoe Basin",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219305863,
-    "wof:lastmodified":1449070927,
+    "wof:lastmodified":1466703130,
     "wof:name":"Pike & Assoc",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.257449,36.24481,-115.257449,36.24481],
-  "geometry": {"coordinates":[-115.257449,36.24481],"type":"Point"}
+  "bbox": [
+    -115.257449,
+    36.24481,
+    -115.257449,
+    36.24481
+],
+  "geometry": {"coordinates":[-115.25744899999999,36.24481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370196789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.304659,36.191859,-115.304659,36.191859",
     "geom:latitude":36.191859,
     "geom:longitude":-115.304659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370196789,
-    "wof:lastmodified":1449029858,
+    "wof:lastmodified":1466702437,
     "wof:name":"Nu Vision Cyclery",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-115.304659,36.191859,-115.304659,36.191859],
+  "bbox": [
+    -115.304659,
+    36.191859,
+    -115.304659,
+    36.191859
+],
   "geometry": {"coordinates":[-115.304659,36.191859],"type":"Point"}
 }

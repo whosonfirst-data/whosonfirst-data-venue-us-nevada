@@ -2,13 +2,14 @@
   "id": 236335125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116028,36.122193,-115.116028,36.122193",
     "geom:latitude":36.122193,
     "geom:longitude":-115.116028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2465 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236335125,
-    "wof:lastmodified":1449003904,
+    "wof:lastmodified":1466704943,
     "wof:name":"Therapeak",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.116028,36.122193,-115.116028,36.122193],
+  "bbox": [
+    -115.116028,
+    36.122193,
+    -115.116028,
+    36.122193
+],
   "geometry": {"coordinates":[-115.116028,36.122193],"type":"Point"}
 }

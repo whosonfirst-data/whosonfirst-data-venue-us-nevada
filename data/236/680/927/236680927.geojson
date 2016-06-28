@@ -2,13 +2,14 @@
   "id": 236680927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.291868,38.773707,-119.291868,38.773707",
     "geom:latitude":38.773707,
     "geom:longitude":-119.291868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Hudson-Aurora",
     "sg:city":"Smith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236680927,
-    "wof:lastmodified":1449004065,
+    "wof:lastmodified":1466706436,
     "wof:name":"Hartwick Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-119.291868,38.773707,-119.291868,38.773707],
-  "geometry": {"coordinates":[-119.291868,38.773707],"type":"Point"}
+  "bbox": [
+    -119.291868,
+    38.773707,
+    -119.291868,
+    38.773707
+],
+  "geometry": {"coordinates":[-119.29186799999999,38.773707],"type":"Point"}
 }

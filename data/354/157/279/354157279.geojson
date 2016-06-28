@@ -2,13 +2,14 @@
   "id": 354157279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217079,36.12327,-115.217079,36.12327",
     "geom:latitude":36.12327,
     "geom:longitude":-115.217079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3651 Lindell Rd Ste D",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354157279,
-    "wof:lastmodified":1449067422,
+    "wof:lastmodified":1466704739,
     "wof:name":"Elite VIP LLC",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.217079,36.12327,-115.217079,36.12327],
+  "bbox": [
+    -115.217079,
+    36.12327,
+    -115.217079,
+    36.12327
+],
   "geometry": {"coordinates":[-115.217079,36.12327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219280375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801032,39.510447,-119.801032,39.510447",
     "geom:latitude":39.510447,
     "geom:longitude":-119.801032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Capitol Hill Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219280375,
-    "wof:lastmodified":1449072115,
+    "wof:lastmodified":1466702863,
     "wof:name":"Animal Disease Laboratory",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.801032,39.510447,-119.801032,39.510447],
-  "geometry": {"coordinates":[-119.801032,39.510447],"type":"Point"}
+  "bbox": [
+    -119.801032,
+    39.510447,
+    -119.801032,
+    39.510447
+],
+  "geometry": {"coordinates":[-119.80103200000001,39.510447],"type":"Point"}
 }

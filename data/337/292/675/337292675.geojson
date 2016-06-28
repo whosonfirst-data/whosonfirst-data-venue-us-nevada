@@ -2,13 +2,14 @@
   "id": 337292675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.732945,40.965435,-117.732945,40.965435",
     "geom:latitude":40.965435,
     "geom:longitude":-117.732945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W Haskell St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337292675,
-    "wof:lastmodified":1449027010,
+    "wof:lastmodified":1466701547,
     "wof:name":"Humboldt Readymix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.732945,40.965435,-117.732945,40.965435],
+  "bbox": [
+    -117.732945,
+    40.965435,
+    -117.732945,
+    40.965435
+],
   "geometry": {"coordinates":[-117.732945,40.965435],"type":"Point"}
 }

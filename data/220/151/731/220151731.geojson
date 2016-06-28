@@ -2,13 +2,14 @@
   "id": 220151731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.579139,39.27051,-119.579139,39.27051",
     "geom:latitude":39.27051,
     "geom:longitude":-119.579139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Monte Cristo Dr",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220151731,
-    "wof:lastmodified":1449074072,
+    "wof:lastmodified":1466702779,
     "wof:name":"K & I Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.579139,39.27051,-119.579139,39.27051],
+  "bbox": [
+    -119.579139,
+    39.27051,
+    -119.579139,
+    39.27051
+],
   "geometry": {"coordinates":[-119.579139,39.27051],"type":"Point"}
 }

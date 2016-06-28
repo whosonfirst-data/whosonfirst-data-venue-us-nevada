@@ -2,13 +2,14 @@
   "id": 219341429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738256,39.205944,-119.738256,39.205944",
     "geom:latitude":39.205944,
     "geom:longitude":-119.738256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 Convair Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219341429,
-    "wof:lastmodified":1449073762,
+    "wof:lastmodified":1466703354,
     "wof:name":"DYC Supply Co",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cartridge"
     ]
 },
-  "bbox": [-119.738256,39.205944,-119.738256,39.205944],
-  "geometry": {"coordinates":[-119.738256,39.205944],"type":"Point"}
+  "bbox": [
+    -119.738256,
+    39.205944,
+    -119.738256,
+    39.205944
+],
+  "geometry": {"coordinates":[-119.73825600000001,39.205944],"type":"Point"}
 }

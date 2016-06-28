@@ -2,13 +2,14 @@
   "id": 236770053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181595,36.109329,-115.181595,36.109329",
     "geom:latitude":36.109329,
     "geom:longitude":-115.181595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3081 Business Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236770053,
-    "wof:lastmodified":1449005323,
+    "wof:lastmodified":1466706598,
     "wof:name":"Harris Associates Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-115.181595,36.109329,-115.181595,36.109329],
+  "bbox": [
+    -115.181595,
+    36.109329,
+    -115.181595,
+    36.109329
+],
   "geometry": {"coordinates":[-115.181595,36.109329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219625813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075678,36.045984,-115.075678,36.045984",
     "geom:latitude":36.045984,
     "geom:longitude":-115.075678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1951 Silver Springs Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219625813,
-    "wof:lastmodified":1449073980,
+    "wof:lastmodified":1466703388,
     "wof:name":"Henderson Slver Sprng Rcration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-115.075678,36.045984,-115.075678,36.045984],
+  "bbox": [
+    -115.075678,
+    36.045984,
+    -115.075678,
+    36.045984
+],
   "geometry": {"coordinates":[-115.075678,36.045984],"type":"Point"}
 }

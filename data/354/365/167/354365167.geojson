@@ -2,13 +2,14 @@
   "id": 354365167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.126132,36.057642,-115.126132,36.057642",
     "geom:latitude":36.057642,
     "geom:longitude":-115.126132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1855 E Warm Springs Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354365167,
-    "wof:lastmodified":1449066207,
+    "wof:lastmodified":1466706080,
     "wof:name":"Bower Chad DVM",
     "wof:parent_id":85879745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-115.126132,36.057642,-115.126132,36.057642],
+  "bbox": [
+    -115.126132,
+    36.057642,
+    -115.126132,
+    36.057642
+],
   "geometry": {"coordinates":[-115.126132,36.057642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354263079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172794,36.100335,-115.172794,36.100335",
     "geom:latitude":36.100335,
     "geom:longitude":-115.172794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354263079,
-    "wof:lastmodified":1449067630,
+    "wof:lastmodified":1466705323,
     "wof:name":"Spa Tropicana",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spa"
     ]
 },
-  "bbox": [-115.172794,36.100335,-115.172794,36.100335],
+  "bbox": [
+    -115.172794,
+    36.100335,
+    -115.172794,
+    36.100335
+],
   "geometry": {"coordinates":[-115.172794,36.100335],"type":"Point"}
 }

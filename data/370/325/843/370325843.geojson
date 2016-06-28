@@ -2,13 +2,14 @@
   "id": 370325843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817131,39.519539,-119.817131,39.519539",
     "geom:latitude":39.519539,
     "geom:longitude":-119.817131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Arlington Ave # 202",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370325843,
-    "wof:lastmodified":1449030408,
+    "wof:lastmodified":1466704648,
     "wof:name":"Native Touch Massage Serv",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.817131,39.519539,-119.817131,39.519539],
+  "bbox": [
+    -119.817131,
+    39.519539,
+    -119.817131,
+    39.519539
+],
   "geometry": {"coordinates":[-119.817131,39.519539],"type":"Point"}
 }

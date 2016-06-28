@@ -2,13 +2,14 @@
   "id": 203243837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186432,36.222882,-115.186432,36.222882",
     "geom:latitude":36.222882,
     "geom:longitude":-115.186432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 W Delhi Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203243837,
-    "wof:lastmodified":1449025535,
+    "wof:lastmodified":1466702461,
     "wof:name":"Doing It Right",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.186432,36.222882,-115.186432,36.222882],
+  "bbox": [
+    -115.186432,
+    36.222882,
+    -115.186432,
+    36.222882
+],
   "geometry": {"coordinates":[-115.186432,36.222882],"type":"Point"}
 }

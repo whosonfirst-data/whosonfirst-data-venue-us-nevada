@@ -2,13 +2,14 @@
   "id": 236394625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.774474,40.917592,-117.774474,40.917592",
     "geom:latitude":40.917592,
     "geom:longitude":-117.774474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3498 Lynx Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236394625,
-    "wof:lastmodified":1449002157,
+    "wof:lastmodified":1466705319,
     "wof:name":"Syncon Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-117.774474,40.917592,-117.774474,40.917592],
+  "bbox": [
+    -117.774474,
+    40.917592,
+    -117.774474,
+    40.917592
+],
   "geometry": {"coordinates":[-117.774474,40.917592],"type":"Point"}
 }

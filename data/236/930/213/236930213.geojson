@@ -2,13 +2,14 @@
   "id": 236930213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.106077,36.203167,-115.106077,36.203167",
     "geom:latitude":36.203167,
     "geom:longitude":-115.106077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 E Carey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236930213,
-    "wof:lastmodified":1449002546,
+    "wof:lastmodified":1466706916,
     "wof:name":"Steve Stallings Fine Art",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.106077,36.203167,-115.106077,36.203167],
+  "bbox": [
+    -115.106077,
+    36.203167,
+    -115.106077,
+    36.203167
+],
   "geometry": {"coordinates":[-115.106077,36.203167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252724259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.676653,40.787239,-115.676653,40.787239",
     "geom:latitude":40.787239,
     "geom:longitude":-115.676653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 Spring Valley Ct",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":252724259,
-    "wof:lastmodified":1449006474,
+    "wof:lastmodified":1466701812,
     "wof:name":"Artic Tans",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-115.676653,40.787239,-115.676653,40.787239],
+  "bbox": [
+    -115.676653,
+    40.787239,
+    -115.676653,
+    40.787239
+],
   "geometry": {"coordinates":[-115.676653,40.787239],"type":"Point"}
 }

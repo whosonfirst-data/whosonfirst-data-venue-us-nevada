@@ -2,13 +2,14 @@
   "id": 220138481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787624,39.183643,-119.787624,39.183643",
     "geom:latitude":39.183643,
     "geom:longitude":-119.787624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Hawthorne Ct",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220138481,
-    "wof:lastmodified":1449074247,
+    "wof:lastmodified":1466702693,
     "wof:name":"BSghettis Italian Restaurant",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.787624,39.183643,-119.787624,39.183643],
-  "geometry": {"coordinates":[-119.787624,39.183643],"type":"Point"}
+  "bbox": [
+    -119.787624,
+    39.183643,
+    -119.787624,
+    39.183643
+],
+  "geometry": {"coordinates":[-119.78762399999999,39.183643],"type":"Point"}
 }

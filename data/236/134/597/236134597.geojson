@@ -2,13 +2,14 @@
   "id": 236134597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250692,36.226646,-115.250692,36.226646",
     "geom:latitude":36.226646,
     "geom:longitude":-115.250692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7113 Caprock Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236134597,
-    "wof:lastmodified":1449005031,
+    "wof:lastmodified":1466702220,
     "wof:name":"Ruff Packaging Inc",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-115.250692,36.226646,-115.250692,36.226646],
+  "bbox": [
+    -115.250692,
+    36.226646,
+    -115.250692,
+    36.226646
+],
   "geometry": {"coordinates":[-115.250692,36.226646],"type":"Point"}
 }

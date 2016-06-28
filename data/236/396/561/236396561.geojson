@@ -2,13 +2,14 @@
   "id": 236396561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.736975,40.965626,-117.736975,40.965626",
     "geom:latitude":40.965626,
     "geom:longitude":-117.736975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Hanson St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236396561,
-    "wof:lastmodified":1449003890,
+    "wof:lastmodified":1466705460,
     "wof:name":"Hanson Street Liquor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-117.736975,40.965626,-117.736975,40.965626],
+  "bbox": [
+    -117.736975,
+    40.965626,
+    -117.736975,
+    40.965626
+],
   "geometry": {"coordinates":[-117.736975,40.965626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236058699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.732347,39.536035,-119.732347,39.536035",
     "geom:latitude":39.536035,
     "geom:longitude":-119.732347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Howard Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236058699,
-    "wof:lastmodified":1449002038,
+    "wof:lastmodified":1466703994,
     "wof:name":"Emigrant Storage",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-119.732347,39.536035,-119.732347,39.536035],
+  "bbox": [
+    -119.732347,
+    39.536035,
+    -119.732347,
+    39.536035
+],
   "geometry": {"coordinates":[-119.732347,39.536035],"type":"Point"}
 }

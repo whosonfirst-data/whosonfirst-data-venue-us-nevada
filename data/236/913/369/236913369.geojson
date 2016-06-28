@@ -2,13 +2,14 @@
   "id": 236913369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.041314,36.218091,-116.041314,36.218091",
     "geom:latitude":36.218091,
     "geom:longitude":-116.041314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 S David St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236913369,
-    "wof:lastmodified":1449002827,
+    "wof:lastmodified":1466706827,
     "wof:name":"Pahrump Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-116.041314,36.218091,-116.041314,36.218091],
+  "bbox": [
+    -116.041314,
+    36.218091,
+    -116.041314,
+    36.218091
+],
   "geometry": {"coordinates":[-116.041314,36.218091],"type":"Point"}
 }

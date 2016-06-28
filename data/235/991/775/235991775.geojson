@@ -2,13 +2,14 @@
   "id": 235991775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224673,36.089568,-115.224673,36.089568",
     "geom:latitude":36.089568,
     "geom:longitude":-115.224673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5481 Poker Face Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235991775,
-    "wof:lastmodified":1449008360,
+    "wof:lastmodified":1466703717,
     "wof:name":"Magique Productions LTD",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.224673,36.089568,-115.224673,36.089568],
+  "bbox": [
+    -115.224673,
+    36.089568,
+    -115.224673,
+    36.089568
+],
   "geometry": {"coordinates":[-115.224673,36.089568],"type":"Point"}
 }

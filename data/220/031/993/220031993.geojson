@@ -2,13 +2,14 @@
   "id": 220031993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068768,36.013352,-115.068768,36.013352",
     "geom:latitude":36.013352,
     "geom:longitude":-115.068768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Pleasant Summit Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220031993,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466701834,
     "wof:name":"Lowest Auto Loan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.068768,36.013352,-115.068768,36.013352],
-  "geometry": {"coordinates":[-115.068768,36.013352],"type":"Point"}
+  "bbox": [
+    -115.068768,
+    36.013352,
+    -115.068768,
+    36.013352
+],
+  "geometry": {"coordinates":[-115.06876800000001,36.013352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236385651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114206,36.081491,-115.114206,36.081491",
     "geom:latitude":36.081491,
     "geom:longitude":-115.114206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6038 Topaz St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236385651,
-    "wof:lastmodified":1449003637,
+    "wof:lastmodified":1466705398,
     "wof:name":"Infinite Relfections",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.114206,36.081491,-115.114206,36.081491],
+  "bbox": [
+    -115.114206,
+    36.081491,
+    -115.114206,
+    36.081491
+],
   "geometry": {"coordinates":[-115.114206,36.081491],"type":"Point"}
 }

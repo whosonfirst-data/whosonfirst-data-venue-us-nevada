@@ -2,13 +2,14 @@
   "id": 236278607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.16319,38.977676,-119.16319,38.977676",
     "geom:latitude":38.977676,
     "geom:longitude":-119.16319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Main St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236278607,
-    "wof:lastmodified":1449003482,
+    "wof:lastmodified":1466704380,
     "wof:name":"Western Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "title"
     ]
 },
-  "bbox": [-119.16319,38.977676,-119.16319,38.977676],
+  "bbox": [
+    -119.16319,
+    38.977676,
+    -119.16319,
+    38.977676
+],
   "geometry": {"coordinates":[-119.16319,38.977676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370229287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213091,36.126547,-115.213091,36.126547",
     "geom:latitude":36.126547,
     "geom:longitude":-115.213091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5288 Spring Mountain Road - 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370229287,
-    "wof:lastmodified":1449031796,
+    "wof:lastmodified":1466703245,
     "wof:name":"Lin Law Group",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.213091,36.126547,-115.213091,36.126547],
-  "geometry": {"coordinates":[-115.213091,36.126547],"type":"Point"}
+  "bbox": [
+    -115.213091,
+    36.126547,
+    -115.213091,
+    36.126547
+],
+  "geometry": {"coordinates":[-115.21309100000001,36.126547],"type":"Point"}
 }

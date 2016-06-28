@@ -2,13 +2,14 @@
   "id": 370201673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154027,36.110498,-115.154027,36.110498",
     "geom:latitude":36.110498,
     "geom:longitude":-115.154027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Inside Hard Rock Hotel and Casino 4455 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370201673,
-    "wof:lastmodified":1449032012,
+    "wof:lastmodified":1466702548,
     "wof:name":"Relax",
     "wof:parent_id":85892737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.154027,36.110498,-115.154027,36.110498],
+  "bbox": [
+    -115.154027,
+    36.110498,
+    -115.154027,
+    36.110498
+],
   "geometry": {"coordinates":[-115.154027,36.110498],"type":"Point"}
 }

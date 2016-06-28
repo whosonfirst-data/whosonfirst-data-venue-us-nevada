@@ -2,13 +2,14 @@
   "id": 203277323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.207306,36.202707,-115.207306,36.202707",
     "geom:latitude":36.202707,
     "geom:longitude":-115.207306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Smoke Ranch Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203277323,
-    "wof:lastmodified":1449025157,
+    "wof:lastmodified":1466702671,
     "wof:name":"Briarwood Group Home Inc",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.207306,36.202707,-115.207306,36.202707],
+  "bbox": [
+    -115.207306,
+    36.202707,
+    -115.207306,
+    36.202707
+],
   "geometry": {"coordinates":[-115.207306,36.202707],"type":"Point"}
 }

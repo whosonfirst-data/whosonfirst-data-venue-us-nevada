@@ -2,13 +2,14 @@
   "id": 219756441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127185,36.220179,-115.127185,36.220179",
     "geom:latitude":36.220179,
     "geom:longitude":-115.127185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Sharp",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219756441,
-    "wof:lastmodified":1449072495,
+    "wof:lastmodified":1466704935,
     "wof:name":"Iron Specialists",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.127185,36.220179,-115.127185,36.220179],
+  "bbox": [
+    -115.127185,
+    36.220179,
+    -115.127185,
+    36.220179
+],
   "geometry": {"coordinates":[-115.127185,36.220179],"type":"Point"}
 }

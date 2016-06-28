@@ -2,13 +2,14 @@
   "id": 337303131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221024,36.086993,-115.221024,36.086993",
     "geom:latitude":36.086993,
     "geom:longitude":-115.221024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5675 Duneville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337303131,
-    "wof:lastmodified":1449026938,
+    "wof:lastmodified":1466701810,
     "wof:name":"Thomas Bramlett & Associates",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-115.221024,36.086993,-115.221024,36.086993],
+  "bbox": [
+    -115.221024,
+    36.086993,
+    -115.221024,
+    36.086993
+],
   "geometry": {"coordinates":[-115.221024,36.086993],"type":"Point"}
 }

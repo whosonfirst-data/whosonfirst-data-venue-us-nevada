@@ -2,13 +2,14 @@
   "id": 203203835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.947411,39.247658,-119.947411,39.247658",
     "geom:latitude":39.247658,
     "geom:longitude":-119.947411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Southwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203203835,
-    "wof:lastmodified":1449025750,
+    "wof:lastmodified":1466702099,
     "wof:name":"USA Commercial Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-119.947411,39.247658,-119.947411,39.247658],
+  "bbox": [
+    -119.947411,
+    39.247658,
+    -119.947411,
+    39.247658
+],
   "geometry": {"coordinates":[-119.947411,39.247658],"type":"Point"}
 }

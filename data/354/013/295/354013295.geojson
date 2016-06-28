@@ -2,13 +2,14 @@
   "id": 354013295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.981939,36.039733,-114.981939,36.039733",
     "geom:latitude":36.039733,
     "geom:longitude":-114.981939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Boulder Highway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354013295,
-    "wof:lastmodified":1449067124,
+    "wof:lastmodified":1466701829,
     "wof:name":"Villa Pizza",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-114.981939,36.039733,-114.981939,36.039733],
+  "bbox": [
+    -114.981939,
+    36.039733,
+    -114.981939,
+    36.039733
+],
   "geometry": {"coordinates":[-114.981939,36.039733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236126587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204376,36.188151,-115.204376,36.188151",
     "geom:latitude":36.188151,
     "geom:longitude":-115.204376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 W Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236126587,
-    "wof:lastmodified":1449002748,
+    "wof:lastmodified":1466702063,
     "wof:name":"Airport Travel Svc",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.204376,36.188151,-115.204376,36.188151],
+  "bbox": [
+    -115.204376,
+    36.188151,
+    -115.204376,
+    36.188151
+],
   "geometry": {"coordinates":[-115.204376,36.188151],"type":"Point"}
 }

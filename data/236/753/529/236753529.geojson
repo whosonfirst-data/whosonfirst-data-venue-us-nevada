@@ -2,13 +2,14 @@
   "id": 236753529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298788,36.150382,-115.298788,36.150382",
     "geom:latitude":36.150382,
     "geom:longitude":-115.298788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 Derbyshire Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236753529,
-    "wof:lastmodified":1449001969,
+    "wof:lastmodified":1466706574,
     "wof:name":"William J Haverly & Assoc Nvd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-115.298788,36.150382,-115.298788,36.150382],
+  "bbox": [
+    -115.298788,
+    36.150382,
+    -115.298788,
+    36.150382
+],
   "geometry": {"coordinates":[-115.298788,36.150382],"type":"Point"}
 }

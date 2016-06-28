@@ -2,13 +2,14 @@
   "id": 219827753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125163,36.167145,-115.125163,36.167145",
     "geom:latitude":36.167145,
     "geom:longitude":-115.125163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Marlin Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219827753,
-    "wof:lastmodified":1449071654,
+    "wof:lastmodified":1466705226,
     "wof:name":"Colonial Lf Accdent Insur Cmpa",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.125163,36.167145,-115.125163,36.167145],
+  "bbox": [
+    -115.125163,
+    36.167145,
+    -115.125163,
+    36.167145
+],
   "geometry": {"coordinates":[-115.125163,36.167145],"type":"Point"}
 }

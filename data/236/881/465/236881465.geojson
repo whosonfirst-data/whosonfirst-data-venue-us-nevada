@@ -2,13 +2,14 @@
   "id": 236881465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143099,36.163132,-115.143099,36.163132",
     "geom:latitude":36.163132,
     "geom:longitude":-115.143099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S 6th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236881465,
-    "wof:lastmodified":1449003585,
+    "wof:lastmodified":1466706781,
     "wof:name":"Sigal Sinai Law Office",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.143099,36.163132,-115.143099,36.163132],
-  "geometry": {"coordinates":[-115.143099,36.163132],"type":"Point"}
+  "bbox": [
+    -115.143099,
+    36.163132,
+    -115.143099,
+    36.163132
+],
+  "geometry": {"coordinates":[-115.14309900000001,36.163132],"type":"Point"}
 }

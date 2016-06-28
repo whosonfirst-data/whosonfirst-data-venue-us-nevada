@@ -2,13 +2,14 @@
   "id": 236511579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119701,36.038203,-115.119701,36.038203",
     "geom:latitude":36.038203,
     "geom:longitude":-115.119701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 Chasing Star Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236511579,
-    "wof:lastmodified":1449003118,
+    "wof:lastmodified":1466705870,
     "wof:name":"Shade By Design",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.119701,36.038203,-115.119701,36.038203],
-  "geometry": {"coordinates":[-115.119701,36.038203],"type":"Point"}
+  "bbox": [
+    -115.119701,
+    36.038203,
+    -115.119701,
+    36.038203
+],
+  "geometry": {"coordinates":[-115.11970100000001,36.038203],"type":"Point"}
 }

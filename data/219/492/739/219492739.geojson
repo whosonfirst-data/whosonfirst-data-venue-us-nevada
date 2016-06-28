@@ -2,13 +2,14 @@
   "id": 219492739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116275,35.966744,-115.116275,35.966744",
     "geom:latitude":35.966744,
     "geom:longitude":-115.116275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 Wellington Springs Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219492739,
-    "wof:lastmodified":1449070376,
+    "wof:lastmodified":1466704132,
     "wof:name":"Rack Madelyn",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "calligrapher"
     ]
 },
-  "bbox": [-115.116275,35.966744,-115.116275,35.966744],
+  "bbox": [
+    -115.116275,
+    35.966744,
+    -115.116275,
+    35.966744
+],
   "geometry": {"coordinates":[-115.116275,35.966744],"type":"Point"}
 }

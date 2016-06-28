@@ -2,13 +2,14 @@
   "id": 354167527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154358,36.148401,-115.154358,36.148401",
     "geom:latitude":36.148401,
     "geom:longitude":-115.154358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 S Las Vegas Blvd C2, upstairs in the Stratosphere Mall",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354167527,
-    "wof:lastmodified":1449066815,
+    "wof:lastmodified":1466704806,
     "wof:name":"El Nopal",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.154358,36.148401,-115.154358,36.148401],
+  "bbox": [
+    -115.154358,
+    36.148401,
+    -115.154358,
+    36.148401
+],
   "geometry": {"coordinates":[-115.154358,36.148401],"type":"Point"}
 }

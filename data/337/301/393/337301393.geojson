@@ -2,13 +2,14 @@
   "id": 337301393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761043,39.174151,-119.761043,39.174151",
     "geom:latitude":39.174151,
     "geom:longitude":-119.761043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 E Long St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337301393,
-    "wof:lastmodified":1449027136,
+    "wof:lastmodified":1466701766,
     "wof:name":"Scharo Linda",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-119.761043,39.174151,-119.761043,39.174151],
+  "bbox": [
+    -119.761043,
+    39.174151,
+    -119.761043,
+    39.174151
+],
   "geometry": {"coordinates":[-119.761043,39.174151],"type":"Point"}
 }

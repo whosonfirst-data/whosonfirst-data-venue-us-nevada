@@ -2,13 +2,14 @@
   "id": 219686559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815288,39.520004,-119.815288,39.520004",
     "geom:latitude":39.520004,
     "geom:longitude":-119.815288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219686559,
-    "wof:lastmodified":1449073075,
+    "wof:lastmodified":1466704349,
     "wof:name":"My Favorite Muffin",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bakery"
     ]
 },
-  "bbox": [-119.815288,39.520004,-119.815288,39.520004],
+  "bbox": [
+    -119.815288,
+    39.520004,
+    -119.815288,
+    39.520004
+],
   "geometry": {"coordinates":[-119.815288,39.520004],"type":"Point"}
 }

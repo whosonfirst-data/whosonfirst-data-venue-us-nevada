@@ -2,13 +2,14 @@
   "id": 354328891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242911,36.093307,-115.242911,36.093307",
     "geom:latitude":36.093307,
     "geom:longitude":-115.242911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354328891,
-    "wof:lastmodified":1449066944,
+    "wof:lastmodified":1466705913,
     "wof:name":"My Color Theory",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artist"
     ]
 },
-  "bbox": [-115.242911,36.093307,-115.242911,36.093307],
-  "geometry": {"coordinates":[-115.242911,36.093307],"type":"Point"}
+  "bbox": [
+    -115.242911,
+    36.093307,
+    -115.242911,
+    36.093307
+],
+  "geometry": {"coordinates":[-115.24291100000001,36.093307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220047851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172875,36.101464,-115.172875,36.101464",
     "geom:latitude":36.101464,
     "geom:longitude":-115.172875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220047851,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466701960,
     "wof:name":"Jewels By Mordechai",
     "wof:parent_id":85879735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "setter"
     ]
 },
-  "bbox": [-115.172875,36.101464,-115.172875,36.101464],
+  "bbox": [
+    -115.172875,
+    36.101464,
+    -115.172875,
+    36.101464
+],
   "geometry": {"coordinates":[-115.172875,36.101464],"type":"Point"}
 }

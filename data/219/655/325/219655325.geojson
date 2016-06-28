@@ -2,13 +2,14 @@
   "id": 219655325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11821,36.052279,-115.11821,36.052279",
     "geom:latitude":36.052279,
     "geom:longitude":-115.11821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219655325,
-    "wof:lastmodified":1449072405,
+    "wof:lastmodified":1466703910,
     "wof:name":"Palm Mortuaries & Cemeteries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortuary"
     ]
 },
-  "bbox": [-115.11821,36.052279,-115.11821,36.052279],
+  "bbox": [
+    -115.11821,
+    36.052279,
+    -115.11821,
+    36.052279
+],
   "geometry": {"coordinates":[-115.11821,36.052279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236802883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162091,36.13241,-115.162091,36.13241",
     "geom:latitude":36.13241,
     "geom:longitude":-115.162091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Convention Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236802883,
-    "wof:lastmodified":1449004506,
+    "wof:lastmodified":1466706665,
     "wof:name":"Equity Resolution Group Inc",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.162091,36.13241,-115.162091,36.13241],
+  "bbox": [
+    -115.162091,
+    36.13241,
+    -115.162091,
+    36.13241
+],
   "geometry": {"coordinates":[-115.162091,36.13241],"type":"Point"}
 }

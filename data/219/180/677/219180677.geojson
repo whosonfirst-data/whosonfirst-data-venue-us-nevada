@@ -2,13 +2,14 @@
   "id": 219180677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21239,36.21036,-115.21239,36.21036",
     "geom:latitude":36.21036,
     "geom:longitude":-115.21239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Meadows Lilly Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219180677,
-    "wof:lastmodified":1449070511,
+    "wof:lastmodified":1466701946,
     "wof:name":"A Plus Duty Scoop",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-115.21239,36.21036,-115.21239,36.21036],
+  "bbox": [
+    -115.21239,
+    36.21036,
+    -115.21239,
+    36.21036
+],
   "geometry": {"coordinates":[-115.21239,36.21036],"type":"Point"}
 }

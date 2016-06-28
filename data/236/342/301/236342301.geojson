@@ -2,13 +2,14 @@
   "id": 236342301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.132723,38.939448,-119.132723,38.939448",
     "geom:latitude":38.939448,
     "geom:longitude":-119.132723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 E Pursel Ln",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236342301,
-    "wof:lastmodified":1449004969,
+    "wof:lastmodified":1466704976,
     "wof:name":"Desert Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.132723,38.939448,-119.132723,38.939448],
+  "bbox": [
+    -119.132723,
+    38.939448,
+    -119.132723,
+    38.939448
+],
   "geometry": {"coordinates":[-119.132723,38.939448],"type":"Point"}
 }

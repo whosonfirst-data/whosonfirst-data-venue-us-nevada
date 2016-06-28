@@ -2,13 +2,14 @@
   "id": 236721693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16321,36.13227,-115.16321,36.13227",
     "geom:latitude":36.13227,
     "geom:longitude":-115.16321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Convention Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236721693,
-    "wof:lastmodified":1449005240,
+    "wof:lastmodified":1466706525,
     "wof:name":"Alliance Funding Co Of Nevada",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "investment"
     ]
 },
-  "bbox": [-115.16321,36.13227,-115.16321,36.13227],
-  "geometry": {"coordinates":[-115.16321,36.13227],"type":"Point"}
+  "bbox": [
+    -115.16321,
+    36.13227,
+    -115.16321,
+    36.13227
+],
+  "geometry": {"coordinates":[-115.16321000000001,36.13227],"type":"Point"}
 }

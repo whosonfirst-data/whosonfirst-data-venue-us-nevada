@@ -2,13 +2,14 @@
   "id": 203159875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065488,36.132849,-115.065488,36.132849",
     "geom:latitude":36.132849,
     "geom:longitude":-115.065488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3175 S Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203159875,
-    "wof:lastmodified":1449025174,
+    "wof:lastmodified":1466701628,
     "wof:name":"Master Video TV",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-115.065488,36.132849,-115.065488,36.132849],
+  "bbox": [
+    -115.065488,
+    36.132849,
+    -115.065488,
+    36.132849
+],
   "geometry": {"coordinates":[-115.065488,36.132849],"type":"Point"}
 }

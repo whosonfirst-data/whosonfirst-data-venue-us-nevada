@@ -2,13 +2,14 @@
   "id": 370202479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146391,36.170959,-115.146391,36.170959",
     "geom:latitude":36.170959,
     "geom:longitude":-115.146391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Golden Gate Hotel and Casino 1 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370202479,
-    "wof:lastmodified":1449032031,
+    "wof:lastmodified":1466702573,
     "wof:name":"San Francisco Shrimp Bar and Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-115.146391,36.170959,-115.146391,36.170959],
-  "geometry": {"coordinates":[-115.146391,36.170959],"type":"Point"}
+  "bbox": [
+    -115.146391,
+    36.170959,
+    -115.146391,
+    36.170959
+],
+  "geometry": {"coordinates":[-115.14639099999999,36.170959],"type":"Point"}
 }

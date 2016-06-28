@@ -2,13 +2,14 @@
   "id": 219847047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.086675,36.824134,-114.086675,36.824134",
     "geom:latitude":36.824134,
     "geom:longitude":-114.086675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Hardy Way",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219847047,
-    "wof:lastmodified":1449071675,
+    "wof:lastmodified":1466705457,
     "wof:name":"2K Datacom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.086675,36.824134,-114.086675,36.824134],
+  "bbox": [
+    -114.086675,
+    36.824134,
+    -114.086675,
+    36.824134
+],
   "geometry": {"coordinates":[-114.086675,36.824134],"type":"Point"}
 }

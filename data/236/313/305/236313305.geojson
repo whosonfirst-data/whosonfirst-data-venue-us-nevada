@@ -2,13 +2,14 @@
   "id": 236313305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199438,36.113565,-115.199438,36.113565",
     "geom:latitude":36.113565,
     "geom:longitude":-115.199438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4295 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236313305,
-    "wof:lastmodified":1449001751,
+    "wof:lastmodified":1466704643,
     "wof:name":"Wyeth",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veterinary"
     ]
 },
-  "bbox": [-115.199438,36.113565,-115.199438,36.113565],
+  "bbox": [
+    -115.199438,
+    36.113565,
+    -115.199438,
+    36.113565
+],
   "geometry": {"coordinates":[-115.199438,36.113565],"type":"Point"}
 }

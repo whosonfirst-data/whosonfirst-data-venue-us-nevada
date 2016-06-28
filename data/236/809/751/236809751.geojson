@@ -2,13 +2,14 @@
   "id": 236809751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167031,36.140859,-115.167031,36.140859",
     "geom:latitude":36.140859,
     "geom:longitude":-115.167031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236809751,
-    "wof:lastmodified":1449004533,
+    "wof:lastmodified":1466706501,
     "wof:name":"Upscale Exotics",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-115.167031,36.140859,-115.167031,36.140859],
-  "geometry": {"coordinates":[-115.167031,36.140859],"type":"Point"}
+  "bbox": [
+    -115.167031,
+    36.140859,
+    -115.167031,
+    36.140859
+],
+  "geometry": {"coordinates":[-115.16703099999999,36.140859],"type":"Point"}
 }

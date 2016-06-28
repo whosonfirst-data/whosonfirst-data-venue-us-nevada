@@ -2,13 +2,14 @@
   "id": 354391993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114133,36.099754,-115.114133,36.099754",
     "geom:latitude":36.099754,
     "geom:longitude":-115.114133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 E Tropicana Ave Ste C",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354391993,
-    "wof:lastmodified":1449067056,
+    "wof:lastmodified":1466706337,
     "wof:name":"Launderland",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.114133,36.099754,-115.114133,36.099754],
+  "bbox": [
+    -115.114133,
+    36.099754,
+    -115.114133,
+    36.099754
+],
   "geometry": {"coordinates":[-115.114133,36.099754],"type":"Point"}
 }

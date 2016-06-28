@@ -2,13 +2,14 @@
   "id": 236301169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.476147,40.194715,-118.476147,40.194715",
     "geom:latitude":40.194715,
     "geom:longitude":-118.476147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Meridian Rd",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236301169,
-    "wof:lastmodified":1449002312,
+    "wof:lastmodified":1466704844,
     "wof:name":"Kjeldsen Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.476147,40.194715,-118.476147,40.194715],
+  "bbox": [
+    -118.476147,
+    40.194715,
+    -118.476147,
+    40.194715
+],
   "geometry": {"coordinates":[-118.476147,40.194715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219850113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318618,36.139845,-115.318618,36.139845",
     "geom:latitude":36.139845,
     "geom:longitude":-115.318618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10367 Splendor Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219850113,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466705227,
     "wof:name":"Mc Consulting Services Inc",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.318618,36.139845,-115.318618,36.139845],
+  "bbox": [
+    -115.318618,
+    36.139845,
+    -115.318618,
+    36.139845
+],
   "geometry": {"coordinates":[-115.318618,36.139845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220024947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.079235,36.158885,-115.079235,36.158885",
     "geom:latitude":36.158885,
     "geom:longitude":-115.079235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220024947,
-    "wof:lastmodified":1449074409,
+    "wof:lastmodified":1466701756,
     "wof:name":"Classic Claws",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.079235,36.158885,-115.079235,36.158885],
+  "bbox": [
+    -115.079235,
+    36.158885,
+    -115.079235,
+    36.158885
+],
   "geometry": {"coordinates":[-115.079235,36.158885],"type":"Point"}
 }

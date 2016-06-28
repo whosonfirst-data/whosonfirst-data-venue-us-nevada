@@ -2,13 +2,14 @@
   "id": 236688667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.304434,36.191969,-115.304434,36.191969",
     "geom:latitude":36.191969,
     "geom:longitude":-115.304434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236688667,
-    "wof:lastmodified":1449002771,
+    "wof:lastmodified":1466706460,
     "wof:name":"Edwards Jones",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-115.304434,36.191969,-115.304434,36.191969],
+  "bbox": [
+    -115.304434,
+    36.191969,
+    -115.304434,
+    36.191969
+],
   "geometry": {"coordinates":[-115.304434,36.191969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354280841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092003,36.2188,-115.092003,36.2188",
     "geom:latitude":36.2188,
     "geom:longitude":-115.092003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3297 Las Vegas Blvd N Ste 58",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354280841,
-    "wof:lastmodified":1449066758,
+    "wof:lastmodified":1466705596,
     "wof:name":"Aree Services",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.092003,36.2188,-115.092003,36.2188],
-  "geometry": {"coordinates":[-115.092003,36.2188],"type":"Point"}
+  "bbox": [
+    -115.092003,
+    36.2188,
+    -115.092003,
+    36.2188
+],
+  "geometry": {"coordinates":[-115.09200300000001,36.2188],"type":"Point"}
 }

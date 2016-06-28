@@ -2,13 +2,14 @@
   "id": 236420821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089262,36.067713,-115.089262,36.067713",
     "geom:latitude":36.067713,
     "geom:longitude":-115.089262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Sunfish Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236420821,
-    "wof:lastmodified":1449003186,
+    "wof:lastmodified":1466705461,
     "wof:name":"Dean R Rye",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.089262,36.067713,-115.089262,36.067713],
-  "geometry": {"coordinates":[-115.089262,36.067713],"type":"Point"}
+  "bbox": [
+    -115.089262,
+    36.067713,
+    -115.089262,
+    36.067713
+],
+  "geometry": {"coordinates":[-115.08926200000001,36.067713],"type":"Point"}
 }

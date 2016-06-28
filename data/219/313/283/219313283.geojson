@@ -2,13 +2,14 @@
   "id": 219313283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305419,36.129366,-115.305419,36.129366",
     "geom:latitude":36.129366,
     "geom:longitude":-115.305419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 Huntington Crst",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219313283,
-    "wof:lastmodified":1449070473,
+    "wof:lastmodified":1466703179,
     "wof:name":"Domestics N More",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.305419,36.129366,-115.305419,36.129366],
+  "bbox": [
+    -115.305419,
+    36.129366,
+    -115.305419,
+    36.129366
+],
   "geometry": {"coordinates":[-115.305419,36.129366],"type":"Point"}
 }

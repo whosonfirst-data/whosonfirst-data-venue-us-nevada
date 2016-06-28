@@ -2,13 +2,14 @@
   "id": 236270897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.719906,39.556289,-119.719906,39.556289",
     "geom:latitude":39.556289,
     "geom:longitude":-119.719906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236270897,
-    "wof:lastmodified":1449002117,
+    "wof:lastmodified":1466704505,
     "wof:name":"Eyetech Visioncare",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.719906,39.556289,-119.719906,39.556289],
-  "geometry": {"coordinates":[-119.719906,39.556289],"type":"Point"}
+  "bbox": [
+    -119.719906,
+    39.556289,
+    -119.719906,
+    39.556289
+],
+  "geometry": {"coordinates":[-119.71990599999999,39.556289],"type":"Point"}
 }

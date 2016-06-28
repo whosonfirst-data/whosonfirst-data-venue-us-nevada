@@ -2,13 +2,14 @@
   "id": 235940749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825105,39.523393,-119.825105,39.523393",
     "geom:latitude":39.523393,
     "geom:longitude":-119.825105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 W 1st St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235940749,
-    "wof:lastmodified":1449008339,
+    "wof:lastmodified":1466703485,
     "wof:name":"Exodus Treatment Counseling",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-119.825105,39.523393,-119.825105,39.523393],
-  "geometry": {"coordinates":[-119.825105,39.523393],"type":"Point"}
+  "bbox": [
+    -119.825105,
+    39.523393,
+    -119.825105,
+    39.523393
+],
+  "geometry": {"coordinates":[-119.82510499999999,39.523393],"type":"Point"}
 }

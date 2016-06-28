@@ -2,13 +2,14 @@
   "id": 236704265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1456,36.052032,-115.1456,36.052032",
     "geom:latitude":36.052032,
     "geom:longitude":-115.1456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Eagle Mountain Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236704265,
-    "wof:lastmodified":1449002324,
+    "wof:lastmodified":1466706631,
     "wof:name":"Taylor Auto Transport",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-115.1456,36.052032,-115.1456,36.052032],
+  "bbox": [
+    -115.1456,
+    36.052032,
+    -115.1456,
+    36.052032
+],
   "geometry": {"coordinates":[-115.1456,36.052032],"type":"Point"}
 }

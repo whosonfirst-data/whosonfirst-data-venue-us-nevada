@@ -2,13 +2,14 @@
   "id": 220071921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.965187,41.111735,-114.965187,41.111735",
     "geom:latitude":41.111735,
     "geom:longitude":-114.965187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 6th St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220071921,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466702226,
     "wof:name":"Wells Chamber Of Commerce",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-114.965187,41.111735,-114.965187,41.111735],
+  "bbox": [
+    -114.965187,
+    41.111735,
+    -114.965187,
+    41.111735
+],
   "geometry": {"coordinates":[-114.965187,41.111735],"type":"Point"}
 }

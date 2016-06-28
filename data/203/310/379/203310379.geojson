@@ -2,13 +2,14 @@
   "id": 203310379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766969,39.152176,-119.766969,39.152176",
     "geom:latitude":39.152176,
     "geom:longitude":-119.766969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1894 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310379,
-    "wof:lastmodified":1449026104,
+    "wof:lastmodified":1466702919,
     "wof:name":"Archetype Book Composition",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typographer"
     ]
 },
-  "bbox": [-119.766969,39.152176,-119.766969,39.152176],
+  "bbox": [
+    -119.766969,
+    39.152176,
+    -119.766969,
+    39.152176
+],
   "geometry": {"coordinates":[-119.766969,39.152176],"type":"Point"}
 }

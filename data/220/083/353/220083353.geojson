@@ -2,13 +2,14 @@
   "id": 220083353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781763,39.479518,-119.781763,39.479518",
     "geom:latitude":39.479518,
     "geom:longitude":-119.781763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Neil Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220083353,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466702281,
     "wof:name":"A Plus Learning Ctr",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.781763,39.479518,-119.781763,39.479518],
+  "bbox": [
+    -119.781763,
+    39.479518,
+    -119.781763,
+    39.479518
+],
   "geometry": {"coordinates":[-119.781763,39.479518],"type":"Point"}
 }

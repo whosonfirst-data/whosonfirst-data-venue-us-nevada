@@ -2,13 +2,14 @@
   "id": 337293253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143887,36.129695,-115.143887,36.129695",
     "geom:latitude":36.129695,
     "geom:longitude":-115.143887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337293253,
-    "wof:lastmodified":1449027085,
+    "wof:lastmodified":1466701560,
     "wof:name":"Honey Bear Express",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-115.143887,36.129695,-115.143887,36.129695],
-  "geometry": {"coordinates":[-115.143887,36.129695],"type":"Point"}
+  "bbox": [
+    -115.143887,
+    36.129695,
+    -115.143887,
+    36.129695
+],
+  "geometry": {"coordinates":[-115.14388700000001,36.129695],"type":"Point"}
 }

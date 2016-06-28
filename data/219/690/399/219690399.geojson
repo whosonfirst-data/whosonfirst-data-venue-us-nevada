@@ -2,13 +2,14 @@
   "id": 219690399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.834745,39.688712,-119.834745,39.688712",
     "geom:latitude":39.688712,
     "geom:longitude":-119.834745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11505 Overland Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219690399,
-    "wof:lastmodified":1449072240,
+    "wof:lastmodified":1466704360,
     "wof:name":"Jumpin J Production Horse",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-119.834745,39.688712,-119.834745,39.688712],
+  "bbox": [
+    -119.834745,
+    39.688712,
+    -119.834745,
+    39.688712
+],
   "geometry": {"coordinates":[-119.834745,39.688712],"type":"Point"}
 }

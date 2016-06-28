@@ -2,13 +2,14 @@
   "id": 203196149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210581,36.159193,-115.210581,36.159193",
     "geom:latitude":36.159193,
     "geom:longitude":-115.210581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203196149,
-    "wof:lastmodified":1449025354,
+    "wof:lastmodified":1466702008,
     "wof:name":"Kidz Bizz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.210581,36.159193,-115.210581,36.159193],
+  "bbox": [
+    -115.210581,
+    36.159193,
+    -115.210581,
+    36.159193
+],
   "geometry": {"coordinates":[-115.210581,36.159193],"type":"Point"}
 }

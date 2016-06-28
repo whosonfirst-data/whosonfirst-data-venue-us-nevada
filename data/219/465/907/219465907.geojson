@@ -2,13 +2,14 @@
   "id": 219465907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180239,36.182312,-115.180239,36.182312",
     "geom:latitude":36.182312,
     "geom:longitude":-115.180239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219465907,
-    "wof:lastmodified":1449072762,
+    "wof:lastmodified":1466704028,
     "wof:name":"Supermercado Del Pueblo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-115.180239,36.182312,-115.180239,36.182312],
+  "bbox": [
+    -115.180239,
+    36.182312,
+    -115.180239,
+    36.182312
+],
   "geometry": {"coordinates":[-115.180239,36.182312],"type":"Point"}
 }

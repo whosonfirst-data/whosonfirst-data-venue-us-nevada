@@ -2,13 +2,14 @@
   "id": 219921823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.667152,39.675359,-119.667152,39.675359",
     "geom:latitude":39.675359,
     "geom:longitude":-119.667152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 Eliza Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219921823,
-    "wof:lastmodified":1449072651,
+    "wof:lastmodified":1466705867,
     "wof:name":"Construction Services Sealing",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.667152,39.675359,-119.667152,39.675359],
+  "bbox": [
+    -119.667152,
+    39.675359,
+    -119.667152,
+    39.675359
+],
   "geometry": {"coordinates":[-119.667152,39.675359],"type":"Point"}
 }

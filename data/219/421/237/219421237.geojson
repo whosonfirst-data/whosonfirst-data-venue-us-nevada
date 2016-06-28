@@ -2,13 +2,14 @@
   "id": 219421237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19137,36.080927,-115.19137,36.080927",
     "geom:latitude":36.080927,
     "geom:longitude":-115.19137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Ponderosa Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219421237,
-    "wof:lastmodified":1449072621,
+    "wof:lastmodified":1466703743,
     "wof:name":"Burns Angell Construction Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.19137,36.080927,-115.19137,36.080927],
-  "geometry": {"coordinates":[-115.19137,36.080927],"type":"Point"}
+  "bbox": [
+    -115.19137,
+    36.080927,
+    -115.19137,
+    36.080927
+],
+  "geometry": {"coordinates":[-115.19137000000001,36.080927],"type":"Point"}
 }

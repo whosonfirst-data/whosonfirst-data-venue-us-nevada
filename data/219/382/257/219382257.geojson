@@ -2,13 +2,14 @@
   "id": 219382257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120136,36.120128,-115.120136,36.120128",
     "geom:latitude":36.120128,
     "geom:longitude":-115.120136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 Mohigan Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":219382257,
-    "wof:lastmodified":1449071340,
+    "wof:lastmodified":1466703535,
     "wof:name":"Elderly Aristocrat Inc",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-115.120136,36.120128,-115.120136,36.120128],
+  "bbox": [
+    -115.120136,
+    36.120128,
+    -115.120136,
+    36.120128
+],
   "geometry": {"coordinates":[-115.120136,36.120128],"type":"Point"}
 }

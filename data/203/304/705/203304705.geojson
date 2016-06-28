@@ -2,13 +2,14 @@
   "id": 203304705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769722,39.523136,-119.769722,39.523136",
     "geom:latitude":39.523136,
     "geom:longitude":-119.769722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203304705,
-    "wof:lastmodified":1449026376,
+    "wof:lastmodified":1466702888,
     "wof:name":"Preferred Auto Care",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.769722,39.523136,-119.769722,39.523136],
+  "bbox": [
+    -119.769722,
+    39.523136,
+    -119.769722,
+    39.523136
+],
   "geometry": {"coordinates":[-119.769722,39.523136],"type":"Point"}
 }

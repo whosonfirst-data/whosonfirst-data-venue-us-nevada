@@ -2,13 +2,14 @@
   "id": 236753475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.298162,36.210651,-115.298162,36.210651",
     "geom:latitude":36.210651,
     "geom:longitude":-115.298162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 Sun City Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236753475,
-    "wof:lastmodified":1449001970,
+    "wof:lastmodified":1466706678,
     "wof:name":"Precision Pain Relief",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-115.298162,36.210651,-115.298162,36.210651],
+  "bbox": [
+    -115.298162,
+    36.210651,
+    -115.298162,
+    36.210651
+],
   "geometry": {"coordinates":[-115.298162,36.210651],"type":"Point"}
 }

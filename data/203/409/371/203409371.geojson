@@ -2,13 +2,14 @@
   "id": 203409371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.738489,40.968885,-117.738489,40.968885",
     "geom:latitude":40.968885,
     "geom:longitude":-117.738489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 W 4th St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203409371,
-    "wof:lastmodified":1449025702,
+    "wof:lastmodified":1466703358,
     "wof:name":"Fourth Street Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "telegraph"
     ]
 },
-  "bbox": [-117.738489,40.968885,-117.738489,40.968885],
+  "bbox": [
+    -117.738489,
+    40.968885,
+    -117.738489,
+    40.968885
+],
   "geometry": {"coordinates":[-117.738489,40.968885],"type":"Point"}
 }

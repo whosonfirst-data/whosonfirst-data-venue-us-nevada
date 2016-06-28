@@ -2,13 +2,14 @@
   "id": 219836645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763455,40.832725,-115.763455,40.832725",
     "geom:latitude":40.832725,
     "geom:longitude":-115.763455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219836645,
-    "wof:lastmodified":1449072715,
+    "wof:lastmodified":1466705154,
     "wof:name":"Hanger",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.763455,40.832725,-115.763455,40.832725],
-  "geometry": {"coordinates":[-115.763455,40.832725],"type":"Point"}
+  "bbox": [
+    -115.763455,
+    40.832725,
+    -115.763455,
+    40.832725
+],
+  "geometry": {"coordinates":[-115.76345499999999,40.832725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354382985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10146,36.115106,-115.10146,36.115106",
     "geom:latitude":36.115106,
     "geom:longitude":-115.10146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 E Flamingo Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354382985,
-    "wof:lastmodified":1449066362,
+    "wof:lastmodified":1466706209,
     "wof:name":"Gateway Funding Diversified Mortgage",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.10146,36.115106,-115.10146,36.115106],
+  "bbox": [
+    -115.10146,
+    36.115106,
+    -115.10146,
+    36.115106
+],
   "geometry": {"coordinates":[-115.10146,36.115106],"type":"Point"}
 }

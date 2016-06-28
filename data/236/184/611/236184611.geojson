@@ -2,13 +2,14 @@
   "id": 236184611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766038,39.1685,-119.766038,39.1685",
     "geom:latitude":39.1685,
     "geom:longitude":-119.766038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 N Plaza St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236184611,
-    "wof:lastmodified":1449002093,
+    "wof:lastmodified":1466703271,
     "wof:name":"Nevada Property Mortgage LLC",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-119.766038,39.1685,-119.766038,39.1685],
-  "geometry": {"coordinates":[-119.766038,39.1685],"type":"Point"}
+  "bbox": [
+    -119.766038,
+    39.1685,
+    -119.766038,
+    39.1685
+],
+  "geometry": {"coordinates":[-119.76603799999999,39.1685],"type":"Point"}
 }

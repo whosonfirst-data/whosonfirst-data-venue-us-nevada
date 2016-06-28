@@ -2,13 +2,14 @@
   "id": 370319753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.783864,39.518855,-119.783864,39.518855",
     "geom:latitude":39.518855,
     "geom:longitude":-119.783864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2187C Market St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370319753,
-    "wof:lastmodified":1449030465,
+    "wof:lastmodified":1466704741,
     "wof:name":"Street Rider of Reno",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.783864,39.518855,-119.783864,39.518855],
-  "geometry": {"coordinates":[-119.783864,39.518855],"type":"Point"}
+  "bbox": [
+    -119.783864,
+    39.518855,
+    -119.783864,
+    39.518855
+],
+  "geometry": {"coordinates":[-119.78386399999999,39.518855],"type":"Point"}
 }

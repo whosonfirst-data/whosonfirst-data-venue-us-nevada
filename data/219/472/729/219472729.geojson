@@ -2,13 +2,14 @@
   "id": 219472729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218618,36.144432,-115.218618,36.144432",
     "geom:latitude":36.144432,
     "geom:longitude":-115.218618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219472729,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466704043,
     "wof:name":"All Nations Immigration Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "immigration"
     ]
 },
-  "bbox": [-115.218618,36.144432,-115.218618,36.144432],
-  "geometry": {"coordinates":[-115.218618,36.144432],"type":"Point"}
+  "bbox": [
+    -115.218618,
+    36.144432,
+    -115.218618,
+    36.144432
+],
+  "geometry": {"coordinates":[-115.21861800000001,36.144432],"type":"Point"}
 }

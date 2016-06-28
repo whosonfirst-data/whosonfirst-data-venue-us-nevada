@@ -2,13 +2,14 @@
   "id": 236423917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148428,36.141487,-115.148428,36.141487",
     "geom:latitude":36.141487,
     "geom:longitude":-115.148428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Van Patten St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236423917,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466705471,
     "wof:name":"Class A Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.148428,36.141487,-115.148428,36.141487],
+  "bbox": [
+    -115.148428,
+    36.141487,
+    -115.148428,
+    36.141487
+],
   "geometry": {"coordinates":[-115.148428,36.141487],"type":"Point"}
 }

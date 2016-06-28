@@ -2,13 +2,14 @@
   "id": 235974011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792039,39.528427,-119.792039,39.528427",
     "geom:latitude":39.528427,
     "geom:longitude":-119.792039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Giroux St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235974011,
-    "wof:lastmodified":1449008557,
+    "wof:lastmodified":1466704249,
     "wof:name":"Fyso Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-119.792039,39.528427,-119.792039,39.528427],
+  "bbox": [
+    -119.792039,
+    39.528427,
+    -119.792039,
+    39.528427
+],
   "geometry": {"coordinates":[-119.792039,39.528427],"type":"Point"}
 }

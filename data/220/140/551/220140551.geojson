@@ -2,13 +2,14 @@
   "id": 220140551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112069,35.956119,-115.112069,35.956119",
     "geom:latitude":35.956119,
     "geom:longitude":-115.112069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2874 Hartwick Pines Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220140551,
-    "wof:lastmodified":1449074141,
+    "wof:lastmodified":1466702707,
     "wof:name":"Horizon Asset Management LLC",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-115.112069,35.956119,-115.112069,35.956119],
-  "geometry": {"coordinates":[-115.112069,35.956119],"type":"Point"}
+  "bbox": [
+    -115.112069,
+    35.956119,
+    -115.112069,
+    35.956119
+],
+  "geometry": {"coordinates":[-115.11206900000001,35.956119],"type":"Point"}
 }

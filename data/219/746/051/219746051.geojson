@@ -2,13 +2,14 @@
   "id": 219746051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312898,36.079859,-115.312898,36.079859",
     "geom:latitude":36.079859,
     "geom:longitude":-115.312898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10075 Liberty View Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219746051,
-    "wof:lastmodified":1449070352,
+    "wof:lastmodified":1466704734,
     "wof:name":"Las Vegas Home Improvement",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "co"
     ]
 },
-  "bbox": [-115.312898,36.079859,-115.312898,36.079859],
+  "bbox": [
+    -115.312898,
+    36.079859,
+    -115.312898,
+    36.079859
+],
   "geometry": {"coordinates":[-115.312898,36.079859],"type":"Point"}
 }

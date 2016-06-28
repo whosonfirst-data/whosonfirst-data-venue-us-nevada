@@ -2,13 +2,14 @@
   "id": 236073129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791048,39.482628,-119.791048,39.482628",
     "geom:latitude":39.482628,
     "geom:longitude":-119.791048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236073129,
-    "wof:lastmodified":1449002018,
+    "wof:lastmodified":1466704049,
     "wof:name":"Social Workers Board",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.791048,39.482628,-119.791048,39.482628],
+  "bbox": [
+    -119.791048,
+    39.482628,
+    -119.791048,
+    39.482628
+],
   "geometry": {"coordinates":[-119.791048,39.482628],"type":"Point"}
 }

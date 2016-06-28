@@ -2,13 +2,14 @@
   "id": 219931051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764575,39.179247,-119.764575,39.179247",
     "geom:latitude":39.179247,
     "geom:longitude":-119.764575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 E Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219931051,
-    "wof:lastmodified":1449073604,
+    "wof:lastmodified":1466705808,
     "wof:name":"Genghis Khan Kitchen",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.764575,39.179247,-119.764575,39.179247],
-  "geometry": {"coordinates":[-119.764575,39.179247],"type":"Point"}
+  "bbox": [
+    -119.764575,
+    39.179247,
+    -119.764575,
+    39.179247
+],
+  "geometry": {"coordinates":[-119.76457499999999,39.179247],"type":"Point"}
 }

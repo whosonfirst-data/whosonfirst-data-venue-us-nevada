@@ -2,13 +2,14 @@
   "id": 370318813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785828,39.505878,-119.785828,39.505878",
     "geom:latitude":39.505878,
     "geom:longitude":-119.785828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370318813,
-    "wof:lastmodified":1449029844,
+    "wof:lastmodified":1466704578,
     "wof:name":"A & W Restaurants",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "american"
     ]
 },
-  "bbox": [-119.785828,39.505878,-119.785828,39.505878],
+  "bbox": [
+    -119.785828,
+    39.505878,
+    -119.785828,
+    39.505878
+],
   "geometry": {"coordinates":[-119.785828,39.505878],"type":"Point"}
 }

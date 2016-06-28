@@ -2,13 +2,14 @@
   "id": 236330441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.832508,39.525177,-119.832508,39.525177",
     "geom:latitude":39.525177,
     "geom:longitude":-119.832508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236330441,
-    "wof:lastmodified":1449003264,
+    "wof:lastmodified":1466704788,
     "wof:name":"Absolutely Automotive",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.832508,39.525177,-119.832508,39.525177],
+  "bbox": [
+    -119.832508,
+    39.525177,
+    -119.832508,
+    39.525177
+],
   "geometry": {"coordinates":[-119.832508,39.525177],"type":"Point"}
 }

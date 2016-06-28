@@ -2,13 +2,14 @@
   "id": 203302049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.842186,39.520637,-119.842186,39.520637",
     "geom:latitude":39.520637,
     "geom:longitude":-119.842186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Dickerson Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203302049,
-    "wof:lastmodified":1449025553,
+    "wof:lastmodified":1466702832,
     "wof:name":"Performance Lawn & Landscape",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-119.842186,39.520637,-119.842186,39.520637],
+  "bbox": [
+    -119.842186,
+    39.520637,
+    -119.842186,
+    39.520637
+],
   "geometry": {"coordinates":[-119.842186,39.520637],"type":"Point"}
 }

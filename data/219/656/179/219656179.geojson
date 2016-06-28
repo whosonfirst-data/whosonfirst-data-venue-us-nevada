@@ -2,13 +2,14 @@
   "id": 219656179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144846,36.165076,-115.144846,36.165076",
     "geom:latitude":36.165076,
     "geom:longitude":-115.144846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Clark Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219656179,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466703928,
     "wof:name":"Speech Lngage Intervention Svc",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.144846,36.165076,-115.144846,36.165076],
+  "bbox": [
+    -115.144846,
+    36.165076,
+    -115.144846,
+    36.165076
+],
   "geometry": {"coordinates":[-115.144846,36.165076],"type":"Point"}
 }

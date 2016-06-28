@@ -2,13 +2,14 @@
   "id": 219213911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.47945,40.174045,-118.47945,40.174045",
     "geom:latitude":40.174045,
     "geom:longitude":-118.47945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Bowean St",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219213911,
-    "wof:lastmodified":1449070415,
+    "wof:lastmodified":1466702201,
     "wof:name":"Sunwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-118.47945,40.174045,-118.47945,40.174045],
+  "bbox": [
+    -118.47945,
+    40.174045,
+    -118.47945,
+    40.174045
+],
   "geometry": {"coordinates":[-118.47945,40.174045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236414257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776262,39.545552,-119.776262,39.545552",
     "geom:latitude":39.545552,
     "geom:longitude":-119.776262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Oddie Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236414257,
-    "wof:lastmodified":1449003143,
+    "wof:lastmodified":1466705284,
     "wof:name":"Optimumn Insurance Svc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.776262,39.545552,-119.776262,39.545552],
+  "bbox": [
+    -119.776262,
+    39.545552,
+    -119.776262,
+    39.545552
+],
   "geometry": {"coordinates":[-119.776262,39.545552],"type":"Point"}
 }

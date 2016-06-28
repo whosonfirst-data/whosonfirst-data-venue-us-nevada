@@ -2,13 +2,14 @@
   "id": 219223389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.871951,39.623617,-119.871951,39.623617",
     "geom:latitude":39.623617,
     "geom:longitude":-119.871951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9294 Lone Wolf Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219223389,
-    "wof:lastmodified":1449070628,
+    "wof:lastmodified":1466702260,
     "wof:name":"Villas At Sky Vista",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.871951,39.623617,-119.871951,39.623617],
+  "bbox": [
+    -119.871951,
+    39.623617,
+    -119.871951,
+    39.623617
+],
   "geometry": {"coordinates":[-119.871951,39.623617],"type":"Point"}
 }

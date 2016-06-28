@@ -2,13 +2,14 @@
   "id": 219662087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265238,36.230169,-115.265238,36.230169",
     "geom:latitude":36.230169,
     "geom:longitude":-115.265238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Conough Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219662087,
-    "wof:lastmodified":1449072772,
+    "wof:lastmodified":1466704039,
     "wof:name":"Willie Wells Handyman",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.265238,36.230169,-115.265238,36.230169],
+  "bbox": [
+    -115.265238,
+    36.230169,
+    -115.265238,
+    36.230169
+],
   "geometry": {"coordinates":[-115.265238,36.230169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219346219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313495,36.218412,-115.313495,36.218412",
     "geom:latitude":36.218412,
     "geom:longitude":-115.313495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9950 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219346219,
-    "wof:lastmodified":1449070363,
+    "wof:lastmodified":1466703372,
     "wof:name":"Rawlings Olson & Cannon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.313495,36.218412,-115.313495,36.218412],
+  "bbox": [
+    -115.313495,
+    36.218412,
+    -115.313495,
+    36.218412
+],
   "geometry": {"coordinates":[-115.313495,36.218412],"type":"Point"}
 }

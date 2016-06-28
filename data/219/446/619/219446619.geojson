@@ -2,13 +2,14 @@
   "id": 219446619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.792034,40.844486,-115.792034,40.844486",
     "geom:latitude":40.844486,
     "geom:longitude":-115.792034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Poplar Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219446619,
-    "wof:lastmodified":1449073616,
+    "wof:lastmodified":1466703859,
     "wof:name":"Canyon Air Karaoke",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-115.792034,40.844486,-115.792034,40.844486],
+  "bbox": [
+    -115.792034,
+    40.844486,
+    -115.792034,
+    40.844486
+],
   "geometry": {"coordinates":[-115.792034,40.844486],"type":"Point"}
 }

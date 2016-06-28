@@ -2,13 +2,14 @@
   "id": 354324833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218002,36.0891,-115.218002,36.0891",
     "geom:latitude":36.0891,
     "geom:longitude":-115.218002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6050 S Valley View Blvd Ste B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354324833,
-    "wof:lastmodified":1449066935,
+    "wof:lastmodified":1466706020,
     "wof:name":"Fourth Phase",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lighting"
     ]
 },
-  "bbox": [-115.218002,36.0891,-115.218002,36.0891],
+  "bbox": [
+    -115.218002,
+    36.0891,
+    -115.218002,
+    36.0891
+],
   "geometry": {"coordinates":[-115.218002,36.0891],"type":"Point"}
 }

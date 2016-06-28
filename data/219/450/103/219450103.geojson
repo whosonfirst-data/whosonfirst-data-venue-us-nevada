@@ -2,13 +2,14 @@
   "id": 219450103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.824229,39.403026,-119.824229,39.403026",
     "geom:latitude":39.403026,
     "geom:longitude":-119.824229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5575 Flowering Sage Trl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219450103,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466703876,
     "wof:name":"Yours Again Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.824229,39.403026,-119.824229,39.403026],
+  "bbox": [
+    -119.824229,
+    39.403026,
+    -119.824229,
+    39.403026
+],
   "geometry": {"coordinates":[-119.824229,39.403026],"type":"Point"}
 }

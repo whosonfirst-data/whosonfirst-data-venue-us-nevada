@@ -2,13 +2,14 @@
   "id": 354056447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084652,36.034575,-115.084652,36.034575",
     "geom:latitude":36.034575,
     "geom:longitude":-115.084652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N Green Valley Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354056447,
-    "wof:lastmodified":1449066386,
+    "wof:lastmodified":1466702943,
     "wof:name":"Perry Jesse E MD Facs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"
     ]
 },
-  "bbox": [-115.084652,36.034575,-115.084652,36.034575],
-  "geometry": {"coordinates":[-115.084652,36.034575],"type":"Point"}
+  "bbox": [
+    -115.084652,
+    36.034575,
+    -115.084652,
+    36.034575
+],
+  "geometry": {"coordinates":[-115.08465200000001,36.034575],"type":"Point"}
 }

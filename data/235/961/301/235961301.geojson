@@ -2,13 +2,14 @@
   "id": 235961301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.029361,36.038063,-115.029361,36.038063",
     "geom:latitude":36.038063,
     "geom:longitude":-115.029361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 N Gibson Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235961301,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466703579,
     "wof:name":"Rolling Thunder Software",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.029361,36.038063,-115.029361,36.038063],
-  "geometry": {"coordinates":[-115.029361,36.038063],"type":"Point"}
+  "bbox": [
+    -115.029361,
+    36.038063,
+    -115.029361,
+    36.038063
+],
+  "geometry": {"coordinates":[-115.02936099999999,36.038063],"type":"Point"}
 }

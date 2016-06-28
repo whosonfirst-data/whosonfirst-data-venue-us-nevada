@@ -2,13 +2,14 @@
   "id": 220007873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.069679,36.236881,-116.069679,36.236881",
     "geom:latitude":36.236881,
     "geom:longitude":-116.069679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Rand Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220007873,
-    "wof:lastmodified":1449074720,
+    "wof:lastmodified":1466701514,
     "wof:name":"Ampm Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.069679,36.236881,-116.069679,36.236881],
-  "geometry": {"coordinates":[-116.069679,36.236881],"type":"Point"}
+  "bbox": [
+    -116.069679,
+    36.236881,
+    -116.069679,
+    36.236881
+],
+  "geometry": {"coordinates":[-116.06967899999999,36.236881],"type":"Point"}
 }

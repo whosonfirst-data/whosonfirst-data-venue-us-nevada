@@ -2,13 +2,14 @@
   "id": 354102157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208,36.151199,-115.208,36.151199",
     "geom:latitude":36.151199,
     "geom:longitude":-115.208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354102157,
-    "wof:lastmodified":1449067548,
+    "wof:lastmodified":1466704162,
     "wof:name":"O'hara's T & S Jewelry",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-115.208,36.151199,-115.208,36.151199],
+  "bbox": [
+    -115.208,
+    36.151199,
+    -115.208,
+    36.151199
+],
   "geometry": {"coordinates":[-115.208,36.151199],"type":"Point"}
 }

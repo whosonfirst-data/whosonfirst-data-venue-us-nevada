@@ -2,13 +2,14 @@
   "id": 252728083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.293352,36.195268,-115.293352,36.195268",
     "geom:latitude":36.195268,
     "geom:longitude":-115.293352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Glenview Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252728083,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466701891,
     "wof:name":"Kluth & Kluth Investments LTD",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.293352,36.195268,-115.293352,36.195268],
+  "bbox": [
+    -115.293352,
+    36.195268,
+    -115.293352,
+    36.195268
+],
   "geometry": {"coordinates":[-115.293352,36.195268],"type":"Point"}
 }

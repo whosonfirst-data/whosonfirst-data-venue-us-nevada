@@ -2,13 +2,14 @@
   "id": 354255763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171026,36.122677,-115.171026,36.122677",
     "geom:latitude":36.122677,
     "geom:longitude":-115.171026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Palazzo 3325 Las Vegas Blvd. South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354255763,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466705405,
     "wof:name":"Sweet Surrender",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.171026,36.122677,-115.171026,36.122677],
+  "bbox": [
+    -115.171026,
+    36.122677,
+    -115.171026,
+    36.122677
+],
   "geometry": {"coordinates":[-115.171026,36.122677],"type":"Point"}
 }

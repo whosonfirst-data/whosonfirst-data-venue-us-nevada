@@ -2,13 +2,14 @@
   "id": 354176665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148476,36.156377,-115.148476,36.156377",
     "geom:latitude":36.156377,
     "geom:longitude":-115.148476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354176665,
-    "wof:lastmodified":1449067085,
+    "wof:lastmodified":1466704891,
     "wof:name":"Graceland Wedding Chapel",
     "wof:parent_id":85892665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "event"
     ]
 },
-  "bbox": [-115.148476,36.156377,-115.148476,36.156377],
+  "bbox": [
+    -115.148476,
+    36.156377,
+    -115.148476,
+    36.156377
+],
   "geometry": {"coordinates":[-115.148476,36.156377],"type":"Point"}
 }

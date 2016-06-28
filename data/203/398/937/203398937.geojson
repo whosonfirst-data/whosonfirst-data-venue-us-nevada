@@ -2,13 +2,14 @@
   "id": 203398937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.795124,39.534839,-119.795124,39.534839",
     "geom:latitude":39.534839,
     "geom:longitude":-119.795124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Montello St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203398937,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466703326,
     "wof:name":"A-1 Body Shop",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-119.795124,39.534839,-119.795124,39.534839],
+  "bbox": [
+    -119.795124,
+    39.534839,
+    -119.795124,
+    39.534839
+],
   "geometry": {"coordinates":[-119.795124,39.534839],"type":"Point"}
 }

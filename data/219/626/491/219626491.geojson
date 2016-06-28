@@ -2,13 +2,14 @@
   "id": 219626491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.73646,40.974623,-117.73646,40.974623",
     "geom:latitude":40.974623,
     "geom:longitude":-117.73646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Bridge St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219626491,
-    "wof:lastmodified":1449073916,
+    "wof:lastmodified":1466703401,
     "wof:name":"Wild Side Slot Car Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "course"
     ]
 },
-  "bbox": [-117.73646,40.974623,-117.73646,40.974623],
-  "geometry": {"coordinates":[-117.73646,40.974623],"type":"Point"}
+  "bbox": [
+    -117.73646,
+    40.974623,
+    -117.73646,
+    40.974623
+],
+  "geometry": {"coordinates":[-117.73645999999999,40.974623],"type":"Point"}
 }

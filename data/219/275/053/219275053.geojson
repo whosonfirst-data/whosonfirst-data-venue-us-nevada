@@ -2,13 +2,14 @@
   "id": 219275053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782661,39.505811,-119.782661,39.505811",
     "geom:latitude":39.505811,
     "geom:longitude":-119.782661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219275053,
-    "wof:lastmodified":1449071531,
+    "wof:lastmodified":1466702778,
     "wof:name":"Entertainment Designs and Elec",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.782661,39.505811,-119.782661,39.505811],
+  "bbox": [
+    -119.782661,
+    39.505811,
+    -119.782661,
+    39.505811
+],
   "geometry": {"coordinates":[-119.782661,39.505811],"type":"Point"}
 }

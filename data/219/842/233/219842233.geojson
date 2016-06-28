@@ -2,13 +2,14 @@
   "id": 219842233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733028,38.935235,-119.733028,38.935235",
     "geom:latitude":38.935235,
     "geom:longitude":-119.733028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Elges Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219842233,
-    "wof:lastmodified":1449070648,
+    "wof:lastmodified":1466705452,
     "wof:name":"7838537",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.733028,38.935235,-119.733028,38.935235],
+  "bbox": [
+    -119.733028,
+    38.935235,
+    -119.733028,
+    38.935235
+],
   "geometry": {"coordinates":[-119.733028,38.935235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236176583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140452,36.088645,-115.140452,36.088645",
     "geom:latitude":36.088645,
     "geom:longitude":-115.140452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 Sir Patrick Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236176583,
-    "wof:lastmodified":1449003881,
+    "wof:lastmodified":1466703117,
     "wof:name":"Burgess Lb Inc",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.140452,36.088645,-115.140452,36.088645],
+  "bbox": [
+    -115.140452,
+    36.088645,
+    -115.140452,
+    36.088645
+],
   "geometry": {"coordinates":[-115.140452,36.088645],"type":"Point"}
 }

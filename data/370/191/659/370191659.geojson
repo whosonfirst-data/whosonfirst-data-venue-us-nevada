@@ -2,13 +2,14 @@
   "id": 370191659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20658,36.290208,-115.20658,36.290208",
     "geom:latitude":36.290208,
     "geom:longitude":-115.20658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7170 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370191659,
-    "wof:lastmodified":1449031131,
+    "wof:lastmodified":1466702309,
     "wof:name":"Nevada Department of Motor Vehicles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.20658,36.290208,-115.20658,36.290208],
+  "bbox": [
+    -115.20658,
+    36.290208,
+    -115.20658,
+    36.290208
+],
   "geometry": {"coordinates":[-115.20658,36.290208],"type":"Point"}
 }

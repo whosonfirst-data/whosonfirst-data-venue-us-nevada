@@ -2,13 +2,14 @@
   "id": 354270889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.058121,36.166709,-115.058121,36.166709",
     "geom:latitude":36.166709,
     "geom:longitude":-115.058121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 Stewart Avenue Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354270889,
-    "wof:lastmodified":1449066238,
+    "wof:lastmodified":1466705513,
     "wof:name":"Diamond Pointe Apts Leasing Office",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.058121,36.166709,-115.058121,36.166709],
+  "bbox": [
+    -115.058121,
+    36.166709,
+    -115.058121,
+    36.166709
+],
   "geometry": {"coordinates":[-115.058121,36.166709],"type":"Point"}
 }

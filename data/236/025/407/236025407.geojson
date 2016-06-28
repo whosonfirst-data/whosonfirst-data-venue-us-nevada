@@ -2,13 +2,14 @@
   "id": 236025407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312299,36.202384,-115.312299,36.202384",
     "geom:latitude":36.202384,
     "geom:longitude":-115.312299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9812 Mountain Grove Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236025407,
-    "wof:lastmodified":1449004592,
+    "wof:lastmodified":1466703883,
     "wof:name":"Advanced Machine Tool LLC",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.312299,36.202384,-115.312299,36.202384],
+  "bbox": [
+    -115.312299,
+    36.202384,
+    -115.312299,
+    36.202384
+],
   "geometry": {"coordinates":[-115.312299,36.202384],"type":"Point"}
 }

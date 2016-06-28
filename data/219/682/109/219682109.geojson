@@ -2,13 +2,14 @@
   "id": 219682109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.572646,40.696891,-115.572646,40.696891",
     "geom:latitude":40.696891,
     "geom:longitude":-115.572646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Cripple Creek Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219682109,
-    "wof:lastmodified":1449071004,
+    "wof:lastmodified":1466704336,
     "wof:name":"Christinas Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.572646,40.696891,-115.572646,40.696891],
-  "geometry": {"coordinates":[-115.572646,40.696891],"type":"Point"}
+  "bbox": [
+    -115.572646,
+    40.696891,
+    -115.572646,
+    40.696891
+],
+  "geometry": {"coordinates":[-115.57264600000001,40.696891],"type":"Point"}
 }

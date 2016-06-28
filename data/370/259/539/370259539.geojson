@@ -2,13 +2,14 @@
   "id": 370259539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27918,36.102454,-115.27918,36.102454",
     "geom:latitude":36.102454,
     "geom:longitude":-115.27918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4765 S Durango Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370259539,
-    "wof:lastmodified":1449029864,
+    "wof:lastmodified":1466703916,
     "wof:name":"Jackson Physical Therapy & Sports Medicine",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.27918,36.102454,-115.27918,36.102454],
+  "bbox": [
+    -115.27918,
+    36.102454,
+    -115.27918,
+    36.102454
+],
   "geometry": {"coordinates":[-115.27918,36.102454],"type":"Point"}
 }

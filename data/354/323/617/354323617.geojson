@@ -2,13 +2,14 @@
   "id": 354323617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242801,36.087439,-115.242801,36.087439",
     "geom:latitude":36.087439,
     "geom:longitude":-115.242801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5597 S Rainbow Blvd Ste 210",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354323617,
-    "wof:lastmodified":1449066070,
+    "wof:lastmodified":1466705866,
     "wof:name":"Living Dead Tattoo",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.242801,36.087439,-115.242801,36.087439],
+  "bbox": [
+    -115.242801,
+    36.087439,
+    -115.242801,
+    36.087439
+],
   "geometry": {"coordinates":[-115.242801,36.087439],"type":"Point"}
 }

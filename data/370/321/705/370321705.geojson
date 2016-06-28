@@ -2,13 +2,14 @@
   "id": 370321705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822103,39.528417,-119.822103,39.528417",
     "geom:latitude":39.528417,
     "geom:longitude":-119.822103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":370321705,
-    "wof:lastmodified":1449029147,
+    "wof:lastmodified":1466704590,
     "wof:name":"Courtyard Inn",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.822103,39.528417,-119.822103,39.528417],
+  "bbox": [
+    -119.822103,
+    39.528417,
+    -119.822103,
+    39.528417
+],
   "geometry": {"coordinates":[-119.822103,39.528417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354142127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198793,36.114114,-115.198793,36.114114",
     "geom:latitude":36.114114,
     "geom:longitude":-115.198793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4381 W. Flamingo Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354142127,
-    "wof:lastmodified":1449067296,
+    "wof:lastmodified":1466704558,
     "wof:name":"Palms Place Condominiums",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.198793,36.114114,-115.198793,36.114114],
-  "geometry": {"coordinates":[-115.198793,36.114114],"type":"Point"}
+  "bbox": [
+    -115.198793,
+    36.114114,
+    -115.198793,
+    36.114114
+],
+  "geometry": {"coordinates":[-115.19879299999999,36.114114],"type":"Point"}
 }

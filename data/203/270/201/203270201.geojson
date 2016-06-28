@@ -2,13 +2,14 @@
   "id": 203270201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196997,36.06446,-115.196997,36.06446",
     "geom:latitude":36.06446,
     "geom:longitude":-115.196997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4175 W Maule Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203270201,
-    "wof:lastmodified":1449025286,
+    "wof:lastmodified":1466702629,
     "wof:name":"Alco Landscape Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.196997,36.06446,-115.196997,36.06446],
+  "bbox": [
+    -115.196997,
+    36.06446,
+    -115.196997,
+    36.06446
+],
   "geometry": {"coordinates":[-115.196997,36.06446],"type":"Point"}
 }

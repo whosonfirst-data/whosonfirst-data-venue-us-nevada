@@ -2,13 +2,14 @@
   "id": 236780105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.976765,36.157183,-115.976765,36.157183",
     "geom:latitude":36.157183,
     "geom:longitude":-115.976765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Bruce St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236780105,
-    "wof:lastmodified":1449004247,
+    "wof:lastmodified":1466706608,
     "wof:name":"Canyon Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.976765,36.157183,-115.976765,36.157183],
+  "bbox": [
+    -115.976765,
+    36.157183,
+    -115.976765,
+    36.157183
+],
   "geometry": {"coordinates":[-115.976765,36.157183],"type":"Point"}
 }

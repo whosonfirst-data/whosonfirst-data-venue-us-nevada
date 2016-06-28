@@ -2,13 +2,14 @@
   "id": 203408393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184977,36.024639,-115.184977,36.024639",
     "geom:latitude":36.024639,
     "geom:longitude":-115.184977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 W Agate Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203408393,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466703353,
     "wof:name":"Sparky's Welding",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.184977,36.024639,-115.184977,36.024639],
+  "bbox": [
+    -115.184977,
+    36.024639,
+    -115.184977,
+    36.024639
+],
   "geometry": {"coordinates":[-115.184977,36.024639],"type":"Point"}
 }

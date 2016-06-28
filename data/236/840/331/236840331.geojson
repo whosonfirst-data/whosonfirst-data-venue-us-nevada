@@ -2,13 +2,14 @@
   "id": 236840331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.844718,39.371555,-119.844718,39.371555",
     "geom:latitude":39.371555,
     "geom:longitude":-119.844718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16912 Mount Rose Hwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236840331,
-    "wof:lastmodified":1449004350,
+    "wof:lastmodified":1466706706,
     "wof:name":"Kudrna Nevada LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.844718,39.371555,-119.844718,39.371555],
+  "bbox": [
+    -119.844718,
+    39.371555,
+    -119.844718,
+    39.371555
+],
   "geometry": {"coordinates":[-119.844718,39.371555],"type":"Point"}
 }

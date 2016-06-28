@@ -2,13 +2,14 @@
   "id": 236393431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.315628,36.18823,-115.315628,36.18823",
     "geom:latitude":36.18823,
     "geom:longitude":-115.315628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10190 Covington Cross Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236393431,
-    "wof:lastmodified":1449002529,
+    "wof:lastmodified":1466705310,
     "wof:name":"Professional Travel Service",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "wholesaler"
     ]
 },
-  "bbox": [-115.315628,36.18823,-115.315628,36.18823],
+  "bbox": [
+    -115.315628,
+    36.18823,
+    -115.315628,
+    36.18823
+],
   "geometry": {"coordinates":[-115.315628,36.18823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236303513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171475,36.179985,-115.171475,36.179985",
     "geom:latitude":36.179985,
     "geom:longitude":-115.171475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Sleepy Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236303513,
-    "wof:lastmodified":1449001702,
+    "wof:lastmodified":1466704847,
     "wof:name":"Beckford Veda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "care"
     ]
 },
-  "bbox": [-115.171475,36.179985,-115.171475,36.179985],
+  "bbox": [
+    -115.171475,
+    36.179985,
+    -115.171475,
+    36.179985
+],
   "geometry": {"coordinates":[-115.171475,36.179985],"type":"Point"}
 }

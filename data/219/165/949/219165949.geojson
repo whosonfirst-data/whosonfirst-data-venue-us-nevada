@@ -2,13 +2,14 @@
   "id": 219165949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75141,39.440911,-119.75141,39.440911",
     "geom:latitude":39.440911,
     "geom:longitude":-119.75141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S Meadows Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219165949,
-    "wof:lastmodified":1449073923,
+    "wof:lastmodified":1466701663,
     "wof:name":"Amy Metzker",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-119.75141,39.440911,-119.75141,39.440911],
-  "geometry": {"coordinates":[-119.75141,39.440911],"type":"Point"}
+  "bbox": [
+    -119.75141,
+    39.440911,
+    -119.75141,
+    39.440911
+],
+  "geometry": {"coordinates":[-119.75141000000001,39.440911],"type":"Point"}
 }

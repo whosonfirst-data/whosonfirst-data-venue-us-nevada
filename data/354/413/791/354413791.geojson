@@ -2,13 +2,14 @@
   "id": 354413791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141234,36.172488,-115.141234,36.172488",
     "geom:latitude":36.172488,
     "geom:longitude":-115.141234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 252",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354413791,
-    "wof:lastmodified":1449066195,
+    "wof:lastmodified":1466706339,
     "wof:name":"Clark County School District Spring Mountain Junior Senior Hs",
     "wof:parent_id":85892641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.141234,36.172488,-115.141234,36.172488],
+  "bbox": [
+    -115.141234,
+    36.172488,
+    -115.141234,
+    36.172488
+],
   "geometry": {"coordinates":[-115.141234,36.172488],"type":"Point"}
 }

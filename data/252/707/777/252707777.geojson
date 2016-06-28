@@ -2,13 +2,14 @@
   "id": 252707777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784425,38.963302,-119.784425,38.963302",
     "geom:latitude":38.963302,
     "geom:longitude":-119.784425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1762 Ironwood Dr",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252707777,
-    "wof:lastmodified":1449006352,
+    "wof:lastmodified":1466701471,
     "wof:name":"Abraham Noble Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-119.784425,38.963302,-119.784425,38.963302],
+  "bbox": [
+    -119.784425,
+    38.963302,
+    -119.784425,
+    38.963302
+],
   "geometry": {"coordinates":[-119.784425,38.963302],"type":"Point"}
 }

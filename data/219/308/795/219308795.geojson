@@ -2,13 +2,14 @@
   "id": 219308795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112556,36.134259,-115.112556,36.134259",
     "geom:latitude":36.134259,
     "geom:longitude":-115.112556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 Garnet Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219308795,
-    "wof:lastmodified":1449074027,
+    "wof:lastmodified":1466703168,
     "wof:name":"Shenn Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "establishment"
     ]
 },
-  "bbox": [-115.112556,36.134259,-115.112556,36.134259],
+  "bbox": [
+    -115.112556,
+    36.134259,
+    -115.112556,
+    36.134259
+],
   "geometry": {"coordinates":[-115.112556,36.134259],"type":"Point"}
 }

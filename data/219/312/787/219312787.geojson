@@ -2,13 +2,14 @@
   "id": 219312787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278964,36.152945,-115.278964,36.152945",
     "geom:latitude":36.152945,
     "geom:longitude":-115.278964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 Montago Valley Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219312787,
-    "wof:lastmodified":1449072164,
+    "wof:lastmodified":1466703186,
     "wof:name":"Ko Advertising Inc",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.278964,36.152945,-115.278964,36.152945],
+  "bbox": [
+    -115.278964,
+    36.152945,
+    -115.278964,
+    36.152945
+],
   "geometry": {"coordinates":[-115.278964,36.152945],"type":"Point"}
 }

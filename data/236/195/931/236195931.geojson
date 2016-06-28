@@ -2,13 +2,14 @@
   "id": 236195931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784098,39.078627,-119.784098,39.078627",
     "geom:latitude":39.078627,
     "geom:longitude":-119.784098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Coloma Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236195931,
-    "wof:lastmodified":1449003895,
+    "wof:lastmodified":1466703479,
     "wof:name":"ABC A Better Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.784098,39.078627,-119.784098,39.078627],
+  "bbox": [
+    -119.784098,
+    39.078627,
+    -119.784098,
+    39.078627
+],
   "geometry": {"coordinates":[-119.784098,39.078627],"type":"Point"}
 }

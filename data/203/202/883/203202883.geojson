@@ -2,13 +2,14 @@
   "id": 203202883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760825,40.834599,-115.760825,40.834599",
     "geom:latitude":40.834599,
     "geom:longitude":-115.760825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203202883,
-    "wof:lastmodified":1449026615,
+    "wof:lastmodified":1466702096,
     "wof:name":"Elko Lock & Safe",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-115.760825,40.834599,-115.760825,40.834599],
+  "bbox": [
+    -115.760825,
+    40.834599,
+    -115.760825,
+    40.834599
+],
   "geometry": {"coordinates":[-115.760825,40.834599],"type":"Point"}
 }

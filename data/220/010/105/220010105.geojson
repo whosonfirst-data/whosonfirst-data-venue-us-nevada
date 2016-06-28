@@ -2,13 +2,14 @@
   "id": 220010105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137886,36.113659,-115.137886,36.113659",
     "geom:latitude":36.113659,
     "geom:longitude":-115.137886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4137 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220010105,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466701537,
     "wof:name":"Swim 2000",
     "wof:parent_id":85879741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-115.137886,36.113659,-115.137886,36.113659],
-  "geometry": {"coordinates":[-115.137886,36.113659],"type":"Point"}
+  "bbox": [
+    -115.137886,
+    36.113659,
+    -115.137886,
+    36.113659
+],
+  "geometry": {"coordinates":[-115.13788599999999,36.113659],"type":"Point"}
 }

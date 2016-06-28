@@ -2,13 +2,14 @@
   "id": 236025937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775751,39.471115,-119.775751,39.471115",
     "geom:latitude":39.471115,
     "geom:longitude":-119.775751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5635 Riggins Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236025937,
-    "wof:lastmodified":1449004593,
+    "wof:lastmodified":1466703895,
     "wof:name":"Dynamed",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.775751,39.471115,-119.775751,39.471115],
+  "bbox": [
+    -119.775751,
+    39.471115,
+    -119.775751,
+    39.471115
+],
   "geometry": {"coordinates":[-119.775751,39.471115],"type":"Point"}
 }

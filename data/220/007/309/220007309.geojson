@@ -2,13 +2,14 @@
   "id": 220007309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779128,38.861877,-119.779128,38.861877",
     "geom:latitude":38.861877,
     "geom:longitude":-119.779128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 State Hwy 88",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220007309,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466701503,
     "wof:name":"Jan Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.779128,38.861877,-119.779128,38.861877],
+  "bbox": [
+    -119.779128,
+    38.861877,
+    -119.779128,
+    38.861877
+],
   "geometry": {"coordinates":[-119.779128,38.861877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236952089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825538,39.499409,-119.825538,39.499409",
     "geom:latitude":39.499409,
     "geom:longitude":-119.825538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Belford Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236952089,
-    "wof:lastmodified":1449004134,
+    "wof:lastmodified":1466706935,
     "wof:name":"Rope Adventures",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "travel"
     ]
 },
-  "bbox": [-119.825538,39.499409,-119.825538,39.499409],
-  "geometry": {"coordinates":[-119.825538,39.499409],"type":"Point"}
+  "bbox": [
+    -119.825538,
+    39.499409,
+    -119.825538,
+    39.499409
+],
+  "geometry": {"coordinates":[-119.82553799999999,39.499409],"type":"Point"}
 }

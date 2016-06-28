@@ -2,13 +2,14 @@
   "id": 353992295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.993004,36.012857,-114.993004,36.012857",
     "geom:latitude":36.012857,
     "geom:longitude":-114.993004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 W Horizon Ridge Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353992295,
-    "wof:lastmodified":1449019457,
+    "wof:lastmodified":1466701651,
     "wof:name":"Horizon Village Square Car Wash",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.993004,36.012857,-114.993004,36.012857],
+  "bbox": [
+    -114.993004,
+    36.012857,
+    -114.993004,
+    36.012857
+],
   "geometry": {"coordinates":[-114.993004,36.012857],"type":"Point"}
 }

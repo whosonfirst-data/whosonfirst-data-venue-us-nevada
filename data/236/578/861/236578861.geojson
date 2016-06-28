@@ -2,13 +2,14 @@
   "id": 236578861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.890664,39.24845,-114.890664,39.24845",
     "geom:latitude":39.24845,
     "geom:longitude":-114.890664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"768 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236578861,
-    "wof:lastmodified":1449002304,
+    "wof:lastmodified":1466706199,
     "wof:name":"First American Title Co",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-114.890664,39.24845,-114.890664,39.24845],
+  "bbox": [
+    -114.890664,
+    39.24845,
+    -114.890664,
+    39.24845
+],
   "geometry": {"coordinates":[-114.890664,39.24845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236452731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252565,36.192564,-115.252565,36.192564",
     "geom:latitude":36.192564,
     "geom:longitude":-115.252565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1832 Sierra Valley Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236452731,
-    "wof:lastmodified":1449002265,
+    "wof:lastmodified":1466705506,
     "wof:name":"Summerlin Dental Prostetics",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.252565,36.192564,-115.252565,36.192564],
+  "bbox": [
+    -115.252565,
+    36.192564,
+    -115.252565,
+    36.192564
+],
   "geometry": {"coordinates":[-115.252565,36.192564],"type":"Point"}
 }

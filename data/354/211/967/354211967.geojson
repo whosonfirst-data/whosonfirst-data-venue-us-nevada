@@ -2,13 +2,14 @@
   "id": 354211967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198997,36.1703,-115.198997,36.1703",
     "geom:latitude":36.1703,
     "geom:longitude":-115.198997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Meadows Ln Ste 124",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354211967,
-    "wof:lastmodified":1449066334,
+    "wof:lastmodified":1466705217,
     "wof:name":"Gymboree Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [-115.198997,36.1703,-115.198997,36.1703],
-  "geometry": {"coordinates":[-115.198997,36.1703],"type":"Point"}
+  "bbox": [
+    -115.198997,
+    36.1703,
+    -115.198997,
+    36.1703
+],
+  "geometry": {"coordinates":[-115.19899700000001,36.1703],"type":"Point"}
 }

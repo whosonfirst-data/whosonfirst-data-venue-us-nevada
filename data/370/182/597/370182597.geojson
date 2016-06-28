@@ -2,13 +2,14 @@
   "id": 370182597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23262,36.240067,-115.23262,36.240067",
     "geom:latitude":36.240067,
     "geom:longitude":-115.23262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4422 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370182597,
-    "wof:lastmodified":1449031215,
+    "wof:lastmodified":1466702161,
     "wof:name":"Pamper Me Spa & Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.23262,36.240067,-115.23262,36.240067],
+  "bbox": [
+    -115.23262,
+    36.240067,
+    -115.23262,
+    36.240067
+],
   "geometry": {"coordinates":[-115.23262,36.240067],"type":"Point"}
 }

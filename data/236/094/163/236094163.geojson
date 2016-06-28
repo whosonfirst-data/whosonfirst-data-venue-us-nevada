@@ -2,13 +2,14 @@
   "id": 236094163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208306,36.197888,-115.208306,36.197888",
     "geom:latitude":36.197888,
     "geom:longitude":-115.208306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5053 Stacey Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236094163,
-    "wof:lastmodified":1449003775,
+    "wof:lastmodified":1466704174,
     "wof:name":"Pro Video",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-115.208306,36.197888,-115.208306,36.197888],
-  "geometry": {"coordinates":[-115.208306,36.197888],"type":"Point"}
+  "bbox": [
+    -115.208306,
+    36.197888,
+    -115.208306,
+    36.197888
+],
+  "geometry": {"coordinates":[-115.20830599999999,36.197888],"type":"Point"}
 }

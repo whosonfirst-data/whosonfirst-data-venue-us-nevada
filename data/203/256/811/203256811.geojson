@@ -2,13 +2,14 @@
   "id": 203256811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313493,36.075295,-115.313493,36.075295",
     "geom:latitude":36.075295,
     "geom:longitude":-115.313493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6238 Windfresh Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203256811,
-    "wof:lastmodified":1449026386,
+    "wof:lastmodified":1466702550,
     "wof:name":"Vital Communications",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.313493,36.075295,-115.313493,36.075295],
-  "geometry": {"coordinates":[-115.313493,36.075295],"type":"Point"}
+  "bbox": [
+    -115.313493,
+    36.075295,
+    -115.313493,
+    36.075295
+],
+  "geometry": {"coordinates":[-115.31349299999999,36.075295],"type":"Point"}
 }

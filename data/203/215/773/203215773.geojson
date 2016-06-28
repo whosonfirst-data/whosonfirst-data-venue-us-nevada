@@ -2,13 +2,14 @@
   "id": 203215773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.093301,36.029501,-115.093301,36.029501",
     "geom:latitude":36.029501,
     "geom:longitude":-115.093301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Enchantment Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203215773,
-    "wof:lastmodified":1449026508,
+    "wof:lastmodified":1466702198,
     "wof:name":"Lombino Art Group",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.093301,36.029501,-115.093301,36.029501],
+  "bbox": [
+    -115.093301,
+    36.029501,
+    -115.093301,
+    36.029501
+],
   "geometry": {"coordinates":[-115.093301,36.029501],"type":"Point"}
 }

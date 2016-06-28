@@ -2,13 +2,14 @@
   "id": 236132373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.803942,39.464837,-118.803942,39.464837",
     "geom:latitude":39.464837,
     "geom:longitude":-118.803942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2177 Christie Cir",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236132373,
-    "wof:lastmodified":1449003223,
+    "wof:lastmodified":1466702180,
     "wof:name":"Handy Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-118.803942,39.464837,-118.803942,39.464837],
-  "geometry": {"coordinates":[-118.803942,39.464837],"type":"Point"}
+  "bbox": [
+    -118.803942,
+    39.464837,
+    -118.803942,
+    39.464837
+],
+  "geometry": {"coordinates":[-118.80394200000001,39.464837],"type":"Point"}
 }

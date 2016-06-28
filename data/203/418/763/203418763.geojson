@@ -2,13 +2,14 @@
   "id": 203418763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305836,36.130451,-115.305836,36.130451",
     "geom:latitude":36.130451,
     "geom:longitude":-115.305836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9505 Swan Bay Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203418763,
-    "wof:lastmodified":1449026425,
+    "wof:lastmodified":1466703401,
     "wof:name":"Acoustical Ceilings",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hanging"
     ]
 },
-  "bbox": [-115.305836,36.130451,-115.305836,36.130451],
+  "bbox": [
+    -115.305836,
+    36.130451,
+    -115.305836,
+    36.130451
+],
   "geometry": {"coordinates":[-115.305836,36.130451],"type":"Point"}
 }

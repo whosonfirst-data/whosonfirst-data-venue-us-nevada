@@ -2,13 +2,14 @@
   "id": 370227751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242996,36.135601,-115.242996,36.135601",
     "geom:latitude":36.135601,
     "geom:longitude":-115.242996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370227751,
-    "wof:lastmodified":1449029839,
+    "wof:lastmodified":1466703216,
     "wof:name":"Select Beauty Products",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.242996,36.135601,-115.242996,36.135601],
-  "geometry": {"coordinates":[-115.242996,36.135601],"type":"Point"}
+  "bbox": [
+    -115.242996,
+    36.135601,
+    -115.242996,
+    36.135601
+],
+  "geometry": {"coordinates":[-115.24299600000001,36.135601],"type":"Point"}
 }

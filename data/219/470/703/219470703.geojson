@@ -2,13 +2,14 @@
   "id": 219470703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.325786,36.107381,-115.325786,36.107381",
     "geom:latitude":36.107381,
     "geom:longitude":-115.325786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4532 Bersaglio St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219470703,
-    "wof:lastmodified":1449071248,
+    "wof:lastmodified":1466704042,
     "wof:name":"Best Plan",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.325786,36.107381,-115.325786,36.107381],
-  "geometry": {"coordinates":[-115.325786,36.107381],"type":"Point"}
+  "bbox": [
+    -115.325786,
+    36.107381,
+    -115.325786,
+    36.107381
+],
+  "geometry": {"coordinates":[-115.32578599999999,36.107381],"type":"Point"}
 }

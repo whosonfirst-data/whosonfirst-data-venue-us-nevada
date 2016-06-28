@@ -2,13 +2,14 @@
   "id": 219378761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121361,35.984881,-115.121361,35.984881",
     "geom:latitude":35.984881,
     "geom:longitude":-115.121361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3044 Sabine Hill Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219378761,
-    "wof:lastmodified":1449072772,
+    "wof:lastmodified":1466703525,
     "wof:name":"Olivine International Trading",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tin"
     ]
 },
-  "bbox": [-115.121361,35.984881,-115.121361,35.984881],
-  "geometry": {"coordinates":[-115.121361,35.984881],"type":"Point"}
+  "bbox": [
+    -115.121361,
+    35.984881,
+    -115.121361,
+    35.984881
+],
+  "geometry": {"coordinates":[-115.12136099999999,35.984881],"type":"Point"}
 }

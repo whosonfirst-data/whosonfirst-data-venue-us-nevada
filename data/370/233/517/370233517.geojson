@@ -2,13 +2,14 @@
   "id": 370233517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241215,36.151497,-115.241215,36.151497",
     "geom:latitude":36.151497,
     "geom:longitude":-115.241215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6811 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370233517,
-    "wof:lastmodified":1449032535,
+    "wof:lastmodified":1466703328,
     "wof:name":"Max Muscle",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.241215,36.151497,-115.241215,36.151497],
+  "bbox": [
+    -115.241215,
+    36.151497,
+    -115.241215,
+    36.151497
+],
   "geometry": {"coordinates":[-115.241215,36.151497],"type":"Point"}
 }

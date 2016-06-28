@@ -2,13 +2,14 @@
   "id": 236404211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.088552,36.824056,-114.088552,36.824056",
     "geom:latitude":36.824056,
     "geom:longitude":-114.088552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Hardy Way",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236404211,
-    "wof:lastmodified":1449003921,
+    "wof:lastmodified":1466705373,
     "wof:name":"Virgin River Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.088552,36.824056,-114.088552,36.824056],
-  "geometry": {"coordinates":[-114.088552,36.824056],"type":"Point"}
+  "bbox": [
+    -114.088552,
+    36.824056,
+    -114.088552,
+    36.824056
+],
+  "geometry": {"coordinates":[-114.08855200000001,36.824056],"type":"Point"}
 }

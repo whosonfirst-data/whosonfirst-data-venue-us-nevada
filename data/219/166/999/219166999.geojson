@@ -2,13 +2,14 @@
   "id": 219166999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.320843,36.17446,-115.320843,36.17446",
     "geom:latitude":36.17446,
     "geom:longitude":-115.320843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10212 Owls Peak Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219166999,
-    "wof:lastmodified":1449072347,
+    "wof:lastmodified":1466701681,
     "wof:name":"Cummings Attractions",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-115.320843,36.17446,-115.320843,36.17446],
+  "bbox": [
+    -115.320843,
+    36.17446,
+    -115.320843,
+    36.17446
+],
   "geometry": {"coordinates":[-115.320843,36.17446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236571395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822885,39.528203,-119.822885,39.528203",
     "geom:latitude":39.528203,
     "geom:longitude":-119.822885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236571395,
-    "wof:lastmodified":1449003995,
+    "wof:lastmodified":1466706174,
     "wof:name":"Quik Shop",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-119.822885,39.528203,-119.822885,39.528203],
+  "bbox": [
+    -119.822885,
+    39.528203,
+    -119.822885,
+    39.528203
+],
   "geometry": {"coordinates":[-119.822885,39.528203],"type":"Point"}
 }

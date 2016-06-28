@@ -2,13 +2,14 @@
   "id": 252736463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.179979,36.229834,-115.179979,36.229834",
     "geom:latitude":36.229834,
     "geom:longitude":-115.179979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 Cozy Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252736463,
-    "wof:lastmodified":1449006489,
+    "wof:lastmodified":1466702060,
     "wof:name":"Cob Scaffolding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "construction"
     ]
 },
-  "bbox": [-115.179979,36.229834,-115.179979,36.229834],
+  "bbox": [
+    -115.179979,
+    36.229834,
+    -115.179979,
+    36.229834
+],
   "geometry": {"coordinates":[-115.179979,36.229834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236299421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.329091,36.141535,-115.329091,36.141535",
     "geom:latitude":36.141535,
     "geom:longitude":-115.329091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2549 Thornview St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236299421,
-    "wof:lastmodified":1449002309,
+    "wof:lastmodified":1466704557,
     "wof:name":"MSP",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-115.329091,36.141535,-115.329091,36.141535],
-  "geometry": {"coordinates":[-115.329091,36.141535],"type":"Point"}
+  "bbox": [
+    -115.329091,
+    36.141535,
+    -115.329091,
+    36.141535
+],
+  "geometry": {"coordinates":[-115.32909100000001,36.141535],"type":"Point"}
 }

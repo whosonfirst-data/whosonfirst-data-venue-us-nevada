@@ -2,13 +2,14 @@
   "id": 236012491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227888,36.262557,-115.227888,36.262557",
     "geom:latitude":36.262557,
     "geom:longitude":-115.227888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6121 Camas Canyon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236012491,
-    "wof:lastmodified":1449004844,
+    "wof:lastmodified":1466703823,
     "wof:name":"Skillin Partners",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-115.227888,36.262557,-115.227888,36.262557],
-  "geometry": {"coordinates":[-115.227888,36.262557],"type":"Point"}
+  "bbox": [
+    -115.227888,
+    36.262557,
+    -115.227888,
+    36.262557
+],
+  "geometry": {"coordinates":[-115.22788799999999,36.262557],"type":"Point"}
 }

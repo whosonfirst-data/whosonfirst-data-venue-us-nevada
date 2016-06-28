@@ -2,13 +2,14 @@
   "id": 219950769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095156,35.993145,-115.095156,35.993145",
     "geom:latitude":35.993145,
     "geom:longitude":-115.095156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 Upper Meadows Pl",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219950769,
-    "wof:lastmodified":1449071761,
+    "wof:lastmodified":1466705889,
     "wof:name":"Events Ink",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.095156,35.993145,-115.095156,35.993145],
+  "bbox": [
+    -115.095156,
+    35.993145,
+    -115.095156,
+    35.993145
+],
   "geometry": {"coordinates":[-115.095156,35.993145],"type":"Point"}
 }

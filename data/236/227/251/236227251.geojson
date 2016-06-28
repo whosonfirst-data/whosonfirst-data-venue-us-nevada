@@ -2,13 +2,14 @@
   "id": 236227251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947861,40.643282,-116.947861,40.643282",
     "geom:latitude":40.643282,
     "geom:longitude":-116.947861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Broyles Ranch Rd",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236227251,
-    "wof:lastmodified":1449002221,
+    "wof:lastmodified":1466704123,
     "wof:name":"Coffee Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-116.947861,40.643282,-116.947861,40.643282],
+  "bbox": [
+    -116.947861,
+    40.643282,
+    -116.947861,
+    40.643282
+],
   "geometry": {"coordinates":[-116.947861,40.643282],"type":"Point"}
 }

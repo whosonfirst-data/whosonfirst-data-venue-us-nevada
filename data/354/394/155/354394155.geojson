@@ -2,13 +2,14 @@
   "id": 354394155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.04333,36.09451,-115.04333,36.09451",
     "geom:latitude":36.09451,
     "geom:longitude":-115.04333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5909 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354394155,
-    "wof:lastmodified":1449066261,
+    "wof:lastmodified":1466706337,
     "wof:name":"Edwards Auto Interiors",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [-115.04333,36.09451,-115.04333,36.09451],
+  "bbox": [
+    -115.04333,
+    36.09451,
+    -115.04333,
+    36.09451
+],
   "geometry": {"coordinates":[-115.04333,36.09451],"type":"Point"}
 }

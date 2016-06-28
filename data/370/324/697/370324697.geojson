@@ -2,13 +2,14 @@
   "id": 370324697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796408,39.482949,-119.796408,39.482949",
     "geom:latitude":39.482949,
     "geom:longitude":-119.796408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Redfield Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370324697,
-    "wof:lastmodified":1449031052,
+    "wof:lastmodified":1466704911,
     "wof:name":"Williams Desiree",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.796408,39.482949,-119.796408,39.482949],
+  "bbox": [
+    -119.796408,
+    39.482949,
+    -119.796408,
+    39.482949
+],
   "geometry": {"coordinates":[-119.796408,39.482949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236862309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779391,39.607711,-119.779391,39.607711",
     "geom:latitude":39.607711,
     "geom:longitude":-119.779391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 S Fork Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236862309,
-    "wof:lastmodified":1449005346,
+    "wof:lastmodified":1466706747,
     "wof:name":"Karen Adele Beckel",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.779391,39.607711,-119.779391,39.607711],
+  "bbox": [
+    -119.779391,
+    39.607711,
+    -119.779391,
+    39.607711
+],
   "geometry": {"coordinates":[-119.779391,39.607711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354214783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185526,36.170092,-115.185526,36.170092",
     "geom:latitude":36.170092,
     "geom:longitude":-115.185526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Canyon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354214783,
-    "wof:lastmodified":1449067623,
+    "wof:lastmodified":1466705121,
     "wof:name":"Boyer John W",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.185526,36.170092,-115.185526,36.170092],
+  "bbox": [
+    -115.185526,
+    36.170092,
+    -115.185526,
+    36.170092
+],
   "geometry": {"coordinates":[-115.185526,36.170092],"type":"Point"}
 }

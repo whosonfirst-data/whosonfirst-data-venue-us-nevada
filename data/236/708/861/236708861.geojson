@@ -2,13 +2,14 @@
   "id": 236708861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742792,39.52835,-119.742792,39.52835",
     "geom:latitude":39.52835,
     "geom:longitude":-119.742792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Glen Carran Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236708861,
-    "wof:lastmodified":1449002065,
+    "wof:lastmodified":1466706495,
     "wof:name":"Dream Machine-Rainbow Vacuum",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-119.742792,39.52835,-119.742792,39.52835],
-  "geometry": {"coordinates":[-119.742792,39.52835],"type":"Point"}
+  "bbox": [
+    -119.742792,
+    39.52835,
+    -119.742792,
+    39.52835
+],
+  "geometry": {"coordinates":[-119.74279199999999,39.52835],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370362225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.790426,40.837639,-115.790426,40.837639",
     "geom:latitude":40.837639,
     "geom:longitude":-115.790426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Mountain City Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370362225,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466705082,
     "wof:name":"Gallagher Barbara W Atty at Law",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.790426,40.837639,-115.790426,40.837639],
+  "bbox": [
+    -115.790426,
+    40.837639,
+    -115.790426,
+    40.837639
+],
   "geometry": {"coordinates":[-115.790426,40.837639],"type":"Point"}
 }

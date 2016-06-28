@@ -2,13 +2,14 @@
   "id": 219998299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300944,36.22084,-115.300944,36.22084",
     "geom:latitude":36.22084,
     "geom:longitude":-115.300944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9344 Deer Lodge Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219998299,
-    "wof:lastmodified":1449071563,
+    "wof:lastmodified":1466706175,
     "wof:name":"Magic Foods",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supplement"
     ]
 },
-  "bbox": [-115.300944,36.22084,-115.300944,36.22084],
+  "bbox": [
+    -115.300944,
+    36.22084,
+    -115.300944,
+    36.22084
+],
   "geometry": {"coordinates":[-115.300944,36.22084],"type":"Point"}
 }

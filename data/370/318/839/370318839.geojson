@@ -2,13 +2,14 @@
   "id": 370318839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762216,39.508946,-119.762216,39.508946",
     "geom:latitude":39.508946,
     "geom:longitude":-119.762216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 Joule St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":370318839,
-    "wof:lastmodified":1449029847,
+    "wof:lastmodified":1466704724,
     "wof:name":"McKay Drilling Inc.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "cooling"
     ]
 },
-  "bbox": [-119.762216,39.508946,-119.762216,39.508946],
+  "bbox": [
+    -119.762216,
+    39.508946,
+    -119.762216,
+    39.508946
+],
   "geometry": {"coordinates":[-119.762216,39.508946],"type":"Point"}
 }

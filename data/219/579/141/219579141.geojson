@@ -2,13 +2,14 @@
   "id": 219579141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.740227,39.487829,-119.740227,39.487829",
     "geom:latitude":39.487829,
     "geom:longitude":-119.740227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Eaglewood Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219579141,
-    "wof:lastmodified":1449071521,
+    "wof:lastmodified":1466702726,
     "wof:name":"Electronic Dispensers Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-119.740227,39.487829,-119.740227,39.487829],
+  "bbox": [
+    -119.740227,
+    39.487829,
+    -119.740227,
+    39.487829
+],
   "geometry": {"coordinates":[-119.740227,39.487829],"type":"Point"}
 }

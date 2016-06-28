@@ -2,13 +2,14 @@
   "id": 235999979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780626,39.514167,-119.780626,39.514167",
     "geom:latitude":39.514167,
     "geom:longitude":-119.780626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Matley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235999979,
-    "wof:lastmodified":1449008567,
+    "wof:lastmodified":1466703757,
     "wof:name":"Sears Carpet & Upholstery Care",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-119.780626,39.514167,-119.780626,39.514167],
+  "bbox": [
+    -119.780626,
+    39.514167,
+    -119.780626,
+    39.514167
+],
   "geometry": {"coordinates":[-119.780626,39.514167],"type":"Point"}
 }

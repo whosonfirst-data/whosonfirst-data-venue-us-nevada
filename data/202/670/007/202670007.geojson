@@ -2,13 +2,14 @@
   "id": 202670007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.934308,39.088983,-119.934308,39.088983",
     "geom:latitude":39.088983,
     "geom:longitude":-119.934308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2070 The Back Rd",
     "sg:city":"Glenbrook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202670007,
-    "wof:lastmodified":1449060484,
+    "wof:lastmodified":1466701453,
     "wof:name":"Harrington Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.934308,39.088983,-119.934308,39.088983],
+  "bbox": [
+    -119.934308,
+    39.088983,
+    -119.934308,
+    39.088983
+],
   "geometry": {"coordinates":[-119.934308,39.088983],"type":"Point"}
 }

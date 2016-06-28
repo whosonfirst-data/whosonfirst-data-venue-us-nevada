@@ -2,13 +2,14 @@
   "id": 354199265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175126,36.176173,-115.175126,36.176173",
     "geom:latitude":36.176173,
     "geom:longitude":-115.175126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Rancho Dr Ste 888",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354199265,
-    "wof:lastmodified":1449066103,
+    "wof:lastmodified":1466705023,
     "wof:name":"First Interstate Bancard Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.175126,36.176173,-115.175126,36.176173],
-  "geometry": {"coordinates":[-115.175126,36.176173],"type":"Point"}
+  "bbox": [
+    -115.175126,
+    36.176173,
+    -115.175126,
+    36.176173
+],
+  "geometry": {"coordinates":[-115.17512600000001,36.176173],"type":"Point"}
 }

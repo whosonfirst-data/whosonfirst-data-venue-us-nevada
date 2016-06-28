@@ -2,13 +2,14 @@
   "id": 354187733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.155998,36.164101,-115.155998,36.164101",
     "geom:latitude":36.164101,
     "geom:longitude":-115.155998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 S Grand Central Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354187733,
-    "wof:lastmodified":1449066185,
+    "wof:lastmodified":1466705072,
     "wof:name":"Puma Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.155998,36.164101,-115.155998,36.164101],
+  "bbox": [
+    -115.155998,
+    36.164101,
+    -115.155998,
+    36.164101
+],
   "geometry": {"coordinates":[-115.155998,36.164101],"type":"Point"}
 }

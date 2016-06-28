@@ -2,13 +2,14 @@
   "id": 236742641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766945,39.171093,-119.766945,39.171093",
     "geom:latitude":39.171093,
     "geom:longitude":-119.766945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236742641,
-    "wof:lastmodified":1449001842,
+    "wof:lastmodified":1466706557,
     "wof:name":"Eagle Valley Auto Sales",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "used"
     ]
 },
-  "bbox": [-119.766945,39.171093,-119.766945,39.171093],
-  "geometry": {"coordinates":[-119.766945,39.171093],"type":"Point"}
+  "bbox": [
+    -119.766945,
+    39.171093,
+    -119.766945,
+    39.171093
+],
+  "geometry": {"coordinates":[-119.76694500000001,39.171093],"type":"Point"}
 }

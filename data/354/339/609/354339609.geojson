@@ -2,13 +2,14 @@
   "id": 354339609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127908,36.100897,-115.127908,36.100897",
     "geom:latitude":36.100897,
     "geom:longitude":-115.127908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E Tropicana Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354339609,
-    "wof:lastmodified":1449066673,
+    "wof:lastmodified":1466705962,
     "wof:name":"Step by Step School of Ballroom Dancing",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.127908,36.100897,-115.127908,36.100897],
-  "geometry": {"coordinates":[-115.127908,36.100897],"type":"Point"}
+  "bbox": [
+    -115.127908,
+    36.100897,
+    -115.127908,
+    36.100897
+],
+  "geometry": {"coordinates":[-115.12790800000001,36.100897],"type":"Point"}
 }

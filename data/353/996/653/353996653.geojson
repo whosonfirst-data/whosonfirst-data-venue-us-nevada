@@ -2,13 +2,14 @@
   "id": 353996653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.055535,36.064214,-115.055535,36.064214",
     "geom:latitude":36.064214,
     "geom:longitude":-115.055535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Sunset Rd Ste B",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353996653,
-    "wof:lastmodified":1449018947,
+    "wof:lastmodified":1466701771,
     "wof:name":"Ryan Bybee DDS",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-115.055535,36.064214,-115.055535,36.064214],
-  "geometry": {"coordinates":[-115.055535,36.064214],"type":"Point"}
+  "bbox": [
+    -115.055535,
+    36.064214,
+    -115.055535,
+    36.064214
+],
+  "geometry": {"coordinates":[-115.05553500000001,36.064214],"type":"Point"}
 }

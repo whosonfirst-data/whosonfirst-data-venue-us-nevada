@@ -2,13 +2,14 @@
   "id": 203404125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.998294,36.069213,-114.998294,36.069213",
     "geom:latitude":36.069213,
     "geom:longitude":-114.998294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203404125,
-    "wof:lastmodified":1449026239,
+    "wof:lastmodified":1466703332,
     "wof:name":"Bevco Inc",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dispensing"
     ]
 },
-  "bbox": [-114.998294,36.069213,-114.998294,36.069213],
+  "bbox": [
+    -114.998294,
+    36.069213,
+    -114.998294,
+    36.069213
+],
   "geometry": {"coordinates":[-114.998294,36.069213],"type":"Point"}
 }

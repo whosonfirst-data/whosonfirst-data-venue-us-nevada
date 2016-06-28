@@ -2,13 +2,14 @@
   "id": 236148545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.042671,36.181981,-116.042671,36.181981",
     "geom:latitude":36.181981,
     "geom:longitude":-116.042671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Amarillo Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236148545,
-    "wof:lastmodified":1449004624,
+    "wof:lastmodified":1466702532,
     "wof:name":"Topsoil Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conditioner"
     ]
 },
-  "bbox": [-116.042671,36.181981,-116.042671,36.181981],
+  "bbox": [
+    -116.042671,
+    36.181981,
+    -116.042671,
+    36.181981
+],
   "geometry": {"coordinates":[-116.042671,36.181981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354067939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149641,36.166454,-115.149641,36.166454",
     "geom:latitude":36.166454,
     "geom:longitude":-115.149641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Main Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354067939,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1466703257,
     "wof:name":"A Bail Bonds",
     "wof:parent_id":85866199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.149641,36.166454,-115.149641,36.166454],
+  "bbox": [
+    -115.149641,
+    36.166454,
+    -115.149641,
+    36.166454
+],
   "geometry": {"coordinates":[-115.149641,36.166454],"type":"Point"}
 }

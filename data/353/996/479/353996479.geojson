@@ -2,13 +2,14 @@
   "id": 353996479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.083712,36.064646,-115.083712,36.064646",
     "geom:latitude":36.064646,
     "geom:longitude":-115.083712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 Trueno Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353996479,
-    "wof:lastmodified":1449018950,
+    "wof:lastmodified":1466701765,
     "wof:name":"Aqua Health Pool Service",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.083712,36.064646,-115.083712,36.064646],
-  "geometry": {"coordinates":[-115.083712,36.064646],"type":"Point"}
+  "bbox": [
+    -115.083712,
+    36.064646,
+    -115.083712,
+    36.064646
+],
+  "geometry": {"coordinates":[-115.08371200000001,36.064646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236926409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.843311,35.992344,-114.843311,35.992344",
     "geom:latitude":35.992344,
     "geom:longitude":-114.843311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Mount Antero Way",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236926409,
-    "wof:lastmodified":1449002668,
+    "wof:lastmodified":1466706917,
     "wof:name":"Grimberg Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.843311,35.992344,-114.843311,35.992344],
+  "bbox": [
+    -114.843311,
+    35.992344,
+    -114.843311,
+    35.992344
+],
   "geometry": {"coordinates":[-114.843311,35.992344],"type":"Point"}
 }

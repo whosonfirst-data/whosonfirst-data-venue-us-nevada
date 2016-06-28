@@ -2,13 +2,14 @@
   "id": 203206269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806318,39.487531,-119.806318,39.487531",
     "geom:latitude":39.487531,
     "geom:longitude":-119.806318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 W Peckham Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203206269,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466702105,
     "wof:name":"Shepherd-The Mts Lutheran Schl",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.806318,39.487531,-119.806318,39.487531],
+  "bbox": [
+    -119.806318,
+    39.487531,
+    -119.806318,
+    39.487531
+],
   "geometry": {"coordinates":[-119.806318,39.487531],"type":"Point"}
 }

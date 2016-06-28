@@ -2,13 +2,14 @@
   "id": 354313525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260988,36.130418,-115.260988,36.130418",
     "geom:latitude":36.130418,
     "geom:longitude":-115.260988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 S Buffalo Drive Suite 108",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354313525,
-    "wof:lastmodified":1449065995,
+    "wof:lastmodified":1466705661,
     "wof:name":"Englemann Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.260988,36.130418,-115.260988,36.130418],
+  "bbox": [
+    -115.260988,
+    36.130418,
+    -115.260988,
+    36.130418
+],
   "geometry": {"coordinates":[-115.260988,36.130418],"type":"Point"}
 }

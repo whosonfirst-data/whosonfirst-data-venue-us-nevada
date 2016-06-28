@@ -2,13 +2,14 @@
   "id": 220038763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114839,35.949283,-115.114839,35.949283",
     "geom:latitude":35.949283,
     "geom:longitude":-115.114839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2170 Colvin Run Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220038763,
-    "wof:lastmodified":1449074570,
+    "wof:lastmodified":1466701889,
     "wof:name":"Cal Scot Construction",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-115.114839,35.949283,-115.114839,35.949283],
+  "bbox": [
+    -115.114839,
+    35.949283,
+    -115.114839,
+    35.949283
+],
   "geometry": {"coordinates":[-115.114839,35.949283],"type":"Point"}
 }

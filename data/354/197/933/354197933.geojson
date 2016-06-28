@@ -2,13 +2,14 @@
   "id": 354197933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164023,36.161522,-115.164023,36.161522",
     "geom:latitude":36.161522,
     "geom:longitude":-115.164023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Bearden Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354197933,
-    "wof:lastmodified":1449067446,
+    "wof:lastmodified":1466705015,
     "wof:name":"Apex Medical Center",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "family"
     ]
 },
-  "bbox": [-115.164023,36.161522,-115.164023,36.161522],
+  "bbox": [
+    -115.164023,
+    36.161522,
+    -115.164023,
+    36.161522
+],
   "geometry": {"coordinates":[-115.164023,36.161522],"type":"Point"}
 }

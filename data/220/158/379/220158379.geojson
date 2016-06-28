@@ -2,13 +2,14 @@
   "id": 220158379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181406,36.077213,-115.181406,36.077213",
     "geom:latitude":36.077213,
     "geom:longitude":-115.181406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6233 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220158379,
-    "wof:lastmodified":1449074590,
+    "wof:lastmodified":1466702811,
     "wof:name":"CCC America Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-115.181406,36.077213,-115.181406,36.077213],
+  "bbox": [
+    -115.181406,
+    36.077213,
+    -115.181406,
+    36.077213
+],
   "geometry": {"coordinates":[-115.181406,36.077213],"type":"Point"}
 }

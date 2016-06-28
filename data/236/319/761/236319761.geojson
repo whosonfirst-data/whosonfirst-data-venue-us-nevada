@@ -2,13 +2,14 @@
   "id": 236319761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74613,39.521597,-119.74613,39.521597",
     "geom:latitude":39.521597,
     "geom:longitude":-119.74613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236319761,
-    "wof:lastmodified":1449002913,
+    "wof:lastmodified":1466704713,
     "wof:name":"Floral Supply Syndicate",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-119.74613,39.521597,-119.74613,39.521597],
-  "geometry": {"coordinates":[-119.74613,39.521597],"type":"Point"}
+  "bbox": [
+    -119.74613,
+    39.521597,
+    -119.74613,
+    39.521597
+],
+  "geometry": {"coordinates":[-119.74612999999999,39.521597],"type":"Point"}
 }

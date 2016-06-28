@@ -2,13 +2,14 @@
   "id": 354309301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.292538,36.157249,-115.292538,36.157249",
     "geom:latitude":36.157249,
     "geom:longitude":-115.292538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Fort Apache Rd Ste 150",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354309301,
-    "wof:lastmodified":1449066292,
+    "wof:lastmodified":1466705764,
     "wof:name":"Barre Las Vegas #2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [-115.292538,36.157249,-115.292538,36.157249],
-  "geometry": {"coordinates":[-115.292538,36.157249],"type":"Point"}
+  "bbox": [
+    -115.292538,
+    36.157249,
+    -115.292538,
+    36.157249
+],
+  "geometry": {"coordinates":[-115.29253799999999,36.157249],"type":"Point"}
 }

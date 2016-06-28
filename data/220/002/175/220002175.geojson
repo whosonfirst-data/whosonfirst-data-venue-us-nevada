@@ -2,13 +2,14 @@
   "id": 220002175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.82455,39.372385,-119.82455,39.372385",
     "geom:latitude":39.372385,
     "geom:longitude":-119.82455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5795 Tannerwood Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220002175,
-    "wof:lastmodified":1449074707,
+    "wof:lastmodified":1466701457,
     "wof:name":"Davis Rounds Advertising",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-119.82455,39.372385,-119.82455,39.372385],
+  "bbox": [
+    -119.82455,
+    39.372385,
+    -119.82455,
+    39.372385
+],
   "geometry": {"coordinates":[-119.82455,39.372385],"type":"Point"}
 }

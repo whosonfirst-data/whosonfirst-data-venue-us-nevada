@@ -2,13 +2,14 @@
   "id": 236536325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769245,39.137005,-119.769245,39.137005",
     "geom:latitude":39.137005,
     "geom:longitude":-119.769245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236536325,
-    "wof:lastmodified":1449003649,
+    "wof:lastmodified":1466705991,
     "wof:name":"Longs Drug Store",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "variety"
     ]
 },
-  "bbox": [-119.769245,39.137005,-119.769245,39.137005],
+  "bbox": [
+    -119.769245,
+    39.137005,
+    -119.769245,
+    39.137005
+],
   "geometry": {"coordinates":[-119.769245,39.137005],"type":"Point"}
 }

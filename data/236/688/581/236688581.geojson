@@ -2,13 +2,14 @@
   "id": 236688581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.014012,36.029288,-115.014012,36.029288",
     "geom:latitude":36.029288,
     "geom:longitude":-115.014012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"792 Cam la Paz",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236688581,
-    "wof:lastmodified":1449002771,
+    "wof:lastmodified":1466706459,
     "wof:name":"Griffin Communications Group",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-115.014012,36.029288,-115.014012,36.029288],
-  "geometry": {"coordinates":[-115.014012,36.029288],"type":"Point"}
+  "bbox": [
+    -115.014012,
+    36.029288,
+    -115.014012,
+    36.029288
+],
+  "geometry": {"coordinates":[-115.01401199999999,36.029288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370237989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225195,36.144765,-115.225195,36.144765",
     "geom:latitude":36.144765,
     "geom:longitude":-115.225195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Jones Blvd Ste 10",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370237989,
-    "wof:lastmodified":1449029150,
+    "wof:lastmodified":1466703419,
     "wof:name":"Spring Valley Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mental"
     ]
 },
-  "bbox": [-115.225195,36.144765,-115.225195,36.144765],
+  "bbox": [
+    -115.225195,
+    36.144765,
+    -115.225195,
+    36.144765
+],
   "geometry": {"coordinates":[-115.225195,36.144765],"type":"Point"}
 }

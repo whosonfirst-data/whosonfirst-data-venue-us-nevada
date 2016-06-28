@@ -2,13 +2,14 @@
   "id": 203161093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080952,36.102782,-115.080952,36.102782",
     "geom:latitude":36.102782,
     "geom:longitude":-115.080952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 el Pasada Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203161093,
-    "wof:lastmodified":1449025660,
+    "wof:lastmodified":1466701630,
     "wof:name":"A G Window Cleaning",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-115.080952,36.102782,-115.080952,36.102782],
+  "bbox": [
+    -115.080952,
+    36.102782,
+    -115.080952,
+    36.102782
+],
   "geometry": {"coordinates":[-115.080952,36.102782],"type":"Point"}
 }

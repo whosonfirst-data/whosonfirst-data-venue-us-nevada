@@ -2,13 +2,14 @@
   "id": 219338295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.797949,40.544233,-116.797949,40.544233",
     "geom:latitude":40.544233,
     "geom:longitude":-116.797949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2965 Horseshoe Rd",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219338295,
-    "wof:lastmodified":1449071622,
+    "wof:lastmodified":1466703334,
     "wof:name":"Louie Kay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "remodeling"
     ]
 },
-  "bbox": [-116.797949,40.544233,-116.797949,40.544233],
+  "bbox": [
+    -116.797949,
+    40.544233,
+    -116.797949,
+    40.544233
+],
   "geometry": {"coordinates":[-116.797949,40.544233],"type":"Point"}
 }

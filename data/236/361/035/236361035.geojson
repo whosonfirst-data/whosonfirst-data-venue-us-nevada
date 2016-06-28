@@ -2,13 +2,14 @@
   "id": 236361035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191736,36.086395,-115.191736,36.086395",
     "geom:latitude":36.086395,
     "geom:longitude":-115.191736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3990 W Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236361035,
-    "wof:lastmodified":1449004170,
+    "wof:lastmodified":1466704981,
     "wof:name":"Love Toys Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-115.191736,36.086395,-115.191736,36.086395],
-  "geometry": {"coordinates":[-115.191736,36.086395],"type":"Point"}
+  "bbox": [
+    -115.191736,
+    36.086395,
+    -115.191736,
+    36.086395
+],
+  "geometry": {"coordinates":[-115.19173600000001,36.086395],"type":"Point"}
 }

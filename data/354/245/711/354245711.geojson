@@ -2,13 +2,14 @@
   "id": 354245711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170973,36.122747,-115.170973,36.122747",
     "geom:latitude":36.122747,
     "geom:longitude":-115.170973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Venetian Resort Hotel Casino, Grand Canal Shoppes 3355 Las Veqas Boulevard South, Suite 2175",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354245711,
-    "wof:lastmodified":1449067623,
+    "wof:lastmodified":1466705199,
     "wof:name":"David & Goliath",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.170973,36.122747,-115.170973,36.122747],
+  "bbox": [
+    -115.170973,
+    36.122747,
+    -115.170973,
+    36.122747
+],
   "geometry": {"coordinates":[-115.170973,36.122747],"type":"Point"}
 }

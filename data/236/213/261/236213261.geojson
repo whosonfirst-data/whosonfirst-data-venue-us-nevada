@@ -2,13 +2,14 @@
   "id": 236213261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117162,36.036463,-115.117162,36.036463",
     "geom:latitude":36.036463,
     "geom:longitude":-115.117162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Blackberry Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236213261,
-    "wof:lastmodified":1449001706,
+    "wof:lastmodified":1466703839,
     "wof:name":"A Balanced Wellness",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "devices"
     ]
 },
-  "bbox": [-115.117162,36.036463,-115.117162,36.036463],
-  "geometry": {"coordinates":[-115.117162,36.036463],"type":"Point"}
+  "bbox": [
+    -115.117162,
+    36.036463,
+    -115.117162,
+    36.036463
+],
+  "geometry": {"coordinates":[-115.11716199999999,36.036463],"type":"Point"}
 }

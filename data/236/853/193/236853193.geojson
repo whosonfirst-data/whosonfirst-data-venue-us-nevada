@@ -2,13 +2,14 @@
   "id": 236853193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.70856,39.186885,-119.70856,39.186885",
     "geom:latitude":39.186885,
     "geom:longitude":-119.70856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5244 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236853193,
-    "wof:lastmodified":1449002894,
+    "wof:lastmodified":1466706848,
     "wof:name":"Close Precision Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.70856,39.186885,-119.70856,39.186885],
-  "geometry": {"coordinates":[-119.70856,39.186885],"type":"Point"}
+  "bbox": [
+    -119.70856,
+    39.186885,
+    -119.70856,
+    39.186885
+],
+  "geometry": {"coordinates":[-119.70856000000001,39.186885],"type":"Point"}
 }

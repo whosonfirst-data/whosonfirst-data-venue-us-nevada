@@ -2,13 +2,14 @@
   "id": 236252207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.017316,36.238911,-116.017316,36.238911",
     "geom:latitude":36.238911,
     "geom:longitude":-116.017316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Stagecoach Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236252207,
-    "wof:lastmodified":1449002001,
+    "wof:lastmodified":1466704560,
     "wof:name":"Stagestop Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-116.017316,36.238911,-116.017316,36.238911],
-  "geometry": {"coordinates":[-116.017316,36.238911],"type":"Point"}
+  "bbox": [
+    -116.017316,
+    36.238911,
+    -116.017316,
+    36.238911
+],
+  "geometry": {"coordinates":[-116.01731599999999,36.238911],"type":"Point"}
 }

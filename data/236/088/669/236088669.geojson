@@ -2,13 +2,14 @@
   "id": 236088669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.272804,36.159179,-115.272804,36.159179",
     "geom:latitude":36.159179,
     "geom:longitude":-115.272804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236088669,
-    "wof:lastmodified":1449004365,
+    "wof:lastmodified":1466704149,
     "wof:name":"Crystal Eller-Quam",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.272804,36.159179,-115.272804,36.159179],
-  "geometry": {"coordinates":[-115.272804,36.159179],"type":"Point"}
+  "bbox": [
+    -115.272804,
+    36.159179,
+    -115.272804,
+    36.159179
+],
+  "geometry": {"coordinates":[-115.27280399999999,36.159179],"type":"Point"}
 }

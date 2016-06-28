@@ -2,13 +2,14 @@
   "id": 370346545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773003,39.170898,-119.773003,39.170898",
     "geom:latitude":39.170898,
     "geom:longitude":-119.773003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Mountain St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370346545,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1466705021,
     "wof:name":"Koch Sandra MD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-119.773003,39.170898,-119.773003,39.170898],
+  "bbox": [
+    -119.773003,
+    39.170898,
+    -119.773003,
+    39.170898
+],
   "geometry": {"coordinates":[-119.773003,39.170898],"type":"Point"}
 }

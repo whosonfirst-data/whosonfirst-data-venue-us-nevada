@@ -2,13 +2,14 @@
   "id": 236106305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73029,38.930314,-119.73029,38.930314",
     "geom:latitude":38.930314,
     "geom:longitude":-119.73029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236106305,
-    "wof:lastmodified":1449001643,
+    "wof:lastmodified":1466701660,
     "wof:name":"V M Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-119.73029,38.930314,-119.73029,38.930314],
+  "bbox": [
+    -119.73029,
+    38.930314,
+    -119.73029,
+    38.930314
+],
   "geometry": {"coordinates":[-119.73029,38.930314],"type":"Point"}
 }

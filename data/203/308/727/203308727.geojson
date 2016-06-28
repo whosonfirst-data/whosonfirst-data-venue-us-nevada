@@ -2,13 +2,14 @@
   "id": 203308727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.802393,39.50578,-119.802393,39.50578",
     "geom:latitude":39.50578,
     "geom:longitude":-119.802393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203308727,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466702912,
     "wof:name":"Creative CL & Alterations",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.802393,39.50578,-119.802393,39.50578],
+  "bbox": [
+    -119.802393,
+    39.50578,
+    -119.802393,
+    39.50578
+],
   "geometry": {"coordinates":[-119.802393,39.50578],"type":"Point"}
 }

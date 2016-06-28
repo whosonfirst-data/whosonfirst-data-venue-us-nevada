@@ -2,13 +2,14 @@
   "id": 236786783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134194,36.163483,-115.134194,36.163483",
     "geom:latitude":36.163483,
     "geom:longitude":-115.134194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Bridger Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236786783,
-    "wof:lastmodified":1449001997,
+    "wof:lastmodified":1466706633,
     "wof:name":"Ellsworth Law Firm",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.134194,36.163483,-115.134194,36.163483],
-  "geometry": {"coordinates":[-115.134194,36.163483],"type":"Point"}
+  "bbox": [
+    -115.134194,
+    36.163483,
+    -115.134194,
+    36.163483
+],
+  "geometry": {"coordinates":[-115.13419399999999,36.163483],"type":"Point"}
 }

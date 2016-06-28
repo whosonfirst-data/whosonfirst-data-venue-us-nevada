@@ -2,13 +2,14 @@
   "id": 203400955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299637,36.123713,-115.299637,36.123713",
     "geom:latitude":36.123713,
     "geom:longitude":-115.299637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 Solandra St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203400955,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466703330,
     "wof:name":"Raymond Faber Construction",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.299637,36.123713,-115.299637,36.123713],
+  "bbox": [
+    -115.299637,
+    36.123713,
+    -115.299637,
+    36.123713
+],
   "geometry": {"coordinates":[-115.299637,36.123713],"type":"Point"}
 }

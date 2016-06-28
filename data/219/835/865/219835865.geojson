@@ -2,13 +2,14 @@
   "id": 219835865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074716,36.002764,-115.074716,36.002764",
     "geom:latitude":36.002764,
     "geom:longitude":-115.074716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 Desert Woods Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219835865,
-    "wof:lastmodified":1449070902,
+    "wof:lastmodified":1466705249,
     "wof:name":"Evg Capital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.074716,36.002764,-115.074716,36.002764],
+  "bbox": [
+    -115.074716,
+    36.002764,
+    -115.074716,
+    36.002764
+],
   "geometry": {"coordinates":[-115.074716,36.002764],"type":"Point"}
 }

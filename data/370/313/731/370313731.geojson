@@ -2,13 +2,14 @@
   "id": 370313731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.817291,39.526442,-119.817291,39.526442",
     "geom:latitude":39.526442,
     "geom:longitude":-119.817291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Arlington Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370313731,
-    "wof:lastmodified":1449029168,
+    "wof:lastmodified":1466704677,
     "wof:name":"An Epic Salon",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.817291,39.526442,-119.817291,39.526442],
+  "bbox": [
+    -119.817291,
+    39.526442,
+    -119.817291,
+    39.526442
+],
   "geometry": {"coordinates":[-119.817291,39.526442],"type":"Point"}
 }

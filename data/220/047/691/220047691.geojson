@@ -2,13 +2,14 @@
   "id": 220047691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136193,36.100882,-115.136193,36.100882",
     "geom:latitude":36.100882,
     "geom:longitude":-115.136193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220047691,
-    "wof:lastmodified":1449074571,
+    "wof:lastmodified":1466701957,
     "wof:name":"Access Commercial Mortgage",
     "wof:parent_id":85879743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.136193,36.100882,-115.136193,36.100882],
-  "geometry": {"coordinates":[-115.136193,36.100882],"type":"Point"}
+  "bbox": [
+    -115.136193,
+    36.100882,
+    -115.136193,
+    36.100882
+],
+  "geometry": {"coordinates":[-115.13619300000001,36.100882],"type":"Point"}
 }

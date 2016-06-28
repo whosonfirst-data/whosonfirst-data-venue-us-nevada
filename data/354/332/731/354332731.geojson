@@ -2,13 +2,14 @@
   "id": 354332731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190039,36.069737,-115.190039,36.069737",
     "geom:latitude":36.069737,
     "geom:longitude":-115.190039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6625 S Valley View Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354332731,
-    "wof:lastmodified":1449066898,
+    "wof:lastmodified":1466705942,
     "wof:name":"Poweronix",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.190039,36.069737,-115.190039,36.069737],
+  "bbox": [
+    -115.190039,
+    36.069737,
+    -115.190039,
+    36.069737
+],
   "geometry": {"coordinates":[-115.190039,36.069737],"type":"Point"}
 }

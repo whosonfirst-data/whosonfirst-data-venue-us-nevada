@@ -2,13 +2,14 @@
   "id": 236203449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.648264,39.314451,-119.648264,39.314451",
     "geom:latitude":39.314451,
     "geom:longitude":-119.648264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 C St",
     "sg:city":"Virginia City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236203449,
-    "wof:lastmodified":1449003055,
+    "wof:lastmodified":1466703638,
     "wof:name":"Highlander Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-119.648264,39.314451,-119.648264,39.314451],
+  "bbox": [
+    -119.648264,
+    39.314451,
+    -119.648264,
+    39.314451
+],
   "geometry": {"coordinates":[-119.648264,39.314451],"type":"Point"}
 }

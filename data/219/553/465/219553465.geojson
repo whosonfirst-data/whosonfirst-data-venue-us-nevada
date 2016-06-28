@@ -2,13 +2,14 @@
   "id": 219553465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807514,39.493004,-119.807514,39.493004",
     "geom:latitude":39.493004,
     "geom:longitude":-119.807514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3358 Lakeside Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219553465,
-    "wof:lastmodified":1449070393,
+    "wof:lastmodified":1466702292,
     "wof:name":"Gallery Decor Artive",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-119.807514,39.493004,-119.807514,39.493004],
+  "bbox": [
+    -119.807514,
+    39.493004,
+    -119.807514,
+    39.493004
+],
   "geometry": {"coordinates":[-119.807514,39.493004],"type":"Point"}
 }

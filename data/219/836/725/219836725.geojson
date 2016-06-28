@@ -2,13 +2,14 @@
   "id": 219836725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.59636,40.757804,-115.59636,40.757804",
     "geom:latitude":40.757804,
     "geom:longitude":-115.59636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Deerbrush Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219836725,
-    "wof:lastmodified":1449072717,
+    "wof:lastmodified":1466705155,
     "wof:name":"Alphabet Soup Preschool",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.59636,40.757804,-115.59636,40.757804],
+  "bbox": [
+    -115.59636,
+    40.757804,
+    -115.59636,
+    40.757804
+],
   "geometry": {"coordinates":[-115.59636,40.757804],"type":"Point"}
 }

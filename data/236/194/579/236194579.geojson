@@ -2,13 +2,14 @@
   "id": 236194579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147446,36.158846,-115.147446,36.158846",
     "geom:latitude":36.158846,
     "geom:longitude":-115.147446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236194579,
-    "wof:lastmodified":1449004670,
+    "wof:lastmodified":1466703452,
     "wof:name":"Mr Clutch USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.147446,36.158846,-115.147446,36.158846],
+  "bbox": [
+    -115.147446,
+    36.158846,
+    -115.147446,
+    36.158846
+],
   "geometry": {"coordinates":[-115.147446,36.158846],"type":"Point"}
 }

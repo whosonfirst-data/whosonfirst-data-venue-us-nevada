@@ -2,13 +2,14 @@
   "id": 236040905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299487,36.220938,-115.299487,36.220938",
     "geom:latitude":36.220938,
     "geom:longitude":-115.299487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9424 Deer Lodge Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236040905,
-    "wof:lastmodified":1449005133,
+    "wof:lastmodified":1466703943,
     "wof:name":"Akanta Inc",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-115.299487,36.220938,-115.299487,36.220938],
+  "bbox": [
+    -115.299487,
+    36.220938,
+    -115.299487,
+    36.220938
+],
   "geometry": {"coordinates":[-115.299487,36.220938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219208817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.858338,35.968871,-114.858338,35.968871",
     "geom:latitude":35.968871,
     "geom:longitude":-114.858338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219208817,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466702143,
     "wof:name":"Wyman Engineering Consultants",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mining"
     ]
 },
-  "bbox": [-114.858338,35.968871,-114.858338,35.968871],
+  "bbox": [
+    -114.858338,
+    35.968871,
+    -114.858338,
+    35.968871
+],
   "geometry": {"coordinates":[-114.858338,35.968871],"type":"Point"}
 }

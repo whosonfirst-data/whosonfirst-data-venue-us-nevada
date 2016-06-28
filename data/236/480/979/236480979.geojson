@@ -2,13 +2,14 @@
   "id": 236480979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.686307,38.895619,-119.686307,38.895619",
     "geom:latitude":38.895619,
     "geom:longitude":-119.686307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Scout Cir",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236480979,
-    "wof:lastmodified":1449002576,
+    "wof:lastmodified":1466705851,
     "wof:name":"Empower U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-119.686307,38.895619,-119.686307,38.895619],
+  "bbox": [
+    -119.686307,
+    38.895619,
+    -119.686307,
+    38.895619
+],
   "geometry": {"coordinates":[-119.686307,38.895619],"type":"Point"}
 }

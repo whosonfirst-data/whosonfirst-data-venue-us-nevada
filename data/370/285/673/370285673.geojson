@@ -2,13 +2,14 @@
   "id": 370285673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153889,36.114871,-115.153889,36.114871",
     "geom:latitude":36.114871,
     "geom:longitude":-115.153889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4080 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370285673,
-    "wof:lastmodified":1449029161,
+    "wof:lastmodified":1466704442,
     "wof:name":"Puentes Brothers Enprises",
     "wof:parent_id":85879711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.153889,36.114871,-115.153889,36.114871],
-  "geometry": {"coordinates":[-115.153889,36.114871],"type":"Point"}
+  "bbox": [
+    -115.153889,
+    36.114871,
+    -115.153889,
+    36.114871
+],
+  "geometry": {"coordinates":[-115.15388900000001,36.114871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236330203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171182,36.140178,-115.171182,36.140178",
     "geom:latitude":36.140178,
     "geom:longitude":-115.171182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2758 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236330203,
-    "wof:lastmodified":1449003265,
+    "wof:lastmodified":1466704784,
     "wof:name":"Lazer Max Inc",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.171182,36.140178,-115.171182,36.140178],
+  "bbox": [
+    -115.171182,
+    36.140178,
+    -115.171182,
+    36.140178
+],
   "geometry": {"coordinates":[-115.171182,36.140178],"type":"Point"}
 }

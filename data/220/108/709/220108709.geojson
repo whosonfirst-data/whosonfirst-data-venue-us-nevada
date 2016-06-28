@@ -2,13 +2,14 @@
   "id": 220108709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146555,36.198963,-115.146555,36.198963",
     "geom:latitude":36.198963,
     "geom:longitude":-115.146555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Travis St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220108709,
-    "wof:lastmodified":1449074077,
+    "wof:lastmodified":1466702448,
     "wof:name":"Utility Source Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-115.146555,36.198963,-115.146555,36.198963],
-  "geometry": {"coordinates":[-115.146555,36.198963],"type":"Point"}
+  "bbox": [
+    -115.146555,
+    36.198963,
+    -115.146555,
+    36.198963
+],
+  "geometry": {"coordinates":[-115.14655500000001,36.198963],"type":"Point"}
 }

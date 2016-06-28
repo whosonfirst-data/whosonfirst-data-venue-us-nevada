@@ -2,13 +2,14 @@
   "id": 219549513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.04652,36.104327,-115.04652,36.104327",
     "geom:latitude":36.104327,
     "geom:longitude":-115.04652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4639 Stephanie St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219549513,
-    "wof:lastmodified":1449071373,
+    "wof:lastmodified":1466702224,
     "wof:name":"20th Century Homes Inc",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-115.04652,36.104327,-115.04652,36.104327],
+  "bbox": [
+    -115.04652,
+    36.104327,
+    -115.04652,
+    36.104327
+],
   "geometry": {"coordinates":[-115.04652,36.104327],"type":"Point"}
 }

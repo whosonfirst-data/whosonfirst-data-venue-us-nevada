@@ -2,13 +2,14 @@
   "id": 219693629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764426,39.117217,-119.764426,39.117217",
     "geom:latitude":39.117217,
     "geom:longitude":-119.764426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 de Lah E Deh",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219693629,
-    "wof:lastmodified":1449070584,
+    "wof:lastmodified":1466704396,
     "wof:name":"John J Fleming & Assoc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.764426,39.117217,-119.764426,39.117217],
+  "bbox": [
+    -119.764426,
+    39.117217,
+    -119.764426,
+    39.117217
+],
   "geometry": {"coordinates":[-119.764426,39.117217],"type":"Point"}
 }

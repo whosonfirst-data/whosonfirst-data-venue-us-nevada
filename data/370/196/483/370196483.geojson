@@ -2,13 +2,14 @@
   "id": 370196483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307046,36.190661,-115.307046,36.190661",
     "geom:latitude":36.190661,
     "geom:longitude":-115.307046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9691 Trailwood Dr Ste 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370196483,
-    "wof:lastmodified":1449029859,
+    "wof:lastmodified":1466702428,
     "wof:name":"Chique",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.307046,36.190661,-115.307046,36.190661],
+  "bbox": [
+    -115.307046,
+    36.190661,
+    -115.307046,
+    36.190661
+],
   "geometry": {"coordinates":[-115.307046,36.190661],"type":"Point"}
 }

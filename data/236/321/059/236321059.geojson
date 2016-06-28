@@ -2,13 +2,14 @@
   "id": 236321059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299095,36.230629,-115.299095,36.230629",
     "geom:latitude":36.230629,
     "geom:longitude":-115.299095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Mountain Waters St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236321059,
-    "wof:lastmodified":1449001735,
+    "wof:lastmodified":1466704739,
     "wof:name":"Deskside Assist",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporting"
     ]
 },
-  "bbox": [-115.299095,36.230629,-115.299095,36.230629],
-  "geometry": {"coordinates":[-115.299095,36.230629],"type":"Point"}
+  "bbox": [
+    -115.299095,
+    36.230629,
+    -115.299095,
+    36.230629
+],
+  "geometry": {"coordinates":[-115.29909499999999,36.230629],"type":"Point"}
 }

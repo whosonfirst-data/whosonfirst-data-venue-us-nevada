@@ -2,13 +2,14 @@
   "id": 370317333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777428,39.514476,-119.777428,39.514476",
     "geom:latitude":39.514476,
     "geom:longitude":-119.777428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Terminal Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370317333,
-    "wof:lastmodified":1449030647,
+    "wof:lastmodified":1466704701,
     "wof:name":"Citicare",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-119.777428,39.514476,-119.777428,39.514476],
+  "bbox": [
+    -119.777428,
+    39.514476,
+    -119.777428,
+    39.514476
+],
   "geometry": {"coordinates":[-119.777428,39.514476],"type":"Point"}
 }

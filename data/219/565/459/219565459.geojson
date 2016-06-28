@@ -2,13 +2,14 @@
   "id": 219565459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.934963,36.112103,-114.934963,36.112103",
     "geom:latitude":36.112103,
     "geom:longitude":-114.934963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cerchio Alto",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219565459,
-    "wof:lastmodified":1449073606,
+    "wof:lastmodified":1466702491,
     "wof:name":"Azteca America",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-114.934963,36.112103,-114.934963,36.112103],
+  "bbox": [
+    -114.934963,
+    36.112103,
+    -114.934963,
+    36.112103
+],
   "geometry": {"coordinates":[-114.934963,36.112103],"type":"Point"}
 }

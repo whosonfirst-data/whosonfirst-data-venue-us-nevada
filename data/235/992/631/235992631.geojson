@@ -2,13 +2,14 @@
   "id": 235992631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.860439,39.259514,-114.860439,39.259514",
     "geom:latitude":39.259514,
     "geom:longitude":-114.860439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 Ave D",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235992631,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466703722,
     "wof:name":"Van Camp Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leveling"
     ]
 },
-  "bbox": [-114.860439,39.259514,-114.860439,39.259514],
+  "bbox": [
+    -114.860439,
+    39.259514,
+    -114.860439,
+    39.259514
+],
   "geometry": {"coordinates":[-114.860439,39.259514],"type":"Point"}
 }

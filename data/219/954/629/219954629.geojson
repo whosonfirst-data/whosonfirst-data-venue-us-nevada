@@ -2,13 +2,14 @@
   "id": 219954629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.966995,41.105161,-114.966995,41.105161",
     "geom:latitude":41.105161,
     "geom:longitude":-114.966995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 1st St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219954629,
-    "wof:lastmodified":1449073461,
+    "wof:lastmodified":1466705949,
     "wof:name":"Nevada Rural Housing Authority",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-114.966995,41.105161,-114.966995,41.105161],
+  "bbox": [
+    -114.966995,
+    41.105161,
+    -114.966995,
+    41.105161
+],
   "geometry": {"coordinates":[-114.966995,41.105161],"type":"Point"}
 }

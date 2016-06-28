@@ -2,13 +2,14 @@
   "id": 219423525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250814,36.046362,-115.250814,36.046362",
     "geom:latitude":36.046362,
     "geom:longitude":-115.250814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7803 Galloping Hills St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219423525,
-    "wof:lastmodified":1449070971,
+    "wof:lastmodified":1466703760,
     "wof:name":"NMH Marketing LLC",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-115.250814,36.046362,-115.250814,36.046362],
-  "geometry": {"coordinates":[-115.250814,36.046362],"type":"Point"}
+  "bbox": [
+    -115.250814,
+    36.046362,
+    -115.250814,
+    36.046362
+],
+  "geometry": {"coordinates":[-115.25081400000001,36.046362],"type":"Point"}
 }

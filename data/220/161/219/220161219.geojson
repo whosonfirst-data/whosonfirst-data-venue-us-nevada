@@ -2,13 +2,14 @@
   "id": 220161219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.941193,38.960531,-119.941193,38.960531",
     "geom:latitude":38.960531,
     "geom:longitude":-119.941193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 US Hwy 50",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220161219,
-    "wof:lastmodified":1449074356,
+    "wof:lastmodified":1466702823,
     "wof:name":"Caesar's Tahoe Wedding Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chapel"
     ]
 },
-  "bbox": [-119.941193,38.960531,-119.941193,38.960531],
+  "bbox": [
+    -119.941193,
+    38.960531,
+    -119.941193,
+    38.960531
+],
   "geometry": {"coordinates":[-119.941193,38.960531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219755991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.598206,40.725744,-115.598206,40.725744",
     "geom:latitude":40.725744,
     "geom:longitude":-115.598206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Poplar Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219755991,
-    "wof:lastmodified":1449071403,
+    "wof:lastmodified":1466704814,
     "wof:name":"Wetzel Construction",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.598206,40.725744,-115.598206,40.725744],
+  "bbox": [
+    -115.598206,
+    40.725744,
+    -115.598206,
+    40.725744
+],
   "geometry": {"coordinates":[-115.598206,40.725744],"type":"Point"}
 }

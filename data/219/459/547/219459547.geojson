@@ -2,13 +2,14 @@
   "id": 219459547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077024,36.151107,-115.077024,36.151107",
     "geom:latitude":36.151107,
     "geom:longitude":-115.077024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 E New York Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219459547,
-    "wof:lastmodified":1449071824,
+    "wof:lastmodified":1466703964,
     "wof:name":"Summertime Pools & Spas",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.077024,36.151107,-115.077024,36.151107],
-  "geometry": {"coordinates":[-115.077024,36.151107],"type":"Point"}
+  "bbox": [
+    -115.077024,
+    36.151107,
+    -115.077024,
+    36.151107
+],
+  "geometry": {"coordinates":[-115.07702399999999,36.151107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219788711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.780306,39.476605,-118.780306,39.476605",
     "geom:latitude":39.476605,
     "geom:longitude":-118.780306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 N Ada St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219788711,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466704880,
     "wof:name":"Banner Churchill Workcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.780306,39.476605,-118.780306,39.476605],
+  "bbox": [
+    -118.780306,
+    39.476605,
+    -118.780306,
+    39.476605
+],
   "geometry": {"coordinates":[-118.780306,39.476605],"type":"Point"}
 }

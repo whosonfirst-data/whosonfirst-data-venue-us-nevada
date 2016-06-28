@@ -2,13 +2,14 @@
   "id": 236624855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.103585,36.036666,-115.103585,36.036666",
     "geom:latitude":36.036666,
     "geom:longitude":-115.103585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Kanel Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236624855,
-    "wof:lastmodified":1449004008,
+    "wof:lastmodified":1466706199,
     "wof:name":"Kevin Ure",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.103585,36.036666,-115.103585,36.036666],
+  "bbox": [
+    -115.103585,
+    36.036666,
+    -115.103585,
+    36.036666
+],
   "geometry": {"coordinates":[-115.103585,36.036666],"type":"Point"}
 }

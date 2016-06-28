@@ -2,13 +2,14 @@
   "id": 236533931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218336,35.997997,-115.218336,35.997997",
     "geom:latitude":35.997997,
     "geom:longitude":-115.218336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5685 San Florentine Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236533931,
-    "wof:lastmodified":1449001649,
+    "wof:lastmodified":1466705962,
     "wof:name":"Pacific Resources Center LLC",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-115.218336,35.997997,-115.218336,35.997997],
-  "geometry": {"coordinates":[-115.218336,35.997997],"type":"Point"}
+  "bbox": [
+    -115.218336,
+    35.997997,
+    -115.218336,
+    35.997997
+],
+  "geometry": {"coordinates":[-115.21833599999999,35.997997],"type":"Point"}
 }

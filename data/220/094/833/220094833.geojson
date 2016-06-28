@@ -2,13 +2,14 @@
   "id": 220094833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.958981,36.057003,-114.958981,36.057003",
     "geom:latitude":36.057003,
     "geom:longitude":-114.958981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Pueblo Pl",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220094833,
-    "wof:lastmodified":1449074547,
+    "wof:lastmodified":1466702354,
     "wof:name":"Casper Cleaning Service",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-114.958981,36.057003,-114.958981,36.057003],
-  "geometry": {"coordinates":[-114.958981,36.057003],"type":"Point"}
+  "bbox": [
+    -114.958981,
+    36.057003,
+    -114.958981,
+    36.057003
+],
+  "geometry": {"coordinates":[-114.95898099999999,36.057003],"type":"Point"}
 }

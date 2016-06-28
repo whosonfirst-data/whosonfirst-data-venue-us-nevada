@@ -2,13 +2,14 @@
   "id": 236688233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.854394,35.969646,-114.854394,35.969646",
     "geom:latitude":35.969646,
     "geom:longitude":-114.854394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236688233,
-    "wof:lastmodified":1449002775,
+    "wof:lastmodified":1466706449,
     "wof:name":"Entravsions Communications",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.854394,35.969646,-114.854394,35.969646],
+  "bbox": [
+    -114.854394,
+    35.969646,
+    -114.854394,
+    35.969646
+],
   "geometry": {"coordinates":[-114.854394,35.969646],"type":"Point"}
 }

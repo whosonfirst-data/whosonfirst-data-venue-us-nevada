@@ -2,13 +2,14 @@
   "id": 236542039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.758042,40.841402,-115.758042,40.841402",
     "geom:latitude":40.841402,
     "geom:longitude":-115.758042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 14th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236542039,
-    "wof:lastmodified":1449004360,
+    "wof:lastmodified":1466706022,
     "wof:name":"Jackie Q Hernandez MD",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.758042,40.841402,-115.758042,40.841402],
+  "bbox": [
+    -115.758042,
+    40.841402,
+    -115.758042,
+    40.841402
+],
   "geometry": {"coordinates":[-115.758042,40.841402],"type":"Point"}
 }

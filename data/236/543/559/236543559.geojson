@@ -2,13 +2,14 @@
   "id": 236543559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813789,39.511337,-119.813789,39.511337",
     "geom:latitude":39.511337,
     "geom:longitude":-119.813789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 Humboldt St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236543559,
-    "wof:lastmodified":1449002160,
+    "wof:lastmodified":1466706130,
     "wof:name":"Earl E Games Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.813789,39.511337,-119.813789,39.511337],
+  "bbox": [
+    -119.813789,
+    39.511337,
+    -119.813789,
+    39.511337
+],
   "geometry": {"coordinates":[-119.813789,39.511337],"type":"Point"}
 }

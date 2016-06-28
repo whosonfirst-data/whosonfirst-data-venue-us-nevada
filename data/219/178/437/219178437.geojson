@@ -2,13 +2,14 @@
   "id": 219178437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305526,36.128604,-115.305526,36.128604",
     "geom:latitude":36.128604,
     "geom:longitude":-115.305526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9775 Prescott Creek Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219178437,
-    "wof:lastmodified":1449072934,
+    "wof:lastmodified":1466701930,
     "wof:name":"Noble Construction Co",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-115.305526,36.128604,-115.305526,36.128604],
+  "bbox": [
+    -115.305526,
+    36.128604,
+    -115.305526,
+    36.128604
+],
   "geometry": {"coordinates":[-115.305526,36.128604],"type":"Point"}
 }

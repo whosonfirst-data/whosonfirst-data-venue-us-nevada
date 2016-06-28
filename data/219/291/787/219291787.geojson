@@ -2,13 +2,14 @@
   "id": 219291787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742381,39.520004,-119.742381,39.520004",
     "geom:latitude":39.520004,
     "geom:longitude":-119.742381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Coney Island Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219291787,
-    "wof:lastmodified":1449071484,
+    "wof:lastmodified":1466703014,
     "wof:name":"Propers Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-119.742381,39.520004,-119.742381,39.520004],
-  "geometry": {"coordinates":[-119.742381,39.520004],"type":"Point"}
+  "bbox": [
+    -119.742381,
+    39.520004,
+    -119.742381,
+    39.520004
+],
+  "geometry": {"coordinates":[-119.74238099999999,39.520004],"type":"Point"}
 }

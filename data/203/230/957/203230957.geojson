@@ -2,13 +2,14 @@
   "id": 203230957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.805209,39.514953,-119.805209,39.514953",
     "geom:latitude":39.514953,
     "geom:longitude":-119.805209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Burns St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203230957,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1466702390,
     "wof:name":"Environmental Golf Ball Rcvry",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-119.805209,39.514953,-119.805209,39.514953],
+  "bbox": [
+    -119.805209,
+    39.514953,
+    -119.805209,
+    39.514953
+],
   "geometry": {"coordinates":[-119.805209,39.514953],"type":"Point"}
 }

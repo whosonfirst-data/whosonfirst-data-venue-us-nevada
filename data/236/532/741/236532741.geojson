@@ -2,13 +2,14 @@
   "id": 236532741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.832294,39.558166,-119.832294,39.558166",
     "geom:latitude":39.558166,
     "geom:longitude":-119.832294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Lookout Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236532741,
-    "wof:lastmodified":1449002615,
+    "wof:lastmodified":1466705828,
     "wof:name":"Lane Cameron Music Services",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.832294,39.558166,-119.832294,39.558166],
+  "bbox": [
+    -119.832294,
+    39.558166,
+    -119.832294,
+    39.558166
+],
   "geometry": {"coordinates":[-119.832294,39.558166],"type":"Point"}
 }

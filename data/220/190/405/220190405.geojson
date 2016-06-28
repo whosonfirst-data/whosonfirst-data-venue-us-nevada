@@ -2,13 +2,14 @@
   "id": 220190405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.577436,40.729256,-115.577436,40.729256",
     "geom:latitude":40.729256,
     "geom:longitude":-115.577436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Balsam Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220190405,
-    "wof:lastmodified":1449074838,
+    "wof:lastmodified":1466703029,
     "wof:name":"D L Wright Royalty Co",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-115.577436,40.729256,-115.577436,40.729256],
-  "geometry": {"coordinates":[-115.577436,40.729256],"type":"Point"}
+  "bbox": [
+    -115.577436,
+    40.729256,
+    -115.577436,
+    40.729256
+],
+  "geometry": {"coordinates":[-115.57743600000001,40.729256],"type":"Point"}
 }

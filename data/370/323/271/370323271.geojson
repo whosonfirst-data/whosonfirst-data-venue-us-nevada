@@ -2,13 +2,14 @@
   "id": 370323271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837891,39.639094,-119.837891,39.639094",
     "geom:latitude":39.639094,
     "geom:longitude":-119.837891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9140 Reservoir St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":370323271,
-    "wof:lastmodified":1449029381,
+    "wof:lastmodified":1466704621,
     "wof:name":"North Valley Heating",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-119.837891,39.639094,-119.837891,39.639094],
+  "bbox": [
+    -119.837891,
+    39.639094,
+    -119.837891,
+    39.639094
+],
   "geometry": {"coordinates":[-119.837891,39.639094],"type":"Point"}
 }

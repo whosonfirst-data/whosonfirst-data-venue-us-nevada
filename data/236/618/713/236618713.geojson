@@ -2,13 +2,14 @@
   "id": 236618713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085189,36.095166,-115.085189,36.095166",
     "geom:latitude":36.095166,
     "geom:longitude":-115.085189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 Venita Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236618713,
-    "wof:lastmodified":1449003753,
+    "wof:lastmodified":1466706309,
     "wof:name":"Elite Resorts",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-115.085189,36.095166,-115.085189,36.095166],
+  "bbox": [
+    -115.085189,
+    36.095166,
+    -115.085189,
+    36.095166
+],
   "geometry": {"coordinates":[-115.085189,36.095166],"type":"Point"}
 }

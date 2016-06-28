@@ -2,13 +2,14 @@
   "id": 219606289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726887,39.396133,-119.726887,39.396133",
     "geom:latitude":39.396133,
     "geom:longitude":-119.726887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14460 Shadow Hills Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219606289,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466703027,
     "wof:name":"Spirit Workings",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.726887,39.396133,-119.726887,39.396133],
+  "bbox": [
+    -119.726887,
+    39.396133,
+    -119.726887,
+    39.396133
+],
   "geometry": {"coordinates":[-119.726887,39.396133],"type":"Point"}
 }

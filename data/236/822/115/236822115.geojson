@@ -2,13 +2,14 @@
   "id": 236822115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178633,36.123266,-115.178633,36.123266",
     "geom:latitude":36.123266,
     "geom:longitude":-115.178633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3665 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236822115,
-    "wof:lastmodified":1449005125,
+    "wof:lastmodified":1466706685,
     "wof:name":"MGM Mirage Events",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "event"
     ]
 },
-  "bbox": [-115.178633,36.123266,-115.178633,36.123266],
+  "bbox": [
+    -115.178633,
+    36.123266,
+    -115.178633,
+    36.123266
+],
   "geometry": {"coordinates":[-115.178633,36.123266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236519347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238076,36.185188,-115.238076,36.185188",
     "geom:latitude":36.185188,
     "geom:longitude":-115.238076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Silver Prospect Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236519347,
-    "wof:lastmodified":1449004988,
+    "wof:lastmodified":1466705895,
     "wof:name":"Adrianna's Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.238076,36.185188,-115.238076,36.185188],
-  "geometry": {"coordinates":[-115.238076,36.185188],"type":"Point"}
+  "bbox": [
+    -115.238076,
+    36.185188,
+    -115.238076,
+    36.185188
+],
+  "geometry": {"coordinates":[-115.23807600000001,36.185188],"type":"Point"}
 }

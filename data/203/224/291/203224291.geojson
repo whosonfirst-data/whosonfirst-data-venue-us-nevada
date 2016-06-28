@@ -2,13 +2,14 @@
   "id": 203224291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733619,39.541408,-119.733619,39.541408",
     "geom:latitude":39.541408,
     "geom:longitude":-119.733619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N McCarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203224291,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466702324,
     "wof:name":"Avco Financial",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-119.733619,39.541408,-119.733619,39.541408],
+  "bbox": [
+    -119.733619,
+    39.541408,
+    -119.733619,
+    39.541408
+],
   "geometry": {"coordinates":[-119.733619,39.541408],"type":"Point"}
 }

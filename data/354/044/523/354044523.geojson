@@ -2,13 +2,14 @@
   "id": 354044523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192035,36.217459,-115.192035,36.217459",
     "geom:latitude":36.217459,
     "geom:longitude":-115.192035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 W Cheyenne Ave Ste 205",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354044523,
-    "wof:lastmodified":1449066818,
+    "wof:lastmodified":1466702631,
     "wof:name":"Partygals",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-115.192035,36.217459,-115.192035,36.217459],
+  "bbox": [
+    -115.192035,
+    36.217459,
+    -115.192035,
+    36.217459
+],
   "geometry": {"coordinates":[-115.192035,36.217459],"type":"Point"}
 }

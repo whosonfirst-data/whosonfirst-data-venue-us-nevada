@@ -2,13 +2,14 @@
   "id": 219956457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160834,36.021688,-115.160834,36.021688",
     "geom:latitude":36.021688,
     "geom:longitude":-115.160834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Spring River Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219956457,
-    "wof:lastmodified":1449070989,
+    "wof:lastmodified":1466705969,
     "wof:name":"Stone Guard",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.160834,36.021688,-115.160834,36.021688],
-  "geometry": {"coordinates":[-115.160834,36.021688],"type":"Point"}
+  "bbox": [
+    -115.160834,
+    36.021688,
+    -115.160834,
+    36.021688
+],
+  "geometry": {"coordinates":[-115.16083399999999,36.021688],"type":"Point"}
 }

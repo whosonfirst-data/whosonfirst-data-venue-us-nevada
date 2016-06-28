@@ -2,13 +2,14 @@
   "id": 220194773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211634,36.252792,-115.211634,36.252792",
     "geom:latitude":36.252792,
     "geom:longitude":-115.211634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 Cliffrose Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220194773,
-    "wof:lastmodified":1449074752,
+    "wof:lastmodified":1466703067,
     "wof:name":"Stephen Nasser Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.211634,36.252792,-115.211634,36.252792],
+  "bbox": [
+    -115.211634,
+    36.252792,
+    -115.211634,
+    36.252792
+],
   "geometry": {"coordinates":[-115.211634,36.252792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220194683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763932,39.482913,-119.763932,39.482913",
     "geom:latitude":39.482913,
     "geom:longitude":-119.763932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4875 Aircenter Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220194683,
-    "wof:lastmodified":1449074753,
+    "wof:lastmodified":1466703066,
     "wof:name":"Entertainment Distribution Co",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-119.763932,39.482913,-119.763932,39.482913],
+  "bbox": [
+    -119.763932,
+    39.482913,
+    -119.763932,
+    39.482913
+],
   "geometry": {"coordinates":[-119.763932,39.482913],"type":"Point"}
 }

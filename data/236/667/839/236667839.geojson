@@ -2,13 +2,14 @@
   "id": 236667839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.723649,39.426642,-119.723649,39.426642",
     "geom:latitude":39.426642,
     "geom:longitude":-119.723649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2054 Brittany Meadows Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236667839,
-    "wof:lastmodified":1449003882,
+    "wof:lastmodified":1466706422,
     "wof:name":"All-Clean On Site",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-119.723649,39.426642,-119.723649,39.426642],
-  "geometry": {"coordinates":[-119.723649,39.426642],"type":"Point"}
+  "bbox": [
+    -119.723649,
+    39.426642,
+    -119.723649,
+    39.426642
+],
+  "geometry": {"coordinates":[-119.72364899999999,39.426642],"type":"Point"}
 }

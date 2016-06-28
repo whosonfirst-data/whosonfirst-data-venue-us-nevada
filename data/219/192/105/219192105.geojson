@@ -2,13 +2,14 @@
   "id": 219192105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.315842,36.135403,-115.315842,36.135403",
     "geom:latitude":36.135403,
     "geom:longitude":-115.315842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3038 Cherum St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219192105,
-    "wof:lastmodified":1449072898,
+    "wof:lastmodified":1466702010,
     "wof:name":"M L Fetch Associates",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-115.315842,36.135403,-115.315842,36.135403],
+  "bbox": [
+    -115.315842,
+    36.135403,
+    -115.315842,
+    36.135403
+],
   "geometry": {"coordinates":[-115.315842,36.135403],"type":"Point"}
 }

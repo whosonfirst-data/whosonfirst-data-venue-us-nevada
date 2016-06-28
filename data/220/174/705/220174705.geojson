@@ -2,13 +2,14 @@
   "id": 220174705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.89486,39.247103,-114.89486,39.247103",
     "geom:latitude":39.247103,
     "geom:longitude":-114.89486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Mill St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220174705,
-    "wof:lastmodified":1449074139,
+    "wof:lastmodified":1466702921,
     "wof:name":"Ely Fire Dept",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-114.89486,39.247103,-114.89486,39.247103],
-  "geometry": {"coordinates":[-114.89486,39.247103],"type":"Point"}
+  "bbox": [
+    -114.89486,
+    39.247103,
+    -114.89486,
+    39.247103
+],
+  "geometry": {"coordinates":[-114.89485999999999,39.247103],"type":"Point"}
 }

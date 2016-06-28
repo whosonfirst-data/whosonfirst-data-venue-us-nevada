@@ -2,13 +2,14 @@
   "id": 236585595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.046244,36.064315,-115.046244,36.064315",
     "geom:latitude":36.064315,
     "geom:longitude":-115.046244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 N Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236585595,
-    "wof:lastmodified":1449003927,
+    "wof:lastmodified":1466706218,
     "wof:name":"All Vacuum & Sewing Green Vly",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-115.046244,36.064315,-115.046244,36.064315],
+  "bbox": [
+    -115.046244,
+    36.064315,
+    -115.046244,
+    36.064315
+],
   "geometry": {"coordinates":[-115.046244,36.064315],"type":"Point"}
 }

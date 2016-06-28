@@ -2,13 +2,14 @@
   "id": 220003429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119843,36.22758,-115.119843,36.22758",
     "geom:latitude":36.22758,
     "geom:longitude":-115.119843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3823 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220003429,
-    "wof:lastmodified":1449074823,
+    "wof:lastmodified":1466701464,
     "wof:name":"Total Concrete",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.119843,36.22758,-115.119843,36.22758],
+  "bbox": [
+    -115.119843,
+    36.22758,
+    -115.119843,
+    36.22758
+],
   "geometry": {"coordinates":[-115.119843,36.22758],"type":"Point"}
 }

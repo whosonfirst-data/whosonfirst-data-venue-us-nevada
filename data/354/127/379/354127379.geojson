@@ -2,13 +2,14 @@
   "id": 354127379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198997,36.158901,-115.198997,36.158901",
     "geom:latitude":36.158901,
     "geom:longitude":-115.198997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4347 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":354127379,
-    "wof:lastmodified":1449067526,
+    "wof:lastmodified":1466704462,
     "wof:name":"Flex Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.198997,36.158901,-115.198997,36.158901],
-  "geometry": {"coordinates":[-115.198997,36.158901],"type":"Point"}
+  "bbox": [
+    -115.198997,
+    36.158901,
+    -115.198997,
+    36.158901
+],
+  "geometry": {"coordinates":[-115.19899700000001,36.158901],"type":"Point"}
 }

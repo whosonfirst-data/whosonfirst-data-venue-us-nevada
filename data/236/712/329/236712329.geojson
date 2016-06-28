@@ -2,13 +2,14 @@
   "id": 236712329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741543,38.890396,-119.741543,38.890396",
     "geom:latitude":38.890396,
     "geom:longitude":-119.741543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Addler Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236712329,
-    "wof:lastmodified":1449002999,
+    "wof:lastmodified":1466706504,
     "wof:name":"RPM Handyman & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-119.741543,38.890396,-119.741543,38.890396],
-  "geometry": {"coordinates":[-119.741543,38.890396],"type":"Point"}
+  "bbox": [
+    -119.741543,
+    38.890396,
+    -119.741543,
+    38.890396
+],
+  "geometry": {"coordinates":[-119.74154299999999,38.890396],"type":"Point"}
 }

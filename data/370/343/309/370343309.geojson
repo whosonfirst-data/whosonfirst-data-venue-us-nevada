@@ -2,13 +2,14 @@
   "id": 370343309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.71549,39.180703,-119.71549,39.180703",
     "geom:latitude":39.180703,
     "geom:longitude":-119.71549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Empire Ranch Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370343309,
-    "wof:lastmodified":1449031494,
+    "wof:lastmodified":1466704991,
     "wof:name":"Capital Tree Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardener"
     ]
 },
-  "bbox": [-119.71549,39.180703,-119.71549,39.180703],
+  "bbox": [
+    -119.71549,
+    39.180703,
+    -119.71549,
+    39.180703
+],
   "geometry": {"coordinates":[-119.71549,39.180703],"type":"Point"}
 }

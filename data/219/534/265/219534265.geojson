@@ -2,13 +2,14 @@
   "id": 219534265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760898,39.150878,-119.760898,39.150878",
     "geom:latitude":39.150878,
     "geom:longitude":-119.760898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Mallory Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219534265,
-    "wof:lastmodified":1449071315,
+    "wof:lastmodified":1466701933,
     "wof:name":"Cardivan Co",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.760898,39.150878,-119.760898,39.150878],
+  "bbox": [
+    -119.760898,
+    39.150878,
+    -119.760898,
+    39.150878
+],
   "geometry": {"coordinates":[-119.760898,39.150878],"type":"Point"}
 }

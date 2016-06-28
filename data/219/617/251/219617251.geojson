@@ -2,13 +2,14 @@
   "id": 219617251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186101,36.151518,-115.186101,36.151518",
     "geom:latitude":36.151518,
     "geom:longitude":-115.186101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219617251,
-    "wof:lastmodified":1449070489,
+    "wof:lastmodified":1466703229,
     "wof:name":"Desert Wind Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.186101,36.151518,-115.186101,36.151518],
-  "geometry": {"coordinates":[-115.186101,36.151518],"type":"Point"}
+  "bbox": [
+    -115.186101,
+    36.151518,
+    -115.186101,
+    36.151518
+],
+  "geometry": {"coordinates":[-115.18610099999999,36.151518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236969391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776373,39.527609,-119.776373,39.527609",
     "geom:latitude":39.527609,
     "geom:longitude":-119.776373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236969391,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466706952,
     "wof:name":"Nations Rent",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "handling"
     ]
 },
-  "bbox": [-119.776373,39.527609,-119.776373,39.527609],
-  "geometry": {"coordinates":[-119.776373,39.527609],"type":"Point"}
+  "bbox": [
+    -119.776373,
+    39.527609,
+    -119.776373,
+    39.527609
+],
+  "geometry": {"coordinates":[-119.77637300000001,39.527609],"type":"Point"}
 }

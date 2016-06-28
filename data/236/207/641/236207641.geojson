@@ -2,13 +2,14 @@
   "id": 236207641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111761,36.181054,-115.111761,36.181054",
     "geom:latitude":36.181054,
     "geom:longitude":-115.111761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2863 E Washington Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236207641,
-    "wof:lastmodified":1449004058,
+    "wof:lastmodified":1466703728,
     "wof:name":"S & H Construction Clean Up",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-115.111761,36.181054,-115.111761,36.181054],
+  "bbox": [
+    -115.111761,
+    36.181054,
+    -115.111761,
+    36.181054
+],
   "geometry": {"coordinates":[-115.111761,36.181054],"type":"Point"}
 }

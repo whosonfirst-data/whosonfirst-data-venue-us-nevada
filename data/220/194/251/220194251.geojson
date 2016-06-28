@@ -2,13 +2,14 @@
   "id": 220194251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242743,36.251045,-115.242743,36.251045",
     "geom:latitude":36.251045,
     "geom:longitude":-115.242743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5081 N Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220194251,
-    "wof:lastmodified":1449074753,
+    "wof:lastmodified":1466703054,
     "wof:name":"Addiction Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.242743,36.251045,-115.242743,36.251045],
+  "bbox": [
+    -115.242743,
+    36.251045,
+    -115.242743,
+    36.251045
+],
   "geometry": {"coordinates":[-115.242743,36.251045],"type":"Point"}
 }

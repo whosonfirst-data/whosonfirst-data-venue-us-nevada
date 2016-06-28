@@ -2,13 +2,14 @@
   "id": 219773811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.697425,39.542438,-119.697425,39.542438",
     "geom:latitude":39.542438,
     "geom:longitude":-119.697425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219773811,
-    "wof:lastmodified":1449070843,
+    "wof:lastmodified":1466704926,
     "wof:name":"Sparks Radiology Group Ltd",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiologist"
     ]
 },
-  "bbox": [-119.697425,39.542438,-119.697425,39.542438],
+  "bbox": [
+    -119.697425,
+    39.542438,
+    -119.697425,
+    39.542438
+],
   "geometry": {"coordinates":[-119.697425,39.542438],"type":"Point"}
 }

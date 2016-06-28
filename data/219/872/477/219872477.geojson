@@ -2,13 +2,14 @@
   "id": 219872477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166471,36.015319,-115.166471,36.015319",
     "geom:latitude":36.015319,
     "geom:longitude":-115.166471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9620 Flying Eagle Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219872477,
-    "wof:lastmodified":1449070704,
+    "wof:lastmodified":1466705506,
     "wof:name":"PMCS",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-115.166471,36.015319,-115.166471,36.015319],
+  "bbox": [
+    -115.166471,
+    36.015319,
+    -115.166471,
+    36.015319
+],
   "geometry": {"coordinates":[-115.166471,36.015319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235969343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254324,36.119269,-115.254324,36.119269",
     "geom:latitude":36.119269,
     "geom:longitude":-115.254324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3853 Mapleview Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235969343,
-    "wof:lastmodified":1449008337,
+    "wof:lastmodified":1466703602,
     "wof:name":"Niles Carol Realty",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.254324,36.119269,-115.254324,36.119269],
+  "bbox": [
+    -115.254324,
+    36.119269,
+    -115.254324,
+    36.119269
+],
   "geometry": {"coordinates":[-115.254324,36.119269],"type":"Point"}
 }

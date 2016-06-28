@@ -2,13 +2,14 @@
   "id": 203250307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146581,36.198052,-115.146581,36.198052",
     "geom:latitude":36.198052,
     "geom:longitude":-115.146581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Gilday Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203250307,
-    "wof:lastmodified":1449026034,
+    "wof:lastmodified":1466702490,
     "wof:name":"Williams & Sons Janitorial Svc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.146581,36.198052,-115.146581,36.198052],
+  "bbox": [
+    -115.146581,
+    36.198052,
+    -115.146581,
+    36.198052
+],
   "geometry": {"coordinates":[-115.146581,36.198052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354181947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068981,36.151318,-115.068981,36.151318",
     "geom:latitude":36.151318,
     "geom:longitude":-115.068981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4847 E New York Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354181947,
-    "wof:lastmodified":1449066979,
+    "wof:lastmodified":1466705024,
     "wof:name":"St Patrick Rest",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.068981,36.151318,-115.068981,36.151318],
-  "geometry": {"coordinates":[-115.068981,36.151318],"type":"Point"}
+  "bbox": [
+    -115.068981,
+    36.151318,
+    -115.068981,
+    36.151318
+],
+  "geometry": {"coordinates":[-115.06898099999999,36.151318],"type":"Point"}
 }

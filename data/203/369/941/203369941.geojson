@@ -2,13 +2,14 @@
   "id": 203369941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.825581,35.973258,-114.825581,35.973258",
     "geom:latitude":35.973258,
     "geom:longitude":-114.825581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 7th St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203369941,
-    "wof:lastmodified":1449026777,
+    "wof:lastmodified":1466703226,
     "wof:name":"Huxford Dental LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-114.825581,35.973258,-114.825581,35.973258],
+  "bbox": [
+    -114.825581,
+    35.973258,
+    -114.825581,
+    35.973258
+],
   "geometry": {"coordinates":[-114.825581,35.973258],"type":"Point"}
 }

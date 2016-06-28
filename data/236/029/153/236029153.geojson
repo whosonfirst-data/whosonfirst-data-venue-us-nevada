@@ -2,13 +2,14 @@
   "id": 236029153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761952,39.440319,-119.761952,39.440319",
     "geom:latitude":39.440319,
     "geom:longitude":-119.761952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9795 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236029153,
-    "wof:lastmodified":1449002974,
+    "wof:lastmodified":1466703899,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761952,39.440319,-119.761952,39.440319],
-  "geometry": {"coordinates":[-119.761952,39.440319],"type":"Point"}
+  "bbox": [
+    -119.761952,
+    39.440319,
+    -119.761952,
+    39.440319
+],
+  "geometry": {"coordinates":[-119.76195199999999,39.440319],"type":"Point"}
 }

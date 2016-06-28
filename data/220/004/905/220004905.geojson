@@ -2,13 +2,14 @@
   "id": 220004905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.613002,40.734915,-115.613002,40.734915",
     "geom:latitude":40.734915,
     "geom:longitude":-115.613002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Lawndale Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220004905,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466701476,
     "wof:name":"High Desert Racing",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.613002,40.734915,-115.613002,40.734915],
-  "geometry": {"coordinates":[-115.613002,40.734915],"type":"Point"}
+  "bbox": [
+    -115.613002,
+    40.734915,
+    -115.613002,
+    40.734915
+],
+  "geometry": {"coordinates":[-115.61300199999999,40.734915],"type":"Point"}
 }

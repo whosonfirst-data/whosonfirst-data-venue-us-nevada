@@ -2,13 +2,14 @@
   "id": 219863843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.961314,39.251813,-119.961314,39.251813",
     "geom:latitude":39.251813,
     "geom:longitude":-119.961314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Northwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219863843,
-    "wof:lastmodified":1449072825,
+    "wof:lastmodified":1466705455,
     "wof:name":"Emily A Smith MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.961314,39.251813,-119.961314,39.251813],
+  "bbox": [
+    -119.961314,
+    39.251813,
+    -119.961314,
+    39.251813
+],
   "geometry": {"coordinates":[-119.961314,39.251813],"type":"Point"}
 }

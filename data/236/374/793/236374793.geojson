@@ -2,13 +2,14 @@
   "id": 236374793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.162061,38.995193,-119.162061,38.995193",
     "geom:latitude":38.995193,
     "geom:longitude":-119.162061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Nevin Way",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236374793,
-    "wof:lastmodified":1449003025,
+    "wof:lastmodified":1466705201,
     "wof:name":"Women Infants and Children",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-119.162061,38.995193,-119.162061,38.995193],
-  "geometry": {"coordinates":[-119.162061,38.995193],"type":"Point"}
+  "bbox": [
+    -119.162061,
+    38.995193,
+    -119.162061,
+    38.995193
+],
+  "geometry": {"coordinates":[-119.16206099999999,38.995193],"type":"Point"}
 }

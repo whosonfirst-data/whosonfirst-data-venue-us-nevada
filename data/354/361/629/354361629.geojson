@@ -2,13 +2,14 @@
   "id": 354361629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172993,36.092281,-115.172993,36.092281",
     "geom:latitude":36.092281,
     "geom:longitude":-115.172993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3950 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354361629,
-    "wof:lastmodified":1449067200,
+    "wof:lastmodified":1466706149,
     "wof:name":"Bombay Cigar Company",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.172993,36.092281,-115.172993,36.092281],
-  "geometry": {"coordinates":[-115.172993,36.092281],"type":"Point"}
+  "bbox": [
+    -115.172993,
+    36.092281,
+    -115.172993,
+    36.092281
+],
+  "geometry": {"coordinates":[-115.17299300000001,36.092281],"type":"Point"}
 }

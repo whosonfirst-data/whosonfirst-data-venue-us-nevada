@@ -2,13 +2,14 @@
   "id": 219841535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731138,39.167623,-119.731138,39.167623",
     "geom:latitude":39.167623,
     "geom:longitude":-119.731138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Butti Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219841535,
-    "wof:lastmodified":1449071135,
+    "wof:lastmodified":1466705207,
     "wof:name":"Carson City Wastewater Plant",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-119.731138,39.167623,-119.731138,39.167623],
+  "bbox": [
+    -119.731138,
+    39.167623,
+    -119.731138,
+    39.167623
+],
   "geometry": {"coordinates":[-119.731138,39.167623],"type":"Point"}
 }

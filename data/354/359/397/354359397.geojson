@@ -2,13 +2,14 @@
   "id": 354359397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066671,36.233431,-115.066671,36.233431",
     "geom:latitude":36.233431,
     "geom:longitude":-115.066671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3999 Las Vegas Blvd S Ste K",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354359397,
-    "wof:lastmodified":1449065903,
+    "wof:lastmodified":1466706047,
     "wof:name":"KVGQ 106.9",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mass"
     ]
 },
-  "bbox": [-115.066671,36.233431,-115.066671,36.233431],
+  "bbox": [
+    -115.066671,
+    36.233431,
+    -115.066671,
+    36.233431
+],
   "geometry": {"coordinates":[-115.066671,36.233431],"type":"Point"}
 }

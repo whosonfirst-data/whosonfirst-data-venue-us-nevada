@@ -2,13 +2,14 @@
   "id": 236348115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107902,36.078924,-115.107902,36.078924",
     "geom:latitude":36.078924,
     "geom:longitude":-115.107902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236348115,
-    "wof:lastmodified":1449001785,
+    "wof:lastmodified":1466705003,
     "wof:name":"Vmdirect LLC",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "e"
     ]
 },
-  "bbox": [-115.107902,36.078924,-115.107902,36.078924],
+  "bbox": [
+    -115.107902,
+    36.078924,
+    -115.107902,
+    36.078924
+],
   "geometry": {"coordinates":[-115.107902,36.078924],"type":"Point"}
 }

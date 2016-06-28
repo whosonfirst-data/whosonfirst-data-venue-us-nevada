@@ -2,13 +2,14 @@
   "id": 203409209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.79364,40.847188,-115.79364,40.847188",
     "geom:latitude":40.847188,
     "geom:longitude":-115.79364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Copper St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203409209,
-    "wof:lastmodified":1449025703,
+    "wof:lastmodified":1466703353,
     "wof:name":"Coyles Welding Shop",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.79364,40.847188,-115.79364,40.847188],
+  "bbox": [
+    -115.79364,
+    40.847188,
+    -115.79364,
+    40.847188
+],
   "geometry": {"coordinates":[-115.79364,40.847188],"type":"Point"}
 }

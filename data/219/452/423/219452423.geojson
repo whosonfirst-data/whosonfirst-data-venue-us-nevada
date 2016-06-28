@@ -2,13 +2,14 @@
   "id": 219452423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798655,39.490835,-119.798655,39.490835",
     "geom:latitude":39.490835,
     "geom:longitude":-119.798655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3596 Baker Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219452423,
-    "wof:lastmodified":1449071221,
+    "wof:lastmodified":1466703885,
     "wof:name":"Thomas T Herrera Chiropractic",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.798655,39.490835,-119.798655,39.490835],
+  "bbox": [
+    -119.798655,
+    39.490835,
+    -119.798655,
+    39.490835
+],
   "geometry": {"coordinates":[-119.798655,39.490835],"type":"Point"}
 }

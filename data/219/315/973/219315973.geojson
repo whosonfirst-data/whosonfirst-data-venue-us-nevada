@@ -2,13 +2,14 @@
   "id": 219315973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.240611,36.046706,-115.240611,36.046706",
     "geom:latitude":36.046706,
     "geom:longitude":-115.240611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7855 Spindrift Cove St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219315973,
-    "wof:lastmodified":1449073725,
+    "wof:lastmodified":1466703203,
     "wof:name":"Ace Environmental LLC",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-115.240611,36.046706,-115.240611,36.046706],
+  "bbox": [
+    -115.240611,
+    36.046706,
+    -115.240611,
+    36.046706
+],
   "geometry": {"coordinates":[-115.240611,36.046706],"type":"Point"}
 }

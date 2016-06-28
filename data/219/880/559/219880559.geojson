@@ -2,13 +2,14 @@
   "id": 219880559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.314336,36.132155,-115.314336,36.132155",
     "geom:latitude":36.132155,
     "geom:longitude":-115.314336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 Rolling Glen Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219880559,
-    "wof:lastmodified":1449073955,
+    "wof:lastmodified":1466705642,
     "wof:name":"Phillips Consulting",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.314336,36.132155,-115.314336,36.132155],
+  "bbox": [
+    -115.314336,
+    36.132155,
+    -115.314336,
+    36.132155
+],
   "geometry": {"coordinates":[-115.314336,36.132155],"type":"Point"}
 }

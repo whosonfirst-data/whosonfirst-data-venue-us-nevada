@@ -2,13 +2,14 @@
   "id": 370286365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158012,36.120429,-115.158012,36.120429",
     "geom:latitude":36.120429,
     "geom:longitude":-115.158012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3773 Howard Hughes Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370286365,
-    "wof:lastmodified":1449029986,
+    "wof:lastmodified":1466704451,
     "wof:name":"Klomp Wayne",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.158012,36.120429,-115.158012,36.120429],
+  "bbox": [
+    -115.158012,
+    36.120429,
+    -115.158012,
+    36.120429
+],
   "geometry": {"coordinates":[-115.158012,36.120429],"type":"Point"}
 }

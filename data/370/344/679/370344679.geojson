@@ -2,13 +2,14 @@
   "id": 370344679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.71775,39.173633,-119.71775,39.173633",
     "geom:latitude":39.173633,
     "geom:longitude":-119.71775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 Empire Ranch Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370344679,
-    "wof:lastmodified":1449029248,
+    "wof:lastmodified":1466705008,
     "wof:name":"Empire Ranch Trail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.71775,39.173633,-119.71775,39.173633],
+  "bbox": [
+    -119.71775,
+    39.173633,
+    -119.71775,
+    39.173633
+],
   "geometry": {"coordinates":[-119.71775,39.173633],"type":"Point"}
 }

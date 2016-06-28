@@ -2,13 +2,14 @@
   "id": 236174821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744926,39.207764,-119.744926,39.207764",
     "geom:latitude":39.207764,
     "geom:longitude":-119.744926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5344 Cachet Ct",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236174821,
-    "wof:lastmodified":1449002011,
+    "wof:lastmodified":1466703078,
     "wof:name":"Hart Plumbing & Services",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.744926,39.207764,-119.744926,39.207764],
-  "geometry": {"coordinates":[-119.744926,39.207764],"type":"Point"}
+  "bbox": [
+    -119.744926,
+    39.207764,
+    -119.744926,
+    39.207764
+],
+  "geometry": {"coordinates":[-119.74492600000001,39.207764],"type":"Point"}
 }

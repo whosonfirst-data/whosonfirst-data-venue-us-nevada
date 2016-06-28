@@ -2,13 +2,14 @@
   "id": 354275165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252705,36.055599,-115.252705,36.055599",
     "geom:latitude":36.055599,
     "geom:longitude":-115.252705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7325 W. Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354275165,
-    "wof:lastmodified":1449066460,
+    "wof:lastmodified":1466705437,
     "wof:name":"Brentwood Cafe & Tavern",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "american"
     ]
 },
-  "bbox": [-115.252705,36.055599,-115.252705,36.055599],
-  "geometry": {"coordinates":[-115.252705,36.055599],"type":"Point"}
+  "bbox": [
+    -115.252705,
+    36.055599,
+    -115.252705,
+    36.055599
+],
+  "geometry": {"coordinates":[-115.25270500000001,36.055599],"type":"Point"}
 }

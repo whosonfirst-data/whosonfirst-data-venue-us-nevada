@@ -2,13 +2,14 @@
   "id": 236974033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983504,36.035439,-114.983504,36.035439",
     "geom:latitude":36.035439,
     "geom:longitude":-114.983504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Colorado Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236974033,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466706896,
     "wof:name":"Collegiate Elections Services",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "campaign"
     ]
 },
-  "bbox": [-114.983504,36.035439,-114.983504,36.035439],
+  "bbox": [
+    -114.983504,
+    36.035439,
+    -114.983504,
+    36.035439
+],
   "geometry": {"coordinates":[-114.983504,36.035439],"type":"Point"}
 }

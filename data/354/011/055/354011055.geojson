@@ -2,13 +2,14 @@
   "id": 354011055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.040624,36.063652,-115.040624,36.063652",
     "geom:latitude":36.063652,
     "geom:longitude":-115.040624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunset Station 1301 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354011055,
-    "wof:lastmodified":1449067329,
+    "wof:lastmodified":1466701763,
     "wof:name":"Capri Italian Ristorante",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.040624,36.063652,-115.040624,36.063652],
-  "geometry": {"coordinates":[-115.040624,36.063652],"type":"Point"}
+  "bbox": [
+    -115.040624,
+    36.063652,
+    -115.040624,
+    36.063652
+],
+  "geometry": {"coordinates":[-115.04062399999999,36.063652],"type":"Point"}
 }

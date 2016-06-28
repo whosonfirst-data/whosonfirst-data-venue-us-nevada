@@ -2,13 +2,14 @@
   "id": 236240381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.235194,36.015012,-115.235194,36.015012",
     "geom:latitude":36.015012,
     "geom:longitude":-115.235194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6475 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236240381,
-    "wof:lastmodified":1449001933,
+    "wof:lastmodified":1466704320,
     "wof:name":"Desert Drilling",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drilling"
     ]
 },
-  "bbox": [-115.235194,36.015012,-115.235194,36.015012],
-  "geometry": {"coordinates":[-115.235194,36.015012],"type":"Point"}
+  "bbox": [
+    -115.235194,
+    36.015012,
+    -115.235194,
+    36.015012
+],
+  "geometry": {"coordinates":[-115.23519400000001,36.015012],"type":"Point"}
 }

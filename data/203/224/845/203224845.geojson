@@ -2,13 +2,14 @@
   "id": 203224845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177466,36.130757,-115.177466,36.130757",
     "geom:latitude":36.130757,
     "geom:longitude":-115.177466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3281 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203224845,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466702335,
     "wof:name":"Orion Productions Inc",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.177466,36.130757,-115.177466,36.130757],
+  "bbox": [
+    -115.177466,
+    36.130757,
+    -115.177466,
+    36.130757
+],
   "geometry": {"coordinates":[-115.177466,36.130757],"type":"Point"}
 }

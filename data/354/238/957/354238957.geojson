@@ -2,13 +2,14 @@
   "id": 354238957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171997,36.122002,-115.171997,36.122002",
     "geom:latitude":36.122002,
     "geom:longitude":-115.171997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Mirage 3400 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354238957,
-    "wof:lastmodified":1449066554,
+    "wof:lastmodified":1466705269,
     "wof:name":"Onda Ristorante & Wine Lounge",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.171997,36.122002,-115.171997,36.122002],
+  "bbox": [
+    -115.171997,
+    36.122002,
+    -115.171997,
+    36.122002
+],
   "geometry": {"coordinates":[-115.171997,36.122002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236743229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057131,36.019982,-115.057131,36.019982",
     "geom:latitude":36.019982,
     "geom:longitude":-115.057131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Baja Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236743229,
-    "wof:lastmodified":1449005230,
+    "wof:lastmodified":1466706549,
     "wof:name":"Becks North America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-115.057131,36.019982,-115.057131,36.019982],
+  "bbox": [
+    -115.057131,
+    36.019982,
+    -115.057131,
+    36.019982
+],
   "geometry": {"coordinates":[-115.057131,36.019982],"type":"Point"}
 }

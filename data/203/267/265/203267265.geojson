@@ -2,13 +2,14 @@
   "id": 203267265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.737971,39.44554,-118.737971,39.44554",
     "geom:latitude":39.44554,
     "geom:longitude":-118.737971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 Drumm Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203267265,
-    "wof:lastmodified":1449026693,
+    "wof:lastmodified":1466702618,
     "wof:name":"Tahoe Schooner Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [-118.737971,39.44554,-118.737971,39.44554],
+  "bbox": [
+    -118.737971,
+    39.44554,
+    -118.737971,
+    39.44554
+],
   "geometry": {"coordinates":[-118.737971,39.44554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219788131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189879,36.110787,-115.189879,36.110787",
     "geom:latitude":36.110787,
     "geom:longitude":-115.189879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4450 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219788131,
-    "wof:lastmodified":1449072199,
+    "wof:lastmodified":1466704871,
     "wof:name":"Designers Resource Ctr",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.189879,36.110787,-115.189879,36.110787],
+  "bbox": [
+    -115.189879,
+    36.110787,
+    -115.189879,
+    36.110787
+],
   "geometry": {"coordinates":[-115.189879,36.110787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219665167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.331263,36.227947,-115.331263,36.227947",
     "geom:latitude":36.227947,
     "geom:longitude":-115.331263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10630 Solar Hawk Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219665167,
-    "wof:lastmodified":1449071474,
+    "wof:lastmodified":1466704093,
     "wof:name":"Active Therapies",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.331263,36.227947,-115.331263,36.227947],
-  "geometry": {"coordinates":[-115.331263,36.227947],"type":"Point"}
+  "bbox": [
+    -115.331263,
+    36.227947,
+    -115.331263,
+    36.227947
+],
+  "geometry": {"coordinates":[-115.33126300000001,36.227947],"type":"Point"}
 }

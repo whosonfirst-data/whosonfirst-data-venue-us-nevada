@@ -2,13 +2,14 @@
   "id": 219231851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299372,36.20479,-115.299372,36.20479",
     "geom:latitude":36.20479,
     "geom:longitude":-115.299372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9336 Mist Flower Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219231851,
-    "wof:lastmodified":1449072187,
+    "wof:lastmodified":1466702312,
     "wof:name":"Jonathan Lum",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-115.299372,36.20479,-115.299372,36.20479],
-  "geometry": {"coordinates":[-115.299372,36.20479],"type":"Point"}
+  "bbox": [
+    -115.299372,
+    36.20479,
+    -115.299372,
+    36.20479
+],
+  "geometry": {"coordinates":[-115.29937200000001,36.20479],"type":"Point"}
 }

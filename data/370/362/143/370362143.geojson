@@ -2,13 +2,14 @@
   "id": 370362143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764999,39.168499,-119.764999,39.168499",
     "geom:latitude":39.168499,
     "geom:longitude":-119.764999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 21469",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370362143,
-    "wof:lastmodified":1449031262,
+    "wof:lastmodified":1466704957,
     "wof:name":"Cold Nose Kennels",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sitting"
     ]
 },
-  "bbox": [-119.764999,39.168499,-119.764999,39.168499],
+  "bbox": [
+    -119.764999,
+    39.168499,
+    -119.764999,
+    39.168499
+],
   "geometry": {"coordinates":[-119.764999,39.168499],"type":"Point"}
 }

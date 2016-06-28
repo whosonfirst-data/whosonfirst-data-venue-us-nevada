@@ -2,13 +2,14 @@
   "id": 203371059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.886315,39.539139,-119.886315,39.539139",
     "geom:latitude":39.539139,
     "geom:longitude":-119.886315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Robb Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203371059,
-    "wof:lastmodified":1449026406,
+    "wof:lastmodified":1466703221,
     "wof:name":"Battery Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.886315,39.539139,-119.886315,39.539139],
+  "bbox": [
+    -119.886315,
+    39.539139,
+    -119.886315,
+    39.539139
+],
   "geometry": {"coordinates":[-119.886315,39.539139],"type":"Point"}
 }

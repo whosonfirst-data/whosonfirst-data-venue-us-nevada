@@ -2,13 +2,14 @@
   "id": 370307723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.553761,38.715538,-119.553761,38.715538",
     "geom:latitude":38.715538,
     "geom:longitude":-119.553761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1685 US Highway 395 S",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370307723,
-    "wof:lastmodified":1449029972,
+    "wof:lastmodified":1466704640,
     "wof:name":"AAA Gary's Carpet Care-Carson City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rug"
     ]
 },
-  "bbox": [-119.553761,38.715538,-119.553761,38.715538],
-  "geometry": {"coordinates":[-119.553761,38.715538],"type":"Point"}
+  "bbox": [
+    -119.553761,
+    38.715538,
+    -119.553761,
+    38.715538
+],
+  "geometry": {"coordinates":[-119.55376099999999,38.715538],"type":"Point"}
 }

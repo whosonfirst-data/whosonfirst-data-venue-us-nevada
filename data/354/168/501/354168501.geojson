@@ -2,13 +2,14 @@
   "id": 354168501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107238,36.151654,-115.107238,36.151654",
     "geom:latitude":36.151654,
     "geom:longitude":-115.107238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3071 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354168501,
-    "wof:lastmodified":1449066825,
+    "wof:lastmodified":1466704666,
     "wof:name":"Guaranteed Auto Service",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.107238,36.151654,-115.107238,36.151654],
+  "bbox": [
+    -115.107238,
+    36.151654,
+    -115.107238,
+    36.151654
+],
   "geometry": {"coordinates":[-115.107238,36.151654],"type":"Point"}
 }

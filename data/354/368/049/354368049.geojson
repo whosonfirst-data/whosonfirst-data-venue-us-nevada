@@ -2,13 +2,14 @@
   "id": 354368049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100998,36.084,-115.100998,36.084",
     "geom:latitude":36.084,
     "geom:longitude":-115.100998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5836 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354368049,
-    "wof:lastmodified":1449066325,
+    "wof:lastmodified":1466706080,
     "wof:name":"Swartz Aubrey A MD",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.100998,36.084,-115.100998,36.084],
+  "bbox": [
+    -115.100998,
+    36.084,
+    -115.100998,
+    36.084
+],
   "geometry": {"coordinates":[-115.100998,36.084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354208393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206001,36.1707,-115.206001,36.1707",
     "geom:latitude":36.1707,
     "geom:longitude":-115.206001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354208393,
-    "wof:lastmodified":1449066133,
+    "wof:lastmodified":1466705210,
     "wof:name":"Steve-N-Kids Clubhouse",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-115.206001,36.1707,-115.206001,36.1707],
+  "bbox": [
+    -115.206001,
+    36.1707,
+    -115.206001,
+    36.1707
+],
   "geometry": {"coordinates":[-115.206001,36.1707],"type":"Point"}
 }

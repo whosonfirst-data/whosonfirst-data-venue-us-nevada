@@ -2,13 +2,14 @@
   "id": 203366919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769349,39.179119,-119.769349,39.179119",
     "geom:latitude":39.179119,
     "geom:longitude":-119.769349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203366919,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466703218,
     "wof:name":"Harold J Jacobsen CLU Chfc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769349,39.179119,-119.769349,39.179119],
-  "geometry": {"coordinates":[-119.769349,39.179119],"type":"Point"}
+  "bbox": [
+    -119.769349,
+    39.179119,
+    -119.769349,
+    39.179119
+],
+  "geometry": {"coordinates":[-119.76934900000001,39.179119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236366745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750083,39.553524,-119.750083,39.553524",
     "geom:latitude":39.553524,
     "geom:longitude":-119.750083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 Coppa Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236366745,
-    "wof:lastmodified":1449004173,
+    "wof:lastmodified":1466705272,
     "wof:name":"John & Martha Mc Camant",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-119.750083,39.553524,-119.750083,39.553524],
+  "bbox": [
+    -119.750083,
+    39.553524,
+    -119.750083,
+    39.553524
+],
   "geometry": {"coordinates":[-119.750083,39.553524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219235951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.764151,40.833088,-115.764151,40.833088",
     "geom:latitude":40.833088,
     "geom:longitude":-115.764151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Court St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219235951,
-    "wof:lastmodified":1449070998,
+    "wof:lastmodified":1466702401,
     "wof:name":"Map House",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "map"
     ]
 },
-  "bbox": [-115.764151,40.833088,-115.764151,40.833088],
+  "bbox": [
+    -115.764151,
+    40.833088,
+    -115.764151,
+    40.833088
+],
   "geometry": {"coordinates":[-115.764151,40.833088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219349235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.785457,39.474551,-118.785457,39.474551",
     "geom:latitude":39.474551,
     "geom:longitude":-118.785457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 S Bailey St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219349235,
-    "wof:lastmodified":1449071721,
+    "wof:lastmodified":1466703390,
     "wof:name":"Edward Horn & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-118.785457,39.474551,-118.785457,39.474551],
-  "geometry": {"coordinates":[-118.785457,39.474551],"type":"Point"}
+  "bbox": [
+    -118.785457,
+    39.474551,
+    -118.785457,
+    39.474551
+],
+  "geometry": {"coordinates":[-118.78545699999999,39.474551],"type":"Point"}
 }

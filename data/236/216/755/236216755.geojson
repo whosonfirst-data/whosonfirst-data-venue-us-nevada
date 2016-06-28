@@ -2,13 +2,14 @@
   "id": 236216755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049725,36.063465,-115.049725,36.063465",
     "geom:latitude":36.063465,
     "geom:longitude":-115.049725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Chandler St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236216755,
-    "wof:lastmodified":1449004792,
+    "wof:lastmodified":1466703908,
     "wof:name":"Southwest Welding",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.049725,36.063465,-115.049725,36.063465],
+  "bbox": [
+    -115.049725,
+    36.063465,
+    -115.049725,
+    36.063465
+],
   "geometry": {"coordinates":[-115.049725,36.063465],"type":"Point"}
 }

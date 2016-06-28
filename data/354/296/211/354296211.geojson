@@ -2,13 +2,14 @@
   "id": 354296211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255997,36.144001,-115.255997,36.144001",
     "geom:latitude":36.144001,
     "geom:longitude":-115.255997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7488 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354296211,
-    "wof:lastmodified":1449067324,
+    "wof:lastmodified":1466705668,
     "wof:name":"Mrcgroup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-115.255997,36.144001,-115.255997,36.144001],
-  "geometry": {"coordinates":[-115.255997,36.144001],"type":"Point"}
+  "bbox": [
+    -115.255997,
+    36.144001,
+    -115.255997,
+    36.144001
+],
+  "geometry": {"coordinates":[-115.25599699999999,36.144001],"type":"Point"}
 }

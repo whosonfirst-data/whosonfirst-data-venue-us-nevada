@@ -2,13 +2,14 @@
   "id": 354370655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102198,36.076261,-115.102198,36.076261",
     "geom:latitude":36.076261,
     "geom:longitude":-115.102198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 Pepper Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354370655,
-    "wof:lastmodified":1449066871,
+    "wof:lastmodified":1466706115,
     "wof:name":"Immigration Law Offices of Reza Athari",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.102198,36.076261,-115.102198,36.076261],
+  "bbox": [
+    -115.102198,
+    36.076261,
+    -115.102198,
+    36.076261
+],
   "geometry": {"coordinates":[-115.102198,36.076261],"type":"Point"}
 }

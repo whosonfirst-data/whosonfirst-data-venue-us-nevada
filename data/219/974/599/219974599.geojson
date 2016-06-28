@@ -2,13 +2,14 @@
   "id": 219974599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.132461,36.054276,-115.132461,36.054276",
     "geom:latitude":36.054276,
     "geom:longitude":-115.132461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 Flint Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219974599,
-    "wof:lastmodified":1449073449,
+    "wof:lastmodified":1466706160,
     "wof:name":"Sign Hangers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-115.132461,36.054276,-115.132461,36.054276],
-  "geometry": {"coordinates":[-115.132461,36.054276],"type":"Point"}
+  "bbox": [
+    -115.132461,
+    36.054276,
+    -115.132461,
+    36.054276
+],
+  "geometry": {"coordinates":[-115.13246100000001,36.054276],"type":"Point"}
 }

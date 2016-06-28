@@ -2,13 +2,14 @@
   "id": 354014975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.94628,36.015181,-114.94628,36.015181",
     "geom:latitude":36.015181,
     "geom:longitude":-114.94628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Nordyke Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354014975,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466701880,
     "wof:name":"Bella Vita Photography",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-114.94628,36.015181,-114.94628,36.015181],
+  "bbox": [
+    -114.94628,
+    36.015181,
+    -114.94628,
+    36.015181
+],
   "geometry": {"coordinates":[-114.94628,36.015181],"type":"Point"}
 }

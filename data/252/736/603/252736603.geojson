@@ -2,13 +2,14 @@
   "id": 252736603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.95297,36.050124,-114.95297,36.050124",
     "geom:latitude":36.050124,
     "geom:longitude":-114.95297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Fife St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252736603,
-    "wof:lastmodified":1449006489,
+    "wof:lastmodified":1466702063,
     "wof:name":"Hospitality Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-114.95297,36.050124,-114.95297,36.050124],
-  "geometry": {"coordinates":[-114.95297,36.050124],"type":"Point"}
+  "bbox": [
+    -114.95297,
+    36.050124,
+    -114.95297,
+    36.050124
+],
+  "geometry": {"coordinates":[-114.95296999999999,36.050124],"type":"Point"}
 }

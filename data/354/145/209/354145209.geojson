@@ -2,13 +2,14 @@
   "id": 354145209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198997,36.109299,-115.198997,36.109299",
     "geom:latitude":36.109299,
     "geom:longitude":-115.198997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 Arville St Ste 14",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354145209,
-    "wof:lastmodified":1449066425,
+    "wof:lastmodified":1466704587,
     "wof:name":"M T Automotive Repair",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-115.198997,36.109299,-115.198997,36.109299],
-  "geometry": {"coordinates":[-115.198997,36.109299],"type":"Point"}
+  "bbox": [
+    -115.198997,
+    36.109299,
+    -115.198997,
+    36.109299
+],
+  "geometry": {"coordinates":[-115.19899700000001,36.109299],"type":"Point"}
 }

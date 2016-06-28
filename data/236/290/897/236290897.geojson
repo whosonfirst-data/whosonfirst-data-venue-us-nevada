@@ -2,13 +2,14 @@
   "id": 236290897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837852,39.510214,-119.837852,39.510214",
     "geom:latitude":39.510214,
     "geom:longitude":-119.837852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Robin St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236290897,
-    "wof:lastmodified":1449003005,
+    "wof:lastmodified":1466704624,
     "wof:name":"Aspen Developers Corp",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.837852,39.510214,-119.837852,39.510214],
+  "bbox": [
+    -119.837852,
+    39.510214,
+    -119.837852,
+    39.510214
+],
   "geometry": {"coordinates":[-119.837852,39.510214],"type":"Point"}
 }

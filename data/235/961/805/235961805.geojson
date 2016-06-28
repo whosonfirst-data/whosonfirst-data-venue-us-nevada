@@ -2,13 +2,14 @@
   "id": 235961805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123304,35.983758,-115.123304,35.983758",
     "geom:latitude":35.983758,
     "geom:longitude":-115.123304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Forum Veneto Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235961805,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466703588,
     "wof:name":"Edge Financial Group",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-115.123304,35.983758,-115.123304,35.983758],
+  "bbox": [
+    -115.123304,
+    35.983758,
+    -115.123304,
+    35.983758
+],
   "geometry": {"coordinates":[-115.123304,35.983758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219354141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102695,36.203146,-115.102695,36.203146",
     "geom:latitude":36.203146,
     "geom:longitude":-115.102695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 E Carey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219354141,
-    "wof:lastmodified":1449073523,
+    "wof:lastmodified":1466703419,
     "wof:name":"T-Rays Towing",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-115.102695,36.203146,-115.102695,36.203146],
+  "bbox": [
+    -115.102695,
+    36.203146,
+    -115.102695,
+    36.203146
+],
   "geometry": {"coordinates":[-115.102695,36.203146],"type":"Point"}
 }

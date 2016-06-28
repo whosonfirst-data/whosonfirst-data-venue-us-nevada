@@ -2,13 +2,14 @@
   "id": 354017729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.955109,36.022029,-114.955109,36.022029",
     "geom:latitude":36.022029,
     "geom:longitude":-114.955109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Largo Azul Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354017729,
-    "wof:lastmodified":1449066845,
+    "wof:lastmodified":1466701956,
     "wof:name":"Meri-Gin Bar Supply",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "brew"
     ]
 },
-  "bbox": [-114.955109,36.022029,-114.955109,36.022029],
-  "geometry": {"coordinates":[-114.955109,36.022029],"type":"Point"}
+  "bbox": [
+    -114.955109,
+    36.022029,
+    -114.955109,
+    36.022029
+],
+  "geometry": {"coordinates":[-114.95510899999999,36.022029],"type":"Point"}
 }

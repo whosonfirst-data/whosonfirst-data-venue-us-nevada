@@ -2,13 +2,14 @@
   "id": 220053289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.759321,40.832826,-115.759321,40.832826",
     "geom:latitude":40.832826,
     "geom:longitude":-115.759321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 7th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220053289,
-    "wof:lastmodified":1449074194,
+    "wof:lastmodified":1466702056,
     "wof:name":"Gary Konakis Automotive Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.759321,40.832826,-115.759321,40.832826],
+  "bbox": [
+    -115.759321,
+    40.832826,
+    -115.759321,
+    40.832826
+],
   "geometry": {"coordinates":[-115.759321,40.832826],"type":"Point"}
 }

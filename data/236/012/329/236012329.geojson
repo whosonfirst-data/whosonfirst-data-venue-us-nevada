@@ -2,13 +2,14 @@
   "id": 236012329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.166433,38.993833,-119.166433,38.993833",
     "geom:latitude":38.993833,
     "geom:longitude":-119.166433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 US Hwy 95 Alt",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236012329,
-    "wof:lastmodified":1449004845,
+    "wof:lastmodified":1466703819,
     "wof:name":"Wabuska Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.166433,38.993833,-119.166433,38.993833],
+  "bbox": [
+    -119.166433,
+    38.993833,
+    -119.166433,
+    38.993833
+],
   "geometry": {"coordinates":[-119.166433,38.993833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236252085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.844568,39.687515,-119.844568,39.687515",
     "geom:latitude":39.687515,
     "geom:longitude":-119.844568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11925 Heartpine St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236252085,
-    "wof:lastmodified":1449002000,
+    "wof:lastmodified":1466704559,
     "wof:name":"Shoaff Construction Inc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-119.844568,39.687515,-119.844568,39.687515],
+  "bbox": [
+    -119.844568,
+    39.687515,
+    -119.844568,
+    39.687515
+],
   "geometry": {"coordinates":[-119.844568,39.687515],"type":"Point"}
 }

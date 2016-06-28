@@ -2,13 +2,14 @@
   "id": 236382877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.993058,36.220724,-115.993058,36.220724",
     "geom:latitude":36.220724,
     "geom:longitude":-115.993058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Emery St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236382877,
-    "wof:lastmodified":1449002345,
+    "wof:lastmodified":1466705244,
     "wof:name":"Media Shops & Adult Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-115.993058,36.220724,-115.993058,36.220724],
+  "bbox": [
+    -115.993058,
+    36.220724,
+    -115.993058,
+    36.220724
+],
   "geometry": {"coordinates":[-115.993058,36.220724],"type":"Point"}
 }

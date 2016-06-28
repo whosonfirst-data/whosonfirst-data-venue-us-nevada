@@ -2,13 +2,14 @@
   "id": 370351873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776314,39.174105,-119.776314,39.174105",
     "geom:latitude":39.174105,
     "geom:longitude":-119.776314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Andorra Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370351873,
-    "wof:lastmodified":1449031958,
+    "wof:lastmodified":1466705067,
     "wof:name":"Coyote Entertainment",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dj"
     ]
 },
-  "bbox": [-119.776314,39.174105,-119.776314,39.174105],
+  "bbox": [
+    -119.776314,
+    39.174105,
+    -119.776314,
+    39.174105
+],
   "geometry": {"coordinates":[-119.776314,39.174105],"type":"Point"}
 }

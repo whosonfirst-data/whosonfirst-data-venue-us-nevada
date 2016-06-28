@@ -2,13 +2,14 @@
   "id": 236492185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139381,36.160193,-115.139381,36.160193",
     "geom:latitude":36.160193,
     "geom:longitude":-115.139381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 S 10th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236492185,
-    "wof:lastmodified":1449001673,
+    "wof:lastmodified":1466705642,
     "wof:name":"June's Legal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "server"
     ]
 },
-  "bbox": [-115.139381,36.160193,-115.139381,36.160193],
+  "bbox": [
+    -115.139381,
+    36.160193,
+    -115.139381,
+    36.160193
+],
   "geometry": {"coordinates":[-115.139381,36.160193],"type":"Point"}
 }

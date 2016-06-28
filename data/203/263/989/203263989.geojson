@@ -2,13 +2,14 @@
   "id": 203263989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281616,36.13245,-115.281616,36.13245",
     "geom:latitude":36.13245,
     "geom:longitude":-115.281616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8640 Caribbean Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203263989,
-    "wof:lastmodified":1449026821,
+    "wof:lastmodified":1466702604,
     "wof:name":"Zavala & Visaya Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.281616,36.13245,-115.281616,36.13245],
+  "bbox": [
+    -115.281616,
+    36.13245,
+    -115.281616,
+    36.13245
+],
   "geometry": {"coordinates":[-115.281616,36.13245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219527297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2528,36.196147,-115.2528,36.196147",
     "geom:latitude":36.196147,
     "geom:longitude":-115.2528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219527297,
-    "wof:lastmodified":1449073207,
+    "wof:lastmodified":1466701806,
     "wof:name":"American Express",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agency"
     ]
 },
-  "bbox": [-115.2528,36.196147,-115.2528,36.196147],
-  "geometry": {"coordinates":[-115.2528,36.196147],"type":"Point"}
+  "bbox": [
+    -115.2528,
+    36.196147,
+    -115.2528,
+    36.196147
+],
+  "geometry": {"coordinates":[-115.25279999999999,36.196147],"type":"Point"}
 }

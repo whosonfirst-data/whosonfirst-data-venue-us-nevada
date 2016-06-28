@@ -2,13 +2,14 @@
   "id": 219202819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.648074,40.7307,-115.648074,40.7307",
     "geom:latitude":40.7307,
     "geom:longitude":-115.648074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"483 Shadybrook Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219202819,
-    "wof:lastmodified":1449073456,
+    "wof:lastmodified":1466702088,
     "wof:name":"Barrels R Fun",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-115.648074,40.7307,-115.648074,40.7307],
-  "geometry": {"coordinates":[-115.648074,40.7307],"type":"Point"}
+  "bbox": [
+    -115.648074,
+    40.7307,
+    -115.648074,
+    40.7307
+],
+  "geometry": {"coordinates":[-115.64807399999999,40.7307],"type":"Point"}
 }

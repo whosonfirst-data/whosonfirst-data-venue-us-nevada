@@ -2,13 +2,14 @@
   "id": 236451511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.925334,36.008238,-114.925334,36.008238",
     "geom:latitude":36.008238,
     "geom:longitude":-114.925334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Thoroughbred Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236451511,
-    "wof:lastmodified":1449003030,
+    "wof:lastmodified":1466705594,
     "wof:name":"Fiber-Tec",
     "wof:parent_id":85878121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fiber"
     ]
 },
-  "bbox": [-114.925334,36.008238,-114.925334,36.008238],
-  "geometry": {"coordinates":[-114.925334,36.008238],"type":"Point"}
+  "bbox": [
+    -114.925334,
+    36.008238,
+    -114.925334,
+    36.008238
+],
+  "geometry": {"coordinates":[-114.92533400000001,36.008238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236819369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725032,39.184322,-119.725032,39.184322",
     "geom:latitude":39.184322,
     "geom:longitude":-119.725032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Tioga Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236819369,
-    "wof:lastmodified":1449002271,
+    "wof:lastmodified":1466706583,
     "wof:name":"Tetrault Mobile Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.725032,39.184322,-119.725032,39.184322],
+  "bbox": [
+    -119.725032,
+    39.184322,
+    -119.725032,
+    39.184322
+],
   "geometry": {"coordinates":[-119.725032,39.184322],"type":"Point"}
 }

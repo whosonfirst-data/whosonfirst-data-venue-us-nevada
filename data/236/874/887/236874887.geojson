@@ -2,13 +2,14 @@
   "id": 236874887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189761,36.091455,-115.189761,36.091455",
     "geom:latitude":36.091455,
     "geom:longitude":-115.189761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5480 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236874887,
-    "wof:lastmodified":1449004996,
+    "wof:lastmodified":1466706779,
     "wof:name":"South Tech Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-115.189761,36.091455,-115.189761,36.091455],
+  "bbox": [
+    -115.189761,
+    36.091455,
+    -115.189761,
+    36.091455
+],
   "geometry": {"coordinates":[-115.189761,36.091455],"type":"Point"}
 }

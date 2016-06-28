@@ -2,13 +2,14 @@
   "id": 354251581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172825,36.110983,-115.172825,36.110983",
     "geom:latitude":36.110983,
     "geom:longitude":-115.172825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3663 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354251581,
-    "wof:lastmodified":1449065968,
+    "wof:lastmodified":1466705376,
     "wof:name":"La Salsa Cantina",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.172825,36.110983,-115.172825,36.110983],
+  "bbox": [
+    -115.172825,
+    36.110983,
+    -115.172825,
+    36.110983
+],
   "geometry": {"coordinates":[-115.172825,36.110983],"type":"Point"}
 }

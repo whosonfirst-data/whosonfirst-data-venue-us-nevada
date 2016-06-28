@@ -2,13 +2,14 @@
   "id": 219774745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808103,39.550867,-119.808103,39.550867",
     "geom:latitude":39.550867,
     "geom:longitude":-119.808103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Valley Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219774745,
-    "wof:lastmodified":1449071761,
+    "wof:lastmodified":1466705042,
     "wof:name":"Alpine Wildfire Svc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-119.808103,39.550867,-119.808103,39.550867],
+  "bbox": [
+    -119.808103,
+    39.550867,
+    -119.808103,
+    39.550867
+],
   "geometry": {"coordinates":[-119.808103,39.550867],"type":"Point"}
 }

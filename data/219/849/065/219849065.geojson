@@ -2,13 +2,14 @@
   "id": 219849065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.849277,35.977382,-114.849277,35.977382",
     "geom:latitude":35.977382,
     "geom:longitude":-114.849277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Canyon Rd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219849065,
-    "wof:lastmodified":1449071049,
+    "wof:lastmodified":1466705464,
     "wof:name":"American Iron Craftsman",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-114.849277,35.977382,-114.849277,35.977382],
+  "bbox": [
+    -114.849277,
+    35.977382,
+    -114.849277,
+    35.977382
+],
   "geometry": {"coordinates":[-114.849277,35.977382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219867371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.808891,39.515104,-119.808891,39.515104",
     "geom:latitude":39.515104,
     "geom:longitude":-119.808891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Martin St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219867371,
-    "wof:lastmodified":1449071913,
+    "wof:lastmodified":1466705474,
     "wof:name":"House Black & White Costume Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "costume"
     ]
 },
-  "bbox": [-119.808891,39.515104,-119.808891,39.515104],
+  "bbox": [
+    -119.808891,
+    39.515104,
+    -119.808891,
+    39.515104
+],
   "geometry": {"coordinates":[-119.808891,39.515104],"type":"Point"}
 }

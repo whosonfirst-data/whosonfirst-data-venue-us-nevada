@@ -2,13 +2,14 @@
   "id": 236791625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243846,36.227163,-115.243846,36.227163",
     "geom:latitude":36.227163,
     "geom:longitude":-115.243846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Arginis St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236791625,
-    "wof:lastmodified":1449004329,
+    "wof:lastmodified":1466706646,
     "wof:name":"Abstract Title Service",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-115.243846,36.227163,-115.243846,36.227163],
+  "bbox": [
+    -115.243846,
+    36.227163,
+    -115.243846,
+    36.227163
+],
   "geometry": {"coordinates":[-115.243846,36.227163],"type":"Point"}
 }

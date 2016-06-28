@@ -2,13 +2,14 @@
   "id": 354244009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14116,36.129905,-115.14116,36.129905",
     "geom:latitude":36.129905,
     "geom:longitude":-115.14116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354244009,
-    "wof:lastmodified":1449066594,
+    "wof:lastmodified":1466705428,
     "wof:name":"0 007 Lock1 Service",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.14116,36.129905,-115.14116,36.129905],
+  "bbox": [
+    -115.14116,
+    36.129905,
+    -115.14116,
+    36.129905
+],
   "geometry": {"coordinates":[-115.14116,36.129905],"type":"Point"}
 }

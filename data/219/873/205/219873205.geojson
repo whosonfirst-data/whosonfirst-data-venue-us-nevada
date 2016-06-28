@@ -2,13 +2,14 @@
   "id": 219873205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766712,39.181158,-119.766712,39.181158",
     "geom:latitude":39.181158,
     "geom:longitude":-119.766712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Sage St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219873205,
-    "wof:lastmodified":1449071133,
+    "wof:lastmodified":1466705505,
     "wof:name":"Forcefed Racing",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-119.766712,39.181158,-119.766712,39.181158],
+  "bbox": [
+    -119.766712,
+    39.181158,
+    -119.766712,
+    39.181158
+],
   "geometry": {"coordinates":[-119.766712,39.181158],"type":"Point"}
 }

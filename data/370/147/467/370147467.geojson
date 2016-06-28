@@ -2,13 +2,14 @@
   "id": 370147467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257311,36.196019,-115.257311,36.196019",
     "geom:latitude":36.196019,
     "geom:longitude":-115.257311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 W Lake Mead Blvd Suite 106",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":370147467,
-    "wof:lastmodified":1449032110,
+    "wof:lastmodified":1466704191,
     "wof:name":"AAA",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-115.257311,36.196019,-115.257311,36.196019],
+  "bbox": [
+    -115.257311,
+    36.196019,
+    -115.257311,
+    36.196019
+],
   "geometry": {"coordinates":[-115.257311,36.196019],"type":"Point"}
 }

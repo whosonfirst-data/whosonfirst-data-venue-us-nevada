@@ -2,13 +2,14 @@
   "id": 236066351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111386,36.111239,-115.111386,36.111239",
     "geom:latitude":36.111239,
     "geom:longitude":-115.111386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 E Rochelle Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236066351,
-    "wof:lastmodified":1449002439,
+    "wof:lastmodified":1466704004,
     "wof:name":"Teachers Health Trust",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-115.111386,36.111239,-115.111386,36.111239],
+  "bbox": [
+    -115.111386,
+    36.111239,
+    -115.111386,
+    36.111239
+],
   "geometry": {"coordinates":[-115.111386,36.111239],"type":"Point"}
 }

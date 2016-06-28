@@ -2,13 +2,14 @@
   "id": 236902821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.179553,36.239355,-115.179553,36.239355",
     "geom:latitude":36.239355,
     "geom:longitude":-115.179553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236902821,
-    "wof:lastmodified":1449004211,
+    "wof:lastmodified":1466706821,
     "wof:name":"Discount Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.179553,36.239355,-115.179553,36.239355],
+  "bbox": [
+    -115.179553,
+    36.239355,
+    -115.179553,
+    36.239355
+],
   "geometry": {"coordinates":[-115.179553,36.239355],"type":"Point"}
 }

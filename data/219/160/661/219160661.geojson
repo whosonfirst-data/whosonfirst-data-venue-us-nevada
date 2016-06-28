@@ -2,13 +2,14 @@
   "id": 219160661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79865,39.495668,-119.79865,39.495668",
     "geom:latitude":39.495668,
     "geom:longitude":-119.79865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219160661,
-    "wof:lastmodified":1449073354,
+    "wof:lastmodified":1466701570,
     "wof:name":"Realty World-Ballard Company",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.79865,39.495668,-119.79865,39.495668],
-  "geometry": {"coordinates":[-119.79865,39.495668],"type":"Point"}
+  "bbox": [
+    -119.79865,
+    39.495668,
+    -119.79865,
+    39.495668
+],
+  "geometry": {"coordinates":[-119.79864999999999,39.495668],"type":"Point"}
 }

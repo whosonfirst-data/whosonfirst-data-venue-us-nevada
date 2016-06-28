@@ -2,13 +2,14 @@
   "id": 203250769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186952,36.166418,-115.186952,36.166418",
     "geom:latitude":36.166418,
     "geom:longitude":-115.186952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Lacy Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203250769,
-    "wof:lastmodified":1449026032,
+    "wof:lastmodified":1466702500,
     "wof:name":"Lacy Lane Alzheimers Home",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-115.186952,36.166418,-115.186952,36.166418],
-  "geometry": {"coordinates":[-115.186952,36.166418],"type":"Point"}
+  "bbox": [
+    -115.186952,
+    36.166418,
+    -115.186952,
+    36.166418
+],
+  "geometry": {"coordinates":[-115.18695200000001,36.166418],"type":"Point"}
 }

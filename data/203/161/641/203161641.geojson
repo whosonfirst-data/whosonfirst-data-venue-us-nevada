@@ -2,13 +2,14 @@
   "id": 203161641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262248,36.170947,-115.262248,36.170947",
     "geom:latitude":36.170947,
     "geom:longitude":-115.262248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 Aplin Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203161641,
-    "wof:lastmodified":1449025665,
+    "wof:lastmodified":1466701642,
     "wof:name":"El Grito Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.262248,36.170947,-115.262248,36.170947],
+  "bbox": [
+    -115.262248,
+    36.170947,
+    -115.262248,
+    36.170947
+],
   "geometry": {"coordinates":[-115.262248,36.170947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220118593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178524,36.180415,-115.178524,36.180415",
     "geom:latitude":36.180415,
     "geom:longitude":-115.178524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220118593,
-    "wof:lastmodified":1449074696,
+    "wof:lastmodified":1466702522,
     "wof:name":"Checker Auto Parts 1016",
     "wof:parent_id":85892707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-115.178524,36.180415,-115.178524,36.180415],
+  "bbox": [
+    -115.178524,
+    36.180415,
+    -115.178524,
+    36.180415
+],
   "geometry": {"coordinates":[-115.178524,36.180415],"type":"Point"}
 }

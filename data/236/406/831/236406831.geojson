@@ -2,13 +2,14 @@
   "id": 236406831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11454,36.101341,-115.11454,36.101341",
     "geom:latitude":36.101341,
     "geom:longitude":-115.11454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4775 Topaz St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236406831,
-    "wof:lastmodified":1449003418,
+    "wof:lastmodified":1466705397,
     "wof:name":"Alliance Residential Mgmt",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-115.11454,36.101341,-115.11454,36.101341],
-  "geometry": {"coordinates":[-115.11454,36.101341],"type":"Point"}
+  "bbox": [
+    -115.11454,
+    36.101341,
+    -115.11454,
+    36.101341
+],
+  "geometry": {"coordinates":[-115.11454000000001,36.101341],"type":"Point"}
 }

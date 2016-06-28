@@ -2,13 +2,14 @@
   "id": 203369451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.319077,36.151382,-115.319077,36.151382",
     "geom:latitude":36.151382,
     "geom:longitude":-115.319077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Shady Elm St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203369451,
-    "wof:lastmodified":1449026776,
+    "wof:lastmodified":1466703216,
     "wof:name":"Carol Smolen Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "direct"
     ]
 },
-  "bbox": [-115.319077,36.151382,-115.319077,36.151382],
-  "geometry": {"coordinates":[-115.319077,36.151382],"type":"Point"}
+  "bbox": [
+    -115.319077,
+    36.151382,
+    -115.319077,
+    36.151382
+],
+  "geometry": {"coordinates":[-115.31907699999999,36.151382],"type":"Point"}
 }

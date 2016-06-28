@@ -2,13 +2,14 @@
   "id": 354350351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128512,36.057475,-115.128512,36.057475",
     "geom:latitude":36.057475,
     "geom:longitude":-115.128512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 E Warm Springs Rd Ste 18",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354350351,
-    "wof:lastmodified":1449066793,
+    "wof:lastmodified":1466706000,
     "wof:name":"Modena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.128512,36.057475,-115.128512,36.057475],
+  "bbox": [
+    -115.128512,
+    36.057475,
+    -115.128512,
+    36.057475
+],
   "geometry": {"coordinates":[-115.128512,36.057475],"type":"Point"}
 }

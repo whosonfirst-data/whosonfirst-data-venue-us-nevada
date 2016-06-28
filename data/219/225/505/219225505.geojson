@@ -2,13 +2,14 @@
   "id": 219225505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.271136,36.159965,-115.271136,36.159965",
     "geom:latitude":36.159965,
     "geom:longitude":-115.271136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Cimarron Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219225505,
-    "wof:lastmodified":1449071495,
+    "wof:lastmodified":1466702273,
     "wof:name":"America's Mortgage Source",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.271136,36.159965,-115.271136,36.159965],
+  "bbox": [
+    -115.271136,
+    36.159965,
+    -115.271136,
+    36.159965
+],
   "geometry": {"coordinates":[-115.271136,36.159965],"type":"Point"}
 }

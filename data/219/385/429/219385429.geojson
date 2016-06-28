@@ -2,13 +2,14 @@
   "id": 219385429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075255,36.110905,-115.075255,36.110905",
     "geom:latitude":36.110905,
     "geom:longitude":-115.075255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4349 Gibraltar Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":219385429,
-    "wof:lastmodified":1449072485,
+    "wof:lastmodified":1466703554,
     "wof:name":"International Data Fax Communi",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-115.075255,36.110905,-115.075255,36.110905],
+  "bbox": [
+    -115.075255,
+    36.110905,
+    -115.075255,
+    36.110905
+],
   "geometry": {"coordinates":[-115.075255,36.110905],"type":"Point"}
 }

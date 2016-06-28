@@ -2,13 +2,14 @@
   "id": 219431513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.331393,36.171012,-115.331393,36.171012",
     "geom:latitude":36.171012,
     "geom:longitude":-115.331393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 S Pavilion Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219431513,
-    "wof:lastmodified":1449070873,
+    "wof:lastmodified":1466703788,
     "wof:name":"Community College-Southern Nv",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-115.331393,36.171012,-115.331393,36.171012],
-  "geometry": {"coordinates":[-115.331393,36.171012],"type":"Point"}
+  "bbox": [
+    -115.331393,
+    36.171012,
+    -115.331393,
+    36.171012
+],
+  "geometry": {"coordinates":[-115.33139300000001,36.171012],"type":"Point"}
 }

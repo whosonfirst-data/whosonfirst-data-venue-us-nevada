@@ -2,13 +2,14 @@
   "id": 203413429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086273,36.010905,-115.086273,36.010905",
     "geom:latitude":36.010905,
     "geom:longitude":-115.086273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 Beaconwood St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203413429,
-    "wof:lastmodified":1449025232,
+    "wof:lastmodified":1466703373,
     "wof:name":"Frank R Arko M D",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.086273,36.010905,-115.086273,36.010905],
-  "geometry": {"coordinates":[-115.086273,36.010905],"type":"Point"}
+  "bbox": [
+    -115.086273,
+    36.010905,
+    -115.086273,
+    36.010905
+],
+  "geometry": {"coordinates":[-115.08627300000001,36.010905],"type":"Point"}
 }

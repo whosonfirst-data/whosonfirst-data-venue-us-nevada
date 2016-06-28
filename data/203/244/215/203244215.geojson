@@ -2,13 +2,14 @@
   "id": 203244215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054868,36.01326,-115.054868,36.01326",
     "geom:latitude":36.01326,
     "geom:longitude":-115.054868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Desert Cove Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203244215,
-    "wof:lastmodified":1449025671,
+    "wof:lastmodified":1466702459,
     "wof:name":"Lisa Russo",
     "wof:parent_id":85878103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.054868,36.01326,-115.054868,36.01326],
+  "bbox": [
+    -115.054868,
+    36.01326,
+    -115.054868,
+    36.01326
+],
   "geometry": {"coordinates":[-115.054868,36.01326],"type":"Point"}
 }

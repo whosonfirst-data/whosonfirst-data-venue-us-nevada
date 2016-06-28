@@ -2,13 +2,14 @@
   "id": 337294259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.962238,39.248687,-119.962238,39.248687",
     "geom:latitude":39.248687,
     "geom:longitude":-119.962238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Southwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337294259,
-    "wof:lastmodified":1449027526,
+    "wof:lastmodified":1466701586,
     "wof:name":"Incline Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.962238,39.248687,-119.962238,39.248687],
+  "bbox": [
+    -119.962238,
+    39.248687,
+    -119.962238,
+    39.248687
+],
   "geometry": {"coordinates":[-119.962238,39.248687],"type":"Point"}
 }

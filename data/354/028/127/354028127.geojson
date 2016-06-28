@@ -2,13 +2,14 @@
   "id": 354028127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116997,36.204201,-115.116997,36.204201",
     "geom:latitude":36.204201,
     "geom:longitude":-115.116997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 Las Vegas Blvd N",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354028127,
-    "wof:lastmodified":1449066863,
+    "wof:lastmodified":1466702219,
     "wof:name":"Mariscos Las Islitas",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.116997,36.204201,-115.116997,36.204201],
+  "bbox": [
+    -115.116997,
+    36.204201,
+    -115.116997,
+    36.204201
+],
   "geometry": {"coordinates":[-115.116997,36.204201],"type":"Point"}
 }

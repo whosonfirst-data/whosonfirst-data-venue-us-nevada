@@ -2,13 +2,14 @@
   "id": 354305595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.282997,36.1385,-115.282997,36.1385",
     "geom:latitude":36.1385,
     "geom:longitude":-115.282997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 Lake East Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354305595,
-    "wof:lastmodified":1449066190,
+    "wof:lastmodified":1466705637,
     "wof:name":"Mandalay Realty & Management",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.282997,36.1385,-115.282997,36.1385],
-  "geometry": {"coordinates":[-115.282997,36.1385],"type":"Point"}
+  "bbox": [
+    -115.282997,
+    36.1385,
+    -115.282997,
+    36.1385
+],
+  "geometry": {"coordinates":[-115.28299699999999,36.1385],"type":"Point"}
 }

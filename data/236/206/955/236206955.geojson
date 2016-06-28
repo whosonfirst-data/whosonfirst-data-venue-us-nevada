@@ -2,13 +2,14 @@
   "id": 236206955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.973501,36.032184,-114.973501,36.032184",
     "geom:latitude":36.032184,
     "geom:longitude":-114.973501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236206955,
-    "wof:lastmodified":1449003981,
+    "wof:lastmodified":1466703713,
     "wof:name":"Villa Pizza",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-114.973501,36.032184,-114.973501,36.032184],
+  "bbox": [
+    -114.973501,
+    36.032184,
+    -114.973501,
+    36.032184
+],
   "geometry": {"coordinates":[-114.973501,36.032184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236452321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7685,39.179193,-119.7685,39.179193",
     "geom:latitude":39.179193,
     "geom:longitude":-119.7685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Winnie Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236452321,
-    "wof:lastmodified":1449002262,
+    "wof:lastmodified":1466705500,
     "wof:name":"Winnie Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.7685,39.179193,-119.7685,39.179193],
+  "bbox": [
+    -119.7685,
+    39.179193,
+    -119.7685,
+    39.179193
+],
   "geometry": {"coordinates":[-119.7685,39.179193],"type":"Point"}
 }

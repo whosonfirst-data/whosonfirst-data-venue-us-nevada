@@ -2,13 +2,14 @@
   "id": 220160429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.789637,39.473128,-118.789637,39.473128",
     "geom:latitude":39.473128,
     "geom:longitude":-118.789637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Center St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220160429,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466702819,
     "wof:name":"R & R Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandising"
     ]
 },
-  "bbox": [-118.789637,39.473128,-118.789637,39.473128],
+  "bbox": [
+    -118.789637,
+    39.473128,
+    -118.789637,
+    39.473128
+],
   "geometry": {"coordinates":[-118.789637,39.473128],"type":"Point"}
 }

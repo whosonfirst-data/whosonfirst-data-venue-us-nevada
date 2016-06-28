@@ -2,13 +2,14 @@
   "id": 219381973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091798,35.995309,-115.091798,35.995309",
     "geom:latitude":35.995309,
     "geom:longitude":-115.091798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"866 Roanhorse Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219381973,
-    "wof:lastmodified":1449070676,
+    "wof:lastmodified":1466703551,
     "wof:name":"D&B",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.091798,35.995309,-115.091798,35.995309],
+  "bbox": [
+    -115.091798,
+    35.995309,
+    -115.091798,
+    35.995309
+],
   "geometry": {"coordinates":[-115.091798,35.995309],"type":"Point"}
 }

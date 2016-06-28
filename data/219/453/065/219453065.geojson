@@ -2,13 +2,14 @@
   "id": 219453065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.897367,39.509232,-119.897367,39.509232",
     "geom:latitude":39.509232,
     "geom:longitude":-119.897367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8520 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219453065,
-    "wof:lastmodified":1449073053,
+    "wof:lastmodified":1466703880,
     "wof:name":"Wise Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-119.897367,39.509232,-119.897367,39.509232],
+  "bbox": [
+    -119.897367,
+    39.509232,
+    -119.897367,
+    39.509232
+],
   "geometry": {"coordinates":[-119.897367,39.509232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203264933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.736047,39.536076,-119.736047,39.536076",
     "geom:latitude":39.536076,
     "geom:longitude":-119.736047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Nichols Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203264933,
-    "wof:lastmodified":1449026209,
+    "wof:lastmodified":1466702612,
     "wof:name":"Wuzzup",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.736047,39.536076,-119.736047,39.536076],
+  "bbox": [
+    -119.736047,
+    39.536076,
+    -119.736047,
+    39.536076
+],
   "geometry": {"coordinates":[-119.736047,39.536076],"type":"Point"}
 }

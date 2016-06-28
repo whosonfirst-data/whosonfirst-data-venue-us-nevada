@@ -2,13 +2,14 @@
   "id": 354325335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197223,36.097288,-115.197223,36.097288",
     "geom:latitude":36.097288,
     "geom:longitude":-115.197223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4280 W Reno Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354325335,
-    "wof:lastmodified":1449066580,
+    "wof:lastmodified":1466705880,
     "wof:name":"Star Energy Group",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.197223,36.097288,-115.197223,36.097288],
-  "geometry": {"coordinates":[-115.197223,36.097288],"type":"Point"}
+  "bbox": [
+    -115.197223,
+    36.097288,
+    -115.197223,
+    36.097288
+],
+  "geometry": {"coordinates":[-115.19722299999999,36.097288],"type":"Point"}
 }

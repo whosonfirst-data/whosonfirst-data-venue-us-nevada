@@ -2,13 +2,14 @@
   "id": 219710725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.824229,39.403026,-119.824229,39.403026",
     "geom:latitude":39.403026,
     "geom:longitude":-119.824229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5575 Flowering Sage Trl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219710725,
-    "wof:lastmodified":1449070601,
+    "wof:lastmodified":1466704539,
     "wof:name":"Exquisite Interiors",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.824229,39.403026,-119.824229,39.403026],
+  "bbox": [
+    -119.824229,
+    39.403026,
+    -119.824229,
+    39.403026
+],
   "geometry": {"coordinates":[-119.824229,39.403026],"type":"Point"}
 }

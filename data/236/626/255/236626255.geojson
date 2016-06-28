@@ -2,13 +2,14 @@
   "id": 236626255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.782793,40.824524,-115.782793,40.824524",
     "geom:latitude":40.824524,
     "geom:longitude":-115.782793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 W Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236626255,
-    "wof:lastmodified":1449005253,
+    "wof:lastmodified":1466706334,
     "wof:name":"Franklin Building Supply",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-115.782793,40.824524,-115.782793,40.824524],
+  "bbox": [
+    -115.782793,
+    40.824524,
+    -115.782793,
+    40.824524
+],
   "geometry": {"coordinates":[-115.782793,40.824524],"type":"Point"}
 }

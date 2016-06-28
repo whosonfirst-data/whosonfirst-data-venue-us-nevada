@@ -2,13 +2,14 @@
   "id": 370159167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.246905,36.205281,-115.246905,36.205281",
     "geom:latitude":36.205281,
     "geom:longitude":-115.246905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7050 Smoke Ranch Rd Ste 130",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370159167,
-    "wof:lastmodified":1449029496,
+    "wof:lastmodified":1466701767,
     "wof:name":"Nevada Pain Management",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.246905,36.205281,-115.246905,36.205281],
+  "bbox": [
+    -115.246905,
+    36.205281,
+    -115.246905,
+    36.205281
+],
   "geometry": {"coordinates":[-115.246905,36.205281],"type":"Point"}
 }

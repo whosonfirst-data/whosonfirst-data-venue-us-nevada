@@ -2,13 +2,14 @@
   "id": 370352001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.795998,39.172501,-119.795998,39.172501",
     "geom:latitude":39.172501,
     "geom:longitude":-119.795998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Cogorno Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370352001,
-    "wof:lastmodified":1449031165,
+    "wof:lastmodified":1466705195,
     "wof:name":"Northstar Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.795998,39.172501,-119.795998,39.172501],
+  "bbox": [
+    -119.795998,
+    39.172501,
+    -119.795998,
+    39.172501
+],
   "geometry": {"coordinates":[-119.795998,39.172501],"type":"Point"}
 }

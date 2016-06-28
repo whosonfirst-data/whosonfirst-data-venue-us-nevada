@@ -2,13 +2,14 @@
   "id": 337291115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239356,36.194392,-115.239356,36.194392",
     "geom:latitude":36.194392,
     "geom:longitude":-115.239356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6629 Lemitar Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337291115,
-    "wof:lastmodified":1449027190,
+    "wof:lastmodified":1466701510,
     "wof:name":"Lozoya Enterprises",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.239356,36.194392,-115.239356,36.194392],
+  "bbox": [
+    -115.239356,
+    36.194392,
+    -115.239356,
+    36.194392
+],
   "geometry": {"coordinates":[-115.239356,36.194392],"type":"Point"}
 }

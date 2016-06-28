@@ -2,13 +2,14 @@
   "id": 236704575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156253,36.19163,-115.156253,36.19163",
     "geom:latitude":36.19163,
     "geom:longitude":-115.156253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 J St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236704575,
-    "wof:lastmodified":1449002325,
+    "wof:lastmodified":1466706487,
     "wof:name":"Abundant Life Seventh Day Chr",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.156253,36.19163,-115.156253,36.19163],
-  "geometry": {"coordinates":[-115.156253,36.19163],"type":"Point"}
+  "bbox": [
+    -115.156253,
+    36.19163,
+    -115.156253,
+    36.19163
+],
+  "geometry": {"coordinates":[-115.15625300000001,36.19163],"type":"Point"}
 }

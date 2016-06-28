@@ -2,13 +2,14 @@
   "id": 236205941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266282,36.182069,-115.266282,36.182069",
     "geom:latitude":36.182069,
     "geom:longitude":-115.266282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Boulder Spring Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236205941,
-    "wof:lastmodified":1449003687,
+    "wof:lastmodified":1466703693,
     "wof:name":"Ancient Healing Wisdom",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-115.266282,36.182069,-115.266282,36.182069],
+  "bbox": [
+    -115.266282,
+    36.182069,
+    -115.266282,
+    36.182069
+],
   "geometry": {"coordinates":[-115.266282,36.182069],"type":"Point"}
 }

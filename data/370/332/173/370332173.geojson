@@ -2,13 +2,14 @@
   "id": 370332173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.853973,39.484261,-119.853973,39.484261",
     "geom:latitude":39.484261,
     "geom:longitude":-119.853973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Caughlin Sq",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370332173,
-    "wof:lastmodified":1449030948,
+    "wof:lastmodified":1466704753,
     "wof:name":"Caughlin Ranch Endodontics LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-endodontists"
     ]
 },
-  "bbox": [-119.853973,39.484261,-119.853973,39.484261],
+  "bbox": [
+    -119.853973,
+    39.484261,
+    -119.853973,
+    39.484261
+],
   "geometry": {"coordinates":[-119.853973,39.484261],"type":"Point"}
 }

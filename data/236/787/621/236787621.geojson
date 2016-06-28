@@ -2,13 +2,14 @@
   "id": 236787621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049372,36.0149,-115.049372,36.0149",
     "geom:latitude":36.0149,
     "geom:longitude":-115.049372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Foothills Mills St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236787621,
-    "wof:lastmodified":1449003086,
+    "wof:lastmodified":1466706752,
     "wof:name":"Stuart M Cocks DC",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.049372,36.0149,-115.049372,36.0149],
-  "geometry": {"coordinates":[-115.049372,36.0149],"type":"Point"}
+  "bbox": [
+    -115.049372,
+    36.0149,
+    -115.049372,
+    36.0149
+],
+  "geometry": {"coordinates":[-115.04937200000001,36.0149],"type":"Point"}
 }

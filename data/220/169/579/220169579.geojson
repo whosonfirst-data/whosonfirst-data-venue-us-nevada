@@ -2,13 +2,14 @@
   "id": 220169579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.851554,35.97321,-114.851554,35.97321",
     "geom:latitude":35.97321,
     "geom:longitude":-114.851554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Foothill Ct",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220169579,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466702879,
     "wof:name":"Jim Robbins Co",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-114.851554,35.97321,-114.851554,35.97321],
-  "geometry": {"coordinates":[-114.851554,35.97321],"type":"Point"}
+  "bbox": [
+    -114.851554,
+    35.97321,
+    -114.851554,
+    35.97321
+],
+  "geometry": {"coordinates":[-114.85155399999999,35.97321],"type":"Point"}
 }

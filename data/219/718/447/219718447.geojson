@@ -2,13 +2,14 @@
   "id": 219718447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799737,39.48539,-119.799737,39.48539",
     "geom:latitude":39.48539,
     "geom:longitude":-119.799737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 Marigene Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219718447,
-    "wof:lastmodified":1449071157,
+    "wof:lastmodified":1466704418,
     "wof:name":"Mj Carr Photography",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-119.799737,39.48539,-119.799737,39.48539],
-  "geometry": {"coordinates":[-119.799737,39.48539],"type":"Point"}
+  "bbox": [
+    -119.799737,
+    39.48539,
+    -119.799737,
+    39.48539
+],
+  "geometry": {"coordinates":[-119.79973699999999,39.48539],"type":"Point"}
 }

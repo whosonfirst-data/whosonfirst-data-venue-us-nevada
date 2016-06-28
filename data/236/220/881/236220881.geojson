@@ -2,13 +2,14 @@
   "id": 236220881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096268,35.98287,-115.096268,35.98287",
     "geom:latitude":35.98287,
     "geom:longitude":-115.096268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 Corista Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236220881,
-    "wof:lastmodified":1449005106,
+    "wof:lastmodified":1466703992,
     "wof:name":"Specialty Italian Bistro",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.096268,35.98287,-115.096268,35.98287],
-  "geometry": {"coordinates":[-115.096268,35.98287],"type":"Point"}
+  "bbox": [
+    -115.096268,
+    35.98287,
+    -115.096268,
+    35.98287
+],
+  "geometry": {"coordinates":[-115.09626799999999,35.98287],"type":"Point"}
 }

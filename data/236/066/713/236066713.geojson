@@ -2,13 +2,14 @@
   "id": 236066713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716529,39.182519,-119.716529,39.182519",
     "geom:latitude":39.182519,
     "geom:longitude":-119.716529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Empire Ranch Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236066713,
-    "wof:lastmodified":1449002439,
+    "wof:lastmodified":1466704016,
     "wof:name":"Mitch's Photography Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-119.716529,39.182519,-119.716529,39.182519],
-  "geometry": {"coordinates":[-119.716529,39.182519],"type":"Point"}
+  "bbox": [
+    -119.716529,
+    39.182519,
+    -119.716529,
+    39.182519
+],
+  "geometry": {"coordinates":[-119.71652899999999,39.182519],"type":"Point"}
 }

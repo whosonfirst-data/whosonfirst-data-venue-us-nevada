@@ -2,13 +2,14 @@
   "id": 252714317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250064,36.213072,-115.250064,36.213072",
     "geom:latitude":36.213072,
     "geom:longitude":-115.250064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2881 Bus Park Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":252714317,
-    "wof:lastmodified":1449005946,
+    "wof:lastmodified":1466701607,
     "wof:name":"Mutual Of Omaha Insurance Co",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.250064,36.213072,-115.250064,36.213072],
-  "geometry": {"coordinates":[-115.250064,36.213072],"type":"Point"}
+  "bbox": [
+    -115.250064,
+    36.213072,
+    -115.250064,
+    36.213072
+],
+  "geometry": {"coordinates":[-115.25006399999999,36.213072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219655171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.97366,36.130055,-115.97366,36.130055",
     "geom:latitude":36.130055,
     "geom:longitude":-115.97366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 E Lewis St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219655171,
-    "wof:lastmodified":1449072412,
+    "wof:lastmodified":1466703907,
     "wof:name":"Kjell Hvac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.97366,36.130055,-115.97366,36.130055],
+  "bbox": [
+    -115.97366,
+    36.130055,
+    -115.97366,
+    36.130055
+],
   "geometry": {"coordinates":[-115.97366,36.130055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236016889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084268,36.107574,-115.084268,36.107574",
     "geom:latitude":36.107574,
     "geom:longitude":-115.084268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236016889,
-    "wof:lastmodified":1449002103,
+    "wof:lastmodified":1466703849,
     "wof:name":"Greg's Super Clean",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.084268,36.107574,-115.084268,36.107574],
-  "geometry": {"coordinates":[-115.084268,36.107574],"type":"Point"}
+  "bbox": [
+    -115.084268,
+    36.107574,
+    -115.084268,
+    36.107574
+],
+  "geometry": {"coordinates":[-115.08426799999999,36.107574],"type":"Point"}
 }

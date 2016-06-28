@@ -2,13 +2,14 @@
   "id": 219457421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184122,36.04487,-115.184122,36.04487",
     "geom:latitude":36.04487,
     "geom:longitude":-115.184122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8050 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219457421,
-    "wof:lastmodified":1449072758,
+    "wof:lastmodified":1466703950,
     "wof:name":"United Around Freight",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-115.184122,36.04487,-115.184122,36.04487],
+  "bbox": [
+    -115.184122,
+    36.04487,
+    -115.184122,
+    36.04487
+],
   "geometry": {"coordinates":[-115.184122,36.04487],"type":"Point"}
 }

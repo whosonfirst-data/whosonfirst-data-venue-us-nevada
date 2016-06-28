@@ -2,13 +2,14 @@
   "id": 219519461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731979,39.186501,-119.731979,39.186501",
     "geom:latitude":39.186501,
     "geom:longitude":-119.731979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 E Nye Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219519461,
-    "wof:lastmodified":1449073671,
+    "wof:lastmodified":1466701651,
     "wof:name":"Cornerstone Construction",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.731979,39.186501,-119.731979,39.186501],
+  "bbox": [
+    -119.731979,
+    39.186501,
+    -119.731979,
+    39.186501
+],
   "geometry": {"coordinates":[-119.731979,39.186501],"type":"Point"}
 }

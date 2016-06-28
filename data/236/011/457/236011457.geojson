@@ -2,13 +2,14 @@
   "id": 236011457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14195,36.119636,-115.14195,36.119636",
     "geom:latitude":36.119636,
     "geom:longitude":-115.14195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 Cambridge St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236011457,
-    "wof:lastmodified":1449004522,
+    "wof:lastmodified":1466703819,
     "wof:name":"D & L Custom Iron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.14195,36.119636,-115.14195,36.119636],
-  "geometry": {"coordinates":[-115.14195,36.119636],"type":"Point"}
+  "bbox": [
+    -115.14195,
+    36.119636,
+    -115.14195,
+    36.119636
+],
+  "geometry": {"coordinates":[-115.14194999999999,36.119636],"type":"Point"}
 }

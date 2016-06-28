@@ -2,13 +2,14 @@
   "id": 236204205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787497,39.516141,-119.787497,39.516141",
     "geom:latitude":39.516141,
     "geom:longitude":-119.787497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Columbia Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236204205,
-    "wof:lastmodified":1449005366,
+    "wof:lastmodified":1466703657,
     "wof:name":"Icf Pro Source LLC",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "form"
     ]
 },
-  "bbox": [-119.787497,39.516141,-119.787497,39.516141],
+  "bbox": [
+    -119.787497,
+    39.516141,
+    -119.787497,
+    39.516141
+],
   "geometry": {"coordinates":[-119.787497,39.516141],"type":"Point"}
 }

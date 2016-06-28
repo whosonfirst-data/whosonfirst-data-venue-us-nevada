@@ -2,13 +2,14 @@
   "id": 236063123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.15077,36.186831,-115.15077,36.186831",
     "geom:latitude":36.186831,
     "geom:longitude":-115.15077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W Van Buren Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236063123,
-    "wof:lastmodified":1449001890,
+    "wof:lastmodified":1466703992,
     "wof:name":"New Revelation Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.15077,36.186831,-115.15077,36.186831],
-  "geometry": {"coordinates":[-115.15077,36.186831],"type":"Point"}
+  "bbox": [
+    -115.15077,
+    36.186831,
+    -115.15077,
+    36.186831
+],
+  "geometry": {"coordinates":[-115.15076999999999,36.186831],"type":"Point"}
 }

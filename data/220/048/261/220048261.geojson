@@ -2,13 +2,14 @@
   "id": 220048261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.704797,39.551967,-119.704797,39.551967",
     "geom:latitude":39.551967,
     "geom:longitude":-119.704797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2349 Napoli Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220048261,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466701956,
     "wof:name":"Caricatures By Jeff Hickman",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-119.704797,39.551967,-119.704797,39.551967],
+  "bbox": [
+    -119.704797,
+    39.551967,
+    -119.704797,
+    39.551967
+],
   "geometry": {"coordinates":[-119.704797,39.551967],"type":"Point"}
 }

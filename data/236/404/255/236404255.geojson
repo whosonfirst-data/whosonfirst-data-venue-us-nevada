@@ -2,13 +2,14 @@
   "id": 236404255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804574,39.396658,-119.804574,39.396658",
     "geom:latitude":39.396658,
     "geom:longitude":-119.804574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Oxbow Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236404255,
-    "wof:lastmodified":1449003920,
+    "wof:lastmodified":1466705374,
     "wof:name":"Jim Warner Insulation Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.804574,39.396658,-119.804574,39.396658],
+  "bbox": [
+    -119.804574,
+    39.396658,
+    -119.804574,
+    39.396658
+],
   "geometry": {"coordinates":[-119.804574,39.396658],"type":"Point"}
 }

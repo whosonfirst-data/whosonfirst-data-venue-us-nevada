@@ -2,13 +2,14 @@
   "id": 370316197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.786199,39.505877,-119.786199,39.505877",
     "geom:latitude":39.505877,
     "geom:longitude":-119.786199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 E Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370316197,
-    "wof:lastmodified":1449031373,
+    "wof:lastmodified":1466704827,
     "wof:name":"Great Wall Chinese Buffet",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "pan"
     ]
 },
-  "bbox": [-119.786199,39.505877,-119.786199,39.505877],
+  "bbox": [
+    -119.786199,
+    39.505877,
+    -119.786199,
+    39.505877
+],
   "geometry": {"coordinates":[-119.786199,39.505877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236689383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164628,36.150352,-115.164628,36.150352",
     "geom:latitude":36.150352,
     "geom:longitude":-115.164628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 S Highland Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236689383,
-    "wof:lastmodified":1449004579,
+    "wof:lastmodified":1466706454,
     "wof:name":"Sport Trailers",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-115.164628,36.150352,-115.164628,36.150352],
-  "geometry": {"coordinates":[-115.164628,36.150352],"type":"Point"}
+  "bbox": [
+    -115.164628,
+    36.150352,
+    -115.164628,
+    36.150352
+],
+  "geometry": {"coordinates":[-115.16462799999999,36.150352],"type":"Point"}
 }

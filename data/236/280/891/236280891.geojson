@@ -2,13 +2,14 @@
   "id": 236280891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233089,36.134938,-115.233089,36.134938",
     "geom:latitude":36.134938,
     "geom:longitude":-115.233089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6440 Coley Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236280891,
-    "wof:lastmodified":1449003238,
+    "wof:lastmodified":1466704554,
     "wof:name":"Nannys & Grannys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "for"
     ]
 },
-  "bbox": [-115.233089,36.134938,-115.233089,36.134938],
-  "geometry": {"coordinates":[-115.233089,36.134938],"type":"Point"}
+  "bbox": [
+    -115.233089,
+    36.134938,
+    -115.233089,
+    36.134938
+],
+  "geometry": {"coordinates":[-115.23308900000001,36.134938],"type":"Point"}
 }

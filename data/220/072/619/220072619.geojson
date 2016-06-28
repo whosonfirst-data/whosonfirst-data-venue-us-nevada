@@ -2,13 +2,14 @@
   "id": 220072619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.775355,40.834078,-115.775355,40.834078",
     "geom:latitude":40.834078,
     "geom:longitude":-115.775355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Elm St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220072619,
-    "wof:lastmodified":1449074469,
+    "wof:lastmodified":1466702231,
     "wof:name":"Desert Originals",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chinaware"
     ]
 },
-  "bbox": [-115.775355,40.834078,-115.775355,40.834078],
+  "bbox": [
+    -115.775355,
+    40.834078,
+    -115.775355,
+    40.834078
+],
   "geometry": {"coordinates":[-115.775355,40.834078],"type":"Point"}
 }

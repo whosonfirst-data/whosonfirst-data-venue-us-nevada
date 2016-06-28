@@ -2,13 +2,14 @@
   "id": 220130409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.682891,35.855192,-115.682891,35.855192",
     "geom:latitude":35.855192,
     "geom:longitude":-115.682891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 Copper",
     "sg:city":"Sandy Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220130409,
-    "wof:lastmodified":1449074291,
+    "wof:lastmodified":1466702595,
     "wof:name":"Vista Farm Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-115.682891,35.855192,-115.682891,35.855192],
+  "bbox": [
+    -115.682891,
+    35.855192,
+    -115.682891,
+    35.855192
+],
   "geometry": {"coordinates":[-115.682891,35.855192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219432093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771724,39.616479,-119.771724,39.616479",
     "geom:latitude":39.616479,
     "geom:longitude":-119.771724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 Leon Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219432093,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1466703786,
     "wof:name":"Cuzcatleco Service",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-119.771724,39.616479,-119.771724,39.616479],
-  "geometry": {"coordinates":[-119.771724,39.616479],"type":"Point"}
+  "bbox": [
+    -119.771724,
+    39.616479,
+    -119.771724,
+    39.616479
+],
+  "geometry": {"coordinates":[-119.77172400000001,39.616479],"type":"Point"}
 }

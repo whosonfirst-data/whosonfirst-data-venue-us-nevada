@@ -2,13 +2,14 @@
   "id": 236391535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758538,39.520251,-119.758538,39.520251",
     "geom:latitude":39.520251,
     "geom:longitude":-119.758538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1695 Industrial Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236391535,
-    "wof:lastmodified":1449003821,
+    "wof:lastmodified":1466705304,
     "wof:name":"Mathison Industries Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.758538,39.520251,-119.758538,39.520251],
+  "bbox": [
+    -119.758538,
+    39.520251,
+    -119.758538,
+    39.520251
+],
   "geometry": {"coordinates":[-119.758538,39.520251],"type":"Point"}
 }

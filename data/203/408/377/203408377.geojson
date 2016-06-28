@@ -2,13 +2,14 @@
   "id": 203408377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.074504,36.804067,-114.074504,36.804067",
     "geom:latitude":36.804067,
     "geom:longitude":-114.074504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 W Mesquite Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203408377,
-    "wof:lastmodified":1449025182,
+    "wof:lastmodified":1466703352,
     "wof:name":"Stitch-N-Time Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-114.074504,36.804067,-114.074504,36.804067],
+  "bbox": [
+    -114.074504,
+    36.804067,
+    -114.074504,
+    36.804067
+],
   "geometry": {"coordinates":[-114.074504,36.804067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236465203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769503,39.135455,-119.769503,39.135455",
     "geom:latitude":39.135455,
     "geom:longitude":-119.769503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236465203,
-    "wof:lastmodified":1449003950,
+    "wof:lastmodified":1466705552,
     "wof:name":"Carson Mobile Home Park",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-119.769503,39.135455,-119.769503,39.135455],
+  "bbox": [
+    -119.769503,
+    39.135455,
+    -119.769503,
+    39.135455
+],
   "geometry": {"coordinates":[-119.769503,39.135455],"type":"Point"}
 }

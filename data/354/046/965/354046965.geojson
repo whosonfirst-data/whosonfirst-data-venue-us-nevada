@@ -2,13 +2,14 @@
   "id": 354046965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.083053,36.023229,-115.083053,36.023229",
     "geom:latitude":36.023229,
     "geom:longitude":-115.083053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354046965,
-    "wof:lastmodified":1449066889,
+    "wof:lastmodified":1466702686,
     "wof:name":"Whole Foods Market",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.083053,36.023229,-115.083053,36.023229],
-  "geometry": {"coordinates":[-115.083053,36.023229],"type":"Point"}
+  "bbox": [
+    -115.083053,
+    36.023229,
+    -115.083053,
+    36.023229
+],
+  "geometry": {"coordinates":[-115.08305300000001,36.023229],"type":"Point"}
 }

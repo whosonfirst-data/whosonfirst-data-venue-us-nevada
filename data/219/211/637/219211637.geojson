@@ -2,13 +2,14 @@
   "id": 219211637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123096,36.01929,-115.123096,36.01929",
     "geom:latitude":36.01929,
     "geom:longitude":-115.123096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 Lipari Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219211637,
-    "wof:lastmodified":1449071266,
+    "wof:lastmodified":1466702175,
     "wof:name":"3 K Discount Air Travel",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.123096,36.01929,-115.123096,36.01929],
+  "bbox": [
+    -115.123096,
+    36.01929,
+    -115.123096,
+    36.01929
+],
   "geometry": {"coordinates":[-115.123096,36.01929],"type":"Point"}
 }

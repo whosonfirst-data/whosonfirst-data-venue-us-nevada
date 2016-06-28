@@ -2,13 +2,14 @@
   "id": 235929929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717166,39.565862,-119.717166,39.565862",
     "geom:latitude":39.565862,
     "geom:longitude":-119.717166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3587 Willowdale Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235929929,
-    "wof:lastmodified":1449008385,
+    "wof:lastmodified":1466703441,
     "wof:name":"Sierra Cpr",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "first"
     ]
 },
-  "bbox": [-119.717166,39.565862,-119.717166,39.565862],
-  "geometry": {"coordinates":[-119.717166,39.565862],"type":"Point"}
+  "bbox": [
+    -119.717166,
+    39.565862,
+    -119.717166,
+    39.565862
+],
+  "geometry": {"coordinates":[-119.71716600000001,39.565862],"type":"Point"}
 }

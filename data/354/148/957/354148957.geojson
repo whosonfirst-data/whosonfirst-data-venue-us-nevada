@@ -2,13 +2,14 @@
   "id": 354148957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201619,36.112423,-115.201619,36.112423",
     "geom:latitude":36.112423,
     "geom:longitude":-115.201619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Delancey Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354148957,
-    "wof:lastmodified":1449067382,
+    "wof:lastmodified":1466704642,
     "wof:name":"Celebrity Coaches of America",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limo"
     ]
 },
-  "bbox": [-115.201619,36.112423,-115.201619,36.112423],
-  "geometry": {"coordinates":[-115.201619,36.112423],"type":"Point"}
+  "bbox": [
+    -115.201619,
+    36.112423,
+    -115.201619,
+    36.112423
+],
+  "geometry": {"coordinates":[-115.20161899999999,36.112423],"type":"Point"}
 }

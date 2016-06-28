@@ -2,13 +2,14 @@
   "id": 236233165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.538747,40.751206,-115.538747,40.751206",
     "geom:latitude":40.751206,
     "geom:longitude":-115.538747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Greencrest Pl",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236233165,
-    "wof:lastmodified":1449005316,
+    "wof:lastmodified":1466704287,
     "wof:name":"Joseph Hebert Consulting",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "geological"
     ]
 },
-  "bbox": [-115.538747,40.751206,-115.538747,40.751206],
+  "bbox": [
+    -115.538747,
+    40.751206,
+    -115.538747,
+    40.751206
+],
   "geometry": {"coordinates":[-115.538747,40.751206],"type":"Point"}
 }

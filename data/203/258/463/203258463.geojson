@@ -2,13 +2,14 @@
   "id": 203258463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.584453,39.747012,-119.584453,39.747012",
     "geom:latitude":39.747012,
     "geom:longitude":-119.584453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Crossover Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203258463,
-    "wof:lastmodified":1449026435,
+    "wof:lastmodified":1466702561,
     "wof:name":"Teachers Pet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "radio"
     ]
 },
-  "bbox": [-119.584453,39.747012,-119.584453,39.747012],
+  "bbox": [
+    -119.584453,
+    39.747012,
+    -119.584453,
+    39.747012
+],
   "geometry": {"coordinates":[-119.584453,39.747012],"type":"Point"}
 }

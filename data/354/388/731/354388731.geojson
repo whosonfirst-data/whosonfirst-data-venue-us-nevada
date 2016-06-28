@@ -2,13 +2,14 @@
   "id": 354388731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.095429,36.115482,-115.095429,36.115482",
     "geom:latitude":36.115482,
     "geom:longitude":-115.095429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 E Flamingo Rd Ste 3",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354388731,
-    "wof:lastmodified":1449066016,
+    "wof:lastmodified":1466706227,
     "wof:name":"Flamingo Mini Mart",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.095429,36.115482,-115.095429,36.115482],
+  "bbox": [
+    -115.095429,
+    36.115482,
+    -115.095429,
+    36.115482
+],
   "geometry": {"coordinates":[-115.095429,36.115482],"type":"Point"}
 }

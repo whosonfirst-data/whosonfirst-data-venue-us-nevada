@@ -2,13 +2,14 @@
   "id": 236775151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751609,38.936763,-119.751609,38.936763",
     "geom:latitude":38.936763,
     "geom:longitude":-119.751609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 Centerville Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236775151,
-    "wof:lastmodified":1449004208,
+    "wof:lastmodified":1466706603,
     "wof:name":"Sunflower Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-119.751609,38.936763,-119.751609,38.936763],
+  "bbox": [
+    -119.751609,
+    38.936763,
+    -119.751609,
+    38.936763
+],
   "geometry": {"coordinates":[-119.751609,38.936763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370354669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776411,39.091113,-119.776411,39.091113",
     "geom:latitude":39.091113,
     "geom:longitude":-119.776411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Mica Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370354669,
-    "wof:lastmodified":1449032093,
+    "wof:lastmodified":1466705057,
     "wof:name":"Tahoe Women's Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.776411,39.091113,-119.776411,39.091113],
+  "bbox": [
+    -119.776411,
+    39.091113,
+    -119.776411,
+    39.091113
+],
   "geometry": {"coordinates":[-119.776411,39.091113],"type":"Point"}
 }

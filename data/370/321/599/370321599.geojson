@@ -2,13 +2,14 @@
   "id": 370321599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.836452,39.522805,-119.836452,39.522805",
     "geom:latitude":39.522805,
     "geom:longitude":-119.836452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 Dickerson Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370321599,
-    "wof:lastmodified":1449029145,
+    "wof:lastmodified":1466704743,
     "wof:name":"Progressive Pest Management",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "store"
     ]
 },
-  "bbox": [-119.836452,39.522805,-119.836452,39.522805],
-  "geometry": {"coordinates":[-119.836452,39.522805],"type":"Point"}
+  "bbox": [
+    -119.836452,
+    39.522805,
+    -119.836452,
+    39.522805
+],
+  "geometry": {"coordinates":[-119.83645199999999,39.522805],"type":"Point"}
 }

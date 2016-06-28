@@ -2,13 +2,14 @@
   "id": 236826731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232374,36.022078,-115.232374,36.022078",
     "geom:latitude":36.022078,
     "geom:longitude":-115.232374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9145 Mann St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236826731,
-    "wof:lastmodified":1449004161,
+    "wof:lastmodified":1466706702,
     "wof:name":"Jack Pot Sanitation Svc",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [-115.232374,36.022078,-115.232374,36.022078],
-  "geometry": {"coordinates":[-115.232374,36.022078],"type":"Point"}
+  "bbox": [
+    -115.232374,
+    36.022078,
+    -115.232374,
+    36.022078
+],
+  "geometry": {"coordinates":[-115.23237399999999,36.022078],"type":"Point"}
 }

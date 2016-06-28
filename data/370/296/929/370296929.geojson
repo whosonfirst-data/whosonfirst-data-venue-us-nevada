@@ -2,13 +2,14 @@
   "id": 370296929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148875,36.126737,-115.148875,36.126737",
     "geom:latitude":36.126737,
     "geom:longitude":-115.148875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 Sierra Vista Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370296929,
-    "wof:lastmodified":1449031842,
+    "wof:lastmodified":1466704567,
     "wof:name":"Gas Light Square",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.148875,36.126737,-115.148875,36.126737],
+  "bbox": [
+    -115.148875,
+    36.126737,
+    -115.148875,
+    36.126737
+],
   "geometry": {"coordinates":[-115.148875,36.126737],"type":"Point"}
 }

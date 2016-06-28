@@ -2,13 +2,14 @@
   "id": 236124521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075865,36.159049,-115.075865,36.159049",
     "geom:latitude":36.159049,
     "geom:longitude":-115.075865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4450 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236124521,
-    "wof:lastmodified":1449004947,
+    "wof:lastmodified":1466702023,
     "wof:name":"Kim's Coin Laundry & Dry Clnrs",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "coin"
     ]
 },
-  "bbox": [-115.075865,36.159049,-115.075865,36.159049],
-  "geometry": {"coordinates":[-115.075865,36.159049],"type":"Point"}
+  "bbox": [
+    -115.075865,
+    36.159049,
+    -115.075865,
+    36.159049
+],
+  "geometry": {"coordinates":[-115.07586499999999,36.159049],"type":"Point"}
 }

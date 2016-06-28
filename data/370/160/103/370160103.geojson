@@ -2,13 +2,14 @@
   "id": 370160103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326126,36.232767,-115.326126,36.232767",
     "geom:latitude":36.232767,
     "geom:longitude":-115.326126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10550 W Alexander Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370160103,
-    "wof:lastmodified":1449031931,
+    "wof:lastmodified":1466701790,
     "wof:name":"Windwalker Investment Llc",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-115.326126,36.232767,-115.326126,36.232767],
+  "bbox": [
+    -115.326126,
+    36.232767,
+    -115.326126,
+    36.232767
+],
   "geometry": {"coordinates":[-115.326126,36.232767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235967317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.310434,36.136107,-115.310434,36.136107",
     "geom:latitude":36.136107,
     "geom:longitude":-115.310434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 Reef View St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235967317,
-    "wof:lastmodified":1449008593,
+    "wof:lastmodified":1466703599,
     "wof:name":"Champion Carpet Care",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.310434,36.136107,-115.310434,36.136107],
+  "bbox": [
+    -115.310434,
+    36.136107,
+    -115.310434,
+    36.136107
+],
   "geometry": {"coordinates":[-115.310434,36.136107],"type":"Point"}
 }

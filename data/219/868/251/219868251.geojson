@@ -2,13 +2,14 @@
   "id": 219868251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.757101,40.835383,-115.757101,40.835383",
     "geom:latitude":40.835383,
     "geom:longitude":-115.757101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 10th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219868251,
-    "wof:lastmodified":1449070534,
+    "wof:lastmodified":1466705483,
     "wof:name":"Jiggs Volunteer Fire Dept",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-115.757101,40.835383,-115.757101,40.835383],
-  "geometry": {"coordinates":[-115.757101,40.835383],"type":"Point"}
+  "bbox": [
+    -115.757101,
+    40.835383,
+    -115.757101,
+    40.835383
+],
+  "geometry": {"coordinates":[-115.75710100000001,40.835383],"type":"Point"}
 }

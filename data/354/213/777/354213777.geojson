@@ -2,13 +2,14 @@
   "id": 354213777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241647,36.178077,-115.241647,36.178077",
     "geom:latitude":36.178077,
     "geom:longitude":-115.241647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Rainbow Blvd Ste 300",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354213777,
-    "wof:lastmodified":1449065947,
+    "wof:lastmodified":1466705108,
     "wof:name":"Blare Films",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "video/film"
     ]
 },
-  "bbox": [-115.241647,36.178077,-115.241647,36.178077],
+  "bbox": [
+    -115.241647,
+    36.178077,
+    -115.241647,
+    36.178077
+],
   "geometry": {"coordinates":[-115.241647,36.178077],"type":"Point"}
 }

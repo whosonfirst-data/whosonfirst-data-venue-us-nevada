@@ -2,13 +2,14 @@
   "id": 203237115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.083957,36.803845,-114.083957,36.803845",
     "geom:latitude":36.803845,
     "geom:longitude":-114.083957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 W Mesquite Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203237115,
-    "wof:lastmodified":1449024990,
+    "wof:lastmodified":1466702409,
     "wof:name":"Vernon W Pollock DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-114.083957,36.803845,-114.083957,36.803845],
+  "bbox": [
+    -114.083957,
+    36.803845,
+    -114.083957,
+    36.803845
+],
   "geometry": {"coordinates":[-114.083957,36.803845],"type":"Point"}
 }

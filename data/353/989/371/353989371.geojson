@@ -2,13 +2,14 @@
   "id": 353989371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.007688,36.060873,-115.007688,36.060873",
     "geom:latitude":36.060873,
     "geom:longitude":-115.007688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 Athol Avenue",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353989371,
-    "wof:lastmodified":1449020113,
+    "wof:lastmodified":1466701572,
     "wof:name":"Shady Rest Motel",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.007688,36.060873,-115.007688,36.060873],
+  "bbox": [
+    -115.007688,
+    36.060873,
+    -115.007688,
+    36.060873
+],
   "geometry": {"coordinates":[-115.007688,36.060873],"type":"Point"}
 }

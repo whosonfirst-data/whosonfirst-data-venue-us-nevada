@@ -2,13 +2,14 @@
   "id": 354400943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172253,36.022315,-115.172253,36.022315",
     "geom:latitude":36.022315,
     "geom:longitude":-115.172253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Las Vegas Blvd Ste 3",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354400943,
-    "wof:lastmodified":1449066093,
+    "wof:lastmodified":1466706163,
     "wof:name":"All Vegas Property Group",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "property"
     ]
 },
-  "bbox": [-115.172253,36.022315,-115.172253,36.022315],
+  "bbox": [
+    -115.172253,
+    36.022315,
+    -115.172253,
+    36.022315
+],
   "geometry": {"coordinates":[-115.172253,36.022315],"type":"Point"}
 }

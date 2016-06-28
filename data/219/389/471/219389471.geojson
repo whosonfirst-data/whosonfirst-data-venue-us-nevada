@@ -2,13 +2,14 @@
   "id": 219389471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.788951,39.496125,-119.788951,39.496125",
     "geom:latitude":39.496125,
     "geom:longitude":-119.788951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3070 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219389471,
-    "wof:lastmodified":1449073212,
+    "wof:lastmodified":1466703568,
     "wof:name":"Cal's Vacuum Ctr",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-119.788951,39.496125,-119.788951,39.496125],
+  "bbox": [
+    -119.788951,
+    39.496125,
+    -119.788951,
+    39.496125
+],
   "geometry": {"coordinates":[-119.788951,39.496125],"type":"Point"}
 }

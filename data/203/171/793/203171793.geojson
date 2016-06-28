@@ -2,13 +2,14 @@
   "id": 203171793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277572,36.26255,-115.277572,36.26255",
     "geom:latitude":36.26255,
     "geom:longitude":-115.277572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8328 Green Clover Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203171793,
-    "wof:lastmodified":1449026871,
+    "wof:lastmodified":1466701749,
     "wof:name":"Academy Stone & Tile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-115.277572,36.26255,-115.277572,36.26255],
-  "geometry": {"coordinates":[-115.277572,36.26255],"type":"Point"}
+  "bbox": [
+    -115.277572,
+    36.26255,
+    -115.277572,
+    36.26255
+],
+  "geometry": {"coordinates":[-115.27757200000001,36.26255],"type":"Point"}
 }

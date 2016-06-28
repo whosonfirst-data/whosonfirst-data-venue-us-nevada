@@ -2,13 +2,14 @@
   "id": 219251743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119067,36.107299,-115.119067,36.107299",
     "geom:latitude":36.107299,
     "geom:longitude":-115.119067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219251743,
-    "wof:lastmodified":1449070434,
+    "wof:lastmodified":1466702560,
     "wof:name":"Onair Inc",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.119067,36.107299,-115.119067,36.107299],
+  "bbox": [
+    -115.119067,
+    36.107299,
+    -115.119067,
+    36.107299
+],
   "geometry": {"coordinates":[-115.119067,36.107299],"type":"Point"}
 }

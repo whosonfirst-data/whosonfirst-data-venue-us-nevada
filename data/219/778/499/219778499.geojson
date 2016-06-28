@@ -2,13 +2,14 @@
   "id": 219778499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.22825,36.166306,-115.22825,36.166306",
     "geom:latitude":36.166306,
     "geom:longitude":-115.22825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6209 Alta Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219778499,
-    "wof:lastmodified":1449070436,
+    "wof:lastmodified":1466704833,
     "wof:name":"Alta Com of Las Vegas",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.22825,36.166306,-115.22825,36.166306],
+  "bbox": [
+    -115.22825,
+    36.166306,
+    -115.22825,
+    36.166306
+],
   "geometry": {"coordinates":[-115.22825,36.166306],"type":"Point"}
 }

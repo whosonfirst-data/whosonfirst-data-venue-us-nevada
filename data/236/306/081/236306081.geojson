@@ -2,13 +2,14 @@
   "id": 236306081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141914,36.029537,-115.141914,36.029537",
     "geom:latitude":36.029537,
     "geom:longitude":-115.141914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Garden Breeze Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236306081,
-    "wof:lastmodified":1449005065,
+    "wof:lastmodified":1466704756,
     "wof:name":"Cayman Construction",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.141914,36.029537,-115.141914,36.029537],
+  "bbox": [
+    -115.141914,
+    36.029537,
+    -115.141914,
+    36.029537
+],
   "geometry": {"coordinates":[-115.141914,36.029537],"type":"Point"}
 }

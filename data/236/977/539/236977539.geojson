@@ -2,13 +2,14 @@
   "id": 236977539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.820911,39.525402,-119.820911,39.525402",
     "geom:latitude":39.525402,
     "geom:longitude":-119.820911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236977539,
-    "wof:lastmodified":1449005347,
+    "wof:lastmodified":1466706955,
     "wof:name":"Brown Stone Hair Salon",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.820911,39.525402,-119.820911,39.525402],
+  "bbox": [
+    -119.820911,
+    39.525402,
+    -119.820911,
+    39.525402
+],
   "geometry": {"coordinates":[-119.820911,39.525402],"type":"Point"}
 }

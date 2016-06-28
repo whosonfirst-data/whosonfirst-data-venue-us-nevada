@@ -2,13 +2,14 @@
   "id": 354413343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136601,36.026368,-115.136601,36.026368",
     "geom:latitude":36.026368,
     "geom:longitude":-115.136601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9014 Crystal Coral Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354413343,
-    "wof:lastmodified":1449066194,
+    "wof:lastmodified":1466706230,
     "wof:name":"Access Lock and Safe",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.136601,36.026368,-115.136601,36.026368],
+  "bbox": [
+    -115.136601,
+    36.026368,
+    -115.136601,
+    36.026368
+],
   "geometry": {"coordinates":[-115.136601,36.026368],"type":"Point"}
 }

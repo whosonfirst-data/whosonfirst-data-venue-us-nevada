@@ -2,13 +2,14 @@
   "id": 370318413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807962,39.515532,-119.807962,39.515532",
     "geom:latitude":39.515532,
     "geom:longitude":-119.807962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 S Virginia St Suite 220",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370318413,
-    "wof:lastmodified":1449029845,
+    "wof:lastmodified":1466704572,
     "wof:name":"Jill K Whitbeck",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "custody"
     ]
 },
-  "bbox": [-119.807962,39.515532,-119.807962,39.515532],
+  "bbox": [
+    -119.807962,
+    39.515532,
+    -119.807962,
+    39.515532
+],
   "geometry": {"coordinates":[-119.807962,39.515532],"type":"Point"}
 }

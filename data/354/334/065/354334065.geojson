@@ -2,13 +2,14 @@
   "id": 354334065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12857,36.056956,-115.12857,36.056956",
     "geom:latitude":36.056956,
     "geom:longitude":-115.12857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 E Warm Springs Rd Ste 9",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354334065,
-    "wof:lastmodified":1449066406,
+    "wof:lastmodified":1466705929,
     "wof:name":"Pizza My Dear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-115.12857,36.056956,-115.12857,36.056956],
+  "bbox": [
+    -115.12857,
+    36.056956,
+    -115.12857,
+    36.056956
+],
   "geometry": {"coordinates":[-115.12857,36.056956],"type":"Point"}
 }

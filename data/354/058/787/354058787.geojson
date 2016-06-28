@@ -2,13 +2,14 @@
   "id": 354058787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099735,36.032196,-115.099735,36.032196",
     "geom:latitude":36.032196,
     "geom:longitude":-115.099735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 N Pecos Rd Ste C",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354058787,
-    "wof:lastmodified":1449066182,
+    "wof:lastmodified":1466703000,
     "wof:name":"Physiotherapy Associates",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.099735,36.032196,-115.099735,36.032196],
+  "bbox": [
+    -115.099735,
+    36.032196,
+    -115.099735,
+    36.032196
+],
   "geometry": {"coordinates":[-115.099735,36.032196],"type":"Point"}
 }

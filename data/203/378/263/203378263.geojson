@@ -2,13 +2,14 @@
   "id": 203378263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111915,36.005275,-115.111915,36.005275",
     "geom:latitude":36.005275,
     "geom:longitude":-115.111915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10050 S Eastern Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203378263,
-    "wof:lastmodified":1449026257,
+    "wof:lastmodified":1466703242,
     "wof:name":"Alligator Soup",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stationer"
     ]
 },
-  "bbox": [-115.111915,36.005275,-115.111915,36.005275],
+  "bbox": [
+    -115.111915,
+    36.005275,
+    -115.111915,
+    36.005275
+],
   "geometry": {"coordinates":[-115.111915,36.005275],"type":"Point"}
 }

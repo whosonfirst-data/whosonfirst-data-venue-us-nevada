@@ -2,13 +2,14 @@
   "id": 203225755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322537,36.182387,-115.322537,36.182387",
     "geom:latitude":36.182387,
     "geom:longitude":-115.322537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Lexington Cross Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203225755,
-    "wof:lastmodified":1449025500,
+    "wof:lastmodified":1466702348,
     "wof:name":"Diallo Piano Studio",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-115.322537,36.182387,-115.322537,36.182387],
+  "bbox": [
+    -115.322537,
+    36.182387,
+    -115.322537,
+    36.182387
+],
   "geometry": {"coordinates":[-115.322537,36.182387],"type":"Point"}
 }

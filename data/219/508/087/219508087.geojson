@@ -2,13 +2,14 @@
   "id": 219508087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789119,39.496948,-119.789119,39.496948",
     "geom:latitude":39.496948,
     "geom:longitude":-119.789119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2885 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219508087,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466704176,
     "wof:name":"Grimm Ray Investments",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "space"
     ]
 },
-  "bbox": [-119.789119,39.496948,-119.789119,39.496948],
+  "bbox": [
+    -119.789119,
+    39.496948,
+    -119.789119,
+    39.496948
+],
   "geometry": {"coordinates":[-119.789119,39.496948],"type":"Point"}
 }

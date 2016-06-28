@@ -2,13 +2,14 @@
   "id": 370205565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224468,36.042325,-115.224468,36.042325",
     "geom:latitude":36.042325,
     "geom:longitude":-115.224468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6030 W Windmill Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370205565,
-    "wof:lastmodified":1449031131,
+    "wof:lastmodified":1466702660,
     "wof:name":"Liquor World Inc",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.224468,36.042325,-115.224468,36.042325],
+  "bbox": [
+    -115.224468,
+    36.042325,
+    -115.224468,
+    36.042325
+],
   "geometry": {"coordinates":[-115.224468,36.042325],"type":"Point"}
 }

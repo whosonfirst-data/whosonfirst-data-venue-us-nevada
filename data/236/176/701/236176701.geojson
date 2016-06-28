@@ -2,13 +2,14 @@
   "id": 236176701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.231879,36.185015,-115.231879,36.185015",
     "geom:latitude":36.185015,
     "geom:longitude":-115.231879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6383 Canyon Dawn Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236176701,
-    "wof:lastmodified":1449003881,
+    "wof:lastmodified":1466703120,
     "wof:name":"J & Js Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.231879,36.185015,-115.231879,36.185015],
-  "geometry": {"coordinates":[-115.231879,36.185015],"type":"Point"}
+  "bbox": [
+    -115.231879,
+    36.185015,
+    -115.231879,
+    36.185015
+],
+  "geometry": {"coordinates":[-115.23187900000001,36.185015],"type":"Point"}
 }

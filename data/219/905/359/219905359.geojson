@@ -2,13 +2,14 @@
   "id": 219905359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.268343,36.270652,-115.268343,36.270652",
     "geom:latitude":36.270652,
     "geom:longitude":-115.268343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7930 W Tropical Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219905359,
-    "wof:lastmodified":1449071764,
+    "wof:lastmodified":1466705665,
     "wof:name":"Ultra Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-115.268343,36.270652,-115.268343,36.270652],
+  "bbox": [
+    -115.268343,
+    36.270652,
+    -115.268343,
+    36.270652
+],
   "geometry": {"coordinates":[-115.268343,36.270652],"type":"Point"}
 }

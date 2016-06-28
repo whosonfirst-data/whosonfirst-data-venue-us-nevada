@@ -2,13 +2,14 @@
   "id": 354391327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101122,36.10063,-115.101122,36.10063",
     "geom:latitude":36.10063,
     "geom:longitude":-115.101122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4865 South Pecos Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354391327,
-    "wof:lastmodified":1449067054,
+    "wof:lastmodified":1466706218,
     "wof:name":"DaVinci Pizza",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.101122,36.10063,-115.101122,36.10063],
+  "bbox": [
+    -115.101122,
+    36.10063,
+    -115.101122,
+    36.10063
+],
   "geometry": {"coordinates":[-115.101122,36.10063],"type":"Point"}
 }

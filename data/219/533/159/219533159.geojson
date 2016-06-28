@@ -2,13 +2,14 @@
   "id": 219533159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189803,36.085791,-115.189803,36.085791",
     "geom:latitude":36.085791,
     "geom:longitude":-115.189803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5770 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219533159,
-    "wof:lastmodified":1449070336,
+    "wof:lastmodified":1466701912,
     "wof:name":"X P Consulting",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.189803,36.085791,-115.189803,36.085791],
+  "bbox": [
+    -115.189803,
+    36.085791,
+    -115.189803,
+    36.085791
+],
   "geometry": {"coordinates":[-115.189803,36.085791],"type":"Point"}
 }

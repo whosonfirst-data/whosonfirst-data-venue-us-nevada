@@ -2,13 +2,14 @@
   "id": 219943441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818415,39.588166,-119.818415,39.588166",
     "geom:latitude":39.588166,
     "geom:longitude":-119.818415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Newport Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219943441,
-    "wof:lastmodified":1449071332,
+    "wof:lastmodified":1466705855,
     "wof:name":"Comstock Air",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-119.818415,39.588166,-119.818415,39.588166],
+  "bbox": [
+    -119.818415,
+    39.588166,
+    -119.818415,
+    39.588166
+],
   "geometry": {"coordinates":[-119.818415,39.588166],"type":"Point"}
 }

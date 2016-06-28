@@ -2,13 +2,14 @@
   "id": 220058067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.024016,36.219709,-116.024016,36.219709",
     "geom:latitude":36.219709,
     "geom:longitude":-116.024016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 W Basin Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220058067,
-    "wof:lastmodified":1449074151,
+    "wof:lastmodified":1466702117,
     "wof:name":"Mc Laren Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.024016,36.219709,-116.024016,36.219709],
+  "bbox": [
+    -116.024016,
+    36.219709,
+    -116.024016,
+    36.219709
+],
   "geometry": {"coordinates":[-116.024016,36.219709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219996985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277725,36.186905,-115.277725,36.186905",
     "geom:latitude":36.186905,
     "geom:longitude":-115.277725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8405 Tiger Woods Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219996985,
-    "wof:lastmodified":1449071344,
+    "wof:lastmodified":1466706308,
     "wof:name":"National Delivery Systems",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-115.277725,36.186905,-115.277725,36.186905],
+  "bbox": [
+    -115.277725,
+    36.186905,
+    -115.277725,
+    36.186905
+],
   "geometry": {"coordinates":[-115.277725,36.186905],"type":"Point"}
 }

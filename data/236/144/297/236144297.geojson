@@ -2,13 +2,14 @@
   "id": 236144297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.075224,36.156426,-115.075224,36.156426",
     "geom:latitude":36.156426,
     "geom:longitude":-115.075224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 S Lucky St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":236144297,
-    "wof:lastmodified":1449004182,
+    "wof:lastmodified":1466702436,
     "wof:name":"A A Wholesale",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-115.075224,36.156426,-115.075224,36.156426],
-  "geometry": {"coordinates":[-115.075224,36.156426],"type":"Point"}
+  "bbox": [
+    -115.075224,
+    36.156426,
+    -115.075224,
+    36.156426
+],
+  "geometry": {"coordinates":[-115.07522400000001,36.156426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370258811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297935,36.112294,-115.297935,36.112294",
     "geom:latitude":36.112294,
     "geom:longitude":-115.297935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 S Fort Apache Ste 160",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370258811,
-    "wof:lastmodified":1449031788,
+    "wof:lastmodified":1466703894,
     "wof:name":"Biaggio's Pizzeria",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-115.297935,36.112294,-115.297935,36.112294],
+  "bbox": [
+    -115.297935,
+    36.112294,
+    -115.297935,
+    36.112294
+],
   "geometry": {"coordinates":[-115.297935,36.112294],"type":"Point"}
 }

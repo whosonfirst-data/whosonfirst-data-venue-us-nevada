@@ -2,13 +2,14 @@
   "id": 236157845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.82778,39.513182,-119.82778,39.513182",
     "geom:latitude":39.513182,
     "geom:longitude":-119.82778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Marsh Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236157845,
-    "wof:lastmodified":1449004680,
+    "wof:lastmodified":1466702736,
     "wof:name":"Sierra Home Staging By Design",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.82778,39.513182,-119.82778,39.513182],
+  "bbox": [
+    -119.82778,
+    39.513182,
+    -119.82778,
+    39.513182
+],
   "geometry": {"coordinates":[-119.82778,39.513182],"type":"Point"}
 }

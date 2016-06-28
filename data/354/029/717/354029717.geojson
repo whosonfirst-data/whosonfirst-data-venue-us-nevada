@@ -2,13 +2,14 @@
   "id": 354029717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099624,36.214171,-115.099624,36.214171",
     "geom:latitude":36.214171,
     "geom:longitude":-115.099624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3049 S Las Vegas Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354029717,
-    "wof:lastmodified":1449066640,
+    "wof:lastmodified":1466702265,
     "wof:name":"Rock & Roll Sushi",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-115.099624,36.214171,-115.099624,36.214171],
-  "geometry": {"coordinates":[-115.099624,36.214171],"type":"Point"}
+  "bbox": [
+    -115.099624,
+    36.214171,
+    -115.099624,
+    36.214171
+],
+  "geometry": {"coordinates":[-115.09962400000001,36.214171],"type":"Point"}
 }

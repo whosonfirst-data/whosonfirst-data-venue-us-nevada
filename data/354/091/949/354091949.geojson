@@ -2,13 +2,14 @@
   "id": 354091949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112999,36.173801,-115.112999,36.173801",
     "geom:latitude":36.173801,
     "geom:longitude":-115.112999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2751 E Bonanza Rd Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354091949,
-    "wof:lastmodified":1449066100,
+    "wof:lastmodified":1466703916,
     "wof:name":"Bonanza Garden Apartments",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.112999,36.173801,-115.112999,36.173801],
+  "bbox": [
+    -115.112999,
+    36.173801,
+    -115.112999,
+    36.173801
+],
   "geometry": {"coordinates":[-115.112999,36.173801],"type":"Point"}
 }

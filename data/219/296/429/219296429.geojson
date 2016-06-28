@@ -2,13 +2,14 @@
   "id": 219296429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.328656,36.130402,-115.328656,36.130402",
     "geom:latitude":36.130402,
     "geom:longitude":-115.328656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10824 Franklin Hills Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219296429,
-    "wof:lastmodified":1449073271,
+    "wof:lastmodified":1466703049,
     "wof:name":"In Plain View",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-115.328656,36.130402,-115.328656,36.130402],
+  "bbox": [
+    -115.328656,
+    36.130402,
+    -115.328656,
+    36.130402
+],
   "geometry": {"coordinates":[-115.328656,36.130402],"type":"Point"}
 }

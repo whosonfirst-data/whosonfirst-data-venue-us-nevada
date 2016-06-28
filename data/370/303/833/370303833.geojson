@@ -2,13 +2,14 @@
   "id": 370303833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136752,36.013173,-115.136752,36.013173",
     "geom:latitude":36.013173,
     "geom:longitude":-115.136752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9725 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370303833,
-    "wof:lastmodified":1449029095,
+    "wof:lastmodified":1466704778,
     "wof:name":"Bank of America",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.136752,36.013173,-115.136752,36.013173],
+  "bbox": [
+    -115.136752,
+    36.013173,
+    -115.136752,
+    36.013173
+],
   "geometry": {"coordinates":[-115.136752,36.013173],"type":"Point"}
 }

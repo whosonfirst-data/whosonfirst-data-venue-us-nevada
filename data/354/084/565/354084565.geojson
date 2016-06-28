@@ -2,13 +2,14 @@
   "id": 354084565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098452,36.181479,-115.098452,36.181479",
     "geom:latitude":36.181479,
     "geom:longitude":-115.098452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Pecos Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354084565,
-    "wof:lastmodified":1449066123,
+    "wof:lastmodified":1466703718,
     "wof:name":"The Point After Lounge & Restaurant",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.098452,36.181479,-115.098452,36.181479],
-  "geometry": {"coordinates":[-115.098452,36.181479],"type":"Point"}
+  "bbox": [
+    -115.098452,
+    36.181479,
+    -115.098452,
+    36.181479
+],
+  "geometry": {"coordinates":[-115.09845199999999,36.181479],"type":"Point"}
 }

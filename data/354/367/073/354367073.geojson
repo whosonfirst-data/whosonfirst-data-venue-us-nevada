@@ -2,13 +2,14 @@
   "id": 354367073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097333,36.071459,-115.097333,36.071459",
     "geom:latitude":36.071459,
     "geom:longitude":-115.097333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3551 E Sunset Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":354367073,
-    "wof:lastmodified":1449066952,
+    "wof:lastmodified":1466706078,
     "wof:name":"Montessori Children's World",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.097333,36.071459,-115.097333,36.071459],
-  "geometry": {"coordinates":[-115.097333,36.071459],"type":"Point"}
+  "bbox": [
+    -115.097333,
+    36.071459,
+    -115.097333,
+    36.071459
+],
+  "geometry": {"coordinates":[-115.09733300000001,36.071459],"type":"Point"}
 }

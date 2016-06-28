@@ -2,13 +2,14 @@
   "id": 219924797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.240341,36.131515,-115.240341,36.131515",
     "geom:latitude":36.131515,
     "geom:longitude":-115.240341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3169 Cambridgeshire St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219924797,
-    "wof:lastmodified":1449071382,
+    "wof:lastmodified":1466705649,
     "wof:name":"Lazy H Import & Trading Co",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.240341,36.131515,-115.240341,36.131515],
+  "bbox": [
+    -115.240341,
+    36.131515,
+    -115.240341,
+    36.131515
+],
   "geometry": {"coordinates":[-115.240341,36.131515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203189959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295179,36.062193,-115.295179,36.062193",
     "geom:latitude":36.062193,
     "geom:longitude":-115.295179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6980 Night Bloom Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203189959,
-    "wof:lastmodified":1449026306,
+    "wof:lastmodified":1466701925,
     "wof:name":"Desert Blinds",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-115.295179,36.062193,-115.295179,36.062193],
+  "bbox": [
+    -115.295179,
+    36.062193,
+    -115.295179,
+    36.062193
+],
   "geometry": {"coordinates":[-115.295179,36.062193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235949969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.705238,39.564525,-119.705238,39.564525",
     "geom:latitude":39.564525,
     "geom:longitude":-119.705238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5975 Los Altos Pkwy",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":235949969,
-    "wof:lastmodified":1449008461,
+    "wof:lastmodified":1466703531,
     "wof:name":"Vista Family Medicine LLC",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.705238,39.564525,-119.705238,39.564525],
-  "geometry": {"coordinates":[-119.705238,39.564525],"type":"Point"}
+  "bbox": [
+    -119.705238,
+    39.564525,
+    -119.705238,
+    39.564525
+],
+  "geometry": {"coordinates":[-119.70523799999999,39.564525],"type":"Point"}
 }

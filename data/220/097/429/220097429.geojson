@@ -2,13 +2,14 @@
   "id": 220097429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297294,36.182635,-115.297294,36.182635",
     "geom:latitude":36.182635,
     "geom:longitude":-115.297294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9228 Pitching Wedge",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220097429,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466702358,
     "wof:name":"CHARITABLEAUCTION.COM",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-115.297294,36.182635,-115.297294,36.182635],
-  "geometry": {"coordinates":[-115.297294,36.182635],"type":"Point"}
+  "bbox": [
+    -115.297294,
+    36.182635,
+    -115.297294,
+    36.182635
+],
+  "geometry": {"coordinates":[-115.29729399999999,36.182635],"type":"Point"}
 }

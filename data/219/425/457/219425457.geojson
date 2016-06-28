@@ -2,13 +2,14 @@
   "id": 219425457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.083746,36.162536,-115.083746,36.162536",
     "geom:latitude":36.162536,
     "geom:longitude":-115.083746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4212 Sunrise Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219425457,
-    "wof:lastmodified":1449071634,
+    "wof:lastmodified":1466703760,
     "wof:name":"Jaime Granillo Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.083746,36.162536,-115.083746,36.162536],
+  "bbox": [
+    -115.083746,
+    36.162536,
+    -115.083746,
+    36.162536
+],
   "geometry": {"coordinates":[-115.083746,36.162536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219848575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068822,36.21375,-115.068822,36.21375",
     "geom:latitude":36.21375,
     "geom:longitude":-115.068822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2952 Marco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219848575,
-    "wof:lastmodified":1449070890,
+    "wof:lastmodified":1466705336,
     "wof:name":"Club Caddy & Packaging Depot",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-115.068822,36.21375,-115.068822,36.21375],
+  "bbox": [
+    -115.068822,
+    36.21375,
+    -115.068822,
+    36.21375
+],
   "geometry": {"coordinates":[-115.068822,36.21375],"type":"Point"}
 }

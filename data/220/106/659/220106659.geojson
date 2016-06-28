@@ -2,13 +2,14 @@
   "id": 220106659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054595,36.232412,-115.054595,36.232412",
     "geom:latitude":36.232412,
     "geom:longitude":-115.054595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Spring Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220106659,
-    "wof:lastmodified":1449074045,
+    "wof:lastmodified":1466702427,
     "wof:name":"Wsi Internet Solutions",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.054595,36.232412,-115.054595,36.232412],
-  "geometry": {"coordinates":[-115.054595,36.232412],"type":"Point"}
+  "bbox": [
+    -115.054595,
+    36.232412,
+    -115.054595,
+    36.232412
+],
+  "geometry": {"coordinates":[-115.05459500000001,36.232412],"type":"Point"}
 }

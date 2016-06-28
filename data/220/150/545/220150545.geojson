@@ -2,13 +2,14 @@
   "id": 220150545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838245,39.509372,-119.838245,39.509372",
     "geom:latitude":39.509372,
     "geom:longitude":-119.838245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Mayberry Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220150545,
-    "wof:lastmodified":1449074073,
+    "wof:lastmodified":1466702769,
     "wof:name":"Sartorial Masonry",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.838245,39.509372,-119.838245,39.509372],
+  "bbox": [
+    -119.838245,
+    39.509372,
+    -119.838245,
+    39.509372
+],
   "geometry": {"coordinates":[-119.838245,39.509372],"type":"Point"}
 }

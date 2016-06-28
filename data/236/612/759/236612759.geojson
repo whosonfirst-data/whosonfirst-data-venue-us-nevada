@@ -2,13 +2,14 @@
   "id": 236612759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742827,39.519511,-119.742827,39.519511",
     "geom:latitude":39.519511,
     "geom:longitude":-119.742827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Coney Island Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236612759,
-    "wof:lastmodified":1449003053,
+    "wof:lastmodified":1466706292,
     "wof:name":"Mercury Wood Manufacturing",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.742827,39.519511,-119.742827,39.519511],
-  "geometry": {"coordinates":[-119.742827,39.519511],"type":"Point"}
+  "bbox": [
+    -119.742827,
+    39.519511,
+    -119.742827,
+    39.519511
+],
+  "geometry": {"coordinates":[-119.74282700000001,39.519511],"type":"Point"}
 }

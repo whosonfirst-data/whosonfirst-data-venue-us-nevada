@@ -2,13 +2,14 @@
   "id": 219519365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173629,36.186654,-115.173629,36.186654",
     "geom:latitude":36.186654,
     "geom:longitude":-115.173629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Nye St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219519365,
-    "wof:lastmodified":1449073670,
+    "wof:lastmodified":1466701648,
     "wof:name":"GP Lawn Service",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.173629,36.186654,-115.173629,36.186654],
-  "geometry": {"coordinates":[-115.173629,36.186654],"type":"Point"}
+  "bbox": [
+    -115.173629,
+    36.186654,
+    -115.173629,
+    36.186654
+],
+  "geometry": {"coordinates":[-115.17362900000001,36.186654],"type":"Point"}
 }

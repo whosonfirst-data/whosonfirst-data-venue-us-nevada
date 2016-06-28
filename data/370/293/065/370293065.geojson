@@ -2,13 +2,14 @@
   "id": 370293065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143825,36.126912,-115.143825,36.126912",
     "geom:latitude":36.126912,
     "geom:longitude":-115.143825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 Sierra Vista Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370293065,
-    "wof:lastmodified":1449029759,
+    "wof:lastmodified":1466704333,
     "wof:name":"Villas At Desert Pointe",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.143825,36.126912,-115.143825,36.126912],
-  "geometry": {"coordinates":[-115.143825,36.126912],"type":"Point"}
+  "bbox": [
+    -115.143825,
+    36.126912,
+    -115.143825,
+    36.126912
+],
+  "geometry": {"coordinates":[-115.14382500000001,36.126912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354348529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125999,36.112202,-115.125999,36.112202",
     "geom:latitude":36.112202,
     "geom:longitude":-115.125999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 S Bruce St Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354348529,
-    "wof:lastmodified":1449066020,
+    "wof:lastmodified":1466706113,
     "wof:name":"Bruce Village Apartments",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.125999,36.112202,-115.125999,36.112202],
-  "geometry": {"coordinates":[-115.125999,36.112202],"type":"Point"}
+  "bbox": [
+    -115.125999,
+    36.112202,
+    -115.125999,
+    36.112202
+],
+  "geometry": {"coordinates":[-115.12599899999999,36.112202],"type":"Point"}
 }

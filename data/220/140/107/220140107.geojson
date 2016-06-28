@@ -2,13 +2,14 @@
   "id": 220140107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813988,39.505612,-119.813988,39.505612",
     "geom:latitude":39.505612,
     "geom:longitude":-119.813988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220140107,
-    "wof:lastmodified":1449074141,
+    "wof:lastmodified":1466702698,
     "wof:name":"Jeff Codega Planning & Design",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.813988,39.505612,-119.813988,39.505612],
-  "geometry": {"coordinates":[-119.813988,39.505612],"type":"Point"}
+  "bbox": [
+    -119.813988,
+    39.505612,
+    -119.813988,
+    39.505612
+],
+  "geometry": {"coordinates":[-119.81398799999999,39.505612],"type":"Point"}
 }

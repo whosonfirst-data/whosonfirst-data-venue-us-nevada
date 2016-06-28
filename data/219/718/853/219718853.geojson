@@ -2,13 +2,14 @@
   "id": 219718853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17614,36.157377,-115.17614,36.157377",
     "geom:latitude":36.157377,
     "geom:longitude":-115.17614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Strong Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219718853,
-    "wof:lastmodified":1449071156,
+    "wof:lastmodified":1466704572,
     "wof:name":"360 Paint & Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.17614,36.157377,-115.17614,36.157377],
+  "bbox": [
+    -115.17614,
+    36.157377,
+    -115.17614,
+    36.157377
+],
   "geometry": {"coordinates":[-115.17614,36.157377],"type":"Point"}
 }

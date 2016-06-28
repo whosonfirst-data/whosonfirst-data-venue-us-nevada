@@ -2,13 +2,14 @@
   "id": 354159791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204226,36.105882,-115.204226,36.105882",
     "geom:latitude":36.105882,
     "geom:longitude":-115.204226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4655 Quality Court",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354159791,
-    "wof:lastmodified":1449066143,
+    "wof:lastmodified":1466704607,
     "wof:name":"Redi Office Emporium & Services",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.204226,36.105882,-115.204226,36.105882],
-  "geometry": {"coordinates":[-115.204226,36.105882],"type":"Point"}
+  "bbox": [
+    -115.204226,
+    36.105882,
+    -115.204226,
+    36.105882
+],
+  "geometry": {"coordinates":[-115.20422600000001,36.105882],"type":"Point"}
 }

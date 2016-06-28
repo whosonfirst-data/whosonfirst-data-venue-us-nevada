@@ -2,13 +2,14 @@
   "id": 219735343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143652,36.018065,-115.143652,36.018065",
     "geom:latitude":36.018065,
     "geom:longitude":-115.143652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Cline Cellars Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219735343,
-    "wof:lastmodified":1449073830,
+    "wof:lastmodified":1466704655,
     "wof:name":"Wow Productions",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "casting"
     ]
 },
-  "bbox": [-115.143652,36.018065,-115.143652,36.018065],
+  "bbox": [
+    -115.143652,
+    36.018065,
+    -115.143652,
+    36.018065
+],
   "geometry": {"coordinates":[-115.143652,36.018065],"type":"Point"}
 }

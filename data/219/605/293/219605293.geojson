@@ -2,13 +2,14 @@
   "id": 219605293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.219032,39.586809,-119.219032,39.586809",
     "geom:latitude":39.586809,
     "geom:longitude":-119.219032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 Camille Dr",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219605293,
-    "wof:lastmodified":1449072109,
+    "wof:lastmodified":1466703010,
     "wof:name":"Evans & Son Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.219032,39.586809,-119.219032,39.586809],
+  "bbox": [
+    -119.219032,
+    39.586809,
+    -119.219032,
+    39.586809
+],
   "geometry": {"coordinates":[-119.219032,39.586809],"type":"Point"}
 }

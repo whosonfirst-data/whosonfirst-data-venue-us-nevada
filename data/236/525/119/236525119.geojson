@@ -2,13 +2,14 @@
   "id": 236525119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837944,39.548413,-119.837944,39.548413",
     "geom:latitude":39.548413,
     "geom:longitude":-119.837944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2055 Ives Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236525119,
-    "wof:lastmodified":1449004420,
+    "wof:lastmodified":1466705910,
     "wof:name":"D & D Drafting",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-119.837944,39.548413,-119.837944,39.548413],
-  "geometry": {"coordinates":[-119.837944,39.548413],"type":"Point"}
+  "bbox": [
+    -119.837944,
+    39.548413,
+    -119.837944,
+    39.548413
+],
+  "geometry": {"coordinates":[-119.83794399999999,39.548413],"type":"Point"}
 }

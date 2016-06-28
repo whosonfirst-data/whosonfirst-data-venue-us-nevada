@@ -2,13 +2,14 @@
   "id": 236532221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716151,39.649835,-119.716151,39.649835",
     "geom:latitude":39.649835,
     "geom:longitude":-119.716151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Hyacinth St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236532221,
-    "wof:lastmodified":1449002615,
+    "wof:lastmodified":1466705822,
     "wof:name":"Foot Works & Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-119.716151,39.649835,-119.716151,39.649835],
+  "bbox": [
+    -119.716151,
+    39.649835,
+    -119.716151,
+    39.649835
+],
   "geometry": {"coordinates":[-119.716151,39.649835],"type":"Point"}
 }

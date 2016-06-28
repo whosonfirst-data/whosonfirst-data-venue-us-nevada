@@ -2,13 +2,14 @@
   "id": 236922517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112815,36.077363,-115.112815,36.077363",
     "geom:latitude":36.077363,
     "geom:longitude":-115.112815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6295 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236922517,
-    "wof:lastmodified":1449001897,
+    "wof:lastmodified":1466706843,
     "wof:name":"AAA Communications",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-115.112815,36.077363,-115.112815,36.077363],
+  "bbox": [
+    -115.112815,
+    36.077363,
+    -115.112815,
+    36.077363
+],
   "geometry": {"coordinates":[-115.112815,36.077363],"type":"Point"}
 }

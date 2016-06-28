@@ -2,13 +2,14 @@
   "id": 354068971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143319,36.160467,-115.143319,36.160467",
     "geom:latitude":36.160467,
     "geom:longitude":-115.143319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 S 7th Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354068971,
-    "wof:lastmodified":1449066802,
+    "wof:lastmodified":1466703286,
     "wof:name":"Craig P Kenny & Associates",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.143319,36.160467,-115.143319,36.160467],
-  "geometry": {"coordinates":[-115.143319,36.160467],"type":"Point"}
+  "bbox": [
+    -115.143319,
+    36.160467,
+    -115.143319,
+    36.160467
+],
+  "geometry": {"coordinates":[-115.14331900000001,36.160467],"type":"Point"}
 }

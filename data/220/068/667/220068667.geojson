@@ -2,13 +2,14 @@
   "id": 220068667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.722359,39.517353,-119.722359,39.517353",
     "geom:latitude":39.517353,
     "geom:longitude":-119.722359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 Deming Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220068667,
-    "wof:lastmodified":1449074448,
+    "wof:lastmodified":1466702199,
     "wof:name":"Metal Masters Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-119.722359,39.517353,-119.722359,39.517353],
+  "bbox": [
+    -119.722359,
+    39.517353,
+    -119.722359,
+    39.517353
+],
   "geometry": {"coordinates":[-119.722359,39.517353],"type":"Point"}
 }

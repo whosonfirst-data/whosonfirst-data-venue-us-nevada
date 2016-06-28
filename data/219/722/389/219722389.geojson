@@ -2,13 +2,14 @@
   "id": 219722389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305472,36.221176,-115.305472,36.221176",
     "geom:latitude":36.221176,
     "geom:longitude":-115.305472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9644 Bending River Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219722389,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466704442,
     "wof:name":"Comprehensive Practice Svc",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-115.305472,36.221176,-115.305472,36.221176],
-  "geometry": {"coordinates":[-115.305472,36.221176],"type":"Point"}
+  "bbox": [
+    -115.305472,
+    36.221176,
+    -115.305472,
+    36.221176
+],
+  "geometry": {"coordinates":[-115.30547199999999,36.221176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236178019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.188021,36.13254,-115.188021,36.13254",
     "geom:latitude":36.13254,
     "geom:longitude":-115.188021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236178019,
-    "wof:lastmodified":1449004126,
+    "wof:lastmodified":1466703145,
     "wof:name":"Glory USA Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exchange"
     ]
 },
-  "bbox": [-115.188021,36.13254,-115.188021,36.13254],
-  "geometry": {"coordinates":[-115.188021,36.13254],"type":"Point"}
+  "bbox": [
+    -115.188021,
+    36.13254,
+    -115.188021,
+    36.13254
+],
+  "geometry": {"coordinates":[-115.18802100000001,36.13254],"type":"Point"}
 }

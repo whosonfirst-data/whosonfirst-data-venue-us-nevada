@@ -2,13 +2,14 @@
   "id": 219674753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771232,39.167154,-119.771232,39.167154",
     "geom:latitude":39.167154,
     "geom:longitude":-119.771232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 N Phillips St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219674753,
-    "wof:lastmodified":1449073036,
+    "wof:lastmodified":1466704288,
     "wof:name":"A Sunflower Ministry",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.771232,39.167154,-119.771232,39.167154],
+  "bbox": [
+    -119.771232,
+    39.167154,
+    -119.771232,
+    39.167154
+],
   "geometry": {"coordinates":[-119.771232,39.167154],"type":"Point"}
 }

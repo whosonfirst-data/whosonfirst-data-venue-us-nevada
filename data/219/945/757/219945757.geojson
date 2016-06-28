@@ -2,13 +2,14 @@
   "id": 219945757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.962228,39.51362,-115.962228,39.51362",
     "geom:latitude":39.51362,
     "geom:longitude":-115.962228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 N Monroe St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219945757,
-    "wof:lastmodified":1449070692,
+    "wof:lastmodified":1466705864,
     "wof:name":"Ruby Hills Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.962228,39.51362,-115.962228,39.51362],
+  "bbox": [
+    -115.962228,
+    39.51362,
+    -115.962228,
+    39.51362
+],
   "geometry": {"coordinates":[-115.962228,39.51362],"type":"Point"}
 }

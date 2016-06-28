@@ -2,13 +2,14 @@
   "id": 219921283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232552,36.12791,-115.232552,36.12791",
     "geom:latitude":36.12791,
     "geom:longitude":-115.232552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6479 Scotch Pine Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219921283,
-    "wof:lastmodified":1449072650,
+    "wof:lastmodified":1466705863,
     "wof:name":"21st Century Photo Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.232552,36.12791,-115.232552,36.12791],
+  "bbox": [
+    -115.232552,
+    36.12791,
+    -115.232552,
+    36.12791
+],
   "geometry": {"coordinates":[-115.232552,36.12791],"type":"Point"}
 }

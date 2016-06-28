@@ -2,13 +2,14 @@
   "id": 236598179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.982977,36.035033,-114.982977,36.035033",
     "geom:latitude":36.035033,
     "geom:longitude":-114.982977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 E Pacific Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236598179,
-    "wof:lastmodified":1449001807,
+    "wof:lastmodified":1466706249,
     "wof:name":"T P R",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.982977,36.035033,-114.982977,36.035033],
-  "geometry": {"coordinates":[-114.982977,36.035033],"type":"Point"}
+  "bbox": [
+    -114.982977,
+    36.035033,
+    -114.982977,
+    36.035033
+],
+  "geometry": {"coordinates":[-114.98297700000001,36.035033],"type":"Point"}
 }

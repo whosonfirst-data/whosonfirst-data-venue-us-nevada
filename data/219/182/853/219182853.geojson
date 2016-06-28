@@ -2,13 +2,14 @@
   "id": 219182853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.230532,36.233652,-115.230532,36.233652",
     "geom:latitude":36.233652,
     "geom:longitude":-115.230532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 Jory Trl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219182853,
-    "wof:lastmodified":1449072614,
+    "wof:lastmodified":1466701958,
     "wof:name":"Jory Trail Home Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-115.230532,36.233652,-115.230532,36.233652],
+  "bbox": [
+    -115.230532,
+    36.233652,
+    -115.230532,
+    36.233652
+],
   "geometry": {"coordinates":[-115.230532,36.233652],"type":"Point"}
 }

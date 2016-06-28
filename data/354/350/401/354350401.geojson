@@ -2,13 +2,14 @@
   "id": 354350401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127998,36.112202,-115.127998,36.112202",
     "geom:latitude":36.112202,
     "geom:longitude":-115.127998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354350401,
-    "wof:lastmodified":1449066794,
+    "wof:lastmodified":1466706112,
     "wof:name":"Trendwest Resorts Inc",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.127998,36.112202,-115.127998,36.112202],
-  "geometry": {"coordinates":[-115.127998,36.112202],"type":"Point"}
+  "bbox": [
+    -115.127998,
+    36.112202,
+    -115.127998,
+    36.112202
+],
+  "geometry": {"coordinates":[-115.12799800000001,36.112202],"type":"Point"}
 }

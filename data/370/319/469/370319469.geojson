@@ -2,13 +2,14 @@
   "id": 370319469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776926,39.48378,-119.776926,39.48378",
     "geom:latitude":39.48378,
     "geom:longitude":-119.776926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4275 Rewana Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":370319469,
-    "wof:lastmodified":1449030472,
+    "wof:lastmodified":1466704734,
     "wof:name":"Waters Vacuum Truck Services",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "trap"
     ]
 },
-  "bbox": [-119.776926,39.48378,-119.776926,39.48378],
+  "bbox": [
+    -119.776926,
+    39.48378,
+    -119.776926,
+    39.48378
+],
   "geometry": {"coordinates":[-119.776926,39.48378],"type":"Point"}
 }

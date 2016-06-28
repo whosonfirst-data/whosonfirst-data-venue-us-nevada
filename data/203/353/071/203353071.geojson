@@ -2,13 +2,14 @@
   "id": 203353071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759394,38.902306,-119.759394,38.902306",
     "geom:latitude":38.902306,
     "geom:longitude":-119.759394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Amarillo Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203353071,
-    "wof:lastmodified":1449025447,
+    "wof:lastmodified":1466704233,
     "wof:name":"Coast A Long Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-119.759394,38.902306,-119.759394,38.902306],
+  "bbox": [
+    -119.759394,
+    38.902306,
+    -119.759394,
+    38.902306
+],
   "geometry": {"coordinates":[-119.759394,38.902306],"type":"Point"}
 }

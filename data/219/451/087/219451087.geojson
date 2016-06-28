@@ -2,13 +2,14 @@
   "id": 219451087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166122,36.097161,-115.166122,36.097161",
     "geom:latitude":36.097161,
     "geom:longitude":-115.166122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 E Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219451087,
-    "wof:lastmodified":1449071932,
+    "wof:lastmodified":1466703876,
     "wof:name":"Gep Enterprises",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-115.166122,36.097161,-115.166122,36.097161],
+  "bbox": [
+    -115.166122,
+    36.097161,
+    -115.166122,
+    36.097161
+],
   "geometry": {"coordinates":[-115.166122,36.097161],"type":"Point"}
 }

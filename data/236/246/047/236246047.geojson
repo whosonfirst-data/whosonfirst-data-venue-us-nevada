@@ -2,13 +2,14 @@
   "id": 236246047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270601,36.210931,-115.270601,36.210931",
     "geom:latitude":36.210931,
     "geom:longitude":-115.270601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Sterling Cove Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236246047,
-    "wof:lastmodified":1449001844,
+    "wof:lastmodified":1466704380,
     "wof:name":"Flight Contract Services Inc",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.270601,36.210931,-115.270601,36.210931],
+  "bbox": [
+    -115.270601,
+    36.210931,
+    -115.270601,
+    36.210931
+],
   "geometry": {"coordinates":[-115.270601,36.210931],"type":"Point"}
 }

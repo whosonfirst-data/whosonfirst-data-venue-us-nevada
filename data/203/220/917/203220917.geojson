@@ -2,13 +2,14 @@
   "id": 203220917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754056,39.522362,-119.754056,39.522362",
     "geom:latitude":39.522362,
     "geom:longitude":-119.754056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Marietta Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203220917,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466702311,
     "wof:name":"Zuniga Welding",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-119.754056,39.522362,-119.754056,39.522362],
-  "geometry": {"coordinates":[-119.754056,39.522362],"type":"Point"}
+  "bbox": [
+    -119.754056,
+    39.522362,
+    -119.754056,
+    39.522362
+],
+  "geometry": {"coordinates":[-119.75405600000001,39.522362],"type":"Point"}
 }

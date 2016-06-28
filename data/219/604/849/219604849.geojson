@@ -2,13 +2,14 @@
   "id": 219604849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137275,36.042261,-115.137275,36.042261",
     "geom:latitude":36.042261,
     "geom:longitude":-115.137275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Sleetridge Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219604849,
-    "wof:lastmodified":1449073506,
+    "wof:lastmodified":1466703000,
     "wof:name":"La Luna & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-115.137275,36.042261,-115.137275,36.042261],
+  "bbox": [
+    -115.137275,
+    36.042261,
+    -115.137275,
+    36.042261
+],
   "geometry": {"coordinates":[-115.137275,36.042261],"type":"Point"}
 }

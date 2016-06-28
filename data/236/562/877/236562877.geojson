@@ -2,13 +2,14 @@
   "id": 236562877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.628364,38.527649,-118.628364,38.527649",
     "geom:latitude":38.527649,
     "geom:longitude":-118.628364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"794 A St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236562877,
-    "wof:lastmodified":1449003396,
+    "wof:lastmodified":1466706149,
     "wof:name":"Our Lady Of Perpetual Help",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-118.628364,38.527649,-118.628364,38.527649],
+  "bbox": [
+    -118.628364,
+    38.527649,
+    -118.628364,
+    38.527649
+],
   "geometry": {"coordinates":[-118.628364,38.527649],"type":"Point"}
 }

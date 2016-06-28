@@ -2,13 +2,14 @@
   "id": 219662641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.138588,36.158792,-115.138588,36.158792",
     "geom:latitude":36.158792,
     "geom:longitude":-115.138588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219662641,
-    "wof:lastmodified":1449072775,
+    "wof:lastmodified":1466704044,
     "wof:name":"Milt's Barber Style & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.138588,36.158792,-115.138588,36.158792],
+  "bbox": [
+    -115.138588,
+    36.158792,
+    -115.138588,
+    36.158792
+],
   "geometry": {"coordinates":[-115.138588,36.158792],"type":"Point"}
 }

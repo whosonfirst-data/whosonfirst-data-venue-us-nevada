@@ -2,13 +2,14 @@
   "id": 220088749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73837,38.88811,-119.73837,38.88811",
     "geom:latitude":38.88811,
     "geom:longitude":-119.73837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Leonard Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220088749,
-    "wof:lastmodified":1449074656,
+    "wof:lastmodified":1466702313,
     "wof:name":"Big Kid Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.73837,38.88811,-119.73837,38.88811],
+  "bbox": [
+    -119.73837,
+    38.88811,
+    -119.73837,
+    38.88811
+],
   "geometry": {"coordinates":[-119.73837,38.88811],"type":"Point"}
 }

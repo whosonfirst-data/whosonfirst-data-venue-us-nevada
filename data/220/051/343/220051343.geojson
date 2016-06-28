@@ -2,13 +2,14 @@
   "id": 220051343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209835,36.13026,-115.209835,36.13026",
     "geom:latitude":36.13026,
     "geom:longitude":-115.209835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5021 Souza Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220051343,
-    "wof:lastmodified":1449074535,
+    "wof:lastmodified":1466702045,
     "wof:name":"Chawla Assocation Photography",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.209835,36.13026,-115.209835,36.13026],
+  "bbox": [
+    -115.209835,
+    36.13026,
+    -115.209835,
+    36.13026
+],
   "geometry": {"coordinates":[-115.209835,36.13026],"type":"Point"}
 }

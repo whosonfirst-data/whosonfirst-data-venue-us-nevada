@@ -2,13 +2,14 @@
   "id": 236342527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.877887,39.487915,-119.877887,39.487915",
     "geom:latitude":39.487915,
     "geom:longitude":-119.877887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Sharps Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236342527,
-    "wof:lastmodified":1449004969,
+    "wof:lastmodified":1466705104,
     "wof:name":"Douglas C Fletcher Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.877887,39.487915,-119.877887,39.487915],
+  "bbox": [
+    -119.877887,
+    39.487915,
+    -119.877887,
+    39.487915
+],
   "geometry": {"coordinates":[-119.877887,39.487915],"type":"Point"}
 }

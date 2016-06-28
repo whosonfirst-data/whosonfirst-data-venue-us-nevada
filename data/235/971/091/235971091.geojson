@@ -2,13 +2,14 @@
   "id": 235971091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217706,35.990969,-115.217706,35.990969",
     "geom:latitude":35.990969,
     "geom:longitude":-115.217706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11095 Ampus Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235971091,
-    "wof:lastmodified":1449008424,
+    "wof:lastmodified":1466703612,
     "wof:name":"Limelight Productions",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.217706,35.990969,-115.217706,35.990969],
-  "geometry": {"coordinates":[-115.217706,35.990969],"type":"Point"}
+  "bbox": [
+    -115.217706,
+    35.990969,
+    -115.217706,
+    35.990969
+],
+  "geometry": {"coordinates":[-115.21770600000001,35.990969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236954051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742547,39.521152,-119.742547,39.521152",
     "geom:latitude":39.521152,
     "geom:longitude":-119.742547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 S Stanford Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236954051,
-    "wof:lastmodified":1449004737,
+    "wof:lastmodified":1466706873,
     "wof:name":"A 1 Steel Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.742547,39.521152,-119.742547,39.521152],
+  "bbox": [
+    -119.742547,
+    39.521152,
+    -119.742547,
+    39.521152
+],
   "geometry": {"coordinates":[-119.742547,39.521152],"type":"Point"}
 }

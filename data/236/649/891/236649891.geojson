@@ -2,13 +2,14 @@
   "id": 236649891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.826801,39.51516,-119.826801,39.51516",
     "geom:latitude":39.51516,
     "geom:longitude":-119.826801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236649891,
-    "wof:lastmodified":1449003989,
+    "wof:lastmodified":1466706404,
     "wof:name":"Tophat Dry Clearners",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-119.826801,39.51516,-119.826801,39.51516],
+  "bbox": [
+    -119.826801,
+    39.51516,
+    -119.826801,
+    39.51516
+],
   "geometry": {"coordinates":[-119.826801,39.51516],"type":"Point"}
 }

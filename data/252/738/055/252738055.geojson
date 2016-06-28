@@ -2,13 +2,14 @@
   "id": 252738055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81384,39.514194,-119.81384,39.514194",
     "geom:latitude":39.514194,
     "geom:longitude":-119.81384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Humboldt St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252738055,
-    "wof:lastmodified":1449006192,
+    "wof:lastmodified":1466702090,
     "wof:name":"Running Wolf Imports",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.81384,39.514194,-119.81384,39.514194],
+  "bbox": [
+    -119.81384,
+    39.514194,
+    -119.81384,
+    39.514194
+],
   "geometry": {"coordinates":[-119.81384,39.514194],"type":"Point"}
 }

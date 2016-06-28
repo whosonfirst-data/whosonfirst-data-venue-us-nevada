@@ -2,13 +2,14 @@
   "id": 219568333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203761,36.089084,-115.203761,36.089084",
     "geom:latitude":36.089084,
     "geom:longitude":-115.203761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5550 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219568333,
-    "wof:lastmodified":1449070301,
+    "wof:lastmodified":1466702542,
     "wof:name":"SAST",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-115.203761,36.089084,-115.203761,36.089084],
+  "bbox": [
+    -115.203761,
+    36.089084,
+    -115.203761,
+    36.089084
+],
   "geometry": {"coordinates":[-115.203761,36.089084],"type":"Point"}
 }

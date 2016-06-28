@@ -2,13 +2,14 @@
   "id": 252724829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.785723,39.50305,-119.785723,39.50305",
     "geom:latitude":39.50305,
     "geom:longitude":-119.785723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Harvard Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252724829,
-    "wof:lastmodified":1449006478,
+    "wof:lastmodified":1466701824,
     "wof:name":"Fountains Senior Care Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-119.785723,39.50305,-119.785723,39.50305],
+  "bbox": [
+    -119.785723,
+    39.50305,
+    -119.785723,
+    39.50305
+],
   "geometry": {"coordinates":[-119.785723,39.50305],"type":"Point"}
 }

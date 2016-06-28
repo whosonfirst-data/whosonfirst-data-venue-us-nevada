@@ -2,13 +2,14 @@
   "id": 219717577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767197,39.523402,-119.767197,39.523402",
     "geom:latitude":39.523402,
     "geom:longitude":-119.767197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1591 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219717577,
-    "wof:lastmodified":1449070463,
+    "wof:lastmodified":1466704560,
     "wof:name":"Sierra Mechanical Svc Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.767197,39.523402,-119.767197,39.523402],
+  "bbox": [
+    -119.767197,
+    39.523402,
+    -119.767197,
+    39.523402
+],
   "geometry": {"coordinates":[-119.767197,39.523402],"type":"Point"}
 }

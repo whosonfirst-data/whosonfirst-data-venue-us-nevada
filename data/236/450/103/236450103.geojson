@@ -2,13 +2,14 @@
   "id": 236450103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181374,36.077473,-115.181374,36.077473",
     "geom:latitude":36.077473,
     "geom:longitude":-115.181374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6257 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236450103,
-    "wof:lastmodified":1449004640,
+    "wof:lastmodified":1466705588,
     "wof:name":"Desert Tickets",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"
     ]
 },
-  "bbox": [-115.181374,36.077473,-115.181374,36.077473],
-  "geometry": {"coordinates":[-115.181374,36.077473],"type":"Point"}
+  "bbox": [
+    -115.181374,
+    36.077473,
+    -115.181374,
+    36.077473
+],
+  "geometry": {"coordinates":[-115.18137400000001,36.077473],"type":"Point"}
 }

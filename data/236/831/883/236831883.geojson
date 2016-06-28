@@ -2,13 +2,14 @@
   "id": 236831883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.557306,38.733333,-119.557306,38.733333",
     "geom:latitude":38.733333,
     "geom:longitude":-119.557306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1487 US Hwy 395 S",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236831883,
-    "wof:lastmodified":1449003614,
+    "wof:lastmodified":1466706701,
     "wof:name":"Turbo Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "washing"
     ]
 },
-  "bbox": [-119.557306,38.733333,-119.557306,38.733333],
+  "bbox": [
+    -119.557306,
+    38.733333,
+    -119.557306,
+    38.733333
+],
   "geometry": {"coordinates":[-119.557306,38.733333],"type":"Point"}
 }

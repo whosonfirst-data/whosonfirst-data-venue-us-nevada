@@ -2,13 +2,14 @@
   "id": 236260551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.179045,36.148056,-115.179045,36.148056",
     "geom:latitude":36.148056,
     "geom:longitude":-115.179045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Sidonia Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236260551,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466704442,
     "wof:name":"M D Billing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-115.179045,36.148056,-115.179045,36.148056],
+  "bbox": [
+    -115.179045,
+    36.148056,
+    -115.179045,
+    36.148056
+],
   "geometry": {"coordinates":[-115.179045,36.148056],"type":"Point"}
 }

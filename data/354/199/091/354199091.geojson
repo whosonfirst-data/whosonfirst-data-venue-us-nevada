@@ -2,13 +2,14 @@
   "id": 354199091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146909,36.184454,-115.146909,36.184454",
     "geom:latitude":36.184454,
     "geom:longitude":-115.146909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 D Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354199091,
-    "wof:lastmodified":1449066103,
+    "wof:lastmodified":1466705019,
     "wof:name":"Annie's Kitchen",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.146909,36.184454,-115.146909,36.184454],
-  "geometry": {"coordinates":[-115.146909,36.184454],"type":"Point"}
+  "bbox": [
+    -115.146909,
+    36.184454,
+    -115.146909,
+    36.184454
+],
+  "geometry": {"coordinates":[-115.14690899999999,36.184454],"type":"Point"}
 }

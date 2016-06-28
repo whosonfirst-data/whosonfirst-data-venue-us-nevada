@@ -2,13 +2,14 @@
   "id": 219599273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.517274,37.615265,-114.517274,37.615265",
     "geom:latitude":37.615265,
     "geom:longitude":-114.517274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Lincoln St",
     "sg:city":"Caliente",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219599273,
-    "wof:lastmodified":1449072033,
+    "wof:lastmodified":1466702895,
     "wof:name":"Caliente Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-114.517274,37.615265,-114.517274,37.615265],
+  "bbox": [
+    -114.517274,
+    37.615265,
+    -114.517274,
+    37.615265
+],
   "geometry": {"coordinates":[-114.517274,37.615265],"type":"Point"}
 }

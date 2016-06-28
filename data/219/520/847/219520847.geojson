@@ -2,13 +2,14 @@
   "id": 219520847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208103,36.118983,-115.208103,36.118983",
     "geom:latitude":36.118983,
     "geom:longitude":-115.208103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219520847,
-    "wof:lastmodified":1449071561,
+    "wof:lastmodified":1466701680,
     "wof:name":"A United Sound Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-115.208103,36.118983,-115.208103,36.118983],
-  "geometry": {"coordinates":[-115.208103,36.118983],"type":"Point"}
+  "bbox": [
+    -115.208103,
+    36.118983,
+    -115.208103,
+    36.118983
+],
+  "geometry": {"coordinates":[-115.20810299999999,36.118983],"type":"Point"}
 }

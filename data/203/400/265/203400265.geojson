@@ -2,13 +2,14 @@
   "id": 203400265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209889,36.187031,-115.209889,36.187031",
     "geom:latitude":36.187031,
     "geom:longitude":-115.209889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Hiawatha Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400265,
-    "wof:lastmodified":1449025119,
+    "wof:lastmodified":1466703316,
     "wof:name":"Aztlan Mobile Car Wash",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.209889,36.187031,-115.209889,36.187031],
+  "bbox": [
+    -115.209889,
+    36.187031,
+    -115.209889,
+    36.187031
+],
   "geometry": {"coordinates":[-115.209889,36.187031],"type":"Point"}
 }

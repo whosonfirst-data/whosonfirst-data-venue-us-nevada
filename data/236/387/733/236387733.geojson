@@ -2,13 +2,14 @@
   "id": 236387733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163788,36.151187,-115.163788,36.151187",
     "geom:latitude":36.151187,
     "geom:longitude":-115.163788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 S Highland Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236387733,
-    "wof:lastmodified":1449004709,
+    "wof:lastmodified":1466705261,
     "wof:name":"Drag Stew's Percision Mtrsprts",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-115.163788,36.151187,-115.163788,36.151187],
+  "bbox": [
+    -115.163788,
+    36.151187,
+    -115.163788,
+    36.151187
+],
   "geometry": {"coordinates":[-115.163788,36.151187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236678405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283066,36.229728,-115.283066,36.229728",
     "geom:latitude":36.229728,
     "geom:longitude":-115.283066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8512 Copper Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236678405,
-    "wof:lastmodified":1449003201,
+    "wof:lastmodified":1466706434,
     "wof:name":"Lorenz Foto",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.283066,36.229728,-115.283066,36.229728],
-  "geometry": {"coordinates":[-115.283066,36.229728],"type":"Point"}
+  "bbox": [
+    -115.283066,
+    36.229728,
+    -115.283066,
+    36.229728
+],
+  "geometry": {"coordinates":[-115.28306600000001,36.229728],"type":"Point"}
 }

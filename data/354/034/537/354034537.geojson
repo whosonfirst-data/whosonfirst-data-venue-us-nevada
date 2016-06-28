@@ -2,13 +2,14 @@
   "id": 354034537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173029,36.258512,-115.173029,36.258512",
     "geom:latitude":36.258512,
     "geom:longitude":-115.173029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Hollow Oak Avenue",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354034537,
-    "wof:lastmodified":1449066124,
+    "wof:lastmodified":1466702401,
     "wof:name":"Distinctive Creations",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-115.173029,36.258512,-115.173029,36.258512],
+  "bbox": [
+    -115.173029,
+    36.258512,
+    -115.173029,
+    36.258512
+],
   "geometry": {"coordinates":[-115.173029,36.258512],"type":"Point"}
 }

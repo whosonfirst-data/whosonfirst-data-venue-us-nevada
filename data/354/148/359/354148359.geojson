@@ -2,13 +2,14 @@
   "id": 354148359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191318,36.120723,-115.191318,36.120723",
     "geom:latitude":36.120723,
     "geom:longitude":-115.191318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3863 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354148359,
-    "wof:lastmodified":1449067380,
+    "wof:lastmodified":1466704636,
     "wof:name":"Tbl Construction",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.191318,36.120723,-115.191318,36.120723],
+  "bbox": [
+    -115.191318,
+    36.120723,
+    -115.191318,
+    36.120723
+],
   "geometry": {"coordinates":[-115.191318,36.120723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354316963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295612,36.146419,-115.295612,36.146419",
     "geom:latitude":36.146419,
     "geom:longitude":-115.295612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Fort Apache Rd #105",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354316963,
-    "wof:lastmodified":1449067128,
+    "wof:lastmodified":1466705691,
     "wof:name":"BOLD Body Bronzing",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.295612,36.146419,-115.295612,36.146419],
-  "geometry": {"coordinates":[-115.295612,36.146419],"type":"Point"}
+  "bbox": [
+    -115.295612,
+    36.146419,
+    -115.295612,
+    36.146419
+],
+  "geometry": {"coordinates":[-115.29561200000001,36.146419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354064447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14005,36.279803,-115.14005,36.279803",
     "geom:latitude":36.279803,
     "geom:longitude":-115.14005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Yellow Flame Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":354064447,
-    "wof:lastmodified":1449066521,
+    "wof:lastmodified":1466703156,
     "wof:name":"Bureau 24",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "web"
     ]
 },
-  "bbox": [-115.14005,36.279803,-115.14005,36.279803],
+  "bbox": [
+    -115.14005,
+    36.279803,
+    -115.14005,
+    36.279803
+],
   "geometry": {"coordinates":[-115.14005,36.279803],"type":"Point"}
 }

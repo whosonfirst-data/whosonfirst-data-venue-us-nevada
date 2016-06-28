@@ -2,13 +2,14 @@
   "id": 219249957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.850727,35.976649,-114.850727,35.976649",
     "geom:latitude":35.976649,
     "geom:longitude":-114.850727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Industrial Rd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219249957,
-    "wof:lastmodified":1449070565,
+    "wof:lastmodified":1466702548,
     "wof:name":"TIG Mobile Automotive Svc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-114.850727,35.976649,-114.850727,35.976649],
-  "geometry": {"coordinates":[-114.850727,35.976649],"type":"Point"}
+  "bbox": [
+    -114.850727,
+    35.976649,
+    -114.850727,
+    35.976649
+],
+  "geometry": {"coordinates":[-114.85072700000001,35.976649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219684767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.056711,36.284761,-116.056711,36.284761",
     "geom:latitude":36.284761,
     "geom:longitude":-116.056711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Ambler Way",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219684767,
-    "wof:lastmodified":1449071277,
+    "wof:lastmodified":1466704353,
     "wof:name":"Trojans Athletic Booster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.056711,36.284761,-116.056711,36.284761],
-  "geometry": {"coordinates":[-116.056711,36.284761],"type":"Point"}
+  "bbox": [
+    -116.056711,
+    36.284761,
+    -116.056711,
+    36.284761
+],
+  "geometry": {"coordinates":[-116.05671100000001,36.284761],"type":"Point"}
 }

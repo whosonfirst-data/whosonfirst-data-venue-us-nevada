@@ -2,13 +2,14 @@
   "id": 219822955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.108651,36.071482,-115.108651,36.071482",
     "geom:latitude":36.071482,
     "geom:longitude":-115.108651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2995 E Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219822955,
-    "wof:lastmodified":1449073811,
+    "wof:lastmodified":1466705079,
     "wof:name":"JMS Enterprises",
     "wof:parent_id":85879705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-115.108651,36.071482,-115.108651,36.071482],
-  "geometry": {"coordinates":[-115.108651,36.071482],"type":"Point"}
+  "bbox": [
+    -115.108651,
+    36.071482,
+    -115.108651,
+    36.071482
+],
+  "geometry": {"coordinates":[-115.10865099999999,36.071482],"type":"Point"}
 }

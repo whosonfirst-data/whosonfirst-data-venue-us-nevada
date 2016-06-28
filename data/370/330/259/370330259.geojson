@@ -2,13 +2,14 @@
   "id": 370330259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809497,39.533539,-119.809497,39.533539",
     "geom:latitude":39.533539,
     "geom:longitude":-119.809497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E 6th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370330259,
-    "wof:lastmodified":1449030763,
+    "wof:lastmodified":1466704733,
     "wof:name":"Greg's Garage",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "truck"
     ]
 },
-  "bbox": [-119.809497,39.533539,-119.809497,39.533539],
-  "geometry": {"coordinates":[-119.809497,39.533539],"type":"Point"}
+  "bbox": [
+    -119.809497,
+    39.533539,
+    -119.809497,
+    39.533539
+],
+  "geometry": {"coordinates":[-119.80949699999999,39.533539],"type":"Point"}
 }

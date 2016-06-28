@@ -2,13 +2,14 @@
   "id": 354310015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295391,36.144233,-115.295391,36.144233",
     "geom:latitude":36.144233,
     "geom:longitude":-115.295391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9101 W Sahara Avenue Suite 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354310015,
-    "wof:lastmodified":1449066987,
+    "wof:lastmodified":1466705767,
     "wof:name":"Crystal Cleaners",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.295391,36.144233,-115.295391,36.144233],
+  "bbox": [
+    -115.295391,
+    36.144233,
+    -115.295391,
+    36.144233
+],
   "geometry": {"coordinates":[-115.295391,36.144233],"type":"Point"}
 }

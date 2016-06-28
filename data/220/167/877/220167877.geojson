@@ -2,13 +2,14 @@
   "id": 220167877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296794,36.141276,-115.296794,36.141276",
     "geom:latitude":36.141276,
     "geom:longitude":-115.296794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9209 Sandy Shores Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220167877,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466702875,
     "wof:name":"Airoma Air Conditioning Htg",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.296794,36.141276,-115.296794,36.141276],
-  "geometry": {"coordinates":[-115.296794,36.141276],"type":"Point"}
+  "bbox": [
+    -115.296794,
+    36.141276,
+    -115.296794,
+    36.141276
+],
+  "geometry": {"coordinates":[-115.29679400000001,36.141276],"type":"Point"}
 }

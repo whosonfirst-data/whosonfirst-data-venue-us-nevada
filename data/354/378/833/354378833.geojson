@@ -2,13 +2,14 @@
   "id": 354378833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.064552,36.121444,-115.064552,36.121444",
     "geom:latitude":36.121444,
     "geom:longitude":-115.064552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3740 S Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":354378833,
-    "wof:lastmodified":1449067120,
+    "wof:lastmodified":1466706161,
     "wof:name":"Aces & Ales",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.064552,36.121444,-115.064552,36.121444],
-  "geometry": {"coordinates":[-115.064552,36.121444],"type":"Point"}
+  "bbox": [
+    -115.064552,
+    36.121444,
+    -115.064552,
+    36.121444
+],
+  "geometry": {"coordinates":[-115.06455200000001,36.121444],"type":"Point"}
 }

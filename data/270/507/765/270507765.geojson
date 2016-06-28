@@ -2,13 +2,14 @@
   "id": 270507765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.942719,38.958338,-119.942719,38.958338",
     "geom:latitude":38.958338,
     "geom:longitude":-119.942719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4113 Lake Tahoe Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270507765,
-    "wof:lastmodified":1449009890,
+    "wof:lastmodified":1466701456,
     "wof:name":"Tricia's Travel Svc",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-119.942719,38.958338,-119.942719,38.958338],
+  "bbox": [
+    -119.942719,
+    38.958338,
+    -119.942719,
+    38.958338
+],
   "geometry": {"coordinates":[-119.942719,38.958338],"type":"Point"}
 }

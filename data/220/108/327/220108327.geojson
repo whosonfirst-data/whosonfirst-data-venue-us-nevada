@@ -2,13 +2,14 @@
   "id": 220108327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822574,39.661409,-119.822574,39.661409",
     "geom:latitude":39.661409,
     "geom:longitude":-119.822574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10985 Chesapeake Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220108327,
-    "wof:lastmodified":1449074075,
+    "wof:lastmodified":1466702440,
     "wof:name":"Lil Star",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.822574,39.661409,-119.822574,39.661409],
+  "bbox": [
+    -119.822574,
+    39.661409,
+    -119.822574,
+    39.661409
+],
   "geometry": {"coordinates":[-119.822574,39.661409],"type":"Point"}
 }

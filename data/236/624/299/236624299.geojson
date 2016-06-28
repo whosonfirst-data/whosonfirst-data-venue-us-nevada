@@ -2,13 +2,14 @@
   "id": 236624299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769582,39.164654,-119.769582,39.164654",
     "geom:latitude":39.164654,
     "geom:longitude":-119.769582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Division St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236624299,
-    "wof:lastmodified":1449004006,
+    "wof:lastmodified":1466706191,
     "wof:name":"Methodist School First United",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-119.769582,39.164654,-119.769582,39.164654],
+  "bbox": [
+    -119.769582,
+    39.164654,
+    -119.769582,
+    39.164654
+],
   "geometry": {"coordinates":[-119.769582,39.164654],"type":"Point"}
 }

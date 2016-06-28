@@ -2,13 +2,14 @@
   "id": 219167657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122538,36.223813,-115.122538,36.223813",
     "geom:latitude":36.223813,
     "geom:longitude":-115.122538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3426 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219167657,
-    "wof:lastmodified":1449072218,
+    "wof:lastmodified":1466701683,
     "wof:name":"C & W Enterprise",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.122538,36.223813,-115.122538,36.223813],
-  "geometry": {"coordinates":[-115.122538,36.223813],"type":"Point"}
+  "bbox": [
+    -115.122538,
+    36.223813,
+    -115.122538,
+    36.223813
+],
+  "geometry": {"coordinates":[-115.12253800000001,36.223813],"type":"Point"}
 }

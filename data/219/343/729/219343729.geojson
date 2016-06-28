@@ -2,13 +2,14 @@
   "id": 219343729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.743191,40.853127,-115.743191,40.853127",
     "geom:latitude":40.853127,
     "geom:longitude":-115.743191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2598 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219343729,
-    "wof:lastmodified":1449072908,
+    "wof:lastmodified":1466703373,
     "wof:name":"Pizza Barn",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.743191,40.853127,-115.743191,40.853127],
+  "bbox": [
+    -115.743191,
+    40.853127,
+    -115.743191,
+    40.853127
+],
   "geometry": {"coordinates":[-115.743191,40.853127],"type":"Point"}
 }

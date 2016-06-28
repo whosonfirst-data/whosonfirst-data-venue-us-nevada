@@ -2,13 +2,14 @@
   "id": 236642631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.564003,39.247793,-119.564003,39.247793",
     "geom:latitude":39.247793,
     "geom:longitude":-119.564003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Hillcrest Cir",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236642631,
-    "wof:lastmodified":1449001819,
+    "wof:lastmodified":1466706293,
     "wof:name":"Robert & Nancy Schreihans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.564003,39.247793,-119.564003,39.247793],
+  "bbox": [
+    -119.564003,
+    39.247793,
+    -119.564003,
+    39.247793
+],
   "geometry": {"coordinates":[-119.564003,39.247793],"type":"Point"}
 }

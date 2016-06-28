@@ -2,13 +2,14 @@
   "id": 219168803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241893,36.15912,-115.241893,36.15912",
     "geom:latitude":36.15912,
     "geom:longitude":-115.241893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219168803,
-    "wof:lastmodified":1449072224,
+    "wof:lastmodified":1466701697,
     "wof:name":"Gateway Realty LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.241893,36.15912,-115.241893,36.15912],
+  "bbox": [
+    -115.241893,
+    36.15912,
+    -115.241893,
+    36.15912
+],
   "geometry": {"coordinates":[-115.241893,36.15912],"type":"Point"}
 }

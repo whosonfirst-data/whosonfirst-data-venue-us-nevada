@@ -2,13 +2,14 @@
   "id": 236567017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825367,39.527764,-119.825367,39.527764",
     "geom:latitude":39.527764,
     "geom:longitude":-119.825367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236567017,
-    "wof:lastmodified":1449005277,
+    "wof:lastmodified":1466706084,
     "wof:name":"Fabtech",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.825367,39.527764,-119.825367,39.527764],
+  "bbox": [
+    -119.825367,
+    39.527764,
+    -119.825367,
+    39.527764
+],
   "geometry": {"coordinates":[-119.825367,39.527764],"type":"Point"}
 }

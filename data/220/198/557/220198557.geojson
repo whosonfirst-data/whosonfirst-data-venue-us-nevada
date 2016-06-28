@@ -2,13 +2,14 @@
   "id": 220198557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.332716,36.204374,-115.332716,36.204374",
     "geom:latitude":36.204374,
     "geom:longitude":-115.332716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Thomas W Ryan Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220198557,
-    "wof:lastmodified":1449074318,
+    "wof:lastmodified":1466703090,
     "wof:name":"Eagle Crest Golf Course",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-115.332716,36.204374,-115.332716,36.204374],
+  "bbox": [
+    -115.332716,
+    36.204374,
+    -115.332716,
+    36.204374
+],
   "geometry": {"coordinates":[-115.332716,36.204374],"type":"Point"}
 }

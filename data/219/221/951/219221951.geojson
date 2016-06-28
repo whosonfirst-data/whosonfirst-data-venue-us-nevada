@@ -2,13 +2,14 @@
   "id": 219221951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983336,36.038699,-114.983336,36.038699",
     "geom:latitude":36.038699,
     "geom:longitude":-114.983336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219221951,
-    "wof:lastmodified":1449071942,
+    "wof:lastmodified":1466702255,
     "wof:name":"Radiology Associates",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-114.983336,36.038699,-114.983336,36.038699],
-  "geometry": {"coordinates":[-114.983336,36.038699],"type":"Point"}
+  "bbox": [
+    -114.983336,
+    36.038699,
+    -114.983336,
+    36.038699
+],
+  "geometry": {"coordinates":[-114.98333599999999,36.038699],"type":"Point"}
 }

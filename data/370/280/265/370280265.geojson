@@ -2,13 +2,14 @@
   "id": 370280265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270234,36.270174,-115.270234,36.270174",
     "geom:latitude":36.270174,
     "geom:longitude":-115.270234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7991 W Tropical Pkwy Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":370280265,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1466704373,
     "wof:name":"Centennial Hills Salon & Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.270234,36.270174,-115.270234,36.270174],
+  "bbox": [
+    -115.270234,
+    36.270174,
+    -115.270234,
+    36.270174
+],
   "geometry": {"coordinates":[-115.270234,36.270174],"type":"Point"}
 }

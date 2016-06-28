@@ -2,13 +2,14 @@
   "id": 354015083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.003567,36.03299,-115.003567,36.03299",
     "geom:latitude":36.03299,
     "geom:longitude":-115.003567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Industrial Park Rd. Ste. #301",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354015083,
-    "wof:lastmodified":1449066316,
+    "wof:lastmodified":1466701883,
     "wof:name":"Accurate Pool & Spa Services",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.003567,36.03299,-115.003567,36.03299],
+  "bbox": [
+    -115.003567,
+    36.03299,
+    -115.003567,
+    36.03299
+],
   "geometry": {"coordinates":[-115.003567,36.03299],"type":"Point"}
 }

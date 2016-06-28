@@ -2,13 +2,14 @@
   "id": 370332425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754671,39.41976,-119.754671,39.41976",
     "geom:latitude":39.41976,
     "geom:longitude":-119.754671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Damonte Ranch Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370332425,
-    "wof:lastmodified":1449030949,
+    "wof:lastmodified":1466704759,
     "wof:name":"Kragen O'Reilly Auto Parts",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.754671,39.41976,-119.754671,39.41976],
+  "bbox": [
+    -119.754671,
+    39.41976,
+    -119.754671,
+    39.41976
+],
   "geometry": {"coordinates":[-119.754671,39.41976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236753211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.965946,36.077584,-115.965946,36.077584",
     "geom:latitude":36.077584,
     "geom:longitude":-115.965946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9621 Oakridge Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236753211,
-    "wof:lastmodified":1449001967,
+    "wof:lastmodified":1466706569,
     "wof:name":"Desert Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-115.965946,36.077584,-115.965946,36.077584],
+  "bbox": [
+    -115.965946,
+    36.077584,
+    -115.965946,
+    36.077584
+],
   "geometry": {"coordinates":[-115.965946,36.077584],"type":"Point"}
 }

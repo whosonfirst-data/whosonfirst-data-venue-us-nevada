@@ -2,13 +2,14 @@
   "id": 354392507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.037286,36.098567,-115.037286,36.098567",
     "geom:latitude":36.098567,
     "geom:longitude":-115.037286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 Kmberly Ave #2",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354392507,
-    "wof:lastmodified":1449067298,
+    "wof:lastmodified":1466706123,
     "wof:name":"Starving Students",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.037286,36.098567,-115.037286,36.098567],
-  "geometry": {"coordinates":[-115.037286,36.098567],"type":"Point"}
+  "bbox": [
+    -115.037286,
+    36.098567,
+    -115.037286,
+    36.098567
+],
+  "geometry": {"coordinates":[-115.03728599999999,36.098567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219617167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117016,36.248714,-115.117016,36.248714",
     "geom:latitude":36.248714,
     "geom:longitude":-115.117016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4837 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219617167,
-    "wof:lastmodified":1449070493,
+    "wof:lastmodified":1466703227,
     "wof:name":"M&A Machining",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.117016,36.248714,-115.117016,36.248714],
-  "geometry": {"coordinates":[-115.117016,36.248714],"type":"Point"}
+  "bbox": [
+    -115.117016,
+    36.248714,
+    -115.117016,
+    36.248714
+],
+  "geometry": {"coordinates":[-115.11701600000001,36.248714],"type":"Point"}
 }

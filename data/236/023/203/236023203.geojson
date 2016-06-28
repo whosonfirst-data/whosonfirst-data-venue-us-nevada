@@ -2,13 +2,14 @@
   "id": 236023203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086593,36.063742,-115.086593,36.063742",
     "geom:latitude":36.063742,
     "geom:longitude":-115.086593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 Belvedere Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236023203,
-    "wof:lastmodified":1449004860,
+    "wof:lastmodified":1466703865,
     "wof:name":"Epls Training Corp",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-115.086593,36.063742,-115.086593,36.063742],
-  "geometry": {"coordinates":[-115.086593,36.063742],"type":"Point"}
+  "bbox": [
+    -115.086593,
+    36.063742,
+    -115.086593,
+    36.063742
+],
+  "geometry": {"coordinates":[-115.08659299999999,36.063742],"type":"Point"}
 }

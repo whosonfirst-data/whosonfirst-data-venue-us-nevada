@@ -2,13 +2,14 @@
   "id": 354076061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116385,36.174458,-115.116385,36.174458",
     "geom:latitude":36.174458,
     "geom:longitude":-115.116385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 N Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354076061,
-    "wof:lastmodified":1449067275,
+    "wof:lastmodified":1466703485,
     "wof:name":"El Pollo Real",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.116385,36.174458,-115.116385,36.174458],
-  "geometry": {"coordinates":[-115.116385,36.174458],"type":"Point"}
+  "bbox": [
+    -115.116385,
+    36.174458,
+    -115.116385,
+    36.174458
+],
+  "geometry": {"coordinates":[-115.11638499999999,36.174458],"type":"Point"}
 }

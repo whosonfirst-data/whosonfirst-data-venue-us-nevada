@@ -2,13 +2,14 @@
   "id": 236540899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784019,39.38788,-119.784019,39.38788",
     "geom:latitude":39.38788,
     "geom:longitude":-119.784019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3790 Vancouver Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236540899,
-    "wof:lastmodified":1449002860,
+    "wof:lastmodified":1466706122,
     "wof:name":"Silver State Packaging Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-119.784019,39.38788,-119.784019,39.38788],
+  "bbox": [
+    -119.784019,
+    39.38788,
+    -119.784019,
+    39.38788
+],
   "geometry": {"coordinates":[-119.784019,39.38788],"type":"Point"}
 }

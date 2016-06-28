@@ -2,13 +2,14 @@
   "id": 219777855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127823,36.071248,-115.127823,36.071248",
     "geom:latitude":36.071248,
     "geom:longitude":-115.127823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6565 Spencer St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219777855,
-    "wof:lastmodified":1449072240,
+    "wof:lastmodified":1466704956,
     "wof:name":"Corporate Capital Formation",
     "wof:parent_id":85879731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "acquisition"
     ]
 },
-  "bbox": [-115.127823,36.071248,-115.127823,36.071248],
-  "geometry": {"coordinates":[-115.127823,36.071248],"type":"Point"}
+  "bbox": [
+    -115.127823,
+    36.071248,
+    -115.127823,
+    36.071248
+],
+  "geometry": {"coordinates":[-115.12782300000001,36.071248],"type":"Point"}
 }

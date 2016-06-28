@@ -2,13 +2,14 @@
   "id": 203308197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816057,39.527103,-119.816057,39.527103",
     "geom:latitude":39.527103,
     "geom:longitude":-119.816057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 West St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203308197,
-    "wof:lastmodified":1449026898,
+    "wof:lastmodified":1466702902,
     "wof:name":"Hotel Windsor",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.816057,39.527103,-119.816057,39.527103],
+  "bbox": [
+    -119.816057,
+    39.527103,
+    -119.816057,
+    39.527103
+],
   "geometry": {"coordinates":[-119.816057,39.527103],"type":"Point"}
 }

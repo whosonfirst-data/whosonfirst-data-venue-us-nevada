@@ -2,13 +2,14 @@
   "id": 219284405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770423,39.163226,-119.770423,39.163226",
     "geom:latitude":39.163226,
     "geom:longitude":-119.770423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Minnesota St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219284405,
-    "wof:lastmodified":1449072591,
+    "wof:lastmodified":1466702888,
     "wof:name":"Capitol Corporate Services",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.770423,39.163226,-119.770423,39.163226],
-  "geometry": {"coordinates":[-119.770423,39.163226],"type":"Point"}
+  "bbox": [
+    -119.770423,
+    39.163226,
+    -119.770423,
+    39.163226
+],
+  "geometry": {"coordinates":[-119.77042299999999,39.163226],"type":"Point"}
 }

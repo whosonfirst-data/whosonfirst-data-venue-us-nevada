@@ -2,13 +2,14 @@
   "id": 354062629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118958,36.276218,-115.118958,36.276218",
     "geom:latitude":36.276218,
     "geom:longitude":-115.118958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 E. Centennial Pkwy.",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354062629,
-    "wof:lastmodified":1449067553,
+    "wof:lastmodified":1466703100,
     "wof:name":"Golden Phoenix Chinese Cuisine",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.118958,36.276218,-115.118958,36.276218],
-  "geometry": {"coordinates":[-115.118958,36.276218],"type":"Point"}
+  "bbox": [
+    -115.118958,
+    36.276218,
+    -115.118958,
+    36.276218
+],
+  "geometry": {"coordinates":[-115.11895800000001,36.276218],"type":"Point"}
 }

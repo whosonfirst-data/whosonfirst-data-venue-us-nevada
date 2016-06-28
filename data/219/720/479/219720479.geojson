@@ -2,13 +2,14 @@
   "id": 219720479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777496,39.517458,-119.777496,39.517458",
     "geom:latitude":39.517458,
     "geom:longitude":-119.777496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 Terminal Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219720479,
-    "wof:lastmodified":1449071237,
+    "wof:lastmodified":1466704714,
     "wof:name":"Artistry In Bronze Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "taxidermist"
     ]
 },
-  "bbox": [-119.777496,39.517458,-119.777496,39.517458],
+  "bbox": [
+    -119.777496,
+    39.517458,
+    -119.777496,
+    39.517458
+],
   "geometry": {"coordinates":[-119.777496,39.517458],"type":"Point"}
 }

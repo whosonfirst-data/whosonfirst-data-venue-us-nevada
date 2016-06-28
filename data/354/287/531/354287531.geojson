@@ -2,13 +2,14 @@
   "id": 354287531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.066843,36.223203,-115.066843,36.223203",
     "geom:latitude":36.223203,
     "geom:longitude":-115.066843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4870 Nellis Oasis Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354287531,
-    "wof:lastmodified":1449066038,
+    "wof:lastmodified":1466705794,
     "wof:name":"Heritage Estates",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.066843,36.223203,-115.066843,36.223203],
-  "geometry": {"coordinates":[-115.066843,36.223203],"type":"Point"}
+  "bbox": [
+    -115.066843,
+    36.223203,
+    -115.066843,
+    36.223203
+],
+  "geometry": {"coordinates":[-115.06684300000001,36.223203],"type":"Point"}
 }

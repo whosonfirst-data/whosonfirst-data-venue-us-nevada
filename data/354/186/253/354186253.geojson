@@ -2,13 +2,14 @@
   "id": 354186253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157566,36.162588,-115.157566,36.162588",
     "geom:latitude":36.162588,
     "geom:longitude":-115.157566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 S Grand Central Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":354186253,
-    "wof:lastmodified":1449067268,
+    "wof:lastmodified":1466704809,
     "wof:name":"Phillips Van Heusen Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.157566,36.162588,-115.157566,36.162588],
+  "bbox": [
+    -115.157566,
+    36.162588,
+    -115.157566,
+    36.162588
+],
   "geometry": {"coordinates":[-115.157566,36.162588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354255711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172106,36.111932,-115.172106,36.111932",
     "geom:latitude":36.111932,
     "geom:longitude":-115.172106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Paris Resort & Casino 3655 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354255711,
-    "wof:lastmodified":1449066686,
+    "wof:lastmodified":1466705404,
     "wof:name":"Mon Ami Gabi Restaurant",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "french"
     ]
 },
-  "bbox": [-115.172106,36.111932,-115.172106,36.111932],
+  "bbox": [
+    -115.172106,
+    36.111932,
+    -115.172106,
+    36.111932
+],
   "geometry": {"coordinates":[-115.172106,36.111932],"type":"Point"}
 }

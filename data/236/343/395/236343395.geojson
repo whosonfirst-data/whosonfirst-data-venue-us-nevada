@@ -2,13 +2,14 @@
   "id": 236343395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725265,39.195238,-119.725265,39.195238",
     "geom:latitude":39.195238,
     "geom:longitude":-119.725265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4048 Technology Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236343395,
-    "wof:lastmodified":1449004097,
+    "wof:lastmodified":1466704977,
     "wof:name":"ESP West",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "heat"
     ]
 },
-  "bbox": [-119.725265,39.195238,-119.725265,39.195238],
-  "geometry": {"coordinates":[-119.725265,39.195238],"type":"Point"}
+  "bbox": [
+    -119.725265,
+    39.195238,
+    -119.725265,
+    39.195238
+],
+  "geometry": {"coordinates":[-119.72526499999999,39.195238],"type":"Point"}
 }

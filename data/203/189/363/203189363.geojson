@@ -2,13 +2,14 @@
   "id": 203189363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798153,39.499903,-119.798153,39.499903",
     "geom:latitude":39.499903,
     "geom:longitude":-119.798153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Linden St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203189363,
-    "wof:lastmodified":1449026307,
+    "wof:lastmodified":1466701917,
     "wof:name":"Carducci's Car Care",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.798153,39.499903,-119.798153,39.499903],
+  "bbox": [
+    -119.798153,
+    39.499903,
+    -119.798153,
+    39.499903
+],
   "geometry": {"coordinates":[-119.798153,39.499903],"type":"Point"}
 }

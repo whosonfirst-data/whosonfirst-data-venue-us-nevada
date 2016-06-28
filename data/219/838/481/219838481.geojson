@@ -2,13 +2,14 @@
   "id": 219838481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151936,36.19576,-115.151936,36.19576",
     "geom:latitude":36.19576,
     "geom:longitude":-115.151936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 H St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219838481,
-    "wof:lastmodified":1449070821,
+    "wof:lastmodified":1466705174,
     "wof:name":"24 Hour Mobile Tire Repair",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.151936,36.19576,-115.151936,36.19576],
-  "geometry": {"coordinates":[-115.151936,36.19576],"type":"Point"}
+  "bbox": [
+    -115.151936,
+    36.19576,
+    -115.151936,
+    36.19576
+],
+  "geometry": {"coordinates":[-115.15193600000001,36.19576],"type":"Point"}
 }

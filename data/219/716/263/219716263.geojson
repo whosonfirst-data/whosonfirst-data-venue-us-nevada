@@ -2,13 +2,14 @@
   "id": 219716263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.847427,35.971761,-114.847427,35.971761",
     "geom:latitude":35.971761,
     "geom:longitude":-114.847427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Juniper Way",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219716263,
-    "wof:lastmodified":1449070898,
+    "wof:lastmodified":1466704697,
     "wof:name":"Parts House",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-114.847427,35.971761,-114.847427,35.971761],
+  "bbox": [
+    -114.847427,
+    35.971761,
+    -114.847427,
+    35.971761
+],
   "geometry": {"coordinates":[-114.847427,35.971761],"type":"Point"}
 }

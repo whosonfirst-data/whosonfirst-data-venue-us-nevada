@@ -2,13 +2,14 @@
   "id": 235986947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.309017,36.288416,-115.309017,36.288416",
     "geom:latitude":36.288416,
     "geom:longitude":-115.309017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9025 Dorrell Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235986947,
-    "wof:lastmodified":1449008532,
+    "wof:lastmodified":1466703695,
     "wof:name":"Spinnaker Homes At Centennial",
     "wof:parent_id":85896903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-115.309017,36.288416,-115.309017,36.288416],
+  "bbox": [
+    -115.309017,
+    36.288416,
+    -115.309017,
+    36.288416
+],
   "geometry": {"coordinates":[-115.309017,36.288416],"type":"Point"}
 }

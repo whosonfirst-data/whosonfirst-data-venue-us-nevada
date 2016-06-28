@@ -2,13 +2,14 @@
   "id": 354260315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157799,36.142882,-115.157799,36.142882",
     "geom:latitude":36.142882,
     "geom:longitude":-115.157799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354260315,
-    "wof:lastmodified":1449066222,
+    "wof:lastmodified":1466705532,
     "wof:name":"Wyrick Magical Production",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.157799,36.142882,-115.157799,36.142882],
+  "bbox": [
+    -115.157799,
+    36.142882,
+    -115.157799,
+    36.142882
+],
   "geometry": {"coordinates":[-115.157799,36.142882],"type":"Point"}
 }

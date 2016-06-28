@@ -2,13 +2,14 @@
   "id": 220147385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.724104,39.630391,-119.724104,39.630391",
     "geom:latitude":39.630391,
     "geom:longitude":-119.724104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 S Amanda Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220147385,
-    "wof:lastmodified":1449074783,
+    "wof:lastmodified":1466702745,
     "wof:name":"Sounds Great",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-119.724104,39.630391,-119.724104,39.630391],
+  "bbox": [
+    -119.724104,
+    39.630391,
+    -119.724104,
+    39.630391
+],
   "geometry": {"coordinates":[-119.724104,39.630391],"type":"Point"}
 }

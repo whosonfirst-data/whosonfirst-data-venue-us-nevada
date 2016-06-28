@@ -2,13 +2,14 @@
   "id": 219805077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.770235,39.5322,-119.770235,39.5322",
     "geom:latitude":39.5322,
     "geom:longitude":-119.770235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1964 Frazer Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219805077,
-    "wof:lastmodified":1449071574,
+    "wof:lastmodified":1466705238,
     "wof:name":"All-State Dev & Cnstr Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.770235,39.5322,-119.770235,39.5322],
+  "bbox": [
+    -119.770235,
+    39.5322,
+    -119.770235,
+    39.5322
+],
   "geometry": {"coordinates":[-119.770235,39.5322],"type":"Point"}
 }

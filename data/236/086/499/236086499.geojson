@@ -2,13 +2,14 @@
   "id": 236086499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764227,39.486741,-119.764227,39.486741",
     "geom:latitude":39.486741,
     "geom:longitude":-119.764227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 Turbo Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236086499,
-    "wof:lastmodified":1449003942,
+    "wof:lastmodified":1466704128,
     "wof:name":"North Valley Precision",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "metal"
     ]
 },
-  "bbox": [-119.764227,39.486741,-119.764227,39.486741],
-  "geometry": {"coordinates":[-119.764227,39.486741],"type":"Point"}
+  "bbox": [
+    -119.764227,
+    39.486741,
+    -119.764227,
+    39.486741
+],
+  "geometry": {"coordinates":[-119.76422700000001,39.486741],"type":"Point"}
 }

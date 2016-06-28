@@ -2,13 +2,14 @@
   "id": 236066585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14136,36.159406,-115.14136,36.159406",
     "geom:latitude":36.159406,
     "geom:longitude":-115.14136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S 9th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":236066585,
-    "wof:lastmodified":1449002438,
+    "wof:lastmodified":1466704011,
     "wof:name":"Best Care Facility I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.14136,36.159406,-115.14136,36.159406],
-  "geometry": {"coordinates":[-115.14136,36.159406],"type":"Point"}
+  "bbox": [
+    -115.14136,
+    36.159406,
+    -115.14136,
+    36.159406
+],
+  "geometry": {"coordinates":[-115.14136000000001,36.159406],"type":"Point"}
 }

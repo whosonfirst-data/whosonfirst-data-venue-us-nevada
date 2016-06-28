@@ -2,13 +2,14 @@
   "id": 220177555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.253406,36.191806,-115.253406,36.191806",
     "geom:latitude":36.191806,
     "geom:longitude":-115.253406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Cedar Bluffs Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220177555,
-    "wof:lastmodified":1449074878,
+    "wof:lastmodified":1466702943,
     "wof:name":"Crossroads Counseling",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselor"
     ]
 },
-  "bbox": [-115.253406,36.191806,-115.253406,36.191806],
+  "bbox": [
+    -115.253406,
+    36.191806,
+    -115.253406,
+    36.191806
+],
   "geometry": {"coordinates":[-115.253406,36.191806],"type":"Point"}
 }

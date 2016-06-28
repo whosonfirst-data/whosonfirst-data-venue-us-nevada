@@ -2,13 +2,14 @@
   "id": 370338463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756561,39.170729,-119.756561,39.170729",
     "geom:latitude":39.170729,
     "geom:longitude":-119.756561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E William St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370338463,
-    "wof:lastmodified":1449030272,
+    "wof:lastmodified":1466704958,
     "wof:name":"Mills Park",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.756561,39.170729,-119.756561,39.170729],
+  "bbox": [
+    -119.756561,
+    39.170729,
+    -119.756561,
+    39.170729
+],
   "geometry": {"coordinates":[-119.756561,39.170729],"type":"Point"}
 }

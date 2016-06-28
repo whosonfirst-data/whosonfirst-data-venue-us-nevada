@@ -2,13 +2,14 @@
   "id": 219977745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204476,36.162527,-115.204476,36.162527",
     "geom:latitude":36.162527,
     "geom:longitude":-115.204476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Evergreen Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219977745,
-    "wof:lastmodified":1449074015,
+    "wof:lastmodified":1466705962,
     "wof:name":"Dss Import Express",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.204476,36.162527,-115.204476,36.162527],
+  "bbox": [
+    -115.204476,
+    36.162527,
+    -115.204476,
+    36.162527
+],
   "geometry": {"coordinates":[-115.204476,36.162527],"type":"Point"}
 }

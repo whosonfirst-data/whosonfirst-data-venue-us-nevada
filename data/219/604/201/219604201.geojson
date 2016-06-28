@@ -2,13 +2,14 @@
   "id": 219604201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.814924,39.463216,-118.814924,39.463216",
     "geom:latitude":39.463216,
     "geom:longitude":-118.814924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 Lattin Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219604201,
-    "wof:lastmodified":1449073509,
+    "wof:lastmodified":1466702988,
     "wof:name":"Marty's Floor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "floor"
     ]
 },
-  "bbox": [-118.814924,39.463216,-118.814924,39.463216],
+  "bbox": [
+    -118.814924,
+    39.463216,
+    -118.814924,
+    39.463216
+],
   "geometry": {"coordinates":[-118.814924,39.463216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236129645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172387,36.10795,-115.172387,36.10795",
     "geom:latitude":36.10795,
     "geom:longitude":-115.172387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236129645,
-    "wof:lastmodified":1449004482,
+    "wof:lastmodified":1466702124,
     "wof:name":"Carriage House",
     "wof:parent_id":85879735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [-115.172387,36.10795,-115.172387,36.10795],
+  "bbox": [
+    -115.172387,
+    36.10795,
+    -115.172387,
+    36.10795
+],
   "geometry": {"coordinates":[-115.172387,36.10795],"type":"Point"}
 }

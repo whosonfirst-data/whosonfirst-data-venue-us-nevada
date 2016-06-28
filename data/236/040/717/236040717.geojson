@@ -2,13 +2,14 @@
   "id": 236040717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080348,36.182371,-115.080348,36.182371",
     "geom:latitude":36.182371,
     "geom:longitude":-115.080348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 N Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236040717,
-    "wof:lastmodified":1449005130,
+    "wof:lastmodified":1466703938,
     "wof:name":"ETT Gaming",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-115.080348,36.182371,-115.080348,36.182371],
+  "bbox": [
+    -115.080348,
+    36.182371,
+    -115.080348,
+    36.182371
+],
   "geometry": {"coordinates":[-115.080348,36.182371],"type":"Point"}
 }

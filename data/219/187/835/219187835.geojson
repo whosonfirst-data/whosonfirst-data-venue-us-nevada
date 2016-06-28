@@ -2,13 +2,14 @@
   "id": 219187835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277753,36.302401,-115.277753,36.302401",
     "geom:latitude":36.302401,
     "geom:longitude":-115.277753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8216 Fritzen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219187835,
-    "wof:lastmodified":1449070912,
+    "wof:lastmodified":1466702000,
     "wof:name":"Generations Photography",
     "wof:parent_id":85892725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.277753,36.302401,-115.277753,36.302401],
+  "bbox": [
+    -115.277753,
+    36.302401,
+    -115.277753,
+    36.302401
+],
   "geometry": {"coordinates":[-115.277753,36.302401],"type":"Point"}
 }

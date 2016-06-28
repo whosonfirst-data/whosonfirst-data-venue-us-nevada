@@ -2,13 +2,14 @@
   "id": 236595903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185887,36.239342,-115.185887,36.239342",
     "geom:latitude":36.239342,
     "geom:longitude":-115.185887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236595903,
-    "wof:lastmodified":1449004861,
+    "wof:lastmodified":1466706244,
     "wof:name":"North Las Vegas Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.185887,36.239342,-115.185887,36.239342],
-  "geometry": {"coordinates":[-115.185887,36.239342],"type":"Point"}
+  "bbox": [
+    -115.185887,
+    36.239342,
+    -115.185887,
+    36.239342
+],
+  "geometry": {"coordinates":[-115.18588699999999,36.239342],"type":"Point"}
 }

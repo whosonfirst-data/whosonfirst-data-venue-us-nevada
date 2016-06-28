@@ -2,13 +2,14 @@
   "id": 236354393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776475,39.424227,-119.776475,39.424227",
     "geom:latitude":39.424227,
     "geom:longitude":-119.776475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13805 Stoneybrook Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236354393,
-    "wof:lastmodified":1449004796,
+    "wof:lastmodified":1466705091,
     "wof:name":"Primary Key Technologies Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-119.776475,39.424227,-119.776475,39.424227],
+  "bbox": [
+    -119.776475,
+    39.424227,
+    -119.776475,
+    39.424227
+],
   "geometry": {"coordinates":[-119.776475,39.424227],"type":"Point"}
 }

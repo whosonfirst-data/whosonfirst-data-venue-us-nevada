@@ -2,13 +2,14 @@
   "id": 219441021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19654,36.071774,-115.19654,36.071774",
     "geom:latitude":36.071774,
     "geom:longitude":-115.19654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219441021,
-    "wof:lastmodified":1449070658,
+    "wof:lastmodified":1466704255,
     "wof:name":"Closet World",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-115.19654,36.071774,-115.19654,36.071774],
+  "bbox": [
+    -115.19654,
+    36.071774,
+    -115.19654,
+    36.071774
+],
   "geometry": {"coordinates":[-115.19654,36.071774],"type":"Point"}
 }

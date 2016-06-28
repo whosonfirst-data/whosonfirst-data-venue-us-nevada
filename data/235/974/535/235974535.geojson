@@ -2,13 +2,14 @@
   "id": 235974535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.835498,39.352678,-119.835498,39.352678",
     "geom:latitude":39.352678,
     "geom:longitude":-119.835498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 Joy Lake Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235974535,
-    "wof:lastmodified":1449008556,
+    "wof:lastmodified":1466703639,
     "wof:name":"Black Rock Systems LLC",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.835498,39.352678,-119.835498,39.352678],
+  "bbox": [
+    -119.835498,
+    39.352678,
+    -119.835498,
+    39.352678
+],
   "geometry": {"coordinates":[-119.835498,39.352678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219818389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.86657,39.258448,-114.86657,39.258448",
     "geom:latitude":39.258448,
     "geom:longitude":-114.86657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Ave C",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219818389,
-    "wof:lastmodified":1449072109,
+    "wof:lastmodified":1466705188,
     "wof:name":"White Pine County School Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "secondary"
     ]
 },
-  "bbox": [-114.86657,39.258448,-114.86657,39.258448],
+  "bbox": [
+    -114.86657,
+    39.258448,
+    -114.86657,
+    39.258448
+],
   "geometry": {"coordinates":[-114.86657,39.258448],"type":"Point"}
 }

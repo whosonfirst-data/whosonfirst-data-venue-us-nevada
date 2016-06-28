@@ -2,13 +2,14 @@
   "id": 219454201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236775,36.05004,-115.236775,36.05004",
     "geom:latitude":36.05004,
     "geom:longitude":-115.236775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7665 Golden Lantern Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219454201,
-    "wof:lastmodified":1449073584,
+    "wof:lastmodified":1466703896,
     "wof:name":"National Elite Advertising LLC",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.236775,36.05004,-115.236775,36.05004],
-  "geometry": {"coordinates":[-115.236775,36.05004],"type":"Point"}
+  "bbox": [
+    -115.236775,
+    36.05004,
+    -115.236775,
+    36.05004
+],
+  "geometry": {"coordinates":[-115.23677499999999,36.05004],"type":"Point"}
 }

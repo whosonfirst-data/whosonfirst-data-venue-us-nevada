@@ -2,13 +2,14 @@
   "id": 370256329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301275,36.0993,-115.301275,36.0993",
     "geom:latitude":36.0993,
     "geom:longitude":-115.301275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9575 W. Tropicana Ave Suite 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":370256329,
-    "wof:lastmodified":1449031671,
+    "wof:lastmodified":1466703819,
     "wof:name":"Nadic Dental Centers",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-115.301275,36.0993,-115.301275,36.0993],
+  "bbox": [
+    -115.301275,
+    36.0993,
+    -115.301275,
+    36.0993
+],
   "geometry": {"coordinates":[-115.301275,36.0993],"type":"Point"}
 }

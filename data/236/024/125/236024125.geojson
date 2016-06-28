@@ -2,13 +2,14 @@
   "id": 236024125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.313554,36.138515,-115.313554,36.138515",
     "geom:latitude":36.138515,
     "geom:longitude":-115.313554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Broken Willow Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236024125,
-    "wof:lastmodified":1449003191,
+    "wof:lastmodified":1466703868,
     "wof:name":"S W Specialties Inc",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "marble"
     ]
 },
-  "bbox": [-115.313554,36.138515,-115.313554,36.138515],
+  "bbox": [
+    -115.313554,
+    36.138515,
+    -115.313554,
+    36.138515
+],
   "geometry": {"coordinates":[-115.313554,36.138515],"type":"Point"}
 }

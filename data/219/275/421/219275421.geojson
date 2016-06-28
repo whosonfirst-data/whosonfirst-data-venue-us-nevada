@@ -2,13 +2,14 @@
   "id": 219275421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.744129,39.407681,-118.744129,39.407681",
     "geom:latitude":39.407681,
     "geom:longitude":-118.744129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Testolin Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219275421,
-    "wof:lastmodified":1449071533,
+    "wof:lastmodified":1466702785,
     "wof:name":"Julian Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-118.744129,39.407681,-118.744129,39.407681],
+  "bbox": [
+    -118.744129,
+    39.407681,
+    -118.744129,
+    39.407681
+],
   "geometry": {"coordinates":[-118.744129,39.407681],"type":"Point"}
 }

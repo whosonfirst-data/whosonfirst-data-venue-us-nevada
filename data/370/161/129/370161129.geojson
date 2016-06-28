@@ -2,13 +2,14 @@
   "id": 370161129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249001,36.240501,-115.249001,36.240501",
     "geom:latitude":36.240501,
     "geom:longitude":-115.249001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7071 W Craig Rd Ste 104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370161129,
-    "wof:lastmodified":1449030425,
+    "wof:lastmodified":1466701810,
     "wof:name":"North Stars Dance Academy",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-115.249001,36.240501,-115.249001,36.240501],
-  "geometry": {"coordinates":[-115.249001,36.240501],"type":"Point"}
+  "bbox": [
+    -115.249001,
+    36.240501,
+    -115.249001,
+    36.240501
+],
+  "geometry": {"coordinates":[-115.24900100000001,36.240501],"type":"Point"}
 }

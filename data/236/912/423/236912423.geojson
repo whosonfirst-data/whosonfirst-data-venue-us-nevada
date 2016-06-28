@@ -2,13 +2,14 @@
   "id": 236912423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799044,39.545391,-119.799044,39.545391",
     "geom:latitude":39.545391,
     "geom:longitude":-119.799044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 N Wells Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236912423,
-    "wof:lastmodified":1449003244,
+    "wof:lastmodified":1466706831,
     "wof:name":"A C M E T V",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.799044,39.545391,-119.799044,39.545391],
-  "geometry": {"coordinates":[-119.799044,39.545391],"type":"Point"}
+  "bbox": [
+    -119.799044,
+    39.545391,
+    -119.799044,
+    39.545391
+],
+  "geometry": {"coordinates":[-119.79904399999999,39.545391],"type":"Point"}
 }

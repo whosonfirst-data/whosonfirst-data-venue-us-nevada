@@ -2,13 +2,14 @@
   "id": 236920627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796238,39.476665,-119.796238,39.476665",
     "geom:latitude":39.476665,
     "geom:longitude":-119.796238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6490 S McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236920627,
-    "wof:lastmodified":1449004348,
+    "wof:lastmodified":1466706839,
     "wof:name":"Pfrommer & Mc Cune LTD",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-119.796238,39.476665,-119.796238,39.476665],
+  "bbox": [
+    -119.796238,
+    39.476665,
+    -119.796238,
+    39.476665
+],
   "geometry": {"coordinates":[-119.796238,39.476665],"type":"Point"}
 }

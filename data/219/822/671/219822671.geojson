@@ -2,13 +2,14 @@
   "id": 219822671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738748,39.198466,-119.738748,39.198466",
     "geom:latitude":39.198466,
     "geom:longitude":-119.738748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Lockheed Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219822671,
-    "wof:lastmodified":1449073807,
+    "wof:lastmodified":1466705204,
     "wof:name":"Countis Industries",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.738748,39.198466,-119.738748,39.198466],
+  "bbox": [
+    -119.738748,
+    39.198466,
+    -119.738748,
+    39.198466
+],
   "geometry": {"coordinates":[-119.738748,39.198466],"type":"Point"}
 }

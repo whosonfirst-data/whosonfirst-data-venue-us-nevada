@@ -2,13 +2,14 @@
   "id": 236476397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209439,36.252332,-115.209439,36.252332",
     "geom:latitude":36.252332,
     "geom:longitude":-115.209439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5148 Future Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236476397,
-    "wof:lastmodified":1449002899,
+    "wof:lastmodified":1466705593,
     "wof:name":"Stranahan Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.209439,36.252332,-115.209439,36.252332],
+  "bbox": [
+    -115.209439,
+    36.252332,
+    -115.209439,
+    36.252332
+],
   "geometry": {"coordinates":[-115.209439,36.252332],"type":"Point"}
 }

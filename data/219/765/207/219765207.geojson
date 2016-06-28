@@ -2,13 +2,14 @@
   "id": 219765207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765314,39.154435,-119.765314,39.154435",
     "geom:latitude":39.154435,
     "geom:longitude":-119.765314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 S Stewart St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219765207,
-    "wof:lastmodified":1449072421,
+    "wof:lastmodified":1466704854,
     "wof:name":"Sierra Sewing Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sewing"
     ]
 },
-  "bbox": [-119.765314,39.154435,-119.765314,39.154435],
+  "bbox": [
+    -119.765314,
+    39.154435,
+    -119.765314,
+    39.154435
+],
   "geometry": {"coordinates":[-119.765314,39.154435],"type":"Point"}
 }

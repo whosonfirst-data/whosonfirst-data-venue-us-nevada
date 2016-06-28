@@ -2,13 +2,14 @@
   "id": 370241157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243237,36.130869,-115.243237,36.130869",
     "geom:latitude":36.130869,
     "geom:longitude":-115.243237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 S Rainbow Blvd # A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370241157,
-    "wof:lastmodified":1449032377,
+    "wof:lastmodified":1466703486,
     "wof:name":"Nv Mortgage",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.243237,36.130869,-115.243237,36.130869],
-  "geometry": {"coordinates":[-115.243237,36.130869],"type":"Point"}
+  "bbox": [
+    -115.243237,
+    36.130869,
+    -115.243237,
+    36.130869
+],
+  "geometry": {"coordinates":[-115.24323699999999,36.130869],"type":"Point"}
 }

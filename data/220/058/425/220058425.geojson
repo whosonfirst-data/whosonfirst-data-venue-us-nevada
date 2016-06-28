@@ -2,13 +2,14 @@
   "id": 220058425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.77233,39.470013,-118.77233,39.470013",
     "geom:latitude":39.470013,
     "geom:longitude":-118.77233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Humboldt St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220058425,
-    "wof:lastmodified":1449074151,
+    "wof:lastmodified":1466702123,
     "wof:name":"Little Lambs Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.77233,39.470013,-118.77233,39.470013],
+  "bbox": [
+    -118.77233,
+    39.470013,
+    -118.77233,
+    39.470013
+],
   "geometry": {"coordinates":[-118.77233,39.470013],"type":"Point"}
 }

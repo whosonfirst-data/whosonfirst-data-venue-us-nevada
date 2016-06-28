@@ -2,13 +2,14 @@
   "id": 236095743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777911,39.276695,-119.777911,39.276695",
     "geom:latitude":39.276695,
     "geom:longitude":-119.777911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 White Pine Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236095743,
-    "wof:lastmodified":1449003311,
+    "wof:lastmodified":1466704185,
     "wof:name":"Dover Excavation Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.777911,39.276695,-119.777911,39.276695],
+  "bbox": [
+    -119.777911,
+    39.276695,
+    -119.777911,
+    39.276695
+],
   "geometry": {"coordinates":[-119.777911,39.276695],"type":"Point"}
 }

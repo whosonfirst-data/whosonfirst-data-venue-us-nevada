@@ -2,13 +2,14 @@
   "id": 370330501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791548,39.557,-119.791548,39.557",
     "geom:latitude":39.557,
     "geom:longitude":-119.791548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Clear Acre Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370330501,
-    "wof:lastmodified":1449030768,
+    "wof:lastmodified":1466704740,
     "wof:name":"Aldertos Fresh Mexican Food",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-119.791548,39.557,-119.791548,39.557],
-  "geometry": {"coordinates":[-119.791548,39.557],"type":"Point"}
+  "bbox": [
+    -119.791548,
+    39.557,
+    -119.791548,
+    39.557
+],
+  "geometry": {"coordinates":[-119.79154800000001,39.557],"type":"Point"}
 }

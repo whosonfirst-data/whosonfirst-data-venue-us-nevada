@@ -2,13 +2,14 @@
   "id": 203329879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16662,36.166483,-115.16662,36.166483",
     "geom:latitude":36.166483,
     "geom:longitude":-115.16662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Deauville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203329879,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466703021,
     "wof:name":"Excellent Service Carpet Clng",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.16662,36.166483,-115.16662,36.166483],
-  "geometry": {"coordinates":[-115.16662,36.166483],"type":"Point"}
+  "bbox": [
+    -115.16662,
+    36.166483,
+    -115.16662,
+    36.166483
+],
+  "geometry": {"coordinates":[-115.16661999999999,36.166483],"type":"Point"}
 }

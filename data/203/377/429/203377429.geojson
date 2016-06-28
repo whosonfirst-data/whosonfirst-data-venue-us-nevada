@@ -2,13 +2,14 @@
   "id": 203377429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.949807,36.067248,-114.949807,36.067248",
     "geom:latitude":36.067248,
     "geom:longitude":-114.949807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Racetrack Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203377429,
-    "wof:lastmodified":1449025635,
+    "wof:lastmodified":1466703238,
     "wof:name":"R L Mcvane Inc",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.949807,36.067248,-114.949807,36.067248],
-  "geometry": {"coordinates":[-114.949807,36.067248],"type":"Point"}
+  "bbox": [
+    -114.949807,
+    36.067248,
+    -114.949807,
+    36.067248
+],
+  "geometry": {"coordinates":[-114.94980700000001,36.067248],"type":"Point"}
 }

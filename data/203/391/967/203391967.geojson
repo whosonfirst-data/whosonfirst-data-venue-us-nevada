@@ -2,13 +2,14 @@
   "id": 203391967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160717,36.192414,-115.160717,36.192414",
     "geom:latitude":36.192414,
     "geom:longitude":-115.160717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 N Martin L King Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203391967,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466703306,
     "wof:name":"D & L Oil",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.160717,36.192414,-115.160717,36.192414],
-  "geometry": {"coordinates":[-115.160717,36.192414],"type":"Point"}
+  "bbox": [
+    -115.160717,
+    36.192414,
+    -115.160717,
+    36.192414
+],
+  "geometry": {"coordinates":[-115.16071700000001,36.192414],"type":"Point"}
 }

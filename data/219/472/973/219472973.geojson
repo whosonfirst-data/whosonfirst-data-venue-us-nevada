@@ -2,13 +2,14 @@
   "id": 219472973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.37517,39.371714,-119.37517,39.371714",
     "geom:latitude":39.371714,
     "geom:longitude":-119.37517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Apache Dr",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219472973,
-    "wof:lastmodified":1449070663,
+    "wof:lastmodified":1466704046,
     "wof:name":"Prescription Help For Needy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.37517,39.371714,-119.37517,39.371714],
+  "bbox": [
+    -119.37517,
+    39.371714,
+    -119.37517,
+    39.371714
+],
   "geometry": {"coordinates":[-119.37517,39.371714],"type":"Point"}
 }

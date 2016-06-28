@@ -2,13 +2,14 @@
   "id": 219884307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.73132,40.976442,-117.73132,40.976442",
     "geom:latitude":40.976442,
     "geom:longitude":-117.73132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 E Winnemucca Blvd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219884307,
-    "wof:lastmodified":1449073247,
+    "wof:lastmodified":1466705559,
     "wof:name":"Taqueria El Mirador",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.73132,40.976442,-117.73132,40.976442],
+  "bbox": [
+    -117.73132,
+    40.976442,
+    -117.73132,
+    40.976442
+],
   "geometry": {"coordinates":[-117.73132,40.976442],"type":"Point"}
 }

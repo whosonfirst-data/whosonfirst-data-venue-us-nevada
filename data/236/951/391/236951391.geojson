@@ -2,13 +2,14 @@
   "id": 236951391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.198418,36.09718,-115.198418,36.09718",
     "geom:latitude":36.09718,
     "geom:longitude":-115.198418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 W Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236951391,
-    "wof:lastmodified":1449001788,
+    "wof:lastmodified":1466706936,
     "wof:name":"Deck Systems Nevada",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.198418,36.09718,-115.198418,36.09718],
+  "bbox": [
+    -115.198418,
+    36.09718,
+    -115.198418,
+    36.09718
+],
   "geometry": {"coordinates":[-115.198418,36.09718],"type":"Point"}
 }

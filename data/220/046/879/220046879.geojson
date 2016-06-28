@@ -2,13 +2,14 @@
   "id": 220046879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076194,36.12293,-115.076194,36.12293",
     "geom:latitude":36.12293,
     "geom:longitude":-115.076194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 E Twain Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220046879,
-    "wof:lastmodified":1449074497,
+    "wof:lastmodified":1466701959,
     "wof:name":"Georgie Speers",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.076194,36.12293,-115.076194,36.12293],
+  "bbox": [
+    -115.076194,
+    36.12293,
+    -115.076194,
+    36.12293
+],
   "geometry": {"coordinates":[-115.076194,36.12293],"type":"Point"}
 }

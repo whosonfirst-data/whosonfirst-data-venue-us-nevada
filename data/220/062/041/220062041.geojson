@@ -2,13 +2,14 @@
   "id": 220062041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222721,36.214862,-115.222721,36.214862",
     "geom:latitude":36.214862,
     "geom:longitude":-115.222721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 Woods Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220062041,
-    "wof:lastmodified":1449074833,
+    "wof:lastmodified":1466702142,
     "wof:name":"Still Rollin Trnsp LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-115.222721,36.214862,-115.222721,36.214862],
-  "geometry": {"coordinates":[-115.222721,36.214862],"type":"Point"}
+  "bbox": [
+    -115.222721,
+    36.214862,
+    -115.222721,
+    36.214862
+],
+  "geometry": {"coordinates":[-115.22272100000001,36.214862],"type":"Point"}
 }

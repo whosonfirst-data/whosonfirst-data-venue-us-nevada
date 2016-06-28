@@ -2,13 +2,14 @@
   "id": 219416093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764435,39.525724,-119.764435,39.525724",
     "geom:latitude":39.525724,
     "geom:longitude":-119.764435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219416093,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466703716,
     "wof:name":"Preferred Planning & Mgmt",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.764435,39.525724,-119.764435,39.525724],
-  "geometry": {"coordinates":[-119.764435,39.525724],"type":"Point"}
+  "bbox": [
+    -119.764435,
+    39.525724,
+    -119.764435,
+    39.525724
+],
+  "geometry": {"coordinates":[-119.76443500000001,39.525724],"type":"Point"}
 }

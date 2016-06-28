@@ -2,13 +2,14 @@
   "id": 219676413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260003,36.189323,-115.260003,36.189323",
     "geom:latitude":36.189323,
     "geom:longitude":-115.260003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219676413,
-    "wof:lastmodified":1449072644,
+    "wof:lastmodified":1466704294,
     "wof:name":"Postnet Postal & Business Svc",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mail"
     ]
 },
-  "bbox": [-115.260003,36.189323,-115.260003,36.189323],
+  "bbox": [
+    -115.260003,
+    36.189323,
+    -115.260003,
+    36.189323
+],
   "geometry": {"coordinates":[-115.260003,36.189323],"type":"Point"}
 }

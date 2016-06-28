@@ -2,13 +2,14 @@
   "id": 236943177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.863282,39.484361,-118.863282,39.484361",
     "geom:latitude":39.484361,
     "geom:longitude":-118.863282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Dorral Way",
     "sg:city":"Zephyr Cove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236943177,
-    "wof:lastmodified":1449002336,
+    "wof:lastmodified":1466706926,
     "wof:name":"TSI Title & Escrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "title"
     ]
 },
-  "bbox": [-118.863282,39.484361,-118.863282,39.484361],
+  "bbox": [
+    -118.863282,
+    39.484361,
+    -118.863282,
+    39.484361
+],
   "geometry": {"coordinates":[-118.863282,39.484361],"type":"Point"}
 }

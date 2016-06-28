@@ -2,13 +2,14 @@
   "id": 236289761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2795,36.227979,-115.2795,36.227979",
     "geom:latitude":36.227979,
     "geom:longitude":-115.2795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3636 Crescent Canyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236289761,
-    "wof:lastmodified":1449004589,
+    "wof:lastmodified":1466704498,
     "wof:name":"Outrageous Vegas",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-115.2795,36.227979,-115.2795,36.227979],
+  "bbox": [
+    -115.2795,
+    36.227979,
+    -115.2795,
+    36.227979
+],
   "geometry": {"coordinates":[-115.2795,36.227979],"type":"Point"}
 }

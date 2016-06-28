@@ -2,13 +2,14 @@
   "id": 236659839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065947,36.002568,-115.065947,36.002568",
     "geom:latitude":36.002568,
     "geom:longitude":-115.065947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1886 High Mesa Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236659839,
-    "wof:lastmodified":1449001942,
+    "wof:lastmodified":1466706412,
     "wof:name":"Harbor Lights Candle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.065947,36.002568,-115.065947,36.002568],
-  "geometry": {"coordinates":[-115.065947,36.002568],"type":"Point"}
+  "bbox": [
+    -115.065947,
+    36.002568,
+    -115.065947,
+    36.002568
+],
+  "geometry": {"coordinates":[-115.06594699999999,36.002568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236783627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.84521,35.978826,-114.84521,35.978826",
     "geom:latitude":35.978826,
     "geom:longitude":-114.84521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Industrial Rd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236783627,
-    "wof:lastmodified":1449001760,
+    "wof:lastmodified":1466706626,
     "wof:name":"T I Pro",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.84521,35.978826,-114.84521,35.978826],
-  "geometry": {"coordinates":[-114.84521,35.978826],"type":"Point"}
+  "bbox": [
+    -114.84521,
+    35.978826,
+    -114.84521,
+    35.978826
+],
+  "geometry": {"coordinates":[-114.84520999999999,35.978826],"type":"Point"}
 }

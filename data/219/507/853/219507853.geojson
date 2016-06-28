@@ -2,13 +2,14 @@
   "id": 219507853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.706912,39.559899,-119.706912,39.559899",
     "geom:latitude":39.559899,
     "geom:longitude":-119.706912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3074 S Cottage Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219507853,
-    "wof:lastmodified":1449072197,
+    "wof:lastmodified":1466704185,
     "wof:name":"Pamper Your Pets",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-119.706912,39.559899,-119.706912,39.559899],
+  "bbox": [
+    -119.706912,
+    39.559899,
+    -119.706912,
+    39.559899
+],
   "geometry": {"coordinates":[-119.706912,39.559899],"type":"Point"}
 }

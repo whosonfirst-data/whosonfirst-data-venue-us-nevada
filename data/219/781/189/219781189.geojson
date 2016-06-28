@@ -2,13 +2,14 @@
   "id": 219781189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.045235,36.18661,-115.045235,36.18661",
     "geom:latitude":36.18661,
     "geom:longitude":-115.045235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Lady Bryan Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219781189,
-    "wof:lastmodified":1449071057,
+    "wof:lastmodified":1466705111,
     "wof:name":"Fine Things",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.045235,36.18661,-115.045235,36.18661],
-  "geometry": {"coordinates":[-115.045235,36.18661],"type":"Point"}
+  "bbox": [
+    -115.045235,
+    36.18661,
+    -115.045235,
+    36.18661
+],
+  "geometry": {"coordinates":[-115.04523500000001,36.18661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236971803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.005019,36.057157,-115.005019,36.057157",
     "geom:latitude":36.057157,
     "geom:longitude":-115.005019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Max Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236971803,
-    "wof:lastmodified":1449003299,
+    "wof:lastmodified":1466706895,
     "wof:name":"Done Right Auto Repair",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.005019,36.057157,-115.005019,36.057157],
+  "bbox": [
+    -115.005019,
+    36.057157,
+    -115.005019,
+    36.057157
+],
   "geometry": {"coordinates":[-115.005019,36.057157],"type":"Point"}
 }

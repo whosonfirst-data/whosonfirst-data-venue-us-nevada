@@ -2,13 +2,14 @@
   "id": 219934263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.34064,36.18407,-115.34064,36.18407",
     "geom:latitude":36.18407,
     "geom:longitude":-115.34064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11156 Sandy Grove Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219934263,
-    "wof:lastmodified":1449070554,
+    "wof:lastmodified":1466705820,
     "wof:name":"LSI Holding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-115.34064,36.18407,-115.34064,36.18407],
-  "geometry": {"coordinates":[-115.34064,36.18407],"type":"Point"}
+  "bbox": [
+    -115.34064,
+    36.18407,
+    -115.34064,
+    36.18407
+],
+  "geometry": {"coordinates":[-115.34063999999999,36.18407],"type":"Point"}
 }

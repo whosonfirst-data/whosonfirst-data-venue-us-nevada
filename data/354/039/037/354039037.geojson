@@ -2,13 +2,14 @@
   "id": 354039037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189864,36.19567,-115.189864,36.19567",
     "geom:latitude":36.19567,
     "geom:longitude":-115.189864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Texas Star Ln",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":354039037,
-    "wof:lastmodified":1449067454,
+    "wof:lastmodified":1466702505,
     "wof:name":"Austin's Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-115.189864,36.19567,-115.189864,36.19567],
+  "bbox": [
+    -115.189864,
+    36.19567,
+    -115.189864,
+    36.19567
+],
   "geometry": {"coordinates":[-115.189864,36.19567],"type":"Point"}
 }

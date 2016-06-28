@@ -2,13 +2,14 @@
   "id": 354077903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153012,36.15987,-115.153012,36.15987",
     "geom:latitude":36.15987,
     "geom:longitude":-115.153012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":354077903,
-    "wof:lastmodified":1449066196,
+    "wof:lastmodified":1466703532,
     "wof:name":"Las Vegas Ballet School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "performing"
     ]
 },
-  "bbox": [-115.153012,36.15987,-115.153012,36.15987],
+  "bbox": [
+    -115.153012,
+    36.15987,
+    -115.153012,
+    36.15987
+],
   "geometry": {"coordinates":[-115.153012,36.15987],"type":"Point"}
 }

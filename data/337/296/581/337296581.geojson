@@ -2,13 +2,14 @@
   "id": 337296581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.48423,36.614752,-114.48423,36.614752",
     "geom:latitude":36.614752,
     "geom:longitude":-114.48423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 N Moapa Valley Blvd",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337296581,
-    "wof:lastmodified":1449027593,
+    "wof:lastmodified":1466701642,
     "wof:name":"Valley Rental Ctr Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-114.48423,36.614752,-114.48423,36.614752],
+  "bbox": [
+    -114.48423,
+    36.614752,
+    -114.48423,
+    36.614752
+],
   "geometry": {"coordinates":[-114.48423,36.614752],"type":"Point"}
 }

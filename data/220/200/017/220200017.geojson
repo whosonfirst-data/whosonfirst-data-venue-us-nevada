@@ -2,13 +2,14 @@
   "id": 220200017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764109,39.457109,-119.764109,39.457109",
     "geom:latitude":39.457109,
     "geom:longitude":-119.764109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 Radford Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220200017,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466703120,
     "wof:name":"Elizabeth Nightingale Massage",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-119.764109,39.457109,-119.764109,39.457109],
+  "bbox": [
+    -119.764109,
+    39.457109,
+    -119.764109,
+    39.457109
+],
   "geometry": {"coordinates":[-119.764109,39.457109],"type":"Point"}
 }

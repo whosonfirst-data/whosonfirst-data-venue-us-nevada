@@ -2,13 +2,14 @@
   "id": 354270991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097367,36.173427,-115.097367,36.173427",
     "geom:latitude":36.173427,
     "geom:longitude":-115.097367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3551 E Bonanza Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354270991,
-    "wof:lastmodified":1449066242,
+    "wof:lastmodified":1466705516,
     "wof:name":"Kunin Israel-Ishi",
     "wof:parent_id":85892691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.097367,36.173427,-115.097367,36.173427],
-  "geometry": {"coordinates":[-115.097367,36.173427],"type":"Point"}
+  "bbox": [
+    -115.097367,
+    36.173427,
+    -115.097367,
+    36.173427
+],
+  "geometry": {"coordinates":[-115.09736700000001,36.173427],"type":"Point"}
 }

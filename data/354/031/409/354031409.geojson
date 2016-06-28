@@ -2,13 +2,14 @@
   "id": 354031409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107002,36.2099,-115.107002,36.2099",
     "geom:latitude":36.2099,
     "geom:longitude":-115.107002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2757 Las Vegas Blvd N",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354031409,
-    "wof:lastmodified":1449066547,
+    "wof:lastmodified":1466702318,
     "wof:name":"Poker Palace",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.107002,36.2099,-115.107002,36.2099],
-  "geometry": {"coordinates":[-115.107002,36.2099],"type":"Point"}
+  "bbox": [
+    -115.107002,
+    36.2099,
+    -115.107002,
+    36.2099
+],
+  "geometry": {"coordinates":[-115.10700199999999,36.2099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236212117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798485,39.535647,-119.798485,39.535647",
     "geom:latitude":39.535647,
     "geom:longitude":-119.798485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Sutro St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236212117,
-    "wof:lastmodified":1449003857,
+    "wof:lastmodified":1466703816,
     "wof:name":"City Lift",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transport"
     ]
 },
-  "bbox": [-119.798485,39.535647,-119.798485,39.535647],
+  "bbox": [
+    -119.798485,
+    39.535647,
+    -119.798485,
+    39.535647
+],
   "geometry": {"coordinates":[-119.798485,39.535647],"type":"Point"}
 }

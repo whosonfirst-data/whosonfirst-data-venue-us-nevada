@@ -2,13 +2,14 @@
   "id": 203179675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.250362,36.224895,-115.250362,36.224895",
     "geom:latitude":36.224895,
     "geom:longitude":-115.250362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Hopland Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203179675,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466701823,
     "wof:name":"Invisanet Inc",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.250362,36.224895,-115.250362,36.224895],
+  "bbox": [
+    -115.250362,
+    36.224895,
+    -115.250362,
+    36.224895
+],
   "geometry": {"coordinates":[-115.250362,36.224895],"type":"Point"}
 }

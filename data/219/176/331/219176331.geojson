@@ -2,13 +2,14 @@
   "id": 219176331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.181985,36.142579,-115.181985,36.142579",
     "geom:latitude":36.142579,
     "geom:longitude":-115.181985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Richfield Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219176331,
-    "wof:lastmodified":1449072686,
+    "wof:lastmodified":1466701916,
     "wof:name":"Cs Enterprises of Las Vegas L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.181985,36.142579,-115.181985,36.142579],
+  "bbox": [
+    -115.181985,
+    36.142579,
+    -115.181985,
+    36.142579
+],
   "geometry": {"coordinates":[-115.181985,36.142579],"type":"Point"}
 }

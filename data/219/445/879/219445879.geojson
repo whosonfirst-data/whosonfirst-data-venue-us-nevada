@@ -2,13 +2,14 @@
   "id": 219445879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.871919,39.494211,-119.871919,39.494211",
     "geom:latitude":39.494211,
     "geom:longitude":-119.871919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4155 Longknife Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219445879,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466703860,
     "wof:name":"Untouring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "seminar"
     ]
 },
-  "bbox": [-119.871919,39.494211,-119.871919,39.494211],
-  "geometry": {"coordinates":[-119.871919,39.494211],"type":"Point"}
+  "bbox": [
+    -119.871919,
+    39.494211,
+    -119.871919,
+    39.494211
+],
+  "geometry": {"coordinates":[-119.87191900000001,39.494211],"type":"Point"}
 }

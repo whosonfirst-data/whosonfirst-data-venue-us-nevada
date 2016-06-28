@@ -2,13 +2,14 @@
   "id": 219763369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243153,36.165346,-115.243153,36.165346",
     "geom:latitude":36.165346,
     "geom:longitude":-115.243153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6736 Bremerton Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219763369,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466704972,
     "wof:name":"Dog Toys & Accessories",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.243153,36.165346,-115.243153,36.165346],
-  "geometry": {"coordinates":[-115.243153,36.165346],"type":"Point"}
+  "bbox": [
+    -115.243153,
+    36.165346,
+    -115.243153,
+    36.165346
+],
+  "geometry": {"coordinates":[-115.24315300000001,36.165346],"type":"Point"}
 }

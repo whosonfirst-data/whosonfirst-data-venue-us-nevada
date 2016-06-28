@@ -2,13 +2,14 @@
   "id": 219434035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.323048,36.20665,-115.323048,36.20665",
     "geom:latitude":36.20665,
     "geom:longitude":-115.323048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10433 Button Willow Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219434035,
-    "wof:lastmodified":1449071163,
+    "wof:lastmodified":1466703795,
     "wof:name":"Interactive Consultants Inc",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.323048,36.20665,-115.323048,36.20665],
+  "bbox": [
+    -115.323048,
+    36.20665,
+    -115.323048,
+    36.20665
+],
   "geometry": {"coordinates":[-115.323048,36.20665],"type":"Point"}
 }

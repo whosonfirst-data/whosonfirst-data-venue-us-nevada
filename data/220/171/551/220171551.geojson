@@ -2,13 +2,14 @@
   "id": 220171551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78451,39.282009,-119.78451,39.282009",
     "geom:latitude":39.282009,
     "geom:longitude":-119.78451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Lake Shore Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220171551,
-    "wof:lastmodified":1449074885,
+    "wof:lastmodified":1466702891,
     "wof:name":"Shanes Custom Woodworking",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-119.78451,39.282009,-119.78451,39.282009],
+  "bbox": [
+    -119.78451,
+    39.282009,
+    -119.78451,
+    39.282009
+],
   "geometry": {"coordinates":[-119.78451,39.282009],"type":"Point"}
 }

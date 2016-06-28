@@ -2,13 +2,14 @@
   "id": 219286239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774736,38.958262,-119.774736,38.958262",
     "geom:latitude":38.958262,
     "geom:longitude":-119.774736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1681 US Hwy 395 N",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219286239,
-    "wof:lastmodified":1449071322,
+    "wof:lastmodified":1466702908,
     "wof:name":"Depo 395",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774736,38.958262,-119.774736,38.958262],
+  "bbox": [
+    -119.774736,
+    38.958262,
+    -119.774736,
+    38.958262
+],
   "geometry": {"coordinates":[-119.774736,38.958262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354290201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288492,36.161228,-115.288492,36.161228",
     "geom:latitude":36.161228,
     "geom:longitude":-115.288492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Boca Park Marketplace 8800 W Charleston, Ste 29",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354290201,
-    "wof:lastmodified":1449066656,
+    "wof:lastmodified":1466705651,
     "wof:name":"Radio Shack",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.288492,36.161228,-115.288492,36.161228],
-  "geometry": {"coordinates":[-115.288492,36.161228],"type":"Point"}
+  "bbox": [
+    -115.288492,
+    36.161228,
+    -115.288492,
+    36.161228
+],
+  "geometry": {"coordinates":[-115.28849200000001,36.161228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354090577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115857,36.186229,-115.115857,36.186229",
     "geom:latitude":36.186229,
     "geom:longitude":-115.115857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 N Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354090577,
-    "wof:lastmodified":1449067287,
+    "wof:lastmodified":1466703881,
     "wof:name":"Canton Chinese Cuisine",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.115857,36.186229,-115.115857,36.186229],
-  "geometry": {"coordinates":[-115.115857,36.186229],"type":"Point"}
+  "bbox": [
+    -115.115857,
+    36.186229,
+    -115.115857,
+    36.186229
+],
+  "geometry": {"coordinates":[-115.11585700000001,36.186229],"type":"Point"}
 }

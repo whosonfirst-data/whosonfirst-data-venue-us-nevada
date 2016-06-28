@@ -2,13 +2,14 @@
   "id": 220104551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225487,36.228775,-115.225487,36.228775",
     "geom:latitude":36.228775,
     "geom:longitude":-115.225487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 N Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220104551,
-    "wof:lastmodified":1449074365,
+    "wof:lastmodified":1466702410,
     "wof:name":"Splash N Dash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.225487,36.228775,-115.225487,36.228775],
+  "bbox": [
+    -115.225487,
+    36.228775,
+    -115.225487,
+    36.228775
+],
   "geometry": {"coordinates":[-115.225487,36.228775],"type":"Point"}
 }

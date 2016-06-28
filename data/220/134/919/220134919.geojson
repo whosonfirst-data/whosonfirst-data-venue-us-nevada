@@ -2,13 +2,14 @@
   "id": 220134919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301091,36.106015,-115.301091,36.106015",
     "geom:latitude":36.106015,
     "geom:longitude":-115.301091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9523 Malasana Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220134919,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466702662,
     "wof:name":"Class Acts Entertainment",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "casting"
     ]
 },
-  "bbox": [-115.301091,36.106015,-115.301091,36.106015],
+  "bbox": [
+    -115.301091,
+    36.106015,
+    -115.301091,
+    36.106015
+],
   "geometry": {"coordinates":[-115.301091,36.106015],"type":"Point"}
 }

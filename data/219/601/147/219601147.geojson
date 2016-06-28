@@ -2,13 +2,14 @@
   "id": 219601147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189659,36.181192,-115.189659,36.181192",
     "geom:latitude":36.181192,
     "geom:longitude":-115.189659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Pyramid Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":219601147,
-    "wof:lastmodified":1449071979,
+    "wof:lastmodified":1466702933,
     "wof:name":"Tirzas Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.189659,36.181192,-115.189659,36.181192],
-  "geometry": {"coordinates":[-115.189659,36.181192],"type":"Point"}
+  "bbox": [
+    -115.189659,
+    36.181192,
+    -115.189659,
+    36.181192
+],
+  "geometry": {"coordinates":[-115.18965900000001,36.181192],"type":"Point"}
 }

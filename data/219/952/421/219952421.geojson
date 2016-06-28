@@ -2,13 +2,14 @@
   "id": 219952421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.937474,40.638773,-116.937474,40.638773",
     "geom:latitude":40.638773,
     "geom:longitude":-116.937474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 S Reese St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219952421,
-    "wof:lastmodified":1449072941,
+    "wof:lastmodified":1466705939,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.937474,40.638773,-116.937474,40.638773],
-  "geometry": {"coordinates":[-116.937474,40.638773],"type":"Point"}
+  "bbox": [
+    -116.937474,
+    40.638773,
+    -116.937474,
+    40.638773
+],
+  "geometry": {"coordinates":[-116.93747399999999,40.638773],"type":"Point"}
 }

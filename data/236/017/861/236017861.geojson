@@ -2,13 +2,14 @@
   "id": 236017861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801714,39.54664,-119.801714,39.54664",
     "geom:latitude":39.54664,
     "geom:longitude":-119.801714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Wedekind Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236017861,
-    "wof:lastmodified":1449003404,
+    "wof:lastmodified":1466703854,
     "wof:name":"Iglesia Adventista Septimo Dia",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.801714,39.54664,-119.801714,39.54664],
+  "bbox": [
+    -119.801714,
+    39.54664,
+    -119.801714,
+    39.54664
+],
   "geometry": {"coordinates":[-119.801714,39.54664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236852863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.344553,36.137226,-115.344553,36.137226",
     "geom:latitude":36.137226,
     "geom:longitude":-115.344553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2760 Peaceful Grove St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236852863,
-    "wof:lastmodified":1449004574,
+    "wof:lastmodified":1466706735,
     "wof:name":"Multi 7",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.344553,36.137226,-115.344553,36.137226],
+  "bbox": [
+    -115.344553,
+    36.137226,
+    -115.344553,
+    36.137226
+],
   "geometry": {"coordinates":[-115.344553,36.137226],"type":"Point"}
 }

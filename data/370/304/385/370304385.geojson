@@ -2,13 +2,14 @@
   "id": 370304385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.052287,36.239741,-115.052287,36.239741",
     "geom:latitude":36.239741,
     "geom:longitude":-115.052287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4349 Duffer Drive",
     "sg:city":"Nellis AFB",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370304385,
-    "wof:lastmodified":1449031616,
+    "wof:lastmodified":1466704508,
     "wof:name":"Catholic Charities of Southern Las Vegas",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "community"
     ]
 },
-  "bbox": [-115.052287,36.239741,-115.052287,36.239741],
-  "geometry": {"coordinates":[-115.052287,36.239741],"type":"Point"}
+  "bbox": [
+    -115.052287,
+    36.239741,
+    -115.052287,
+    36.239741
+],
+  "geometry": {"coordinates":[-115.05228700000001,36.239741],"type":"Point"}
 }

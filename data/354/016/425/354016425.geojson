@@ -2,13 +2,14 @@
   "id": 354016425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.0,36.035198,-115.0,36.035198",
     "geom:latitude":36.035198,
     "geom:longitude":-115.0,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354016425,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1466701921,
     "wof:name":"Fremont Medical Center",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.0,36.035198,-115.0,36.035198],
+  "bbox": [
+    -115.0,
+    36.035198,
+    -115.0,
+    36.035198
+],
   "geometry": {"coordinates":[-115.0,36.035198],"type":"Point"}
 }

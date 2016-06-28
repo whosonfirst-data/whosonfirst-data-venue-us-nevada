@@ -2,13 +2,14 @@
   "id": 252713499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.063996,36.809444,-114.063996,36.809444",
     "geom:latitude":36.809444,
     "geom:longitude":-114.063996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Sandhill Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252713499,
-    "wof:lastmodified":1449006409,
+    "wof:lastmodified":1466701589,
     "wof:name":"Mojave Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-114.063996,36.809444,-114.063996,36.809444],
+  "bbox": [
+    -114.063996,
+    36.809444,
+    -114.063996,
+    36.809444
+],
   "geometry": {"coordinates":[-114.063996,36.809444],"type":"Point"}
 }

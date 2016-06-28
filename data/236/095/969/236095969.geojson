@@ -2,13 +2,14 @@
   "id": 236095969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062334,36.159452,-115.062334,36.159452",
     "geom:latitude":36.159452,
     "geom:longitude":-115.062334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236095969,
-    "wof:lastmodified":1449003310,
+    "wof:lastmodified":1466704189,
     "wof:name":"Goodwill Inds Southern Nev Inc",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.062334,36.159452,-115.062334,36.159452],
-  "geometry": {"coordinates":[-115.062334,36.159452],"type":"Point"}
+  "bbox": [
+    -115.062334,
+    36.159452,
+    -115.062334,
+    36.159452
+],
+  "geometry": {"coordinates":[-115.06233400000001,36.159452],"type":"Point"}
 }

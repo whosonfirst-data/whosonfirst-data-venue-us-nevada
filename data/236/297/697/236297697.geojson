@@ -2,13 +2,14 @@
   "id": 236297697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.763748,40.832902,-115.763748,40.832902",
     "geom:latitude":40.832902,
     "geom:longitude":-115.763748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236297697,
-    "wof:lastmodified":1449003810,
+    "wof:lastmodified":1466704823,
     "wof:name":"Read & Powell LLP Cpas",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-115.763748,40.832902,-115.763748,40.832902],
-  "geometry": {"coordinates":[-115.763748,40.832902],"type":"Point"}
+  "bbox": [
+    -115.763748,
+    40.832902,
+    -115.763748,
+    40.832902
+],
+  "geometry": {"coordinates":[-115.76374800000001,40.832902],"type":"Point"}
 }

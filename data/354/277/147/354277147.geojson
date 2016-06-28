@@ -2,13 +2,14 @@
   "id": 354277147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.249835,36.069396,-115.249835,36.069396",
     "geom:latitude":36.069396,
     "geom:longitude":-115.249835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7255 W Sunset Rd. #1035",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354277147,
-    "wof:lastmodified":1449066133,
+    "wof:lastmodified":1466705452,
     "wof:name":"A&R Movers",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.249835,36.069396,-115.249835,36.069396],
+  "bbox": [
+    -115.249835,
+    36.069396,
+    -115.249835,
+    36.069396
+],
   "geometry": {"coordinates":[-115.249835,36.069396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370204921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.342657,36.1762,-115.342657,36.1762",
     "geom:latitude":36.1762,
     "geom:longitude":-115.342657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Bamboo Forest Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370204921,
-    "wof:lastmodified":1449032581,
+    "wof:lastmodified":1466702642,
     "wof:name":"Alpha Home Inspection",
     "wof:parent_id":85892647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "inspector"
     ]
 },
-  "bbox": [-115.342657,36.1762,-115.342657,36.1762],
+  "bbox": [
+    -115.342657,
+    36.1762,
+    -115.342657,
+    36.1762
+],
   "geometry": {"coordinates":[-115.342657,36.1762],"type":"Point"}
 }

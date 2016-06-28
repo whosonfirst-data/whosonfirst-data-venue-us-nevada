@@ -2,13 +2,14 @@
   "id": 203420429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72781,39.555211,-119.72781,39.555211",
     "geom:latitude":39.555211,
     "geom:longitude":-119.72781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Carvin Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203420429,
-    "wof:lastmodified":1449025825,
+    "wof:lastmodified":1466703404,
     "wof:name":"Corrie Barriage",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "power"
     ]
 },
-  "bbox": [-119.72781,39.555211,-119.72781,39.555211],
-  "geometry": {"coordinates":[-119.72781,39.555211],"type":"Point"}
+  "bbox": [
+    -119.72781,
+    39.555211,
+    -119.72781,
+    39.555211
+],
+  "geometry": {"coordinates":[-119.72781000000001,39.555211],"type":"Point"}
 }

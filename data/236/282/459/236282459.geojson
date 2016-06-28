@@ -2,13 +2,14 @@
   "id": 236282459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.048461,36.215155,-116.048461,36.215155",
     "geom:latitude":36.215155,
     "geom:longitude":-116.048461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 Horn Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236282459,
-    "wof:lastmodified":1449003766,
+    "wof:lastmodified":1466704415,
     "wof:name":"Ronald M Cornwell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.048461,36.215155,-116.048461,36.215155],
+  "bbox": [
+    -116.048461,
+    36.215155,
+    -116.048461,
+    36.215155
+],
   "geometry": {"coordinates":[-116.048461,36.215155],"type":"Point"}
 }

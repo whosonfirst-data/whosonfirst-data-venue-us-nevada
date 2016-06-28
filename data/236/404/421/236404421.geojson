@@ -2,13 +2,14 @@
   "id": 236404421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.31618,36.191476,-115.31618,36.191476",
     "geom:latitude":36.191476,
     "geom:longitude":-115.31618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Crestdale Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236404421,
-    "wof:lastmodified":1449003921,
+    "wof:lastmodified":1466705378,
     "wof:name":"Storage At Summerlin",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.31618,36.191476,-115.31618,36.191476],
+  "bbox": [
+    -115.31618,
+    36.191476,
+    -115.31618,
+    36.191476
+],
   "geometry": {"coordinates":[-115.31618,36.191476],"type":"Point"}
 }

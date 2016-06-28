@@ -2,13 +2,14 @@
   "id": 370310731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753265,39.556413,-119.753265,39.556413",
     "geom:latitude":39.556413,
     "geom:longitude":-119.753265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 N Mccarran Blvd Ste 102",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370310731,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466704680,
     "wof:name":"Williamson Shane I MD Ph.D.",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "ophthalmology"
     ]
 },
-  "bbox": [-119.753265,39.556413,-119.753265,39.556413],
+  "bbox": [
+    -119.753265,
+    39.556413,
+    -119.753265,
+    39.556413
+],
   "geometry": {"coordinates":[-119.753265,39.556413],"type":"Point"}
 }

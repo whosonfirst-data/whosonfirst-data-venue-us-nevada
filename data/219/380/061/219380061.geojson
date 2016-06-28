@@ -2,13 +2,14 @@
   "id": 219380061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.702324,39.555095,-119.702324,39.555095",
     "geom:latitude":39.555095,
     "geom:longitude":-119.702324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Venezia Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219380061,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1466703520,
     "wof:name":"9-1-1 Consulting Group Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.702324,39.555095,-119.702324,39.555095],
+  "bbox": [
+    -119.702324,
+    39.555095,
+    -119.702324,
+    39.555095
+],
   "geometry": {"coordinates":[-119.702324,39.555095],"type":"Point"}
 }

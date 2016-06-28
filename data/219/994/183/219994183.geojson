@@ -2,13 +2,14 @@
   "id": 219994183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092846,35.974875,-115.092846,35.974875",
     "geom:latitude":35.974875,
     "geom:longitude":-115.092846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 Stansbury Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219994183,
-    "wof:lastmodified":1449070549,
+    "wof:lastmodified":1466706067,
     "wof:name":"Vicki Visconti Tilley Art",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-115.092846,35.974875,-115.092846,35.974875],
-  "geometry": {"coordinates":[-115.092846,35.974875],"type":"Point"}
+  "bbox": [
+    -115.092846,
+    35.974875,
+    -115.092846,
+    35.974875
+],
+  "geometry": {"coordinates":[-115.09284599999999,35.974875],"type":"Point"}
 }

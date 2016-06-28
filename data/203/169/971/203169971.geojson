@@ -2,13 +2,14 @@
   "id": 203169971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.281527,36.240972,-115.281527,36.240972",
     "geom:latitude":36.240972,
     "geom:longitude":-115.281527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4375 N Bonita Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203169971,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466701742,
     "wof:name":"Transco Industries",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.281527,36.240972,-115.281527,36.240972],
+  "bbox": [
+    -115.281527,
+    36.240972,
+    -115.281527,
+    36.240972
+],
   "geometry": {"coordinates":[-115.281527,36.240972],"type":"Point"}
 }

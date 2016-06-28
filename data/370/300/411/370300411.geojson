@@ -2,13 +2,14 @@
   "id": 370300411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.275502,36.020381,-115.275502,36.020381",
     "geom:latitude":36.020381,
     "geom:longitude":-115.275502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8532 Blue Diamond Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370300411,
-    "wof:lastmodified":1449030973,
+    "wof:lastmodified":1466704592,
     "wof:name":"Tire Works Total Car Care",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.275502,36.020381,-115.275502,36.020381],
+  "bbox": [
+    -115.275502,
+    36.020381,
+    -115.275502,
+    36.020381
+],
   "geometry": {"coordinates":[-115.275502,36.020381],"type":"Point"}
 }

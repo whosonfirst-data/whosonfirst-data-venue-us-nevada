@@ -2,13 +2,14 @@
   "id": 236903747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.793832,39.474926,-118.793832,39.474926",
     "geom:latitude":39.474926,
     "geom:longitude":-118.793832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236903747,
-    "wof:lastmodified":1449001823,
+    "wof:lastmodified":1466706901,
     "wof:name":"Panaderia Azteca Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-118.793832,39.474926,-118.793832,39.474926],
-  "geometry": {"coordinates":[-118.793832,39.474926],"type":"Point"}
+  "bbox": [
+    -118.793832,
+    39.474926,
+    -118.793832,
+    39.474926
+],
+  "geometry": {"coordinates":[-118.79383199999999,39.474926],"type":"Point"}
 }

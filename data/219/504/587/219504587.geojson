@@ -2,13 +2,14 @@
   "id": 219504587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.990539,36.191986,-115.990539,36.191986",
     "geom:latitude":36.191986,
     "geom:longitude":-115.990539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1541 E Calvada Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219504587,
-    "wof:lastmodified":1449071009,
+    "wof:lastmodified":1466704170,
     "wof:name":"Mercy Air Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air"
     ]
 },
-  "bbox": [-115.990539,36.191986,-115.990539,36.191986],
+  "bbox": [
+    -115.990539,
+    36.191986,
+    -115.990539,
+    36.191986
+],
   "geometry": {"coordinates":[-115.990539,36.191986],"type":"Point"}
 }

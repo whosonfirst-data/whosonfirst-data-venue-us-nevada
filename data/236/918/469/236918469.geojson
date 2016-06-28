@@ -2,13 +2,14 @@
   "id": 236918469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.059362,36.267975,-115.059362,36.267975",
     "geom:latitude":36.267975,
     "geom:longitude":-115.059362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5910 Range Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236918469,
-    "wof:lastmodified":1449003988,
+    "wof:lastmodified":1466706835,
     "wof:name":"All Star Transit Mix",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "line"
     ]
 },
-  "bbox": [-115.059362,36.267975,-115.059362,36.267975],
-  "geometry": {"coordinates":[-115.059362,36.267975],"type":"Point"}
+  "bbox": [
+    -115.059362,
+    36.267975,
+    -115.059362,
+    36.267975
+],
+  "geometry": {"coordinates":[-115.05936199999999,36.267975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370322805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822671,39.529728,-119.822671,39.529728",
     "geom:latitude":39.529728,
     "geom:longitude":-119.822671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W 5th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370322805,
-    "wof:lastmodified":1449029029,
+    "wof:lastmodified":1466704608,
     "wof:name":"Matterhorn Swiss Bakery",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.822671,39.529728,-119.822671,39.529728],
+  "bbox": [
+    -119.822671,
+    39.529728,
+    -119.822671,
+    39.529728
+],
   "geometry": {"coordinates":[-119.822671,39.529728],"type":"Point"}
 }

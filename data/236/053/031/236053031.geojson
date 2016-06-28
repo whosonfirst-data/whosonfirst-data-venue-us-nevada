@@ -2,13 +2,14 @@
   "id": 236053031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.693043,39.612516,-119.693043,39.612516",
     "geom:latitude":39.612516,
     "geom:longitude":-119.693043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6455 Sun Flag Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236053031,
-    "wof:lastmodified":1449002144,
+    "wof:lastmodified":1466703969,
     "wof:name":"Adrian Davis Presents",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-119.693043,39.612516,-119.693043,39.612516],
+  "bbox": [
+    -119.693043,
+    39.612516,
+    -119.693043,
+    39.612516
+],
   "geometry": {"coordinates":[-119.693043,39.612516],"type":"Point"}
 }

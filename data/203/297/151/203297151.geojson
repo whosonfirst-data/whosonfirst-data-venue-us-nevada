@@ -2,13 +2,14 @@
   "id": 203297151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.849112,35.962166,-114.849112,35.962166",
     "geom:latitude":35.962166,
     "geom:longitude":-114.849112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Sunrise Cir",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203297151,
-    "wof:lastmodified":1449026179,
+    "wof:lastmodified":1466702808,
     "wof:name":"Carroll Family Trust LLC",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.849112,35.962166,-114.849112,35.962166],
-  "geometry": {"coordinates":[-114.849112,35.962166],"type":"Point"}
+  "bbox": [
+    -114.849112,
+    35.962166,
+    -114.849112,
+    35.962166
+],
+  "geometry": {"coordinates":[-114.84911200000001,35.962166],"type":"Point"}
 }

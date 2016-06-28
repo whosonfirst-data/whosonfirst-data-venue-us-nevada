@@ -2,13 +2,14 @@
   "id": 220179903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.061582,36.236324,-115.061582,36.236324",
     "geom:latitude":36.236324,
     "geom:longitude":-115.061582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4365 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220179903,
-    "wof:lastmodified":1449074789,
+    "wof:lastmodified":1466702954,
     "wof:name":"Jet Cleaners",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-115.061582,36.236324,-115.061582,36.236324],
+  "bbox": [
+    -115.061582,
+    36.236324,
+    -115.061582,
+    36.236324
+],
   "geometry": {"coordinates":[-115.061582,36.236324],"type":"Point"}
 }

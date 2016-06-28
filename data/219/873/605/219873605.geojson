@@ -2,13 +2,14 @@
   "id": 219873605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.081977,36.191723,-116.081977,36.191723",
     "geom:latitude":36.191723,
     "geom:longitude":-116.081977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Sutton Dr",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219873605,
-    "wof:lastmodified":1449071132,
+    "wof:lastmodified":1466705406,
     "wof:name":"A C Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-116.081977,36.191723,-116.081977,36.191723],
-  "geometry": {"coordinates":[-116.081977,36.191723],"type":"Point"}
+  "bbox": [
+    -116.081977,
+    36.191723,
+    -116.081977,
+    36.191723
+],
+  "geometry": {"coordinates":[-116.08197699999999,36.191723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370332953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74916,39.448563,-119.74916,39.448563",
     "geom:latitude":39.448563,
     "geom:longitude":-119.74916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9080 Double Diamond Pkwy Suite A3",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":370332953,
-    "wof:lastmodified":1449030949,
+    "wof:lastmodified":1466704879,
     "wof:name":"JoDog Sport Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.74916,39.448563,-119.74916,39.448563],
+  "bbox": [
+    -119.74916,
+    39.448563,
+    -119.74916,
+    39.448563
+],
   "geometry": {"coordinates":[-119.74916,39.448563],"type":"Point"}
 }

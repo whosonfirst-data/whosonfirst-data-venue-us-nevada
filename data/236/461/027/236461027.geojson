@@ -2,13 +2,14 @@
   "id": 236461027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318435,36.233005,-115.318435,36.233005",
     "geom:latitude":36.233005,
     "geom:longitude":-115.318435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10550 W Alexander Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236461027,
-    "wof:lastmodified":1449002786,
+    "wof:lastmodified":1466705536,
     "wof:name":"Changes Interior Redesign",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.318435,36.233005,-115.318435,36.233005],
-  "geometry": {"coordinates":[-115.318435,36.233005],"type":"Point"}
+  "bbox": [
+    -115.318435,
+    36.233005,
+    -115.318435,
+    36.233005
+],
+  "geometry": {"coordinates":[-115.31843499999999,36.233005],"type":"Point"}
 }

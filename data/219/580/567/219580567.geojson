@@ -2,13 +2,14 @@
   "id": 219580567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185902,35.986287,-115.185902,35.986287",
     "geom:latitude":35.986287,
     "geom:longitude":-115.185902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11129 Alora St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219580567,
-    "wof:lastmodified":1449072771,
+    "wof:lastmodified":1466702749,
     "wof:name":"Integrita Systems LLC",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-115.185902,35.986287,-115.185902,35.986287],
+  "bbox": [
+    -115.185902,
+    35.986287,
+    -115.185902,
+    35.986287
+],
   "geometry": {"coordinates":[-115.185902,35.986287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203344043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.253612,39.608188,-119.253612,39.608188",
     "geom:latitude":39.608188,
     "geom:longitude":-119.253612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 West St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203344043,
-    "wof:lastmodified":1449025045,
+    "wof:lastmodified":1466703109,
     "wof:name":"Title Service & Escrow Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-119.253612,39.608188,-119.253612,39.608188],
+  "bbox": [
+    -119.253612,
+    39.608188,
+    -119.253612,
+    39.608188
+],
   "geometry": {"coordinates":[-119.253612,39.608188],"type":"Point"}
 }

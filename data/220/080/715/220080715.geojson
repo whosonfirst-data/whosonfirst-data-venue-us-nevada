@@ -2,13 +2,14 @@
   "id": 220080715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766696,39.174015,-119.766696,39.174015",
     "geom:latitude":39.174015,
     "geom:longitude":-119.766696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Long St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220080715,
-    "wof:lastmodified":1449074855,
+    "wof:lastmodified":1466702268,
     "wof:name":"Parole & Probation Dst I Off",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parole"
     ]
 },
-  "bbox": [-119.766696,39.174015,-119.766696,39.174015],
+  "bbox": [
+    -119.766696,
+    39.174015,
+    -119.766696,
+    39.174015
+],
   "geometry": {"coordinates":[-119.766696,39.174015],"type":"Point"}
 }

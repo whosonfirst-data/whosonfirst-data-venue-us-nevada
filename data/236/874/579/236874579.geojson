@@ -2,13 +2,14 @@
   "id": 236874579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252291,36.159181,-115.252291,36.159181",
     "geom:latitude":36.159181,
     "geom:longitude":-115.252291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236874579,
-    "wof:lastmodified":1449004995,
+    "wof:lastmodified":1466706774,
     "wof:name":"Salon West",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.252291,36.159181,-115.252291,36.159181],
+  "bbox": [
+    -115.252291,
+    36.159181,
+    -115.252291,
+    36.159181
+],
   "geometry": {"coordinates":[-115.252291,36.159181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219668835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256096,36.192662,-115.256096,36.192662",
     "geom:latitude":36.192662,
     "geom:longitude":-115.256096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1848 Pacific Terrace Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219668835,
-    "wof:lastmodified":1449072852,
+    "wof:lastmodified":1466704155,
     "wof:name":"Paris Studio of Photography",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.256096,36.192662,-115.256096,36.192662],
+  "bbox": [
+    -115.256096,
+    36.192662,
+    -115.256096,
+    36.192662
+],
   "geometry": {"coordinates":[-115.256096,36.192662],"type":"Point"}
 }

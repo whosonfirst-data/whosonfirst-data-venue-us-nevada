@@ -2,13 +2,14 @@
   "id": 236046085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142072,36.162502,-115.142072,36.162502",
     "geom:latitude":36.162502,
     "geom:longitude":-115.142072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S 7th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236046085,
-    "wof:lastmodified":1449003492,
+    "wof:lastmodified":1466703942,
     "wof:name":"Laura Fitzsimmons",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.142072,36.162502,-115.142072,36.162502],
+  "bbox": [
+    -115.142072,
+    36.162502,
+    -115.142072,
+    36.162502
+],
   "geometry": {"coordinates":[-115.142072,36.162502],"type":"Point"}
 }

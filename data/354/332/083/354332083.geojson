@@ -2,13 +2,14 @@
   "id": 354332083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185997,36.079399,-115.185997,36.079399",
     "geom:latitude":36.079399,
     "geom:longitude":-115.185997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6065 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354332083,
-    "wof:lastmodified":1449066896,
+    "wof:lastmodified":1466705926,
     "wof:name":"Bekins Agent",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "self"
     ]
 },
-  "bbox": [-115.185997,36.079399,-115.185997,36.079399],
+  "bbox": [
+    -115.185997,
+    36.079399,
+    -115.185997,
+    36.079399
+],
   "geometry": {"coordinates":[-115.185997,36.079399],"type":"Point"}
 }

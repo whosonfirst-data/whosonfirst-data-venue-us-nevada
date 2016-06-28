@@ -2,13 +2,14 @@
   "id": 203282711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.108505,36.109765,-115.108505,36.109765",
     "geom:latitude":36.109765,
     "geom:longitude":-115.108505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3023 Van Buskirk Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203282711,
-    "wof:lastmodified":1449026139,
+    "wof:lastmodified":1466702715,
     "wof:name":"Art Lmg Designs",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.108505,36.109765,-115.108505,36.109765],
-  "geometry": {"coordinates":[-115.108505,36.109765],"type":"Point"}
+  "bbox": [
+    -115.108505,
+    36.109765,
+    -115.108505,
+    36.109765
+],
+  "geometry": {"coordinates":[-115.10850499999999,36.109765],"type":"Point"}
 }

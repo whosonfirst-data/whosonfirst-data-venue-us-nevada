@@ -2,13 +2,14 @@
   "id": 236114383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.124241,35.98587,-115.124241,35.98587",
     "geom:latitude":35.98587,
     "geom:longitude":-115.124241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 Majestic Shadows Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236114383,
-    "wof:lastmodified":1449002946,
+    "wof:lastmodified":1466701821,
     "wof:name":"2nd To None Modeling Agency",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modeling"
     ]
 },
-  "bbox": [-115.124241,35.98587,-115.124241,35.98587],
+  "bbox": [
+    -115.124241,
+    35.98587,
+    -115.124241,
+    35.98587
+],
   "geometry": {"coordinates":[-115.124241,35.98587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203198523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.326292,36.137713,-115.326292,36.137713",
     "geom:latitude":36.137713,
     "geom:longitude":-115.326292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10715 Hobbiton Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203198523,
-    "wof:lastmodified":1449025601,
+    "wof:lastmodified":1466702035,
     "wof:name":"Pd Landscaping",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.326292,36.137713,-115.326292,36.137713],
+  "bbox": [
+    -115.326292,
+    36.137713,
+    -115.326292,
+    36.137713
+],
   "geometry": {"coordinates":[-115.326292,36.137713],"type":"Point"}
 }

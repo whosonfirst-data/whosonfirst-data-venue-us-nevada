@@ -2,13 +2,14 @@
   "id": 236348891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.275032,36.216187,-115.275032,36.216187",
     "geom:latitude":36.216187,
     "geom:longitude":-115.275032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8304 Surfs Up Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236348891,
-    "wof:lastmodified":1449001787,
+    "wof:lastmodified":1466705010,
     "wof:name":"Sunrise Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.275032,36.216187,-115.275032,36.216187],
+  "bbox": [
+    -115.275032,
+    36.216187,
+    -115.275032,
+    36.216187
+],
   "geometry": {"coordinates":[-115.275032,36.216187],"type":"Point"}
 }

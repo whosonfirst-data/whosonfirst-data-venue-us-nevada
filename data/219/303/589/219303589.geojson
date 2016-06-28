@@ -2,13 +2,14 @@
   "id": 219303589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752651,39.528095,-119.752651,39.528095",
     "geom:latitude":39.528095,
     "geom:longitude":-119.752651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Dermody Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219303589,
-    "wof:lastmodified":1449070410,
+    "wof:lastmodified":1466703108,
     "wof:name":"Frontier Fence Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.752651,39.528095,-119.752651,39.528095],
+  "bbox": [
+    -119.752651,
+    39.528095,
+    -119.752651,
+    39.528095
+],
   "geometry": {"coordinates":[-119.752651,39.528095],"type":"Point"}
 }

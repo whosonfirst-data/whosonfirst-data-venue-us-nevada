@@ -2,13 +2,14 @@
   "id": 370258175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299608,36.115217,-115.299608,36.115217",
     "geom:latitude":36.115217,
     "geom:longitude":-115.299608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9494 W Flamingo Rd Ste 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370258175,
-    "wof:lastmodified":1449031790,
+    "wof:lastmodified":1466703874,
     "wof:name":"Mortgage Concepts",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.299608,36.115217,-115.299608,36.115217],
-  "geometry": {"coordinates":[-115.299608,36.115217],"type":"Point"}
+  "bbox": [
+    -115.299608,
+    36.115217,
+    -115.299608,
+    36.115217
+],
+  "geometry": {"coordinates":[-115.29960800000001,36.115217],"type":"Point"}
 }

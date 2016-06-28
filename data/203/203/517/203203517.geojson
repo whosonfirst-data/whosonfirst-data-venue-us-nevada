@@ -2,13 +2,14 @@
   "id": 203203517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.590086,38.772885,-119.590086,38.772885",
     "geom:latitude":38.772885,
     "geom:longitude":-119.590086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2923 Pine Valley Rd",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203203517,
-    "wof:lastmodified":1449025751,
+    "wof:lastmodified":1466702093,
     "wof:name":"L A Pabon & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.590086,38.772885,-119.590086,38.772885],
+  "bbox": [
+    -119.590086,
+    38.772885,
+    -119.590086,
+    38.772885
+],
   "geometry": {"coordinates":[-119.590086,38.772885],"type":"Point"}
 }

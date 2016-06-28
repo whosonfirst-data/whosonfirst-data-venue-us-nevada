@@ -2,13 +2,14 @@
   "id": 236874733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218694,36.114943,-115.218694,36.114943",
     "geom:latitude":36.114943,
     "geom:longitude":-115.218694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5660 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236874733,
-    "wof:lastmodified":1449004994,
+    "wof:lastmodified":1466706777,
     "wof:name":"Walker Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.218694,36.114943,-115.218694,36.114943],
+  "bbox": [
+    -115.218694,
+    36.114943,
+    -115.218694,
+    36.114943
+],
   "geometry": {"coordinates":[-115.218694,36.114943],"type":"Point"}
 }

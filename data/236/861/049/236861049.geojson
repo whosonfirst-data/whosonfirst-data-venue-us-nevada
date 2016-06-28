@@ -2,13 +2,14 @@
   "id": 236861049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753326,39.276785,-119.753326,39.276785",
     "geom:latitude":39.276785,
     "geom:longitude":-119.753326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Blazer Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":236861049,
-    "wof:lastmodified":1449005222,
+    "wof:lastmodified":1466706739,
     "wof:name":"Reform Design Group",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "lighting"
     ]
 },
-  "bbox": [-119.753326,39.276785,-119.753326,39.276785],
+  "bbox": [
+    -119.753326,
+    39.276785,
+    -119.753326,
+    39.276785
+],
   "geometry": {"coordinates":[-119.753326,39.276785],"type":"Point"}
 }

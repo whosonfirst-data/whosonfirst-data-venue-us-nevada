@@ -2,13 +2,14 @@
   "id": 354387053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099998,36.100101,-115.099998,36.100101",
     "geom:latitude":36.100101,
     "geom:longitude":-115.099998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 E Tropicana Ave Ste 32",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354387053,
-    "wof:lastmodified":1449067433,
+    "wof:lastmodified":1466706210,
     "wof:name":"Fortunato's Italian Restaurant",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.099998,36.100101,-115.099998,36.100101],
+  "bbox": [
+    -115.099998,
+    36.100101,
+    -115.099998,
+    36.100101
+],
   "geometry": {"coordinates":[-115.099998,36.100101],"type":"Point"}
 }

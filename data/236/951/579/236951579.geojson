@@ -2,13 +2,14 @@
   "id": 236951579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.788032,39.513041,-119.788032,39.513041",
     "geom:latitude":39.513041,
     "geom:longitude":-119.788032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Vassar St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236951579,
-    "wof:lastmodified":1449001788,
+    "wof:lastmodified":1466706878,
     "wof:name":"Vassar Lounge",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-119.788032,39.513041,-119.788032,39.513041],
+  "bbox": [
+    -119.788032,
+    39.513041,
+    -119.788032,
+    39.513041
+],
   "geometry": {"coordinates":[-119.788032,39.513041],"type":"Point"}
 }

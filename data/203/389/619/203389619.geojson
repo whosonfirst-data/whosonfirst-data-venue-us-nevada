@@ -2,13 +2,14 @@
   "id": 203389619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054905,36.023123,-115.054905,36.023123",
     "geom:latitude":36.023123,
     "geom:longitude":-115.054905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Ritchie Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203389619,
-    "wof:lastmodified":1449026438,
+    "wof:lastmodified":1466703296,
     "wof:name":"Silver State Septic Svc",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-115.054905,36.023123,-115.054905,36.023123],
-  "geometry": {"coordinates":[-115.054905,36.023123],"type":"Point"}
+  "bbox": [
+    -115.054905,
+    36.023123,
+    -115.054905,
+    36.023123
+],
+  "geometry": {"coordinates":[-115.05490500000001,36.023123],"type":"Point"}
 }

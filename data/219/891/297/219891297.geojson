@@ -2,13 +2,14 @@
   "id": 219891297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757423,39.146563,-119.757423,39.146563",
     "geom:latitude":39.146563,
     "geom:longitude":-119.757423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Arizona Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219891297,
-    "wof:lastmodified":1449072517,
+    "wof:lastmodified":1466705496,
     "wof:name":"Noras Business",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.757423,39.146563,-119.757423,39.146563],
+  "bbox": [
+    -119.757423,
+    39.146563,
+    -119.757423,
+    39.146563
+],
   "geometry": {"coordinates":[-119.757423,39.146563],"type":"Point"}
 }

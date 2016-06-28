@@ -2,13 +2,14 @@
   "id": 370192415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27869,36.299103,-115.27869,36.299103",
     "geom:latitude":36.299103,
     "geom:longitude":-115.27869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 Farm Rd #110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370192415,
-    "wof:lastmodified":1449031491,
+    "wof:lastmodified":1466702324,
     "wof:name":"Doggie Stylz Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "groomers"
     ]
 },
-  "bbox": [-115.27869,36.299103,-115.27869,36.299103],
+  "bbox": [
+    -115.27869,
+    36.299103,
+    -115.27869,
+    36.299103
+],
   "geometry": {"coordinates":[-115.27869,36.299103],"type":"Point"}
 }

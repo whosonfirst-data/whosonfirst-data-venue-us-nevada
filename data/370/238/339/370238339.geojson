@@ -2,13 +2,14 @@
   "id": 370238339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24359,36.157547,-115.24359,36.157547",
     "geom:latitude":36.157547,
     "geom:longitude":-115.24359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370238339,
-    "wof:lastmodified":1449030351,
+    "wof:lastmodified":1466703426,
     "wof:name":"Wendy's Old Fashioned Hamburgers",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dog"
     ]
 },
-  "bbox": [-115.24359,36.157547,-115.24359,36.157547],
+  "bbox": [
+    -115.24359,
+    36.157547,
+    -115.24359,
+    36.157547
+],
   "geometry": {"coordinates":[-115.24359,36.157547],"type":"Point"}
 }

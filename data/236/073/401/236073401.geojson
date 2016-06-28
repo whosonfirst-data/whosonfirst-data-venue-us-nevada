@@ -2,13 +2,14 @@
   "id": 236073401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279973,36.151353,-115.279973,36.151353",
     "geom:latitude":36.151353,
     "geom:longitude":-115.279973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Iron Ridge Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236073401,
-    "wof:lastmodified":1449002018,
+    "wof:lastmodified":1466704052,
     "wof:name":"N J & Assoc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "purchasing"
     ]
 },
-  "bbox": [-115.279973,36.151353,-115.279973,36.151353],
+  "bbox": [
+    -115.279973,
+    36.151353,
+    -115.279973,
+    36.151353
+],
   "geometry": {"coordinates":[-115.279973,36.151353],"type":"Point"}
 }

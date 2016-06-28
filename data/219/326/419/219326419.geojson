@@ -2,13 +2,14 @@
   "id": 219326419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733826,39.546601,-119.733826,39.546601",
     "geom:latitude":39.546601,
     "geom:longitude":-119.733826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 N McCarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219326419,
-    "wof:lastmodified":1449071889,
+    "wof:lastmodified":1466703253,
     "wof:name":"George A Zatarain DDS Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.733826,39.546601,-119.733826,39.546601],
-  "geometry": {"coordinates":[-119.733826,39.546601],"type":"Point"}
+  "bbox": [
+    -119.733826,
+    39.546601,
+    -119.733826,
+    39.546601
+],
+  "geometry": {"coordinates":[-119.73382599999999,39.546601],"type":"Point"}
 }

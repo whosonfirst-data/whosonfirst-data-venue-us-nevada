@@ -2,13 +2,14 @@
   "id": 236072775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.718279,39.525361,-119.718279,39.525361",
     "geom:latitude":39.525361,
     "geom:longitude":-119.718279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Kleppe Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236072775,
-    "wof:lastmodified":1449003382,
+    "wof:lastmodified":1466704059,
     "wof:name":"A Action Delivery",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-119.718279,39.525361,-119.718279,39.525361],
+  "bbox": [
+    -119.718279,
+    39.525361,
+    -119.718279,
+    39.525361
+],
   "geometry": {"coordinates":[-119.718279,39.525361],"type":"Point"}
 }

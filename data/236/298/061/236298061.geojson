@@ -2,13 +2,14 @@
   "id": 236298061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.132448,36.131409,-115.132448,36.131409",
     "geom:latitude":36.131409,
     "geom:longitude":-115.132448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 Silver Mesa Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236298061,
-    "wof:lastmodified":1449002354,
+    "wof:lastmodified":1466704689,
     "wof:name":"D S Ice Cream Cart",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.132448,36.131409,-115.132448,36.131409],
+  "bbox": [
+    -115.132448,
+    36.131409,
+    -115.132448,
+    36.131409
+],
   "geometry": {"coordinates":[-115.132448,36.131409],"type":"Point"}
 }

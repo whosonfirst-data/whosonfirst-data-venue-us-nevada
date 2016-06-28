@@ -2,13 +2,14 @@
   "id": 219322389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.27543,36.237365,-115.27543,36.237365",
     "geom:latitude":36.237365,
     "geom:longitude":-115.27543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8260 Hickam Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219322389,
-    "wof:lastmodified":1449070342,
+    "wof:lastmodified":1466703236,
     "wof:name":"Pro Curb Inc",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-115.27543,36.237365,-115.27543,36.237365],
+  "bbox": [
+    -115.27543,
+    36.237365,
+    -115.27543,
+    36.237365
+],
   "geometry": {"coordinates":[-115.27543,36.237365],"type":"Point"}
 }

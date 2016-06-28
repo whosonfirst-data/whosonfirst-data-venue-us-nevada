@@ -2,13 +2,14 @@
   "id": 219671637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264849,36.206408,-115.264849,36.206408",
     "geom:latitude":36.206408,
     "geom:longitude":-115.264849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Seascape Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219671637,
-    "wof:lastmodified":1449071206,
+    "wof:lastmodified":1466704274,
     "wof:name":"Rainbow Rider Inc",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-115.264849,36.206408,-115.264849,36.206408],
+  "bbox": [
+    -115.264849,
+    36.206408,
+    -115.264849,
+    36.206408
+],
   "geometry": {"coordinates":[-115.264849,36.206408],"type":"Point"}
 }

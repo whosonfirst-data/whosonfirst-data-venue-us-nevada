@@ -2,13 +2,14 @@
   "id": 370152469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254787,36.181276,-115.254787,36.181276",
     "geom:latitude":36.181276,
     "geom:longitude":-115.254787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7591 W Washington Ave #110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370152469,
-    "wof:lastmodified":1449031707,
+    "wof:lastmodified":1466701592,
     "wof:name":"Chef Marc's Pastavino & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.254787,36.181276,-115.254787,36.181276],
-  "geometry": {"coordinates":[-115.254787,36.181276],"type":"Point"}
+  "bbox": [
+    -115.254787,
+    36.181276,
+    -115.254787,
+    36.181276
+],
+  "geometry": {"coordinates":[-115.25478699999999,36.181276],"type":"Point"}
 }

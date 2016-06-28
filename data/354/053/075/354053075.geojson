@@ -2,13 +2,14 @@
   "id": 354053075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.049706,36.033603,-115.049706,36.033603",
     "geom:latitude":36.033603,
     "geom:longitude":-115.049706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Wigwam Pkwy Ste 330",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354053075,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1466702852,
     "wof:name":"Nv Orthopedic & Spine",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.049706,36.033603,-115.049706,36.033603],
+  "bbox": [
+    -115.049706,
+    36.033603,
+    -115.049706,
+    36.033603
+],
   "geometry": {"coordinates":[-115.049706,36.033603],"type":"Point"}
 }

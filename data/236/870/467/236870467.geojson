@@ -2,13 +2,14 @@
   "id": 236870467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218633,35.997998,-115.218633,35.997998",
     "geom:latitude":35.997998,
     "geom:longitude":-115.218633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5653 San Florentine Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236870467,
-    "wof:lastmodified":1449002332,
+    "wof:lastmodified":1466706765,
     "wof:name":"Vegas Magic",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magician"
     ]
 },
-  "bbox": [-115.218633,35.997998,-115.218633,35.997998],
+  "bbox": [
+    -115.218633,
+    35.997998,
+    -115.218633,
+    35.997998
+],
   "geometry": {"coordinates":[-115.218633,35.997998],"type":"Point"}
 }

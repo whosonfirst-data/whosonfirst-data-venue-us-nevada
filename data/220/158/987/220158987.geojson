@@ -2,13 +2,14 @@
   "id": 220158987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085246,36.131299,-115.085246,36.131299",
     "geom:latitude":36.131299,
     "geom:longitude":-115.085246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220158987,
-    "wof:lastmodified":1449074591,
+    "wof:lastmodified":1466702821,
     "wof:name":"Excellent Tile & Stone",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.085246,36.131299,-115.085246,36.131299],
+  "bbox": [
+    -115.085246,
+    36.131299,
+    -115.085246,
+    36.131299
+],
   "geometry": {"coordinates":[-115.085246,36.131299],"type":"Point"}
 }

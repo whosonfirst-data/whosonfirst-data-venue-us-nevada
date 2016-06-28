@@ -2,13 +2,14 @@
   "id": 219568769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822942,39.542577,-119.822942,39.542577",
     "geom:latitude":39.542577,
     "geom:longitude":-119.822942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Citadel Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219568769,
-    "wof:lastmodified":1449070297,
+    "wof:lastmodified":1466702550,
     "wof:name":"The Detail Guys",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.822942,39.542577,-119.822942,39.542577],
+  "bbox": [
+    -119.822942,
+    39.542577,
+    -119.822942,
+    39.542577
+],
   "geometry": {"coordinates":[-119.822942,39.542577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370149523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257264,36.204136,-115.257264,36.204136",
     "geom:latitude":36.204136,
     "geom:longitude":-115.257264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Fire Mesa St Ste 180",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370149523,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1466701516,
     "wof:name":"University of Nevada School of Medicine",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-115.257264,36.204136,-115.257264,36.204136],
-  "geometry": {"coordinates":[-115.257264,36.204136],"type":"Point"}
+  "bbox": [
+    -115.257264,
+    36.204136,
+    -115.257264,
+    36.204136
+],
+  "geometry": {"coordinates":[-115.25726400000001,36.204136],"type":"Point"}
 }

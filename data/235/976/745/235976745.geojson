@@ -2,13 +2,14 @@
   "id": 235976745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.073728,36.219222,-116.073728,36.219222",
     "geom:latitude":36.219222,
     "geom:longitude":-116.073728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 W Basin Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235976745,
-    "wof:lastmodified":1449008397,
+    "wof:lastmodified":1466703645,
     "wof:name":"Leroy S Auto Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-116.073728,36.219222,-116.073728,36.219222],
+  "bbox": [
+    -116.073728,
+    36.219222,
+    -116.073728,
+    36.219222
+],
   "geometry": {"coordinates":[-116.073728,36.219222],"type":"Point"}
 }

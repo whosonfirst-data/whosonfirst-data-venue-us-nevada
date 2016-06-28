@@ -2,13 +2,14 @@
   "id": 236505851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.797982,39.473621,-119.797982,39.473621",
     "geom:latitude":39.473621,
     "geom:longitude":-119.797982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Sierra Rose Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236505851,
-    "wof:lastmodified":1449004595,
+    "wof:lastmodified":1466705965,
     "wof:name":"Bikram Yoga Reno",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-119.797982,39.473621,-119.797982,39.473621],
+  "bbox": [
+    -119.797982,
+    39.473621,
+    -119.797982,
+    39.473621
+],
   "geometry": {"coordinates":[-119.797982,39.473621],"type":"Point"}
 }

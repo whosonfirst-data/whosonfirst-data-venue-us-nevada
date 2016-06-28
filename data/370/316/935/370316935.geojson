@@ -2,13 +2,14 @@
   "id": 370316935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780757,39.494968,-119.780757,39.494968",
     "geom:latitude":39.494968,
     "geom:longitude":-119.780757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Gentry Way Ste 101",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370316935,
-    "wof:lastmodified":1449031374,
+    "wof:lastmodified":1466704838,
     "wof:name":"Peggy's Beauty Salon",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.780757,39.494968,-119.780757,39.494968],
-  "geometry": {"coordinates":[-119.780757,39.494968],"type":"Point"}
+  "bbox": [
+    -119.780757,
+    39.494968,
+    -119.780757,
+    39.494968
+],
+  "geometry": {"coordinates":[-119.78075699999999,39.494968],"type":"Point"}
 }

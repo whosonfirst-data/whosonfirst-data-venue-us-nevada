@@ -2,13 +2,14 @@
   "id": 236095205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760574,39.431758,-119.760574,39.431758",
     "geom:latitude":39.431758,
     "geom:longitude":-119.760574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11115 Old Virginia Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236095205,
-    "wof:lastmodified":1449003310,
+    "wof:lastmodified":1466704177,
     "wof:name":"K-Pet Express",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-119.760574,39.431758,-119.760574,39.431758],
-  "geometry": {"coordinates":[-119.760574,39.431758],"type":"Point"}
+  "bbox": [
+    -119.760574,
+    39.431758,
+    -119.760574,
+    39.431758
+],
+  "geometry": {"coordinates":[-119.76057400000001,39.431758],"type":"Point"}
 }

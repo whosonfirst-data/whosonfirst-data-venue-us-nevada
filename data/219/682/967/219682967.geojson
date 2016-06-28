@@ -2,13 +2,14 @@
   "id": 219682967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.535347,39.298085,-119.535347,39.298085",
     "geom:latitude":39.298085,
     "geom:longitude":-119.535347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 River Boat Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219682967,
-    "wof:lastmodified":1449071006,
+    "wof:lastmodified":1466704345,
     "wof:name":"Weldon L Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-119.535347,39.298085,-119.535347,39.298085],
+  "bbox": [
+    -119.535347,
+    39.298085,
+    -119.535347,
+    39.298085
+],
   "geometry": {"coordinates":[-119.535347,39.298085],"type":"Point"}
 }

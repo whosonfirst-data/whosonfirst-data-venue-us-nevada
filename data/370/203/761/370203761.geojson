@@ -2,13 +2,14 @@
   "id": 370203761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164403,36.132013,-115.164403,36.132013",
     "geom:latitude":36.132013,
     "geom:longitude":-115.164403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370203761,
-    "wof:lastmodified":1449030599,
+    "wof:lastmodified":1466702610,
     "wof:name":"SexxPresso",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "local"
     ]
 },
-  "bbox": [-115.164403,36.132013,-115.164403,36.132013],
-  "geometry": {"coordinates":[-115.164403,36.132013],"type":"Point"}
+  "bbox": [
+    -115.164403,
+    36.132013,
+    -115.164403,
+    36.132013
+],
+  "geometry": {"coordinates":[-115.16440299999999,36.132013],"type":"Point"}
 }

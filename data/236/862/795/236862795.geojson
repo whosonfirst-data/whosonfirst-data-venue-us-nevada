@@ -2,13 +2,14 @@
   "id": 236862795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821671,39.528485,-119.821671,39.528485",
     "geom:latitude":39.528485,
     "geom:longitude":-119.821671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236862795,
-    "wof:lastmodified":1449005349,
+    "wof:lastmodified":1466706748,
     "wof:name":"Saint Vincents Food Pantry",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.821671,39.528485,-119.821671,39.528485],
-  "geometry": {"coordinates":[-119.821671,39.528485],"type":"Point"}
+  "bbox": [
+    -119.821671,
+    39.528485,
+    -119.821671,
+    39.528485
+],
+  "geometry": {"coordinates":[-119.82167099999999,39.528485],"type":"Point"}
 }

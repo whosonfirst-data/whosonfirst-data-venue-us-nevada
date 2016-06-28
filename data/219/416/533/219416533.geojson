@@ -2,13 +2,14 @@
   "id": 219416533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.057315,36.049691,-115.057315,36.049691",
     "geom:latitude":36.049691,
     "geom:longitude":-115.057315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Keepsake Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219416533,
-    "wof:lastmodified":1449071983,
+    "wof:lastmodified":1466703726,
     "wof:name":"Look N Save",
     "wof:parent_id":85878083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.057315,36.049691,-115.057315,36.049691],
+  "bbox": [
+    -115.057315,
+    36.049691,
+    -115.057315,
+    36.049691
+],
   "geometry": {"coordinates":[-115.057315,36.049691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220021377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772881,39.170006,-119.772881,39.170006",
     "geom:latitude":39.170006,
     "geom:longitude":-119.772881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Mountain St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220021377,
-    "wof:lastmodified":1449074556,
+    "wof:lastmodified":1466701690,
     "wof:name":"Hummer Beth MD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.772881,39.170006,-119.772881,39.170006],
+  "bbox": [
+    -119.772881,
+    39.170006,
+    -119.772881,
+    39.170006
+],
   "geometry": {"coordinates":[-119.772881,39.170006],"type":"Point"}
 }

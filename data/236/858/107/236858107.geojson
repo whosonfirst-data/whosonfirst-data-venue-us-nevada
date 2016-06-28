@@ -2,13 +2,14 @@
   "id": 236858107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.054683,36.059677,-115.054683,36.059677",
     "geom:latitude":36.059677,
     "geom:longitude":-115.054683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Grimsby Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236858107,
-    "wof:lastmodified":1449001917,
+    "wof:lastmodified":1466706738,
     "wof:name":"Ace Mobile Computing",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.054683,36.059677,-115.054683,36.059677],
+  "bbox": [
+    -115.054683,
+    36.059677,
+    -115.054683,
+    36.059677
+],
   "geometry": {"coordinates":[-115.054683,36.059677],"type":"Point"}
 }

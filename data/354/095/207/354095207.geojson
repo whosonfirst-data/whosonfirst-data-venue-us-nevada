@@ -2,13 +2,14 @@
   "id": 354095207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146467,36.160675,-115.146467,36.160675",
     "geom:latitude":36.160675,
     "geom:longitude":-115.146467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354095207,
-    "wof:lastmodified":1449066789,
+    "wof:lastmodified":1466704003,
     "wof:name":"New Rock",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.146467,36.160675,-115.146467,36.160675],
+  "bbox": [
+    -115.146467,
+    36.160675,
+    -115.146467,
+    36.160675
+],
   "geometry": {"coordinates":[-115.146467,36.160675],"type":"Point"}
 }

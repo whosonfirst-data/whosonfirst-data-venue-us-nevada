@@ -2,13 +2,14 @@
   "id": 219790015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708077,39.554624,-119.708077,39.554624",
     "geom:latitude":39.554624,
     "geom:longitude":-119.708077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Fieldcrest Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219790015,
-    "wof:lastmodified":1449073108,
+    "wof:lastmodified":1466705149,
     "wof:name":"S&G Designs and Home Maintence",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.708077,39.554624,-119.708077,39.554624],
+  "bbox": [
+    -119.708077,
+    39.554624,
+    -119.708077,
+    39.554624
+],
   "geometry": {"coordinates":[-119.708077,39.554624],"type":"Point"}
 }

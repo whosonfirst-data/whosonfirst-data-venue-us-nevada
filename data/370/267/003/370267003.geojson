@@ -2,13 +2,14 @@
   "id": 370267003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.307751,36.095422,-115.307751,36.095422",
     "geom:latitude":36.095422,
     "geom:longitude":-115.307751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5158 shadow valley st",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370267003,
-    "wof:lastmodified":1449032168,
+    "wof:lastmodified":1466704126,
     "wof:name":"B n E Cleaners LLC",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.307751,36.095422,-115.307751,36.095422],
+  "bbox": [
+    -115.307751,
+    36.095422,
+    -115.307751,
+    36.095422
+],
   "geometry": {"coordinates":[-115.307751,36.095422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354026903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119649,36.202164,-115.119649,36.202164",
     "geom:latitude":36.202164,
     "geom:longitude":-115.119649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Fort Apache",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354026903,
-    "wof:lastmodified":1449066948,
+    "wof:lastmodified":1466702181,
     "wof:name":"Bosendorfer Pianos of Las Vegas",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-115.119649,36.202164,-115.119649,36.202164],
+  "bbox": [
+    -115.119649,
+    36.202164,
+    -115.119649,
+    36.202164
+],
   "geometry": {"coordinates":[-115.119649,36.202164],"type":"Point"}
 }

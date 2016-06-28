@@ -2,13 +2,14 @@
   "id": 236016605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.674171,40.792991,-115.674171,40.792991",
     "geom:latitude":40.792991,
     "geom:longitude":-115.674171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Spring Valley Pkwy",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236016605,
-    "wof:lastmodified":1449002104,
+    "wof:lastmodified":1466703843,
     "wof:name":"Gym",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-115.674171,40.792991,-115.674171,40.792991],
+  "bbox": [
+    -115.674171,
+    40.792991,
+    -115.674171,
+    40.792991
+],
   "geometry": {"coordinates":[-115.674171,40.792991],"type":"Point"}
 }

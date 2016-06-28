@@ -2,13 +2,14 @@
   "id": 354112577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20834,36.138173,-115.20834,36.138173",
     "geom:latitude":36.138173,
     "geom:longitude":-115.20834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354112577,
-    "wof:lastmodified":1449066700,
+    "wof:lastmodified":1466704360,
     "wof:name":"Villas At Painted Desert",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.20834,36.138173,-115.20834,36.138173],
-  "geometry": {"coordinates":[-115.20834,36.138173],"type":"Point"}
+  "bbox": [
+    -115.20834,
+    36.138173,
+    -115.20834,
+    36.138173
+],
+  "geometry": {"coordinates":[-115.20834000000001,36.138173],"type":"Point"}
 }

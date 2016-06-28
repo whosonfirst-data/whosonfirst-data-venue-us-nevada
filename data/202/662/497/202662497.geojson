@@ -2,13 +2,14 @@
   "id": 202662497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.943673,38.957065,-119.943673,38.957065",
     "geom:latitude":38.957065,
     "geom:longitude":-119.943673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4094 Laurel Ave",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202662497,
-    "wof:lastmodified":1449061809,
+    "wof:lastmodified":1466701453,
     "wof:name":"Pub Tahoe",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.943673,38.957065,-119.943673,38.957065],
+  "bbox": [
+    -119.943673,
+    38.957065,
+    -119.943673,
+    38.957065
+],
   "geometry": {"coordinates":[-119.943673,38.957065],"type":"Point"}
 }

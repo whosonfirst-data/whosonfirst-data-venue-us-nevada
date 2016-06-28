@@ -2,13 +2,14 @@
   "id": 203341117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.828762,38.903956,-119.828762,38.903956",
     "geom:latitude":38.903956,
     "geom:longitude":-119.828762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Eva Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203341117,
-    "wof:lastmodified":1449026789,
+    "wof:lastmodified":1466703096,
     "wof:name":"Sheridan Acres Water Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-119.828762,38.903956,-119.828762,38.903956],
+  "bbox": [
+    -119.828762,
+    38.903956,
+    -119.828762,
+    38.903956
+],
   "geometry": {"coordinates":[-119.828762,38.903956],"type":"Point"}
 }

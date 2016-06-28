@@ -2,13 +2,14 @@
   "id": 219295983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.05923,36.019328,-115.05923,36.019328",
     "geom:latitude":36.019328,
     "geom:longitude":-115.05923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1782 Clear River Falls Ln",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219295983,
-    "wof:lastmodified":1449071822,
+    "wof:lastmodified":1466703050,
     "wof:name":"VIP Vendors",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.05923,36.019328,-115.05923,36.019328],
+  "bbox": [
+    -115.05923,
+    36.019328,
+    -115.05923,
+    36.019328
+],
   "geometry": {"coordinates":[-115.05923,36.019328],"type":"Point"}
 }

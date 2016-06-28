@@ -2,13 +2,14 @@
   "id": 354016951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.956404,36.072126,-114.956404,36.072126",
     "geom:latitude":36.072126,
     "geom:longitude":-114.956404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 E Lake Mead Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354016951,
-    "wof:lastmodified":1449066232,
+    "wof:lastmodified":1466701933,
     "wof:name":"Terrible Herbst",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.956404,36.072126,-114.956404,36.072126],
-  "geometry": {"coordinates":[-114.956404,36.072126],"type":"Point"}
+  "bbox": [
+    -114.956404,
+    36.072126,
+    -114.956404,
+    36.072126
+],
+  "geometry": {"coordinates":[-114.95640400000001,36.072126],"type":"Point"}
 }

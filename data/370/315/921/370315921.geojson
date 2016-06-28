@@ -2,13 +2,14 @@
   "id": 370315921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784765,39.485447,-119.784765,39.485447",
     "geom:latitude":39.485447,
     "geom:longitude":-119.784765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 E Peckham Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370315921,
-    "wof:lastmodified":1449032290,
+    "wof:lastmodified":1466704696,
     "wof:name":"Feline Bed & Breakfast",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lodging"
     ]
 },
-  "bbox": [-119.784765,39.485447,-119.784765,39.485447],
-  "geometry": {"coordinates":[-119.784765,39.485447],"type":"Point"}
+  "bbox": [
+    -119.784765,
+    39.485447,
+    -119.784765,
+    39.485447
+],
+  "geometry": {"coordinates":[-119.78476499999999,39.485447],"type":"Point"}
 }

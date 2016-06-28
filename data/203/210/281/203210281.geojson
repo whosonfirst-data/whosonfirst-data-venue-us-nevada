@@ -2,13 +2,14 @@
   "id": 203210281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.275339,36.181563,-115.275339,36.181563",
     "geom:latitude":36.181563,
     "geom:longitude":-115.275339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 Carmel Shores Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203210281,
-    "wof:lastmodified":1449025556,
+    "wof:lastmodified":1466702154,
     "wof:name":"Joyful Praise Ministries",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.275339,36.181563,-115.275339,36.181563],
+  "bbox": [
+    -115.275339,
+    36.181563,
+    -115.275339,
+    36.181563
+],
   "geometry": {"coordinates":[-115.275339,36.181563],"type":"Point"}
 }

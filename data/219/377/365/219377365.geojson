@@ -2,13 +2,14 @@
   "id": 219377365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.975517,36.128134,-115.975517,36.128134",
     "geom:latitude":36.128134,
     "geom:longitude":-115.975517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1791 Fremont St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219377365,
-    "wof:lastmodified":1449071712,
+    "wof:lastmodified":1466703514,
     "wof:name":"Precision Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-115.975517,36.128134,-115.975517,36.128134],
+  "bbox": [
+    -115.975517,
+    36.128134,
+    -115.975517,
+    36.128134
+],
   "geometry": {"coordinates":[-115.975517,36.128134],"type":"Point"}
 }

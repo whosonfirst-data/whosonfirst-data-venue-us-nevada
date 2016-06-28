@@ -2,13 +2,14 @@
   "id": 219172997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.874047,39.547049,-118.874047,39.547049",
     "geom:latitude":39.547049,
     "geom:longitude":-118.874047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6495 Jacobs Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219172997,
-    "wof:lastmodified":1449071811,
+    "wof:lastmodified":1466701865,
     "wof:name":"Right-On-Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.874047,39.547049,-118.874047,39.547049],
+  "bbox": [
+    -118.874047,
+    39.547049,
+    -118.874047,
+    39.547049
+],
   "geometry": {"coordinates":[-118.874047,39.547049],"type":"Point"}
 }

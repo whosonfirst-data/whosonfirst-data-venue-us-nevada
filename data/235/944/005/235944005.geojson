@@ -2,13 +2,14 @@
   "id": 235944005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.779673,39.47754,-118.779673,39.47754",
     "geom:latitude":39.47754,
     "geom:longitude":-118.779673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 W B St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235944005,
-    "wof:lastmodified":1449008421,
+    "wof:lastmodified":1466704244,
     "wof:name":"Rural Cnseling Evaluation Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.779673,39.47754,-118.779673,39.47754],
+  "bbox": [
+    -118.779673,
+    39.47754,
+    -118.779673,
+    39.47754
+],
   "geometry": {"coordinates":[-118.779673,39.47754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219265355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.109514,40.710796,-116.109514,40.710796",
     "geom:latitude":40.710796,
     "geom:longitude":-116.109514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 5th St",
     "sg:city":"Carlin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219265355,
-    "wof:lastmodified":1449071603,
+    "wof:lastmodified":1466702686,
     "wof:name":"Red Tail Alliance",
     "wof:parent_id":85852339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.109514,40.710796,-116.109514,40.710796],
+  "bbox": [
+    -116.109514,
+    40.710796,
+    -116.109514,
+    40.710796
+],
   "geometry": {"coordinates":[-116.109514,40.710796],"type":"Point"}
 }

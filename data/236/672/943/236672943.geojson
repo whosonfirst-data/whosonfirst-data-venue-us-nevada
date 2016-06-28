@@ -2,13 +2,14 @@
   "id": 236672943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123227,35.98383,-115.123227,35.98383",
     "geom:latitude":35.98383,
     "geom:longitude":-115.123227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1172 Forum Veneto Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236672943,
-    "wof:lastmodified":1449001837,
+    "wof:lastmodified":1466706589,
     "wof:name":"Search Information Services",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.123227,35.98383,-115.123227,35.98383],
+  "bbox": [
+    -115.123227,
+    35.98383,
+    -115.123227,
+    35.98383
+],
   "geometry": {"coordinates":[-115.123227,35.98383],"type":"Point"}
 }

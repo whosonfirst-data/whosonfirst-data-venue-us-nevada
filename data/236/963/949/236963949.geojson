@@ -2,13 +2,14 @@
   "id": 236963949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741646,39.401723,-119.741646,39.401723",
     "geom:latitude":39.401723,
     "geom:longitude":-119.741646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Geiger Grade Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236963949,
-    "wof:lastmodified":1449001910,
+    "wof:lastmodified":1466706893,
     "wof:name":"George Curti & Sons",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.741646,39.401723,-119.741646,39.401723],
+  "bbox": [
+    -119.741646,
+    39.401723,
+    -119.741646,
+    39.401723
+],
   "geometry": {"coordinates":[-119.741646,39.401723],"type":"Point"}
 }

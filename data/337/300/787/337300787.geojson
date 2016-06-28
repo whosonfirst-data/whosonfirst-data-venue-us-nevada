@@ -2,13 +2,14 @@
   "id": 337300787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217913,36.159164,-115.217913,36.159164",
     "geom:latitude":36.159164,
     "geom:longitude":-115.217913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5643 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337300787,
-    "wof:lastmodified":1449027409,
+    "wof:lastmodified":1466701743,
     "wof:name":"Cottage Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maid"
     ]
 },
-  "bbox": [-115.217913,36.159164,-115.217913,36.159164],
+  "bbox": [
+    -115.217913,
+    36.159164,
+    -115.217913,
+    36.159164
+],
   "geometry": {"coordinates":[-115.217913,36.159164],"type":"Point"}
 }

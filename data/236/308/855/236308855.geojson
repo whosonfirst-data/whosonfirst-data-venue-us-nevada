@@ -2,13 +2,14 @@
   "id": 236308855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.2192,39.586029,-119.2192,39.586029",
     "geom:latitude":39.586029,
     "geom:longitude":-119.2192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Camille Dr",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236308855,
-    "wof:lastmodified":1449005358,
+    "wof:lastmodified":1466704609,
     "wof:name":"Repairs Done Right",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.2192,39.586029,-119.2192,39.586029],
+  "bbox": [
+    -119.2192,
+    39.586029,
+    -119.2192,
+    39.586029
+],
   "geometry": {"coordinates":[-119.2192,39.586029],"type":"Point"}
 }

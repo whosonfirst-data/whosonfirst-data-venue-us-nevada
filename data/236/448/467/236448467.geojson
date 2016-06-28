@@ -2,13 +2,14 @@
   "id": 236448467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744929,39.52737,-119.744929,39.52737",
     "geom:latitude":39.52737,
     "geom:longitude":-119.744929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236448467,
-    "wof:lastmodified":1449005059,
+    "wof:lastmodified":1466705710,
     "wof:name":"Neveda Occupational Health Ctr",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-119.744929,39.52737,-119.744929,39.52737],
+  "bbox": [
+    -119.744929,
+    39.52737,
+    -119.744929,
+    39.52737
+],
   "geometry": {"coordinates":[-119.744929,39.52737],"type":"Point"}
 }

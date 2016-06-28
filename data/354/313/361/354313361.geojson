@@ -2,13 +2,14 @@
   "id": 354313361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244184,36.129652,-115.244184,36.129652",
     "geom:latitude":36.129652,
     "geom:longitude":-115.244184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6950 W Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354313361,
-    "wof:lastmodified":1449065995,
+    "wof:lastmodified":1466705658,
     "wof:name":"Lee Franco M MD",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.244184,36.129652,-115.244184,36.129652],
+  "bbox": [
+    -115.244184,
+    36.129652,
+    -115.244184,
+    36.129652
+],
   "geometry": {"coordinates":[-115.244184,36.129652],"type":"Point"}
 }

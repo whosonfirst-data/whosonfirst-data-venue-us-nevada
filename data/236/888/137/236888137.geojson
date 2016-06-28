@@ -2,13 +2,14 @@
   "id": 236888137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.700412,39.589663,-119.700412,39.589663",
     "geom:latitude":39.589663,
     "geom:longitude":-119.700412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2183 Madrid Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236888137,
-    "wof:lastmodified":1449003758,
+    "wof:lastmodified":1466706787,
     "wof:name":"Future Fire Protection",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-119.700412,39.589663,-119.700412,39.589663],
+  "bbox": [
+    -119.700412,
+    39.589663,
+    -119.700412,
+    39.589663
+],
   "geometry": {"coordinates":[-119.700412,39.589663],"type":"Point"}
 }

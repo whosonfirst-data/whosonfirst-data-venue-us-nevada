@@ -2,13 +2,14 @@
   "id": 220161853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128904,36.114682,-115.128904,36.114682",
     "geom:latitude":36.114682,
     "geom:longitude":-115.128904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1590 E Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220161853,
-    "wof:lastmodified":1449074354,
+    "wof:lastmodified":1466702836,
     "wof:name":"Braddah's Kitchen",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.128904,36.114682,-115.128904,36.114682],
-  "geometry": {"coordinates":[-115.128904,36.114682],"type":"Point"}
+  "bbox": [
+    -115.128904,
+    36.114682,
+    -115.128904,
+    36.114682
+],
+  "geometry": {"coordinates":[-115.12890400000001,36.114682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236316219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.864552,39.257477,-114.864552,39.257477",
     "geom:latitude":39.257477,
     "geom:longitude":-114.864552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1281 Avenue E",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236316219,
-    "wof:lastmodified":1449003973,
+    "wof:lastmodified":1466704813,
     "wof:name":"Alcoholics Anonymous Ely Nvd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-114.864552,39.257477,-114.864552,39.257477],
+  "bbox": [
+    -114.864552,
+    39.257477,
+    -114.864552,
+    39.257477
+],
   "geometry": {"coordinates":[-114.864552,39.257477],"type":"Point"}
 }

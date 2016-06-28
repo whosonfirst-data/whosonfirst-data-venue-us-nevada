@@ -2,13 +2,14 @@
   "id": 203165149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146575,36.02614,-115.146575,36.02614",
     "geom:latitude":36.02614,
     "geom:longitude":-115.146575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Endicott Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203165149,
-    "wof:lastmodified":1449026865,
+    "wof:lastmodified":1466701684,
     "wof:name":"Penny Goss Technical Solutions",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.146575,36.02614,-115.146575,36.02614],
+  "bbox": [
+    -115.146575,
+    36.02614,
+    -115.146575,
+    36.02614
+],
   "geometry": {"coordinates":[-115.146575,36.02614],"type":"Point"}
 }

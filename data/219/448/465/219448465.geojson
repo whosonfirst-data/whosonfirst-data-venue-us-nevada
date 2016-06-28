@@ -2,13 +2,14 @@
   "id": 219448465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.776631,40.835949,-115.776631,40.835949",
     "geom:latitude":40.835949,
     "geom:longitude":-115.776631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1559 Sewell Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219448465,
-    "wof:lastmodified":1449073742,
+    "wof:lastmodified":1466703868,
     "wof:name":"Presbyterian Church",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.776631,40.835949,-115.776631,40.835949],
-  "geometry": {"coordinates":[-115.776631,40.835949],"type":"Point"}
+  "bbox": [
+    -115.776631,
+    40.835949,
+    -115.776631,
+    40.835949
+],
+  "geometry": {"coordinates":[-115.77663099999999,40.835949],"type":"Point"}
 }

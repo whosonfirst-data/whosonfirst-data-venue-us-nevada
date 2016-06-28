@@ -2,13 +2,14 @@
   "id": 354245465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164825,36.13209,-115.164825,36.13209",
     "geom:latitude":36.13209,
     "geom:longitude":-115.164825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3049 S Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354245465,
-    "wof:lastmodified":1449067620,
+    "wof:lastmodified":1466705285,
     "wof:name":"The Mad Greek Cafe",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mediterranean"
     ]
 },
-  "bbox": [-115.164825,36.13209,-115.164825,36.13209],
-  "geometry": {"coordinates":[-115.164825,36.13209],"type":"Point"}
+  "bbox": [
+    -115.164825,
+    36.13209,
+    -115.164825,
+    36.13209
+],
+  "geometry": {"coordinates":[-115.16482499999999,36.13209],"type":"Point"}
 }

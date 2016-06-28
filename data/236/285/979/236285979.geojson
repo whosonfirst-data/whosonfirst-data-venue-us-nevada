@@ -2,13 +2,14 @@
   "id": 236285979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173875,36.272527,-115.173875,36.272527",
     "geom:latitude":36.272527,
     "geom:longitude":-115.173875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6127 Satre Ct",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236285979,
-    "wof:lastmodified":1449001750,
+    "wof:lastmodified":1466704595,
     "wof:name":"Squeaky Clean",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.173875,36.272527,-115.173875,36.272527],
+  "bbox": [
+    -115.173875,
+    36.272527,
+    -115.173875,
+    36.272527
+],
   "geometry": {"coordinates":[-115.173875,36.272527],"type":"Point"}
 }

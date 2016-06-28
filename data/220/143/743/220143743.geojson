@@ -2,13 +2,14 @@
   "id": 220143743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.728611,38.882,-119.728611,38.882",
     "geom:latitude":38.882,
     "geom:longitude":-119.728611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1473 Mary Jo Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220143743,
-    "wof:lastmodified":1449074725,
+    "wof:lastmodified":1466702728,
     "wof:name":"A-1 Chimney Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chimney"
     ]
 },
-  "bbox": [-119.728611,38.882,-119.728611,38.882],
+  "bbox": [
+    -119.728611,
+    38.882,
+    -119.728611,
+    38.882
+],
   "geometry": {"coordinates":[-119.728611,38.882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236382909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.58607,40.754541,-115.58607,40.754541",
     "geom:latitude":40.754541,
     "geom:longitude":-115.58607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Baytree Dr",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236382909,
-    "wof:lastmodified":1449002343,
+    "wof:lastmodified":1466705244,
     "wof:name":"Darlene Collins",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-115.58607,40.754541,-115.58607,40.754541],
-  "geometry": {"coordinates":[-115.58607,40.754541],"type":"Point"}
+  "bbox": [
+    -115.58607,
+    40.754541,
+    -115.58607,
+    40.754541
+],
+  "geometry": {"coordinates":[-115.58607000000001,40.754541],"type":"Point"}
 }

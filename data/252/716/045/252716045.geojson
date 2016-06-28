@@ -2,13 +2,14 @@
   "id": 252716045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72399,39.168921,-119.72399,39.168921",
     "geom:latitude":39.168921,
     "geom:longitude":-119.72399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 N Edmonds Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":252716045,
-    "wof:lastmodified":1449005559,
+    "wof:lastmodified":1466701643,
     "wof:name":"Fitzhenrys Fnrl HM & Crematory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.72399,39.168921,-119.72399,39.168921],
+  "bbox": [
+    -119.72399,
+    39.168921,
+    -119.72399,
+    39.168921
+],
   "geometry": {"coordinates":[-119.72399,39.168921],"type":"Point"}
 }

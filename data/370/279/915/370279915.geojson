@@ -2,13 +2,14 @@
   "id": 370279915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288075,36.290744,-115.288075,36.290744",
     "geom:latitude":36.290744,
     "geom:longitude":-115.288075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7155 N Durango Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370279915,
-    "wof:lastmodified":1449030654,
+    "wof:lastmodified":1466704376,
     "wof:name":"Shucks Tavern & Oyster Bar",
     "wof:parent_id":85896903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-115.288075,36.290744,-115.288075,36.290744],
-  "geometry": {"coordinates":[-115.288075,36.290744],"type":"Point"}
+  "bbox": [
+    -115.288075,
+    36.290744,
+    -115.288075,
+    36.290744
+],
+  "geometry": {"coordinates":[-115.28807500000001,36.290744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219652959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105672,36.086314,-115.105672,36.086314",
     "geom:latitude":36.086314,
     "geom:longitude":-115.105672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3095 E Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219652959,
-    "wof:lastmodified":1449072661,
+    "wof:lastmodified":1466703870,
     "wof:name":"Excel Medical Management",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-115.105672,36.086314,-115.105672,36.086314],
+  "bbox": [
+    -115.105672,
+    36.086314,
+    -115.105672,
+    36.086314
+],
   "geometry": {"coordinates":[-115.105672,36.086314],"type":"Point"}
 }

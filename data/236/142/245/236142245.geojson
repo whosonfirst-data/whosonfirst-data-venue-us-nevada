@@ -2,13 +2,14 @@
   "id": 236142245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.253483,38.085035,-117.253483,38.085035",
     "geom:latitude":38.085035,
     "geom:longitude":-117.253483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Thunder Mtn Ln",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236142245,
-    "wof:lastmodified":1449004455,
+    "wof:lastmodified":1466702391,
     "wof:name":"Top Cuts Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.253483,38.085035,-117.253483,38.085035],
+  "bbox": [
+    -117.253483,
+    38.085035,
+    -117.253483,
+    38.085035
+],
   "geometry": {"coordinates":[-117.253483,38.085035],"type":"Point"}
 }

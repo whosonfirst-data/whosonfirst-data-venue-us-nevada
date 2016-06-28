@@ -2,13 +2,14 @@
   "id": 236155997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.07486,36.070982,-115.07486,36.070982",
     "geom:latitude":36.070982,
     "geom:longitude":-115.07486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 E Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236155997,
-    "wof:lastmodified":1449004552,
+    "wof:lastmodified":1466702698,
     "wof:name":"Triad Capital Corp",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-115.07486,36.070982,-115.07486,36.070982],
+  "bbox": [
+    -115.07486,
+    36.070982,
+    -115.07486,
+    36.070982
+],
   "geometry": {"coordinates":[-115.07486,36.070982],"type":"Point"}
 }

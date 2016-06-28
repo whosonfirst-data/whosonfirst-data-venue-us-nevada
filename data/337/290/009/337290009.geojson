@@ -2,13 +2,14 @@
   "id": 337290009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.66809,39.212998,-119.66809,39.212998",
     "geom:latitude":39.212998,
     "geom:longitude":-119.66809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Adair Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":337290009,
-    "wof:lastmodified":1449027290,
+    "wof:lastmodified":1466701487,
     "wof:name":"Mil-Spec Spray Paint Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "finishing"
     ]
 },
-  "bbox": [-119.66809,39.212998,-119.66809,39.212998],
-  "geometry": {"coordinates":[-119.66809,39.212998],"type":"Point"}
+  "bbox": [
+    -119.66809,
+    39.212998,
+    -119.66809,
+    39.212998
+],
+  "geometry": {"coordinates":[-119.66809000000001,39.212998],"type":"Point"}
 }

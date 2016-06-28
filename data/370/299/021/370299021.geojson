@@ -2,13 +2,14 @@
   "id": 370299021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125434,36.143462,-115.125434,36.143462",
     "geom:latitude":36.143462,
     "geom:longitude":-115.125434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2545 S Bruce Street Suite 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370299021,
-    "wof:lastmodified":1449029957,
+    "wof:lastmodified":1466704743,
     "wof:name":"Philippine Times of Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.125434,36.143462,-115.125434,36.143462],
+  "bbox": [
+    -115.125434,
+    36.143462,
+    -115.125434,
+    36.143462
+],
   "geometry": {"coordinates":[-115.125434,36.143462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370306311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72732,38.930243,-119.72732,38.930243",
     "geom:latitude":38.930243,
     "geom:longitude":-119.72732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":370306311,
-    "wof:lastmodified":1449032312,
+    "wof:lastmodified":1466704783,
     "wof:name":"Laxague Feed & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "barn"
     ]
 },
-  "bbox": [-119.72732,38.930243,-119.72732,38.930243],
-  "geometry": {"coordinates":[-119.72732,38.930243],"type":"Point"}
+  "bbox": [
+    -119.72732,
+    38.930243,
+    -119.72732,
+    38.930243
+],
+  "geometry": {"coordinates":[-119.72732000000001,38.930243],"type":"Point"}
 }

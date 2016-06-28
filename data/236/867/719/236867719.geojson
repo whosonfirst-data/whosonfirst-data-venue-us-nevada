@@ -2,13 +2,14 @@
   "id": 236867719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.038255,36.321992,-116.038255,36.321992",
     "geom:latitude":36.321992,
     "geom:longitude":-116.038255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 N Bender St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236867719,
-    "wof:lastmodified":1449003011,
+    "wof:lastmodified":1466706757,
     "wof:name":"Phil Hayes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-116.038255,36.321992,-116.038255,36.321992],
-  "geometry": {"coordinates":[-116.038255,36.321992],"type":"Point"}
+  "bbox": [
+    -116.038255,
+    36.321992,
+    -116.038255,
+    36.321992
+],
+  "geometry": {"coordinates":[-116.03825500000001,36.321992],"type":"Point"}
 }

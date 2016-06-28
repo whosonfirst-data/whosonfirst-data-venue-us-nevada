@@ -2,13 +2,14 @@
   "id": 236444271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.737586,40.981305,-117.737586,40.981305",
     "geom:latitude":40.981305,
     "geom:longitude":-117.737586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 E National Ave",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236444271,
-    "wof:lastmodified":1449004705,
+    "wof:lastmodified":1466705573,
     "wof:name":"L W Peraldo Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-117.737586,40.981305,-117.737586,40.981305],
-  "geometry": {"coordinates":[-117.737586,40.981305],"type":"Point"}
+  "bbox": [
+    -117.737586,
+    40.981305,
+    -117.737586,
+    40.981305
+],
+  "geometry": {"coordinates":[-117.73758599999999,40.981305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219792829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.85097,35.971063,-114.85097,35.971063",
     "geom:latitude":35.971063,
     "geom:longitude":-114.85097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219792829,
-    "wof:lastmodified":1449071155,
+    "wof:lastmodified":1466705025,
     "wof:name":"Colorado River Divers",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.85097,35.971063,-114.85097,35.971063],
+  "bbox": [
+    -114.85097,
+    35.971063,
+    -114.85097,
+    35.971063
+],
   "geometry": {"coordinates":[-114.85097,35.971063],"type":"Point"}
 }

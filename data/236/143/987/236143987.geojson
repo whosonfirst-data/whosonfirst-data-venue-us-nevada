@@ -2,13 +2,14 @@
   "id": 236143987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.755468,40.839217,-115.755468,40.839217",
     "geom:latitude":40.839217,
     "geom:longitude":-115.755468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236143987,
-    "wof:lastmodified":1449004576,
+    "wof:lastmodified":1466702431,
     "wof:name":"Chef Cheng's Chinese Rstrt",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.755468,40.839217,-115.755468,40.839217],
-  "geometry": {"coordinates":[-115.755468,40.839217],"type":"Point"}
+  "bbox": [
+    -115.755468,
+    40.839217,
+    -115.755468,
+    40.839217
+],
+  "geometry": {"coordinates":[-115.75546799999999,40.839217],"type":"Point"}
 }

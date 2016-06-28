@@ -2,13 +2,14 @@
   "id": 235944799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.835662,35.978225,-114.835662,35.978225",
     "geom:latitude":35.978225,
     "geom:longitude":-114.835662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Arizona St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235944799,
-    "wof:lastmodified":1449008422,
+    "wof:lastmodified":1466703499,
     "wof:name":"Lifeline Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.835662,35.978225,-114.835662,35.978225],
+  "bbox": [
+    -114.835662,
+    35.978225,
+    -114.835662,
+    35.978225
+],
   "geometry": {"coordinates":[-114.835662,35.978225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236694887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221471,36.188319,-115.221471,36.188319",
     "geom:latitude":36.188319,
     "geom:longitude":-115.221471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6023 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236694887,
-    "wof:lastmodified":1449002397,
+    "wof:lastmodified":1466706596,
     "wof:name":"D&D Computers",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.221471,36.188319,-115.221471,36.188319],
-  "geometry": {"coordinates":[-115.221471,36.188319],"type":"Point"}
+  "bbox": [
+    -115.221471,
+    36.188319,
+    -115.221471,
+    36.188319
+],
+  "geometry": {"coordinates":[-115.22147099999999,36.188319],"type":"Point"}
 }

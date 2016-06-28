@@ -2,13 +2,14 @@
   "id": 370316103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807557,39.514733,-119.807557,39.514733",
     "geom:latitude":39.514733,
     "geom:longitude":-119.807557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370316103,
-    "wof:lastmodified":1449031371,
+    "wof:lastmodified":1466704827,
     "wof:name":"Best Friends",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "care"
     ]
 },
-  "bbox": [-119.807557,39.514733,-119.807557,39.514733],
+  "bbox": [
+    -119.807557,
+    39.514733,
+    -119.807557,
+    39.514733
+],
   "geometry": {"coordinates":[-119.807557,39.514733],"type":"Point"}
 }

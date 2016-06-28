@@ -2,13 +2,14 @@
   "id": 370328287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762729,39.428455,-119.762729,39.428455",
     "geom:latitude":39.428455,
     "geom:longitude":-119.762729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11331 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370328287,
-    "wof:lastmodified":1449031068,
+    "wof:lastmodified":1466704828,
     "wof:name":"Animal Attraction",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "store"
     ]
 },
-  "bbox": [-119.762729,39.428455,-119.762729,39.428455],
-  "geometry": {"coordinates":[-119.762729,39.428455],"type":"Point"}
+  "bbox": [
+    -119.762729,
+    39.428455,
+    -119.762729,
+    39.428455
+],
+  "geometry": {"coordinates":[-119.76272899999999,39.428455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219266533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.730863,39.52717,-119.730863,39.52717",
     "geom:latitude":39.52717,
     "geom:longitude":-119.730863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"992 Packer Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219266533,
-    "wof:lastmodified":1449070475,
+    "wof:lastmodified":1466702698,
     "wof:name":"Sarstedt Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.730863,39.52717,-119.730863,39.52717],
+  "bbox": [
+    -119.730863,
+    39.52717,
+    -119.730863,
+    39.52717
+],
   "geometry": {"coordinates":[-119.730863,39.52717],"type":"Point"}
 }

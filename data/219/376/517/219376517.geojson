@@ -2,13 +2,14 @@
   "id": 219376517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186528,36.108112,-115.186528,36.108112",
     "geom:latitude":36.108112,
     "geom:longitude":-115.186528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 W Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219376517,
-    "wof:lastmodified":1449071605,
+    "wof:lastmodified":1466703520,
     "wof:name":"Alumaline Corporation America",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "frame"
     ]
 },
-  "bbox": [-115.186528,36.108112,-115.186528,36.108112],
+  "bbox": [
+    -115.186528,
+    36.108112,
+    -115.186528,
+    36.108112
+],
   "geometry": {"coordinates":[-115.186528,36.108112],"type":"Point"}
 }

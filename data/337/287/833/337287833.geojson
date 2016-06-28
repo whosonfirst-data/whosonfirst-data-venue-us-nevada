@@ -2,13 +2,14 @@
   "id": 337287833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761975,39.440436,-119.761975,39.440436",
     "geom:latitude":39.440436,
     "geom:longitude":-119.761975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9785 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337287833,
-    "wof:lastmodified":1449026989,
+    "wof:lastmodified":1466704268,
     "wof:name":"Eagle-Picher Fltrtn & Mnrls",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.761975,39.440436,-119.761975,39.440436],
-  "geometry": {"coordinates":[-119.761975,39.440436],"type":"Point"}
+  "bbox": [
+    -119.761975,
+    39.440436,
+    -119.761975,
+    39.440436
+],
+  "geometry": {"coordinates":[-119.76197500000001,39.440436],"type":"Point"}
 }

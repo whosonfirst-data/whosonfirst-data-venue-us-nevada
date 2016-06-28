@@ -2,13 +2,14 @@
   "id": 354055279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10053,36.026611,-115.10053,36.026611",
     "geom:latitude":36.026611,
     "geom:longitude":-115.10053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Pecos Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354055279,
-    "wof:lastmodified":1449066303,
+    "wof:lastmodified":1466702911,
     "wof:name":"Christ the Servant",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.10053,36.026611,-115.10053,36.026611],
-  "geometry": {"coordinates":[-115.10053,36.026611],"type":"Point"}
+  "bbox": [
+    -115.10053,
+    36.026611,
+    -115.10053,
+    36.026611
+],
+  "geometry": {"coordinates":[-115.10053000000001,36.026611],"type":"Point"}
 }

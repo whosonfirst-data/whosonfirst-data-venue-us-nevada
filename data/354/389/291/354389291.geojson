@@ -2,13 +2,14 @@
   "id": 354389291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10938,36.129627,-115.10938,36.129627",
     "geom:latitude":36.129627,
     "geom:longitude":-115.10938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":354389291,
-    "wof:lastmodified":1449067281,
+    "wof:lastmodified":1466706215,
     "wof:name":"Speedy Mart 120",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.10938,36.129627,-115.10938,36.129627],
+  "bbox": [
+    -115.10938,
+    36.129627,
+    -115.10938,
+    36.129627
+],
   "geometry": {"coordinates":[-115.10938,36.129627],"type":"Point"}
 }

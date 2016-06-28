@@ -2,13 +2,14 @@
   "id": 236077565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.160752,36.20454,-115.160752,36.20454",
     "geom:latitude":36.20454,
     "geom:longitude":-115.160752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 N Martin L King Blvd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236077565,
-    "wof:lastmodified":1449002069,
+    "wof:lastmodified":1466704086,
     "wof:name":"Senior Citizens Ctr",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-115.160752,36.20454,-115.160752,36.20454],
+  "bbox": [
+    -115.160752,
+    36.20454,
+    -115.160752,
+    36.20454
+],
   "geometry": {"coordinates":[-115.160752,36.20454],"type":"Point"}
 }

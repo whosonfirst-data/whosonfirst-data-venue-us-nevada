@@ -2,13 +2,14 @@
   "id": 236797779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.903747,39.63077,-119.903747,39.63077",
     "geom:latitude":39.63077,
     "geom:longitude":-119.903747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8610 Sopwith Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236797779,
-    "wof:lastmodified":1449004853,
+    "wof:lastmodified":1466706644,
     "wof:name":"ABM Intrntonal Investments LLC",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.903747,39.63077,-119.903747,39.63077],
+  "bbox": [
+    -119.903747,
+    39.63077,
+    -119.903747,
+    39.63077
+],
   "geometry": {"coordinates":[-119.903747,39.63077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236805613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761697,39.527575,-119.761697,39.527575",
     "geom:latitude":39.527575,
     "geom:longitude":-119.761697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236805613,
-    "wof:lastmodified":1449002611,
+    "wof:lastmodified":1466706763,
     "wof:name":"Watkins Motor Lines Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-119.761697,39.527575,-119.761697,39.527575],
+  "bbox": [
+    -119.761697,
+    39.527575,
+    -119.761697,
+    39.527575
+],
   "geometry": {"coordinates":[-119.761697,39.527575],"type":"Point"}
 }

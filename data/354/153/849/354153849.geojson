@@ -2,13 +2,14 @@
   "id": 354153849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199329,36.112626,-115.199329,36.112626",
     "geom:latitude":36.112626,
     "geom:longitude":-115.199329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Arville Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354153849,
-    "wof:lastmodified":1449067146,
+    "wof:lastmodified":1466704708,
     "wof:name":"Rancho Mirage Apts",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.199329,36.112626,-115.199329,36.112626],
-  "geometry": {"coordinates":[-115.199329,36.112626],"type":"Point"}
+  "bbox": [
+    -115.199329,
+    36.112626,
+    -115.199329,
+    36.112626
+],
+  "geometry": {"coordinates":[-115.19932900000001,36.112626],"type":"Point"}
 }

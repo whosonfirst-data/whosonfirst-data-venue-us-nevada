@@ -2,13 +2,14 @@
   "id": 337304399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761765,39.191162,-119.761765,39.191162",
     "geom:latitude":39.191162,
     "geom:longitude":-119.761765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Diamond Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337304399,
-    "wof:lastmodified":1449027551,
+    "wof:lastmodified":1466701830,
     "wof:name":"Cleaning Guy",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.761765,39.191162,-119.761765,39.191162],
+  "bbox": [
+    -119.761765,
+    39.191162,
+    -119.761765,
+    39.191162
+],
   "geometry": {"coordinates":[-119.761765,39.191162],"type":"Point"}
 }

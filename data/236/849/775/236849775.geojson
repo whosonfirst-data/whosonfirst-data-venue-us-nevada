@@ -2,13 +2,14 @@
   "id": 236849775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301038,36.078934,-115.301038,36.078934",
     "geom:latitude":36.078934,
     "geom:longitude":-115.301038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6076 Fair Valley St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236849775,
-    "wof:lastmodified":1449002133,
+    "wof:lastmodified":1466706726,
     "wof:name":"L Cecil Charles II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.301038,36.078934,-115.301038,36.078934],
-  "geometry": {"coordinates":[-115.301038,36.078934],"type":"Point"}
+  "bbox": [
+    -115.301038,
+    36.078934,
+    -115.301038,
+    36.078934
+],
+  "geometry": {"coordinates":[-115.30103800000001,36.078934],"type":"Point"}
 }

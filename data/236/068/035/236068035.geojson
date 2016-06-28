@@ -2,13 +2,14 @@
   "id": 236068035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755741,39.411932,-119.755741,39.411932",
     "geom:latitude":39.411932,
     "geom:longitude":-119.755741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Brannan Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236068035,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1466704261,
     "wof:name":"Good Earth Housekeeping S",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.755741,39.411932,-119.755741,39.411932],
+  "bbox": [
+    -119.755741,
+    39.411932,
+    -119.755741,
+    39.411932
+],
   "geometry": {"coordinates":[-119.755741,39.411932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220019309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.758164,40.838017,-115.758164,40.838017",
     "geom:latitude":40.838017,
     "geom:longitude":-115.758164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 Court St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220019309,
-    "wof:lastmodified":1449074512,
+    "wof:lastmodified":1466701659,
     "wof:name":"Riter Engineering Co",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.758164,40.838017,-115.758164,40.838017],
-  "geometry": {"coordinates":[-115.758164,40.838017],"type":"Point"}
+  "bbox": [
+    -115.758164,
+    40.838017,
+    -115.758164,
+    40.838017
+],
+  "geometry": {"coordinates":[-115.75816399999999,40.838017],"type":"Point"}
 }

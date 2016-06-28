@@ -2,13 +2,14 @@
   "id": 370160437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.291337,36.2229,-115.291337,36.2229",
     "geom:latitude":36.2229,
     "geom:longitude":-115.291337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 White Mission Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370160437,
-    "wof:lastmodified":1449031930,
+    "wof:lastmodified":1466701796,
     "wof:name":"Cleaner Than Clean",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.291337,36.2229,-115.291337,36.2229],
+  "bbox": [
+    -115.291337,
+    36.2229,
+    -115.291337,
+    36.2229
+],
   "geometry": {"coordinates":[-115.291337,36.2229],"type":"Point"}
 }

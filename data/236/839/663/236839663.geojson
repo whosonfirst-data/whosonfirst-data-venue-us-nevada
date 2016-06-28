@@ -2,13 +2,14 @@
   "id": 236839663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748984,39.527475,-119.748984,39.527475",
     "geom:latitude":39.527475,
     "geom:longitude":-119.748984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236839663,
-    "wof:lastmodified":1449003668,
+    "wof:lastmodified":1466706716,
     "wof:name":"Dave's Design Ctr",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-119.748984,39.527475,-119.748984,39.527475],
-  "geometry": {"coordinates":[-119.748984,39.527475],"type":"Point"}
+  "bbox": [
+    -119.748984,
+    39.527475,
+    -119.748984,
+    39.527475
+],
+  "geometry": {"coordinates":[-119.74898399999999,39.527475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236437161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092967,36.035841,-115.092967,36.035841",
     "geom:latitude":36.035841,
     "geom:longitude":-115.092967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Tour Edition Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236437161,
-    "wof:lastmodified":1449004145,
+    "wof:lastmodified":1466705647,
     "wof:name":"Sterling Publications LLC",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-115.092967,36.035841,-115.092967,36.035841],
+  "bbox": [
+    -115.092967,
+    36.035841,
+    -115.092967,
+    36.035841
+],
   "geometry": {"coordinates":[-115.092967,36.035841],"type":"Point"}
 }

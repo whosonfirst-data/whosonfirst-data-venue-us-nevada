@@ -2,13 +2,14 @@
   "id": 169447577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.920433,38.980565,-119.920433,38.980565",
     "geom:latitude":38.980565,
     "geom:longitude":-119.920433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Mackay Ct",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169447577,
-    "wof:lastmodified":1449035005,
+    "wof:lastmodified":1466701454,
     "wof:name":"Stafford Ventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.920433,38.980565,-119.920433,38.980565],
+  "bbox": [
+    -119.920433,
+    38.980565,
+    -119.920433,
+    38.980565
+],
   "geometry": {"coordinates":[-119.920433,38.980565],"type":"Point"}
 }

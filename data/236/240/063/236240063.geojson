@@ -2,13 +2,14 @@
   "id": 236240063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204488,35.996069,-115.204488,35.996069",
     "geom:latitude":35.996069,
     "geom:longitude":-115.204488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10541 Casa Bianca St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236240063,
-    "wof:lastmodified":1449001932,
+    "wof:lastmodified":1466704313,
     "wof:name":"Jeffrey Topham",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-115.204488,35.996069,-115.204488,35.996069],
+  "bbox": [
+    -115.204488,
+    35.996069,
+    -115.204488,
+    35.996069
+],
   "geometry": {"coordinates":[-115.204488,35.996069],"type":"Point"}
 }

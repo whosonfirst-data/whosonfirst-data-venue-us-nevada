@@ -2,13 +2,14 @@
   "id": 219815329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146726,36.160125,-115.146726,36.160125",
     "geom:latitude":36.160125,
     "geom:longitude":-115.146726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219815329,
-    "wof:lastmodified":1449072103,
+    "wof:lastmodified":1466705253,
     "wof:name":"Door Christian Fellowship Inc",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.146726,36.160125,-115.146726,36.160125],
+  "bbox": [
+    -115.146726,
+    36.160125,
+    -115.146726,
+    36.160125
+],
   "geometry": {"coordinates":[-115.146726,36.160125],"type":"Point"}
 }

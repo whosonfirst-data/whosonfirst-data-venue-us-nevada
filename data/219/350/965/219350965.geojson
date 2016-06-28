@@ -2,13 +2,14 @@
   "id": 219350965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089738,36.027158,-115.089738,36.027158",
     "geom:latitude":36.027158,
     "geom:longitude":-115.089738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 Corporate Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219350965,
-    "wof:lastmodified":1449072184,
+    "wof:lastmodified":1466703414,
     "wof:name":"Priority Payroll",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-115.089738,36.027158,-115.089738,36.027158],
+  "bbox": [
+    -115.089738,
+    36.027158,
+    -115.089738,
+    36.027158
+],
   "geometry": {"coordinates":[-115.089738,36.027158],"type":"Point"}
 }

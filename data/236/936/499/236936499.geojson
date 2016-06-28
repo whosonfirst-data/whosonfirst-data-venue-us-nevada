@@ -2,13 +2,14 @@
   "id": 236936499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300513,36.150974,-115.300513,36.150974",
     "geom:latitude":36.150974,
     "geom:longitude":-115.300513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9421 Churchill Downs Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236936499,
-    "wof:lastmodified":1449002604,
+    "wof:lastmodified":1466706922,
     "wof:name":"A Dynamite Web Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.300513,36.150974,-115.300513,36.150974],
+  "bbox": [
+    -115.300513,
+    36.150974,
+    -115.300513,
+    36.150974
+],
   "geometry": {"coordinates":[-115.300513,36.150974],"type":"Point"}
 }

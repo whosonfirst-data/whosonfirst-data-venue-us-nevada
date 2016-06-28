@@ -2,13 +2,14 @@
   "id": 219442849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.228804,36.186076,-115.228804,36.186076",
     "geom:latitude":36.186076,
     "geom:longitude":-115.228804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6252 Small Point Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219442849,
-    "wof:lastmodified":1449071940,
+    "wof:lastmodified":1466703843,
     "wof:name":"Harris & Ruth Painting",
     "wof:parent_id":85892713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.228804,36.186076,-115.228804,36.186076],
+  "bbox": [
+    -115.228804,
+    36.186076,
+    -115.228804,
+    36.186076
+],
   "geometry": {"coordinates":[-115.228804,36.186076],"type":"Point"}
 }

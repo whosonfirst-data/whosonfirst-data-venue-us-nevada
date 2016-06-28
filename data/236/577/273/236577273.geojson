@@ -2,13 +2,14 @@
   "id": 236577273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062237,36.191924,-115.062237,36.191924",
     "geom:latitude":36.191924,
     "geom:longitude":-115.062237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236577273,
-    "wof:lastmodified":1449005370,
+    "wof:lastmodified":1466706324,
     "wof:name":"A & C Communications",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "for"
     ]
 },
-  "bbox": [-115.062237,36.191924,-115.062237,36.191924],
+  "bbox": [
+    -115.062237,
+    36.191924,
+    -115.062237,
+    36.191924
+],
   "geometry": {"coordinates":[-115.062237,36.191924],"type":"Point"}
 }

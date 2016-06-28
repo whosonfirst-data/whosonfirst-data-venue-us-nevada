@@ -2,13 +2,14 @@
   "id": 337303079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087417,36.060503,-115.087417,36.060503",
     "geom:latitude":36.060503,
     "geom:longitude":-115.087417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2342 Lone Pine St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337303079,
-    "wof:lastmodified":1449026939,
+    "wof:lastmodified":1466701807,
     "wof:name":"Adventres In Advrtsng/Las Vgas",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-115.087417,36.060503,-115.087417,36.060503],
+  "bbox": [
+    -115.087417,
+    36.060503,
+    -115.087417,
+    36.060503
+],
   "geometry": {"coordinates":[-115.087417,36.060503],"type":"Point"}
 }

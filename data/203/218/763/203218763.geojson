@@ -2,13 +2,14 @@
   "id": 203218763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752798,39.514336,-119.752798,39.514336",
     "geom:latitude":39.514336,
     "geom:longitude":-119.752798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 N Edison Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203218763,
-    "wof:lastmodified":1449026175,
+    "wof:lastmodified":1466702224,
     "wof:name":"PHD Janitorial",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.752798,39.514336,-119.752798,39.514336],
+  "bbox": [
+    -119.752798,
+    39.514336,
+    -119.752798,
+    39.514336
+],
   "geometry": {"coordinates":[-119.752798,39.514336],"type":"Point"}
 }

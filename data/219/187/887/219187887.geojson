@@ -2,13 +2,14 @@
   "id": 219187887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112706,36.075132,-115.112706,36.075132",
     "geom:latitude":36.075132,
     "geom:longitude":-115.112706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6165 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219187887,
-    "wof:lastmodified":1449070914,
+    "wof:lastmodified":1466702001,
     "wof:name":"Insurance Design Corp",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.112706,36.075132,-115.112706,36.075132],
+  "bbox": [
+    -115.112706,
+    36.075132,
+    -115.112706,
+    36.075132
+],
   "geometry": {"coordinates":[-115.112706,36.075132],"type":"Point"}
 }

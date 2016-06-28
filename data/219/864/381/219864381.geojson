@@ -2,13 +2,14 @@
   "id": 219864381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139037,36.201319,-115.139037,36.201319",
     "geom:latitude":36.201319,
     "geom:longitude":-115.139037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2256 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219864381,
-    "wof:lastmodified":1449073967,
+    "wof:lastmodified":1466705322,
     "wof:name":"Air Pride Air Cond & Heating",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.139037,36.201319,-115.139037,36.201319],
+  "bbox": [
+    -115.139037,
+    36.201319,
+    -115.139037,
+    36.201319
+],
   "geometry": {"coordinates":[-115.139037,36.201319],"type":"Point"}
 }

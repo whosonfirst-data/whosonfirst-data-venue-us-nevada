@@ -2,13 +2,14 @@
   "id": 236607739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.073338,36.236929,-116.073338,36.236929",
     "geom:latitude":36.236929,
     "geom:longitude":-116.073338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Rand Ln",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236607739,
-    "wof:lastmodified":1449002003,
+    "wof:lastmodified":1466706370,
     "wof:name":"Utility Readers LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.073338,36.236929,-116.073338,36.236929],
-  "geometry": {"coordinates":[-116.073338,36.236929],"type":"Point"}
+  "bbox": [
+    -116.073338,
+    36.236929,
+    -116.073338,
+    36.236929
+],
+  "geometry": {"coordinates":[-116.07333800000001,36.236929],"type":"Point"}
 }

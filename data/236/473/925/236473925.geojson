@@ -2,13 +2,14 @@
   "id": 236473925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756439,39.529895,-119.756439,39.529895",
     "geom:latitude":39.529895,
     "geom:longitude":-119.756439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 Icehouse Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236473925,
-    "wof:lastmodified":1449002192,
+    "wof:lastmodified":1466705702,
     "wof:name":"Yellowstone Press",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-119.756439,39.529895,-119.756439,39.529895],
+  "bbox": [
+    -119.756439,
+    39.529895,
+    -119.756439,
+    39.529895
+],
   "geometry": {"coordinates":[-119.756439,39.529895],"type":"Point"}
 }

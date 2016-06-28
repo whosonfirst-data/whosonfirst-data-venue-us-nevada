@@ -2,13 +2,14 @@
   "id": 236327937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769404,39.136114,-119.769404,39.136114",
     "geom:latitude":39.136114,
     "geom:longitude":-119.769404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3389 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236327937,
-    "wof:lastmodified":1449001862,
+    "wof:lastmodified":1466704772,
     "wof:name":"Country Store",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-119.769404,39.136114,-119.769404,39.136114],
-  "geometry": {"coordinates":[-119.769404,39.136114],"type":"Point"}
+  "bbox": [
+    -119.769404,
+    39.136114,
+    -119.769404,
+    39.136114
+],
+  "geometry": {"coordinates":[-119.76940399999999,39.136114],"type":"Point"}
 }

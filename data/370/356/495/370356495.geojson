@@ -2,13 +2,14 @@
   "id": 370356495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.738238,39.183326,-119.738238,39.183326",
     "geom:latitude":39.183326,
     "geom:longitude":-119.738238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2678 Sherman Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370356495,
-    "wof:lastmodified":1449031874,
+    "wof:lastmodified":1466705061,
     "wof:name":"Qta",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "furniture"
     ]
 },
-  "bbox": [-119.738238,39.183326,-119.738238,39.183326],
+  "bbox": [
+    -119.738238,
+    39.183326,
+    -119.738238,
+    39.183326
+],
   "geometry": {"coordinates":[-119.738238,39.183326],"type":"Point"}
 }

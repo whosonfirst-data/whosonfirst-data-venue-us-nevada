@@ -2,13 +2,14 @@
   "id": 236369219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.803719,39.520333,-119.803719,39.520333",
     "geom:latitude":39.520333,
     "geom:longitude":-119.803719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Roberts St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236369219,
-    "wof:lastmodified":1449005046,
+    "wof:lastmodified":1466705178,
     "wof:name":"Guardian Property Management",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-119.803719,39.520333,-119.803719,39.520333],
+  "bbox": [
+    -119.803719,
+    39.520333,
+    -119.803719,
+    39.520333
+],
   "geometry": {"coordinates":[-119.803719,39.520333],"type":"Point"}
 }

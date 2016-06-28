@@ -2,13 +2,14 @@
   "id": 203293921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.271505,36.129477,-115.271505,36.129477",
     "geom:latitude":36.129477,
     "geom:longitude":-115.271505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8540 W Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203293921,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466702793,
     "wof:name":"Chatterbox Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.271505,36.129477,-115.271505,36.129477],
+  "bbox": [
+    -115.271505,
+    36.129477,
+    -115.271505,
+    36.129477
+],
   "geometry": {"coordinates":[-115.271505,36.129477],"type":"Point"}
 }

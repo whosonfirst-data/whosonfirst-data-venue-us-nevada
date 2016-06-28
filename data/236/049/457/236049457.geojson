@@ -2,13 +2,14 @@
   "id": 236049457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092402,35.976635,-115.092402,35.976635",
     "geom:latitude":35.976635,
     "geom:longitude":-115.092402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2383 Flute Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236049457,
-    "wof:lastmodified":1449003254,
+    "wof:lastmodified":1466703969,
     "wof:name":"Robert John Kleyh Photography",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.092402,35.976635,-115.092402,35.976635],
-  "geometry": {"coordinates":[-115.092402,35.976635],"type":"Point"}
+  "bbox": [
+    -115.092402,
+    35.976635,
+    -115.092402,
+    35.976635
+],
+  "geometry": {"coordinates":[-115.09240200000001,35.976635],"type":"Point"}
 }

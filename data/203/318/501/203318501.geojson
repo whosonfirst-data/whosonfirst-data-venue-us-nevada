@@ -2,13 +2,14 @@
   "id": 203318501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185504,36.192695,-115.185504,36.192695",
     "geom:latitude":36.192695,
     "geom:longitude":-115.185504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Alwill St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203318501,
-    "wof:lastmodified":1449025339,
+    "wof:lastmodified":1466702964,
     "wof:name":"Sergio & Oralia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.185504,36.192695,-115.185504,36.192695],
-  "geometry": {"coordinates":[-115.185504,36.192695],"type":"Point"}
+  "bbox": [
+    -115.185504,
+    36.192695,
+    -115.185504,
+    36.192695
+],
+  "geometry": {"coordinates":[-115.18550399999999,36.192695],"type":"Point"}
 }

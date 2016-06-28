@@ -2,13 +2,14 @@
   "id": 236940013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189883,36.178992,-115.189883,36.178992",
     "geom:latitude":36.178992,
     "geom:longitude":-115.189883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3713 Riviera Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":236940013,
-    "wof:lastmodified":1449002284,
+    "wof:lastmodified":1466706759,
     "wof:name":"Oak Asset Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-115.189883,36.178992,-115.189883,36.178992],
-  "geometry": {"coordinates":[-115.189883,36.178992],"type":"Point"}
+  "bbox": [
+    -115.189883,
+    36.178992,
+    -115.189883,
+    36.178992
+],
+  "geometry": {"coordinates":[-115.18988299999999,36.178992],"type":"Point"}
 }

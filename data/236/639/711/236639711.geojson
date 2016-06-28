@@ -2,13 +2,14 @@
   "id": 236639711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11797,36.12989,-115.11797,36.12989",
     "geom:latitude":36.12989,
     "geom:longitude":-115.11797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2466 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236639711,
-    "wof:lastmodified":1449005232,
+    "wof:lastmodified":1466706275,
     "wof:name":"Albion Book Company",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.11797,36.12989,-115.11797,36.12989],
+  "bbox": [
+    -115.11797,
+    36.12989,
+    -115.11797,
+    36.12989
+],
   "geometry": {"coordinates":[-115.11797,36.12989],"type":"Point"}
 }

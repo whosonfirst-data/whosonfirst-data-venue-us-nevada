@@ -2,13 +2,14 @@
   "id": 354020159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.952463,36.0171,-114.952463,36.0171",
     "geom:latitude":36.0171,
     "geom:longitude":-114.952463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"748 S. Racetrack Rd.",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354020159,
-    "wof:lastmodified":1449066710,
+    "wof:lastmodified":1466702022,
     "wof:name":"Kharizma Salon and Day Spa",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.952463,36.0171,-114.952463,36.0171],
-  "geometry": {"coordinates":[-114.952463,36.0171],"type":"Point"}
+  "bbox": [
+    -114.952463,
+    36.0171,
+    -114.952463,
+    36.0171
+],
+  "geometry": {"coordinates":[-114.95246299999999,36.0171],"type":"Point"}
 }

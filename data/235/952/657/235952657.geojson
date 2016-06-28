@@ -2,13 +2,14 @@
   "id": 235952657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.805466,39.505771,-119.805466,39.505771",
     "geom:latitude":39.505771,
     "geom:longitude":-119.805466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 W Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235952657,
-    "wof:lastmodified":1449008494,
+    "wof:lastmodified":1466703543,
     "wof:name":"Great Earth Vitamin Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "diet"
     ]
 },
-  "bbox": [-119.805466,39.505771,-119.805466,39.505771],
+  "bbox": [
+    -119.805466,
+    39.505771,
+    -119.805466,
+    39.505771
+],
   "geometry": {"coordinates":[-119.805466,39.505771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236240015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080264,36.120009,-115.080264,36.120009",
     "geom:latitude":36.120009,
     "geom:longitude":-115.080264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4249 Chrysalis Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236240015,
-    "wof:lastmodified":1449001933,
+    "wof:lastmodified":1466704523,
     "wof:name":"Automotive Repair Ctr",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.080264,36.120009,-115.080264,36.120009],
+  "bbox": [
+    -115.080264,
+    36.120009,
+    -115.080264,
+    36.120009
+],
   "geometry": {"coordinates":[-115.080264,36.120009],"type":"Point"}
 }

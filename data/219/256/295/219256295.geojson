@@ -2,13 +2,14 @@
   "id": 219256295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112704,36.13549,-115.112704,36.13549",
     "geom:latitude":36.13549,
     "geom:longitude":-115.112704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2955 Natalie Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":219256295,
-    "wof:lastmodified":1449073087,
+    "wof:lastmodified":1466702610,
     "wof:name":"Sorrenti Entp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.112704,36.13549,-115.112704,36.13549],
-  "geometry": {"coordinates":[-115.112704,36.13549],"type":"Point"}
+  "bbox": [
+    -115.112704,
+    36.13549,
+    -115.112704,
+    36.13549
+],
+  "geometry": {"coordinates":[-115.11270399999999,36.13549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370210453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205291,36.125983,-115.205291,36.125983",
     "geom:latitude":36.125983,
     "geom:longitude":-115.205291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370210453,
-    "wof:lastmodified":1449030249,
+    "wof:lastmodified":1466702806,
     "wof:name":"Wooche",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-115.205291,36.125983,-115.205291,36.125983],
+  "bbox": [
+    -115.205291,
+    36.125983,
+    -115.205291,
+    36.125983
+],
   "geometry": {"coordinates":[-115.205291,36.125983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236729571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172518,36.071177,-115.172518,36.071177",
     "geom:latitude":36.071177,
     "geom:longitude":-115.172518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236729571,
-    "wof:lastmodified":1449003286,
+    "wof:lastmodified":1466706538,
     "wof:name":"Green Valley Towing",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-115.172518,36.071177,-115.172518,36.071177],
+  "bbox": [
+    -115.172518,
+    36.071177,
+    -115.172518,
+    36.071177
+],
   "geometry": {"coordinates":[-115.172518,36.071177],"type":"Point"}
 }

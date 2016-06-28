@@ -2,13 +2,14 @@
   "id": 219572135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.256939,36.245484,-115.256939,36.245484",
     "geom:latitude":36.245484,
     "geom:longitude":-115.256939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7463 Alice Springs Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219572135,
-    "wof:lastmodified":1449072556,
+    "wof:lastmodified":1466702608,
     "wof:name":"Great Brains Consortium Office",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.256939,36.245484,-115.256939,36.245484],
+  "bbox": [
+    -115.256939,
+    36.245484,
+    -115.256939,
+    36.245484
+],
   "geometry": {"coordinates":[-115.256939,36.245484],"type":"Point"}
 }

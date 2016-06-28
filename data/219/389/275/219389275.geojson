@@ -2,13 +2,14 @@
   "id": 219389275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137198,36.104146,-115.137198,36.104146",
     "geom:latitude":36.104146,
     "geom:longitude":-115.137198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4761 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219389275,
-    "wof:lastmodified":1449073213,
+    "wof:lastmodified":1466703563,
     "wof:name":"Big B's Cds & Records",
     "wof:parent_id":85879729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-115.137198,36.104146,-115.137198,36.104146],
+  "bbox": [
+    -115.137198,
+    36.104146,
+    -115.137198,
+    36.104146
+],
   "geometry": {"coordinates":[-115.137198,36.104146],"type":"Point"}
 }

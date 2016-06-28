@@ -2,13 +2,14 @@
   "id": 370362271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.738354,40.859348,-115.738354,40.859348",
     "geom:latitude":40.859348,
     "geom:longitude":-115.738354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 E Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370362271,
-    "wof:lastmodified":1449031261,
+    "wof:lastmodified":1466705083,
     "wof:name":"Iron Horse RV Park",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-115.738354,40.859348,-115.738354,40.859348],
+  "bbox": [
+    -115.738354,
+    40.859348,
+    -115.738354,
+    40.859348
+],
   "geometry": {"coordinates":[-115.738354,40.859348],"type":"Point"}
 }

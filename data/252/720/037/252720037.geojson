@@ -2,13 +2,14 @@
   "id": 252720037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.741591,40.835742,-115.741591,40.835742",
     "geom:latitude":40.835742,
     "geom:longitude":-115.741591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Clarkson Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252720037,
-    "wof:lastmodified":1449005684,
+    "wof:lastmodified":1466701729,
     "wof:name":"Hime Drilling Company Inc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "well"
     ]
 },
-  "bbox": [-115.741591,40.835742,-115.741591,40.835742],
+  "bbox": [
+    -115.741591,
+    40.835742,
+    -115.741591,
+    40.835742
+],
   "geometry": {"coordinates":[-115.741591,40.835742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236659083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189867,36.078277,-115.189867,36.078277",
     "geom:latitude":36.078277,
     "geom:longitude":-115.189867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6280 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236659083,
-    "wof:lastmodified":1449001941,
+    "wof:lastmodified":1466706401,
     "wof:name":"Norman Wright Mechanical Eqp",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-115.189867,36.078277,-115.189867,36.078277],
-  "geometry": {"coordinates":[-115.189867,36.078277],"type":"Point"}
+  "bbox": [
+    -115.189867,
+    36.078277,
+    -115.189867,
+    36.078277
+],
+  "geometry": {"coordinates":[-115.18986700000001,36.078277],"type":"Point"}
 }

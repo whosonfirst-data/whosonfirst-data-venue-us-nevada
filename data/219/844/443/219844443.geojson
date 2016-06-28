@@ -2,13 +2,14 @@
   "id": 219844443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111737,35.970252,-115.111737,35.970252",
     "geom:latitude":35.970252,
     "geom:longitude":-115.111737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1746 Sabatini Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219844443,
-    "wof:lastmodified":1449071893,
+    "wof:lastmodified":1466705454,
     "wof:name":"Mr Fix All Inc",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.111737,35.970252,-115.111737,35.970252],
-  "geometry": {"coordinates":[-115.111737,35.970252],"type":"Point"}
+  "bbox": [
+    -115.111737,
+    35.970252,
+    -115.111737,
+    35.970252
+],
+  "geometry": {"coordinates":[-115.11173700000001,35.970252],"type":"Point"}
 }

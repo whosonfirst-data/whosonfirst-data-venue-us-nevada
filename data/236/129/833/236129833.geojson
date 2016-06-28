@@ -2,13 +2,14 @@
   "id": 236129833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116802,36.245311,-115.116802,36.245311",
     "geom:latitude":36.245311,
     "geom:longitude":-115.116802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236129833,
-    "wof:lastmodified":1449004481,
+    "wof:lastmodified":1466702128,
     "wof:name":"Cason Travel & Tours",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-115.116802,36.245311,-115.116802,36.245311],
-  "geometry": {"coordinates":[-115.116802,36.245311],"type":"Point"}
+  "bbox": [
+    -115.116802,
+    36.245311,
+    -115.116802,
+    36.245311
+],
+  "geometry": {"coordinates":[-115.11680200000001,36.245311],"type":"Point"}
 }

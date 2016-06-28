@@ -2,13 +2,14 @@
   "id": 354282089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097217,36.19793,-115.097217,36.19793",
     "geom:latitude":36.19793,
     "geom:longitude":-115.097217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2182 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354282089,
-    "wof:lastmodified":1449067018,
+    "wof:lastmodified":1466705712,
     "wof:name":"Personal Touch Chauffeur Services",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-115.097217,36.19793,-115.097217,36.19793],
+  "bbox": [
+    -115.097217,
+    36.19793,
+    -115.097217,
+    36.19793
+],
   "geometry": {"coordinates":[-115.097217,36.19793],"type":"Point"}
 }

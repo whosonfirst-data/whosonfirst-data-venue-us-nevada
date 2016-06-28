@@ -2,13 +2,14 @@
   "id": 219283283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260429,36.284081,-115.260429,36.284081",
     "geom:latitude":36.284081,
     "geom:longitude":-115.260429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6510 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219283283,
-    "wof:lastmodified":1449071447,
+    "wof:lastmodified":1466702875,
     "wof:name":"Check City",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-115.260429,36.284081,-115.260429,36.284081],
+  "bbox": [
+    -115.260429,
+    36.284081,
+    -115.260429,
+    36.284081
+],
   "geometry": {"coordinates":[-115.260429,36.284081],"type":"Point"}
 }

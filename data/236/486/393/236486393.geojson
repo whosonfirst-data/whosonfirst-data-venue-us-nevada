@@ -2,13 +2,14 @@
   "id": 236486393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.030876,36.248982,-116.030876,36.248982",
     "geom:latitude":36.248982,
     "geom:longitude":-116.030876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 W Mesquite Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236486393,
-    "wof:lastmodified":1449003503,
+    "wof:lastmodified":1466705736,
     "wof:name":"R&S Wastewater Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-116.030876,36.248982,-116.030876,36.248982],
-  "geometry": {"coordinates":[-116.030876,36.248982],"type":"Point"}
+  "bbox": [
+    -116.030876,
+    36.248982,
+    -116.030876,
+    36.248982
+],
+  "geometry": {"coordinates":[-116.03087600000001,36.248982],"type":"Point"}
 }

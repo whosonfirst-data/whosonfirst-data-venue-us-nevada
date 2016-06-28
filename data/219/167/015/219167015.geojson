@@ -2,13 +2,14 @@
   "id": 219167015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.850653,35.971378,-114.850653,35.971378",
     "geom:latitude":35.971378,
     "geom:longitude":-114.850653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219167015,
-    "wof:lastmodified":1449072219,
+    "wof:lastmodified":1466704193,
     "wof:name":"Treeco Furniture Repair",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-114.850653,35.971378,-114.850653,35.971378],
-  "geometry": {"coordinates":[-114.850653,35.971378],"type":"Point"}
+  "bbox": [
+    -114.850653,
+    35.971378,
+    -114.850653,
+    35.971378
+],
+  "geometry": {"coordinates":[-114.85065299999999,35.971378],"type":"Point"}
 }

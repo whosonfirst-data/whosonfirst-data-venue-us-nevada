@@ -2,13 +2,14 @@
   "id": 236091885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75146,39.527322,-119.75146,39.527322",
     "geom:latitude":39.527322,
     "geom:longitude":-119.75146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236091885,
-    "wof:lastmodified":1449001921,
+    "wof:lastmodified":1466704159,
     "wof:name":"Austin Laminates",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.75146,39.527322,-119.75146,39.527322],
-  "geometry": {"coordinates":[-119.75146,39.527322],"type":"Point"}
+  "bbox": [
+    -119.75146,
+    39.527322,
+    -119.75146,
+    39.527322
+],
+  "geometry": {"coordinates":[-119.75145999999999,39.527322],"type":"Point"}
 }

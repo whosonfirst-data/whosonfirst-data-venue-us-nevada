@@ -2,13 +2,14 @@
   "id": 203152461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78914,39.59497,-119.78914,39.59497",
     "geom:latitude":39.59497,
     "geom:longitude":-119.78914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5520 Chocolate Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203152461,
-    "wof:lastmodified":1449026392,
+    "wof:lastmodified":1466701524,
     "wof:name":"Ostrander Roofing",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.78914,39.59497,-119.78914,39.59497],
+  "bbox": [
+    -119.78914,
+    39.59497,
+    -119.78914,
+    39.59497
+],
   "geometry": {"coordinates":[-119.78914,39.59497],"type":"Point"}
 }

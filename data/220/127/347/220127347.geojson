@@ -2,13 +2,14 @@
   "id": 220127347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182118,36.07099,-115.182118,36.07099",
     "geom:latitude":36.07099,
     "geom:longitude":-115.182118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 W Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220127347,
-    "wof:lastmodified":1449074811,
+    "wof:lastmodified":1466702576,
     "wof:name":"Sternschnuppe LLC",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-115.182118,36.07099,-115.182118,36.07099],
+  "bbox": [
+    -115.182118,
+    36.07099,
+    -115.182118,
+    36.07099
+],
   "geometry": {"coordinates":[-115.182118,36.07099],"type":"Point"}
 }

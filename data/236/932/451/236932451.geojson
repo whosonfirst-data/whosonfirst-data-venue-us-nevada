@@ -2,13 +2,14 @@
   "id": 236932451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.288409,36.322467,-115.288409,36.322467",
     "geom:latitude":36.322467,
     "geom:longitude":-115.288409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9504 Empire Rock St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236932451,
-    "wof:lastmodified":1449002765,
+    "wof:lastmodified":1466706856,
     "wof:name":"Corporate Business Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.288409,36.322467,-115.288409,36.322467],
+  "bbox": [
+    -115.288409,
+    36.322467,
+    -115.288409,
+    36.322467
+],
   "geometry": {"coordinates":[-115.288409,36.322467],"type":"Point"}
 }

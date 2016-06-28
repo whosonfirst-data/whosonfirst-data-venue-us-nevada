@@ -2,13 +2,14 @@
   "id": 236427551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.132089,36.123355,-115.132089,36.123355",
     "geom:latitude":36.123355,
     "geom:longitude":-115.132089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1687 Seneca Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236427551,
-    "wof:lastmodified":1449002473,
+    "wof:lastmodified":1466705480,
     "wof:name":"Las Vegas Connexion",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "souvenir"
     ]
 },
-  "bbox": [-115.132089,36.123355,-115.132089,36.123355],
-  "geometry": {"coordinates":[-115.132089,36.123355],"type":"Point"}
+  "bbox": [
+    -115.132089,
+    36.123355,
+    -115.132089,
+    36.123355
+],
+  "geometry": {"coordinates":[-115.13208899999999,36.123355],"type":"Point"}
 }

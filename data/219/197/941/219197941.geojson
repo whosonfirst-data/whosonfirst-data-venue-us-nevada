@@ -2,13 +2,14 @@
   "id": 219197941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.896105,39.240474,-114.896105,39.240474",
     "geom:latitude":39.240474,
     "geom:longitude":-114.896105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 Pine St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219197941,
-    "wof:lastmodified":1449073474,
+    "wof:lastmodified":1466702056,
     "wof:name":"Ely Shoshone Tribe",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.896105,39.240474,-114.896105,39.240474],
-  "geometry": {"coordinates":[-114.896105,39.240474],"type":"Point"}
+  "bbox": [
+    -114.896105,
+    39.240474,
+    -114.896105,
+    39.240474
+],
+  "geometry": {"coordinates":[-114.89610500000001,39.240474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354019431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.979122,36.029594,-114.979122,36.029594",
     "geom:latitude":36.029594,
     "geom:longitude":-114.979122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Water St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354019431,
-    "wof:lastmodified":1449066925,
+    "wof:lastmodified":1466702002,
     "wof:name":"Daisy's Deli",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.979122,36.029594,-114.979122,36.029594],
+  "bbox": [
+    -114.979122,
+    36.029594,
+    -114.979122,
+    36.029594
+],
   "geometry": {"coordinates":[-114.979122,36.029594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236967179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776082,39.395453,-119.776082,39.395453",
     "geom:latitude":39.395453,
     "geom:longitude":-119.776082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14330 Mount Snow Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236967179,
-    "wof:lastmodified":1449004959,
+    "wof:lastmodified":1466706950,
     "wof:name":"Barrick Goldstrike Mines Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-119.776082,39.395453,-119.776082,39.395453],
+  "bbox": [
+    -119.776082,
+    39.395453,
+    -119.776082,
+    39.395453
+],
   "geometry": {"coordinates":[-119.776082,39.395453],"type":"Point"}
 }

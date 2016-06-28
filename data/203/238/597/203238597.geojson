@@ -2,13 +2,14 @@
   "id": 203238597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772827,39.122993,-119.772827,39.122993",
     "geom:latitude":39.122993,
     "geom:longitude":-119.772827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 W Roland St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203238597,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1466702428,
     "wof:name":"Nevada Stone Supply",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.772827,39.122993,-119.772827,39.122993],
-  "geometry": {"coordinates":[-119.772827,39.122993],"type":"Point"}
+  "bbox": [
+    -119.772827,
+    39.122993,
+    -119.772827,
+    39.122993
+],
+  "geometry": {"coordinates":[-119.77282700000001,39.122993],"type":"Point"}
 }

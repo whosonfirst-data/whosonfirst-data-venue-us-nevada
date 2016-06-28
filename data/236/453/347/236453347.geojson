@@ -2,13 +2,14 @@
   "id": 236453347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213864,36.084284,-115.213864,36.084284",
     "geom:latitude":36.084284,
     "geom:longitude":-115.213864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5320 W Quail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236453347,
-    "wof:lastmodified":1449004259,
+    "wof:lastmodified":1466705609,
     "wof:name":"V S Photography",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.213864,36.084284,-115.213864,36.084284],
+  "bbox": [
+    -115.213864,
+    36.084284,
+    -115.213864,
+    36.084284
+],
   "geometry": {"coordinates":[-115.213864,36.084284],"type":"Point"}
 }

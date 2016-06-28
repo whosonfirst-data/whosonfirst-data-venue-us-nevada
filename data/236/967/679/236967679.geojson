@@ -2,13 +2,14 @@
   "id": 236967679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226478,36.144283,-115.226478,36.144283",
     "geom:latitude":36.144283,
     "geom:longitude":-115.226478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6148 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236967679,
-    "wof:lastmodified":1449004957,
+    "wof:lastmodified":1466706951,
     "wof:name":"Olive Crest",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-115.226478,36.144283,-115.226478,36.144283],
+  "bbox": [
+    -115.226478,
+    36.144283,
+    -115.226478,
+    36.144283
+],
   "geometry": {"coordinates":[-115.226478,36.144283],"type":"Point"}
 }

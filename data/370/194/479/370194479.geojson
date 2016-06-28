@@ -2,13 +2,14 @@
   "id": 370194479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.305604,36.192941,-115.305604,36.192941",
     "geom:latitude":36.192941,
     "geom:longitude":-115.305604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1946 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370194479,
-    "wof:lastmodified":1449031981,
+    "wof:lastmodified":1466702371,
     "wof:name":"Posare Salon",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.305604,36.192941,-115.305604,36.192941],
+  "bbox": [
+    -115.305604,
+    36.192941,
+    -115.305604,
+    36.192941
+],
   "geometry": {"coordinates":[-115.305604,36.192941],"type":"Point"}
 }

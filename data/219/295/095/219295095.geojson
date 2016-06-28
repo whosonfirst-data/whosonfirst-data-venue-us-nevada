@@ -2,13 +2,14 @@
   "id": 219295095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789114,39.496688,-119.789114,39.496688",
     "geom:latitude":39.496688,
     "geom:longitude":-119.789114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219295095,
-    "wof:lastmodified":1449071821,
+    "wof:lastmodified":1466703030,
     "wof:name":"Wares Betty J",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.789114,39.496688,-119.789114,39.496688],
+  "bbox": [
+    -119.789114,
+    39.496688,
+    -119.789114,
+    39.496688
+],
   "geometry": {"coordinates":[-119.789114,39.496688],"type":"Point"}
 }

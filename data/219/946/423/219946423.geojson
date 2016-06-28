@@ -2,13 +2,14 @@
   "id": 219946423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.987777,36.211081,-115.987777,36.211081",
     "geom:latitude":36.211081,
     "geom:longitude":-115.987777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 State Hwy 160",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219946423,
-    "wof:lastmodified":1449073495,
+    "wof:lastmodified":1466705867,
     "wof:name":"Done & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.987777,36.211081,-115.987777,36.211081],
-  "geometry": {"coordinates":[-115.987777,36.211081],"type":"Point"}
+  "bbox": [
+    -115.987777,
+    36.211081,
+    -115.987777,
+    36.211081
+],
+  "geometry": {"coordinates":[-115.98777699999999,36.211081],"type":"Point"}
 }

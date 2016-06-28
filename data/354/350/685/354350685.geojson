@@ -2,13 +2,14 @@
   "id": 354350685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147368,36.058552,-115.147368,36.058552",
     "geom:latitude":36.058552,
     "geom:longitude":-115.147368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354350685,
-    "wof:lastmodified":1449066795,
+    "wof:lastmodified":1466706114,
     "wof:name":"Nevada State Bank",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.147368,36.058552,-115.147368,36.058552],
+  "bbox": [
+    -115.147368,
+    36.058552,
+    -115.147368,
+    36.058552
+],
   "geometry": {"coordinates":[-115.147368,36.058552],"type":"Point"}
 }

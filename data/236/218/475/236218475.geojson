@@ -2,13 +2,14 @@
   "id": 236218475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818461,39.239777,-119.818461,39.239777",
     "geom:latitude":39.239777,
     "geom:longitude":-119.818461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7464 Brothers Ln",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236218475,
-    "wof:lastmodified":1449003799,
+    "wof:lastmodified":1466703944,
     "wof:name":"Gibson Imaging Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-119.818461,39.239777,-119.818461,39.239777],
+  "bbox": [
+    -119.818461,
+    39.239777,
+    -119.818461,
+    39.239777
+],
   "geometry": {"coordinates":[-119.818461,39.239777],"type":"Point"}
 }

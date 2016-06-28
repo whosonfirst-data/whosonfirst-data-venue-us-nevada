@@ -2,13 +2,14 @@
   "id": 236931717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183342,36.230843,-115.183342,36.230843",
     "geom:latitude":36.230843,
     "geom:longitude":-115.183342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3941 Wabash Ln",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236931717,
-    "wof:lastmodified":1449004894,
+    "wof:lastmodified":1466706735,
     "wof:name":"A & J Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-115.183342,36.230843,-115.183342,36.230843],
+  "bbox": [
+    -115.183342,
+    36.230843,
+    -115.183342,
+    36.230843
+],
   "geometry": {"coordinates":[-115.183342,36.230843],"type":"Point"}
 }

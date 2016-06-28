@@ -2,13 +2,14 @@
   "id": 203416347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.234099,36.147878,-115.234099,36.147878",
     "geom:latitude":36.147878,
     "geom:longitude":-115.234099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6333 Obannon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203416347,
-    "wof:lastmodified":1449025764,
+    "wof:lastmodified":1466703385,
     "wof:name":"Bce Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-115.234099,36.147878,-115.234099,36.147878],
+  "bbox": [
+    -115.234099,
+    36.147878,
+    -115.234099,
+    36.147878
+],
   "geometry": {"coordinates":[-115.234099,36.147878],"type":"Point"}
 }

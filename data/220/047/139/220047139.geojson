@@ -2,13 +2,14 @@
   "id": 220047139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116635,36.135493,-115.116635,36.135493",
     "geom:latitude":36.135493,
     "geom:longitude":-115.116635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2461 Natalie Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":220047139,
-    "wof:lastmodified":1449074571,
+    "wof:lastmodified":1466701946,
     "wof:name":"Nala's Pet Sitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sitting"
     ]
 },
-  "bbox": [-115.116635,36.135493,-115.116635,36.135493],
+  "bbox": [
+    -115.116635,
+    36.135493,
+    -115.116635,
+    36.135493
+],
   "geometry": {"coordinates":[-115.116635,36.135493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370360141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768495,39.183261,-119.768495,39.183261",
     "geom:latitude":39.183261,
     "geom:longitude":-119.768495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2527 N Carson St Ste 190",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370360141,
-    "wof:lastmodified":1449031707,
+    "wof:lastmodified":1466705197,
     "wof:name":"Sierra Family Health Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.768495,39.183261,-119.768495,39.183261],
+  "bbox": [
+    -119.768495,
+    39.183261,
+    -119.768495,
+    39.183261
+],
   "geometry": {"coordinates":[-119.768495,39.183261],"type":"Point"}
 }

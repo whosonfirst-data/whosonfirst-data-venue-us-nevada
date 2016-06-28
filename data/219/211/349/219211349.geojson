@@ -2,13 +2,14 @@
   "id": 219211349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.159777,36.199454,-115.159777,36.199454",
     "geom:latitude":36.199454,
     "geom:longitude":-115.159777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Balzar Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219211349,
-    "wof:lastmodified":1449071267,
+    "wof:lastmodified":1466702169,
     "wof:name":"Unique Building Company",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.159777,36.199454,-115.159777,36.199454],
-  "geometry": {"coordinates":[-115.159777,36.199454],"type":"Point"}
+  "bbox": [
+    -115.159777,
+    36.199454,
+    -115.159777,
+    36.199454
+],
+  "geometry": {"coordinates":[-115.15977700000001,36.199454],"type":"Point"}
 }

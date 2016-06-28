@@ -2,13 +2,14 @@
   "id": 236236583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.845184,35.984527,-114.845184,35.984527",
     "geom:latitude":35.984527,
     "geom:longitude":-114.845184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Walker Way",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236236583,
-    "wof:lastmodified":1449001939,
+    "wof:lastmodified":1466704308,
     "wof:name":"Angelone's Plumbing",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.845184,35.984527,-114.845184,35.984527],
+  "bbox": [
+    -114.845184,
+    35.984527,
+    -114.845184,
+    35.984527
+],
   "geometry": {"coordinates":[-114.845184,35.984527],"type":"Point"}
 }

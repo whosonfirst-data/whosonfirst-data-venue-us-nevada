@@ -2,13 +2,14 @@
   "id": 370346149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.727358,39.178757,-119.727358,39.178757",
     "geom:latitude":39.178757,
     "geom:longitude":-119.727358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3579 US Highway 50 E Ste 303",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370346149,
-    "wof:lastmodified":1449029044,
+    "wof:lastmodified":1466705161,
     "wof:name":"Warriors Guild",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-119.727358,39.178757,-119.727358,39.178757],
+  "bbox": [
+    -119.727358,
+    39.178757,
+    -119.727358,
+    39.178757
+],
   "geometry": {"coordinates":[-119.727358,39.178757],"type":"Point"}
 }

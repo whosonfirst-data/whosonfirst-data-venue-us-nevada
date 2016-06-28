@@ -2,13 +2,14 @@
   "id": 370245475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225599,36.149739,-115.225599,36.149739",
     "geom:latitude":36.149739,
     "geom:longitude":-115.225599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 S Jones Blvd #100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370245475,
-    "wof:lastmodified":1449032358,
+    "wof:lastmodified":1466703578,
     "wof:name":"The Karten Group at Realty Executives",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.225599,36.149739,-115.225599,36.149739],
+  "bbox": [
+    -115.225599,
+    36.149739,
+    -115.225599,
+    36.149739
+],
   "geometry": {"coordinates":[-115.225599,36.149739],"type":"Point"}
 }

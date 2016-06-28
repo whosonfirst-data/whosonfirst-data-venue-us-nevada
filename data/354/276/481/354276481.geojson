@@ -2,13 +2,14 @@
   "id": 354276481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.25416,36.070304,-115.25416,36.070304",
     "geom:latitude":36.070304,
     "geom:longitude":-115.25416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6555 S Tenaya Way Suite 500",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354276481,
-    "wof:lastmodified":1449066008,
+    "wof:lastmodified":1466705561,
     "wof:name":"Scratch & Dent Depot",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.25416,36.070304,-115.25416,36.070304],
+  "bbox": [
+    -115.25416,
+    36.070304,
+    -115.25416,
+    36.070304
+],
   "geometry": {"coordinates":[-115.25416,36.070304],"type":"Point"}
 }

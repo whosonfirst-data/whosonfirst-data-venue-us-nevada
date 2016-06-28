@@ -2,13 +2,14 @@
   "id": 354057235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088997,36.027401,-115.088997,36.027401",
     "geom:latitude":36.027401,
     "geom:longitude":-115.088997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2290 Corporate Cir Ste 250",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354057235,
-    "wof:lastmodified":1449066762,
+    "wof:lastmodified":1466702965,
     "wof:name":"In Business Las Vegas",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.088997,36.027401,-115.088997,36.027401],
-  "geometry": {"coordinates":[-115.088997,36.027401],"type":"Point"}
+  "bbox": [
+    -115.088997,
+    36.027401,
+    -115.088997,
+    36.027401
+],
+  "geometry": {"coordinates":[-115.08899700000001,36.027401],"type":"Point"}
 }

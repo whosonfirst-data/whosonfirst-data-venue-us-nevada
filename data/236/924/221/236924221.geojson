@@ -2,13 +2,14 @@
   "id": 236924221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751429,39.515658,-119.751429,39.515658",
     "geom:latitude":39.515658,
     "geom:longitude":-119.751429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Edison Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236924221,
-    "wof:lastmodified":1449002379,
+    "wof:lastmodified":1466706917,
     "wof:name":"Riverside Tool & Die",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cast"
     ]
 },
-  "bbox": [-119.751429,39.515658,-119.751429,39.515658],
+  "bbox": [
+    -119.751429,
+    39.515658,
+    -119.751429,
+    39.515658
+],
   "geometry": {"coordinates":[-119.751429,39.515658],"type":"Point"}
 }

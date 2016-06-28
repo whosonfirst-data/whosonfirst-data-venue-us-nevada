@@ -2,13 +2,14 @@
   "id": 235932263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.25908,36.291972,-115.25908,36.291972",
     "geom:latitude":36.291972,
     "geom:longitude":-115.25908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7420 Bisonwood Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235932263,
-    "wof:lastmodified":1449008386,
+    "wof:lastmodified":1466703444,
     "wof:name":"Page Medi Inc",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.25908,36.291972,-115.25908,36.291972],
+  "bbox": [
+    -115.25908,
+    36.291972,
+    -115.25908,
+    36.291972
+],
   "geometry": {"coordinates":[-115.25908,36.291972],"type":"Point"}
 }

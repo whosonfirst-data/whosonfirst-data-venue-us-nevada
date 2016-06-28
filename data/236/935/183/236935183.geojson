@@ -2,13 +2,14 @@
   "id": 236935183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080933,36.033411,-115.080933,36.033411",
     "geom:latitude":36.033411,
     "geom:longitude":-115.080933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Eaglepath Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236935183,
-    "wof:lastmodified":1449004541,
+    "wof:lastmodified":1466706741,
     "wof:name":"Pinehurst Homeowners Assoc",
     "wof:parent_id":85878093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.080933,36.033411,-115.080933,36.033411],
+  "bbox": [
+    -115.080933,
+    36.033411,
+    -115.080933,
+    36.033411
+],
   "geometry": {"coordinates":[-115.080933,36.033411],"type":"Point"}
 }

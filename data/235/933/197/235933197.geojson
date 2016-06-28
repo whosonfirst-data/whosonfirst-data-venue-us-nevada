@@ -2,13 +2,14 @@
   "id": 235933197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.912613,39.508432,-118.912613,39.508432",
     "geom:latitude":39.508432,
     "geom:longitude":-118.912613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2055 Trento Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235933197,
-    "wof:lastmodified":1449008332,
+    "wof:lastmodified":1466703439,
     "wof:name":"Fallon Livestock Exchange Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "market"
     ]
 },
-  "bbox": [-118.912613,39.508432,-118.912613,39.508432],
-  "geometry": {"coordinates":[-118.912613,39.508432],"type":"Point"}
+  "bbox": [
+    -118.912613,
+    39.508432,
+    -118.912613,
+    39.508432
+],
+  "geometry": {"coordinates":[-118.91261299999999,39.508432],"type":"Point"}
 }

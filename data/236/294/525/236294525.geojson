@@ -2,13 +2,14 @@
   "id": 236294525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.723645,39.162474,-119.723645,39.162474",
     "geom:latitude":39.162474,
     "geom:longitude":-119.723645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4049 Hells Bells Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236294525,
-    "wof:lastmodified":1449004108,
+    "wof:lastmodified":1466704653,
     "wof:name":"Cheryl Howard Enterprises",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-119.723645,39.162474,-119.723645,39.162474],
+  "bbox": [
+    -119.723645,
+    39.162474,
+    -119.723645,
+    39.162474
+],
   "geometry": {"coordinates":[-119.723645,39.162474],"type":"Point"}
 }

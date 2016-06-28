@@ -2,13 +2,14 @@
   "id": 236797445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.705439,39.564256,-119.705439,39.564256",
     "geom:latitude":39.564256,
     "geom:longitude":-119.705439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Los Altos Pkwy",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236797445,
-    "wof:lastmodified":1449004854,
+    "wof:lastmodified":1466706641,
     "wof:name":"Desert Highlands Mini Storage",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-119.705439,39.564256,-119.705439,39.564256],
+  "bbox": [
+    -119.705439,
+    39.564256,
+    -119.705439,
+    39.564256
+],
   "geometry": {"coordinates":[-119.705439,39.564256],"type":"Point"}
 }

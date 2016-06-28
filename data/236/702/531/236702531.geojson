@@ -2,13 +2,14 @@
   "id": 236702531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.756301,40.833725,-115.756301,40.833725",
     "geom:latitude":40.833725,
     "geom:longitude":-115.756301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"994 River St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":236702531,
-    "wof:lastmodified":1449003271,
+    "wof:lastmodified":1466706475,
     "wof:name":"Elko County Road Dept",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.756301,40.833725,-115.756301,40.833725],
-  "geometry": {"coordinates":[-115.756301,40.833725],"type":"Point"}
+  "bbox": [
+    -115.756301,
+    40.833725,
+    -115.756301,
+    40.833725
+],
+  "geometry": {"coordinates":[-115.75630099999999,40.833725],"type":"Point"}
 }

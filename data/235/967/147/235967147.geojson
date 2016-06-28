@@ -2,13 +2,14 @@
   "id": 235967147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129235,36.097157,-115.129235,36.097157",
     "geom:latitude":36.097157,
     "geom:longitude":-115.129235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 E Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235967147,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466703596,
     "wof:name":"All Seasons Handyman & Rmdlng",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.129235,36.097157,-115.129235,36.097157],
-  "geometry": {"coordinates":[-115.129235,36.097157],"type":"Point"}
+  "bbox": [
+    -115.129235,
+    36.097157,
+    -115.129235,
+    36.097157
+],
+  "geometry": {"coordinates":[-115.12923499999999,36.097157],"type":"Point"}
 }

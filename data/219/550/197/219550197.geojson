@@ -2,13 +2,14 @@
   "id": 219550197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145835,36.099939,-115.145835,36.099939",
     "geom:latitude":36.099939,
     "geom:longitude":-115.145835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4996 Swenson St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219550197,
-    "wof:lastmodified":1449072285,
+    "wof:lastmodified":1466702236,
     "wof:name":"Groundskeeper",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.145835,36.099939,-115.145835,36.099939],
-  "geometry": {"coordinates":[-115.145835,36.099939],"type":"Point"}
+  "bbox": [
+    -115.145835,
+    36.099939,
+    -115.145835,
+    36.099939
+],
+  "geometry": {"coordinates":[-115.14583500000001,36.099939],"type":"Point"}
 }

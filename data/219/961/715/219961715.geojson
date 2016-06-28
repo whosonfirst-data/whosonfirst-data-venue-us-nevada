@@ -2,13 +2,14 @@
   "id": 219961715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.028969,36.135279,-115.028969,36.135279",
     "geom:latitude":36.135279,
     "geom:longitude":-115.028969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 S Hollywood Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219961715,
-    "wof:lastmodified":1449073843,
+    "wof:lastmodified":1466706023,
     "wof:name":"Greater Las Vegas Auto Auction",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.028969,36.135279,-115.028969,36.135279],
+  "bbox": [
+    -115.028969,
+    36.135279,
+    -115.028969,
+    36.135279
+],
   "geometry": {"coordinates":[-115.028969,36.135279],"type":"Point"}
 }

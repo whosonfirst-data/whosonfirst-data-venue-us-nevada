@@ -2,13 +2,14 @@
   "id": 354397679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172023,36.055081,-115.172023,36.055081",
     "geom:latitude":36.055081,
     "geom:longitude":-115.172023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 Las Vegas Blvd S Ste 10",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354397679,
-    "wof:lastmodified":1449066594,
+    "wof:lastmodified":1466706355,
     "wof:name":"Ann Taylor Factory",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [-115.172023,36.055081,-115.172023,36.055081],
+  "bbox": [
+    -115.172023,
+    36.055081,
+    -115.172023,
+    36.055081
+],
   "geometry": {"coordinates":[-115.172023,36.055081],"type":"Point"}
 }

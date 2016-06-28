@@ -2,13 +2,14 @@
   "id": 219702849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.941561,36.014217,-114.941561,36.014217",
     "geom:latitude":36.014217,
     "geom:longitude":-114.941561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Galangate Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219702849,
-    "wof:lastmodified":1449072140,
+    "wof:lastmodified":1466704492,
     "wof:name":"Auto Magician",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customizing"
     ]
 },
-  "bbox": [-114.941561,36.014217,-114.941561,36.014217],
-  "geometry": {"coordinates":[-114.941561,36.014217],"type":"Point"}
+  "bbox": [
+    -114.941561,
+    36.014217,
+    -114.941561,
+    36.014217
+],
+  "geometry": {"coordinates":[-114.94156099999999,36.014217],"type":"Point"}
 }

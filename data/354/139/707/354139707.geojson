@@ -2,13 +2,14 @@
   "id": 354139707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189792,36.126528,-115.189792,36.126528",
     "geom:latitude":36.126528,
     "geom:longitude":-115.189792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3775 Spring Mountain Road Suite 303",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354139707,
-    "wof:lastmodified":1449066087,
+    "wof:lastmodified":1466704659,
     "wof:name":"Spring Mountain Medical Group",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.189792,36.126528,-115.189792,36.126528],
+  "bbox": [
+    -115.189792,
+    36.126528,
+    -115.189792,
+    36.126528
+],
   "geometry": {"coordinates":[-115.189792,36.126528],"type":"Point"}
 }

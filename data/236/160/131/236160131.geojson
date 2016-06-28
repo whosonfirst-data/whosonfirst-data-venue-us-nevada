@@ -2,13 +2,14 @@
   "id": 236160131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.993333,36.018068,-114.993333,36.018068",
     "geom:latitude":36.018068,
     "geom:longitude":-114.993333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 W Long Acres Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236160131,
-    "wof:lastmodified":1449004618,
+    "wof:lastmodified":1466702777,
     "wof:name":"Pangonis Electric Co",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.993333,36.018068,-114.993333,36.018068],
-  "geometry": {"coordinates":[-114.993333,36.018068],"type":"Point"}
+  "bbox": [
+    -114.993333,
+    36.018068,
+    -114.993333,
+    36.018068
+],
+  "geometry": {"coordinates":[-114.99333300000001,36.018068],"type":"Point"}
 }

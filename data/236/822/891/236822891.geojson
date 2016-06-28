@@ -2,13 +2,14 @@
   "id": 236822891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.964669,41.111514,-114.964669,41.111514",
     "geom:latitude":41.111514,
     "geom:longitude":-114.964669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 6th St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236822891,
-    "wof:lastmodified":1449005127,
+    "wof:lastmodified":1466706812,
     "wof:name":"Michelle Rodriguez",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-114.964669,41.111514,-114.964669,41.111514],
+  "bbox": [
+    -114.964669,
+    41.111514,
+    -114.964669,
+    41.111514
+],
   "geometry": {"coordinates":[-114.964669,41.111514],"type":"Point"}
 }

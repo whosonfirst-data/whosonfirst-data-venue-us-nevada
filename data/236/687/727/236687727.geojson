@@ -2,13 +2,14 @@
   "id": 236687727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.175249,36.224816,-115.175249,36.224816",
     "geom:latitude":36.224816,
     "geom:longitude":-115.175249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Coleman St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236687727,
-    "wof:lastmodified":1449002389,
+    "wof:lastmodified":1466706460,
     "wof:name":"B & F Industries",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.175249,36.224816,-115.175249,36.224816],
-  "geometry": {"coordinates":[-115.175249,36.224816],"type":"Point"}
+  "bbox": [
+    -115.175249,
+    36.224816,
+    -115.175249,
+    36.224816
+],
+  "geometry": {"coordinates":[-115.17524899999999,36.224816],"type":"Point"}
 }

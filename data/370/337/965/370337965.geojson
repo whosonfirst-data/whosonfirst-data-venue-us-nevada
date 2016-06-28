@@ -2,13 +2,14 @@
   "id": 370337965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763884,39.164783,-119.763884,39.164783",
     "geom:latitude":39.164783,
     "geom:longitude":-119.763884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 E Musser St Ste 2",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370337965,
-    "wof:lastmodified":1449030679,
+    "wof:lastmodified":1466704825,
     "wof:name":"Nevada Property Mortgage",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-119.763884,39.164783,-119.763884,39.164783],
+  "bbox": [
+    -119.763884,
+    39.164783,
+    -119.763884,
+    39.164783
+],
   "geometry": {"coordinates":[-119.763884,39.164783],"type":"Point"}
 }

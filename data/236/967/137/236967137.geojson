@@ -2,13 +2,14 @@
   "id": 236967137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260418,36.222093,-115.260418,36.222093",
     "geom:latitude":36.222093,
     "geom:longitude":-115.260418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236967137,
-    "wof:lastmodified":1449004959,
+    "wof:lastmodified":1466706950,
     "wof:name":"Silver Hills Health Care Ctr",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-115.260418,36.222093,-115.260418,36.222093],
+  "bbox": [
+    -115.260418,
+    36.222093,
+    -115.260418,
+    36.222093
+],
   "geometry": {"coordinates":[-115.260418,36.222093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236920109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.826921,35.966059,-114.826921,35.966059",
     "geom:latitude":35.966059,
     "geom:longitude":-114.826921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 San Felipe Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236920109,
-    "wof:lastmodified":1449004345,
+    "wof:lastmodified":1466706834,
     "wof:name":"Boulder City Animal Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-114.826921,35.966059,-114.826921,35.966059],
+  "bbox": [
+    -114.826921,
+    35.966059,
+    -114.826921,
+    35.966059
+],
   "geometry": {"coordinates":[-114.826921,35.966059],"type":"Point"}
 }

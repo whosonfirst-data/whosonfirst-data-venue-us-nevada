@@ -2,13 +2,14 @@
   "id": 252707479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.70036,39.556272,-119.70036,39.556272",
     "geom:latitude":39.556272,
     "geom:longitude":-119.70036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2770 Ineisa Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252707479,
-    "wof:lastmodified":1449006351,
+    "wof:lastmodified":1466701467,
     "wof:name":"Moore Legal Video Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-119.70036,39.556272,-119.70036,39.556272],
+  "bbox": [
+    -119.70036,
+    39.556272,
+    -119.70036,
+    39.556272
+],
   "geometry": {"coordinates":[-119.70036,39.556272],"type":"Point"}
 }

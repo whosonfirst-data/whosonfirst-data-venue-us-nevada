@@ -2,13 +2,14 @@
   "id": 219619929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130561,36.203068,-115.130561,36.203068",
     "geom:latitude":36.203068,
     "geom:longitude":-115.130561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Carey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219619929,
-    "wof:lastmodified":1449071027,
+    "wof:lastmodified":1466703276,
     "wof:name":"J A Vay & Sons Inc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.130561,36.203068,-115.130561,36.203068],
+  "bbox": [
+    -115.130561,
+    36.203068,
+    -115.130561,
+    36.203068
+],
   "geometry": {"coordinates":[-115.130561,36.203068],"type":"Point"}
 }

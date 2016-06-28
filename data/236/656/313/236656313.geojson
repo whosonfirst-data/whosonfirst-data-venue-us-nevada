@@ -2,13 +2,14 @@
   "id": 236656313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.300619,36.189222,-115.300619,36.189222",
     "geom:latitude":36.189222,
     "geom:longitude":-115.300619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236656313,
-    "wof:lastmodified":1449003872,
+    "wof:lastmodified":1466706398,
     "wof:name":"Las Vegas Senior Classic",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "booking"
     ]
 },
-  "bbox": [-115.300619,36.189222,-115.300619,36.189222],
+  "bbox": [
+    -115.300619,
+    36.189222,
+    -115.300619,
+    36.189222
+],
   "geometry": {"coordinates":[-115.300619,36.189222],"type":"Point"}
 }

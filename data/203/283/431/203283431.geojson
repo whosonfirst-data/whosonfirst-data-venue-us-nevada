@@ -2,13 +2,14 @@
   "id": 203283431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295614,36.222114,-115.295614,36.222114",
     "geom:latitude":36.222114,
     "geom:longitude":-115.295614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3329 Giliam",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203283431,
-    "wof:lastmodified":1449025468,
+    "wof:lastmodified":1466702712,
     "wof:name":"5a Masonry",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.295614,36.222114,-115.295614,36.222114],
+  "bbox": [
+    -115.295614,
+    36.222114,
+    -115.295614,
+    36.222114
+],
   "geometry": {"coordinates":[-115.295614,36.222114],"type":"Point"}
 }

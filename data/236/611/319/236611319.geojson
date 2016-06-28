@@ -2,13 +2,14 @@
   "id": 236611319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773811,39.168369,-119.773811,39.168369",
     "geom:latitude":39.168369,
     "geom:longitude":-119.773811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Colleen Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236611319,
-    "wof:lastmodified":1449004406,
+    "wof:lastmodified":1466706283,
     "wof:name":"Photrek/ Kan-Yu-Kayak",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.773811,39.168369,-119.773811,39.168369],
-  "geometry": {"coordinates":[-119.773811,39.168369],"type":"Point"}
+  "bbox": [
+    -119.773811,
+    39.168369,
+    -119.773811,
+    39.168369
+],
+  "geometry": {"coordinates":[-119.77381099999999,39.168369],"type":"Point"}
 }

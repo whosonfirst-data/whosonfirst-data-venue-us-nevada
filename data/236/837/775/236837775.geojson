@@ -2,13 +2,14 @@
   "id": 236837775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.890311,39.519471,-119.890311,39.519471",
     "geom:latitude":39.519471,
     "geom:longitude":-119.890311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Chesterfield Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236837775,
-    "wof:lastmodified":1449002061,
+    "wof:lastmodified":1466706716,
     "wof:name":"Northwest Insulation Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heat"
     ]
 },
-  "bbox": [-119.890311,39.519471,-119.890311,39.519471],
+  "bbox": [
+    -119.890311,
+    39.519471,
+    -119.890311,
+    39.519471
+],
   "geometry": {"coordinates":[-119.890311,39.519471],"type":"Point"}
 }

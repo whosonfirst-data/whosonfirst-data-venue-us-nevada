@@ -2,13 +2,14 @@
   "id": 219180277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791122,39.525077,-119.791122,39.525077",
     "geom:latitude":39.525077,
     "geom:longitude":-119.791122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Gould St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219180277,
-    "wof:lastmodified":1449070512,
+    "wof:lastmodified":1466701940,
     "wof:name":"Model Dairy Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "milk"
     ]
 },
-  "bbox": [-119.791122,39.525077,-119.791122,39.525077],
+  "bbox": [
+    -119.791122,
+    39.525077,
+    -119.791122,
+    39.525077
+],
   "geometry": {"coordinates":[-119.791122,39.525077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219437477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.841329,39.272833,-119.841329,39.272833",
     "geom:latitude":39.272833,
     "geom:longitude":-119.841329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4785 Franktown Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219437477,
-    "wof:lastmodified":1449072950,
+    "wof:lastmodified":1466703815,
     "wof:name":"G F I Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "packaged"
     ]
 },
-  "bbox": [-119.841329,39.272833,-119.841329,39.272833],
+  "bbox": [
+    -119.841329,
+    39.272833,
+    -119.841329,
+    39.272833
+],
   "geometry": {"coordinates":[-119.841329,39.272833],"type":"Point"}
 }

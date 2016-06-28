@@ -2,13 +2,14 @@
   "id": 370228885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24356,36.151542,-115.24356,36.151542",
     "geom:latitude":36.151542,
     "geom:longitude":-115.24356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 S Rainbow Blvd Ste 230",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370228885,
-    "wof:lastmodified":1449030153,
+    "wof:lastmodified":1466703238,
     "wof:name":"Bartolo Physical Therapy",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.24356,36.151542,-115.24356,36.151542],
+  "bbox": [
+    -115.24356,
+    36.151542,
+    -115.24356,
+    36.151542
+],
   "geometry": {"coordinates":[-115.24356,36.151542],"type":"Point"}
 }

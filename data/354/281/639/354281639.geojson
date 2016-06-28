@@ -2,13 +2,14 @@
   "id": 354281639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094002,36.195702,-115.094002,36.195702",
     "geom:latitude":36.195702,
     "geom:longitude":-115.094002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 E Lake Mead Blvd Ofc",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354281639,
-    "wof:lastmodified":1449067393,
+    "wof:lastmodified":1466705605,
     "wof:name":"Sandy Lake Apartments",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.094002,36.195702,-115.094002,36.195702],
+  "bbox": [
+    -115.094002,
+    36.195702,
+    -115.094002,
+    36.195702
+],
   "geometry": {"coordinates":[-115.094002,36.195702],"type":"Point"}
 }

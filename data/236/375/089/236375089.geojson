@@ -2,13 +2,14 @@
   "id": 236375089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116026,36.187383,-115.116026,36.187383",
     "geom:latitude":36.187383,
     "geom:longitude":-115.116026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 N Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236375089,
-    "wof:lastmodified":1449001767,
+    "wof:lastmodified":1466705048,
     "wof:name":"Guadalajaras Galleria",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.116026,36.187383,-115.116026,36.187383],
-  "geometry": {"coordinates":[-115.116026,36.187383],"type":"Point"}
+  "bbox": [
+    -115.116026,
+    36.187383,
+    -115.116026,
+    36.187383
+],
+  "geometry": {"coordinates":[-115.11602600000001,36.187383],"type":"Point"}
 }

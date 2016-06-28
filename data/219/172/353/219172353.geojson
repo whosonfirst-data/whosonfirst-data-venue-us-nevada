@@ -2,13 +2,14 @@
   "id": 219172353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768977,39.161865,-119.768977,39.161865",
     "geom:latitude":39.161865,
     "geom:longitude":-119.768977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W 4th St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219172353,
-    "wof:lastmodified":1449071807,
+    "wof:lastmodified":1466701854,
     "wof:name":"Dee Perino Appraisals",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-119.768977,39.161865,-119.768977,39.161865],
-  "geometry": {"coordinates":[-119.768977,39.161865],"type":"Point"}
+  "bbox": [
+    -119.768977,
+    39.161865,
+    -119.768977,
+    39.161865
+],
+  "geometry": {"coordinates":[-119.76897700000001,39.161865],"type":"Point"}
 }

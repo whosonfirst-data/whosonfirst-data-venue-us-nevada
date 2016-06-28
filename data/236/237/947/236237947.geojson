@@ -2,13 +2,14 @@
   "id": 236237947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.784956,39.459821,-119.784956,39.459821",
     "geom:latitude":39.459821,
     "geom:longitude":-119.784956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7583 Water View Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236237947,
-    "wof:lastmodified":1449001740,
+    "wof:lastmodified":1466704331,
     "wof:name":"Unisearch Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.784956,39.459821,-119.784956,39.459821],
-  "geometry": {"coordinates":[-119.784956,39.459821],"type":"Point"}
+  "bbox": [
+    -119.784956,
+    39.459821,
+    -119.784956,
+    39.459821
+],
+  "geometry": {"coordinates":[-119.78495599999999,39.459821],"type":"Point"}
 }

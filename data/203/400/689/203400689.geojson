@@ -2,13 +2,14 @@
   "id": 203400689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747212,39.150199,-119.747212,39.150199",
     "geom:latitude":39.150199,
     "geom:longitude":-119.747212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203400689,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466703326,
     "wof:name":"Snap-On Tools Distribution Ctr",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maker"
     ]
 },
-  "bbox": [-119.747212,39.150199,-119.747212,39.150199],
+  "bbox": [
+    -119.747212,
+    39.150199,
+    -119.747212,
+    39.150199
+],
   "geometry": {"coordinates":[-119.747212,39.150199],"type":"Point"}
 }

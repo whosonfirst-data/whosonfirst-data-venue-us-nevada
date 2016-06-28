@@ -2,13 +2,14 @@
   "id": 236520977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764006,39.543695,-119.764006,39.543695",
     "geom:latitude":39.543695,
     "geom:longitude":-119.764006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236520977,
-    "wof:lastmodified":1449002594,
+    "wof:lastmodified":1466705798,
     "wof:name":"Plaza C Store",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.764006,39.543695,-119.764006,39.543695],
-  "geometry": {"coordinates":[-119.764006,39.543695],"type":"Point"}
+  "bbox": [
+    -119.764006,
+    39.543695,
+    -119.764006,
+    39.543695
+],
+  "geometry": {"coordinates":[-119.76400599999999,39.543695],"type":"Point"}
 }

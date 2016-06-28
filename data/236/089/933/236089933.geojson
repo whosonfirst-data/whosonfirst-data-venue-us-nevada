@@ -2,13 +2,14 @@
   "id": 236089933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.80138,39.495302,-119.80138,39.495302",
     "geom:latitude":39.495302,
     "geom:longitude":-119.80138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Brinkby Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236089933,
-    "wof:lastmodified":1449002179,
+    "wof:lastmodified":1466704153,
     "wof:name":"Medtech Services Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "electric"
     ]
 },
-  "bbox": [-119.80138,39.495302,-119.80138,39.495302],
-  "geometry": {"coordinates":[-119.80138,39.495302],"type":"Point"}
+  "bbox": [
+    -119.80138,
+    39.495302,
+    -119.80138,
+    39.495302
+],
+  "geometry": {"coordinates":[-119.80137999999999,39.495302],"type":"Point"}
 }

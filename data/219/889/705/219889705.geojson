@@ -2,13 +2,14 @@
   "id": 219889705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.148931,36.016187,-115.148931,36.016187",
     "geom:latitude":36.016187,
     "geom:longitude":-115.148931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9578 Malvasia Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219889705,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1466705591,
     "wof:name":"All Valley Pool Svc & Repair",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.148931,36.016187,-115.148931,36.016187],
+  "bbox": [
+    -115.148931,
+    36.016187,
+    -115.148931,
+    36.016187
+],
   "geometry": {"coordinates":[-115.148931,36.016187],"type":"Point"}
 }

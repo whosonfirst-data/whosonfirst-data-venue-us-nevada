@@ -2,13 +2,14 @@
   "id": 219231051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.959786,39.249048,-119.959786,39.249048",
     "geom:latitude":39.249048,
     "geom:longitude":-119.959786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"866 Oriole Way",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219231051,
-    "wof:lastmodified":1449072187,
+    "wof:lastmodified":1466702295,
     "wof:name":"North Lake Tahoe Fire District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-119.959786,39.249048,-119.959786,39.249048],
-  "geometry": {"coordinates":[-119.959786,39.249048],"type":"Point"}
+  "bbox": [
+    -119.959786,
+    39.249048,
+    -119.959786,
+    39.249048
+],
+  "geometry": {"coordinates":[-119.95978599999999,39.249048],"type":"Point"}
 }

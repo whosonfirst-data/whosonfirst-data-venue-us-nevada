@@ -2,13 +2,14 @@
   "id": 236286881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.142522,36.100933,-115.142522,36.100933",
     "geom:latitude":36.100933,
     "geom:longitude":-115.142522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236286881,
-    "wof:lastmodified":1449002328,
+    "wof:lastmodified":1466704468,
     "wof:name":"Silver State Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-115.142522,36.100933,-115.142522,36.100933],
+  "bbox": [
+    -115.142522,
+    36.100933,
+    -115.142522,
+    36.100933
+],
   "geometry": {"coordinates":[-115.142522,36.100933],"type":"Point"}
 }

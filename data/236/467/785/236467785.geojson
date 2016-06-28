@@ -2,13 +2,14 @@
   "id": 236467785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.25248,36.295636,-115.25248,36.295636",
     "geom:latitude":36.295636,
     "geom:longitude":-115.25248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7240 Lake Farm Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236467785,
-    "wof:lastmodified":1449004396,
+    "wof:lastmodified":1466705680,
     "wof:name":"Mccs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.25248,36.295636,-115.25248,36.295636],
-  "geometry": {"coordinates":[-115.25248,36.295636],"type":"Point"}
+  "bbox": [
+    -115.25248,
+    36.295636,
+    -115.25248,
+    36.295636
+],
+  "geometry": {"coordinates":[-115.25248000000001,36.295636],"type":"Point"}
 }

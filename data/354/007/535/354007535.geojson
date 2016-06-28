@@ -2,13 +2,14 @@
   "id": 354007535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082844,36.074114,-115.082844,36.074114",
     "geom:latitude":36.074114,
     "geom:longitude":-115.082844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2895 N Green Valley Pkwy #1A",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007535,
-    "wof:lastmodified":1449067354,
+    "wof:lastmodified":1466701659,
     "wof:name":"Frediani's Authentic Italian Restaurant",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.082844,36.074114,-115.082844,36.074114],
-  "geometry": {"coordinates":[-115.082844,36.074114],"type":"Point"}
+  "bbox": [
+    -115.082844,
+    36.074114,
+    -115.082844,
+    36.074114
+],
+  "geometry": {"coordinates":[-115.08284399999999,36.074114],"type":"Point"}
 }

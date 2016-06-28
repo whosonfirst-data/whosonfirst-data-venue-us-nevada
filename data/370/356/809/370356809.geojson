@@ -2,13 +2,14 @@
   "id": 370356809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766199,39.186424,-119.766199,39.186424",
     "geom:latitude":39.186424,
     "geom:longitude":-119.766199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 West Nye Lane Suite 431",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370356809,
-    "wof:lastmodified":1449031874,
+    "wof:lastmodified":1466705069,
     "wof:name":"Sun Cabo",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "guest"
     ]
 },
-  "bbox": [-119.766199,39.186424,-119.766199,39.186424],
+  "bbox": [
+    -119.766199,
+    39.186424,
+    -119.766199,
+    39.186424
+],
   "geometry": {"coordinates":[-119.766199,39.186424],"type":"Point"}
 }

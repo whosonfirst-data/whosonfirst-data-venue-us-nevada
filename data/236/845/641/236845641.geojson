@@ -2,13 +2,14 @@
   "id": 236845641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.996801,39.531197,-118.996801,39.531197",
     "geom:latitude":39.531197,
     "geom:longitude":-118.996801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Butte Vw",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236845641,
-    "wof:lastmodified":1449002080,
+    "wof:lastmodified":1466706818,
     "wof:name":"High Desert Helicopters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "air"
     ]
 },
-  "bbox": [-118.996801,39.531197,-118.996801,39.531197],
+  "bbox": [
+    -118.996801,
+    39.531197,
+    -118.996801,
+    39.531197
+],
   "geometry": {"coordinates":[-118.996801,39.531197],"type":"Point"}
 }

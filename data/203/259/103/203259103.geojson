@@ -2,13 +2,14 @@
   "id": 203259103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203328,36.159139,-115.203328,36.159139",
     "geom:latitude":36.159139,
     "geom:longitude":-115.203328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4666 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203259103,
-    "wof:lastmodified":1449025370,
+    "wof:lastmodified":1466702566,
     "wof:name":"Absolute Dancing In Ballroom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-115.203328,36.159139,-115.203328,36.159139],
+  "bbox": [
+    -115.203328,
+    36.159139,
+    -115.203328,
+    36.159139
+],
   "geometry": {"coordinates":[-115.203328,36.159139],"type":"Point"}
 }

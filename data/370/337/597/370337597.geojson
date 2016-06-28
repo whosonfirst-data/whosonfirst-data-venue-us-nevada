@@ -2,13 +2,14 @@
   "id": 370337597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767068,39.165904,-119.767068,39.165904",
     "geom:latitude":39.165904,
     "geom:longitude":-119.767068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370337597,
-    "wof:lastmodified":1449030681,
+    "wof:lastmodified":1466704817,
     "wof:name":"Juan's Grill",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-119.767068,39.165904,-119.767068,39.165904],
-  "geometry": {"coordinates":[-119.767068,39.165904],"type":"Point"}
+  "bbox": [
+    -119.767068,
+    39.165904,
+    -119.767068,
+    39.165904
+],
+  "geometry": {"coordinates":[-119.76706799999999,39.165904],"type":"Point"}
 }

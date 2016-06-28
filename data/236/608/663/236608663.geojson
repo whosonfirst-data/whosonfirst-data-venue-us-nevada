@@ -2,13 +2,14 @@
   "id": 236608663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.06613,36.199874,-115.06613,36.199874",
     "geom:latitude":36.199874,
     "geom:longitude":-115.06613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5080 Judson Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236608663,
-    "wof:lastmodified":1449002997,
+    "wof:lastmodified":1466706287,
     "wof:name":"Axle Transmission Arizona Inc",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-115.06613,36.199874,-115.06613,36.199874],
+  "bbox": [
+    -115.06613,
+    36.199874,
+    -115.06613,
+    36.199874
+],
   "geometry": {"coordinates":[-115.06613,36.199874],"type":"Point"}
 }

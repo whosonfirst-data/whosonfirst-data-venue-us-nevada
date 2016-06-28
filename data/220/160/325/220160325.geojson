@@ -2,13 +2,14 @@
   "id": 220160325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.961458,36.04324,-114.961458,36.04324",
     "geom:latitude":36.04324,
     "geom:longitude":-114.961458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Pumpkin Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220160325,
-    "wof:lastmodified":1449074735,
+    "wof:lastmodified":1466702817,
     "wof:name":"Livelys Creative Design",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.961458,36.04324,-114.961458,36.04324],
-  "geometry": {"coordinates":[-114.961458,36.04324],"type":"Point"}
+  "bbox": [
+    -114.961458,
+    36.04324,
+    -114.961458,
+    36.04324
+],
+  "geometry": {"coordinates":[-114.96145799999999,36.04324],"type":"Point"}
 }

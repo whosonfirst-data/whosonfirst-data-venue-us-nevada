@@ -2,13 +2,14 @@
   "id": 354106067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192001,36.1591,-115.192001,36.1591",
     "geom:latitude":36.1591,
     "geom:longitude":-115.192001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354106067,
-    "wof:lastmodified":1449065906,
+    "wof:lastmodified":1466704316,
     "wof:name":"A Allcampbell Printing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.192001,36.1591,-115.192001,36.1591],
+  "bbox": [
+    -115.192001,
+    36.1591,
+    -115.192001,
+    36.1591
+],
   "geometry": {"coordinates":[-115.192001,36.1591],"type":"Point"}
 }

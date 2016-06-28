@@ -2,13 +2,14 @@
   "id": 370329445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772438,39.391319,-119.772438,39.391319",
     "geom:latitude":39.391319,
     "geom:longitude":-119.772438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 de Spain Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370329445,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1466704844,
     "wof:name":"South Reno United Methodist Church",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "methodist"
     ]
 },
-  "bbox": [-119.772438,39.391319,-119.772438,39.391319],
-  "geometry": {"coordinates":[-119.772438,39.391319],"type":"Point"}
+  "bbox": [
+    -119.772438,
+    39.391319,
+    -119.772438,
+    39.391319
+],
+  "geometry": {"coordinates":[-119.77243799999999,39.391319],"type":"Point"}
 }

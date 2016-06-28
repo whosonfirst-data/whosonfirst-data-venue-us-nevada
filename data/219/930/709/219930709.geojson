@@ -2,13 +2,14 @@
   "id": 219930709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119427,36.187812,-115.119427,36.187812",
     "geom:latitude":36.187812,
     "geom:longitude":-115.119427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1536 N 22nd St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219930709,
-    "wof:lastmodified":1449071523,
+    "wof:lastmodified":1466705815,
     "wof:name":"Rancho Del Sol Apartments",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.119427,36.187812,-115.119427,36.187812],
+  "bbox": [
+    -115.119427,
+    36.187812,
+    -115.119427,
+    36.187812
+],
   "geometry": {"coordinates":[-115.119427,36.187812],"type":"Point"}
 }

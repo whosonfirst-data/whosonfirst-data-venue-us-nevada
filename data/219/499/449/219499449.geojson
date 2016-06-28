@@ -2,13 +2,14 @@
   "id": 219499449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.710862,39.547819,-119.710862,39.547819",
     "geom:latitude":39.547819,
     "geom:longitude":-119.710862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Crossing Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219499449,
-    "wof:lastmodified":1449071066,
+    "wof:lastmodified":1466704159,
     "wof:name":"Sandy Meisner",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.710862,39.547819,-119.710862,39.547819],
-  "geometry": {"coordinates":[-119.710862,39.547819],"type":"Point"}
+  "bbox": [
+    -119.710862,
+    39.547819,
+    -119.710862,
+    39.547819
+],
+  "geometry": {"coordinates":[-119.71086200000001,39.547819],"type":"Point"}
 }

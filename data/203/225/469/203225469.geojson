@@ -2,13 +2,14 @@
   "id": 203225469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.275054,36.174346,-115.275054,36.174346",
     "geom:latitude":36.174346,
     "geom:longitude":-115.275054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Breezy Tree Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203225469,
-    "wof:lastmodified":1449025501,
+    "wof:lastmodified":1466702342,
     "wof:name":"E & J Pool Consultants",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.275054,36.174346,-115.275054,36.174346],
+  "bbox": [
+    -115.275054,
+    36.174346,
+    -115.275054,
+    36.174346
+],
   "geometry": {"coordinates":[-115.275054,36.174346],"type":"Point"}
 }

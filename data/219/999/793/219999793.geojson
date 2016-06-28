@@ -2,13 +2,14 @@
   "id": 219999793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.744117,40.830954,-115.744117,40.830954",
     "geom:latitude":40.830954,
     "geom:longitude":-115.744117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1389 Lamoille Hwy",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219999793,
-    "wof:lastmodified":1449073477,
+    "wof:lastmodified":1466706182,
     "wof:name":"James W Cruson DDS",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.744117,40.830954,-115.744117,40.830954],
+  "bbox": [
+    -115.744117,
+    40.830954,
+    -115.744117,
+    40.830954
+],
   "geometry": {"coordinates":[-115.744117,40.830954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354190789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16061,36.181114,-115.16061,36.181114",
     "geom:latitude":36.181114,
     "geom:longitude":-115.16061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Martin L King Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354190789,
-    "wof:lastmodified":1449067568,
+    "wof:lastmodified":1466704958,
     "wof:name":"Bank of America",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.16061,36.181114,-115.16061,36.181114],
-  "geometry": {"coordinates":[-115.16061,36.181114],"type":"Point"}
+  "bbox": [
+    -115.16061,
+    36.181114,
+    -115.16061,
+    36.181114
+],
+  "geometry": {"coordinates":[-115.16061000000001,36.181114],"type":"Point"}
 }

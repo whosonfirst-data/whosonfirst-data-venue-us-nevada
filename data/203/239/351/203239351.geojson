@@ -2,13 +2,14 @@
   "id": 203239351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224101,36.17472,-115.224101,36.17472",
     "geom:latitude":36.17472,
     "geom:longitude":-115.224101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 N Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203239351,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466702432,
     "wof:name":"Hobo Foto",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.224101,36.17472,-115.224101,36.17472],
+  "bbox": [
+    -115.224101,
+    36.17472,
+    -115.224101,
+    36.17472
+],
   "geometry": {"coordinates":[-115.224101,36.17472],"type":"Point"}
 }

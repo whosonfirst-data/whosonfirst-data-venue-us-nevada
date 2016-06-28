@@ -2,13 +2,14 @@
   "id": 203247601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759972,39.147398,-119.759972,39.147398",
     "geom:latitude":39.147398,
     "geom:longitude":-119.759972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Birch St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203247601,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466702475,
     "wof:name":"Lindas Nursery",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.759972,39.147398,-119.759972,39.147398],
+  "bbox": [
+    -119.759972,
+    39.147398,
+    -119.759972,
+    39.147398
+],
   "geometry": {"coordinates":[-119.759972,39.147398],"type":"Point"}
 }

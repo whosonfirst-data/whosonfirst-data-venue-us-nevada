@@ -2,13 +2,14 @@
   "id": 354318743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.202307,36.086203,-115.202307,36.086203",
     "geom:latitude":36.086203,
     "geom:longitude":-115.202307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 W Russell Rd Ste 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354318743,
-    "wof:lastmodified":1449066292,
+    "wof:lastmodified":1466705849,
     "wof:name":"Gillett Construction Llc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.202307,36.086203,-115.202307,36.086203],
+  "bbox": [
+    -115.202307,
+    36.086203,
+    -115.202307,
+    36.086203
+],
   "geometry": {"coordinates":[-115.202307,36.086203],"type":"Point"}
 }

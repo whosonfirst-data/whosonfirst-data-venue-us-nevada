@@ -2,13 +2,14 @@
   "id": 220045097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731045,39.55647,-119.731045,39.55647",
     "geom:latitude":39.55647,
     "geom:longitude":-119.731045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220045097,
-    "wof:lastmodified":1449074778,
+    "wof:lastmodified":1466701930,
     "wof:name":"Big Apple Pizza & Subs LLC",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.731045,39.55647,-119.731045,39.55647],
-  "geometry": {"coordinates":[-119.731045,39.55647],"type":"Point"}
+  "bbox": [
+    -119.731045,
+    39.55647,
+    -119.731045,
+    39.55647
+],
+  "geometry": {"coordinates":[-119.73104499999999,39.55647],"type":"Point"}
 }

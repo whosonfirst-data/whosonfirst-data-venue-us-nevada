@@ -2,13 +2,14 @@
   "id": 219823369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741306,39.125215,-119.741306,39.125215",
     "geom:latitude":39.125215,
     "geom:longitude":-119.741306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Heidi Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219823369,
-    "wof:lastmodified":1449073881,
+    "wof:lastmodified":1466705307,
     "wof:name":"Stanio Engineering",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.741306,39.125215,-119.741306,39.125215],
-  "geometry": {"coordinates":[-119.741306,39.125215],"type":"Point"}
+  "bbox": [
+    -119.741306,
+    39.125215,
+    -119.741306,
+    39.125215
+],
+  "geometry": {"coordinates":[-119.74130599999999,39.125215],"type":"Point"}
 }

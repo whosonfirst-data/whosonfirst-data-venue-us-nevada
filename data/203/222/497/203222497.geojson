@@ -2,13 +2,14 @@
   "id": 203222497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760776,40.833486,-115.760776,40.833486",
     "geom:latitude":40.833486,
     "geom:longitude":-115.760776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Railroad St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203222497,
-    "wof:lastmodified":1449026250,
+    "wof:lastmodified":1466702314,
     "wof:name":"Blazing Scissors Hair",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.760776,40.833486,-115.760776,40.833486],
-  "geometry": {"coordinates":[-115.760776,40.833486],"type":"Point"}
+  "bbox": [
+    -115.760776,
+    40.833486,
+    -115.760776,
+    40.833486
+],
+  "geometry": {"coordinates":[-115.76077600000001,40.833486],"type":"Point"}
 }

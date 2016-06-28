@@ -2,13 +2,14 @@
   "id": 219775693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.703732,39.541833,-119.703732,39.541833",
     "geom:latitude":39.541833,
     "geom:longitude":-119.703732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1995 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219775693,
-    "wof:lastmodified":1449073010,
+    "wof:lastmodified":1466704818,
     "wof:name":"Sp Sparks EMPLOYEES Fed Cu",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.703732,39.541833,-119.703732,39.541833],
+  "bbox": [
+    -119.703732,
+    39.541833,
+    -119.703732,
+    39.541833
+],
   "geometry": {"coordinates":[-119.703732,39.541833],"type":"Point"}
 }

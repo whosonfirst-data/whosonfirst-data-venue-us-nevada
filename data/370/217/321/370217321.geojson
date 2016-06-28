@@ -2,13 +2,14 @@
   "id": 370217321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243744,36.16058,-115.243744,36.16058",
     "geom:latitude":36.16058,
     "geom:longitude":-115.243744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"947 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370217321,
-    "wof:lastmodified":1449032264,
+    "wof:lastmodified":1466702999,
     "wof:name":"Game Stop",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "video"
     ]
 },
-  "bbox": [-115.243744,36.16058,-115.243744,36.16058],
-  "geometry": {"coordinates":[-115.243744,36.16058],"type":"Point"}
+  "bbox": [
+    -115.243744,
+    36.16058,
+    -115.243744,
+    36.16058
+],
+  "geometry": {"coordinates":[-115.24374400000001,36.16058],"type":"Point"}
 }

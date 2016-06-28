@@ -2,13 +2,14 @@
   "id": 370182333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224033,36.2388,-115.224033,36.2388",
     "geom:latitude":36.2388,
     "geom:longitude":-115.224033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5803 W Craig Rd Ste 102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370182333,
-    "wof:lastmodified":1449031216,
+    "wof:lastmodified":1466702159,
     "wof:name":"Excel Defense Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-115.224033,36.2388,-115.224033,36.2388],
-  "geometry": {"coordinates":[-115.224033,36.2388],"type":"Point"}
+  "bbox": [
+    -115.224033,
+    36.2388,
+    -115.224033,
+    36.2388
+],
+  "geometry": {"coordinates":[-115.22403300000001,36.2388],"type":"Point"}
 }

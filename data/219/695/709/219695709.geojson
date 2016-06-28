@@ -2,13 +2,14 @@
   "id": 219695709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807441,39.491274,-119.807441,39.491274",
     "geom:latitude":39.491274,
     "geom:longitude":-119.807441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 W Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219695709,
-    "wof:lastmodified":1449071724,
+    "wof:lastmodified":1466704419,
     "wof:name":"Mail Plus More",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "receiving"
     ]
 },
-  "bbox": [-119.807441,39.491274,-119.807441,39.491274],
+  "bbox": [
+    -119.807441,
+    39.491274,
+    -119.807441,
+    39.491274
+],
   "geometry": {"coordinates":[-119.807441,39.491274],"type":"Point"}
 }

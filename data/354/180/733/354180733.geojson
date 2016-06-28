@@ -2,13 +2,14 @@
   "id": 354180733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141181,36.143856,-115.141181,36.143856",
     "geom:latitude":36.143856,
     "geom:longitude":-115.141181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E Sahara Ave Ste D6",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354180733,
-    "wof:lastmodified":1449066016,
+    "wof:lastmodified":1466704776,
     "wof:name":"420 Smoke Shop",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.141181,36.143856,-115.141181,36.143856],
+  "bbox": [
+    -115.141181,
+    36.143856,
+    -115.141181,
+    36.143856
+],
   "geometry": {"coordinates":[-115.141181,36.143856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354255947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172997,36.113201,-115.172997,36.113201",
     "geom:latitude":36.113201,
     "geom:longitude":-115.172997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354255947,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1466705263,
     "wof:name":"Giorgio Armani Boutique",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.172997,36.113201,-115.172997,36.113201],
+  "bbox": [
+    -115.172997,
+    36.113201,
+    -115.172997,
+    36.113201
+],
   "geometry": {"coordinates":[-115.172997,36.113201],"type":"Point"}
 }

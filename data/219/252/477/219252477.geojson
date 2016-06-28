@@ -2,13 +2,14 @@
   "id": 219252477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150913,36.027972,-115.150913,36.027972",
     "geom:latitude":36.027972,
     "geom:longitude":-115.150913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Beresford Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219252477,
-    "wof:lastmodified":1449070855,
+    "wof:lastmodified":1466702565,
     "wof:name":"Leger Fitness",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.150913,36.027972,-115.150913,36.027972],
+  "bbox": [
+    -115.150913,
+    36.027972,
+    -115.150913,
+    36.027972
+],
   "geometry": {"coordinates":[-115.150913,36.027972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220095471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115715,36.16622,-115.115715,36.16622",
     "geom:latitude":36.16622,
     "geom:longitude":-115.115715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 N Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220095471,
-    "wof:lastmodified":1449074445,
+    "wof:lastmodified":1466702355,
     "wof:name":"Las Vegas Armory",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "guard"
     ]
 },
-  "bbox": [-115.115715,36.16622,-115.115715,36.16622],
-  "geometry": {"coordinates":[-115.115715,36.16622],"type":"Point"}
+  "bbox": [
+    -115.115715,
+    36.16622,
+    -115.115715,
+    36.16622
+],
+  "geometry": {"coordinates":[-115.11571499999999,36.16622],"type":"Point"}
 }

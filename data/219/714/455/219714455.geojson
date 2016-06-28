@@ -2,13 +2,14 @@
   "id": 219714455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105484,36.162652,-115.105484,36.162652",
     "geom:latitude":36.162652,
     "geom:longitude":-115.105484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 N Mojave Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219714455,
-    "wof:lastmodified":1449072123,
+    "wof:lastmodified":1466704553,
     "wof:name":"Saddle Right Inc",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "harness"
     ]
 },
-  "bbox": [-115.105484,36.162652,-115.105484,36.162652],
+  "bbox": [
+    -115.105484,
+    36.162652,
+    -115.105484,
+    36.162652
+],
   "geometry": {"coordinates":[-115.105484,36.162652],"type":"Point"}
 }

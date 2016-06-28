@@ -2,13 +2,14 @@
   "id": 354079111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144245,36.163345,-115.144245,36.163345",
     "geom:latitude":36.163345,
     "geom:longitude":-115.144245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Bonneville Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354079111,
-    "wof:lastmodified":1449067367,
+    "wof:lastmodified":1466703564,
     "wof:name":"Eichhorn & Hoo, LLC",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.144245,36.163345,-115.144245,36.163345],
+  "bbox": [
+    -115.144245,
+    36.163345,
+    -115.144245,
+    36.163345
+],
   "geometry": {"coordinates":[-115.144245,36.163345],"type":"Point"}
 }

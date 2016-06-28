@@ -2,13 +2,14 @@
   "id": 203384825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.761119,40.831327,-115.761119,40.831327",
     "geom:latitude":40.831327,
     "geom:longitude":-115.761119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203384825,
-    "wof:lastmodified":1449025184,
+    "wof:lastmodified":1466703280,
     "wof:name":"Stumble Inn",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-115.761119,40.831327,-115.761119,40.831327],
-  "geometry": {"coordinates":[-115.761119,40.831327],"type":"Point"}
+  "bbox": [
+    -115.761119,
+    40.831327,
+    -115.761119,
+    40.831327
+],
+  "geometry": {"coordinates":[-115.76111899999999,40.831327],"type":"Point"}
 }

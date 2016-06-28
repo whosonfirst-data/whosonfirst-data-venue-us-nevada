@@ -2,13 +2,14 @@
   "id": 370325189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815873,39.520065,-119.815873,39.520065",
     "geom:latitude":39.520065,
     "geom:longitude":-119.815873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370325189,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1466704783,
     "wof:name":"Collins Thomas A Attorney At Law",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "probate"
     ]
 },
-  "bbox": [-119.815873,39.520065,-119.815873,39.520065],
+  "bbox": [
+    -119.815873,
+    39.520065,
+    -119.815873,
+    39.520065
+],
   "geometry": {"coordinates":[-119.815873,39.520065],"type":"Point"}
 }

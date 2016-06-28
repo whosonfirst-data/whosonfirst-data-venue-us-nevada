@@ -2,13 +2,14 @@
   "id": 354334953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156939,36.057464,-115.156939,36.057464",
     "geom:latitude":36.057464,
     "geom:longitude":-115.156939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E. Warm Springs Rd Ste 2B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354334953,
-    "wof:lastmodified":1449066402,
+    "wof:lastmodified":1466706063,
     "wof:name":"CSI Security",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-115.156939,36.057464,-115.156939,36.057464],
-  "geometry": {"coordinates":[-115.156939,36.057464],"type":"Point"}
+  "bbox": [
+    -115.156939,
+    36.057464,
+    -115.156939,
+    36.057464
+],
+  "geometry": {"coordinates":[-115.15693899999999,36.057464],"type":"Point"}
 }

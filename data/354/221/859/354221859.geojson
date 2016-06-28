@@ -2,13 +2,14 @@
   "id": 354221859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233538,36.2125,-115.233538,36.2125",
     "geom:latitude":36.2125,
     "geom:longitude":-115.233538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Torrey Pines Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":354221859,
-    "wof:lastmodified":1449066666,
+    "wof:lastmodified":1466705162,
     "wof:name":"Assembly of God-Calvary Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "day"
     ]
 },
-  "bbox": [-115.233538,36.2125,-115.233538,36.2125],
+  "bbox": [
+    -115.233538,
+    36.2125,
+    -115.233538,
+    36.2125
+],
   "geometry": {"coordinates":[-115.233538,36.2125],"type":"Point"}
 }

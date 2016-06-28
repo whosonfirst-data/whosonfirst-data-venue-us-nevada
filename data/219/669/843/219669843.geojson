@@ -2,13 +2,14 @@
   "id": 219669843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.568435,38.727633,-119.568435,38.727633",
     "geom:latitude":38.727633,
     "geom:longitude":-119.568435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 Moss Cir",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219669843,
-    "wof:lastmodified":1449070790,
+    "wof:lastmodified":1466704172,
     "wof:name":"Erik Roberts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.568435,38.727633,-119.568435,38.727633],
-  "geometry": {"coordinates":[-119.568435,38.727633],"type":"Point"}
+  "bbox": [
+    -119.568435,
+    38.727633,
+    -119.568435,
+    38.727633
+],
+  "geometry": {"coordinates":[-119.56843499999999,38.727633],"type":"Point"}
 }

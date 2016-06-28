@@ -2,13 +2,14 @@
   "id": 219429199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.228411,36.14637,-115.228411,36.14637",
     "geom:latitude":36.14637,
     "geom:longitude":-115.228411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6209 Peppermill Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219429199,
-    "wof:lastmodified":1449073717,
+    "wof:lastmodified":1466703772,
     "wof:name":"Cynlar Films Inc",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.228411,36.14637,-115.228411,36.14637],
-  "geometry": {"coordinates":[-115.228411,36.14637],"type":"Point"}
+  "bbox": [
+    -115.228411,
+    36.14637,
+    -115.228411,
+    36.14637
+],
+  "geometry": {"coordinates":[-115.22841099999999,36.14637],"type":"Point"}
 }

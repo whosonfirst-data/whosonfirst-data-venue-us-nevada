@@ -2,13 +2,14 @@
   "id": 236019587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.988912,36.03686,-114.988912,36.03686",
     "geom:latitude":36.03686,
     "geom:longitude":-114.988912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236019587,
-    "wof:lastmodified":1449003557,
+    "wof:lastmodified":1466703855,
     "wof:name":"JCP Plumbing",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.988912,36.03686,-114.988912,36.03686],
+  "bbox": [
+    -114.988912,
+    36.03686,
+    -114.988912,
+    36.03686
+],
   "geometry": {"coordinates":[-114.988912,36.03686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236953491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807542,39.509606,-119.807542,39.509606",
     "geom:latitude":39.509606,
     "geom:longitude":-119.807542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Mount Rose St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236953491,
-    "wof:lastmodified":1449004017,
+    "wof:lastmodified":1466706937,
     "wof:name":"Jeffrey H Corpuel PHD",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.807542,39.509606,-119.807542,39.509606],
+  "bbox": [
+    -119.807542,
+    39.509606,
+    -119.807542,
+    39.509606
+],
   "geometry": {"coordinates":[-119.807542,39.509606],"type":"Point"}
 }

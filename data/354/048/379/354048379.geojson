@@ -2,13 +2,14 @@
   "id": 354048379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112204,36.008488,-115.112204,36.008488",
     "geom:latitude":36.008488,
     "geom:longitude":-115.112204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2843 Saint Rose Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354048379,
-    "wof:lastmodified":1449066513,
+    "wof:lastmodified":1466702731,
     "wof:name":"Ellsworth Chad DMD Ms",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-115.112204,36.008488,-115.112204,36.008488],
-  "geometry": {"coordinates":[-115.112204,36.008488],"type":"Point"}
+  "bbox": [
+    -115.112204,
+    36.008488,
+    -115.112204,
+    36.008488
+],
+  "geometry": {"coordinates":[-115.11220400000001,36.008488],"type":"Point"}
 }

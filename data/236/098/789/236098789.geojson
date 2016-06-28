@@ -2,13 +2,14 @@
   "id": 236098789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152291,36.15132,-115.152291,36.15132",
     "geom:latitude":36.15132,
     "geom:longitude":-115.152291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236098789,
-    "wof:lastmodified":1449004823,
+    "wof:lastmodified":1466701510,
     "wof:name":"Am/PM Mini Market 5057",
     "wof:parent_id":85892665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-115.152291,36.15132,-115.152291,36.15132],
-  "geometry": {"coordinates":[-115.152291,36.15132],"type":"Point"}
+  "bbox": [
+    -115.152291,
+    36.15132,
+    -115.152291,
+    36.15132
+],
+  "geometry": {"coordinates":[-115.15229100000001,36.15132],"type":"Point"}
 }

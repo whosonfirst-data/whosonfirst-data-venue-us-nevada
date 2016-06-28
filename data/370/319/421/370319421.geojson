@@ -2,13 +2,14 @@
   "id": 370319421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.783739,39.476631,-119.783739,39.476631",
     "geom:latitude":39.476631,
     "geom:longitude":-119.783739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 Meadowood Mall Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":370319421,
-    "wof:lastmodified":1449030468,
+    "wof:lastmodified":1466704851,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-119.783739,39.476631,-119.783739,39.476631],
+  "bbox": [
+    -119.783739,
+    39.476631,
+    -119.783739,
+    39.476631
+],
   "geometry": {"coordinates":[-119.783739,39.476631],"type":"Point"}
 }

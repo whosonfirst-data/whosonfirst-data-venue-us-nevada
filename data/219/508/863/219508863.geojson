@@ -2,13 +2,14 @@
   "id": 219508863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308584,36.142138,-115.308584,36.142138",
     "geom:latitude":36.142138,
     "geom:longitude":-115.308584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2733 Grafton Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219508863,
-    "wof:lastmodified":1449072355,
+    "wof:lastmodified":1466704269,
     "wof:name":"Las Vegas Woodwind Quintet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-115.308584,36.142138,-115.308584,36.142138],
+  "bbox": [
+    -115.308584,
+    36.142138,
+    -115.308584,
+    36.142138
+],
   "geometry": {"coordinates":[-115.308584,36.142138],"type":"Point"}
 }

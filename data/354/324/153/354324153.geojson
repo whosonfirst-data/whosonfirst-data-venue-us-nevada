@@ -2,13 +2,14 @@
   "id": 354324153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241787,36.075616,-115.241787,36.075616",
     "geom:latitude":36.075616,
     "geom:longitude":-115.241787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6220 S. Rainbow Blvd.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354324153,
-    "wof:lastmodified":1449066938,
+    "wof:lastmodified":1466706014,
     "wof:name":"Holiday Inn Express Hotel Las Vegas I-215 S. Beltway",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.241787,36.075616,-115.241787,36.075616],
+  "bbox": [
+    -115.241787,
+    36.075616,
+    -115.241787,
+    36.075616
+],
   "geometry": {"coordinates":[-115.241787,36.075616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236054813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.700824,39.107838,-119.700824,39.107838",
     "geom:latitude":39.107838,
     "geom:longitude":-119.700824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6454 Sierra Vista Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236054813,
-    "wof:lastmodified":1449003155,
+    "wof:lastmodified":1466703985,
     "wof:name":"Rebuilders",
     "wof:parent_id":85842067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.700824,39.107838,-119.700824,39.107838],
+  "bbox": [
+    -119.700824,
+    39.107838,
+    -119.700824,
+    39.107838
+],
   "geometry": {"coordinates":[-119.700824,39.107838],"type":"Point"}
 }

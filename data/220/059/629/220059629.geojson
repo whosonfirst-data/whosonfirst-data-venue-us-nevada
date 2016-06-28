@@ -2,13 +2,14 @@
   "id": 220059629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774137,39.517037,-119.774137,39.517037",
     "geom:latitude":39.517037,
     "geom:longitude":-119.774137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3090 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220059629,
-    "wof:lastmodified":1449074237,
+    "wof:lastmodified":1466702133,
     "wof:name":"House of Plastics",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.774137,39.517037,-119.774137,39.517037],
+  "bbox": [
+    -119.774137,
+    39.517037,
+    -119.774137,
+    39.517037
+],
   "geometry": {"coordinates":[-119.774137,39.517037],"type":"Point"}
 }

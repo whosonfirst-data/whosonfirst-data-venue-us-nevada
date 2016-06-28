@@ -2,13 +2,14 @@
   "id": 370345171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.704002,39.184299,-119.704002,39.184299",
     "geom:latitude":39.184299,
     "geom:longitude":-119.704002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Sheep Dr Ste 8",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":370345171,
-    "wof:lastmodified":1449032209,
+    "wof:lastmodified":1466705161,
     "wof:name":"Automotive Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.704002,39.184299,-119.704002,39.184299],
+  "bbox": [
+    -119.704002,
+    39.184299,
+    -119.704002,
+    39.184299
+],
   "geometry": {"coordinates":[-119.704002,39.184299],"type":"Point"}
 }

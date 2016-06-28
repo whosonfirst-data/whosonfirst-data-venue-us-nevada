@@ -2,13 +2,14 @@
   "id": 236340407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.337532,36.177807,-115.337532,36.177807",
     "geom:latitude":36.177807,
     "geom:longitude":-115.337532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11012 Sonoma Creek Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236340407,
-    "wof:lastmodified":1449004342,
+    "wof:lastmodified":1466704968,
     "wof:name":"Administrative Secretarial Svc",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-115.337532,36.177807,-115.337532,36.177807],
+  "bbox": [
+    -115.337532,
+    36.177807,
+    -115.337532,
+    36.177807
+],
   "geometry": {"coordinates":[-115.337532,36.177807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220023489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102125,35.997238,-115.102125,35.997238",
     "geom:latitude":35.997238,
     "geom:longitude":-115.102125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10960 S Eastern Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220023489,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466701747,
     "wof:name":"Anthem Dental Inc",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.102125,35.997238,-115.102125,35.997238],
+  "bbox": [
+    -115.102125,
+    35.997238,
+    -115.102125,
+    35.997238
+],
   "geometry": {"coordinates":[-115.102125,35.997238],"type":"Point"}
 }

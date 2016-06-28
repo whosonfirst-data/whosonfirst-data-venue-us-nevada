@@ -2,13 +2,14 @@
   "id": 236832025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.233805,36.141509,-115.233805,36.141509",
     "geom:latitude":36.141509,
     "geom:longitude":-115.233805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 S Torrey Pines Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236832025,
-    "wof:lastmodified":1449001688,
+    "wof:lastmodified":1466706812,
     "wof:name":"Hotel and Casino Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.233805,36.141509,-115.233805,36.141509],
+  "bbox": [
+    -115.233805,
+    36.141509,
+    -115.233805,
+    36.141509
+],
   "geometry": {"coordinates":[-115.233805,36.141509],"type":"Point"}
 }

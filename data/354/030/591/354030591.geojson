@@ -2,13 +2,14 @@
   "id": 354030591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147882,36.217984,-115.147882,36.217984",
     "geom:latitude":36.217984,
     "geom:longitude":-115.147882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 W Cheyenne Ave Ste 220",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354030591,
-    "wof:lastmodified":1449066540,
+    "wof:lastmodified":1466702294,
     "wof:name":"Business Equipment & Supply Co",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.147882,36.217984,-115.147882,36.217984],
+  "bbox": [
+    -115.147882,
+    36.217984,
+    -115.147882,
+    36.217984
+],
   "geometry": {"coordinates":[-115.147882,36.217984],"type":"Point"}
 }

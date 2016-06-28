@@ -2,13 +2,14 @@
   "id": 219411173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716672,39.545222,-119.716672,39.545222",
     "geom:latitude":39.545222,
     "geom:longitude":-119.716672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Union Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219411173,
-    "wof:lastmodified":1449070537,
+    "wof:lastmodified":1466703693,
     "wof:name":"Sweet Tooth Candy Bouquets",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-119.716672,39.545222,-119.716672,39.545222],
+  "bbox": [
+    -119.716672,
+    39.545222,
+    -119.716672,
+    39.545222
+],
   "geometry": {"coordinates":[-119.716672,39.545222],"type":"Point"}
 }

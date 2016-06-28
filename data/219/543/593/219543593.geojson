@@ -2,13 +2,14 @@
   "id": 219543593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745454,39.521758,-119.745454,39.521758",
     "geom:latitude":39.521758,
     "geom:longitude":-119.745454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219543593,
-    "wof:lastmodified":1449071084,
+    "wof:lastmodified":1466702113,
     "wof:name":"J & L Windows Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-119.745454,39.521758,-119.745454,39.521758],
+  "bbox": [
+    -119.745454,
+    39.521758,
+    -119.745454,
+    39.521758
+],
   "geometry": {"coordinates":[-119.745454,39.521758],"type":"Point"}
 }

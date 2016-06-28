@@ -2,13 +2,14 @@
   "id": 219761287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875019,39.626557,-119.875019,39.626557",
     "geom:latitude":39.626557,
     "geom:longitude":-119.875019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 Canyon Meadows Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219761287,
-    "wof:lastmodified":1449073090,
+    "wof:lastmodified":1466704837,
     "wof:name":"Kaufman & Board Of Reno Inc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.875019,39.626557,-119.875019,39.626557],
-  "geometry": {"coordinates":[-119.875019,39.626557],"type":"Point"}
+  "bbox": [
+    -119.875019,
+    39.626557,
+    -119.875019,
+    39.626557
+],
+  "geometry": {"coordinates":[-119.87501899999999,39.626557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354408893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136151,36.031353,-115.136151,36.031353",
     "geom:latitude":36.031353,
     "geom:longitude":-115.136151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8716 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354408893,
-    "wof:lastmodified":1449066152,
+    "wof:lastmodified":1466706317,
     "wof:name":"City Blend Coffee & Smoke",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.136151,36.031353,-115.136151,36.031353],
+  "bbox": [
+    -115.136151,
+    36.031353,
+    -115.136151,
+    36.031353
+],
   "geometry": {"coordinates":[-115.136151,36.031353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236766777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769847,39.610257,-119.769847,39.610257",
     "geom:latitude":39.610257,
     "geom:longitude":-119.769847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6250 W Choctaw Ct",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236766777,
-    "wof:lastmodified":1449001645,
+    "wof:lastmodified":1466706597,
     "wof:name":"Comphel Custom Concrete",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.769847,39.610257,-119.769847,39.610257],
+  "bbox": [
+    -119.769847,
+    39.610257,
+    -119.769847,
+    39.610257
+],
   "geometry": {"coordinates":[-119.769847,39.610257],"type":"Point"}
 }

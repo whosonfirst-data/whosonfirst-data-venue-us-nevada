@@ -2,13 +2,14 @@
   "id": 219218327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.070286,36.165577,-115.070286,36.165577",
     "geom:latitude":36.165577,
     "geom:longitude":-115.070286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Carlin Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219218327,
-    "wof:lastmodified":1449072616,
+    "wof:lastmodified":1466702225,
     "wof:name":"Sun Valley Care Home",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-115.070286,36.165577,-115.070286,36.165577],
+  "bbox": [
+    -115.070286,
+    36.165577,
+    -115.070286,
+    36.165577
+],
   "geometry": {"coordinates":[-115.070286,36.165577],"type":"Point"}
 }

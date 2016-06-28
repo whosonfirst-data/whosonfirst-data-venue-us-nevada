@@ -2,13 +2,14 @@
   "id": 370293115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157863,36.120473,-115.157863,36.120473",
     "geom:latitude":36.120473,
     "geom:longitude":-115.157863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3773 Howard Hughes Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370293115,
-    "wof:lastmodified":1449029753,
+    "wof:lastmodified":1466704335,
     "wof:name":"Nevada Mortgage Processing",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.157863,36.120473,-115.157863,36.120473],
-  "geometry": {"coordinates":[-115.157863,36.120473],"type":"Point"}
+  "bbox": [
+    -115.157863,
+    36.120473,
+    -115.157863,
+    36.120473
+],
+  "geometry": {"coordinates":[-115.15786300000001,36.120473],"type":"Point"}
 }

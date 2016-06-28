@@ -2,13 +2,14 @@
   "id": 219868071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21712,35.985701,-115.21712,35.985701",
     "geom:latitude":35.985701,
     "geom:longitude":-115.21712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11216 Solaris St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219868071,
-    "wof:lastmodified":1449070534,
+    "wof:lastmodified":1466705481,
     "wof:name":"Crescent Peak Quarries",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.21712,35.985701,-115.21712,35.985701],
-  "geometry": {"coordinates":[-115.21712,35.985701],"type":"Point"}
+  "bbox": [
+    -115.21712,
+    35.985701,
+    -115.21712,
+    35.985701
+],
+  "geometry": {"coordinates":[-115.21711999999999,35.985701],"type":"Point"}
 }

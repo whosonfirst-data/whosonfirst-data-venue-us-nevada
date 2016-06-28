@@ -2,13 +2,14 @@
   "id": 354387587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114128,36.14224,-115.114128,36.14224",
     "geom:latitude":36.14224,
     "geom:longitude":-115.114128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Atlantic Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354387587,
-    "wof:lastmodified":1449067435,
+    "wof:lastmodified":1466706222,
     "wof:name":"Gilligan's Hide Away",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.114128,36.14224,-115.114128,36.14224],
-  "geometry": {"coordinates":[-115.114128,36.14224],"type":"Point"}
+  "bbox": [
+    -115.114128,
+    36.14224,
+    -115.114128,
+    36.14224
+],
+  "geometry": {"coordinates":[-115.11412799999999,36.14224],"type":"Point"}
 }

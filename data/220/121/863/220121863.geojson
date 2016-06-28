@@ -2,13 +2,14 @@
   "id": 220121863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156846,36.067911,-115.156846,36.067911",
     "geom:latitude":36.067911,
     "geom:longitude":-115.156846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Pilot Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220121863,
-    "wof:lastmodified":1449074662,
+    "wof:lastmodified":1466702550,
     "wof:name":"Dot Printer",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-115.156846,36.067911,-115.156846,36.067911],
+  "bbox": [
+    -115.156846,
+    36.067911,
+    -115.156846,
+    36.067911
+],
   "geometry": {"coordinates":[-115.156846,36.067911],"type":"Point"}
 }

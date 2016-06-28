@@ -2,13 +2,14 @@
   "id": 370248351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225009,36.126508,-115.225009,36.126508",
     "geom:latitude":36.126508,
     "geom:longitude":-115.225009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3419 S. Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370248351,
-    "wof:lastmodified":1449030931,
+    "wof:lastmodified":1466703637,
     "wof:name":"Shan Dong Chinese Restaurant",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.225009,36.126508,-115.225009,36.126508],
+  "bbox": [
+    -115.225009,
+    36.126508,
+    -115.225009,
+    36.126508
+],
   "geometry": {"coordinates":[-115.225009,36.126508],"type":"Point"}
 }

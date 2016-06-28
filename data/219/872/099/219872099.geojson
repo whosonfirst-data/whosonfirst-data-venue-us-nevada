@@ -2,13 +2,14 @@
   "id": 219872099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794636,39.504721,-119.794636,39.504721",
     "geom:latitude":39.504721,
     "geom:longitude":-119.794636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Margrave Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219872099,
-    "wof:lastmodified":1449070706,
+    "wof:lastmodified":1466705501,
     "wof:name":"Tannenbaum Construction",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.794636,39.504721,-119.794636,39.504721],
+  "bbox": [
+    -119.794636,
+    39.504721,
+    -119.794636,
+    39.504721
+],
   "geometry": {"coordinates":[-119.794636,39.504721],"type":"Point"}
 }

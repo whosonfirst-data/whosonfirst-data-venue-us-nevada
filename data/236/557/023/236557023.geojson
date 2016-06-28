@@ -2,13 +2,14 @@
   "id": 236557023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236563,36.213274,-115.236563,36.213274",
     "geom:latitude":36.213274,
     "geom:longitude":-115.236563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Sterling Silver St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236557023,
-    "wof:lastmodified":1449004113,
+    "wof:lastmodified":1466706120,
     "wof:name":"Afga Division of Bayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.236563,36.213274,-115.236563,36.213274],
+  "bbox": [
+    -115.236563,
+    36.213274,
+    -115.236563,
+    36.213274
+],
   "geometry": {"coordinates":[-115.236563,36.213274],"type":"Point"}
 }

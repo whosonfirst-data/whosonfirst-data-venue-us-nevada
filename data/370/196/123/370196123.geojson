@@ -2,13 +2,14 @@
   "id": 370196123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297295,36.181234,-115.297295,36.181234",
     "geom:latitude":36.181234,
     "geom:longitude":-115.297295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Dana Hills Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370196123,
-    "wof:lastmodified":1449029858,
+    "wof:lastmodified":1466702418,
     "wof:name":"McCann Biff MD",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.297295,36.181234,-115.297295,36.181234],
-  "geometry": {"coordinates":[-115.297295,36.181234],"type":"Point"}
+  "bbox": [
+    -115.297295,
+    36.181234,
+    -115.297295,
+    36.181234
+],
+  "geometry": {"coordinates":[-115.29729500000001,36.181234],"type":"Point"}
 }

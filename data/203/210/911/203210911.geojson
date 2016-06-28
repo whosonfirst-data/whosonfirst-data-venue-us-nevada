@@ -2,13 +2,14 @@
   "id": 203210911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813632,39.520171,-119.813632,39.520171",
     "geom:latitude":39.520171,
     "geom:longitude":-119.813632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203210911,
-    "wof:lastmodified":1449025557,
+    "wof:lastmodified":1466702164,
     "wof:name":"Silent Hand Scriptorium",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.813632,39.520171,-119.813632,39.520171],
+  "bbox": [
+    -119.813632,
+    39.520171,
+    -119.813632,
+    39.520171
+],
   "geometry": {"coordinates":[-119.813632,39.520171],"type":"Point"}
 }

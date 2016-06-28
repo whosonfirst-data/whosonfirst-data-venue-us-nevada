@@ -2,13 +2,14 @@
   "id": 203264735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085935,36.062638,-115.085935,36.062638",
     "geom:latitude":36.062638,
     "geom:longitude":-115.085935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2354 Aqua Vista Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203264735,
-    "wof:lastmodified":1449026210,
+    "wof:lastmodified":1466702609,
     "wof:name":"House of Harcat",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-115.085935,36.062638,-115.085935,36.062638],
-  "geometry": {"coordinates":[-115.085935,36.062638],"type":"Point"}
+  "bbox": [
+    -115.085935,
+    36.062638,
+    -115.085935,
+    36.062638
+],
+  "geometry": {"coordinates":[-115.08593500000001,36.062638],"type":"Point"}
 }

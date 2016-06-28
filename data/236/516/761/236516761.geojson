@@ -2,13 +2,14 @@
   "id": 236516761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128149,36.212294,-115.128149,36.212294",
     "geom:latitude":36.212294,
     "geom:longitude":-115.128149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2941 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236516761,
-    "wof:lastmodified":1449002152,
+    "wof:lastmodified":1466705903,
     "wof:name":"Global 360 Bgs Inc",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-115.128149,36.212294,-115.128149,36.212294],
-  "geometry": {"coordinates":[-115.128149,36.212294],"type":"Point"}
+  "bbox": [
+    -115.128149,
+    36.212294,
+    -115.128149,
+    36.212294
+],
+  "geometry": {"coordinates":[-115.12814899999999,36.212294],"type":"Point"}
 }

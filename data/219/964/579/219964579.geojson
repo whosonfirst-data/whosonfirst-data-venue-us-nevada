@@ -2,13 +2,14 @@
   "id": 219964579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73601,39.541807,-119.73601,39.541807",
     "geom:latitude":39.541807,
     "geom:longitude":-119.73601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219964579,
-    "wof:lastmodified":1449073060,
+    "wof:lastmodified":1466706037,
     "wof:name":"Great Basin Federal CU",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.73601,39.541807,-119.73601,39.541807],
-  "geometry": {"coordinates":[-119.73601,39.541807],"type":"Point"}
+  "bbox": [
+    -119.73601,
+    39.541807,
+    -119.73601,
+    39.541807
+],
+  "geometry": {"coordinates":[-119.73600999999999,39.541807],"type":"Point"}
 }

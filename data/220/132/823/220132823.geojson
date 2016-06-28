@@ -2,13 +2,14 @@
   "id": 220132823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236705,36.183558,-115.236705,36.183558",
     "geom:latitude":36.183558,
     "geom:longitude":-115.236705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 Fresh Meadows Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220132823,
-    "wof:lastmodified":1449074418,
+    "wof:lastmodified":1466702624,
     "wof:name":"Alcan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.236705,36.183558,-115.236705,36.183558],
+  "bbox": [
+    -115.236705,
+    36.183558,
+    -115.236705,
+    36.183558
+],
   "geometry": {"coordinates":[-115.236705,36.183558],"type":"Point"}
 }

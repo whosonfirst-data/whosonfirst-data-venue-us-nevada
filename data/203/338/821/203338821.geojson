@@ -2,13 +2,14 @@
   "id": 203338821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152494,36.157451,-115.152494,36.157451",
     "geom:latitude":36.157451,
     "geom:longitude":-115.152494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 E California Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203338821,
-    "wof:lastmodified":1449025576,
+    "wof:lastmodified":1466703089,
     "wof:name":"Winfield Corporation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.152494,36.157451,-115.152494,36.157451],
+  "bbox": [
+    -115.152494,
+    36.157451,
+    -115.152494,
+    36.157451
+],
   "geometry": {"coordinates":[-115.152494,36.157451],"type":"Point"}
 }

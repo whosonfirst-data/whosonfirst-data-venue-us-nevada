@@ -2,13 +2,14 @@
   "id": 219976345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.856235,39.499096,-119.856235,39.499096",
     "geom:latitude":39.499096,
     "geom:longitude":-119.856235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3075 Homewood Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219976345,
-    "wof:lastmodified":1449071850,
+    "wof:lastmodified":1466706080,
     "wof:name":"B Gs Deli",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.856235,39.499096,-119.856235,39.499096],
+  "bbox": [
+    -119.856235,
+    39.499096,
+    -119.856235,
+    39.499096
+],
   "geometry": {"coordinates":[-119.856235,39.499096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219288873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123839,36.018771,-115.123839,36.018771",
     "geom:latitude":36.018771,
     "geom:longitude":-115.123839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2134 Merano Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219288873,
-    "wof:lastmodified":1449070758,
+    "wof:lastmodified":1466702939,
     "wof:name":"J Dzines",
     "wof:parent_id":85879725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.123839,36.018771,-115.123839,36.018771],
+  "bbox": [
+    -115.123839,
+    36.018771,
+    -115.123839,
+    36.018771
+],
   "geometry": {"coordinates":[-115.123839,36.018771],"type":"Point"}
 }

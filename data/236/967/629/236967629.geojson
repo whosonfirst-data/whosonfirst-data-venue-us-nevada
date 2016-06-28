@@ -2,13 +2,14 @@
   "id": 236967629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115823,36.163817,-115.115823,36.163817",
     "geom:latitude":36.163817,
     "geom:longitude":-115.115823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 N Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236967629,
-    "wof:lastmodified":1449004959,
+    "wof:lastmodified":1466706951,
     "wof:name":"Dalia Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.115823,36.163817,-115.115823,36.163817],
-  "geometry": {"coordinates":[-115.115823,36.163817],"type":"Point"}
+  "bbox": [
+    -115.115823,
+    36.163817,
+    -115.115823,
+    36.163817
+],
+  "geometry": {"coordinates":[-115.11582300000001,36.163817],"type":"Point"}
 }

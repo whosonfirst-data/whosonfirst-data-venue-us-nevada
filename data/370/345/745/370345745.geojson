@@ -2,13 +2,14 @@
   "id": 370345745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766936,39.154851,-119.766936,39.154851",
     "geom:latitude":39.154851,
     "geom:longitude":-119.766936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370345745,
-    "wof:lastmodified":1449032206,
+    "wof:lastmodified":1466705023,
     "wof:name":"David Johnson Piano Studio",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "musical"
     ]
 },
-  "bbox": [-119.766936,39.154851,-119.766936,39.154851],
+  "bbox": [
+    -119.766936,
+    39.154851,
+    -119.766936,
+    39.154851
+],
   "geometry": {"coordinates":[-119.766936,39.154851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354005607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035409,36.060582,-115.035409,36.060582",
     "geom:latitude":36.060582,
     "geom:longitude":-115.035409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 S Marks St Ste 130",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354005607,
-    "wof:lastmodified":1449067528,
+    "wof:lastmodified":1466701606,
     "wof:name":"Maximum Comics",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.035409,36.060582,-115.035409,36.060582],
+  "bbox": [
+    -115.035409,
+    36.060582,
+    -115.035409,
+    36.060582
+],
   "geometry": {"coordinates":[-115.035409,36.060582],"type":"Point"}
 }

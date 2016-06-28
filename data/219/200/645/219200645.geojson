@@ -2,13 +2,14 @@
   "id": 219200645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.845947,39.535107,-119.845947,39.535107",
     "geom:latitude":39.535107,
     "geom:longitude":-119.845947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 Saint Alberts Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219200645,
-    "wof:lastmodified":1449071795,
+    "wof:lastmodified":1466702069,
     "wof:name":"Mele Mary L MST Csac",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-119.845947,39.535107,-119.845947,39.535107],
+  "bbox": [
+    -119.845947,
+    39.535107,
+    -119.845947,
+    39.535107
+],
   "geometry": {"coordinates":[-119.845947,39.535107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236740687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765941,39.552859,-119.765941,39.552859",
     "geom:latitude":39.552859,
     "geom:longitude":-119.765941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1695 York Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236740687,
-    "wof:lastmodified":1449003088,
+    "wof:lastmodified":1466706557,
     "wof:name":"White Glove Chimney Sweep",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-119.765941,39.552859,-119.765941,39.552859],
+  "bbox": [
+    -119.765941,
+    39.552859,
+    -119.765941,
+    39.552859
+],
   "geometry": {"coordinates":[-119.765941,39.552859],"type":"Point"}
 }

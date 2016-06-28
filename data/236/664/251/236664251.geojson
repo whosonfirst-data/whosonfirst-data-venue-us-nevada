@@ -2,13 +2,14 @@
   "id": 236664251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748442,39.428734,-119.748442,39.428734",
     "geom:latitude":39.428734,
     "geom:longitude":-119.748442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Arbor Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236664251,
-    "wof:lastmodified":1449002751,
+    "wof:lastmodified":1466706413,
     "wof:name":"Bedlan Landscaping",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "distribution"
     ]
 },
-  "bbox": [-119.748442,39.428734,-119.748442,39.428734],
+  "bbox": [
+    -119.748442,
+    39.428734,
+    -119.748442,
+    39.428734
+],
   "geometry": {"coordinates":[-119.748442,39.428734],"type":"Point"}
 }

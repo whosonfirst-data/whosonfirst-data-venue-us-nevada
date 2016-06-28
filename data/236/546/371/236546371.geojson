@@ -2,13 +2,14 @@
   "id": 236546371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.843427,39.52123,-119.843427,39.52123",
     "geom:latitude":39.52123,
     "geom:longitude":-119.843427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2685 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236546371,
-    "wof:lastmodified":1449001672,
+    "wof:lastmodified":1466705913,
     "wof:name":"Miracle Auto Painting",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-119.843427,39.52123,-119.843427,39.52123],
-  "geometry": {"coordinates":[-119.843427,39.52123],"type":"Point"}
+  "bbox": [
+    -119.843427,
+    39.52123,
+    -119.843427,
+    39.52123
+],
+  "geometry": {"coordinates":[-119.84342700000001,39.52123],"type":"Point"}
 }

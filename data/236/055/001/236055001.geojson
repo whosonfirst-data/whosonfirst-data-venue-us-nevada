@@ -2,13 +2,14 @@
   "id": 236055001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754279,39.143747,-119.754279,39.143747",
     "geom:latitude":39.143747,
     "geom:longitude":-119.754279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2460 Woodcrest Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236055001,
-    "wof:lastmodified":1449002235,
+    "wof:lastmodified":1466704260,
     "wof:name":"Ely Kathryn",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.754279,39.143747,-119.754279,39.143747],
+  "bbox": [
+    -119.754279,
+    39.143747,
+    -119.754279,
+    39.143747
+],
   "geometry": {"coordinates":[-119.754279,39.143747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219400945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.743342,39.587653,-119.743342,39.587653",
     "geom:latitude":39.587653,
     "geom:longitude":-119.743342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Spring Ridge Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219400945,
-    "wof:lastmodified":1449070735,
+    "wof:lastmodified":1466703647,
     "wof:name":"Murphy Homes",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.743342,39.587653,-119.743342,39.587653],
+  "bbox": [
+    -119.743342,
+    39.587653,
+    -119.743342,
+    39.587653
+],
   "geometry": {"coordinates":[-119.743342,39.587653],"type":"Point"}
 }

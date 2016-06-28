@@ -2,13 +2,14 @@
   "id": 220126943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.82184,39.512814,-119.82184,39.512814",
     "geom:latitude":39.512814,
     "geom:longitude":-119.82184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Monroe St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220126943,
-    "wof:lastmodified":1449074328,
+    "wof:lastmodified":1466702579,
     "wof:name":"Capurro Durkee Enterprises",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.82184,39.512814,-119.82184,39.512814],
-  "geometry": {"coordinates":[-119.82184,39.512814],"type":"Point"}
+  "bbox": [
+    -119.82184,
+    39.512814,
+    -119.82184,
+    39.512814
+],
+  "geometry": {"coordinates":[-119.82183999999999,39.512814],"type":"Point"}
 }

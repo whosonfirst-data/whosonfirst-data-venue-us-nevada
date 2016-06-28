@@ -2,13 +2,14 @@
   "id": 219791755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.994974,36.205612,-115.994974,36.205612",
     "geom:latitude":36.205612,
     "geom:longitude":-115.994974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1340 State Hwy 372",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219791755,
-    "wof:lastmodified":1449073113,
+    "wof:lastmodified":1466705013,
     "wof:name":"Acme Framing Components",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.994974,36.205612,-115.994974,36.205612],
+  "bbox": [
+    -115.994974,
+    36.205612,
+    -115.994974,
+    36.205612
+],
   "geometry": {"coordinates":[-115.994974,36.205612],"type":"Point"}
 }

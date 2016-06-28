@@ -2,13 +2,14 @@
   "id": 203347321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.827346,39.526564,-119.827346,39.526564",
     "geom:latitude":39.526564,
     "geom:longitude":-119.827346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203347321,
-    "wof:lastmodified":1449025828,
+    "wof:lastmodified":1466703131,
     "wof:name":"Reno Rails",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.827346,39.526564,-119.827346,39.526564],
-  "geometry": {"coordinates":[-119.827346,39.526564],"type":"Point"}
+  "bbox": [
+    -119.827346,
+    39.526564,
+    -119.827346,
+    39.526564
+],
+  "geometry": {"coordinates":[-119.82734600000001,39.526564],"type":"Point"}
 }

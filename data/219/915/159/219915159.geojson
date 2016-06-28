@@ -2,13 +2,14 @@
   "id": 219915159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086301,36.081982,-115.086301,36.081982",
     "geom:latitude":36.081982,
     "geom:longitude":-115.086301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 E Oquendo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219915159,
-    "wof:lastmodified":1449073874,
+    "wof:lastmodified":1466705593,
     "wof:name":"Rita For Travel",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.086301,36.081982,-115.086301,36.081982],
-  "geometry": {"coordinates":[-115.086301,36.081982],"type":"Point"}
+  "bbox": [
+    -115.086301,
+    36.081982,
+    -115.086301,
+    36.081982
+],
+  "geometry": {"coordinates":[-115.08630100000001,36.081982],"type":"Point"}
 }

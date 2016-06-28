@@ -2,13 +2,14 @@
   "id": 236599095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190019,36.077983,-115.190019,36.077983",
     "geom:latitude":36.077983,
     "geom:longitude":-115.190019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6265 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236599095,
-    "wof:lastmodified":1449003133,
+    "wof:lastmodified":1466706249,
     "wof:name":"Aries Marketing Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-115.190019,36.077983,-115.190019,36.077983],
-  "geometry": {"coordinates":[-115.190019,36.077983],"type":"Point"}
+  "bbox": [
+    -115.190019,
+    36.077983,
+    -115.190019,
+    36.077983
+],
+  "geometry": {"coordinates":[-115.19001900000001,36.077983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370321673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.840591,39.521091,-119.840591,39.521091",
     "geom:latitude":39.521091,
     "geom:longitude":-119.840591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Dickerson Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370321673,
-    "wof:lastmodified":1449029145,
+    "wof:lastmodified":1466704746,
     "wof:name":"Crafty's",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "restoration-antique"
     ]
 },
-  "bbox": [-119.840591,39.521091,-119.840591,39.521091],
+  "bbox": [
+    -119.840591,
+    39.521091,
+    -119.840591,
+    39.521091
+],
   "geometry": {"coordinates":[-119.840591,39.521091],"type":"Point"}
 }

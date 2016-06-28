@@ -2,13 +2,14 @@
   "id": 236895963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122101,36.224659,-115.122101,36.224659",
     "geom:latitude":36.224659,
     "geom:longitude":-115.122101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236895963,
-    "wof:lastmodified":1449002982,
+    "wof:lastmodified":1466706888,
     "wof:name":"Instant Engine Exchange",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-115.122101,36.224659,-115.122101,36.224659],
+  "bbox": [
+    -115.122101,
+    36.224659,
+    -115.122101,
+    36.224659
+],
   "geometry": {"coordinates":[-115.122101,36.224659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219355901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77409,38.955426,-119.77409,38.955426",
     "geom:latitude":38.955426,
     "geom:longitude":-119.77409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1698 County Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219355901,
-    "wof:lastmodified":1449071390,
+    "wof:lastmodified":1466703436,
     "wof:name":"Minden Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.77409,38.955426,-119.77409,38.955426],
+  "bbox": [
+    -119.77409,
+    38.955426,
+    -119.77409,
+    38.955426
+],
   "geometry": {"coordinates":[-119.77409,38.955426],"type":"Point"}
 }

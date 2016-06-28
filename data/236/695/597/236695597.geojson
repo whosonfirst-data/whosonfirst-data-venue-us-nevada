@@ -2,13 +2,14 @@
   "id": 236695597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777363,39.512703,-119.777363,39.512703",
     "geom:latitude":39.512703,
     "geom:longitude":-119.777363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Terminal Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236695597,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466706596,
     "wof:name":"Advantage Rent-A-Car",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-119.777363,39.512703,-119.777363,39.512703],
-  "geometry": {"coordinates":[-119.777363,39.512703],"type":"Point"}
+  "bbox": [
+    -119.777363,
+    39.512703,
+    -119.777363,
+    39.512703
+],
+  "geometry": {"coordinates":[-119.77736299999999,39.512703],"type":"Point"}
 }

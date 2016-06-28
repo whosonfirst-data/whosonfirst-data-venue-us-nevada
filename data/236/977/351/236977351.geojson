@@ -2,13 +2,14 @@
   "id": 236977351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838449,39.483953,-119.838449,39.483953",
     "geom:latitude":39.483953,
     "geom:longitude":-119.838449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Cashill Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236977351,
-    "wof:lastmodified":1449005346,
+    "wof:lastmodified":1466706900,
     "wof:name":"Bristol Mobile Oil Svc",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-119.838449,39.483953,-119.838449,39.483953],
+  "bbox": [
+    -119.838449,
+    39.483953,
+    -119.838449,
+    39.483953
+],
   "geometry": {"coordinates":[-119.838449,39.483953],"type":"Point"}
 }

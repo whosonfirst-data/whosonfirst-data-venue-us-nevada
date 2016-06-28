@@ -2,13 +2,14 @@
   "id": 219965213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195425,36.124487,-115.195425,36.124487",
     "geom:latitude":36.124487,
     "geom:longitude":-115.195425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4370 Sanderling Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219965213,
-    "wof:lastmodified":1449072853,
+    "wof:lastmodified":1466706033,
     "wof:name":"Condor Building Consultants",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-115.195425,36.124487,-115.195425,36.124487],
+  "bbox": [
+    -115.195425,
+    36.124487,
+    -115.195425,
+    36.124487
+],
   "geometry": {"coordinates":[-115.195425,36.124487],"type":"Point"}
 }

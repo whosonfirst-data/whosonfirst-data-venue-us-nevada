@@ -2,13 +2,14 @@
   "id": 354018601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.008977,36.031371,-115.008977,36.031371",
     "geom:latitude":36.031371,
     "geom:longitude":-115.008977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354018601,
-    "wof:lastmodified":1449066776,
+    "wof:lastmodified":1466701978,
     "wof:name":"Festival Buffet",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"
     ]
 },
-  "bbox": [-115.008977,36.031371,-115.008977,36.031371],
+  "bbox": [
+    -115.008977,
+    36.031371,
+    -115.008977,
+    36.031371
+],
   "geometry": {"coordinates":[-115.008977,36.031371],"type":"Point"}
 }

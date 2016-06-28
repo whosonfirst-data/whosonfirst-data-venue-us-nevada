@@ -2,13 +2,14 @@
   "id": 370356517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774002,39.110401,-119.774002,39.110401",
     "geom:latitude":39.110401,
     "geom:longitude":-119.774002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Topsy Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370356517,
-    "wof:lastmodified":1449031874,
+    "wof:lastmodified":1466705062,
     "wof:name":"Cost Plus World Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-119.774002,39.110401,-119.774002,39.110401],
+  "bbox": [
+    -119.774002,
+    39.110401,
+    -119.774002,
+    39.110401
+],
   "geometry": {"coordinates":[-119.774002,39.110401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220097063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226153,36.170746,-115.226153,36.170746",
     "geom:latitude":36.170746,
     "geom:longitude":-115.226153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 S Wallace Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220097063,
-    "wof:lastmodified":1449074348,
+    "wof:lastmodified":1466702350,
     "wof:name":"Bette Midler Live By B Miller",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-115.226153,36.170746,-115.226153,36.170746],
+  "bbox": [
+    -115.226153,
+    36.170746,
+    -115.226153,
+    36.170746
+],
   "geometry": {"coordinates":[-115.226153,36.170746],"type":"Point"}
 }

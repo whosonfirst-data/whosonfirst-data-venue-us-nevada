@@ -2,13 +2,14 @@
   "id": 236449171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043117,36.063711,-115.043117,36.063711",
     "geom:latitude":36.063711,
     "geom:longitude":-115.043117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236449171,
-    "wof:lastmodified":1449004964,
+    "wof:lastmodified":1466705708,
     "wof:name":"Mastercuts",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.043117,36.063711,-115.043117,36.063711],
+  "bbox": [
+    -115.043117,
+    36.063711,
+    -115.043117,
+    36.063711
+],
   "geometry": {"coordinates":[-115.043117,36.063711],"type":"Point"}
 }

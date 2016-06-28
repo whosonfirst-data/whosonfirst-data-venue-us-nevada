@@ -2,13 +2,14 @@
   "id": 370187067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206234,36.277208,-115.206234,36.277208",
     "geom:latitude":36.277208,
     "geom:longitude":-115.206234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6436 N Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370187067,
-    "wof:lastmodified":1449029589,
+    "wof:lastmodified":1466702224,
     "wof:name":"Galantuomini Gail OD",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.206234,36.277208,-115.206234,36.277208],
-  "geometry": {"coordinates":[-115.206234,36.277208],"type":"Point"}
+  "bbox": [
+    -115.206234,
+    36.277208,
+    -115.206234,
+    36.277208
+],
+  "geometry": {"coordinates":[-115.20623399999999,36.277208],"type":"Point"}
 }

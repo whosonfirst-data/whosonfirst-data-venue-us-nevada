@@ -2,13 +2,14 @@
   "id": 219176515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203781,36.092988,-115.203781,36.092988",
     "geom:latitude":36.092988,
     "geom:longitude":-115.203781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219176515,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466701919,
     "wof:name":"Joe Phillips Intl Sports",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-115.203781,36.092988,-115.203781,36.092988],
-  "geometry": {"coordinates":[-115.203781,36.092988],"type":"Point"}
+  "bbox": [
+    -115.203781,
+    36.092988,
+    -115.203781,
+    36.092988
+],
+  "geometry": {"coordinates":[-115.20378100000001,36.092988],"type":"Point"}
 }

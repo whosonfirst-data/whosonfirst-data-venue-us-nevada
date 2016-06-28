@@ -2,13 +2,14 @@
   "id": 370330093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.797664,39.538493,-119.797664,39.538493",
     "geom:latitude":39.538493,
     "geom:longitude":-119.797664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 E 9TH ST",
     "sg:city":"RENO",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":370330093,
-    "wof:lastmodified":1449030763,
+    "wof:lastmodified":1466704850,
     "wof:name":"West Hills Hospital",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "physician"
     ]
 },
-  "bbox": [-119.797664,39.538493,-119.797664,39.538493],
+  "bbox": [
+    -119.797664,
+    39.538493,
+    -119.797664,
+    39.538493
+],
   "geometry": {"coordinates":[-119.797664,39.538493],"type":"Point"}
 }

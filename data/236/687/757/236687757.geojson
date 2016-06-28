@@ -2,13 +2,14 @@
   "id": 236687757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104127,35.967944,-115.104127,35.967944",
     "geom:latitude":35.967944,
     "geom:longitude":-115.104127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2671 Evening Sky Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236687757,
-    "wof:lastmodified":1449002391,
+    "wof:lastmodified":1466706461,
     "wof:name":"Contrarian Investment Advisors",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.104127,35.967944,-115.104127,35.967944],
-  "geometry": {"coordinates":[-115.104127,35.967944],"type":"Point"}
+  "bbox": [
+    -115.104127,
+    35.967944,
+    -115.104127,
+    35.967944
+],
+  "geometry": {"coordinates":[-115.10412700000001,35.967944],"type":"Point"}
 }

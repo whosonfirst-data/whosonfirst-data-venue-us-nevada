@@ -2,13 +2,14 @@
   "id": 236332187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092012,36.240383,-115.092012,36.240383",
     "geom:latitude":36.240383,
     "geom:longitude":-115.092012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3890 E Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236332187,
-    "wof:lastmodified":1449003498,
+    "wof:lastmodified":1466704813,
     "wof:name":"Olympic Tracks Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "under"
     ]
 },
-  "bbox": [-115.092012,36.240383,-115.092012,36.240383],
+  "bbox": [
+    -115.092012,
+    36.240383,
+    -115.092012,
+    36.240383
+],
   "geometry": {"coordinates":[-115.092012,36.240383],"type":"Point"}
 }

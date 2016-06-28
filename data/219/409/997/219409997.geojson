@@ -2,13 +2,14 @@
   "id": 219409997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178746,36.127859,-115.178746,36.127859",
     "geom:latitude":36.127859,
     "geom:longitude":-115.178746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Western Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219409997,
-    "wof:lastmodified":1449071841,
+    "wof:lastmodified":1466703695,
     "wof:name":"Excecutive Distributing",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-115.178746,36.127859,-115.178746,36.127859],
+  "bbox": [
+    -115.178746,
+    36.127859,
+    -115.178746,
+    36.127859
+],
   "geometry": {"coordinates":[-115.178746,36.127859],"type":"Point"}
 }

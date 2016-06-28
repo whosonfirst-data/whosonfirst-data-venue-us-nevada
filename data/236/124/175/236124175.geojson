@@ -2,13 +2,14 @@
   "id": 236124175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.95568,39.26231,-119.95568,39.26231",
     "geom:latitude":39.26231,
     "geom:longitude":-119.95568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 College Dr",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236124175,
-    "wof:lastmodified":1449004943,
+    "wof:lastmodified":1466702017,
     "wof:name":"Kappy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-119.95568,39.26231,-119.95568,39.26231],
+  "bbox": [
+    -119.95568,
+    39.26231,
+    -119.95568,
+    39.26231
+],
   "geometry": {"coordinates":[-119.95568,39.26231],"type":"Point"}
 }

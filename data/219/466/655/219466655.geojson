@@ -2,13 +2,14 @@
   "id": 219466655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308394,36.248,-115.308394,36.248",
     "geom:latitude":36.248,
     "geom:longitude":-115.308394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 N Jensen St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219466655,
-    "wof:lastmodified":1449071458,
+    "wof:lastmodified":1466704027,
     "wof:name":"Ulterior Motifs By Tara Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.308394,36.248,-115.308394,36.248],
-  "geometry": {"coordinates":[-115.308394,36.248],"type":"Point"}
+  "bbox": [
+    -115.308394,
+    36.248,
+    -115.308394,
+    36.248
+],
+  "geometry": {"coordinates":[-115.30839400000001,36.248],"type":"Point"}
 }

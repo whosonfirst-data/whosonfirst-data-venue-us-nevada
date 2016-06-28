@@ -2,13 +2,14 @@
   "id": 219629973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.631752,35.136762,-114.631752,35.136762",
     "geom:latitude":35.136762,
     "geom:longitude":-114.631752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 Pheasant Canyon Way",
     "sg:city":"Laughlin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219629973,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466703461,
     "wof:name":"J K Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-114.631752,35.136762,-114.631752,35.136762],
-  "geometry": {"coordinates":[-114.631752,35.136762],"type":"Point"}
+  "bbox": [
+    -114.631752,
+    35.136762,
+    -114.631752,
+    35.136762
+],
+  "geometry": {"coordinates":[-114.63175200000001,35.136762],"type":"Point"}
 }

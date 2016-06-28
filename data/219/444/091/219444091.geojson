@@ -2,13 +2,14 @@
   "id": 219444091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766998,39.160637,-119.766998,39.160637",
     "geom:latitude":39.160637,
     "geom:longitude":-119.766998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219444091,
-    "wof:lastmodified":1449073427,
+    "wof:lastmodified":1466703839,
     "wof:name":"Sunburst Nevada LLC",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "registration"
     ]
 },
-  "bbox": [-119.766998,39.160637,-119.766998,39.160637],
+  "bbox": [
+    -119.766998,
+    39.160637,
+    -119.766998,
+    39.160637
+],
   "geometry": {"coordinates":[-119.766998,39.160637],"type":"Point"}
 }

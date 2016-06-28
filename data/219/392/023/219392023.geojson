@@ -2,13 +2,14 @@
   "id": 219392023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154052,36.152169,-115.154052,36.152169",
     "geom:latitude":36.152169,
     "geom:longitude":-115.154052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S Main St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219392023,
-    "wof:lastmodified":1449073228,
+    "wof:lastmodified":1466703576,
     "wof:name":"B & M Transmission Co",
     "wof:parent_id":85892671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-115.154052,36.152169,-115.154052,36.152169],
-  "geometry": {"coordinates":[-115.154052,36.152169],"type":"Point"}
+  "bbox": [
+    -115.154052,
+    36.152169,
+    -115.154052,
+    36.152169
+],
+  "geometry": {"coordinates":[-115.15405199999999,36.152169],"type":"Point"}
 }

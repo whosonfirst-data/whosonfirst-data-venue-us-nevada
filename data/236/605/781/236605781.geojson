@@ -2,13 +2,14 @@
   "id": 236605781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72621,39.028943,-119.72621,39.028943",
     "geom:latitude":39.028943,
     "geom:longitude":-119.72621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Stewart Ave",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236605781,
-    "wof:lastmodified":1449003216,
+    "wof:lastmodified":1466706365,
     "wof:name":"Valley Pump & Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.72621,39.028943,-119.72621,39.028943],
-  "geometry": {"coordinates":[-119.72621,39.028943],"type":"Point"}
+  "bbox": [
+    -119.72621,
+    39.028943,
+    -119.72621,
+    39.028943
+],
+  "geometry": {"coordinates":[-119.72620999999999,39.028943],"type":"Point"}
 }

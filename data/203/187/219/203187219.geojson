@@ -2,13 +2,14 @@
   "id": 203187219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214265,36.228129,-115.214265,36.228129",
     "geom:latitude":36.228129,
     "geom:longitude":-115.214265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5225 Gilmore Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203187219,
-    "wof:lastmodified":1449025220,
+    "wof:lastmodified":1466701895,
     "wof:name":"Welding Wizard",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.214265,36.228129,-115.214265,36.228129],
+  "bbox": [
+    -115.214265,
+    36.228129,
+    -115.214265,
+    36.228129
+],
   "geometry": {"coordinates":[-115.214265,36.228129],"type":"Point"}
 }

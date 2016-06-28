@@ -2,13 +2,14 @@
   "id": 203386893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.979349,35.996966,-114.979349,35.996966",
     "geom:latitude":35.996966,
     "geom:longitude":-114.979349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Nimitz Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203386893,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466703288,
     "wof:name":"Virtual Las Vegas",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-114.979349,35.996966,-114.979349,35.996966],
+  "bbox": [
+    -114.979349,
+    35.996966,
+    -114.979349,
+    35.996966
+],
   "geometry": {"coordinates":[-114.979349,35.996966],"type":"Point"}
 }

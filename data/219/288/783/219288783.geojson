@@ -2,13 +2,14 @@
   "id": 219288783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756064,38.999626,-119.756064,38.999626",
     "geom:latitude":38.999626,
     "geom:longitude":-119.756064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Airport Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219288783,
-    "wof:lastmodified":1449070757,
+    "wof:lastmodified":1466702938,
     "wof:name":"MEV Airport Hangers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-119.756064,38.999626,-119.756064,38.999626],
-  "geometry": {"coordinates":[-119.756064,38.999626],"type":"Point"}
+  "bbox": [
+    -119.756064,
+    38.999626,
+    -119.756064,
+    38.999626
+],
+  "geometry": {"coordinates":[-119.75606399999999,38.999626],"type":"Point"}
 }

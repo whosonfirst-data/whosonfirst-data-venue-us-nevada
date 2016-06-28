@@ -2,13 +2,14 @@
   "id": 203198581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125285,36.158788,-115.125285,36.158788",
     "geom:latitude":36.158788,
     "geom:longitude":-115.125285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203198581,
-    "wof:lastmodified":1449025602,
+    "wof:lastmodified":1466702036,
     "wof:name":"Firm Las Vegas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-115.125285,36.158788,-115.125285,36.158788],
-  "geometry": {"coordinates":[-115.125285,36.158788],"type":"Point"}
+  "bbox": [
+    -115.125285,
+    36.158788,
+    -115.125285,
+    36.158788
+],
+  "geometry": {"coordinates":[-115.12528500000001,36.158788],"type":"Point"}
 }

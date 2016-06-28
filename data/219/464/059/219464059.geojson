@@ -2,13 +2,14 @@
   "id": 219464059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751209,39.191515,-119.751209,39.191515",
     "geom:latitude":39.191515,
     "geom:longitude":-119.751209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Research Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219464059,
-    "wof:lastmodified":1449071353,
+    "wof:lastmodified":1466704010,
     "wof:name":"Carson Advocates-Cancer Care",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cancer"
     ]
 },
-  "bbox": [-119.751209,39.191515,-119.751209,39.191515],
+  "bbox": [
+    -119.751209,
+    39.191515,
+    -119.751209,
+    39.191515
+],
   "geometry": {"coordinates":[-119.751209,39.191515],"type":"Point"}
 }

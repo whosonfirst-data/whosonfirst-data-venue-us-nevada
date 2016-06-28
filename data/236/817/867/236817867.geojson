@@ -2,13 +2,14 @@
   "id": 236817867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.742385,39.527528,-119.742385,39.527528",
     "geom:latitude":39.527528,
     "geom:longitude":-119.742385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236817867,
-    "wof:lastmodified":1449004467,
+    "wof:lastmodified":1466706697,
     "wof:name":"Sport & Safety Optics Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-119.742385,39.527528,-119.742385,39.527528],
+  "bbox": [
+    -119.742385,
+    39.527528,
+    -119.742385,
+    39.527528
+],
   "geometry": {"coordinates":[-119.742385,39.527528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236130817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112413,36.005811,-115.112413,36.005811",
     "geom:latitude":36.005811,
     "geom:longitude":-115.112413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 S Eastern Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236130817,
-    "wof:lastmodified":1449002650,
+    "wof:lastmodified":1466702149,
     "wof:name":"Mark Corazzi Insurance",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.112413,36.005811,-115.112413,36.005811],
+  "bbox": [
+    -115.112413,
+    36.005811,
+    -115.112413,
+    36.005811
+],
   "geometry": {"coordinates":[-115.112413,36.005811],"type":"Point"}
 }

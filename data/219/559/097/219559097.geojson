@@ -2,13 +2,14 @@
   "id": 219559097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.839453,35.973775,-114.839453,35.973775",
     "geom:latitude":35.973775,
     "geom:longitude":-114.839453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 5th St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219559097,
-    "wof:lastmodified":1449073159,
+    "wof:lastmodified":1466702382,
     "wof:name":"Pelle Environmental Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-114.839453,35.973775,-114.839453,35.973775],
-  "geometry": {"coordinates":[-114.839453,35.973775],"type":"Point"}
+  "bbox": [
+    -114.839453,
+    35.973775,
+    -114.839453,
+    35.973775
+],
+  "geometry": {"coordinates":[-114.83945300000001,35.973775],"type":"Point"}
 }

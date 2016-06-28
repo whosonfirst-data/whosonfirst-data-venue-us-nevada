@@ -2,13 +2,14 @@
   "id": 236882731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170793,36.224084,-115.170793,36.224084",
     "geom:latitude":36.224084,
     "geom:longitude":-115.170793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3441 Clayton St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236882731,
-    "wof:lastmodified":1449002119,
+    "wof:lastmodified":1466706785,
     "wof:name":"United Road-Car Movers",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.170793,36.224084,-115.170793,36.224084],
+  "bbox": [
+    -115.170793,
+    36.224084,
+    -115.170793,
+    36.224084
+],
   "geometry": {"coordinates":[-115.170793,36.224084],"type":"Point"}
 }

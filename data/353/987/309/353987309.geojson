@@ -2,13 +2,14 @@
   "id": 353987309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.018861,36.064077,-115.018861,36.064077",
     "geom:latitude":36.064077,
     "geom:longitude":-115.018861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":353987309,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1466701510,
     "wof:name":"Sunset Deli Market",
     "wof:parent_id":85878125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.018861,36.064077,-115.018861,36.064077],
+  "bbox": [
+    -115.018861,
+    36.064077,
+    -115.018861,
+    36.064077
+],
   "geometry": {"coordinates":[-115.018861,36.064077],"type":"Point"}
 }

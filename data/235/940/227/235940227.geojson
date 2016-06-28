@@ -2,13 +2,14 @@
   "id": 235940227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73897,38.941196,-119.73897,38.941196",
     "geom:latitude":38.941196,
     "geom:longitude":-119.73897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1348 E Wales Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":235940227,
-    "wof:lastmodified":1449008339,
+    "wof:lastmodified":1466703474,
     "wof:name":"Mesazone Webpages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-119.73897,38.941196,-119.73897,38.941196],
-  "geometry": {"coordinates":[-119.73897,38.941196],"type":"Point"}
+  "bbox": [
+    -119.73897,
+    38.941196,
+    -119.73897,
+    38.941196
+],
+  "geometry": {"coordinates":[-119.73896999999999,38.941196],"type":"Point"}
 }

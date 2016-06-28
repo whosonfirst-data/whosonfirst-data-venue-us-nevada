@@ -2,13 +2,14 @@
   "id": 219653301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.132414,36.018751,-115.132414,36.018751",
     "geom:latitude":36.018751,
     "geom:longitude":-115.132414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Flora Cove Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219653301,
-    "wof:lastmodified":1449070642,
+    "wof:lastmodified":1466703875,
     "wof:name":"Vanderwerken Investments LLC",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.132414,36.018751,-115.132414,36.018751],
+  "bbox": [
+    -115.132414,
+    36.018751,
+    -115.132414,
+    36.018751
+],
   "geometry": {"coordinates":[-115.132414,36.018751],"type":"Point"}
 }

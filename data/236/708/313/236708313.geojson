@@ -2,13 +2,14 @@
   "id": 236708313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757816,38.94451,-119.757816,38.94451",
     "geom:latitude":38.94451,
     "geom:longitude":-119.757816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Mill Creek Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236708313,
-    "wof:lastmodified":1449002062,
+    "wof:lastmodified":1466706367,
     "wof:name":"Kis Futures Trading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.757816,38.94451,-119.757816,38.94451],
-  "geometry": {"coordinates":[-119.757816,38.94451],"type":"Point"}
+  "bbox": [
+    -119.757816,
+    38.94451,
+    -119.757816,
+    38.94451
+],
+  "geometry": {"coordinates":[-119.75781600000001,38.94451],"type":"Point"}
 }

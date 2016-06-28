@@ -2,13 +2,14 @@
   "id": 236517847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187634,36.14673,-115.187634,36.14673",
     "geom:latitude":36.14673,
     "geom:longitude":-115.187634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2213 Plz del Prado",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236517847,
-    "wof:lastmodified":1449003550,
+    "wof:lastmodified":1466706048,
     "wof:name":"Modern Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.187634,36.14673,-115.187634,36.14673],
+  "bbox": [
+    -115.187634,
+    36.14673,
+    -115.187634,
+    36.14673
+],
   "geometry": {"coordinates":[-115.187634,36.14673],"type":"Point"}
 }

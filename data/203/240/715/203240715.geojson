@@ -2,13 +2,14 @@
   "id": 203240715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.737289,38.88347,-119.737289,38.88347",
     "geom:latitude":38.88347,
     "geom:longitude":-119.737289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Kelly Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203240715,
-    "wof:lastmodified":1449025138,
+    "wof:lastmodified":1466702439,
     "wof:name":"Patrick Henry's As If By Magic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-119.737289,38.88347,-119.737289,38.88347],
+  "bbox": [
+    -119.737289,
+    38.88347,
+    -119.737289,
+    38.88347
+],
   "geometry": {"coordinates":[-119.737289,38.88347],"type":"Point"}
 }

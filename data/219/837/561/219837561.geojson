@@ -2,13 +2,14 @@
   "id": 219837561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765321,39.541901,-119.765321,39.541901",
     "geom:latitude":39.541901,
     "geom:longitude":-119.765321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219837561,
-    "wof:lastmodified":1449070937,
+    "wof:lastmodified":1466705260,
     "wof:name":"Interstate Insurance Svc Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.765321,39.541901,-119.765321,39.541901],
+  "bbox": [
+    -119.765321,
+    39.541901,
+    -119.765321,
+    39.541901
+],
   "geometry": {"coordinates":[-119.765321,39.541901],"type":"Point"}
 }

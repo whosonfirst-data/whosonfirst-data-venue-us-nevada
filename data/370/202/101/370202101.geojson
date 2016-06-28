@@ -2,13 +2,14 @@
   "id": 370202101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172978,36.11394,-115.172978,36.11394",
     "geom:latitude":36.11394,
     "geom:longitude":-115.172978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellagio Hotel & Casino 3600 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370202101,
-    "wof:lastmodified":1449032031,
+    "wof:lastmodified":1466702560,
     "wof:name":"Capri",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.172978,36.11394,-115.172978,36.11394],
+  "bbox": [
+    -115.172978,
+    36.11394,
+    -115.172978,
+    36.11394
+],
   "geometry": {"coordinates":[-115.172978,36.11394],"type":"Point"}
 }

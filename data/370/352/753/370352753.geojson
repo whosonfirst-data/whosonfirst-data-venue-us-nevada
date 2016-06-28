@@ -2,13 +2,14 @@
   "id": 370352753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773003,39.110298,-119.773003,39.110298",
     "geom:latitude":39.110298,
     "geom:longitude":-119.773003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Topsy Ln Ste 226B",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370352753,
-    "wof:lastmodified":1449031165,
+    "wof:lastmodified":1466705054,
     "wof:name":"Maurices Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-119.773003,39.110298,-119.773003,39.110298],
+  "bbox": [
+    -119.773003,
+    39.110298,
+    -119.773003,
+    39.110298
+],
   "geometry": {"coordinates":[-119.773003,39.110298],"type":"Point"}
 }

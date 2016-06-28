@@ -2,13 +2,14 @@
   "id": 236457317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203236,36.127863,-115.203236,36.127863",
     "geom:latitude":36.127863,
     "geom:longitude":-115.203236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3471 S Myrtle Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236457317,
-    "wof:lastmodified":1449003947,
+    "wof:lastmodified":1466705626,
     "wof:name":"P H Pools Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.203236,36.127863,-115.203236,36.127863],
+  "bbox": [
+    -115.203236,
+    36.127863,
+    -115.203236,
+    36.127863
+],
   "geometry": {"coordinates":[-115.203236,36.127863],"type":"Point"}
 }

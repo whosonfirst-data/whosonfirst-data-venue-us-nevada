@@ -2,13 +2,14 @@
   "id": 236089457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773382,39.536359,-119.773382,39.536359",
     "geom:latitude":39.536359,
     "geom:longitude":-119.773382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236089457,
-    "wof:lastmodified":1449002180,
+    "wof:lastmodified":1466704142,
     "wof:name":"Nevada Motorcycle Specialties",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.773382,39.536359,-119.773382,39.536359],
+  "bbox": [
+    -119.773382,
+    39.536359,
+    -119.773382,
+    39.536359
+],
   "geometry": {"coordinates":[-119.773382,39.536359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236524681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184069,36.13365,-115.184069,36.13365",
     "geom:latitude":36.13365,
     "geom:longitude":-115.184069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3070 W Sirius Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236524681,
-    "wof:lastmodified":1449001652,
+    "wof:lastmodified":1466705920,
     "wof:name":"Master Air Conditioning",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.184069,36.13365,-115.184069,36.13365],
-  "geometry": {"coordinates":[-115.184069,36.13365],"type":"Point"}
+  "bbox": [
+    -115.184069,
+    36.13365,
+    -115.184069,
+    36.13365
+],
+  "geometry": {"coordinates":[-115.18406899999999,36.13365],"type":"Point"}
 }

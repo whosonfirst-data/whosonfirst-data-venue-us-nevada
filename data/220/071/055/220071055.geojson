@@ -2,13 +2,14 @@
   "id": 220071055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.941985,40.647822,-116.941985,40.647822",
     "geom:latitude":40.647822,
     "geom:longitude":-116.941985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 W Front St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220071055,
-    "wof:lastmodified":1449074551,
+    "wof:lastmodified":1466702208,
     "wof:name":"Lander Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-116.941985,40.647822,-116.941985,40.647822],
+  "bbox": [
+    -116.941985,
+    40.647822,
+    -116.941985,
+    40.647822
+],
   "geometry": {"coordinates":[-116.941985,40.647822],"type":"Point"}
 }

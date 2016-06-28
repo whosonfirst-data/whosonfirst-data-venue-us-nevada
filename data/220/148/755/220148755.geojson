@@ -2,13 +2,14 @@
   "id": 220148755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076738,36.021947,-115.076738,36.021947",
     "geom:latitude":36.021947,
     "geom:longitude":-115.076738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Chestnut Ridge Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220148755,
-    "wof:lastmodified":1449074740,
+    "wof:lastmodified":1466702763,
     "wof:name":"Jpm International Inc",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-115.076738,36.021947,-115.076738,36.021947],
-  "geometry": {"coordinates":[-115.076738,36.021947],"type":"Point"}
+  "bbox": [
+    -115.076738,
+    36.021947,
+    -115.076738,
+    36.021947
+],
+  "geometry": {"coordinates":[-115.07673800000001,36.021947],"type":"Point"}
 }

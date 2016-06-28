@@ -2,13 +2,14 @@
   "id": 220089431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312537,36.197251,-115.312537,36.197251",
     "geom:latitude":36.197251,
     "geom:longitude":-115.312537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Aspen Oak St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220089431,
-    "wof:lastmodified":1449074203,
+    "wof:lastmodified":1466702317,
     "wof:name":"Summerlin Systems",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.312537,36.197251,-115.312537,36.197251],
-  "geometry": {"coordinates":[-115.312537,36.197251],"type":"Point"}
+  "bbox": [
+    -115.312537,
+    36.197251,
+    -115.312537,
+    36.197251
+],
+  "geometry": {"coordinates":[-115.31253700000001,36.197251],"type":"Point"}
 }

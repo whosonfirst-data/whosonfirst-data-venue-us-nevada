@@ -2,13 +2,14 @@
   "id": 203156219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.768611,40.794229,-117.768611,40.794229",
     "geom:latitude":40.794229,
     "geom:longitude":-117.768611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Silva Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203156219,
-    "wof:lastmodified":1449025314,
+    "wof:lastmodified":1466701574,
     "wof:name":"Diane R Powers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [-117.768611,40.794229,-117.768611,40.794229],
-  "geometry": {"coordinates":[-117.768611,40.794229],"type":"Point"}
+  "bbox": [
+    -117.768611,
+    40.794229,
+    -117.768611,
+    40.794229
+],
+  "geometry": {"coordinates":[-117.76861100000001,40.794229],"type":"Point"}
 }

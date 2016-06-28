@@ -2,13 +2,14 @@
   "id": 354062841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119827,36.241748,-115.119827,36.241748",
     "geom:latitude":36.241748,
     "geom:longitude":-115.119827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 Mendenhall Drive Unit 108",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354062841,
-    "wof:lastmodified":1449067548,
+    "wof:lastmodified":1466703106,
     "wof:name":"Blue Ribbon Relocation",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.119827,36.241748,-115.119827,36.241748],
+  "bbox": [
+    -115.119827,
+    36.241748,
+    -115.119827,
+    36.241748
+],
   "geometry": {"coordinates":[-115.119827,36.241748],"type":"Point"}
 }

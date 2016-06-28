@@ -2,13 +2,14 @@
   "id": 220032155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983322,36.014413,-114.983322,36.014413",
     "geom:latitude":36.014413,
     "geom:longitude":-114.983322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Rancho Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220032155,
-    "wof:lastmodified":1449074421,
+    "wof:lastmodified":1466701814,
     "wof:name":"Blakeley Construction Co",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-114.983322,36.014413,-114.983322,36.014413],
+  "bbox": [
+    -114.983322,
+    36.014413,
+    -114.983322,
+    36.014413
+],
   "geometry": {"coordinates":[-114.983322,36.014413],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203286719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.453467,36.549655,-114.453467,36.549655",
     "geom:latitude":36.549655,
     "geom:longitude":-114.453467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 N Moapa Valley Blvd",
     "sg:city":"Overton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203286719,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466702735,
     "wof:name":"Overton Urgent Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-114.453467,36.549655,-114.453467,36.549655],
+  "bbox": [
+    -114.453467,
+    36.549655,
+    -114.453467,
+    36.549655
+],
   "geometry": {"coordinates":[-114.453467,36.549655],"type":"Point"}
 }

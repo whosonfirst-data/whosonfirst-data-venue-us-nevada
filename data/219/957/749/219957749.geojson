@@ -2,13 +2,14 @@
   "id": 219957749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144427,36.163644,-115.144427,36.163644",
     "geom:latitude":36.163644,
     "geom:longitude":-115.144427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219957749,
-    "wof:lastmodified":1449073384,
+    "wof:lastmodified":1466705993,
     "wof:name":"Jail Busters Info",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-115.144427,36.163644,-115.144427,36.163644],
-  "geometry": {"coordinates":[-115.144427,36.163644],"type":"Point"}
+  "bbox": [
+    -115.144427,
+    36.163644,
+    -115.144427,
+    36.163644
+],
+  "geometry": {"coordinates":[-115.14442699999999,36.163644],"type":"Point"}
 }

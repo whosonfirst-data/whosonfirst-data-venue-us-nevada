@@ -2,13 +2,14 @@
   "id": 354296343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284967,36.159217,-115.284967,36.159217",
     "geom:latitude":36.159217,
     "geom:longitude":-115.284967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8704 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354296343,
-    "wof:lastmodified":1449067327,
+    "wof:lastmodified":1466705670,
     "wof:name":"Quixote Design Center",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.284967,36.159217,-115.284967,36.159217],
-  "geometry": {"coordinates":[-115.284967,36.159217],"type":"Point"}
+  "bbox": [
+    -115.284967,
+    36.159217,
+    -115.284967,
+    36.159217
+],
+  "geometry": {"coordinates":[-115.28496699999999,36.159217],"type":"Point"}
 }

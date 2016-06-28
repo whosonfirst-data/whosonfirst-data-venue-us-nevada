@@ -2,13 +2,14 @@
   "id": 220143833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.229518,36.126858,-115.229518,36.126858",
     "geom:latitude":36.126858,
     "geom:longitude":-115.229518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 el Camino Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220143833,
-    "wof:lastmodified":1449074722,
+    "wof:lastmodified":1466702730,
     "wof:name":"Draperies By Dana",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "drapery"
     ]
 },
-  "bbox": [-115.229518,36.126858,-115.229518,36.126858],
+  "bbox": [
+    -115.229518,
+    36.126858,
+    -115.229518,
+    36.126858
+],
   "geometry": {"coordinates":[-115.229518,36.126858],"type":"Point"}
 }

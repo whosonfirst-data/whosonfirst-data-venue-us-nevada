@@ -2,13 +2,14 @@
   "id": 236061175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.836837,39.523658,-119.836837,39.523658",
     "geom:latitude":39.523658,
     "geom:longitude":-119.836837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236061175,
-    "wof:lastmodified":1449004143,
+    "wof:lastmodified":1466703991,
     "wof:name":"All American Storage",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-119.836837,39.523658,-119.836837,39.523658],
+  "bbox": [
+    -119.836837,
+    39.523658,
+    -119.836837,
+    39.523658
+],
   "geometry": {"coordinates":[-119.836837,39.523658],"type":"Point"}
 }

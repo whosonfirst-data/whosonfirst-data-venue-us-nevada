@@ -2,13 +2,14 @@
   "id": 354062705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119963,36.276102,-115.119963,36.276102",
     "geom:latitude":36.276102,
     "geom:longitude":-115.119963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 E Centennial Pkwy Ste 102",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354062705,
-    "wof:lastmodified":1449067556,
+    "wof:lastmodified":1466703102,
     "wof:name":"Subway",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-115.119963,36.276102,-115.119963,36.276102],
+  "bbox": [
+    -115.119963,
+    36.276102,
+    -115.119963,
+    36.276102
+],
   "geometry": {"coordinates":[-115.119963,36.276102],"type":"Point"}
 }

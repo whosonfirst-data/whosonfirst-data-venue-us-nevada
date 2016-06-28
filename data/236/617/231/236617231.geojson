@@ -2,13 +2,14 @@
   "id": 236617231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759425,38.924963,-119.759425,38.924963",
     "geom:latitude":38.924963,
     "geom:longitude":-119.759425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Waterloo Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236617231,
-    "wof:lastmodified":1449001764,
+    "wof:lastmodified":1466706298,
     "wof:name":"Carson Valley Community Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "banks"
     ]
 },
-  "bbox": [-119.759425,38.924963,-119.759425,38.924963],
-  "geometry": {"coordinates":[-119.759425,38.924963],"type":"Point"}
+  "bbox": [
+    -119.759425,
+    38.924963,
+    -119.759425,
+    38.924963
+],
+  "geometry": {"coordinates":[-119.75942499999999,38.924963],"type":"Point"}
 }

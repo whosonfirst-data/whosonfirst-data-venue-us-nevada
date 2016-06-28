@@ -2,13 +2,14 @@
   "id": 219891695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.851749,39.547434,-119.851749,39.547434",
     "geom:latitude":39.547434,
     "geom:longitude":-119.851749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 Platte River Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219891695,
-    "wof:lastmodified":1449072516,
+    "wof:lastmodified":1466705503,
     "wof:name":"Hilton Construction Products",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.851749,39.547434,-119.851749,39.547434],
+  "bbox": [
+    -119.851749,
+    39.547434,
+    -119.851749,
+    39.547434
+],
   "geometry": {"coordinates":[-119.851749,39.547434],"type":"Point"}
 }

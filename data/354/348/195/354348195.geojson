@@ -2,13 +2,14 @@
   "id": 354348195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123001,36.1147,-115.123001,36.1147",
     "geom:latitude":36.1147,
     "geom:longitude":-115.123001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 E Flamingo Rd Ste 206",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354348195,
-    "wof:lastmodified":1449066021,
+    "wof:lastmodified":1466705995,
     "wof:name":"De La Torre Gilberto J MD",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.123001,36.1147,-115.123001,36.1147],
+  "bbox": [
+    -115.123001,
+    36.1147,
+    -115.123001,
+    36.1147
+],
   "geometry": {"coordinates":[-115.123001,36.1147],"type":"Point"}
 }

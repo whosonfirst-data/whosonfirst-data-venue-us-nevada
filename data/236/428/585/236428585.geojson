@@ -2,13 +2,14 @@
   "id": 236428585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.881718,39.637244,-119.881718,39.637244",
     "geom:latitude":39.637244,
     "geom:longitude":-119.881718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13190 Stead Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236428585,
-    "wof:lastmodified":1449004985,
+    "wof:lastmodified":1466705380,
     "wof:name":"Stead Barber Shop",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.881718,39.637244,-119.881718,39.637244],
-  "geometry": {"coordinates":[-119.881718,39.637244],"type":"Point"}
+  "bbox": [
+    -119.881718,
+    39.637244,
+    -119.881718,
+    39.637244
+],
+  "geometry": {"coordinates":[-119.88171800000001,39.637244],"type":"Point"}
 }

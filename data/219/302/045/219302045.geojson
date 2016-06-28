@@ -2,13 +2,14 @@
   "id": 219302045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200568,36.222324,-115.200568,36.222324",
     "geom:latitude":36.222324,
     "geom:longitude":-115.200568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 Red Blanket Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219302045,
-    "wof:lastmodified":1449071594,
+    "wof:lastmodified":1466703095,
     "wof:name":"Jaggedy Ann",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rock"
     ]
 },
-  "bbox": [-115.200568,36.222324,-115.200568,36.222324],
+  "bbox": [
+    -115.200568,
+    36.222324,
+    -115.200568,
+    36.222324
+],
   "geometry": {"coordinates":[-115.200568,36.222324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219272315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.05612,36.063765,-115.05612,36.063765",
     "geom:latitude":36.063765,
     "geom:longitude":-115.05612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219272315,
-    "wof:lastmodified":1449073664,
+    "wof:lastmodified":1466702755,
     "wof:name":"Bassett Direct Furniture",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.05612,36.063765,-115.05612,36.063765],
-  "geometry": {"coordinates":[-115.05612,36.063765],"type":"Point"}
+  "bbox": [
+    -115.05612,
+    36.063765,
+    -115.05612,
+    36.063765
+],
+  "geometry": {"coordinates":[-115.05612000000001,36.063765],"type":"Point"}
 }

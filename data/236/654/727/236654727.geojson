@@ -2,13 +2,14 @@
   "id": 236654727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764421,38.998173,-119.764421,38.998173",
     "geom:latitude":38.998173,
     "geom:longitude":-119.764421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2185 Park Pl",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236654727,
-    "wof:lastmodified":1449002611,
+    "wof:lastmodified":1466706405,
     "wof:name":"S T B & Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.764421,38.998173,-119.764421,38.998173],
+  "bbox": [
+    -119.764421,
+    38.998173,
+    -119.764421,
+    38.998173
+],
   "geometry": {"coordinates":[-119.764421,38.998173],"type":"Point"}
 }

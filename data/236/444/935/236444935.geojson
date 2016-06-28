@@ -2,13 +2,14 @@
   "id": 236444935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.145371,36.144016,-115.145371,36.144016",
     "geom:latitude":36.144016,
     "geom:longitude":-115.145371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236444935,
-    "wof:lastmodified":1449004707,
+    "wof:lastmodified":1466705680,
     "wof:name":"Community Family Dental",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.145371,36.144016,-115.145371,36.144016],
+  "bbox": [
+    -115.145371,
+    36.144016,
+    -115.145371,
+    36.144016
+],
   "geometry": {"coordinates":[-115.145371,36.144016],"type":"Point"}
 }

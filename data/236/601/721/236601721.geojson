@@ -2,13 +2,14 @@
   "id": 236601721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094686,36.052938,-115.094686,36.052938",
     "geom:latitude":36.052938,
     "geom:longitude":-115.094686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Abbington St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236601721,
-    "wof:lastmodified":1449003069,
+    "wof:lastmodified":1466706260,
     "wof:name":"Green Valley Piano Studio",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-115.094686,36.052938,-115.094686,36.052938],
+  "bbox": [
+    -115.094686,
+    36.052938,
+    -115.094686,
+    36.052938
+],
   "geometry": {"coordinates":[-115.094686,36.052938],"type":"Point"}
 }

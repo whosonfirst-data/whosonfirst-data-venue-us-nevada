@@ -2,13 +2,14 @@
   "id": 354107315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190513,36.133593,-115.190513,36.133593",
     "geom:latitude":36.133593,
     "geom:longitude":-115.190513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 S Valley View Blvd Ste E109",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354107315,
-    "wof:lastmodified":1449065937,
+    "wof:lastmodified":1466704323,
     "wof:name":"Got It Covered",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-115.190513,36.133593,-115.190513,36.133593],
+  "bbox": [
+    -115.190513,
+    36.133593,
+    -115.190513,
+    36.133593
+],
   "geometry": {"coordinates":[-115.190513,36.133593],"type":"Point"}
 }

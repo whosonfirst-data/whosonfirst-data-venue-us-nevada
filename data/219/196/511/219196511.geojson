@@ -2,13 +2,14 @@
   "id": 219196511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071133,36.203742,-115.071133,36.203742",
     "geom:latitude":36.203742,
     "geom:longitude":-115.071133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Marion Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219196511,
-    "wof:lastmodified":1449071191,
+    "wof:lastmodified":1466702036,
     "wof:name":"Exclusively Legal",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-115.071133,36.203742,-115.071133,36.203742],
+  "bbox": [
+    -115.071133,
+    36.203742,
+    -115.071133,
+    36.203742
+],
   "geometry": {"coordinates":[-115.071133,36.203742],"type":"Point"}
 }

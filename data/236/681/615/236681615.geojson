@@ -2,13 +2,14 @@
   "id": 236681615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762503,39.530255,-119.762503,39.530255",
     "geom:latitude":39.530255,
     "geom:longitude":-119.762503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Hymer Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236681615,
-    "wof:lastmodified":1449003711,
+    "wof:lastmodified":1466706592,
     "wof:name":"G & G Nursery & Landscaping",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.762503,39.530255,-119.762503,39.530255],
+  "bbox": [
+    -119.762503,
+    39.530255,
+    -119.762503,
+    39.530255
+],
   "geometry": {"coordinates":[-119.762503,39.530255],"type":"Point"}
 }

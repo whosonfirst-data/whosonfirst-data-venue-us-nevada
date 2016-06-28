@@ -2,13 +2,14 @@
   "id": 354171455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121002,36.159,-115.121002,36.159",
     "geom:latitude":36.159,
     "geom:longitude":-115.121002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354171455,
-    "wof:lastmodified":1449067674,
+    "wof:lastmodified":1466704835,
     "wof:name":"New Good Deals Furniture",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.121002,36.159,-115.121002,36.159],
+  "bbox": [
+    -115.121002,
+    36.159,
+    -115.121002,
+    36.159
+],
   "geometry": {"coordinates":[-115.121002,36.159],"type":"Point"}
 }

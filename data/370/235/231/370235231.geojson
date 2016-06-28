@@ -2,13 +2,14 @@
   "id": 370235231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.210078,36.137331,-115.210078,36.137331",
     "geom:latitude":36.137331,
     "geom:longitude":-115.210078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5040 Edna Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370235231,
-    "wof:lastmodified":1449029672,
+    "wof:lastmodified":1466703363,
     "wof:name":"Lions Helpfirst Foundation",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-115.210078,36.137331,-115.210078,36.137331],
+  "bbox": [
+    -115.210078,
+    36.137331,
+    -115.210078,
+    36.137331
+],
   "geometry": {"coordinates":[-115.210078,36.137331],"type":"Point"}
 }

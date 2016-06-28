@@ -2,13 +2,14 @@
   "id": 236724881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200876,36.168224,-115.200876,36.168224",
     "geom:latitude":36.168224,
     "geom:longitude":-115.200876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Mayflower Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236724881,
-    "wof:lastmodified":1449005164,
+    "wof:lastmodified":1466706671,
     "wof:name":"Greenline Lawn",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.200876,36.168224,-115.200876,36.168224],
-  "geometry": {"coordinates":[-115.200876,36.168224],"type":"Point"}
+  "bbox": [
+    -115.200876,
+    36.168224,
+    -115.200876,
+    36.168224
+],
+  "geometry": {"coordinates":[-115.20087599999999,36.168224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354172431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.065914,36.149234,-115.065914,36.149234",
     "geom:latitude":36.149234,
     "geom:longitude":-115.065914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4975 E Saint Louis Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354172431,
-    "wof:lastmodified":1449066603,
+    "wof:lastmodified":1466704712,
     "wof:name":"Kids Cove Preschool & Childcare",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.065914,36.149234,-115.065914,36.149234],
-  "geometry": {"coordinates":[-115.065914,36.149234],"type":"Point"}
+  "bbox": [
+    -115.065914,
+    36.149234,
+    -115.065914,
+    36.149234
+],
+  "geometry": {"coordinates":[-115.06591400000001,36.149234],"type":"Point"}
 }

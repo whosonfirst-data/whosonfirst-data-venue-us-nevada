@@ -2,13 +2,14 @@
   "id": 236455365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264792,36.140806,-115.264792,36.140806",
     "geom:latitude":36.140806,
     "geom:longitude":-115.264792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Harbor Hills Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236455365,
-    "wof:lastmodified":1449004614,
+    "wof:lastmodified":1466705614,
     "wof:name":"Trophy Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "award"
     ]
 },
-  "bbox": [-115.264792,36.140806,-115.264792,36.140806],
+  "bbox": [
+    -115.264792,
+    36.140806,
+    -115.264792,
+    36.140806
+],
   "geometry": {"coordinates":[-115.264792,36.140806],"type":"Point"}
 }

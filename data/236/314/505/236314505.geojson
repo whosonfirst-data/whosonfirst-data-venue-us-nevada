@@ -2,13 +2,14 @@
   "id": 236314505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.452848,40.12922,-118.452848,40.12922",
     "geom:latitude":40.12922,
     "geom:longitude":-118.452848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Fuss Rd",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236314505,
-    "wof:lastmodified":1449005083,
+    "wof:lastmodified":1466704665,
     "wof:name":"C Punch Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-118.452848,40.12922,-118.452848,40.12922],
+  "bbox": [
+    -118.452848,
+    40.12922,
+    -118.452848,
+    40.12922
+],
   "geometry": {"coordinates":[-118.452848,40.12922],"type":"Point"}
 }

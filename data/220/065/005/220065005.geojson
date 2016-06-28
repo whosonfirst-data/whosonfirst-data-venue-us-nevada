@@ -2,13 +2,14 @@
   "id": 220065005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806833,39.410352,-119.806833,39.410352",
     "geom:latitude":39.410352,
     "geom:longitude":-119.806833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2754 Sky Horse Trl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220065005,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466704206,
     "wof:name":"Scrub Bros Carpet & Upholstery",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-119.806833,39.410352,-119.806833,39.410352],
+  "bbox": [
+    -119.806833,
+    39.410352,
+    -119.806833,
+    39.410352
+],
   "geometry": {"coordinates":[-119.806833,39.410352],"type":"Point"}
 }

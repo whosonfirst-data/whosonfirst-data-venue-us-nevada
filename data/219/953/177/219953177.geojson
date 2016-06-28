@@ -2,13 +2,14 @@
   "id": 219953177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.774262,39.482746,-118.774262,39.482746",
     "geom:latitude":39.482746,
     "geom:longitude":-118.774262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Henley Ct",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219953177,
-    "wof:lastmodified":1449072824,
+    "wof:lastmodified":1466705945,
     "wof:name":"Desert Valley Massage Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-118.774262,39.482746,-118.774262,39.482746],
-  "geometry": {"coordinates":[-118.774262,39.482746],"type":"Point"}
+  "bbox": [
+    -118.774262,
+    39.482746,
+    -118.774262,
+    39.482746
+],
+  "geometry": {"coordinates":[-118.77426199999999,39.482746],"type":"Point"}
 }

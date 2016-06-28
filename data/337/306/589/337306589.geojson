@@ -2,13 +2,14 @@
   "id": 337306589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.772311,39.396198,-118.772311,39.396198",
     "geom:latitude":39.396198,
     "geom:longitude":-118.772311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Depp Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":337306589,
-    "wof:lastmodified":1449027709,
+    "wof:lastmodified":1466701880,
     "wof:name":"Snow Livestock & Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feeding"
     ]
 },
-  "bbox": [-118.772311,39.396198,-118.772311,39.396198],
+  "bbox": [
+    -118.772311,
+    39.396198,
+    -118.772311,
+    39.396198
+],
   "geometry": {"coordinates":[-118.772311,39.396198],"type":"Point"}
 }

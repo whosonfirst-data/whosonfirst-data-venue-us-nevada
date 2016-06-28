@@ -2,13 +2,14 @@
   "id": 203189245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.860024,39.260589,-114.860024,39.260589",
     "geom:latitude":39.260589,
     "geom:longitude":-114.860024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Ave C",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203189245,
-    "wof:lastmodified":1449026306,
+    "wof:lastmodified":1466701915,
     "wof:name":"Norcross Service Stations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-114.860024,39.260589,-114.860024,39.260589],
+  "bbox": [
+    -114.860024,
+    39.260589,
+    -114.860024,
+    39.260589
+],
   "geometry": {"coordinates":[-114.860024,39.260589],"type":"Point"}
 }

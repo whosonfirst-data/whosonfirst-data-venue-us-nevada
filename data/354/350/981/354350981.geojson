@@ -2,13 +2,14 @@
   "id": 354350981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12858,36.057022,-115.12858,36.057022",
     "geom:latitude":36.057022,
     "geom:longitude":-115.12858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 East Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354350981,
-    "wof:lastmodified":1449066796,
+    "wof:lastmodified":1466706116,
     "wof:name":"Sakun Thai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"
     ]
 },
-  "bbox": [-115.12858,36.057022,-115.12858,36.057022],
+  "bbox": [
+    -115.12858,
+    36.057022,
+    -115.12858,
+    36.057022
+],
   "geometry": {"coordinates":[-115.12858,36.057022],"type":"Point"}
 }

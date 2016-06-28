@@ -2,13 +2,14 @@
   "id": 236706743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.758516,39.529919,-119.758516,39.529919",
     "geom:latitude":39.529919,
     "geom:longitude":-119.758516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Icehouse Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236706743,
-    "wof:lastmodified":1449001854,
+    "wof:lastmodified":1466706487,
     "wof:name":"RJI Intl Corp",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.758516,39.529919,-119.758516,39.529919],
+  "bbox": [
+    -119.758516,
+    39.529919,
+    -119.758516,
+    39.529919
+],
   "geometry": {"coordinates":[-119.758516,39.529919],"type":"Point"}
 }

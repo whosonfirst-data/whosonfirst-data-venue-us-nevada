@@ -2,13 +2,14 @@
   "id": 203305627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203632,36.244024,-115.203632,36.244024",
     "geom:latitude":36.244024,
     "geom:longitude":-115.203632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Cayuse St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203305627,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466702892,
     "wof:name":"Las Vegas Kart Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.203632,36.244024,-115.203632,36.244024],
+  "bbox": [
+    -115.203632,
+    36.244024,
+    -115.203632,
+    36.244024
+],
   "geometry": {"coordinates":[-115.203632,36.244024],"type":"Point"}
 }

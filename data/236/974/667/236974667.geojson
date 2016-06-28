@@ -2,13 +2,14 @@
   "id": 236974667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151115,36.14682,-115.151115,36.14682",
     "geom:latitude":36.14682,
     "geom:longitude":-115.151115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Santa Paula Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236974667,
-    "wof:lastmodified":1449004726,
+    "wof:lastmodified":1466706957,
     "wof:name":"Offical Security",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-115.151115,36.14682,-115.151115,36.14682],
+  "bbox": [
+    -115.151115,
+    36.14682,
+    -115.151115,
+    36.14682
+],
   "geometry": {"coordinates":[-115.151115,36.14682],"type":"Point"}
 }

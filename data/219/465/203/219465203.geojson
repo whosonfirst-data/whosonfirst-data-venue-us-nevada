@@ -2,13 +2,14 @@
   "id": 219465203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.040474,36.202158,-116.040474,36.202158",
     "geom:latitude":36.202158,
     "geom:longitude":-116.040474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 State Hwy 372",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219465203,
-    "wof:lastmodified":1449072761,
+    "wof:lastmodified":1466704014,
     "wof:name":"Pahrump Cycle Tyre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-116.040474,36.202158,-116.040474,36.202158],
+  "bbox": [
+    -116.040474,
+    36.202158,
+    -116.040474,
+    36.202158
+],
   "geometry": {"coordinates":[-116.040474,36.202158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236814169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.954336,39.24971,-119.954336,39.24971",
     "geom:latitude":39.24971,
     "geom:longitude":-119.954336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Tahoe Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236814169,
-    "wof:lastmodified":1449002131,
+    "wof:lastmodified":1466706574,
     "wof:name":"Oenos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-119.954336,39.24971,-119.954336,39.24971],
+  "bbox": [
+    -119.954336,
+    39.24971,
+    -119.954336,
+    39.24971
+],
   "geometry": {"coordinates":[-119.954336,39.24971],"type":"Point"}
 }

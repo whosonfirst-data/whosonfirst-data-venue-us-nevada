@@ -2,13 +2,14 @@
   "id": 219703287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818698,39.507322,-119.818698,39.507322",
     "geom:latitude":39.507322,
     "geom:longitude":-119.818698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Arlington Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219703287,
-    "wof:lastmodified":1449071467,
+    "wof:lastmodified":1466704485,
     "wof:name":"Adeles At Plaza",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-119.818698,39.507322,-119.818698,39.507322],
+  "bbox": [
+    -119.818698,
+    39.507322,
+    -119.818698,
+    39.507322
+],
   "geometry": {"coordinates":[-119.818698,39.507322],"type":"Point"}
 }

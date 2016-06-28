@@ -2,13 +2,14 @@
   "id": 236402763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317918,36.186319,-115.317918,36.186319",
     "geom:latitude":36.186319,
     "geom:longitude":-115.317918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Bainberry Ridge Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236402763,
-    "wof:lastmodified":1449002554,
+    "wof:lastmodified":1466705386,
     "wof:name":"Craig Teft",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pilot"
     ]
 },
-  "bbox": [-115.317918,36.186319,-115.317918,36.186319],
-  "geometry": {"coordinates":[-115.317918,36.186319],"type":"Point"}
+  "bbox": [
+    -115.317918,
+    36.186319,
+    -115.317918,
+    36.186319
+],
+  "geometry": {"coordinates":[-115.31791800000001,36.186319],"type":"Point"}
 }

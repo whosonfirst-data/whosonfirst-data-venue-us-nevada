@@ -2,13 +2,14 @@
   "id": 252727161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.81615,39.607706,-119.81615,39.607706",
     "geom:latitude":39.607706,
     "geom:longitude":-119.81615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 E Golden Valley Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252727161,
-    "wof:lastmodified":1449005569,
+    "wof:lastmodified":1466701873,
     "wof:name":"Unique Landscape Nursery",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-119.81615,39.607706,-119.81615,39.607706],
-  "geometry": {"coordinates":[-119.81615,39.607706],"type":"Point"}
+  "bbox": [
+    -119.81615,
+    39.607706,
+    -119.81615,
+    39.607706
+],
+  "geometry": {"coordinates":[-119.81614999999999,39.607706],"type":"Point"}
 }

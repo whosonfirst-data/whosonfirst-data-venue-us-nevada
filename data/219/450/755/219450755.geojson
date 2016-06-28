@@ -2,13 +2,14 @@
   "id": 219450755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.067307,36.051959,-115.067307,36.051959",
     "geom:latitude":36.051959,
     "geom:longitude":-115.067307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1862 Muchacha Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219450755,
-    "wof:lastmodified":1449073368,
+    "wof:lastmodified":1466703888,
     "wof:name":"Picchio Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.067307,36.051959,-115.067307,36.051959],
+  "bbox": [
+    -115.067307,
+    36.051959,
+    -115.067307,
+    36.051959
+],
   "geometry": {"coordinates":[-115.067307,36.051959],"type":"Point"}
 }

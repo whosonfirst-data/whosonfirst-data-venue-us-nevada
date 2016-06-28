@@ -2,13 +2,14 @@
   "id": 236128513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214389,36.157772,-115.214389,36.157772",
     "geom:latitude":36.157772,
     "geom:longitude":-115.214389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5316 Lytton Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236128513,
-    "wof:lastmodified":1449002848,
+    "wof:lastmodified":1466702101,
     "wof:name":"Reliance Sewing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewing"
     ]
 },
-  "bbox": [-115.214389,36.157772,-115.214389,36.157772],
+  "bbox": [
+    -115.214389,
+    36.157772,
+    -115.214389,
+    36.157772
+],
   "geometry": {"coordinates":[-115.214389,36.157772],"type":"Point"}
 }

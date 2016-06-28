@@ -2,13 +2,14 @@
   "id": 219173591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.164694,36.024241,-115.164694,36.024241",
     "geom:latitude":36.024241,
     "geom:longitude":-115.164694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Woolman Rink Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219173591,
-    "wof:lastmodified":1449071072,
+    "wof:lastmodified":1466701868,
     "wof:name":"Home West Properties LLC",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-115.164694,36.024241,-115.164694,36.024241],
+  "bbox": [
+    -115.164694,
+    36.024241,
+    -115.164694,
+    36.024241
+],
   "geometry": {"coordinates":[-115.164694,36.024241],"type":"Point"}
 }

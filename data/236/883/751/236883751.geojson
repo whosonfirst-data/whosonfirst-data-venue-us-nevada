@@ -2,13 +2,14 @@
   "id": 236883751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.947725,36.0272,-114.947725,36.0272",
     "geom:latitude":36.0272,
     "geom:longitude":-114.947725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Duran St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236883751,
-    "wof:lastmodified":1449004308,
+    "wof:lastmodified":1466706791,
     "wof:name":"B K Business LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-114.947725,36.0272,-114.947725,36.0272],
-  "geometry": {"coordinates":[-114.947725,36.0272],"type":"Point"}
+  "bbox": [
+    -114.947725,
+    36.0272,
+    -114.947725,
+    36.0272
+],
+  "geometry": {"coordinates":[-114.94772500000001,36.0272],"type":"Point"}
 }

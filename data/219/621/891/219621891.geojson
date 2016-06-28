@@ -2,13 +2,14 @@
   "id": 219621891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287311,36.12665,-115.287311,36.12665",
     "geom:latitude":36.12665,
     "geom:longitude":-115.287311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3482 Hera",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219621891,
-    "wof:lastmodified":1449073499,
+    "wof:lastmodified":1466703315,
     "wof:name":"Bruise Bros Corp",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.287311,36.12665,-115.287311,36.12665],
+  "bbox": [
+    -115.287311,
+    36.12665,
+    -115.287311,
+    36.12665
+],
   "geometry": {"coordinates":[-115.287311,36.12665],"type":"Point"}
 }

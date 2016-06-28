@@ -2,13 +2,14 @@
   "id": 220031459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185447,36.106046,-115.185447,36.106046",
     "geom:latitude":36.106046,
     "geom:longitude":-115.185447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220031459,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466701820,
     "wof:name":"Special Olympics Nevada",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.185447,36.106046,-115.185447,36.106046],
+  "bbox": [
+    -115.185447,
+    36.106046,
+    -115.185447,
+    36.106046
+],
   "geometry": {"coordinates":[-115.185447,36.106046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354157025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.1985,36.100686,-115.1985,36.100686",
     "geom:latitude":36.100686,
     "geom:longitude":-115.1985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354157025,
-    "wof:lastmodified":1449067422,
+    "wof:lastmodified":1466704584,
     "wof:name":"Celebrity Estate Liquidators",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.1985,36.100686,-115.1985,36.100686],
+  "bbox": [
+    -115.1985,
+    36.100686,
+    -115.1985,
+    36.100686
+],
   "geometry": {"coordinates":[-115.1985,36.100686],"type":"Point"}
 }

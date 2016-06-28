@@ -2,13 +2,14 @@
   "id": 236293325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086324,36.061496,-115.086324,36.061496",
     "geom:latitude":36.061496,
     "geom:longitude":-115.086324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 Valleywood Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236293325,
-    "wof:lastmodified":1449002163,
+    "wof:lastmodified":1466704523,
     "wof:name":"Mextex",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-115.086324,36.061496,-115.086324,36.061496],
+  "bbox": [
+    -115.086324,
+    36.061496,
+    -115.086324,
+    36.061496
+],
   "geometry": {"coordinates":[-115.086324,36.061496],"type":"Point"}
 }

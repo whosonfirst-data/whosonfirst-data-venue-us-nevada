@@ -2,13 +2,14 @@
   "id": 354405543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118415,36.021624,-115.118415,36.021624",
     "geom:latitude":36.021624,
     "geom:longitude":-115.118415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9220 S Eastern Ste 100",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354405543,
-    "wof:lastmodified":1449067518,
+    "wof:lastmodified":1466706297,
     "wof:name":"The Dog Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "groomers"
     ]
 },
-  "bbox": [-115.118415,36.021624,-115.118415,36.021624],
+  "bbox": [
+    -115.118415,
+    36.021624,
+    -115.118415,
+    36.021624
+],
   "geometry": {"coordinates":[-115.118415,36.021624],"type":"Point"}
 }

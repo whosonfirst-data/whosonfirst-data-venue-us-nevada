@@ -2,13 +2,14 @@
   "id": 236290107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136991,36.178458,-115.136991,36.178458",
     "geom:latitude":36.178458,
     "geom:longitude":-115.136991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 N Veterans Memorial Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236290107,
-    "wof:lastmodified":1449003003,
+    "wof:lastmodified":1466704611,
     "wof:name":"Las Vegas City Outreach Svc",
     "wof:parent_id":85896893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-115.136991,36.178458,-115.136991,36.178458],
-  "geometry": {"coordinates":[-115.136991,36.178458],"type":"Point"}
+  "bbox": [
+    -115.136991,
+    36.178458,
+    -115.136991,
+    36.178458
+],
+  "geometry": {"coordinates":[-115.13699099999999,36.178458],"type":"Point"}
 }

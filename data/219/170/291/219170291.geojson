@@ -2,13 +2,14 @@
   "id": 219170291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.09884,36.087282,-115.09884,36.087282",
     "geom:latitude":36.087282,
     "geom:longitude":-115.09884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 E Nicole St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219170291,
-    "wof:lastmodified":1449070722,
+    "wof:lastmodified":1466701712,
     "wof:name":"Mojave Water Management Inc",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "business"
     ]
 },
-  "bbox": [-115.09884,36.087282,-115.09884,36.087282],
+  "bbox": [
+    -115.09884,
+    36.087282,
+    -115.09884,
+    36.087282
+],
   "geometry": {"coordinates":[-115.09884,36.087282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354141415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.202085,36.11252,-115.202085,36.11252",
     "geom:latitude":36.11252,
     "geom:longitude":-115.202085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Delancey Dr. Ste. 4",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354141415,
-    "wof:lastmodified":1449066517,
+    "wof:lastmodified":1466704387,
     "wof:name":"Absolutely Spotless",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-115.202085,36.11252,-115.202085,36.11252],
+  "bbox": [
+    -115.202085,
+    36.11252,
+    -115.202085,
+    36.11252
+],
   "geometry": {"coordinates":[-115.202085,36.11252],"type":"Point"}
 }

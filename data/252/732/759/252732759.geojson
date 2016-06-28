@@ -2,13 +2,14 @@
   "id": 252732759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118469,35.949001,-115.118469,35.949001",
     "geom:latitude":35.949001,
     "geom:longitude":-115.118469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 Fort Halifax St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252732759,
-    "wof:lastmodified":1449006557,
+    "wof:lastmodified":1466701981,
     "wof:name":"Michael Ragusa Painting",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.118469,35.949001,-115.118469,35.949001],
+  "bbox": [
+    -115.118469,
+    35.949001,
+    -115.118469,
+    35.949001
+],
   "geometry": {"coordinates":[-115.118469,35.949001],"type":"Point"}
 }

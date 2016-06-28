@@ -2,13 +2,14 @@
   "id": 252723683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241371,36.014993,-115.241371,36.014993",
     "geom:latitude":36.014993,
     "geom:longitude":-115.241371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6807 W Gary Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252723683,
-    "wof:lastmodified":1449006057,
+    "wof:lastmodified":1466701801,
     "wof:name":"Ecs Manufacturing LLC",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-115.241371,36.014993,-115.241371,36.014993],
+  "bbox": [
+    -115.241371,
+    36.014993,
+    -115.241371,
+    36.014993
+],
   "geometry": {"coordinates":[-115.241371,36.014993],"type":"Point"}
 }

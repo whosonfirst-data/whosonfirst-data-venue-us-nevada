@@ -2,13 +2,14 @@
   "id": 219992239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.761926,40.831552,-115.761926,40.831552",
     "geom:latitude":40.831552,
     "geom:longitude":-115.761926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Commercial St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219992239,
-    "wof:lastmodified":1449072052,
+    "wof:lastmodified":1466706148,
     "wof:name":"Bloomingdeals A To Z Consignme",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-115.761926,40.831552,-115.761926,40.831552],
+  "bbox": [
+    -115.761926,
+    40.831552,
+    -115.761926,
+    40.831552
+],
   "geometry": {"coordinates":[-115.761926,40.831552],"type":"Point"}
 }

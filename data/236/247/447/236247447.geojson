@@ -2,13 +2,14 @@
   "id": 236247447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.708387,39.186979,-119.708387,39.186979",
     "geom:latitude":39.186979,
     "geom:longitude":-119.708387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":236247447,
-    "wof:lastmodified":1449003606,
+    "wof:lastmodified":1466704385,
     "wof:name":"Meca Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.708387,39.186979,-119.708387,39.186979],
+  "bbox": [
+    -119.708387,
+    39.186979,
+    -119.708387,
+    39.186979
+],
   "geometry": {"coordinates":[-119.708387,39.186979],"type":"Point"}
 }

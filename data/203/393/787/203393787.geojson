@@ -2,13 +2,14 @@
   "id": 203393787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096758,36.031749,-115.096758,36.031749",
     "geom:latitude":36.031749,
     "geom:longitude":-115.096758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Cortina Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203393787,
-    "wof:lastmodified":1449025512,
+    "wof:lastmodified":1466703309,
     "wof:name":"Service Plus",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.096758,36.031749,-115.096758,36.031749],
-  "geometry": {"coordinates":[-115.096758,36.031749],"type":"Point"}
+  "bbox": [
+    -115.096758,
+    36.031749,
+    -115.096758,
+    36.031749
+],
+  "geometry": {"coordinates":[-115.09675799999999,36.031749],"type":"Point"}
 }

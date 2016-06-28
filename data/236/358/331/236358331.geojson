@@ -2,13 +2,14 @@
   "id": 236358331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.870425,39.250139,-114.870425,39.250139",
     "geom:latitude":39.250139,
     "geom:longitude":-114.870425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Ave K",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236358331,
-    "wof:lastmodified":1449002967,
+    "wof:lastmodified":1466705115,
     "wof:name":"Graphics & Technology Ctr",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-114.870425,39.250139,-114.870425,39.250139],
+  "bbox": [
+    -114.870425,
+    39.250139,
+    -114.870425,
+    39.250139
+],
   "geometry": {"coordinates":[-114.870425,39.250139],"type":"Point"}
 }

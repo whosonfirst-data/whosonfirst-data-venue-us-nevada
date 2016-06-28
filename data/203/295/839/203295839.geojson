@@ -2,13 +2,14 @@
   "id": 203295839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.949742,36.081768,-114.949742,36.081768",
     "geom:latitude":36.081768,
     "geom:longitude":-114.949742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Iolite Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203295839,
-    "wof:lastmodified":1449025687,
+    "wof:lastmodified":1466702804,
     "wof:name":"Guardpro Systems LLC",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.949742,36.081768,-114.949742,36.081768],
+  "bbox": [
+    -114.949742,
+    36.081768,
+    -114.949742,
+    36.081768
+],
   "geometry": {"coordinates":[-114.949742,36.081768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236799991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087929,36.118048,-115.087929,36.118048",
     "geom:latitude":36.118048,
     "geom:longitude":-115.087929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3998 Salisbury Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236799991,
-    "wof:lastmodified":1449005270,
+    "wof:lastmodified":1466706759,
     "wof:name":"Ginger Jenkins",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-115.087929,36.118048,-115.087929,36.118048],
+  "bbox": [
+    -115.087929,
+    36.118048,
+    -115.087929,
+    36.118048
+],
   "geometry": {"coordinates":[-115.087929,36.118048],"type":"Point"}
 }

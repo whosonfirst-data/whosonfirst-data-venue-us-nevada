@@ -2,13 +2,14 @@
   "id": 354257837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172997,36.131901,-115.172997,36.131901",
     "geom:latitude":36.131901,
     "geom:longitude":-115.172997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354257837,
-    "wof:lastmodified":1449066407,
+    "wof:lastmodified":1466705422,
     "wof:name":"24 Hr Liquor Mart",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.172997,36.131901,-115.172997,36.131901],
+  "bbox": [
+    -115.172997,
+    36.131901,
+    -115.172997,
+    36.131901
+],
   "geometry": {"coordinates":[-115.172997,36.131901],"type":"Point"}
 }

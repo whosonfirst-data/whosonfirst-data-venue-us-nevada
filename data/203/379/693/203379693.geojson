@@ -2,13 +2,14 @@
   "id": 203379693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.858265,39.491519,-119.858265,39.491519",
     "geom:latitude":39.491519,
     "geom:longitude":-119.858265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Bridgewater Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203379693,
-    "wof:lastmodified":1449026042,
+    "wof:lastmodified":1466703254,
     "wof:name":"Atmospherics Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.858265,39.491519,-119.858265,39.491519],
+  "bbox": [
+    -119.858265,
+    39.491519,
+    -119.858265,
+    39.491519
+],
   "geometry": {"coordinates":[-119.858265,39.491519],"type":"Point"}
 }

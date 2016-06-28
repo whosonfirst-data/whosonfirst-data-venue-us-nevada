@@ -2,13 +2,14 @@
   "id": 370335503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.891028,39.508953,-119.891028,39.508953",
     "geom:latitude":39.508953,
     "geom:longitude":-119.891028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":370335503,
-    "wof:lastmodified":1449031310,
+    "wof:lastmodified":1466704897,
     "wof:name":"Warren Jim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "painting"
     ]
 },
-  "bbox": [-119.891028,39.508953,-119.891028,39.508953],
-  "geometry": {"coordinates":[-119.891028,39.508953],"type":"Point"}
+  "bbox": [
+    -119.891028,
+    39.508953,
+    -119.891028,
+    39.508953
+],
+  "geometry": {"coordinates":[-119.89102800000001,39.508953],"type":"Point"}
 }

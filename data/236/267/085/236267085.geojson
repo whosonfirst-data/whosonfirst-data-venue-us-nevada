@@ -2,13 +2,14 @@
   "id": 236267085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.877926,39.6523,-119.877926,39.6523",
     "geom:latitude":39.6523,
     "geom:longitude":-119.877926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13570 Mount Rainier St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236267085,
-    "wof:lastmodified":1449004890,
+    "wof:lastmodified":1466704476,
     "wof:name":"Lisa Monroe & Assoc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "asbestos"
     ]
 },
-  "bbox": [-119.877926,39.6523,-119.877926,39.6523],
+  "bbox": [
+    -119.877926,
+    39.6523,
+    -119.877926,
+    39.6523
+],
   "geometry": {"coordinates":[-119.877926,39.6523],"type":"Point"}
 }

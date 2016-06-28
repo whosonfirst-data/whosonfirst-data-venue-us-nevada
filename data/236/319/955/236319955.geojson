@@ -2,13 +2,14 @@
   "id": 236319955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.156441,36.06774,-115.156441,36.06774",
     "geom:latitude":36.06774,
     "geom:longitude":-115.156441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Pilot Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236319955,
-    "wof:lastmodified":1449002914,
+    "wof:lastmodified":1466704715,
     "wof:name":"Able Lock & Key",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-115.156441,36.06774,-115.156441,36.06774],
+  "bbox": [
+    -115.156441,
+    36.06774,
+    -115.156441,
+    36.06774
+],
   "geometry": {"coordinates":[-115.156441,36.06774],"type":"Point"}
 }

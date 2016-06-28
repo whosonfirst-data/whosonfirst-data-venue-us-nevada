@@ -2,13 +2,14 @@
   "id": 370311797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.683234,39.617665,-119.683234,39.617665",
     "geom:latitude":39.617665,
     "geom:longitude":-119.683234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3085 Diamond Dust Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":370311797,
-    "wof:lastmodified":1449029885,
+    "wof:lastmodified":1466704679,
     "wof:name":"Anderson Appraisals Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-119.683234,39.617665,-119.683234,39.617665],
+  "bbox": [
+    -119.683234,
+    39.617665,
+    -119.683234,
+    39.617665
+],
   "geometry": {"coordinates":[-119.683234,39.617665],"type":"Point"}
 }

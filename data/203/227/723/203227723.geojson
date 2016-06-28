@@ -2,13 +2,14 @@
   "id": 203227723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077708,36.100358,-115.077708,36.100358",
     "geom:latitude":36.100358,
     "geom:longitude":-115.077708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203227723,
-    "wof:lastmodified":1449025332,
+    "wof:lastmodified":1466702369,
     "wof:name":"H K Electronics",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronics"
     ]
 },
-  "bbox": [-115.077708,36.100358,-115.077708,36.100358],
+  "bbox": [
+    -115.077708,
+    36.100358,
+    -115.077708,
+    36.100358
+],
   "geometry": {"coordinates":[-115.077708,36.100358],"type":"Point"}
 }

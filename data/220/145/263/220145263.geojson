@@ -2,13 +2,14 @@
   "id": 220145263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200021,36.069985,-115.200021,36.069985",
     "geom:latitude":36.069985,
     "geom:longitude":-115.200021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4468 Wagon Trail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220145263,
-    "wof:lastmodified":1449074265,
+    "wof:lastmodified":1466702732,
     "wof:name":"Woodworks Construction",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "devices"
     ]
 },
-  "bbox": [-115.200021,36.069985,-115.200021,36.069985],
-  "geometry": {"coordinates":[-115.200021,36.069985],"type":"Point"}
+  "bbox": [
+    -115.200021,
+    36.069985,
+    -115.200021,
+    36.069985
+],
+  "geometry": {"coordinates":[-115.20002100000001,36.069985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219175575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.250253,39.607668,-119.250253,39.607668",
     "geom:latitude":39.607668,
     "geom:longitude":-119.250253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Main St",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219175575,
-    "wof:lastmodified":1449072835,
+    "wof:lastmodified":1466701905,
     "wof:name":"Classy Pet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-119.250253,39.607668,-119.250253,39.607668],
+  "bbox": [
+    -119.250253,
+    39.607668,
+    -119.250253,
+    39.607668
+],
   "geometry": {"coordinates":[-119.250253,39.607668],"type":"Point"}
 }

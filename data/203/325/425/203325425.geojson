@@ -2,13 +2,14 @@
   "id": 203325425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137985,36.030785,-115.137985,36.030785",
     "geom:latitude":36.030785,
     "geom:longitude":-115.137985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8775 Glennaire Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203325425,
-    "wof:lastmodified":1449025655,
+    "wof:lastmodified":1466702995,
     "wof:name":"Jl Products",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "works"
     ]
 },
-  "bbox": [-115.137985,36.030785,-115.137985,36.030785],
+  "bbox": [
+    -115.137985,
+    36.030785,
+    -115.137985,
+    36.030785
+],
   "geometry": {"coordinates":[-115.137985,36.030785],"type":"Point"}
 }

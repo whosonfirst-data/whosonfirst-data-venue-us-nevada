@@ -2,13 +2,14 @@
   "id": 236868965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296732,36.20298,-115.296732,36.20298",
     "geom:latitude":36.20298,
     "geom:longitude":-115.296732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9216 Evergreen Canyon Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236868965,
-    "wof:lastmodified":1449001791,
+    "wof:lastmodified":1466706650,
     "wof:name":"Shaukat Parwaiz",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "distributor"
     ]
 },
-  "bbox": [-115.296732,36.20298,-115.296732,36.20298],
-  "geometry": {"coordinates":[-115.296732,36.20298],"type":"Point"}
+  "bbox": [
+    -115.296732,
+    36.20298,
+    -115.296732,
+    36.20298
+],
+  "geometry": {"coordinates":[-115.29673200000001,36.20298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203247303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113445,36.074005,-115.113445,36.074005",
     "geom:latitude":36.074005,
     "geom:longitude":-115.113445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2470 Chandler Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203247303,
-    "wof:lastmodified":1449026052,
+    "wof:lastmodified":1466702468,
     "wof:name":"Ace Security Laminates Of Nv",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-115.113445,36.074005,-115.113445,36.074005],
+  "bbox": [
+    -115.113445,
+    36.074005,
+    -115.113445,
+    36.074005
+],
   "geometry": {"coordinates":[-115.113445,36.074005],"type":"Point"}
 }

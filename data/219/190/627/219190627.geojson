@@ -2,13 +2,14 @@
   "id": 219190627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072092,36.100348,-115.072092,36.100348",
     "geom:latitude":36.100348,
     "geom:longitude":-115.072092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219190627,
-    "wof:lastmodified":1449073686,
+    "wof:lastmodified":1466702015,
     "wof:name":"A T L-Line Service Communicati",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.072092,36.100348,-115.072092,36.100348],
+  "bbox": [
+    -115.072092,
+    36.100348,
+    -115.072092,
+    36.100348
+],
   "geometry": {"coordinates":[-115.072092,36.100348],"type":"Point"}
 }

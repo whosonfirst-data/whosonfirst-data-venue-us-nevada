@@ -2,13 +2,14 @@
   "id": 370312861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.980859,39.249697,-119.980859,39.249697",
     "geom:latitude":39.249697,
     "geom:longitude":-119.980859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Lakeshore Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370312861,
-    "wof:lastmodified":1449030792,
+    "wof:lastmodified":1466704669,
     "wof:name":"Davisson O'donnell Tahoe Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.980859,39.249697,-119.980859,39.249697],
+  "bbox": [
+    -119.980859,
+    39.249697,
+    -119.980859,
+    39.249697
+],
   "geometry": {"coordinates":[-119.980859,39.249697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354010007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.036736,36.060478,-115.036736,36.060478",
     "geom:latitude":36.060478,
     "geom:longitude":-115.036736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Marks Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354010007,
-    "wof:lastmodified":1449067010,
+    "wof:lastmodified":1466701730,
     "wof:name":"University Medical Center",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.036736,36.060478,-115.036736,36.060478],
+  "bbox": [
+    -115.036736,
+    36.060478,
+    -115.036736,
+    36.060478
+],
   "geometry": {"coordinates":[-115.036736,36.060478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235955797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146434,36.026253,-115.146434,36.026253",
     "geom:latitude":36.026253,
     "geom:longitude":-115.146434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Endicott Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235955797,
-    "wof:lastmodified":1449008478,
+    "wof:lastmodified":1466703551,
     "wof:name":"Surfer Steve's",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.146434,36.026253,-115.146434,36.026253],
+  "bbox": [
+    -115.146434,
+    36.026253,
+    -115.146434,
+    36.026253
+],
   "geometry": {"coordinates":[-115.146434,36.026253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220133249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.779431,38.946623,-119.779431,38.946623",
     "geom:latitude":38.946623,
     "geom:longitude":-119.779431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 State Hwy 88",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220133249,
-    "wof:lastmodified":1449074714,
+    "wof:lastmodified":1466702622,
     "wof:name":"Mike Hickey Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.779431,38.946623,-119.779431,38.946623],
+  "bbox": [
+    -119.779431,
+    38.946623,
+    -119.779431,
+    38.946623
+],
   "geometry": {"coordinates":[-119.779431,38.946623],"type":"Point"}
 }

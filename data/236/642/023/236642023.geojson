@@ -2,13 +2,14 @@
   "id": 236642023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733054,39.548884,-119.733054,39.548884",
     "geom:latitude":39.548884,
     "geom:longitude":-119.733054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Matteoni Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236642023,
-    "wof:lastmodified":1449001823,
+    "wof:lastmodified":1466706282,
     "wof:name":"West Coast Entertainment",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-119.733054,39.548884,-119.733054,39.548884],
+  "bbox": [
+    -119.733054,
+    39.548884,
+    -119.733054,
+    39.548884
+],
   "geometry": {"coordinates":[-119.733054,39.548884],"type":"Point"}
 }

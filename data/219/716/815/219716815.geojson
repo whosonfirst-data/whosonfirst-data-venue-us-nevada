@@ -2,13 +2,14 @@
   "id": 219716815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255627,36.294156,-115.255627,36.294156",
     "geom:latitude":36.294156,
     "geom:longitude":-115.255627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7395 Severance Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219716815,
-    "wof:lastmodified":1449070895,
+    "wof:lastmodified":1466704700,
     "wof:name":"Penmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.255627,36.294156,-115.255627,36.294156],
+  "bbox": [
+    -115.255627,
+    36.294156,
+    -115.255627,
+    36.294156
+],
   "geometry": {"coordinates":[-115.255627,36.294156],"type":"Point"}
 }

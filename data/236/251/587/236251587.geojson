@@ -2,13 +2,14 @@
   "id": 236251587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.184264,38.994573,-119.184264,38.994573",
     "geom:latitude":38.994573,
     "geom:longitude":-119.184264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 McGowan Ln",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236251587,
-    "wof:lastmodified":1449001725,
+    "wof:lastmodified":1466704238,
     "wof:name":"David W Mc Gowan Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.184264,38.994573,-119.184264,38.994573],
+  "bbox": [
+    -119.184264,
+    38.994573,
+    -119.184264,
+    38.994573
+],
   "geometry": {"coordinates":[-119.184264,38.994573],"type":"Point"}
 }

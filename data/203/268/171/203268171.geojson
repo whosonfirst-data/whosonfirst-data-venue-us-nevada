@@ -2,13 +2,14 @@
   "id": 203268171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.200896,36.090525,-115.200896,36.090525",
     "geom:latitude":36.090525,
     "geom:longitude":-115.200896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5455 Desert Pt",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203268171,
-    "wof:lastmodified":1449026032,
+    "wof:lastmodified":1466702628,
     "wof:name":"John B Rudy Company Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "raw"
     ]
 },
-  "bbox": [-115.200896,36.090525,-115.200896,36.090525],
+  "bbox": [
+    -115.200896,
+    36.090525,
+    -115.200896,
+    36.090525
+],
   "geometry": {"coordinates":[-115.200896,36.090525],"type":"Point"}
 }

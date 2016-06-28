@@ -2,13 +2,14 @@
   "id": 354173745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125453,36.144466,-115.125453,36.144466",
     "geom:latitude":36.144466,
     "geom:longitude":-115.125453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":354173745,
-    "wof:lastmodified":1449066255,
+    "wof:lastmodified":1466704736,
     "wof:name":"Guther Edmondson & Turner Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.125453,36.144466,-115.125453,36.144466],
-  "geometry": {"coordinates":[-115.125453,36.144466],"type":"Point"}
+  "bbox": [
+    -115.125453,
+    36.144466,
+    -115.125453,
+    36.144466
+],
+  "geometry": {"coordinates":[-115.12545299999999,36.144466],"type":"Point"}
 }

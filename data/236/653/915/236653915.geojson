@@ -2,13 +2,14 @@
   "id": 236653915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.882646,39.250235,-114.882646,39.250235",
     "geom:latitude":39.250235,
     "geom:longitude":-114.882646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236653915,
-    "wof:lastmodified":1449001856,
+    "wof:lastmodified":1466706390,
     "wof:name":"Holiday Inn Ely",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.882646,39.250235,-114.882646,39.250235],
-  "geometry": {"coordinates":[-114.882646,39.250235],"type":"Point"}
+  "bbox": [
+    -114.882646,
+    39.250235,
+    -114.882646,
+    39.250235
+],
+  "geometry": {"coordinates":[-114.88264599999999,39.250235],"type":"Point"}
 }

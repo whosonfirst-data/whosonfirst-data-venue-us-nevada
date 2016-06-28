@@ -2,13 +2,14 @@
   "id": 203105177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.944485,38.955656,-119.944485,38.955656",
     "geom:latitude":38.955656,
     "geom:longitude":-119.944485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 Lake Tahoe Blvd",
     "sg:city":"South Lake Tahoe",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203105177,
-    "wof:lastmodified":1449025643,
+    "wof:lastmodified":1466704185,
     "wof:name":"Cascade Clothing Co",
     "wof:parent_id":85888057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.944485,38.955656,-119.944485,38.955656],
+  "bbox": [
+    -119.944485,
+    38.955656,
+    -119.944485,
+    38.955656
+],
   "geometry": {"coordinates":[-119.944485,38.955656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236681401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.728811,40.971211,-117.728811,40.971211",
     "geom:latitude":40.971211,
     "geom:longitude":-117.728811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 E Haskell St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236681401,
-    "wof:lastmodified":1449003712,
+    "wof:lastmodified":1466706440,
     "wof:name":"Dallas Penrod DPM Foot & Ankle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.728811,40.971211,-117.728811,40.971211],
-  "geometry": {"coordinates":[-117.728811,40.971211],"type":"Point"}
+  "bbox": [
+    -117.728811,
+    40.971211,
+    -117.728811,
+    40.971211
+],
+  "geometry": {"coordinates":[-117.72881099999999,40.971211],"type":"Point"}
 }

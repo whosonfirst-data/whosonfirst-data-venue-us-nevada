@@ -2,13 +2,14 @@
   "id": 219494683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.063496,36.174075,-115.063496,36.174075",
     "geom:latitude":36.174075,
     "geom:longitude":-115.063496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5067 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219494683,
-    "wof:lastmodified":1449073534,
+    "wof:lastmodified":1466704138,
     "wof:name":"Jack's Place",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-115.063496,36.174075,-115.063496,36.174075],
+  "bbox": [
+    -115.063496,
+    36.174075,
+    -115.063496,
+    36.174075
+],
   "geometry": {"coordinates":[-115.063496,36.174075],"type":"Point"}
 }

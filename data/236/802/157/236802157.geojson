@@ -2,13 +2,14 @@
   "id": 236802157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774845,39.480175,-119.774845,39.480175",
     "geom:latitude":39.480175,
     "geom:longitude":-119.774845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4560 Persimmon Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236802157,
-    "wof:lastmodified":1449004509,
+    "wof:lastmodified":1466706759,
     "wof:name":"Uni Care",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774845,39.480175,-119.774845,39.480175],
+  "bbox": [
+    -119.774845,
+    39.480175,
+    -119.774845,
+    39.480175
+],
   "geometry": {"coordinates":[-119.774845,39.480175],"type":"Point"}
 }

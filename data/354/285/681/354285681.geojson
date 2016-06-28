@@ -2,13 +2,14 @@
   "id": 354285681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062329,36.200475,-115.062329,36.200475",
     "geom:latitude":36.200475,
     "geom:longitude":-115.062329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2245 N Nellis Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354285681,
-    "wof:lastmodified":1449065988,
+    "wof:lastmodified":1466705538,
     "wof:name":"Las Vegas Auction",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.062329,36.200475,-115.062329,36.200475],
-  "geometry": {"coordinates":[-115.062329,36.200475],"type":"Point"}
+  "bbox": [
+    -115.062329,
+    36.200475,
+    -115.062329,
+    36.200475
+],
+  "geometry": {"coordinates":[-115.06232900000001,36.200475],"type":"Point"}
 }

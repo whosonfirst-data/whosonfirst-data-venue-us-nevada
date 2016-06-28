@@ -2,13 +2,14 @@
   "id": 236430859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.774219,40.840889,-115.774219,40.840889",
     "geom:latitude":40.840889,
     "geom:longitude":-115.774219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Sunset St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236430859,
-    "wof:lastmodified":1449003815,
+    "wof:lastmodified":1466705402,
     "wof:name":"Te Moak Tribal Westrn Shoshone",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-115.774219,40.840889,-115.774219,40.840889],
+  "bbox": [
+    -115.774219,
+    40.840889,
+    -115.774219,
+    40.840889
+],
   "geometry": {"coordinates":[-115.774219,40.840889],"type":"Point"}
 }

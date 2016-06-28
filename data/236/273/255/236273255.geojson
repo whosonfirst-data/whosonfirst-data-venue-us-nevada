@@ -2,13 +2,14 @@
   "id": 236273255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278167,36.215602,-115.278167,36.215602",
     "geom:latitude":36.215602,
     "geom:longitude":-115.278167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Anchor Chain Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236273255,
-    "wof:lastmodified":1449003347,
+    "wof:lastmodified":1466704324,
     "wof:name":"Asr Info Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.278167,36.215602,-115.278167,36.215602],
+  "bbox": [
+    -115.278167,
+    36.215602,
+    -115.278167,
+    36.215602
+],
   "geometry": {"coordinates":[-115.278167,36.215602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236294597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.918108,36.10687,-114.918108,36.10687",
     "geom:latitude":36.10687,
     "geom:longitude":-114.918108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Costa del Sol Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236294597,
-    "wof:lastmodified":1449004108,
+    "wof:lastmodified":1466704653,
     "wof:name":"Montelago Village",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-114.918108,36.10687,-114.918108,36.10687],
+  "bbox": [
+    -114.918108,
+    36.10687,
+    -114.918108,
+    36.10687
+],
   "geometry": {"coordinates":[-114.918108,36.10687],"type":"Point"}
 }

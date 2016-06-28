@@ -2,13 +2,14 @@
   "id": 354326761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190965,36.091777,-115.190965,36.091777",
     "geom:latitude":36.091777,
     "geom:longitude":-115.190965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3955 W Mesa Vista Avenue Suite 5",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354326761,
-    "wof:lastmodified":1449066649,
+    "wof:lastmodified":1466705766,
     "wof:name":"Interior Services Network",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.190965,36.091777,-115.190965,36.091777],
-  "geometry": {"coordinates":[-115.190965,36.091777],"type":"Point"}
+  "bbox": [
+    -115.190965,
+    36.091777,
+    -115.190965,
+    36.091777
+],
+  "geometry": {"coordinates":[-115.19096500000001,36.091777],"type":"Point"}
 }

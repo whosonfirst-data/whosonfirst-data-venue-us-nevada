@@ -2,13 +2,14 @@
   "id": 219458833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.105568,36.049279,-115.105568,36.049279",
     "geom:latitude":36.049279,
     "geom:longitude":-115.105568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2738 Woodbine Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219458833,
-    "wof:lastmodified":1449072910,
+    "wof:lastmodified":1466703962,
     "wof:name":"A Pane In The Glass",
     "wof:parent_id":85879745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-115.105568,36.049279,-115.105568,36.049279],
-  "geometry": {"coordinates":[-115.105568,36.049279],"type":"Point"}
+  "bbox": [
+    -115.105568,
+    36.049279,
+    -115.105568,
+    36.049279
+],
+  "geometry": {"coordinates":[-115.10556800000001,36.049279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219857209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.855959,35.971612,-114.855959,35.971612",
     "geom:latitude":35.971612,
     "geom:longitude":-114.855959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Yucca St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219857209,
-    "wof:lastmodified":1449072675,
+    "wof:lastmodified":1466705258,
     "wof:name":"Boulder Sand & Gravel Inc",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-114.855959,35.971612,-114.855959,35.971612],
+  "bbox": [
+    -114.855959,
+    35.971612,
+    -114.855959,
+    35.971612
+],
   "geometry": {"coordinates":[-114.855959,35.971612],"type":"Point"}
 }

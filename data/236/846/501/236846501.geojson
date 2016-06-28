@@ -2,13 +2,14 @@
   "id": 236846501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.797397,39.475344,-118.797397,39.475344",
     "geom:latitude":39.475344,
     "geom:longitude":-118.797397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 W Williams Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236846501,
-    "wof:lastmodified":1449004356,
+    "wof:lastmodified":1466706722,
     "wof:name":"Angelic Hair & Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.797397,39.475344,-118.797397,39.475344],
+  "bbox": [
+    -118.797397,
+    39.475344,
+    -118.797397,
+    39.475344
+],
   "geometry": {"coordinates":[-118.797397,39.475344],"type":"Point"}
 }

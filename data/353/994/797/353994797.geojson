@@ -2,13 +2,14 @@
   "id": 353994797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073849,36.075016,-115.073849,36.075016",
     "geom:latitude":36.075016,
     "geom:longitude":-115.073849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Mountain Vista Ste 205",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353994797,
-    "wof:lastmodified":1449018370,
+    "wof:lastmodified":1466701713,
     "wof:name":"Foothills Pediatrics",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatrician"
     ]
 },
-  "bbox": [-115.073849,36.075016,-115.073849,36.075016],
+  "bbox": [
+    -115.073849,
+    36.075016,
+    -115.073849,
+    36.075016
+],
   "geometry": {"coordinates":[-115.073849,36.075016],"type":"Point"}
 }

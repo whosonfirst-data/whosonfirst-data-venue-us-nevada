@@ -2,13 +2,14 @@
   "id": 236680565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804607,39.543004,-119.804607,39.543004",
     "geom:latitude":39.543004,
     "geom:longitude":-119.804607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Southworth Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236680565,
-    "wof:lastmodified":1449004064,
+    "wof:lastmodified":1466706435,
     "wof:name":"Perma Touch of Reno",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-119.804607,39.543004,-119.804607,39.543004],
+  "bbox": [
+    -119.804607,
+    39.543004,
+    -119.804607,
+    39.543004
+],
   "geometry": {"coordinates":[-119.804607,39.543004],"type":"Point"}
 }

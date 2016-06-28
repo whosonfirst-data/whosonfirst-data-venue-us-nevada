@@ -2,13 +2,14 @@
   "id": 354367391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117713,36.086138,-115.117713,36.086138",
     "geom:latitude":36.086138,
     "geom:longitude":-115.117713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2548 E Russell Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354367391,
-    "wof:lastmodified":1449066954,
+    "wof:lastmodified":1466706087,
     "wof:name":"Packer Lawrence CPA",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.117713,36.086138,-115.117713,36.086138],
-  "geometry": {"coordinates":[-115.117713,36.086138],"type":"Point"}
+  "bbox": [
+    -115.117713,
+    36.086138,
+    -115.117713,
+    36.086138
+],
+  "geometry": {"coordinates":[-115.11771299999999,36.086138],"type":"Point"}
 }

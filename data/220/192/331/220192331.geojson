@@ -2,13 +2,14 @@
   "id": 220192331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.983088,36.035041,-114.983088,36.035041",
     "geom:latitude":36.035041,
     "geom:longitude":-114.983088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 E Pacific Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220192331,
-    "wof:lastmodified":1449074620,
+    "wof:lastmodified":1466703030,
     "wof:name":"Sonya's Salon & Day Spa",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-114.983088,36.035041,-114.983088,36.035041],
+  "bbox": [
+    -114.983088,
+    36.035041,
+    -114.983088,
+    36.035041
+],
   "geometry": {"coordinates":[-114.983088,36.035041],"type":"Point"}
 }

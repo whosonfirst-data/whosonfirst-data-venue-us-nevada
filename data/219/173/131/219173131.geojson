@@ -2,13 +2,14 @@
   "id": 219173131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316871,36.132977,-115.316871,36.132977",
     "geom:latitude":36.132977,
     "geom:longitude":-115.316871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Townsend Hall Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219173131,
-    "wof:lastmodified":1449071073,
+    "wof:lastmodified":1466701862,
     "wof:name":"All Communications Consulting",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.316871,36.132977,-115.316871,36.132977],
-  "geometry": {"coordinates":[-115.316871,36.132977],"type":"Point"}
+  "bbox": [
+    -115.316871,
+    36.132977,
+    -115.316871,
+    36.132977
+],
+  "geometry": {"coordinates":[-115.31687100000001,36.132977],"type":"Point"}
 }

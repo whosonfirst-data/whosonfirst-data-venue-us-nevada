@@ -2,13 +2,14 @@
   "id": 219991073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116754,36.23384,-115.116754,36.23384",
     "geom:latitude":36.23384,
     "geom:longitude":-115.116754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4129 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219991073,
-    "wof:lastmodified":1449071504,
+    "wof:lastmodified":1466706054,
     "wof:name":"H&E Equipment Services LLC",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vehicle"
     ]
 },
-  "bbox": [-115.116754,36.23384,-115.116754,36.23384],
+  "bbox": [
+    -115.116754,
+    36.23384,
+    -115.116754,
+    36.23384
+],
   "geometry": {"coordinates":[-115.116754,36.23384],"type":"Point"}
 }

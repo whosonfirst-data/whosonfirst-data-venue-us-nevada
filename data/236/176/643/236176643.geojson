@@ -2,13 +2,14 @@
   "id": 236176643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.776706,39.169229,-119.776706,39.169229",
     "geom:latitude":39.169229,
     "geom:longitude":-119.776706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Richmond Ave",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236176643,
-    "wof:lastmodified":1449003882,
+    "wof:lastmodified":1466703118,
     "wof:name":"Susan Pinney",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-119.776706,39.169229,-119.776706,39.169229],
+  "bbox": [
+    -119.776706,
+    39.169229,
+    -119.776706,
+    39.169229
+],
   "geometry": {"coordinates":[-119.776706,39.169229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354301909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251309,36.143358,-115.251309,36.143358",
     "geom:latitude":36.143358,
     "geom:longitude":-115.251309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7293 W Sahara Ave Ste 107",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354301909,
-    "wof:lastmodified":1449066351,
+    "wof:lastmodified":1466705728,
     "wof:name":"Momoyama Sushi",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "japanese"
     ]
 },
-  "bbox": [-115.251309,36.143358,-115.251309,36.143358],
-  "geometry": {"coordinates":[-115.251309,36.143358],"type":"Point"}
+  "bbox": [
+    -115.251309,
+    36.143358,
+    -115.251309,
+    36.143358
+],
+  "geometry": {"coordinates":[-115.25130900000001,36.143358],"type":"Point"}
 }

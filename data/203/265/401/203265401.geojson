@@ -2,13 +2,14 @@
   "id": 203265401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117563,36.112269,-115.117563,36.112269",
     "geom:latitude":36.112269,
     "geom:longitude":-115.117563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 Whippoorwill Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203265401,
-    "wof:lastmodified":1449025563,
+    "wof:lastmodified":1466702607,
     "wof:name":"Aadvantage Appraisers",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-115.117563,36.112269,-115.117563,36.112269],
+  "bbox": [
+    -115.117563,
+    36.112269,
+    -115.117563,
+    36.112269
+],
   "geometry": {"coordinates":[-115.117563,36.112269],"type":"Point"}
 }

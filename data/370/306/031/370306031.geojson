@@ -2,13 +2,14 @@
   "id": 370306031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.551631,38.701467,-119.551631,38.701467",
     "geom:latitude":38.701467,
     "geom:longitude":-119.551631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 US Highway 395 S",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370306031,
-    "wof:lastmodified":1449032314,
+    "wof:lastmodified":1466704782,
     "wof:name":"Ironhorse Cantina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.551631,38.701467,-119.551631,38.701467],
+  "bbox": [
+    -119.551631,
+    38.701467,
+    -119.551631,
+    38.701467
+],
   "geometry": {"coordinates":[-119.551631,38.701467],"type":"Point"}
 }

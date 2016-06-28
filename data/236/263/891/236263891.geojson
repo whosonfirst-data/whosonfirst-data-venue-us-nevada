@@ -2,13 +2,14 @@
   "id": 236263891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764842,39.155894,-119.764842,39.155894",
     "geom:latitude":39.155894,
     "geom:longitude":-119.764842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 S Stewart St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236263891,
-    "wof:lastmodified":1449005128,
+    "wof:lastmodified":1466704469,
     "wof:name":"Carl's Blueprint & Copy",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blueprinting"
     ]
 },
-  "bbox": [-119.764842,39.155894,-119.764842,39.155894],
+  "bbox": [
+    -119.764842,
+    39.155894,
+    -119.764842,
+    39.155894
+],
   "geometry": {"coordinates":[-119.764842,39.155894],"type":"Point"}
 }

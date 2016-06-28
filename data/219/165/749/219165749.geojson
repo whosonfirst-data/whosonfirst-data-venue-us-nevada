@@ -2,13 +2,14 @@
   "id": 219165749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.994778,36.069131,-114.994778,36.069131",
     "geom:latitude":36.069131,
     "geom:longitude":-114.994778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219165749,
-    "wof:lastmodified":1449073921,
+    "wof:lastmodified":1466701660,
     "wof:name":"Henderson Masonry",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.994778,36.069131,-114.994778,36.069131],
+  "bbox": [
+    -114.994778,
+    36.069131,
+    -114.994778,
+    36.069131
+],
   "geometry": {"coordinates":[-114.994778,36.069131],"type":"Point"}
 }

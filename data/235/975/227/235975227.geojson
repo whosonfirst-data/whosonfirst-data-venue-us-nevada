@@ -2,13 +2,14 @@
   "id": 235975227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286416,36.052349,-115.286416,36.052349",
     "geom:latitude":36.052349,
     "geom:longitude":-115.286416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Cascade Lake St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235975227,
-    "wof:lastmodified":1449008549,
+    "wof:lastmodified":1466703634,
     "wof:name":"Synthetic Turf Of Las Vegas",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artificial"
     ]
 },
-  "bbox": [-115.286416,36.052349,-115.286416,36.052349],
+  "bbox": [
+    -115.286416,
+    36.052349,
+    -115.286416,
+    36.052349
+],
   "geometry": {"coordinates":[-115.286416,36.052349],"type":"Point"}
 }

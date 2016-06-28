@@ -2,13 +2,14 @@
   "id": 219389029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.273732,36.159181,-115.273732,36.159181",
     "geom:latitude":36.159181,
     "geom:longitude":-115.273732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219389029,
-    "wof:lastmodified":1449073213,
+    "wof:lastmodified":1466703559,
     "wof:name":"Adam Chef For Hire",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-115.273732,36.159181,-115.273732,36.159181],
+  "bbox": [
+    -115.273732,
+    36.159181,
+    -115.273732,
+    36.159181
+],
   "geometry": {"coordinates":[-115.273732,36.159181],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236246677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.178896,36.178674,-115.178896,36.178674",
     "geom:latitude":36.178674,
     "geom:longitude":-115.178896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Belrose St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236246677,
-    "wof:lastmodified":1449001844,
+    "wof:lastmodified":1466704392,
     "wof:name":"Cancer Registry",
     "wof:parent_id":85892707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cancer"
     ]
 },
-  "bbox": [-115.178896,36.178674,-115.178896,36.178674],
-  "geometry": {"coordinates":[-115.178896,36.178674],"type":"Point"}
+  "bbox": [
+    -115.178896,
+    36.178674,
+    -115.178896,
+    36.178674
+],
+  "geometry": {"coordinates":[-115.17889599999999,36.178674],"type":"Point"}
 }

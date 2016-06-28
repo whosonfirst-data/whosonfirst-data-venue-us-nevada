@@ -2,13 +2,14 @@
   "id": 219356105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.001319,36.023392,-115.001319,36.023392",
     "geom:latitude":36.023392,
     "geom:longitude":-115.001319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Breeze Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219356105,
-    "wof:lastmodified":1449073298,
+    "wof:lastmodified":1466703419,
     "wof:name":"Annette Hall CPA",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.001319,36.023392,-115.001319,36.023392],
+  "bbox": [
+    -115.001319,
+    36.023392,
+    -115.001319,
+    36.023392
+],
   "geometry": {"coordinates":[-115.001319,36.023392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219491429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.78408,38.963188,-119.78408,38.963188",
     "geom:latitude":38.963188,
     "geom:longitude":-119.78408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 Ironwood Ct",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219491429,
-    "wof:lastmodified":1449070327,
+    "wof:lastmodified":1466704121,
     "wof:name":"Ken Bouey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.78408,38.963188,-119.78408,38.963188],
+  "bbox": [
+    -119.78408,
+    38.963188,
+    -119.78408,
+    38.963188
+],
   "geometry": {"coordinates":[-119.78408,38.963188],"type":"Point"}
 }

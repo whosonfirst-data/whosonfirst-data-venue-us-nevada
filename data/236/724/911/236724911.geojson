@@ -2,13 +2,14 @@
   "id": 236724911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143955,36.144039,-115.143955,36.144039",
     "geom:latitude":36.144039,
     "geom:longitude":-115.143955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"858 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236724911,
-    "wof:lastmodified":1449005164,
+    "wof:lastmodified":1466706534,
     "wof:name":"Las Consulting",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.143955,36.144039,-115.143955,36.144039],
-  "geometry": {"coordinates":[-115.143955,36.144039],"type":"Point"}
+  "bbox": [
+    -115.143955,
+    36.144039,
+    -115.143955,
+    36.144039
+],
+  "geometry": {"coordinates":[-115.14395500000001,36.144039],"type":"Point"}
 }

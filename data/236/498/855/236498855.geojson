@@ -2,13 +2,14 @@
   "id": 236498855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.765684,40.911591,-117.765684,40.911591",
     "geom:latitude":40.911591,
     "geom:longitude":-117.765684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7285 Allen Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236498855,
-    "wof:lastmodified":1449004284,
+    "wof:lastmodified":1466705783,
     "wof:name":"Thompson's Concentric Cones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.765684,40.911591,-117.765684,40.911591],
-  "geometry": {"coordinates":[-117.765684,40.911591],"type":"Point"}
+  "bbox": [
+    -117.765684,
+    40.911591,
+    -117.765684,
+    40.911591
+],
+  "geometry": {"coordinates":[-117.76568399999999,40.911591],"type":"Point"}
 }

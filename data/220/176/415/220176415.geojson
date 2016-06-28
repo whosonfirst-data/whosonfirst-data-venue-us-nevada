@@ -2,13 +2,14 @@
   "id": 220176415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141279,36.100862,-115.141279,36.100862",
     "geom:latitude":36.100862,
     "geom:longitude":-115.141279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1097 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":220176415,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466702931,
     "wof:name":"Cora's Coin Laundry",
     "wof:parent_id":85879743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-115.141279,36.100862,-115.141279,36.100862],
+  "bbox": [
+    -115.141279,
+    36.100862,
+    -115.141279,
+    36.100862
+],
   "geometry": {"coordinates":[-115.141279,36.100862],"type":"Point"}
 }

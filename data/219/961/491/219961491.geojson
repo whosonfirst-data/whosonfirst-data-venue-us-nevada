@@ -2,13 +2,14 @@
   "id": 219961491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813484,39.469598,-119.813484,39.469598",
     "geom:latitude":39.469598,
     "geom:longitude":-119.813484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Ridgeview Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219961491,
-    "wof:lastmodified":1449073842,
+    "wof:lastmodified":1466706125,
     "wof:name":"Stained Glass By Terika",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.813484,39.469598,-119.813484,39.469598],
+  "bbox": [
+    -119.813484,
+    39.469598,
+    -119.813484,
+    39.469598
+],
   "geometry": {"coordinates":[-119.813484,39.469598],"type":"Point"}
 }

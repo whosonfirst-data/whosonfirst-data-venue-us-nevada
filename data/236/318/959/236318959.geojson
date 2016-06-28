@@ -2,13 +2,14 @@
   "id": 236318959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091953,35.960799,-115.091953,35.960799",
     "geom:latitude":35.960799,
     "geom:longitude":-115.091953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Winding Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236318959,
-    "wof:lastmodified":1449002224,
+    "wof:lastmodified":1466704703,
     "wof:name":"Aardvark Video & Media Prdctn",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.091953,35.960799,-115.091953,35.960799],
+  "bbox": [
+    -115.091953,
+    35.960799,
+    -115.091953,
+    35.960799
+],
   "geometry": {"coordinates":[-115.091953,35.960799],"type":"Point"}
 }

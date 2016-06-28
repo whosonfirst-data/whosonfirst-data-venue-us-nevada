@@ -2,13 +2,14 @@
   "id": 236329835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777491,39.392945,-119.777491,39.392945",
     "geom:latitude":39.392945,
     "geom:longitude":-119.777491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Winter Park Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236329835,
-    "wof:lastmodified":1449002382,
+    "wof:lastmodified":1466705022,
     "wof:name":"Maranatha Transcription",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-119.777491,39.392945,-119.777491,39.392945],
+  "bbox": [
+    -119.777491,
+    39.392945,
+    -119.777491,
+    39.392945
+],
   "geometry": {"coordinates":[-119.777491,39.392945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203276009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.984587,36.1794,-115.984587,36.1794",
     "geom:latitude":36.1794,
     "geom:longitude":-115.984587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1681 S Mount Charleston Dr",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203276009,
-    "wof:lastmodified":1449025024,
+    "wof:lastmodified":1466704220,
     "wof:name":"Volcana Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.984587,36.1794,-115.984587,36.1794],
+  "bbox": [
+    -115.984587,
+    36.1794,
+    -115.984587,
+    36.1794
+],
   "geometry": {"coordinates":[-115.984587,36.1794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236794069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.747617,40.957273,-117.747617,40.957273",
     "geom:latitude":40.957273,
     "geom:longitude":-117.747617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3319 Potato Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236794069,
-    "wof:lastmodified":1449003192,
+    "wof:lastmodified":1466706637,
     "wof:name":"Solid Gold Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.747617,40.957273,-117.747617,40.957273],
-  "geometry": {"coordinates":[-117.747617,40.957273],"type":"Point"}
+  "bbox": [
+    -117.747617,
+    40.957273,
+    -117.747617,
+    40.957273
+],
+  "geometry": {"coordinates":[-117.74761700000001,40.957273],"type":"Point"}
 }

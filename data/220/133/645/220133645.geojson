@@ -2,13 +2,14 @@
   "id": 220133645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140889,36.169434,-115.140889,36.169434",
     "geom:latitude":36.169434,
     "geom:longitude":-115.140889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220133645,
-    "wof:lastmodified":1449074714,
+    "wof:lastmodified":1466702632,
     "wof:name":"L Michelle Tinker",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.140889,36.169434,-115.140889,36.169434],
+  "bbox": [
+    -115.140889,
+    36.169434,
+    -115.140889,
+    36.169434
+],
   "geometry": {"coordinates":[-115.140889,36.169434],"type":"Point"}
 }

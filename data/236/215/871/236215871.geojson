@@ -2,13 +2,14 @@
   "id": 236215871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.117047,36.26092,-115.117047,36.26092",
     "geom:latitude":36.26092,
     "geom:longitude":-115.117047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5517 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236215871,
-    "wof:lastmodified":1449004555,
+    "wof:lastmodified":1466703890,
     "wof:name":"Cruise N Air Travel",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.117047,36.26092,-115.117047,36.26092],
+  "bbox": [
+    -115.117047,
+    36.26092,
+    -115.117047,
+    36.26092
+],
   "geometry": {"coordinates":[-115.117047,36.26092],"type":"Point"}
 }

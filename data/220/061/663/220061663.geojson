@@ -2,13 +2,14 @@
   "id": 220061663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.790651,39.51295,-119.790651,39.51295",
     "geom:latitude":39.51295,
     "geom:longitude":-119.790651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Cordone Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220061663,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466702148,
     "wof:name":"Nevada Computer Works",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "computer"
     ]
 },
-  "bbox": [-119.790651,39.51295,-119.790651,39.51295],
+  "bbox": [
+    -119.790651,
+    39.51295,
+    -119.790651,
+    39.51295
+],
   "geometry": {"coordinates":[-119.790651,39.51295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219973927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035689,36.18963,-115.035689,36.18963",
     "geom:latitude":36.18963,
     "geom:longitude":-115.035689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6251 Brynhurst Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219973927,
-    "wof:lastmodified":1449072507,
+    "wof:lastmodified":1466706072,
     "wof:name":"Waitman Helicopters Inc",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-115.035689,36.18963,-115.035689,36.18963],
+  "bbox": [
+    -115.035689,
+    36.18963,
+    -115.035689,
+    36.18963
+],
   "geometry": {"coordinates":[-115.035689,36.18963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235936427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217208,36.209454,-115.217208,36.209454",
     "geom:latitude":36.209454,
     "geom:longitude":-115.217208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 Sheila Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235936427,
-    "wof:lastmodified":1449008374,
+    "wof:lastmodified":1466703457,
     "wof:name":"Desert Sculptors",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "information"
     ]
 },
-  "bbox": [-115.217208,36.209454,-115.217208,36.209454],
+  "bbox": [
+    -115.217208,
+    36.209454,
+    -115.217208,
+    36.209454
+],
   "geometry": {"coordinates":[-115.217208,36.209454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219360113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100868,36.084097,-115.100868,36.084097",
     "geom:latitude":36.084097,
     "geom:longitude":-115.100868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5860 S Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219360113,
-    "wof:lastmodified":1449073127,
+    "wof:lastmodified":1466703423,
     "wof:name":"Ameresco",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-115.100868,36.084097,-115.100868,36.084097],
-  "geometry": {"coordinates":[-115.100868,36.084097],"type":"Point"}
+  "bbox": [
+    -115.100868,
+    36.084097,
+    -115.100868,
+    36.084097
+],
+  "geometry": {"coordinates":[-115.10086800000001,36.084097],"type":"Point"}
 }

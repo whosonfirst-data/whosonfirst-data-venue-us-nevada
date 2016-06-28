@@ -2,13 +2,14 @@
   "id": 203214749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764889,39.19109,-119.764889,39.19109",
     "geom:latitude":39.19109,
     "geom:longitude":-119.764889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Agate Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203214749,
-    "wof:lastmodified":1449026816,
+    "wof:lastmodified":1466702198,
     "wof:name":"Anita Stoelton",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.764889,39.19109,-119.764889,39.19109],
+  "bbox": [
+    -119.764889,
+    39.19109,
+    -119.764889,
+    39.19109
+],
   "geometry": {"coordinates":[-119.764889,39.19109],"type":"Point"}
 }

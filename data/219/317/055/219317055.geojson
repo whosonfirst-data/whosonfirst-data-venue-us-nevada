@@ -2,13 +2,14 @@
   "id": 219317055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.001693,39.239236,-120.001693,39.239236",
     "geom:latitude":39.239236,
     "geom:longitude":-120.001693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Pahute Rd",
     "sg:city":"Crystal Bay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219317055,
-    "wof:lastmodified":1449072009,
+    "wof:lastmodified":1466703194,
     "wof:name":"3 CPM Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacture"
     ]
 },
-  "bbox": [-120.001693,39.239236,-120.001693,39.239236],
+  "bbox": [
+    -120.001693,
+    39.239236,
+    -120.001693,
+    39.239236
+],
   "geometry": {"coordinates":[-120.001693,39.239236],"type":"Point"}
 }

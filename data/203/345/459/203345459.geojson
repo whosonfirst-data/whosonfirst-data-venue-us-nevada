@@ -2,13 +2,14 @@
   "id": 203345459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.787382,39.315442,-119.787382,39.315442",
     "geom:latitude":39.315442,
     "geom:longitude":-119.787382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 Brenda Way",
     "sg:city":"Washoe Valley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203345459,
-    "wof:lastmodified":1449026717,
+    "wof:lastmodified":1466703121,
     "wof:name":"AFXU Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-119.787382,39.315442,-119.787382,39.315442],
-  "geometry": {"coordinates":[-119.787382,39.315442],"type":"Point"}
+  "bbox": [
+    -119.787382,
+    39.315442,
+    -119.787382,
+    39.315442
+],
+  "geometry": {"coordinates":[-119.78738199999999,39.315442],"type":"Point"}
 }

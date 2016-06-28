@@ -2,13 +2,14 @@
   "id": 220159545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.796645,39.477708,-118.796645,39.477708",
     "geom:latitude":39.477708,
     "geom:longitude":-118.796645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Auction Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220159545,
-    "wof:lastmodified":1449074130,
+    "wof:lastmodified":1466702814,
     "wof:name":"Sunridge Quarters Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-118.796645,39.477708,-118.796645,39.477708],
+  "bbox": [
+    -118.796645,
+    39.477708,
+    -118.796645,
+    39.477708
+],
   "geometry": {"coordinates":[-118.796645,39.477708],"type":"Point"}
 }

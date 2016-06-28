@@ -2,13 +2,14 @@
   "id": 354153327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.182127,36.122996,-115.182127,36.122996",
     "geom:latitude":36.122996,
     "geom:longitude":-115.182127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 S Highland Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354153327,
-    "wof:lastmodified":1449067146,
+    "wof:lastmodified":1466704700,
     "wof:name":"Power Exchange Las Vegas",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-115.182127,36.122996,-115.182127,36.122996],
-  "geometry": {"coordinates":[-115.182127,36.122996],"type":"Point"}
+  "bbox": [
+    -115.182127,
+    36.122996,
+    -115.182127,
+    36.122996
+],
+  "geometry": {"coordinates":[-115.18212699999999,36.122996],"type":"Point"}
 }

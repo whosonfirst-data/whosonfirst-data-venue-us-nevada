@@ -2,13 +2,14 @@
   "id": 236738857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.930915,38.970491,-119.930915,38.970491",
     "geom:latitude":38.970491,
     "geom:longitude":-119.930915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Shady Ln",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236738857,
-    "wof:lastmodified":1449004187,
+    "wof:lastmodified":1466706552,
     "wof:name":"Tax Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-119.930915,38.970491,-119.930915,38.970491],
+  "bbox": [
+    -119.930915,
+    38.970491,
+    -119.930915,
+    38.970491
+],
   "geometry": {"coordinates":[-119.930915,38.970491],"type":"Point"}
 }

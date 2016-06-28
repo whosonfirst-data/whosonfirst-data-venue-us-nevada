@@ -2,13 +2,14 @@
   "id": 370332811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756081,39.43927,-119.756081,39.43927",
     "geom:latitude":39.43927,
     "geom:longitude":-119.756081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Meadows Pkwy",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":370332811,
-    "wof:lastmodified":1449030948,
+    "wof:lastmodified":1466704877,
     "wof:name":"Puzey James W Law Office Of",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.756081,39.43927,-119.756081,39.43927],
-  "geometry": {"coordinates":[-119.756081,39.43927],"type":"Point"}
+  "bbox": [
+    -119.756081,
+    39.43927,
+    -119.756081,
+    39.43927
+],
+  "geometry": {"coordinates":[-119.75608099999999,39.43927],"type":"Point"}
 }

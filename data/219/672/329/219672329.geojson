@@ -2,13 +2,14 @@
   "id": 219672329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.321514,36.226216,-115.321514,36.226216",
     "geom:latitude":36.226216,
     "geom:longitude":-115.321514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10320 Marc Kahre Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219672329,
-    "wof:lastmodified":1449070609,
+    "wof:lastmodified":1466704275,
     "wof:name":"Reporter Ease LLC",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-115.321514,36.226216,-115.321514,36.226216],
-  "geometry": {"coordinates":[-115.321514,36.226216],"type":"Point"}
+  "bbox": [
+    -115.321514,
+    36.226216,
+    -115.321514,
+    36.226216
+],
+  "geometry": {"coordinates":[-115.32151399999999,36.226216],"type":"Point"}
 }

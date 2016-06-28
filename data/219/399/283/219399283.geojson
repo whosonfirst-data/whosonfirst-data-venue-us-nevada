@@ -2,13 +2,14 @@
   "id": 219399283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218031,36.292553,-115.218031,36.292553",
     "geom:latitude":36.292553,
     "geom:longitude":-115.218031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7224 Rustic Meadow St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219399283,
-    "wof:lastmodified":1449071014,
+    "wof:lastmodified":1466703621,
     "wof:name":"Gifts & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.218031,36.292553,-115.218031,36.292553],
+  "bbox": [
+    -115.218031,
+    36.292553,
+    -115.218031,
+    36.292553
+],
   "geometry": {"coordinates":[-115.218031,36.292553],"type":"Point"}
 }

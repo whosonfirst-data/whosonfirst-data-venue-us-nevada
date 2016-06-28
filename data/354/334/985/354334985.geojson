@@ -2,13 +2,14 @@
   "id": 354334985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119003,36.091499,-115.119003,36.091499",
     "geom:latitude":36.091499,
     "geom:longitude":-115.119003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5392 S Eastern Ave Ste A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354334985,
-    "wof:lastmodified":1449066403,
+    "wof:lastmodified":1466705946,
     "wof:name":"Vazquez Financial Management",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-115.119003,36.091499,-115.119003,36.091499],
-  "geometry": {"coordinates":[-115.119003,36.091499],"type":"Point"}
+  "bbox": [
+    -115.119003,
+    36.091499,
+    -115.119003,
+    36.091499
+],
+  "geometry": {"coordinates":[-115.11900300000001,36.091499],"type":"Point"}
 }

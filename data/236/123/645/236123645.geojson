@@ -2,13 +2,14 @@
   "id": 236123645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069144,36.074357,-115.069144,36.074357",
     "geom:latitude":36.074357,
     "geom:longitude":-115.069144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Commerce Center Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236123645,
-    "wof:lastmodified":1449002468,
+    "wof:lastmodified":1466702009,
     "wof:name":"Univision",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "co"
     ]
 },
-  "bbox": [-115.069144,36.074357,-115.069144,36.074357],
-  "geometry": {"coordinates":[-115.069144,36.074357],"type":"Point"}
+  "bbox": [
+    -115.069144,
+    36.074357,
+    -115.069144,
+    36.074357
+],
+  "geometry": {"coordinates":[-115.06914399999999,36.074357],"type":"Point"}
 }

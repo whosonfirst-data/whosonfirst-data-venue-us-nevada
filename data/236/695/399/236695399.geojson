@@ -2,13 +2,14 @@
   "id": 236695399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318549,36.174838,-115.318549,36.174838",
     "geom:latitude":36.174838,
     "geom:longitude":-115.318549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Royal Ascot Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236695399,
-    "wof:lastmodified":1449002796,
+    "wof:lastmodified":1466706596,
     "wof:name":"Remigior Corp",
     "wof:parent_id":85892633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metal"
     ]
 },
-  "bbox": [-115.318549,36.174838,-115.318549,36.174838],
+  "bbox": [
+    -115.318549,
+    36.174838,
+    -115.318549,
+    36.174838
+],
   "geometry": {"coordinates":[-115.318549,36.174838],"type":"Point"}
 }

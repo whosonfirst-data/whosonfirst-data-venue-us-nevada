@@ -2,13 +2,14 @@
   "id": 235988293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.864578,39.535579,-119.864578,39.535579",
     "geom:latitude":39.535579,
     "geom:longitude":-119.864578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10490 N McCarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235988293,
-    "wof:lastmodified":1449008379,
+    "wof:lastmodified":1466703696,
     "wof:name":"Canyon Cleaners",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plant"
     ]
 },
-  "bbox": [-119.864578,39.535579,-119.864578,39.535579],
-  "geometry": {"coordinates":[-119.864578,39.535579],"type":"Point"}
+  "bbox": [
+    -119.864578,
+    39.535579,
+    -119.864578,
+    39.535579
+],
+  "geometry": {"coordinates":[-119.86457799999999,39.535579],"type":"Point"}
 }

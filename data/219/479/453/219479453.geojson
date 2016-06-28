@@ -2,13 +2,14 @@
   "id": 219479453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992275,36.256082,-115.992275,36.256082",
     "geom:latitude":36.256082,
     "geom:longitude":-115.992275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2591 Helicopter Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219479453,
-    "wof:lastmodified":1449072801,
+    "wof:lastmodified":1466704071,
     "wof:name":"Watkins Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spice"
     ]
 },
-  "bbox": [-115.992275,36.256082,-115.992275,36.256082],
-  "geometry": {"coordinates":[-115.992275,36.256082],"type":"Point"}
+  "bbox": [
+    -115.992275,
+    36.256082,
+    -115.992275,
+    36.256082
+],
+  "geometry": {"coordinates":[-115.99227500000001,36.256082],"type":"Point"}
 }

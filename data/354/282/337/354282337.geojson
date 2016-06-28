@@ -2,13 +2,14 @@
   "id": 354282337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.061833,36.21812,-115.061833,36.21812",
     "geom:latitude":36.21812,
     "geom:longitude":-115.061833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3188 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354282337,
-    "wof:lastmodified":1449067018,
+    "wof:lastmodified":1466705713,
     "wof:name":"Llantera Juarez",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.061833,36.21812,-115.061833,36.21812],
-  "geometry": {"coordinates":[-115.061833,36.21812],"type":"Point"}
+  "bbox": [
+    -115.061833,
+    36.21812,
+    -115.061833,
+    36.21812
+],
+  "geometry": {"coordinates":[-115.06183299999999,36.21812],"type":"Point"}
 }

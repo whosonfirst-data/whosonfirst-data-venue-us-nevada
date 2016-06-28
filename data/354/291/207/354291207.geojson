@@ -2,13 +2,14 @@
   "id": 354291207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278118,36.132703,-115.278118,36.132703",
     "geom:latitude":36.132703,
     "geom:longitude":-115.278118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 S Durango Dr Ste 205",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354291207,
-    "wof:lastmodified":1449066430,
+    "wof:lastmodified":1466705794,
     "wof:name":"Credit Guard, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advising"
     ]
 },
-  "bbox": [-115.278118,36.132703,-115.278118,36.132703],
-  "geometry": {"coordinates":[-115.278118,36.132703],"type":"Point"}
+  "bbox": [
+    -115.278118,
+    36.132703,
+    -115.278118,
+    36.132703
+],
+  "geometry": {"coordinates":[-115.27811800000001,36.132703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219259079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.656155,40.799371,-115.656155,40.799371",
     "geom:latitude":40.799371,
     "geom:longitude":-115.656155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Spring Valley Pkwy",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219259079,
-    "wof:lastmodified":1449071199,
+    "wof:lastmodified":1466702628,
     "wof:name":"Taylor Made Iron Services",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-115.656155,40.799371,-115.656155,40.799371],
+  "bbox": [
+    -115.656155,
+    40.799371,
+    -115.656155,
+    40.799371
+],
   "geometry": {"coordinates":[-115.656155,40.799371],"type":"Point"}
 }

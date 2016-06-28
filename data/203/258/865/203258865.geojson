@@ -2,13 +2,14 @@
   "id": 203258865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7669,39.165245,-119.7669,39.165245",
     "geom:latitude":39.165245,
     "geom:longitude":-119.7669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203258865,
-    "wof:lastmodified":1449026436,
+    "wof:lastmodified":1466702572,
     "wof:name":"Malibu Water Resources",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "wind"
     ]
 },
-  "bbox": [-119.7669,39.165245,-119.7669,39.165245],
-  "geometry": {"coordinates":[-119.7669,39.165245],"type":"Point"}
+  "bbox": [
+    -119.7669,
+    39.165245,
+    -119.7669,
+    39.165245
+],
+  "geometry": {"coordinates":[-119.76690000000001,39.165245],"type":"Point"}
 }

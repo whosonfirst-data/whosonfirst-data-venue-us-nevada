@@ -2,13 +2,14 @@
   "id": 354004193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082327,36.069922,-115.082327,36.069922",
     "geom:latitude":36.069922,
     "geom:longitude":-115.082327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 N Green Valley Pwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354004193,
-    "wof:lastmodified":1449066533,
+    "wof:lastmodified":1466701563,
     "wof:name":"Yummy Sushi Roll",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "japanese"
     ]
 },
-  "bbox": [-115.082327,36.069922,-115.082327,36.069922],
-  "geometry": {"coordinates":[-115.082327,36.069922],"type":"Point"}
+  "bbox": [
+    -115.082327,
+    36.069922,
+    -115.082327,
+    36.069922
+],
+  "geometry": {"coordinates":[-115.08232700000001,36.069922],"type":"Point"}
 }

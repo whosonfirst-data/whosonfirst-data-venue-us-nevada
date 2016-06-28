@@ -2,13 +2,14 @@
   "id": 220154413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.757312,40.838521,-115.757312,40.838521",
     "geom:latitude":40.838521,
     "geom:longitude":-115.757312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476 12th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220154413,
-    "wof:lastmodified":1449074888,
+    "wof:lastmodified":1466702792,
     "wof:name":"Meadow Gold Dairy Products",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-115.757312,40.838521,-115.757312,40.838521],
+  "bbox": [
+    -115.757312,
+    40.838521,
+    -115.757312,
+    40.838521
+],
   "geometry": {"coordinates":[-115.757312,40.838521],"type":"Point"}
 }

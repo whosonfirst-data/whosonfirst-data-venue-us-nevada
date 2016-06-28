@@ -2,13 +2,14 @@
   "id": 220109993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.11567,36.198412,-115.11567,36.198412",
     "geom:latitude":36.198412,
     "geom:longitude":-115.11567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Carroll St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220109993,
-    "wof:lastmodified":1449074295,
+    "wof:lastmodified":1466702456,
     "wof:name":"Nu Era Iron",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-115.11567,36.198412,-115.11567,36.198412],
-  "geometry": {"coordinates":[-115.11567,36.198412],"type":"Point"}
+  "bbox": [
+    -115.11567,
+    36.198412,
+    -115.11567,
+    36.198412
+],
+  "geometry": {"coordinates":[-115.11566999999999,36.198412],"type":"Point"}
 }

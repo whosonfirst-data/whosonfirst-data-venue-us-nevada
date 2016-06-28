@@ -2,13 +2,14 @@
   "id": 236692159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798725,39.491385,-119.798725,39.491385",
     "geom:latitude":39.491385,
     "geom:longitude":-119.798725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Smith Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236692159,
-    "wof:lastmodified":1449002335,
+    "wof:lastmodified":1466706448,
     "wof:name":"Biofeedback Center",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "biofeedback"
     ]
 },
-  "bbox": [-119.798725,39.491385,-119.798725,39.491385],
+  "bbox": [
+    -119.798725,
+    39.491385,
+    -119.798725,
+    39.491385
+],
   "geometry": {"coordinates":[-119.798725,39.491385],"type":"Point"}
 }

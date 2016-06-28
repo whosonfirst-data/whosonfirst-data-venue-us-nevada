@@ -2,13 +2,14 @@
   "id": 236225197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.213175,36.261811,-115.213175,36.261811",
     "geom:latitude":36.261811,
     "geom:longitude":-115.213175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5232 Still Breeze Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236225197,
-    "wof:lastmodified":1449002518,
+    "wof:lastmodified":1466704083,
     "wof:name":"Dd Express Svcs LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.213175,36.261811,-115.213175,36.261811],
-  "geometry": {"coordinates":[-115.213175,36.261811],"type":"Point"}
+  "bbox": [
+    -115.213175,
+    36.261811,
+    -115.213175,
+    36.261811
+],
+  "geometry": {"coordinates":[-115.21317500000001,36.261811],"type":"Point"}
 }

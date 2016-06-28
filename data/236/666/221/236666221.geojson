@@ -2,13 +2,14 @@
   "id": 236666221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.966528,36.050118,-114.966528,36.050118",
     "geom:latitude":36.050118,
     "geom:longitude":-114.966528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Woodside Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236666221,
-    "wof:lastmodified":1449002737,
+    "wof:lastmodified":1466706410,
     "wof:name":"Rosed Postal Auctions",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "for"
     ]
 },
-  "bbox": [-114.966528,36.050118,-114.966528,36.050118],
+  "bbox": [
+    -114.966528,
+    36.050118,
+    -114.966528,
+    36.050118
+],
   "geometry": {"coordinates":[-114.966528,36.050118],"type":"Point"}
 }

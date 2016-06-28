@@ -2,13 +2,14 @@
   "id": 220011449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141968,36.163914,-115.141968,36.163914",
     "geom:latitude":36.163914,
     "geom:longitude":-115.141968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Clark Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220011449,
-    "wof:lastmodified":1449074705,
+    "wof:lastmodified":1466701543,
     "wof:name":"Ticket Fixers",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.141968,36.163914,-115.141968,36.163914],
-  "geometry": {"coordinates":[-115.141968,36.163914],"type":"Point"}
+  "bbox": [
+    -115.141968,
+    36.163914,
+    -115.141968,
+    36.163914
+],
+  "geometry": {"coordinates":[-115.14196800000001,36.163914],"type":"Point"}
 }

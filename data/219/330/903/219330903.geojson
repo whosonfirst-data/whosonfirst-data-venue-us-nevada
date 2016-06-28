@@ -2,13 +2,14 @@
   "id": 219330903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.235232,36.188481,-115.235232,36.188481",
     "geom:latitude":36.188481,
     "geom:longitude":-115.235232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Vegas Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219330903,
-    "wof:lastmodified":1449072137,
+    "wof:lastmodified":1466703275,
     "wof:name":"Computer's R Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.235232,36.188481,-115.235232,36.188481],
+  "bbox": [
+    -115.235232,
+    36.188481,
+    -115.235232,
+    36.188481
+],
   "geometry": {"coordinates":[-115.235232,36.188481],"type":"Point"}
 }

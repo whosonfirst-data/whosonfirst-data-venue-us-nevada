@@ -2,13 +2,14 @@
   "id": 236152979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.735497,40.974073,-117.735497,40.974073",
     "geom:latitude":40.974073,
     "geom:longitude":-117.735497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 S Bridge St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236152979,
-    "wof:lastmodified":1449004333,
+    "wof:lastmodified":1466702630,
     "wof:name":"Freds Butch Cassidy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.735497,40.974073,-117.735497,40.974073],
+  "bbox": [
+    -117.735497,
+    40.974073,
+    -117.735497,
+    40.974073
+],
   "geometry": {"coordinates":[-117.735497,40.974073],"type":"Point"}
 }

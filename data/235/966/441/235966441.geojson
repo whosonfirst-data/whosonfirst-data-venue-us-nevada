@@ -2,13 +2,14 @@
   "id": 235966441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.651225,39.226269,-119.651225,39.226269",
     "geom:latitude":39.226269,
     "geom:longitude":-119.651225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Cowee Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235966441,
-    "wof:lastmodified":1449008276,
+    "wof:lastmodified":1466703601,
     "wof:name":"Jenkins Precision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-119.651225,39.226269,-119.651225,39.226269],
+  "bbox": [
+    -119.651225,
+    39.226269,
+    -119.651225,
+    39.226269
+],
   "geometry": {"coordinates":[-119.651225,39.226269],"type":"Point"}
 }

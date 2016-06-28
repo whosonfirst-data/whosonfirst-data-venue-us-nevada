@@ -2,13 +2,14 @@
   "id": 354366553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.07322,36.0888,-115.07322,36.0888",
     "geom:latitude":36.0888,
     "geom:longitude":-115.07322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5545 Mountain Vista St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354366553,
-    "wof:lastmodified":1449067201,
+    "wof:lastmodified":1466706088,
     "wof:name":"Arntz E Breen Chtd",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "injury"
     ]
 },
-  "bbox": [-115.07322,36.0888,-115.07322,36.0888],
-  "geometry": {"coordinates":[-115.07322,36.0888],"type":"Point"}
+  "bbox": [
+    -115.07322,
+    36.0888,
+    -115.07322,
+    36.0888
+],
+  "geometry": {"coordinates":[-115.07322000000001,36.0888],"type":"Point"}
 }

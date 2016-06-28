@@ -2,13 +2,14 @@
   "id": 236672627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.220619,36.226534,-115.220619,36.226534",
     "geom:latitude":36.226534,
     "geom:longitude":-115.220619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236672627,
-    "wof:lastmodified":1449001838,
+    "wof:lastmodified":1466706429,
     "wof:name":"Advantage Media Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-115.220619,36.226534,-115.220619,36.226534],
+  "bbox": [
+    -115.220619,
+    36.226534,
+    -115.220619,
+    36.226534
+],
   "geometry": {"coordinates":[-115.220619,36.226534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236394375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813619,39.522204,-119.813619,39.522204",
     "geom:latitude":39.522204,
     "geom:longitude":-119.813619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Ridge St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236394375,
-    "wof:lastmodified":1449002156,
+    "wof:lastmodified":1466705313,
     "wof:name":"Richard F Cornell Law Offices",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.813619,39.522204,-119.813619,39.522204],
+  "bbox": [
+    -119.813619,
+    39.522204,
+    -119.813619,
+    39.522204
+],
   "geometry": {"coordinates":[-119.813619,39.522204],"type":"Point"}
 }

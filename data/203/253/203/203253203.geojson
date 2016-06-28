@@ -2,13 +2,14 @@
   "id": 203253203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.16346,36.164402,-115.16346,36.164402",
     "geom:latitude":36.164402,
     "geom:longitude":-115.16346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Pinto Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203253203,
-    "wof:lastmodified":1449026629,
+    "wof:lastmodified":1466702515,
     "wof:name":"Coroner Medical Examiner Off",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-115.16346,36.164402,-115.16346,36.164402],
+  "bbox": [
+    -115.16346,
+    36.164402,
+    -115.16346,
+    36.164402
+],
   "geometry": {"coordinates":[-115.16346,36.164402],"type":"Point"}
 }

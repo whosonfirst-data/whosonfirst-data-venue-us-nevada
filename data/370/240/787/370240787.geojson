@@ -2,13 +2,14 @@
   "id": 370240787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241841,36.125861,-115.241841,36.125861",
     "geom:latitude":36.125861,
     "geom:longitude":-115.241841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6870 Spring Mountain Rd Ste 3",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370240787,
-    "wof:lastmodified":1449029441,
+    "wof:lastmodified":1466703477,
     "wof:name":"Metro Pcs",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.241841,36.125861,-115.241841,36.125861],
-  "geometry": {"coordinates":[-115.241841,36.125861],"type":"Point"}
+  "bbox": [
+    -115.241841,
+    36.125861,
+    -115.241841,
+    36.125861
+],
+  "geometry": {"coordinates":[-115.24184099999999,36.125861],"type":"Point"}
 }

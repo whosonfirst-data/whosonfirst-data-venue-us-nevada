@@ -2,13 +2,14 @@
   "id": 219783961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222962,36.093679,-115.222962,36.093679",
     "geom:latitude":36.093679,
     "geom:longitude":-115.222962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5247 Island Chain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219783961,
-    "wof:lastmodified":1449070486,
+    "wof:lastmodified":1466704869,
     "wof:name":"Just Ask",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "concierge"
     ]
 },
-  "bbox": [-115.222962,36.093679,-115.222962,36.093679],
+  "bbox": [
+    -115.222962,
+    36.093679,
+    -115.222962,
+    36.093679
+],
   "geometry": {"coordinates":[-115.222962,36.093679],"type":"Point"}
 }

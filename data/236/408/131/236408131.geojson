@@ -2,13 +2,14 @@
   "id": 236408131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.794837,39.505749,-119.794837,39.505749",
     "geom:latitude":39.505749,
     "geom:longitude":-119.794837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236408131,
-    "wof:lastmodified":1449001982,
+    "wof:lastmodified":1466705397,
     "wof:name":"Todd L Torvinen",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.794837,39.505749,-119.794837,39.505749],
+  "bbox": [
+    -119.794837,
+    39.505749,
+    -119.794837,
+    39.505749
+],
   "geometry": {"coordinates":[-119.794837,39.505749],"type":"Point"}
 }

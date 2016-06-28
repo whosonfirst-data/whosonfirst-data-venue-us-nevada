@@ -2,13 +2,14 @@
   "id": 203186537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.960956,35.995351,-114.960956,35.995351",
     "geom:latitude":35.995351,
     "geom:longitude":-114.960956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Scholar St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203186537,
-    "wof:lastmodified":1449026417,
+    "wof:lastmodified":1466701901,
     "wof:name":"J Marian Walker Elementary",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.960956,35.995351,-114.960956,35.995351],
+  "bbox": [
+    -114.960956,
+    35.995351,
+    -114.960956,
+    35.995351
+],
   "geometry": {"coordinates":[-114.960956,35.995351],"type":"Point"}
 }

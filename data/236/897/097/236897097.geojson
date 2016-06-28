@@ -2,13 +2,14 @@
   "id": 236897097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.68104,39.637167,-119.68104,39.637167",
     "geom:latitude":39.637167,
     "geom:longitude":-119.68104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8935 Jedediah Smith Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236897097,
-    "wof:lastmodified":1449004606,
+    "wof:lastmodified":1466706801,
     "wof:name":"KOA Visalia",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-119.68104,39.637167,-119.68104,39.637167],
+  "bbox": [
+    -119.68104,
+    39.637167,
+    -119.68104,
+    39.637167
+],
   "geometry": {"coordinates":[-119.68104,39.637167],"type":"Point"}
 }

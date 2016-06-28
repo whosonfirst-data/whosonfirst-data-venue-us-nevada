@@ -2,13 +2,14 @@
   "id": 236383395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.092717,36.005849,-115.092717,36.005849",
     "geom:latitude":36.005849,
     "geom:longitude":-115.092717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 W Horizon Ridge Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236383395,
-    "wof:lastmodified":1449002979,
+    "wof:lastmodified":1466705246,
     "wof:name":"Sanford M Scott Law Corp",
     "wof:parent_id":85878129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.092717,36.005849,-115.092717,36.005849],
-  "geometry": {"coordinates":[-115.092717,36.005849],"type":"Point"}
+  "bbox": [
+    -115.092717,
+    36.005849,
+    -115.092717,
+    36.005849
+],
+  "geometry": {"coordinates":[-115.09271699999999,36.005849],"type":"Point"}
 }

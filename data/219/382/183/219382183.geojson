@@ -2,13 +2,14 @@
   "id": 219382183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766087,39.550253,-119.766087,39.550253",
     "geom:latitude":39.550253,
     "geom:longitude":-119.766087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Byrd Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219382183,
-    "wof:lastmodified":1449071342,
+    "wof:lastmodified":1466703534,
     "wof:name":"Shawnas Ceramic World",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.766087,39.550253,-119.766087,39.550253],
+  "bbox": [
+    -119.766087,
+    39.550253,
+    -119.766087,
+    39.550253
+],
   "geometry": {"coordinates":[-119.766087,39.550253],"type":"Point"}
 }

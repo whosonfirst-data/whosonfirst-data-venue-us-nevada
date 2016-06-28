@@ -2,13 +2,14 @@
   "id": 236921797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.760812,40.828942,-115.760812,40.828942",
     "geom:latitude":40.828942,
     "geom:longitude":-115.760812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Douglas St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236921797,
-    "wof:lastmodified":1449003835,
+    "wof:lastmodified":1466706841,
     "wof:name":"Mona Lisa Ranch",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-115.760812,40.828942,-115.760812,40.828942],
+  "bbox": [
+    -115.760812,
+    40.828942,
+    -115.760812,
+    40.828942
+],
   "geometry": {"coordinates":[-115.760812,40.828942],"type":"Point"}
 }

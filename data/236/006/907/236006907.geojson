@@ -2,13 +2,14 @@
   "id": 236006907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111138,36.194334,-115.111138,36.194334",
     "geom:latitude":36.194334,
     "geom:longitude":-115.111138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2845 Hickey Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236006907,
-    "wof:lastmodified":1449004478,
+    "wof:lastmodified":1466703802,
     "wof:name":"Diablo Exteriors",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.111138,36.194334,-115.111138,36.194334],
+  "bbox": [
+    -115.111138,
+    36.194334,
+    -115.111138,
+    36.194334
+],
   "geometry": {"coordinates":[-115.111138,36.194334],"type":"Point"}
 }

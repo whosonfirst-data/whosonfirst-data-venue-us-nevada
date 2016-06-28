@@ -2,13 +2,14 @@
   "id": 236684211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.131673,36.114669,-115.131673,36.114669",
     "geom:latitude":36.114669,
     "geom:longitude":-115.131673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 E Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236684211,
-    "wof:lastmodified":1449002296,
+    "wof:lastmodified":1466706443,
     "wof:name":"New China Buffet",
     "wof:parent_id":85879741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.131673,36.114669,-115.131673,36.114669],
-  "geometry": {"coordinates":[-115.131673,36.114669],"type":"Point"}
+  "bbox": [
+    -115.131673,
+    36.114669,
+    -115.131673,
+    36.114669
+],
+  "geometry": {"coordinates":[-115.13167300000001,36.114669],"type":"Point"}
 }

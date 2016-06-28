@@ -2,13 +2,14 @@
   "id": 203387501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.744946,39.525648,-119.744946,39.525648",
     "geom:latitude":39.525648,
     "geom:longitude":-119.744946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203387501,
-    "wof:lastmodified":1449026607,
+    "wof:lastmodified":1466703284,
     "wof:name":"Kernal Pops USA Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.744946,39.525648,-119.744946,39.525648],
+  "bbox": [
+    -119.744946,
+    39.525648,
+    -119.744946,
+    39.525648
+],
   "geometry": {"coordinates":[-119.744946,39.525648],"type":"Point"}
 }

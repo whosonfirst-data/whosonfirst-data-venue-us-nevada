@@ -2,13 +2,14 @@
   "id": 203286135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.138748,36.15894,-115.138748,36.15894",
     "geom:latitude":36.15894,
     "geom:longitude":-115.138748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203286135,
-    "wof:lastmodified":1449025412,
+    "wof:lastmodified":1466702725,
     "wof:name":"Cars R Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.138748,36.15894,-115.138748,36.15894],
-  "geometry": {"coordinates":[-115.138748,36.15894],"type":"Point"}
+  "bbox": [
+    -115.138748,
+    36.15894,
+    -115.138748,
+    36.15894
+],
+  "geometry": {"coordinates":[-115.13874800000001,36.15894],"type":"Point"}
 }

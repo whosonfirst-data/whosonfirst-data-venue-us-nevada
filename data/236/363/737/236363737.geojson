@@ -2,13 +2,14 @@
   "id": 236363737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099858,36.107516,-115.099858,36.107516",
     "geom:latitude":36.107516,
     "geom:longitude":-115.099858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 E Harmon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236363737,
-    "wof:lastmodified":1449004764,
+    "wof:lastmodified":1466705155,
     "wof:name":"Hedrick & Assoc",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-115.099858,36.107516,-115.099858,36.107516],
+  "bbox": [
+    -115.099858,
+    36.107516,
+    -115.099858,
+    36.107516
+],
   "geometry": {"coordinates":[-115.099858,36.107516],"type":"Point"}
 }

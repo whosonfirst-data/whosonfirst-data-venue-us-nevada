@@ -2,13 +2,14 @@
   "id": 219473417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.763727,39.538298,-119.763727,39.538298",
     "geom:latitude":39.538298,
     "geom:longitude":-119.763727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219473417,
-    "wof:lastmodified":1449071127,
+    "wof:lastmodified":1466704049,
     "wof:name":"Cooper's Emission Control Ctr",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "smog"
     ]
 },
-  "bbox": [-119.763727,39.538298,-119.763727,39.538298],
+  "bbox": [
+    -119.763727,
+    39.538298,
+    -119.763727,
+    39.538298
+],
   "geometry": {"coordinates":[-119.763727,39.538298],"type":"Point"}
 }

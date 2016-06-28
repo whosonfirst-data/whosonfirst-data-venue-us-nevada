@@ -2,13 +2,14 @@
   "id": 370305505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.68635,38.944071,-119.68635,38.944071",
     "geom:latitude":38.944071,
     "geom:longitude":-119.68635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Horsebush Ct",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370305505,
-    "wof:lastmodified":1449029606,
+    "wof:lastmodified":1466704522,
     "wof:name":"Petersen Realty & Invest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-119.68635,38.944071,-119.68635,38.944071],
+  "bbox": [
+    -119.68635,
+    38.944071,
+    -119.68635,
+    38.944071
+],
   "geometry": {"coordinates":[-119.68635,38.944071],"type":"Point"}
 }

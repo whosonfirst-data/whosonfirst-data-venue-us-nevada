@@ -2,13 +2,14 @@
   "id": 236952255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.33473,36.202392,-115.33473,36.202392",
     "geom:latitude":36.202392,
     "geom:longitude":-115.33473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2355 Scotch Lake St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236952255,
-    "wof:lastmodified":1449004133,
+    "wof:lastmodified":1466706874,
     "wof:name":"Security Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mail"
     ]
 },
-  "bbox": [-115.33473,36.202392,-115.33473,36.202392],
-  "geometry": {"coordinates":[-115.33473,36.202392],"type":"Point"}
+  "bbox": [
+    -115.33473,
+    36.202392,
+    -115.33473,
+    36.202392
+],
+  "geometry": {"coordinates":[-115.33472999999999,36.202392],"type":"Point"}
 }

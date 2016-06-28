@@ -2,13 +2,14 @@
   "id": 219518747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768759,39.139239,-119.768759,39.139239",
     "geom:latitude":39.139239,
     "geom:longitude":-119.768759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3170 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219518747,
-    "wof:lastmodified":1449072371,
+    "wof:lastmodified":1466701637,
     "wof:name":"Ben's Spas",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tub"
     ]
 },
-  "bbox": [-119.768759,39.139239,-119.768759,39.139239],
+  "bbox": [
+    -119.768759,
+    39.139239,
+    -119.768759,
+    39.139239
+],
   "geometry": {"coordinates":[-119.768759,39.139239],"type":"Point"}
 }

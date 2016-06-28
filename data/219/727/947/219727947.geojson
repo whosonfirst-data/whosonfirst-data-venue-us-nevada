@@ -2,13 +2,14 @@
   "id": 219727947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149643,36.187009,-115.149643,36.187009",
     "geom:latitude":36.187009,
     "geom:longitude":-115.149643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W Van Buren Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219727947,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466704620,
     "wof:name":"Interfaith Hospitality Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-115.149643,36.187009,-115.149643,36.187009],
+  "bbox": [
+    -115.149643,
+    36.187009,
+    -115.149643,
+    36.187009
+],
   "geometry": {"coordinates":[-115.149643,36.187009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219469061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.83214,39.512965,-119.83214,39.512965",
     "geom:latitude":39.512965,
     "geom:longitude":-119.83214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1914 Vale St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219469061,
-    "wof:lastmodified":1449074022,
+    "wof:lastmodified":1466704028,
     "wof:name":"Nevada Pager Service",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-119.83214,39.512965,-119.83214,39.512965],
+  "bbox": [
+    -119.83214,
+    39.512965,
+    -119.83214,
+    39.512965
+],
   "geometry": {"coordinates":[-119.83214,39.512965],"type":"Point"}
 }

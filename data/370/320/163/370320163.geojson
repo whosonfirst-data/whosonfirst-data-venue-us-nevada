@@ -2,13 +2,14 @@
   "id": 370320163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789168,39.525432,-119.789168,39.525432",
     "geom:latitude":39.525432,
     "geom:longitude":-119.789168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370320163,
-    "wof:lastmodified":1449029953,
+    "wof:lastmodified":1466704734,
     "wof:name":"Street To Sand Off-Road",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-119.789168,39.525432,-119.789168,39.525432],
+  "bbox": [
+    -119.789168,
+    39.525432,
+    -119.789168,
+    39.525432
+],
   "geometry": {"coordinates":[-119.789168,39.525432],"type":"Point"}
 }

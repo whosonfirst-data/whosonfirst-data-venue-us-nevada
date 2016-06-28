@@ -2,13 +2,14 @@
   "id": 219196131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765702,39.147478,-119.765702,39.147478",
     "geom:latitude":39.147478,
     "geom:longitude":-119.765702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 California St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219196131,
-    "wof:lastmodified":1449071193,
+    "wof:lastmodified":1466702027,
     "wof:name":"Professional Therapeutic Ofc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-119.765702,39.147478,-119.765702,39.147478],
+  "bbox": [
+    -119.765702,
+    39.147478,
+    -119.765702,
+    39.147478
+],
   "geometry": {"coordinates":[-119.765702,39.147478],"type":"Point"}
 }

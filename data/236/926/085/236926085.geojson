@@ -2,13 +2,14 @@
   "id": 236926085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.962408,41.111181,-114.962408,41.111181",
     "geom:latitude":41.111181,
     "geom:longitude":-114.962408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 7th St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236926085,
-    "wof:lastmodified":1449002666,
+    "wof:lastmodified":1466706845,
     "wof:name":"Wells City Fire Dept",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-114.962408,41.111181,-114.962408,41.111181],
+  "bbox": [
+    -114.962408,
+    41.111181,
+    -114.962408,
+    41.111181
+],
   "geometry": {"coordinates":[-114.962408,41.111181],"type":"Point"}
 }

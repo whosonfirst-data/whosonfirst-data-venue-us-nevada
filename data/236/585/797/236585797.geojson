@@ -2,13 +2,14 @@
   "id": 236585797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.214965,36.197399,-115.214965,36.197399",
     "geom:latitude":36.197399,
     "geom:longitude":-115.214965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 N Michael Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236585797,
-    "wof:lastmodified":1449003929,
+    "wof:lastmodified":1466706220,
     "wof:name":"Purdy Construction",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.214965,36.197399,-115.214965,36.197399],
-  "geometry": {"coordinates":[-115.214965,36.197399],"type":"Point"}
+  "bbox": [
+    -115.214965,
+    36.197399,
+    -115.214965,
+    36.197399
+],
+  "geometry": {"coordinates":[-115.21496500000001,36.197399],"type":"Point"}
 }

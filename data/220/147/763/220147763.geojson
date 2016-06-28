@@ -2,13 +2,14 @@
   "id": 220147763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755188,39.132078,-119.755188,39.132078",
     "geom:latitude":39.132078,
     "geom:longitude":-119.755188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Valley View Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220147763,
-    "wof:lastmodified":1449074786,
+    "wof:lastmodified":1466702752,
     "wof:name":"Pete Mash Water Truck Rental",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.755188,39.132078,-119.755188,39.132078],
+  "bbox": [
+    -119.755188,
+    39.132078,
+    -119.755188,
+    39.132078
+],
   "geometry": {"coordinates":[-119.755188,39.132078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235956959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118353,36.039905,-115.118353,36.039905",
     "geom:latitude":36.039905,
     "geom:longitude":-115.118353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8275 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235956959,
-    "wof:lastmodified":1449008317,
+    "wof:lastmodified":1466703566,
     "wof:name":"Managed Asset Co",
     "wof:parent_id":85879727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.118353,36.039905,-115.118353,36.039905],
+  "bbox": [
+    -115.118353,
+    36.039905,
+    -115.118353,
+    36.039905
+],
   "geometry": {"coordinates":[-115.118353,36.039905],"type":"Point"}
 }

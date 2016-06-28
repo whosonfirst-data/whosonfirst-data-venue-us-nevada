@@ -2,13 +2,14 @@
   "id": 219974979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206086,36.165601,-115.206086,36.165601",
     "geom:latitude":36.165601,
     "geom:longitude":-115.206086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219974979,
-    "wof:lastmodified":1449073453,
+    "wof:lastmodified":1466706088,
     "wof:name":"Surf Master",
     "wof:parent_id":85892677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.206086,36.165601,-115.206086,36.165601],
+  "bbox": [
+    -115.206086,
+    36.165601,
+    -115.206086,
+    36.165601
+],
   "geometry": {"coordinates":[-115.206086,36.165601],"type":"Point"}
 }

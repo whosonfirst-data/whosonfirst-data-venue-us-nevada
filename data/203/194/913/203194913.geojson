@@ -2,13 +2,14 @@
   "id": 203194913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062126,36.18813,-115.062126,36.18813",
     "geom:latitude":36.18813,
     "geom:longitude":-115.062126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203194913,
-    "wof:lastmodified":1449026580,
+    "wof:lastmodified":1466702005,
     "wof:name":"Poodles & Pals",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-115.062126,36.18813,-115.062126,36.18813],
-  "geometry": {"coordinates":[-115.062126,36.18813],"type":"Point"}
+  "bbox": [
+    -115.062126,
+    36.18813,
+    -115.062126,
+    36.18813
+],
+  "geometry": {"coordinates":[-115.06212600000001,36.18813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236859571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.14554,36.159426,-115.14554,36.159426",
     "geom:latitude":36.159426,
     "geom:longitude":-115.14554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S 6th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236859571,
-    "wof:lastmodified":1449004116,
+    "wof:lastmodified":1466706859,
     "wof:name":"Fierro Communications Inc",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-115.14554,36.159426,-115.14554,36.159426],
+  "bbox": [
+    -115.14554,
+    36.159426,
+    -115.14554,
+    36.159426
+],
   "geometry": {"coordinates":[-115.14554,36.159426],"type":"Point"}
 }

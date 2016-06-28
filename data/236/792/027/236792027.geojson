@@ -2,13 +2,14 @@
   "id": 236792027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821235,39.52867,-119.821235,39.52867",
     "geom:latitude":39.52867,
     "geom:longitude":-119.821235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 W 4th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236792027,
-    "wof:lastmodified":1449002208,
+    "wof:lastmodified":1466706751,
     "wof:name":"Blue Seal Transmission Ctr",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-119.821235,39.52867,-119.821235,39.52867],
+  "bbox": [
+    -119.821235,
+    39.52867,
+    -119.821235,
+    39.52867
+],
   "geometry": {"coordinates":[-119.821235,39.52867],"type":"Point"}
 }

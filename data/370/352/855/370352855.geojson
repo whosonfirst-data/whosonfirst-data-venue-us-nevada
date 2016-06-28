@@ -2,13 +2,14 @@
   "id": 370352855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.783827,39.085173,-119.783827,39.085173",
     "geom:latitude":39.085173,
     "geom:longitude":-119.783827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3382 Vista Grande Blvd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370352855,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1466705056,
     "wof:name":"The Boy's Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [-119.783827,39.085173,-119.783827,39.085173],
+  "bbox": [
+    -119.783827,
+    39.085173,
+    -119.783827,
+    39.085173
+],
   "geometry": {"coordinates":[-119.783827,39.085173],"type":"Point"}
 }

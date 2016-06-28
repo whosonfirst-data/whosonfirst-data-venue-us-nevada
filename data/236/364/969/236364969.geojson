@@ -2,13 +2,14 @@
   "id": 236364969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125636,35.985469,-115.125636,35.985469",
     "geom:latitude":35.985469,
     "geom:longitude":-115.125636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3177 Majestic Shadows Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236364969,
-    "wof:lastmodified":1449003516,
+    "wof:lastmodified":1466705268,
     "wof:name":"Bella Sera Designs",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.125636,35.985469,-115.125636,35.985469],
+  "bbox": [
+    -115.125636,
+    35.985469,
+    -115.125636,
+    35.985469
+],
   "geometry": {"coordinates":[-115.125636,35.985469],"type":"Point"}
 }

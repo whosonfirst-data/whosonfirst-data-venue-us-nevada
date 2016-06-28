@@ -2,13 +2,14 @@
   "id": 220169751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762613,39.176092,-119.762613,39.176092",
     "geom:latitude":39.176092,
     "geom:longitude":-119.762613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 N Moody St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169751,
-    "wof:lastmodified":1449074529,
+    "wof:lastmodified":1466702881,
     "wof:name":"Harris & Assoc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.762613,39.176092,-119.762613,39.176092],
+  "bbox": [
+    -119.762613,
+    39.176092,
+    -119.762613,
+    39.176092
+],
   "geometry": {"coordinates":[-119.762613,39.176092],"type":"Point"}
 }

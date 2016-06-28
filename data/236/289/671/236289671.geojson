@@ -2,13 +2,14 @@
   "id": 236289671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227422,36.140081,-115.227422,36.140081",
     "geom:latitude":36.140081,
     "geom:longitude":-115.227422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2781 S Bronco St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236289671,
-    "wof:lastmodified":1449004587,
+    "wof:lastmodified":1466704495,
     "wof:name":"Maureen Hopkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-115.227422,36.140081,-115.227422,36.140081],
+  "bbox": [
+    -115.227422,
+    36.140081,
+    -115.227422,
+    36.140081
+],
   "geometry": {"coordinates":[-115.227422,36.140081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236160721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.997558,36.022146,-114.997558,36.022146",
     "geom:latitude":36.022146,
     "geom:longitude":-114.997558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"458 Annapolis Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236160721,
-    "wof:lastmodified":1449004621,
+    "wof:lastmodified":1466702787,
     "wof:name":"Nevada Pressure Washing",
     "wof:parent_id":85878077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-114.997558,36.022146,-114.997558,36.022146],
+  "bbox": [
+    -114.997558,
+    36.022146,
+    -114.997558,
+    36.022146
+],
   "geometry": {"coordinates":[-114.997558,36.022146],"type":"Point"}
 }

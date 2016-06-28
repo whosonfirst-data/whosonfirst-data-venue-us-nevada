@@ -2,13 +2,14 @@
   "id": 220097685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137702,36.113109,-115.137702,36.113109",
     "geom:latitude":36.113109,
     "geom:longitude":-115.137702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220097685,
-    "wof:lastmodified":1449074353,
+    "wof:lastmodified":1466702364,
     "wof:name":"Baseball Card Heaven",
     "wof:parent_id":85879741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [-115.137702,36.113109,-115.137702,36.113109],
+  "bbox": [
+    -115.137702,
+    36.113109,
+    -115.137702,
+    36.113109
+],
   "geometry": {"coordinates":[-115.137702,36.113109],"type":"Point"}
 }

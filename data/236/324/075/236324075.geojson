@@ -2,13 +2,14 @@
   "id": 236324075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062108,36.207641,-115.062108,36.207641",
     "geom:latitude":36.207641,
     "geom:longitude":-115.062108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236324075,
-    "wof:lastmodified":1449003598,
+    "wof:lastmodified":1466704750,
     "wof:name":"M & M Construction",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.062108,36.207641,-115.062108,36.207641],
-  "geometry": {"coordinates":[-115.062108,36.207641],"type":"Point"}
+  "bbox": [
+    -115.062108,
+    36.207641,
+    -115.062108,
+    36.207641
+],
+  "geometry": {"coordinates":[-115.06210799999999,36.207641],"type":"Point"}
 }

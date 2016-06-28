@@ -2,13 +2,14 @@
   "id": 203303901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.094492,36.085477,-115.094492,36.085477",
     "geom:latitude":36.085477,
     "geom:longitude":-115.094492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5769 S Hedgehaven Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203303901,
-    "wof:lastmodified":1449024951,
+    "wof:lastmodified":1466702857,
     "wof:name":"R 3 M Construction Co",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.094492,36.085477,-115.094492,36.085477],
+  "bbox": [
+    -115.094492,
+    36.085477,
+    -115.094492,
+    36.085477
+],
   "geometry": {"coordinates":[-115.094492,36.085477],"type":"Point"}
 }

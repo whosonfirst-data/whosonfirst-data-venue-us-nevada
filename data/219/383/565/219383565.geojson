@@ -2,13 +2,14 @@
   "id": 219383565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.786709,39.521006,-119.786709,39.521006",
     "geom:latitude":39.521006,
     "geom:longitude":-119.786709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219383565,
-    "wof:lastmodified":1449071879,
+    "wof:lastmodified":1466703549,
     "wof:name":"Comstock Check Cashing and Ln",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pawnshop"
     ]
 },
-  "bbox": [-119.786709,39.521006,-119.786709,39.521006],
+  "bbox": [
+    -119.786709,
+    39.521006,
+    -119.786709,
+    39.521006
+],
   "geometry": {"coordinates":[-119.786709,39.521006],"type":"Point"}
 }

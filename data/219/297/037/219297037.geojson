@@ -2,13 +2,14 @@
   "id": 219297037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.299272,36.118747,-115.299272,36.118747",
     "geom:latitude":36.118747,
     "geom:longitude":-115.299272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9524 Borgata Bay Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219297037,
-    "wof:lastmodified":1449072630,
+    "wof:lastmodified":1466703044,
     "wof:name":"Big South Fork Pool Svc",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.299272,36.118747,-115.299272,36.118747],
+  "bbox": [
+    -115.299272,
+    36.118747,
+    -115.299272,
+    36.118747
+],
   "geometry": {"coordinates":[-115.299272,36.118747],"type":"Point"}
 }

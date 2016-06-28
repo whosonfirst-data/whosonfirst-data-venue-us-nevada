@@ -2,13 +2,14 @@
   "id": 354247957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.173291,36.119567,-115.173291,36.119567",
     "geom:latitude":36.119567,
     "geom:longitude":-115.173291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3570 Las Vegas Blvd S.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354247957,
-    "wof:lastmodified":1449066943,
+    "wof:lastmodified":1466705220,
     "wof:name":"Caesar's Palace Poker Room",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.173291,36.119567,-115.173291,36.119567],
-  "geometry": {"coordinates":[-115.173291,36.119567],"type":"Point"}
+  "bbox": [
+    -115.173291,
+    36.119567,
+    -115.173291,
+    36.119567
+],
+  "geometry": {"coordinates":[-115.17329100000001,36.119567],"type":"Point"}
 }

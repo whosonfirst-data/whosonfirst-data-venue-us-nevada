@@ -2,13 +2,14 @@
   "id": 219946739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.790283,39.411448,-119.790283,39.411448",
     "geom:latitude":39.411448,
     "geom:longitude":-119.790283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13080 Thomas Creek Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219946739,
-    "wof:lastmodified":1449073496,
+    "wof:lastmodified":1466706009,
     "wof:name":"Precision Driven Ltd",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-119.790283,39.411448,-119.790283,39.411448],
+  "bbox": [
+    -119.790283,
+    39.411448,
+    -119.790283,
+    39.411448
+],
   "geometry": {"coordinates":[-119.790283,39.411448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203357365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778796,39.483402,-119.778796,39.483402",
     "geom:latitude":39.483402,
     "geom:longitude":-119.778796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1465 E Peckham Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203357365,
-    "wof:lastmodified":1449026631,
+    "wof:lastmodified":1466703161,
     "wof:name":"As You Wish",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "relations"
     ]
 },
-  "bbox": [-119.778796,39.483402,-119.778796,39.483402],
+  "bbox": [
+    -119.778796,
+    39.483402,
+    -119.778796,
+    39.483402
+],
   "geometry": {"coordinates":[-119.778796,39.483402],"type":"Point"}
 }

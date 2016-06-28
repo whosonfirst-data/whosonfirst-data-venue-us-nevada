@@ -2,13 +2,14 @@
   "id": 219920273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074983,36.161258,-115.074983,36.161258",
     "geom:latitude":36.161258,
     "geom:longitude":-115.074983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 E Sherrill Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219920273,
-    "wof:lastmodified":1449073134,
+    "wof:lastmodified":1466705738,
     "wof:name":"Southern Construction Svc",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.074983,36.161258,-115.074983,36.161258],
+  "bbox": [
+    -115.074983,
+    36.161258,
+    -115.074983,
+    36.161258
+],
   "geometry": {"coordinates":[-115.074983,36.161258],"type":"Point"}
 }

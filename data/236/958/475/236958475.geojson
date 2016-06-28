@@ -2,13 +2,14 @@
   "id": 236958475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199278,36.112753,-115.199278,36.112753",
     "geom:latitude":36.112753,
     "geom:longitude":-115.199278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236958475,
-    "wof:lastmodified":1449004371,
+    "wof:lastmodified":1466706789,
     "wof:name":"S&L Vending Services",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.199278,36.112753,-115.199278,36.112753],
-  "geometry": {"coordinates":[-115.199278,36.112753],"type":"Point"}
+  "bbox": [
+    -115.199278,
+    36.112753,
+    -115.199278,
+    36.112753
+],
+  "geometry": {"coordinates":[-115.19927800000001,36.112753],"type":"Point"}
 }

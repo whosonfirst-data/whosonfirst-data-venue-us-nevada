@@ -2,13 +2,14 @@
   "id": 220072585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775956,39.547614,-119.775956,39.547614",
     "geom:latitude":39.547614,
     "geom:longitude":-119.775956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Greenbrae Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220072585,
-    "wof:lastmodified":1449074472,
+    "wof:lastmodified":1466702231,
     "wof:name":"Mr Video",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-119.775956,39.547614,-119.775956,39.547614],
-  "geometry": {"coordinates":[-119.775956,39.547614],"type":"Point"}
+  "bbox": [
+    -119.775956,
+    39.547614,
+    -119.775956,
+    39.547614
+],
+  "geometry": {"coordinates":[-119.77595599999999,39.547614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236596303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.840674,35.97443,-114.840674,35.97443",
     "geom:latitude":35.97443,
     "geom:longitude":-114.840674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236596303,
-    "wof:lastmodified":1449003318,
+    "wof:lastmodified":1466706250,
     "wof:name":"Desert Inn Of Boulder City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.840674,35.97443,-114.840674,35.97443],
-  "geometry": {"coordinates":[-114.840674,35.97443],"type":"Point"}
+  "bbox": [
+    -114.840674,
+    35.97443,
+    -114.840674,
+    35.97443
+],
+  "geometry": {"coordinates":[-114.84067400000001,35.97443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236568875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.885176,39.499914,-119.885176,39.499914",
     "geom:latitude":39.499914,
     "geom:longitude":-119.885176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4280 Juniper Trl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236568875,
-    "wof:lastmodified":1449001620,
+    "wof:lastmodified":1466706171,
     "wof:name":"Comstock Transcription Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "disc"
     ]
 },
-  "bbox": [-119.885176,39.499914,-119.885176,39.499914],
+  "bbox": [
+    -119.885176,
+    39.499914,
+    -119.885176,
+    39.499914
+],
   "geometry": {"coordinates":[-119.885176,39.499914],"type":"Point"}
 }

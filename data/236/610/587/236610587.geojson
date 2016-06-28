@@ -2,13 +2,14 @@
   "id": 236610587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.202525,36.207964,-115.202525,36.207964",
     "geom:latitude":36.207964,
     "geom:longitude":-115.202525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2722 Perimeter Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236610587,
-    "wof:lastmodified":1449005185,
+    "wof:lastmodified":1466706286,
     "wof:name":"Biplane Rides Of Las Vegas",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-115.202525,36.207964,-115.202525,36.207964],
-  "geometry": {"coordinates":[-115.202525,36.207964],"type":"Point"}
+  "bbox": [
+    -115.202525,
+    36.207964,
+    -115.202525,
+    36.207964
+],
+  "geometry": {"coordinates":[-115.20252499999999,36.207964],"type":"Point"}
 }

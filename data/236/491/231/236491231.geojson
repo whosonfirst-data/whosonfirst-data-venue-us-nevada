@@ -2,13 +2,14 @@
   "id": 236491231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.560607,39.50978,-118.560607,39.50978",
     "geom:latitude":39.50978,
     "geom:longitude":-118.560607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11700 Fitz Ln",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236491231,
-    "wof:lastmodified":1449001637,
+    "wof:lastmodified":1466705754,
     "wof:name":"Lester De Braga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-118.560607,39.50978,-118.560607,39.50978],
+  "bbox": [
+    -118.560607,
+    39.50978,
+    -118.560607,
+    39.50978
+],
   "geometry": {"coordinates":[-118.560607,39.50978],"type":"Point"}
 }

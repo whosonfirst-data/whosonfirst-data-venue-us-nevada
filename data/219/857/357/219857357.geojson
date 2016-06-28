@@ -2,13 +2,14 @@
   "id": 219857357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140554,36.16064,-115.140554,36.16064",
     "geom:latitude":36.16064,
     "geom:longitude":-115.140554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 S 9th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219857357,
-    "wof:lastmodified":1449072674,
+    "wof:lastmodified":1466705260,
     "wof:name":"New Ventures Capital Dev Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-115.140554,36.16064,-115.140554,36.16064],
-  "geometry": {"coordinates":[-115.140554,36.16064],"type":"Point"}
+  "bbox": [
+    -115.140554,
+    36.16064,
+    -115.140554,
+    36.16064
+],
+  "geometry": {"coordinates":[-115.14055399999999,36.16064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236610475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269366,36.12797,-115.269366,36.12797",
     "geom:latitude":36.12797,
     "geom:longitude":-115.269366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3384 Edenville Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236610475,
-    "wof:lastmodified":1449005184,
+    "wof:lastmodified":1466706285,
     "wof:name":"Lark Productions LLC",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-115.269366,36.12797,-115.269366,36.12797],
-  "geometry": {"coordinates":[-115.269366,36.12797],"type":"Point"}
+  "bbox": [
+    -115.269366,
+    36.12797,
+    -115.269366,
+    36.12797
+],
+  "geometry": {"coordinates":[-115.26936600000001,36.12797],"type":"Point"}
 }

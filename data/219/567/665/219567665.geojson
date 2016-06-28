@@ -2,13 +2,14 @@
   "id": 219567665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128234,36.164067,-115.128234,36.164067",
     "geom:latitude":36.164067,
     "geom:longitude":-115.128234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Fremont St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219567665,
-    "wof:lastmodified":1449073944,
+    "wof:lastmodified":1466702530,
     "wof:name":"M L Auto and Cycle Repair",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-115.128234,36.164067,-115.128234,36.164067],
-  "geometry": {"coordinates":[-115.128234,36.164067],"type":"Point"}
+  "bbox": [
+    -115.128234,
+    36.164067,
+    -115.128234,
+    36.164067
+],
+  "geometry": {"coordinates":[-115.12823400000001,36.164067],"type":"Point"}
 }

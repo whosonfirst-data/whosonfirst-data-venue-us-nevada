@@ -2,13 +2,14 @@
   "id": 354340673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.149463,36.116501,-115.149463,36.116501",
     "geom:latitude":36.116501,
     "geom:longitude":-115.149463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3981 Visby Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354340673,
-    "wof:lastmodified":1449067250,
+    "wof:lastmodified":1466706091,
     "wof:name":"3rd Rock Internet Services",
     "wof:parent_id":85879711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.149463,36.116501,-115.149463,36.116501],
+  "bbox": [
+    -115.149463,
+    36.116501,
+    -115.149463,
+    36.116501
+],
   "geometry": {"coordinates":[-115.149463,36.116501],"type":"Point"}
 }

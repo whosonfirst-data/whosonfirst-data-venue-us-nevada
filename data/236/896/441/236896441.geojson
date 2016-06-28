@@ -2,13 +2,14 @@
   "id": 236896441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.727627,39.521435,-119.727627,39.521435",
     "geom:latitude":39.521435,
     "geom:longitude":-119.727627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"978 E Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236896441,
-    "wof:lastmodified":1449002726,
+    "wof:lastmodified":1466706887,
     "wof:name":"Pinnacle Construction & Dev",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.727627,39.521435,-119.727627,39.521435],
+  "bbox": [
+    -119.727627,
+    39.521435,
+    -119.727627,
+    39.521435
+],
   "geometry": {"coordinates":[-119.727627,39.521435],"type":"Point"}
 }

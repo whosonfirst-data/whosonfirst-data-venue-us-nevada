@@ -2,13 +2,14 @@
   "id": 236945689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.157029,36.239467,-115.157029,36.239467",
     "geom:latitude":36.239467,
     "geom:longitude":-115.157029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236945689,
-    "wof:lastmodified":1449001885,
+    "wof:lastmodified":1466706930,
     "wof:name":"Williams Electric",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.157029,36.239467,-115.157029,36.239467],
-  "geometry": {"coordinates":[-115.157029,36.239467],"type":"Point"}
+  "bbox": [
+    -115.157029,
+    36.239467,
+    -115.157029,
+    36.239467
+],
+  "geometry": {"coordinates":[-115.15702899999999,36.239467],"type":"Point"}
 }

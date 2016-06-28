@@ -2,13 +2,14 @@
   "id": 354392537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043854,36.086942,-115.043854,36.086942",
     "geom:latitude":36.086942,
     "geom:longitude":-115.043854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Emerald Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354392537,
-    "wof:lastmodified":1449067298,
+    "wof:lastmodified":1466706124,
     "wof:name":"Babes Cabaret",
     "wof:parent_id":85865285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainment"
     ]
 },
-  "bbox": [-115.043854,36.086942,-115.043854,36.086942],
+  "bbox": [
+    -115.043854,
+    36.086942,
+    -115.043854,
+    36.086942
+],
   "geometry": {"coordinates":[-115.043854,36.086942],"type":"Point"}
 }

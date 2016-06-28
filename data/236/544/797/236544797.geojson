@@ -2,13 +2,14 @@
   "id": 236544797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.296516,36.11501,-115.296516,36.11501",
     "geom:latitude":36.11501,
     "geom:longitude":-115.296516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9360 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236544797,
-    "wof:lastmodified":1449005245,
+    "wof:lastmodified":1466706032,
     "wof:name":"Rancho Check Cashing LLC",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-115.296516,36.11501,-115.296516,36.11501],
+  "bbox": [
+    -115.296516,
+    36.11501,
+    -115.296516,
+    36.11501
+],
   "geometry": {"coordinates":[-115.296516,36.11501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236786577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.246383,36.103214,-115.246383,36.103214",
     "geom:latitude":36.103214,
     "geom:longitude":-115.246383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4721 Woodlake Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236786577,
-    "wof:lastmodified":1449001999,
+    "wof:lastmodified":1466706483,
     "wof:name":"Emerald Cleaning Svc",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.246383,36.103214,-115.246383,36.103214],
-  "geometry": {"coordinates":[-115.246383,36.103214],"type":"Point"}
+  "bbox": [
+    -115.246383,
+    36.103214,
+    -115.246383,
+    36.103214
+],
+  "geometry": {"coordinates":[-115.24638299999999,36.103214],"type":"Point"}
 }

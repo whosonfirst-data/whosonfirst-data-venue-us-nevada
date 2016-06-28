@@ -2,13 +2,14 @@
   "id": 219698939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208086,36.123491,-115.208086,36.123491",
     "geom:latitude":36.123491,
     "geom:longitude":-115.208086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219698939,
-    "wof:lastmodified":1449073693,
+    "wof:lastmodified":1466704435,
     "wof:name":"8ighth Day Corp",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-115.208086,36.123491,-115.208086,36.123491],
-  "geometry": {"coordinates":[-115.208086,36.123491],"type":"Point"}
+  "bbox": [
+    -115.208086,
+    36.123491,
+    -115.208086,
+    36.123491
+],
+  "geometry": {"coordinates":[-115.20808599999999,36.123491],"type":"Point"}
 }

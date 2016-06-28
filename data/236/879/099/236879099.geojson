@@ -2,13 +2,14 @@
   "id": 236879099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10605,36.119749,-115.10605,36.119749",
     "geom:latitude":36.119749,
     "geom:longitude":-115.10605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3190 Lipton",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236879099,
-    "wof:lastmodified":1449001700,
+    "wof:lastmodified":1466706775,
     "wof:name":"Bruton Enterprises LLC",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.10605,36.119749,-115.10605,36.119749],
+  "bbox": [
+    -115.10605,
+    36.119749,
+    -115.10605,
+    36.119749
+],
   "geometry": {"coordinates":[-115.10605,36.119749],"type":"Point"}
 }

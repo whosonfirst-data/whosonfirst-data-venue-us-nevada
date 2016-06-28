@@ -2,13 +2,14 @@
   "id": 219315157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735884,39.541955,-119.735884,39.541955",
     "geom:latitude":39.541955,
     "geom:longitude":-119.735884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219315157,
-    "wof:lastmodified":1449073725,
+    "wof:lastmodified":1466703187,
     "wof:name":"Beneficial Mortgage Co",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-119.735884,39.541955,-119.735884,39.541955],
+  "bbox": [
+    -119.735884,
+    39.541955,
+    -119.735884,
+    39.541955
+],
   "geometry": {"coordinates":[-119.735884,39.541955],"type":"Point"}
 }

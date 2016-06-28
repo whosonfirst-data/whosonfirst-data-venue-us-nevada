@@ -2,13 +2,14 @@
   "id": 220010167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.074967,36.023851,-115.074967,36.023851",
     "geom:latitude":36.023851,
     "geom:longitude":-115.074967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bighorn Station St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220010167,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466701539,
     "wof:name":"Bill McIntyre Consulting",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-115.074967,36.023851,-115.074967,36.023851],
+  "bbox": [
+    -115.074967,
+    36.023851,
+    -115.074967,
+    36.023851
+],
   "geometry": {"coordinates":[-115.074967,36.023851],"type":"Point"}
 }

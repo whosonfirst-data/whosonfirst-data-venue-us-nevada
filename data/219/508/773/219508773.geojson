@@ -2,13 +2,14 @@
   "id": 219508773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29193,36.224933,-115.29193,36.224933",
     "geom:latitude":36.224933,
     "geom:longitude":-115.29193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3514 White Diamond Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219508773,
-    "wof:lastmodified":1449072353,
+    "wof:lastmodified":1466704186,
     "wof:name":"Eagle Wings International",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-115.29193,36.224933,-115.29193,36.224933],
-  "geometry": {"coordinates":[-115.29193,36.224933],"type":"Point"}
+  "bbox": [
+    -115.29193,
+    36.224933,
+    -115.29193,
+    36.224933
+],
+  "geometry": {"coordinates":[-115.29192999999999,36.224933],"type":"Point"}
 }

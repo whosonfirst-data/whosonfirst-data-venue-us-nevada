@@ -2,13 +2,14 @@
   "id": 354039937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169967,36.239263,-115.169967,36.239263",
     "geom:latitude":36.239263,
     "geom:longitude":-115.169967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 W Craig Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354039937,
-    "wof:lastmodified":1449067451,
+    "wof:lastmodified":1466702526,
     "wof:name":"Amy's Hallmark",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "card"
     ]
 },
-  "bbox": [-115.169967,36.239263,-115.169967,36.239263],
+  "bbox": [
+    -115.169967,
+    36.239263,
+    -115.169967,
+    36.239263
+],
   "geometry": {"coordinates":[-115.169967,36.239263],"type":"Point"}
 }

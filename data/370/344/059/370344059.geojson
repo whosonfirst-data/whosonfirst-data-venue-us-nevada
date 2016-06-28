@@ -2,13 +2,14 @@
   "id": 370344059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.721001,39.181599,-119.721001,39.181599",
     "geom:latitude":39.181599,
     "geom:longitude":-119.721001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4261 US Highway 50 E",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370344059,
-    "wof:lastmodified":1449029245,
+    "wof:lastmodified":1466704884,
     "wof:name":"Atkins House of Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"
     ]
 },
-  "bbox": [-119.721001,39.181599,-119.721001,39.181599],
+  "bbox": [
+    -119.721001,
+    39.181599,
+    -119.721001,
+    39.181599
+],
   "geometry": {"coordinates":[-119.721001,39.181599],"type":"Point"}
 }

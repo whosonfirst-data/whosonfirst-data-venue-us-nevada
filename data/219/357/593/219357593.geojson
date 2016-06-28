@@ -2,13 +2,14 @@
   "id": 219357593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162612,36.055729,-115.162612,36.055729",
     "geom:latitude":36.055729,
     "geom:longitude":-115.162612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 White Willow Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219357593,
-    "wof:lastmodified":1449073488,
+    "wof:lastmodified":1466703428,
     "wof:name":"Valerie K Little Rl Est Apprsr",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-115.162612,36.055729,-115.162612,36.055729],
+  "bbox": [
+    -115.162612,
+    36.055729,
+    -115.162612,
+    36.055729
+],
   "geometry": {"coordinates":[-115.162612,36.055729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236098443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116913,36.268907,-115.116913,36.268907",
     "geom:latitude":36.268907,
     "geom:longitude":-115.116913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236098443,
-    "wof:lastmodified":1449004826,
+    "wof:lastmodified":1466701503,
     "wof:name":"Northwest Electric Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.116913,36.268907,-115.116913,36.268907],
+  "bbox": [
+    -115.116913,
+    36.268907,
+    -115.116913,
+    36.268907
+],
   "geometry": {"coordinates":[-115.116913,36.268907],"type":"Point"}
 }

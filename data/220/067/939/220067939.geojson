@@ -2,13 +2,14 @@
   "id": 220067939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222723,36.120553,-115.222723,36.120553",
     "geom:latitude":36.120553,
     "geom:longitude":-115.222723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3816 Red Rock St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220067939,
-    "wof:lastmodified":1449074090,
+    "wof:lastmodified":1466702194,
     "wof:name":"That's Sew Biz",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "costume"
     ]
 },
-  "bbox": [-115.222723,36.120553,-115.222723,36.120553],
+  "bbox": [
+    -115.222723,
+    36.120553,
+    -115.222723,
+    36.120553
+],
   "geometry": {"coordinates":[-115.222723,36.120553],"type":"Point"}
 }

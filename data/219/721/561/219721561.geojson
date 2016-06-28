@@ -2,13 +2,14 @@
   "id": 219721561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.887166,39.248938,-114.887166,39.248938",
     "geom:latitude":39.248938,
     "geom:longitude":-114.887166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":219721561,
-    "wof:lastmodified":1449073907,
+    "wof:lastmodified":1466704576,
     "wof:name":"Desert Mountain Realty Inc",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.887166,39.248938,-114.887166,39.248938],
-  "geometry": {"coordinates":[-114.887166,39.248938],"type":"Point"}
+  "bbox": [
+    -114.887166,
+    39.248938,
+    -114.887166,
+    39.248938
+],
+  "geometry": {"coordinates":[-114.88716599999999,39.248938],"type":"Point"}
 }

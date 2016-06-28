@@ -2,13 +2,14 @@
   "id": 236454863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.006071,36.036595,-115.006071,36.036595",
     "geom:latitude":36.036595,
     "geom:longitude":-115.006071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8390 S 4th St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236454863,
-    "wof:lastmodified":1449004873,
+    "wof:lastmodified":1466705745,
     "wof:name":"Western States Drilling",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.006071,36.036595,-115.006071,36.036595],
-  "geometry": {"coordinates":[-115.006071,36.036595],"type":"Point"}
+  "bbox": [
+    -115.006071,
+    36.036595,
+    -115.006071,
+    36.036595
+],
+  "geometry": {"coordinates":[-115.00607100000001,36.036595],"type":"Point"}
 }

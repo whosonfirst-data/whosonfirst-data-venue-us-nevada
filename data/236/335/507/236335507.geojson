@@ -2,13 +2,14 @@
   "id": 236335507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.004893,36.057264,-115.004893,36.057264",
     "geom:latitude":36.057264,
     "geom:longitude":-115.004893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Max Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236335507,
-    "wof:lastmodified":1449003903,
+    "wof:lastmodified":1466704950,
     "wof:name":"Power Moves Entertainment",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-115.004893,36.057264,-115.004893,36.057264],
+  "bbox": [
+    -115.004893,
+    36.057264,
+    -115.004893,
+    36.057264
+],
   "geometry": {"coordinates":[-115.004893,36.057264],"type":"Point"}
 }

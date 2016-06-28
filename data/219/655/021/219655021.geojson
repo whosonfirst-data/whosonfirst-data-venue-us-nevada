@@ -2,13 +2,14 @@
   "id": 219655021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.814881,39.463254,-118.814881,39.463254",
     "geom:latitude":39.463254,
     "geom:longitude":-118.814881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1366 Lattin Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219655021,
-    "wof:lastmodified":1449072407,
+    "wof:lastmodified":1466703905,
     "wof:name":"Richard Kloes CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.814881,39.463254,-118.814881,39.463254],
+  "bbox": [
+    -118.814881,
+    39.463254,
+    -118.814881,
+    39.463254
+],
   "geometry": {"coordinates":[-118.814881,39.463254],"type":"Point"}
 }

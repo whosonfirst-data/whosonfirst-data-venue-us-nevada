@@ -2,13 +2,14 @@
   "id": 235977231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757003,39.529931,-119.757003,39.529931",
     "geom:latitude":39.529931,
     "geom:longitude":-119.757003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Icehouse Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235977231,
-    "wof:lastmodified":1449008611,
+    "wof:lastmodified":1466703637,
     "wof:name":"Lakewood Engineering & Mfg Co",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.757003,39.529931,-119.757003,39.529931],
+  "bbox": [
+    -119.757003,
+    39.529931,
+    -119.757003,
+    39.529931
+],
   "geometry": {"coordinates":[-119.757003,39.529931],"type":"Point"}
 }

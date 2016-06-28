@@ -2,13 +2,14 @@
   "id": 354208701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224008,36.176026,-115.224008,36.176026",
     "geom:latitude":36.176026,
     "geom:longitude":-115.224008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 N Jones Boulevard Suite A",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354208701,
-    "wof:lastmodified":1449066134,
+    "wof:lastmodified":1466705087,
     "wof:name":"Full Ho Chinese Cuisine",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-115.224008,36.176026,-115.224008,36.176026],
+  "bbox": [
+    -115.224008,
+    36.176026,
+    -115.224008,
+    36.176026
+],
   "geometry": {"coordinates":[-115.224008,36.176026],"type":"Point"}
 }

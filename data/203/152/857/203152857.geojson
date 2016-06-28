@@ -2,13 +2,14 @@
   "id": 203152857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801668,39.491154,-119.801668,39.491154",
     "geom:latitude":39.491154,
     "geom:longitude":-119.801668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 W Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203152857,
-    "wof:lastmodified":1449026391,
+    "wof:lastmodified":1466701531,
     "wof:name":"Moana Swimming Pool",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.801668,39.491154,-119.801668,39.491154],
-  "geometry": {"coordinates":[-119.801668,39.491154],"type":"Point"}
+  "bbox": [
+    -119.801668,
+    39.491154,
+    -119.801668,
+    39.491154
+],
+  "geometry": {"coordinates":[-119.80166800000001,39.491154],"type":"Point"}
 }

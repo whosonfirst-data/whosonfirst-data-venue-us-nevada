@@ -2,13 +2,14 @@
   "id": 337301967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225286,36.172028,-115.225286,36.172028",
     "geom:latitude":36.172028,
     "geom:longitude":-115.225286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Elton Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337301967,
-    "wof:lastmodified":1449027140,
+    "wof:lastmodified":1466701779,
     "wof:name":"Kevmac LLC",
     "wof:parent_id":85892653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-115.225286,36.172028,-115.225286,36.172028],
+  "bbox": [
+    -115.225286,
+    36.172028,
+    -115.225286,
+    36.172028
+],
   "geometry": {"coordinates":[-115.225286,36.172028],"type":"Point"}
 }

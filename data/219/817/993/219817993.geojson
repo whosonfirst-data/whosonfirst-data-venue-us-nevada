@@ -2,13 +2,14 @@
   "id": 219817993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.997415,36.069137,-114.997415,36.069137",
     "geom:latitude":36.069137,
     "geom:longitude":-114.997415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Sunpac Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219817993,
-    "wof:lastmodified":1449073241,
+    "wof:lastmodified":1466705182,
     "wof:name":"G F Stone",
     "wof:parent_id":85878119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-114.997415,36.069137,-114.997415,36.069137],
+  "bbox": [
+    -114.997415,
+    36.069137,
+    -114.997415,
+    36.069137
+],
   "geometry": {"coordinates":[-114.997415,36.069137],"type":"Point"}
 }

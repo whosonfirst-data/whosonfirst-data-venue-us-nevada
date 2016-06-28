@@ -2,13 +2,14 @@
   "id": 354283969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087445,36.221046,-115.087445,36.221046",
     "geom:latitude":36.221046,
     "geom:longitude":-115.087445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4390 Flossmoor Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354283969,
-    "wof:lastmodified":1449066409,
+    "wof:lastmodified":1466705513,
     "wof:name":"Rc Willey Outlet Center",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outlet"
     ]
 },
-  "bbox": [-115.087445,36.221046,-115.087445,36.221046],
+  "bbox": [
+    -115.087445,
+    36.221046,
+    -115.087445,
+    36.221046
+],
   "geometry": {"coordinates":[-115.087445,36.221046],"type":"Point"}
 }

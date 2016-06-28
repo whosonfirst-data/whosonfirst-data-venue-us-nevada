@@ -2,13 +2,14 @@
   "id": 236216013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162012,36.136438,-115.162012,36.136438",
     "geom:latitude":36.136438,
     "geom:longitude":-115.162012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236216013,
-    "wof:lastmodified":1449004795,
+    "wof:lastmodified":1466703894,
     "wof:name":"Perfume Depot Number 4",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.162012,36.136438,-115.162012,36.136438],
+  "bbox": [
+    -115.162012,
+    36.136438,
+    -115.162012,
+    36.136438
+],
   "geometry": {"coordinates":[-115.162012,36.136438],"type":"Point"}
 }

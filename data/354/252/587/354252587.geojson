@@ -2,13 +2,14 @@
   "id": 354252587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163644,36.133886,-115.163644,36.133886",
     "geom:latitude":36.133886,
     "geom:longitude":-115.163644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2987 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354252587,
-    "wof:lastmodified":1449066157,
+    "wof:lastmodified":1466705375,
     "wof:name":"Ruby's Restaurant",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.163644,36.133886,-115.163644,36.133886],
-  "geometry": {"coordinates":[-115.163644,36.133886],"type":"Point"}
+  "bbox": [
+    -115.163644,
+    36.133886,
+    -115.163644,
+    36.133886
+],
+  "geometry": {"coordinates":[-115.16364400000001,36.133886],"type":"Point"}
 }

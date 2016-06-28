@@ -2,13 +2,14 @@
   "id": 219275265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.863212,39.48427,-118.863212,39.48427",
     "geom:latitude":39.48427,
     "geom:longitude":-118.863212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Dorral Way",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219275265,
-    "wof:lastmodified":1449071532,
+    "wof:lastmodified":1466702782,
     "wof:name":"Desert Cabinet & Fixture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-118.863212,39.48427,-118.863212,39.48427],
+  "bbox": [
+    -118.863212,
+    39.48427,
+    -118.863212,
+    39.48427
+],
   "geometry": {"coordinates":[-118.863212,39.48427],"type":"Point"}
 }

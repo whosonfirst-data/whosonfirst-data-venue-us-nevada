@@ -2,13 +2,14 @@
   "id": 370270945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301551,36.065714,-115.301551,36.065714",
     "geom:latitude":36.065714,
     "geom:longitude":-115.301551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10076 Glen Aire Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370270945,
-    "wof:lastmodified":1449029691,
+    "wof:lastmodified":1466704209,
     "wof:name":"Kb Home Sales Offices",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.301551,36.065714,-115.301551,36.065714],
+  "bbox": [
+    -115.301551,
+    36.065714,
+    -115.301551,
+    36.065714
+],
   "geometry": {"coordinates":[-115.301551,36.065714],"type":"Point"}
 }

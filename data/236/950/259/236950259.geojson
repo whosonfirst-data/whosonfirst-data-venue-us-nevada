@@ -2,13 +2,14 @@
   "id": 236950259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.183495,36.047157,-115.183495,36.047157",
     "geom:latitude":36.047157,
     "geom:longitude":-115.183495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236950259,
-    "wof:lastmodified":1449002837,
+    "wof:lastmodified":1466706935,
     "wof:name":"Mattress Direct",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-115.183495,36.047157,-115.183495,36.047157],
-  "geometry": {"coordinates":[-115.183495,36.047157],"type":"Point"}
+  "bbox": [
+    -115.183495,
+    36.047157,
+    -115.183495,
+    36.047157
+],
+  "geometry": {"coordinates":[-115.18349499999999,36.047157],"type":"Point"}
 }

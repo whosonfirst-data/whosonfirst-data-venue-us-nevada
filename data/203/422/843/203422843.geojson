@@ -2,13 +2,14 @@
   "id": 203422843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197453,36.118996,-115.197453,36.118996",
     "geom:latitude":36.118996,
     "geom:longitude":-115.197453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 W Viking Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203422843,
-    "wof:lastmodified":1449025074,
+    "wof:lastmodified":1466703417,
     "wof:name":"Iron Patriots",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.197453,36.118996,-115.197453,36.118996],
+  "bbox": [
+    -115.197453,
+    36.118996,
+    -115.197453,
+    36.118996
+],
   "geometry": {"coordinates":[-115.197453,36.118996],"type":"Point"}
 }

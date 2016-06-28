@@ -2,13 +2,14 @@
   "id": 203364731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.544084,38.692395,-119.544084,38.692395",
     "geom:latitude":38.692395,
     "geom:longitude":-119.544084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Comstock Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203364731,
-    "wof:lastmodified":1449026019,
+    "wof:lastmodified":1466703201,
     "wof:name":"Tab Construction and Elec Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-119.544084,38.692395,-119.544084,38.692395],
+  "bbox": [
+    -119.544084,
+    38.692395,
+    -119.544084,
+    38.692395
+],
   "geometry": {"coordinates":[-119.544084,38.692395],"type":"Point"}
 }

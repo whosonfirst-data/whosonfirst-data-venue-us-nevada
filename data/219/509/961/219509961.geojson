@@ -2,13 +2,14 @@
   "id": 219509961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.798198,39.50381,-119.798198,39.50381",
     "geom:latitude":39.50381,
     "geom:longitude":-119.798198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Kirman Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219509961,
-    "wof:lastmodified":1449070519,
+    "wof:lastmodified":1466701476,
     "wof:name":"Broadbent & Assoc Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.798198,39.50381,-119.798198,39.50381],
+  "bbox": [
+    -119.798198,
+    39.50381,
+    -119.798198,
+    39.50381
+],
   "geometry": {"coordinates":[-119.798198,39.50381],"type":"Point"}
 }

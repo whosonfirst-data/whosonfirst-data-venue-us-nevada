@@ -2,13 +2,14 @@
   "id": 236040227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.166744,38.982963,-119.166744,38.982963",
     "geom:latitude":38.982963,
     "geom:longitude":-119.166744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Bridge St",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236040227,
-    "wof:lastmodified":1449005134,
+    "wof:lastmodified":1466703926,
     "wof:name":"Ranch House Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.166744,38.982963,-119.166744,38.982963],
-  "geometry": {"coordinates":[-119.166744,38.982963],"type":"Point"}
+  "bbox": [
+    -119.166744,
+    38.982963,
+    -119.166744,
+    38.982963
+],
+  "geometry": {"coordinates":[-119.16674399999999,38.982963],"type":"Point"}
 }

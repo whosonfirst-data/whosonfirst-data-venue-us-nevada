@@ -2,13 +2,14 @@
   "id": 220078649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812946,39.523112,-119.812946,39.523112",
     "geom:latitude":39.523112,
     "geom:longitude":-119.812946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220078649,
-    "wof:lastmodified":1449074745,
+    "wof:lastmodified":1466702259,
     "wof:name":"Munson Engineering",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.812946,39.523112,-119.812946,39.523112],
+  "bbox": [
+    -119.812946,
+    39.523112,
+    -119.812946,
+    39.523112
+],
   "geometry": {"coordinates":[-119.812946,39.523112],"type":"Point"}
 }

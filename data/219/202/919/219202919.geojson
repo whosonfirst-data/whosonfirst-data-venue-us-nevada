@@ -2,13 +2,14 @@
   "id": 219202919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.981145,36.043142,-114.981145,36.043142",
     "geom:latitude":36.043142,
     "geom:longitude":-114.981145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Ocotillo St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219202919,
-    "wof:lastmodified":1449073457,
+    "wof:lastmodified":1466702092,
     "wof:name":"Mag Way",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.981145,36.043142,-114.981145,36.043142],
+  "bbox": [
+    -114.981145,
+    36.043142,
+    -114.981145,
+    36.043142
+],
   "geometry": {"coordinates":[-114.981145,36.043142],"type":"Point"}
 }

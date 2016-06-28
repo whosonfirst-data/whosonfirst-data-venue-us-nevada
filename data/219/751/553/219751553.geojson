@@ -2,13 +2,14 @@
   "id": 219751553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112626,35.96323,-115.112626,35.96323",
     "geom:latitude":35.96323,
     "geom:longitude":-115.112626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Atlanta St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219751553,
-    "wof:lastmodified":1449070578,
+    "wof:lastmodified":1466704779,
     "wof:name":"Nevada Motor Transport Assn",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobbyist"
     ]
 },
-  "bbox": [-115.112626,35.96323,-115.112626,35.96323],
-  "geometry": {"coordinates":[-115.112626,35.96323],"type":"Point"}
+  "bbox": [
+    -115.112626,
+    35.96323,
+    -115.112626,
+    35.96323
+],
+  "geometry": {"coordinates":[-115.11262600000001,35.96323],"type":"Point"}
 }

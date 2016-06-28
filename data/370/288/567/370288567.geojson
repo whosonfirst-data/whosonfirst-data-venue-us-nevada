@@ -2,13 +2,14 @@
   "id": 370288567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.152559,36.1098,-115.152559,36.1098",
     "geom:latitude":36.1098,
     "geom:longitude":-115.152559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 Paradise Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370288567,
-    "wof:lastmodified":1449029445,
+    "wof:lastmodified":1466704630,
     "wof:name":"Cp Food and Beverage",
     "wof:parent_id":85892737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-115.152559,36.1098,-115.152559,36.1098],
+  "bbox": [
+    -115.152559,
+    36.1098,
+    -115.152559,
+    36.1098
+],
   "geometry": {"coordinates":[-115.152559,36.1098],"type":"Point"}
 }

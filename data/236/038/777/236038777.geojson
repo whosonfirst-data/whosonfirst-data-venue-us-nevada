@@ -2,13 +2,14 @@
   "id": 236038777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.232123,38.066408,-117.232123,38.066408",
     "geom:latitude":38.066408,
     "geom:longitude":-117.232123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 South St",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236038777,
-    "wof:lastmodified":1449003824,
+    "wof:lastmodified":1466703930,
     "wof:name":"St Patrick Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-117.232123,38.066408,-117.232123,38.066408],
+  "bbox": [
+    -117.232123,
+    38.066408,
+    -117.232123,
+    38.066408
+],
   "geometry": {"coordinates":[-117.232123,38.066408],"type":"Point"}
 }

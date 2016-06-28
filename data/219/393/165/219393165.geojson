@@ -2,13 +2,14 @@
   "id": 219393165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765478,39.541167,-119.765478,39.541167",
     "geom:latitude":39.541167,
     "geom:longitude":-119.765478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219393165,
-    "wof:lastmodified":1449071503,
+    "wof:lastmodified":1466703596,
     "wof:name":"Broncos",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "order"
     ]
 },
-  "bbox": [-119.765478,39.541167,-119.765478,39.541167],
+  "bbox": [
+    -119.765478,
+    39.541167,
+    -119.765478,
+    39.541167
+],
   "geometry": {"coordinates":[-119.765478,39.541167],"type":"Point"}
 }

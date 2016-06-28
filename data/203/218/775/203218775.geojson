@@ -2,13 +2,14 @@
   "id": 203218775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.840589,39.41391,-118.840589,39.41391",
     "geom:latitude":39.41391,
     "geom:longitude":-118.840589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Hiatt Loop",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203218775,
-    "wof:lastmodified":1449026174,
+    "wof:lastmodified":1466702225,
     "wof:name":"Toner Wilson Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-118.840589,39.41391,-118.840589,39.41391],
-  "geometry": {"coordinates":[-118.840589,39.41391],"type":"Point"}
+  "bbox": [
+    -118.840589,
+    39.41391,
+    -118.840589,
+    39.41391
+],
+  "geometry": {"coordinates":[-118.84058899999999,39.41391],"type":"Point"}
 }

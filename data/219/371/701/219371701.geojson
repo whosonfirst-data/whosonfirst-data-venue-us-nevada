@@ -2,13 +2,14 @@
   "id": 219371701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.079057,36.801603,-114.079057,36.801603",
     "geom:latitude":36.801603,
     "geom:longitude":-114.079057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Quail Run",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219371701,
-    "wof:lastmodified":1449073151,
+    "wof:lastmodified":1466703495,
     "wof:name":"Ddep Construction Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-114.079057,36.801603,-114.079057,36.801603],
-  "geometry": {"coordinates":[-114.079057,36.801603],"type":"Point"}
+  "bbox": [
+    -114.079057,
+    36.801603,
+    -114.079057,
+    36.801603
+],
+  "geometry": {"coordinates":[-114.07905700000001,36.801603],"type":"Point"}
 }

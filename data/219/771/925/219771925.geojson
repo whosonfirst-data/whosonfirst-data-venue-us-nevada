@@ -2,13 +2,14 @@
   "id": 219771925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.222736,36.227619,-115.222736,36.227619",
     "geom:latitude":36.227619,
     "geom:longitude":-115.222736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3712 Snorkel Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219771925,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466704928,
     "wof:name":"Affordable Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.222736,36.227619,-115.222736,36.227619],
+  "bbox": [
+    -115.222736,
+    36.227619,
+    -115.222736,
+    36.227619
+],
   "geometry": {"coordinates":[-115.222736,36.227619],"type":"Point"}
 }

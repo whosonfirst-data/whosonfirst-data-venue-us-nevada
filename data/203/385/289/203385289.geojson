@@ -2,13 +2,14 @@
   "id": 203385289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.839642,35.977357,-114.839642,35.977357",
     "geom:latitude":35.977357,
     "geom:longitude":-114.839642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Birch St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203385289,
-    "wof:lastmodified":1449026074,
+    "wof:lastmodified":1466703275,
     "wof:name":"Meadow Valley Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.839642,35.977357,-114.839642,35.977357],
+  "bbox": [
+    -114.839642,
+    35.977357,
+    -114.839642,
+    35.977357
+],
   "geometry": {"coordinates":[-114.839642,35.977357],"type":"Point"}
 }

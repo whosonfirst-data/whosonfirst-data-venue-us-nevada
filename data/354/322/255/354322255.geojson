@@ -2,13 +2,14 @@
   "id": 354322255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.241279,36.084612,-115.241279,36.084612",
     "geom:latitude":36.084612,
     "geom:longitude":-115.241279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6825 W. Russell Road, Suite 155",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354322255,
-    "wof:lastmodified":1449065913,
+    "wof:lastmodified":1466705863,
     "wof:name":"Eyebrows R Us",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyelash"
     ]
 },
-  "bbox": [-115.241279,36.084612,-115.241279,36.084612],
-  "geometry": {"coordinates":[-115.241279,36.084612],"type":"Point"}
+  "bbox": [
+    -115.241279,
+    36.084612,
+    -115.241279,
+    36.084612
+],
+  "geometry": {"coordinates":[-115.24127900000001,36.084612],"type":"Point"}
 }

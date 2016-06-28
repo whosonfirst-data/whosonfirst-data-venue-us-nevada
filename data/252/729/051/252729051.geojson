@@ -2,13 +2,14 @@
   "id": 252729051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190594,36.144494,-115.190594,36.144494",
     "geom:latitude":36.144494,
     "geom:longitude":-115.190594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3380 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252729051,
-    "wof:lastmodified":1449005967,
+    "wof:lastmodified":1466701909,
     "wof:name":"Nature Conservancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "org"
     ]
 },
-  "bbox": [-115.190594,36.144494,-115.190594,36.144494],
+  "bbox": [
+    -115.190594,
+    36.144494,
+    -115.190594,
+    36.144494
+],
   "geometry": {"coordinates":[-115.190594,36.144494],"type":"Point"}
 }

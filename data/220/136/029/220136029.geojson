@@ -2,13 +2,14 @@
   "id": 220136029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301629,36.121951,-115.301629,36.121951",
     "geom:latitude":36.121951,
     "geom:longitude":-115.301629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Morning Canyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220136029,
-    "wof:lastmodified":1449074865,
+    "wof:lastmodified":1466702665,
     "wof:name":"Peters Business Services",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.301629,36.121951,-115.301629,36.121951],
-  "geometry": {"coordinates":[-115.301629,36.121951],"type":"Point"}
+  "bbox": [
+    -115.301629,
+    36.121951,
+    -115.301629,
+    36.121951
+],
+  "geometry": {"coordinates":[-115.30162900000001,36.121951],"type":"Point"}
 }

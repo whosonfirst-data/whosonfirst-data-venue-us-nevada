@@ -2,13 +2,14 @@
   "id": 219688207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.263143,36.089134,-115.263143,36.089134",
     "geom:latitude":36.089134,
     "geom:longitude":-115.263143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7886 Mountain Man Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219688207,
-    "wof:lastmodified":1449071705,
+    "wof:lastmodified":1466704355,
     "wof:name":"National Commercial Group",
     "wof:parent_id":85866209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.263143,36.089134,-115.263143,36.089134],
+  "bbox": [
+    -115.263143,
+    36.089134,
+    -115.263143,
+    36.089134
+],
   "geometry": {"coordinates":[-115.263143,36.089134],"type":"Point"}
 }

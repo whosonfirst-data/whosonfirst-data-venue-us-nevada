@@ -2,13 +2,14 @@
   "id": 236008439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192107,36.09838,-115.192107,36.09838",
     "geom:latitude":36.09838,
     "geom:longitude":-115.192107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 Schuster St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236008439,
-    "wof:lastmodified":1449002524,
+    "wof:lastmodified":1466703803,
     "wof:name":"First Aid Training Ctr",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "first"
     ]
 },
-  "bbox": [-115.192107,36.09838,-115.192107,36.09838],
-  "geometry": {"coordinates":[-115.192107,36.09838],"type":"Point"}
+  "bbox": [
+    -115.192107,
+    36.09838,
+    -115.192107,
+    36.09838
+],
+  "geometry": {"coordinates":[-115.19210699999999,36.09838],"type":"Point"}
 }

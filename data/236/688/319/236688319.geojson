@@ -2,13 +2,14 @@
   "id": 236688319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775689,39.527604,-119.775689,39.527604",
     "geom:latitude":39.527604,
     "geom:longitude":-119.775689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236688319,
-    "wof:lastmodified":1449002772,
+    "wof:lastmodified":1466706451,
     "wof:name":"Nevada Muffler & Brake",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-119.775689,39.527604,-119.775689,39.527604],
+  "bbox": [
+    -119.775689,
+    39.527604,
+    -119.775689,
+    39.527604
+],
   "geometry": {"coordinates":[-119.775689,39.527604],"type":"Point"}
 }

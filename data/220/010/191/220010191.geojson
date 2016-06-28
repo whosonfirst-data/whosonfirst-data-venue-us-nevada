@@ -2,13 +2,14 @@
   "id": 220010191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756264,39.556375,-119.756264,39.556375",
     "geom:latitude":39.556375,
     "geom:longitude":-119.756264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 N McCarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220010191,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466701540,
     "wof:name":"Shane I Williamson MD",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-119.756264,39.556375,-119.756264,39.556375],
+  "bbox": [
+    -119.756264,
+    39.556375,
+    -119.756264,
+    39.556375
+],
   "geometry": {"coordinates":[-119.756264,39.556375],"type":"Point"}
 }

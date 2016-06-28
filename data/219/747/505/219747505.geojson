@@ -2,13 +2,14 @@
   "id": 219747505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115697,35.975912,-115.115697,35.975912",
     "geom:latitude":35.975912,
     "geom:longitude":-115.115697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1358 Volturno Way",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219747505,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466704741,
     "wof:name":"Igmas Technologies",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-115.115697,35.975912,-115.115697,35.975912],
+  "bbox": [
+    -115.115697,
+    35.975912,
+    -115.115697,
+    35.975912
+],
   "geometry": {"coordinates":[-115.115697,35.975912],"type":"Point"}
 }

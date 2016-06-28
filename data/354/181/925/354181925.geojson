@@ -2,13 +2,14 @@
   "id": 354181925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.140763,36.143689,-115.140763,36.143689",
     "geom:latitude":36.143689,
     "geom:longitude":-115.140763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E. Sahara Ave D-18",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354181925,
-    "wof:lastmodified":1449066976,
+    "wof:lastmodified":1466705024,
     "wof:name":"Lee's Foot Massage",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spa"
     ]
 },
-  "bbox": [-115.140763,36.143689,-115.140763,36.143689],
-  "geometry": {"coordinates":[-115.140763,36.143689],"type":"Point"}
+  "bbox": [
+    -115.140763,
+    36.143689,
+    -115.140763,
+    36.143689
+],
+  "geometry": {"coordinates":[-115.14076300000001,36.143689],"type":"Point"}
 }

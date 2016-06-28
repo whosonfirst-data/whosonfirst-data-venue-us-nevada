@@ -2,13 +2,14 @@
   "id": 236022641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.322974,36.192401,-115.322974,36.192401",
     "geom:latitude":36.192401,
     "geom:longitude":-115.322974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10304 Summer River Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236022641,
-    "wof:lastmodified":1449002597,
+    "wof:lastmodified":1466703870,
     "wof:name":"John S Thompson Enterprises",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-115.322974,36.192401,-115.322974,36.192401],
+  "bbox": [
+    -115.322974,
+    36.192401,
+    -115.322974,
+    36.192401
+],
   "geometry": {"coordinates":[-115.322974,36.192401],"type":"Point"}
 }

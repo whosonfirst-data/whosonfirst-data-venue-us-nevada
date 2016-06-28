@@ -2,13 +2,14 @@
   "id": 220137475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.839598,39.537471,-119.839598,39.537471",
     "geom:latitude":39.537471,
     "geom:longitude":-119.839598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Prior Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220137475,
-    "wof:lastmodified":1449074766,
+    "wof:lastmodified":1466702682,
     "wof:name":"Bootcamp Group Fitness & Nutrt",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-119.839598,39.537471,-119.839598,39.537471],
+  "bbox": [
+    -119.839598,
+    39.537471,
+    -119.839598,
+    39.537471
+],
   "geometry": {"coordinates":[-119.839598,39.537471],"type":"Point"}
 }

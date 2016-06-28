@@ -2,13 +2,14 @@
   "id": 219880067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765484,39.540366,-119.765484,39.540366",
     "geom:latitude":39.540366,
     "geom:longitude":-119.765484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219880067,
-    "wof:lastmodified":1449073952,
+    "wof:lastmodified":1466705639,
     "wof:name":"Robison House Assoc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-119.765484,39.540366,-119.765484,39.540366],
+  "bbox": [
+    -119.765484,
+    39.540366,
+    -119.765484,
+    39.540366
+],
   "geometry": {"coordinates":[-119.765484,39.540366],"type":"Point"}
 }

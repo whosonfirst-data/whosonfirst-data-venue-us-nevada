@@ -2,13 +2,14 @@
   "id": 235977353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813026,39.520028,-119.813026,39.520028",
     "geom:latitude":39.520028,
     "geom:longitude":-119.813026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235977353,
-    "wof:lastmodified":1449008610,
+    "wof:lastmodified":1466703640,
     "wof:name":"VIP Travel",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-119.813026,39.520028,-119.813026,39.520028],
-  "geometry": {"coordinates":[-119.813026,39.520028],"type":"Point"}
+  "bbox": [
+    -119.813026,
+    39.520028,
+    -119.813026,
+    39.520028
+],
+  "geometry": {"coordinates":[-119.81302599999999,39.520028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220180511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.741023,40.981564,-117.741023,40.981564",
     "geom:latitude":40.981564,
     "geom:longitude":-117.741023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 US Hwy 95",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220180511,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466702957,
     "wof:name":"NFC Santa Rosa Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-117.741023,40.981564,-117.741023,40.981564],
+  "bbox": [
+    -117.741023,
+    40.981564,
+    -117.741023,
+    40.981564
+],
   "geometry": {"coordinates":[-117.741023,40.981564],"type":"Point"}
 }

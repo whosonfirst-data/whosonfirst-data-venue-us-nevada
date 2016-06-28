@@ -2,13 +2,14 @@
   "id": 370288339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.150949,36.109022,-115.150949,36.109022",
     "geom:latitude":36.109022,
     "geom:longitude":-115.150949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4480 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370288339,
-    "wof:lastmodified":1449029444,
+    "wof:lastmodified":1466704628,
     "wof:name":"Home Fries",
     "wof:parent_id":85892737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-115.150949,36.109022,-115.150949,36.109022],
+  "bbox": [
+    -115.150949,
+    36.109022,
+    -115.150949,
+    36.109022
+],
   "geometry": {"coordinates":[-115.150949,36.109022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236398081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.829004,39.539265,-119.829004,39.539265",
     "geom:latitude":39.539265,
     "geom:longitude":-119.829004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 W 12th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236398081,
-    "wof:lastmodified":1449001873,
+    "wof:lastmodified":1466705218,
     "wof:name":"Sparks Public Library",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-119.829004,39.539265,-119.829004,39.539265],
+  "bbox": [
+    -119.829004,
+    39.539265,
+    -119.829004,
+    39.539265
+],
   "geometry": {"coordinates":[-119.829004,39.539265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235954673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731786,39.556465,-119.731786,39.556465",
     "geom:latitude":39.556465,
     "geom:longitude":-119.731786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235954673,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466703549,
     "wof:name":"LA Fuente",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.731786,39.556465,-119.731786,39.556465],
+  "bbox": [
+    -119.731786,
+    39.556465,
+    -119.731786,
+    39.556465
+],
   "geometry": {"coordinates":[-119.731786,39.556465],"type":"Point"}
 }

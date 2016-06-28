@@ -2,13 +2,14 @@
   "id": 203246389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252392,36.288494,-115.252392,36.288494",
     "geom:latitude":36.288494,
     "geom:longitude":-115.252392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7230 Falvo Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203246389,
-    "wof:lastmodified":1449025065,
+    "wof:lastmodified":1466702464,
     "wof:name":"Commercial Evaluations Inc",
     "wof:parent_id":85892649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.252392,36.288494,-115.252392,36.288494],
+  "bbox": [
+    -115.252392,
+    36.288494,
+    -115.252392,
+    36.288494
+],
   "geometry": {"coordinates":[-115.252392,36.288494],"type":"Point"}
 }

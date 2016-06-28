@@ -2,13 +2,14 @@
   "id": 236092513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762834,39.530301,-119.762834,39.530301",
     "geom:latitude":39.530301,
     "geom:longitude":-119.762834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Hymer Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236092513,
-    "wof:lastmodified":1449004502,
+    "wof:lastmodified":1466704158,
     "wof:name":"Western Metals Recycling",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-119.762834,39.530301,-119.762834,39.530301],
+  "bbox": [
+    -119.762834,
+    39.530301,
+    -119.762834,
+    39.530301
+],
   "geometry": {"coordinates":[-119.762834,39.530301],"type":"Point"}
 }

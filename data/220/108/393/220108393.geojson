@@ -2,13 +2,14 @@
   "id": 220108393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209426,36.109016,-115.209426,36.109016",
     "geom:latitude":36.109016,
     "geom:longitude":-115.209426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5207 Indian River Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220108393,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466702442,
     "wof:name":"Sue's Pools",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-115.209426,36.109016,-115.209426,36.109016],
-  "geometry": {"coordinates":[-115.209426,36.109016],"type":"Point"}
+  "bbox": [
+    -115.209426,
+    36.109016,
+    -115.209426,
+    36.109016
+],
+  "geometry": {"coordinates":[-115.20942599999999,36.109016],"type":"Point"}
 }

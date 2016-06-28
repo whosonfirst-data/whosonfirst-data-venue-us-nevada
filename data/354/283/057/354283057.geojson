@@ -2,13 +2,14 @@
   "id": 354283057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096707,36.239636,-115.096707,36.239636",
     "geom:latitude":36.239636,
     "geom:longitude":-115.096707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 N Pecos Rd #19",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":354283057,
-    "wof:lastmodified":1449066410,
+    "wof:lastmodified":1466705493,
     "wof:name":"Sinister Cycles",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.096707,36.239636,-115.096707,36.239636],
-  "geometry": {"coordinates":[-115.096707,36.239636],"type":"Point"}
+  "bbox": [
+    -115.096707,
+    36.239636,
+    -115.096707,
+    36.239636
+],
+  "geometry": {"coordinates":[-115.09670699999999,36.239636],"type":"Point"}
 }

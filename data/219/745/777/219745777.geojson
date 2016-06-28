@@ -2,13 +2,14 @@
   "id": 219745777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.315938,36.231135,-115.315938,36.231135",
     "geom:latitude":36.231135,
     "geom:longitude":-115.315938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Juno Beach St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219745777,
-    "wof:lastmodified":1449073755,
+    "wof:lastmodified":1466704746,
     "wof:name":"3w Building Co",
     "wof:parent_id":85896901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.315938,36.231135,-115.315938,36.231135],
+  "bbox": [
+    -115.315938,
+    36.231135,
+    -115.315938,
+    36.231135
+],
   "geometry": {"coordinates":[-115.315938,36.231135],"type":"Point"}
 }

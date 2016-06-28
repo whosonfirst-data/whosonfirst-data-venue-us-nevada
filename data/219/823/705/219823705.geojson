@@ -2,13 +2,14 @@
   "id": 219823705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.096488,36.078427,-115.096488,36.078427",
     "geom:latitude":36.078427,
     "geom:longitude":-115.096488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6275 S Pearl St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219823705,
-    "wof:lastmodified":1449073883,
+    "wof:lastmodified":1466705311,
     "wof:name":"Hangers",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-115.096488,36.078427,-115.096488,36.078427],
-  "geometry": {"coordinates":[-115.096488,36.078427],"type":"Point"}
+  "bbox": [
+    -115.096488,
+    36.078427,
+    -115.096488,
+    36.078427
+],
+  "geometry": {"coordinates":[-115.09648799999999,36.078427],"type":"Point"}
 }

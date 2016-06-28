@@ -2,13 +2,14 @@
   "id": 219581035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.956116,36.002244,-114.956116,36.002244",
     "geom:latitude":36.002244,
     "geom:longitude":-114.956116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Stetson Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219581035,
-    "wof:lastmodified":1449071143,
+    "wof:lastmodified":1466702757,
     "wof:name":"Final Touch Inc",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.956116,36.002244,-114.956116,36.002244],
-  "geometry": {"coordinates":[-114.956116,36.002244],"type":"Point"}
+  "bbox": [
+    -114.956116,
+    36.002244,
+    -114.956116,
+    36.002244
+],
+  "geometry": {"coordinates":[-114.95611599999999,36.002244],"type":"Point"}
 }

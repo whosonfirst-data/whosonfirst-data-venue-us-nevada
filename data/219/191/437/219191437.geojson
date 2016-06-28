@@ -2,13 +2,14 @@
   "id": 219191437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118646,36.075841,-115.118646,36.075841",
     "geom:latitude":36.075841,
     "geom:longitude":-115.118646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219191437,
-    "wof:lastmodified":1449072534,
+    "wof:lastmodified":1466702013,
     "wof:name":"Loewen Group",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.118646,36.075841,-115.118646,36.075841],
+  "bbox": [
+    -115.118646,
+    36.075841,
+    -115.118646,
+    36.075841
+],
   "geometry": {"coordinates":[-115.118646,36.075841],"type":"Point"}
 }

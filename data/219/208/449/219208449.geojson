@@ -2,13 +2,14 @@
   "id": 219208449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.091614,35.97911,-115.091614,35.97911",
     "geom:latitude":35.97911,
     "geom:longitude":-115.091614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Tempo St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219208449,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466702137,
     "wof:name":"Baier Counseling & Consulting",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-115.091614,35.97911,-115.091614,35.97911],
-  "geometry": {"coordinates":[-115.091614,35.97911],"type":"Point"}
+  "bbox": [
+    -115.091614,
+    35.97911,
+    -115.091614,
+    35.97911
+],
+  "geometry": {"coordinates":[-115.09161400000001,35.97911],"type":"Point"}
 }

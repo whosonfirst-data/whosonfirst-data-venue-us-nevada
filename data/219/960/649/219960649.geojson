@@ -2,13 +2,14 @@
   "id": 219960649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764421,39.159479,-119.764421,39.159479",
     "geom:latitude":39.159479,
     "geom:longitude":-119.764421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 S Stewart St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219960649,
-    "wof:lastmodified":1449072938,
+    "wof:lastmodified":1466706013,
     "wof:name":"Carson City Fire Department",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-119.764421,39.159479,-119.764421,39.159479],
+  "bbox": [
+    -119.764421,
+    39.159479,
+    -119.764421,
+    39.159479
+],
   "geometry": {"coordinates":[-119.764421,39.159479],"type":"Point"}
 }

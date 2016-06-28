@@ -2,13 +2,14 @@
   "id": 354317533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242775,36.076631,-115.242775,36.076631",
     "geom:latitude":36.076631,
     "geom:longitude":-115.242775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6173 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354317533,
-    "wof:lastmodified":1449066686,
+    "wof:lastmodified":1466705833,
     "wof:name":"Iep Group",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "event"
     ]
 },
-  "bbox": [-115.242775,36.076631,-115.242775,36.076631],
-  "geometry": {"coordinates":[-115.242775,36.076631],"type":"Point"}
+  "bbox": [
+    -115.242775,
+    36.076631,
+    -115.242775,
+    36.076631
+],
+  "geometry": {"coordinates":[-115.24277499999999,36.076631],"type":"Point"}
 }

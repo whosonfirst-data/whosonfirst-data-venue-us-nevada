@@ -2,13 +2,14 @@
   "id": 354408181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118601,36.024998,-115.118601,36.024998",
     "geom:latitude":36.024998,
     "geom:longitude":-115.118601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9075 S Eastern Ave",
     "sg:city":"Paradise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354408181,
-    "wof:lastmodified":1449066152,
+    "wof:lastmodified":1466706376,
     "wof:name":"Las Vegas Nutrition Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-115.118601,36.024998,-115.118601,36.024998],
+  "bbox": [
+    -115.118601,
+    36.024998,
+    -115.118601,
+    36.024998
+],
   "geometry": {"coordinates":[-115.118601,36.024998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219515277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.331632,36.13518,-115.331632,36.13518",
     "geom:latitude":36.13518,
     "geom:longitude":-115.331632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10968 Tranquil Waters Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219515277,
-    "wof:lastmodified":1449071209,
+    "wof:lastmodified":1466701572,
     "wof:name":"Gary Fike",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-115.331632,36.13518,-115.331632,36.13518],
+  "bbox": [
+    -115.331632,
+    36.13518,
+    -115.331632,
+    36.13518
+],
   "geometry": {"coordinates":[-115.331632,36.13518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370318829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755789,39.513844,-119.755789,39.513844",
     "geom:latitude":39.513844,
     "geom:longitude":-119.755789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ohm Pl Ste 7",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":370318829,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1466704578,
     "wof:name":"Pride House Transportation",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "trucking-motor"
     ]
 },
-  "bbox": [-119.755789,39.513844,-119.755789,39.513844],
-  "geometry": {"coordinates":[-119.755789,39.513844],"type":"Point"}
+  "bbox": [
+    -119.755789,
+    39.513844,
+    -119.755789,
+    39.513844
+],
+  "geometry": {"coordinates":[-119.75578899999999,39.513844],"type":"Point"}
 }

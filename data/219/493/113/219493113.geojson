@@ -2,13 +2,14 @@
   "id": 219493113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265461,36.192628,-115.265461,36.192628",
     "geom:latitude":36.192628,
     "geom:longitude":-115.265461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7816 Fort Ruby Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219493113,
-    "wof:lastmodified":1449071517,
+    "wof:lastmodified":1466704123,
     "wof:name":"Vegas Valley Equine",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-115.265461,36.192628,-115.265461,36.192628],
+  "bbox": [
+    -115.265461,
+    36.192628,
+    -115.265461,
+    36.192628
+],
   "geometry": {"coordinates":[-115.265461,36.192628],"type":"Point"}
 }

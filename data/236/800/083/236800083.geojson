@@ -2,13 +2,14 @@
   "id": 236800083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.971408,36.010093,-114.971408,36.010093",
     "geom:latitude":36.010093,
     "geom:longitude":-114.971408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Chateau Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236800083,
-    "wof:lastmodified":1449001872,
+    "wof:lastmodified":1466706648,
     "wof:name":"Ester's Desktop",
     "wof:parent_id":85878115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-114.971408,36.010093,-114.971408,36.010093],
+  "bbox": [
+    -114.971408,
+    36.010093,
+    -114.971408,
+    36.010093
+],
   "geometry": {"coordinates":[-114.971408,36.010093],"type":"Point"}
 }

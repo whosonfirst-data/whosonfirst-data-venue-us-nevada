@@ -2,13 +2,14 @@
   "id": 219441437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316101,36.110258,-115.316101,36.110258",
     "geom:latitude":36.110258,
     "geom:longitude":-115.316101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 Strada Laterina Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219441437,
-    "wof:lastmodified":1449070658,
+    "wof:lastmodified":1466703833,
     "wof:name":"Dave Lite Photography",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.316101,36.110258,-115.316101,36.110258],
+  "bbox": [
+    -115.316101,
+    36.110258,
+    -115.316101,
+    36.110258
+],
   "geometry": {"coordinates":[-115.316101,36.110258],"type":"Point"}
 }

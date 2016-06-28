@@ -2,13 +2,14 @@
   "id": 203257957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.216773,36.270341,-115.216773,36.270341",
     "geom:latitude":36.270341,
     "geom:longitude":-115.216773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6044 Crystal Cascade St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203257957,
-    "wof:lastmodified":1449025467,
+    "wof:lastmodified":1466702561,
     "wof:name":"22 Group LLC",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.216773,36.270341,-115.216773,36.270341],
+  "bbox": [
+    -115.216773,
+    36.270341,
+    -115.216773,
+    36.270341
+],
   "geometry": {"coordinates":[-115.216773,36.270341],"type":"Point"}
 }

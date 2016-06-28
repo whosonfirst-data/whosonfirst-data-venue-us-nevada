@@ -2,13 +2,14 @@
   "id": 236736345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.799957,39.510451,-119.799957,39.510451",
     "geom:latitude":39.510451,
     "geom:longitude":-119.799957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Capitol Hill Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236736345,
-    "wof:lastmodified":1449005208,
+    "wof:lastmodified":1466706673,
     "wof:name":"A A Lawn & Yard Services",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.799957,39.510451,-119.799957,39.510451],
-  "geometry": {"coordinates":[-119.799957,39.510451],"type":"Point"}
+  "bbox": [
+    -119.799957,
+    39.510451,
+    -119.799957,
+    39.510451
+],
+  "geometry": {"coordinates":[-119.79995700000001,39.510451],"type":"Point"}
 }

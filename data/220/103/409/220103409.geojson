@@ -2,13 +2,14 @@
   "id": 220103409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204024,36.126367,-115.204024,36.126367",
     "geom:latitude":36.126367,
     "geom:longitude":-115.204024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4596 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220103409,
-    "wof:lastmodified":1449074542,
+    "wof:lastmodified":1466702383,
     "wof:name":"V & J Enterprises Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-115.204024,36.126367,-115.204024,36.126367],
+  "bbox": [
+    -115.204024,
+    36.126367,
+    -115.204024,
+    36.126367
+],
   "geometry": {"coordinates":[-115.204024,36.126367],"type":"Point"}
 }

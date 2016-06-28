@@ -2,13 +2,14 @@
   "id": 219970905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301352,36.110922,-115.301352,36.110922",
     "geom:latitude":36.110922,
     "geom:longitude":-115.301352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9584 Meridian Park Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219970905,
-    "wof:lastmodified":1449073851,
+    "wof:lastmodified":1466705928,
     "wof:name":"Digital Outback",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apparatus"
     ]
 },
-  "bbox": [-115.301352,36.110922,-115.301352,36.110922],
-  "geometry": {"coordinates":[-115.301352,36.110922],"type":"Point"}
+  "bbox": [
+    -115.301352,
+    36.110922,
+    -115.301352,
+    36.110922
+],
+  "geometry": {"coordinates":[-115.30135199999999,36.110922],"type":"Point"}
 }

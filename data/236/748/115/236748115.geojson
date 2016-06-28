@@ -2,13 +2,14 @@
   "id": 236748115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189771,36.093277,-115.189771,36.093277",
     "geom:latitude":36.093277,
     "geom:longitude":-115.189771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5380 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236748115,
-    "wof:lastmodified":1449004251,
+    "wof:lastmodified":1466706555,
     "wof:name":"Outdoor Kitchen Concepts",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-115.189771,36.093277,-115.189771,36.093277],
-  "geometry": {"coordinates":[-115.189771,36.093277],"type":"Point"}
+  "bbox": [
+    -115.189771,
+    36.093277,
+    -115.189771,
+    36.093277
+],
+  "geometry": {"coordinates":[-115.18977099999999,36.093277],"type":"Point"}
 }

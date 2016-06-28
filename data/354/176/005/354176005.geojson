@@ -2,13 +2,14 @@
   "id": 354176005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.101963,36.159017,-115.101963,36.159017",
     "geom:latitude":36.159017,
     "geom:longitude":-115.101963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 E Charleston Blvd Ste 104",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354176005,
-    "wof:lastmodified":1449067087,
+    "wof:lastmodified":1466705001,
     "wof:name":"Fox Charter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limo"
     ]
 },
-  "bbox": [-115.101963,36.159017,-115.101963,36.159017],
+  "bbox": [
+    -115.101963,
+    36.159017,
+    -115.101963,
+    36.159017
+],
   "geometry": {"coordinates":[-115.101963,36.159017],"type":"Point"}
 }

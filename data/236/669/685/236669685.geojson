@@ -2,13 +2,14 @@
   "id": 236669685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.052483,36.119298,-115.052483,36.119298",
     "geom:latitude":36.119298,
     "geom:longitude":-115.052483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5562 Little Lake Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236669685,
-    "wof:lastmodified":1449001962,
+    "wof:lastmodified":1466706429,
     "wof:name":"Primary Capital Management",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.052483,36.119298,-115.052483,36.119298],
+  "bbox": [
+    -115.052483,
+    36.119298,
+    -115.052483,
+    36.119298
+],
   "geometry": {"coordinates":[-115.052483,36.119298],"type":"Point"}
 }

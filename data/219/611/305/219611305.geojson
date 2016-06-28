@@ -2,13 +2,14 @@
   "id": 219611305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.230677,38.067818,-117.230677,38.067818",
     "geom:latitude":38.067818,
     "geom:longitude":-117.230677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Main St",
     "sg:city":"Tonopah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219611305,
-    "wof:lastmodified":1449073180,
+    "wof:lastmodified":1466703117,
     "wof:name":"Jim Butler Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.230677,38.067818,-117.230677,38.067818],
+  "bbox": [
+    -117.230677,
+    38.067818,
+    -117.230677,
+    38.067818
+],
   "geometry": {"coordinates":[-117.230677,38.067818],"type":"Point"}
 }

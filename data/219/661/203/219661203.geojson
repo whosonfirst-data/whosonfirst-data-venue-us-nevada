@@ -2,13 +2,14 @@
   "id": 219661203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.728312,40.868741,-115.728312,40.868741",
     "geom:latitude":40.868741,
     "geom:longitude":-115.728312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219661203,
-    "wof:lastmodified":1449073538,
+    "wof:lastmodified":1466704024,
     "wof:name":"Gsl Electric",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.728312,40.868741,-115.728312,40.868741],
+  "bbox": [
+    -115.728312,
+    40.868741,
+    -115.728312,
+    40.868741
+],
   "geometry": {"coordinates":[-115.728312,40.868741],"type":"Point"}
 }

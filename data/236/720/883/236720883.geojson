@@ -2,13 +2,14 @@
   "id": 236720883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.237912,36.146303,-115.237912,36.146303",
     "geom:latitude":36.146303,
     "geom:longitude":-115.237912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6413 Peppermill Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236720883,
-    "wof:lastmodified":1449002272,
+    "wof:lastmodified":1466706664,
     "wof:name":"Leilani Farms Inc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-115.237912,36.146303,-115.237912,36.146303],
-  "geometry": {"coordinates":[-115.237912,36.146303],"type":"Point"}
+  "bbox": [
+    -115.237912,
+    36.146303,
+    -115.237912,
+    36.146303
+],
+  "geometry": {"coordinates":[-115.23791199999999,36.146303],"type":"Point"}
 }

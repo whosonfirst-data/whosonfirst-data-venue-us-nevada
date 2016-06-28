@@ -2,13 +2,14 @@
   "id": 219928255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769285,39.136255,-119.769285,39.136255",
     "geom:latitude":39.136255,
     "geom:longitude":-119.769285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3339 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219928255,
-    "wof:lastmodified":1449073419,
+    "wof:lastmodified":1466705803,
     "wof:name":"Carson Auto Works",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-119.769285,39.136255,-119.769285,39.136255],
+  "bbox": [
+    -119.769285,
+    39.136255,
+    -119.769285,
+    39.136255
+],
   "geometry": {"coordinates":[-119.769285,39.136255],"type":"Point"}
 }

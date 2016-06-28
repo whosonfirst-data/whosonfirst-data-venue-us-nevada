@@ -2,13 +2,14 @@
   "id": 236245897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.947589,36.190522,-115.947589,36.190522",
     "geom:latitude":36.190522,
     "geom:longitude":-115.947589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236245897,
-    "wof:lastmodified":1449005118,
+    "wof:lastmodified":1466704378,
     "wof:name":"Pahrump Valley Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-115.947589,36.190522,-115.947589,36.190522],
-  "geometry": {"coordinates":[-115.947589,36.190522],"type":"Point"}
+  "bbox": [
+    -115.947589,
+    36.190522,
+    -115.947589,
+    36.190522
+],
+  "geometry": {"coordinates":[-115.94758899999999,36.190522],"type":"Point"}
 }

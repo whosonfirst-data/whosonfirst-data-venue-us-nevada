@@ -2,13 +2,14 @@
   "id": 220188549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.852426,39.48533,-118.852426,39.48533",
     "geom:latitude":39.48533,
     "geom:longitude":-118.852426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4775 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220188549,
-    "wof:lastmodified":1449074435,
+    "wof:lastmodified":1466702999,
     "wof:name":"Wyatt Gates & Corrals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-118.852426,39.48533,-118.852426,39.48533],
-  "geometry": {"coordinates":[-118.852426,39.48533],"type":"Point"}
+  "bbox": [
+    -118.852426,
+    39.48533,
+    -118.852426,
+    39.48533
+],
+  "geometry": {"coordinates":[-118.85242599999999,39.48533],"type":"Point"}
 }

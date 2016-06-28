@@ -2,13 +2,14 @@
   "id": 236265967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.077215,36.057461,-115.077215,36.057461",
     "geom:latitude":36.057461,
     "geom:longitude":-115.077215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Indigo Springs St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236265967,
-    "wof:lastmodified":1449002637,
+    "wof:lastmodified":1466704602,
     "wof:name":"RAK Management Co LLC",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-115.077215,36.057461,-115.077215,36.057461],
+  "bbox": [
+    -115.077215,
+    36.057461,
+    -115.077215,
+    36.057461
+],
   "geometry": {"coordinates":[-115.077215,36.057461],"type":"Point"}
 }

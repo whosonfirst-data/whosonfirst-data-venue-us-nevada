@@ -2,13 +2,14 @@
   "id": 236843097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.68695,39.823586,-119.68695,39.823586",
     "geom:latitude":39.823586,
     "geom:longitude":-119.68695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5755 Rebel Cause Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236843097,
-    "wof:lastmodified":1449001893,
+    "wof:lastmodified":1466706712,
     "wof:name":"Drs-Digitrax Services",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-119.68695,39.823586,-119.68695,39.823586],
+  "bbox": [
+    -119.68695,
+    39.823586,
+    -119.68695,
+    39.823586
+],
   "geometry": {"coordinates":[-119.68695,39.823586],"type":"Point"}
 }

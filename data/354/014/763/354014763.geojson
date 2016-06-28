@@ -2,13 +2,14 @@
   "id": 354014763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.978508,36.028161,-114.978508,36.028161",
     "geom:latitude":36.028161,
     "geom:longitude":-114.978508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 S Water Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354014763,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466701875,
     "wof:name":"Antique Rose Florist",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.978508,36.028161,-114.978508,36.028161],
-  "geometry": {"coordinates":[-114.978508,36.028161],"type":"Point"}
+  "bbox": [
+    -114.978508,
+    36.028161,
+    -114.978508,
+    36.028161
+],
+  "geometry": {"coordinates":[-114.97850800000001,36.028161],"type":"Point"}
 }

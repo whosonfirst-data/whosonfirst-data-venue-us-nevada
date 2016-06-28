@@ -2,13 +2,14 @@
   "id": 203368967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.893051,39.247942,-114.893051,39.247942",
     "geom:latitude":39.247942,
     "geom:longitude":-114.893051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Aultman St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203368967,
-    "wof:lastmodified":1449025378,
+    "wof:lastmodified":1466703224,
     "wof:name":"Desperation Arts",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.893051,39.247942,-114.893051,39.247942],
+  "bbox": [
+    -114.893051,
+    39.247942,
+    -114.893051,
+    39.247942
+],
   "geometry": {"coordinates":[-114.893051,39.247942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354315757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269626,36.159156,-115.269626,36.159156",
     "geom:latitude":36.159156,
     "geom:longitude":-115.269626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354315757,
-    "wof:lastmodified":1449067588,
+    "wof:lastmodified":1466705810,
     "wof:name":"Bonar Development Group",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.269626,36.159156,-115.269626,36.159156],
+  "bbox": [
+    -115.269626,
+    36.159156,
+    -115.269626,
+    36.159156
+],
   "geometry": {"coordinates":[-115.269626,36.159156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252724111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.234558,36.238092,-115.234558,36.238092",
     "geom:latitude":36.238092,
     "geom:longitude":-115.234558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 Amethyst Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252724111,
-    "wof:lastmodified":1449006478,
+    "wof:lastmodified":1466701809,
     "wof:name":"Heather Booker Mini Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.234558,36.238092,-115.234558,36.238092],
-  "geometry": {"coordinates":[-115.234558,36.238092],"type":"Point"}
+  "bbox": [
+    -115.234558,
+    36.238092,
+    -115.234558,
+    36.238092
+],
+  "geometry": {"coordinates":[-115.23455800000001,36.238092],"type":"Point"}
 }

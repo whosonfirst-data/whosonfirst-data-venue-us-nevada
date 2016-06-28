@@ -2,13 +2,14 @@
   "id": 219236907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.483937,36.602892,-114.483937,36.602892",
     "geom:latitude":36.602892,
     "geom:longitude":-114.483937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 N Moapa Valley Blvd",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219236907,
-    "wof:lastmodified":1449070767,
+    "wof:lastmodified":1466702413,
     "wof:name":"Action Water Craft Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-114.483937,36.602892,-114.483937,36.602892],
+  "bbox": [
+    -114.483937,
+    36.602892,
+    -114.483937,
+    36.602892
+],
   "geometry": {"coordinates":[-114.483937,36.602892],"type":"Point"}
 }

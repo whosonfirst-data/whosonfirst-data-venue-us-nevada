@@ -2,13 +2,14 @@
   "id": 219271027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.035492,36.050199,-115.035492,36.050199",
     "geom:latitude":36.050199,
     "geom:longitude":-115.035492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Golden Spike Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219271027,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466702738,
     "wof:name":"Challenge Labs",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.035492,36.050199,-115.035492,36.050199],
+  "bbox": [
+    -115.035492,
+    36.050199,
+    -115.035492,
+    36.050199
+],
   "geometry": {"coordinates":[-115.035492,36.050199],"type":"Point"}
 }

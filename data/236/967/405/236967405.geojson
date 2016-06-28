@@ -2,13 +2,14 @@
   "id": 236967405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731672,39.527175,-119.731672,39.527175",
     "geom:latitude":39.527175,
     "geom:longitude":-119.731672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236967405,
-    "wof:lastmodified":1449004959,
+    "wof:lastmodified":1466706951,
     "wof:name":"H & E Construction",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.731672,39.527175,-119.731672,39.527175],
+  "bbox": [
+    -119.731672,
+    39.527175,
+    -119.731672,
+    39.527175
+],
   "geometry": {"coordinates":[-119.731672,39.527175],"type":"Point"}
 }

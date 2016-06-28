@@ -2,13 +2,14 @@
   "id": 370169913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.262451,36.247965,-115.262451,36.247965",
     "geom:latitude":36.247965,
     "geom:longitude":-115.262451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7684 W Lone Mountain Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370169913,
-    "wof:lastmodified":1449031176,
+    "wof:lastmodified":1466701978,
     "wof:name":"Vegas Wash Carpet Upholstery & Drapery Cleaning",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.262451,36.247965,-115.262451,36.247965],
+  "bbox": [
+    -115.262451,
+    36.247965,
+    -115.262451,
+    36.247965
+],
   "geometry": {"coordinates":[-115.262451,36.247965],"type":"Point"}
 }

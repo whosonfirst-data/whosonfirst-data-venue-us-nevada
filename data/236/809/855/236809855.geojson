@@ -2,13 +2,14 @@
   "id": 236809855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098471,36.237717,-115.098471,36.237717",
     "geom:latitude":36.237717,
     "geom:longitude":-115.098471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4280 N Pecos Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236809855,
-    "wof:lastmodified":1449004537,
+    "wof:lastmodified":1466706503,
     "wof:name":"H20 Environmental Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ecological"
     ]
 },
-  "bbox": [-115.098471,36.237717,-115.098471,36.237717],
+  "bbox": [
+    -115.098471,
+    36.237717,
+    -115.098471,
+    36.237717
+],
   "geometry": {"coordinates":[-115.098471,36.237717],"type":"Point"}
 }

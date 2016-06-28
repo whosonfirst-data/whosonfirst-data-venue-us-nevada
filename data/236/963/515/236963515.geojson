@@ -2,13 +2,14 @@
   "id": 236963515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312016,36.193312,-115.312016,36.193312",
     "geom:latitude":36.193312,
     "geom:longitude":-115.312016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Trailwood Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236963515,
-    "wof:lastmodified":1449001909,
+    "wof:lastmodified":1466706893,
     "wof:name":"Lieb Electric Inc",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-115.312016,36.193312,-115.312016,36.193312],
+  "bbox": [
+    -115.312016,
+    36.193312,
+    -115.312016,
+    36.193312
+],
   "geometry": {"coordinates":[-115.312016,36.193312],"type":"Point"}
 }

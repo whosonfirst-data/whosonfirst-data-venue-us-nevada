@@ -2,13 +2,14 @@
   "id": 236970913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751218,39.546063,-119.751218,39.546063",
     "geom:latitude":39.546063,
     "geom:longitude":-119.751218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 L St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236970913,
-    "wof:lastmodified":1449005179,
+    "wof:lastmodified":1466706904,
     "wof:name":"Dreamers Coffee",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.751218,39.546063,-119.751218,39.546063],
-  "geometry": {"coordinates":[-119.751218,39.546063],"type":"Point"}
+  "bbox": [
+    -119.751218,
+    39.546063,
+    -119.751218,
+    39.546063
+],
+  "geometry": {"coordinates":[-119.75121799999999,39.546063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219164923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.090933,36.820242,-114.090933,36.820242",
     "geom:latitude":36.820242,
     "geom:longitude":-114.090933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"797 Hardy Way",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219164923,
-    "wof:lastmodified":1449070812,
+    "wof:lastmodified":1466701646,
     "wof:name":"Dagrow Truss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truss"
     ]
 },
-  "bbox": [-114.090933,36.820242,-114.090933,36.820242],
-  "geometry": {"coordinates":[-114.090933,36.820242],"type":"Point"}
+  "bbox": [
+    -114.090933,
+    36.820242,
+    -114.090933,
+    36.820242
+],
+  "geometry": {"coordinates":[-114.09093300000001,36.820242],"type":"Point"}
 }

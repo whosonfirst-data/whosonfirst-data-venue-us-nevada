@@ -2,13 +2,14 @@
   "id": 236058583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.745416,39.562025,-119.745416,39.562025",
     "geom:latitude":39.562025,
     "geom:longitude":-119.745416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 Nowlin Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236058583,
-    "wof:lastmodified":1449002038,
+    "wof:lastmodified":1466703990,
     "wof:name":"Personally Yours",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piece"
     ]
 },
-  "bbox": [-119.745416,39.562025,-119.745416,39.562025],
-  "geometry": {"coordinates":[-119.745416,39.562025],"type":"Point"}
+  "bbox": [
+    -119.745416,
+    39.562025,
+    -119.745416,
+    39.562025
+],
+  "geometry": {"coordinates":[-119.74541600000001,39.562025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236609383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109365,36.094358,-115.109365,36.094358",
     "geom:latitude":36.094358,
     "geom:longitude":-115.109365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5206 Mandalay Springs Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236609383,
-    "wof:lastmodified":1449002768,
+    "wof:lastmodified":1466706371,
     "wof:name":"Interactive Language Learning",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.109365,36.094358,-115.109365,36.094358],
+  "bbox": [
+    -115.109365,
+    36.094358,
+    -115.109365,
+    36.094358
+],
   "geometry": {"coordinates":[-115.109365,36.094358],"type":"Point"}
 }

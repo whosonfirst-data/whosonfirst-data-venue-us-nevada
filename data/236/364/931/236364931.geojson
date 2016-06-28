@@ -2,13 +2,14 @@
   "id": 236364931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128454,36.057556,-115.128454,36.057556",
     "geom:latitude":36.057556,
     "geom:longitude":-115.128454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 E Warm Springs Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236364931,
-    "wof:lastmodified":1449003520,
+    "wof:lastmodified":1466705172,
     "wof:name":"Warm Springs Dog Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.128454,36.057556,-115.128454,36.057556],
+  "bbox": [
+    -115.128454,
+    36.057556,
+    -115.128454,
+    36.057556
+],
   "geometry": {"coordinates":[-115.128454,36.057556],"type":"Point"}
 }

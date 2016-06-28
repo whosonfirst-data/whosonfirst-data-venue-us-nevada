@@ -2,13 +2,14 @@
   "id": 219411597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.186728,36.106452,-115.186728,36.106452",
     "geom:latitude":36.106452,
     "geom:longitude":-115.186728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 W Naples Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219411597,
-    "wof:lastmodified":1449070543,
+    "wof:lastmodified":1466703704,
     "wof:name":"Leopard Lounge",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-115.186728,36.106452,-115.186728,36.106452],
+  "bbox": [
+    -115.186728,
+    36.106452,
+    -115.186728,
+    36.106452
+],
   "geometry": {"coordinates":[-115.186728,36.106452],"type":"Point"}
 }

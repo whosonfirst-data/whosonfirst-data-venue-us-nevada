@@ -2,13 +2,14 @@
   "id": 219795317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.319691,38.800656,-119.319691,38.800656",
     "geom:latitude":38.800656,
     "geom:longitude":-119.319691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 State Rte 208",
     "sg:city":"Smith",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219795317,
-    "wof:lastmodified":1449072475,
+    "wof:lastmodified":1466705045,
     "wof:name":"Bybee 4-H Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.319691,38.800656,-119.319691,38.800656],
-  "geometry": {"coordinates":[-119.319691,38.800656],"type":"Point"}
+  "bbox": [
+    -119.319691,
+    38.800656,
+    -119.319691,
+    38.800656
+],
+  "geometry": {"coordinates":[-119.31969100000001,38.800656],"type":"Point"}
 }

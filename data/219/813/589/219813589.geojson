@@ -2,13 +2,14 @@
   "id": 219813589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.846428,35.971821,-114.846428,35.971821",
     "geom:latitude":35.971821,
     "geom:longitude":-114.846428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Elm St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219813589,
-    "wof:lastmodified":1449071306,
+    "wof:lastmodified":1466705159,
     "wof:name":"Fire Department",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-114.846428,35.971821,-114.846428,35.971821],
+  "bbox": [
+    -114.846428,
+    35.971821,
+    -114.846428,
+    35.971821
+],
   "geometry": {"coordinates":[-114.846428,35.971821],"type":"Point"}
 }

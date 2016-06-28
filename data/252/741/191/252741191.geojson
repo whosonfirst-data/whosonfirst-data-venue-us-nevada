@@ -2,13 +2,14 @@
   "id": 252741191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.188669,36.107891,-115.188669,36.107891",
     "geom:latitude":36.107891,
     "geom:longitude":-115.188669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Ziebart",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252741191,
-    "wof:lastmodified":1449005463,
+    "wof:lastmodified":1466702153,
     "wof:name":"Red Rose International Ltd",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "liquid"
     ]
 },
-  "bbox": [-115.188669,36.107891,-115.188669,36.107891],
+  "bbox": [
+    -115.188669,
+    36.107891,
+    -115.188669,
+    36.107891
+],
   "geometry": {"coordinates":[-115.188669,36.107891],"type":"Point"}
 }

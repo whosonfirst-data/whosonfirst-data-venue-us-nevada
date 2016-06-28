@@ -2,13 +2,14 @@
   "id": 236350379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.838731,39.530515,-119.838731,39.530515",
     "geom:latitude":39.530515,
     "geom:longitude":-119.838731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W 7th St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236350379,
-    "wof:lastmodified":1449003314,
+    "wof:lastmodified":1466704919,
     "wof:name":"Savage Music Connection",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-119.838731,39.530515,-119.838731,39.530515],
+  "bbox": [
+    -119.838731,
+    39.530515,
+    -119.838731,
+    39.530515
+],
   "geometry": {"coordinates":[-119.838731,39.530515],"type":"Point"}
 }

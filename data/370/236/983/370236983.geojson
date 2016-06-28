@@ -2,13 +2,14 @@
   "id": 370236983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.239197,36.159228,-115.239197,36.159228",
     "geom:latitude":36.159228,
     "geom:longitude":-115.239197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370236983,
-    "wof:lastmodified":1449029450,
+    "wof:lastmodified":1466703400,
     "wof:name":"Main Advantage Technology Services",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.239197,36.159228,-115.239197,36.159228],
+  "bbox": [
+    -115.239197,
+    36.159228,
+    -115.239197,
+    36.159228
+],
   "geometry": {"coordinates":[-115.239197,36.159228],"type":"Point"}
 }

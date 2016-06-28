@@ -2,13 +2,14 @@
   "id": 236685997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.746,40.849613,-115.746,40.849613",
     "geom:latitude":40.849613,
     "geom:longitude":-115.746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 Idaho St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236685997,
-    "wof:lastmodified":1449005154,
+    "wof:lastmodified":1466706445,
     "wof:name":"Essential Touch Massage",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-115.746,40.849613,-115.746,40.849613],
+  "bbox": [
+    -115.746,
+    40.849613,
+    -115.746,
+    40.849613
+],
   "geometry": {"coordinates":[-115.746,40.849613],"type":"Point"}
 }

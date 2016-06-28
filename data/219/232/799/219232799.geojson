@@ -2,13 +2,14 @@
   "id": 219232799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.339076,36.179431,-115.339076,36.179431",
     "geom:latitude":36.179431,
     "geom:longitude":-115.339076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Bernini St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219232799,
-    "wof:lastmodified":1449071540,
+    "wof:lastmodified":1466702333,
     "wof:name":"Sale Away",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "good"
     ]
 },
-  "bbox": [-115.339076,36.179431,-115.339076,36.179431],
-  "geometry": {"coordinates":[-115.339076,36.179431],"type":"Point"}
+  "bbox": [
+    -115.339076,
+    36.179431,
+    -115.339076,
+    36.179431
+],
+  "geometry": {"coordinates":[-115.33907600000001,36.179431],"type":"Point"}
 }

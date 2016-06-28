@@ -2,13 +2,14 @@
   "id": 370207743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243617,36.041264,-115.243617,36.041264",
     "geom:latitude":36.041264,
     "geom:longitude":-115.243617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8095 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370207743,
-    "wof:lastmodified":1449031456,
+    "wof:lastmodified":1466702725,
     "wof:name":"Choice",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243617,36.041264,-115.243617,36.041264],
+  "bbox": [
+    -115.243617,
+    36.041264,
+    -115.243617,
+    36.041264
+],
   "geometry": {"coordinates":[-115.243617,36.041264],"type":"Point"}
 }

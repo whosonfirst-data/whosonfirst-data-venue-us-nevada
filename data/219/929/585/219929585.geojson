@@ -2,13 +2,14 @@
   "id": 219929585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.221034,36.226954,-115.221034,36.226954",
     "geom:latitude":36.226954,
     "geom:longitude":-115.221034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3632 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219929585,
-    "wof:lastmodified":1449071742,
+    "wof:lastmodified":1466705676,
     "wof:name":"Russ Steel Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "erectors"
     ]
 },
-  "bbox": [-115.221034,36.226954,-115.221034,36.226954],
+  "bbox": [
+    -115.221034,
+    36.226954,
+    -115.221034,
+    36.226954
+],
   "geometry": {"coordinates":[-115.221034,36.226954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203206591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.976286,41.111231,-114.976286,41.111231",
     "geom:latitude":41.111231,
     "geom:longitude":-114.976286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Pacific Ave",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203206591,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466702109,
     "wof:name":"Great Basin Beverage",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-114.976286,41.111231,-114.976286,41.111231],
+  "bbox": [
+    -114.976286,
+    41.111231,
+    -114.976286,
+    41.111231
+],
   "geometry": {"coordinates":[-114.976286,41.111231],"type":"Point"}
 }

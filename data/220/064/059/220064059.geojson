@@ -2,13 +2,14 @@
   "id": 220064059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203929,36.210336,-115.203929,36.210336",
     "geom:latitude":36.210336,
     "geom:longitude":-115.203929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 Perimeter Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220064059,
-    "wof:lastmodified":1449074306,
+    "wof:lastmodified":1466702155,
     "wof:name":"First Flight Aviation",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.203929,36.210336,-115.203929,36.210336],
+  "bbox": [
+    -115.203929,
+    36.210336,
+    -115.203929,
+    36.210336
+],
   "geometry": {"coordinates":[-115.203929,36.210336],"type":"Point"}
 }

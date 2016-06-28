@@ -2,13 +2,14 @@
   "id": 219355349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.726301,38.904151,-119.726301,38.904151",
     "geom:latitude":38.904151,
     "geom:longitude":-119.726301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"984 Dean Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219355349,
-    "wof:lastmodified":1449071390,
+    "wof:lastmodified":1466703424,
     "wof:name":"Nevada Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.726301,38.904151,-119.726301,38.904151],
-  "geometry": {"coordinates":[-119.726301,38.904151],"type":"Point"}
+  "bbox": [
+    -119.726301,
+    38.904151,
+    -119.726301,
+    38.904151
+],
+  "geometry": {"coordinates":[-119.72630100000001,38.904151],"type":"Point"}
 }

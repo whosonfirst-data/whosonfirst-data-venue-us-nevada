@@ -2,13 +2,14 @@
   "id": 236272211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.134247,36.017361,-115.134247,36.017361",
     "geom:latitude":36.017361,
     "geom:longitude":-115.134247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1284 Waterford Falls Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236272211,
-    "wof:lastmodified":1449004978,
+    "wof:lastmodified":1466704514,
     "wof:name":"Western Espresso Inc",
     "wof:parent_id":85879723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.134247,36.017361,-115.134247,36.017361],
+  "bbox": [
+    -115.134247,
+    36.017361,
+    -115.134247,
+    36.017361
+],
   "geometry": {"coordinates":[-115.134247,36.017361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219466459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816331,39.519993,-119.816331,39.519993",
     "geom:latitude":39.519993,
     "geom:longitude":-119.816331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 California Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219466459,
-    "wof:lastmodified":1449071458,
+    "wof:lastmodified":1466704023,
     "wof:name":"Blackwell Insurance Agency",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.816331,39.519993,-119.816331,39.519993],
-  "geometry": {"coordinates":[-119.816331,39.519993],"type":"Point"}
+  "bbox": [
+    -119.816331,
+    39.519993,
+    -119.816331,
+    39.519993
+],
+  "geometry": {"coordinates":[-119.81633100000001,39.519993],"type":"Point"}
 }

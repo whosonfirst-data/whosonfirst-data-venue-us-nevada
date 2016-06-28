@@ -2,13 +2,14 @@
   "id": 236496215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136954,36.138351,-115.136954,36.138351",
     "geom:latitude":36.138351,
     "geom:longitude":-115.136954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2797 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":236496215,
-    "wof:lastmodified":1449004649,
+    "wof:lastmodified":1466705774,
     "wof:name":"Gold Crafters Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.136954,36.138351,-115.136954,36.138351],
+  "bbox": [
+    -115.136954,
+    36.138351,
+    -115.136954,
+    36.138351
+],
   "geometry": {"coordinates":[-115.136954,36.138351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219874405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24922,36.228065,-115.24922,36.228065",
     "geom:latitude":36.228065,
     "geom:longitude":-115.24922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Dalecrest Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219874405,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466705417,
     "wof:name":"Second 2 None Cleaning Svc",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.24922,36.228065,-115.24922,36.228065],
-  "geometry": {"coordinates":[-115.24922,36.228065],"type":"Point"}
+  "bbox": [
+    -115.24922,
+    36.228065,
+    -115.24922,
+    36.228065
+],
+  "geometry": {"coordinates":[-115.24921999999999,36.228065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354150577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208,36.1171,-115.208,36.1171",
     "geom:latitude":36.1171,
     "geom:longitude":-115.208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 S Decatur Blvd Ste 8",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354150577,
-    "wof:lastmodified":1449065955,
+    "wof:lastmodified":1466704540,
     "wof:name":"East-West Imports",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.208,36.1171,-115.208,36.1171],
+  "bbox": [
+    -115.208,
+    36.1171,
+    -115.208,
+    36.1171
+],
   "geometry": {"coordinates":[-115.208,36.1171],"type":"Point"}
 }

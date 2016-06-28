@@ -2,13 +2,14 @@
   "id": 203244113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223295,36.219173,-115.223295,36.219173",
     "geom:latitude":36.219173,
     "geom:longitude":-115.223295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Corona del Mar Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203244113,
-    "wof:lastmodified":1449025672,
+    "wof:lastmodified":1466702457,
     "wof:name":"Slings N Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.223295,36.219173,-115.223295,36.219173],
-  "geometry": {"coordinates":[-115.223295,36.219173],"type":"Point"}
+  "bbox": [
+    -115.223295,
+    36.219173,
+    -115.223295,
+    36.219173
+],
+  "geometry": {"coordinates":[-115.22329499999999,36.219173],"type":"Point"}
 }

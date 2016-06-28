@@ -2,13 +2,14 @@
   "id": 203259263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080174,36.081869,-115.080174,36.081869",
     "geom:latitude":36.081869,
     "geom:longitude":-115.080174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4311 E Oquendo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203259263,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466702571,
     "wof:name":"Legacy Ranch",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-115.080174,36.081869,-115.080174,36.081869],
+  "bbox": [
+    -115.080174,
+    36.081869,
+    -115.080174,
+    36.081869
+],
   "geometry": {"coordinates":[-115.080174,36.081869],"type":"Point"}
 }

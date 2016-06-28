@@ -2,13 +2,14 @@
   "id": 203337875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.112456,36.074827,-115.112456,36.074827",
     "geom:latitude":36.074827,
     "geom:longitude":-115.112456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6145 Harrison Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203337875,
-    "wof:lastmodified":1449025809,
+    "wof:lastmodified":1466703087,
     "wof:name":"Enviro Tech Products & Service",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-115.112456,36.074827,-115.112456,36.074827],
-  "geometry": {"coordinates":[-115.112456,36.074827],"type":"Point"}
+  "bbox": [
+    -115.112456,
+    36.074827,
+    -115.112456,
+    36.074827
+],
+  "geometry": {"coordinates":[-115.11245599999999,36.074827],"type":"Point"}
 }

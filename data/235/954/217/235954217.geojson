@@ -2,13 +2,14 @@
   "id": 235954217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.098367,36.086087,-115.098367,36.086087",
     "geom:latitude":36.086087,
     "geom:longitude":-115.098367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 E Russell Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235954217,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466703542,
     "wof:name":"Digital PCS Nevada Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.098367,36.086087,-115.098367,36.086087],
+  "bbox": [
+    -115.098367,
+    36.086087,
+    -115.098367,
+    36.086087
+],
   "geometry": {"coordinates":[-115.098367,36.086087],"type":"Point"}
 }

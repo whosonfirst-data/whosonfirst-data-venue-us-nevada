@@ -2,13 +2,14 @@
   "id": 220071835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.817168,35.974982,-114.817168,35.974982",
     "geom:latitude":35.974982,
     "geom:longitude":-114.817168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Otono Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220071835,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1466702223,
     "wof:name":"Mr Fixit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-114.817168,35.974982,-114.817168,35.974982],
+  "bbox": [
+    -114.817168,
+    35.974982,
+    -114.817168,
+    35.974982
+],
   "geometry": {"coordinates":[-114.817168,35.974982],"type":"Point"}
 }

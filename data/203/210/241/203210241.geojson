@@ -2,13 +2,14 @@
   "id": 203210241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.754029,38.90587,-119.754029,38.90587",
     "geom:latitude":38.90587,
     "geom:longitude":-119.754029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1174 Woodfords Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203210241,
-    "wof:lastmodified":1449025556,
+    "wof:lastmodified":1466702153,
     "wof:name":"Distinctive Rain Gutters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-119.754029,38.90587,-119.754029,38.90587],
+  "bbox": [
+    -119.754029,
+    38.90587,
+    -119.754029,
+    38.90587
+],
   "geometry": {"coordinates":[-119.754029,38.90587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219607549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.6635,39.211812,-119.6635,39.211812",
     "geom:latitude":39.211812,
     "geom:longitude":-119.6635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Kit Kat Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219607549,
-    "wof:lastmodified":1449070864,
+    "wof:lastmodified":1466703047,
     "wof:name":"D C Kunkle Residential",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-119.6635,39.211812,-119.6635,39.211812],
+  "bbox": [
+    -119.6635,
+    39.211812,
+    -119.6635,
+    39.211812
+],
   "geometry": {"coordinates":[-119.6635,39.211812],"type":"Point"}
 }

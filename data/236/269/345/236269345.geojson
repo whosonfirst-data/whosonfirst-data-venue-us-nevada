@@ -2,13 +2,14 @@
   "id": 236269345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764865,39.183224,-119.764865,39.183224",
     "geom:latitude":39.183224,
     "geom:longitude":-119.764865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Hot Springs Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236269345,
-    "wof:lastmodified":1449003779,
+    "wof:lastmodified":1466704271,
     "wof:name":"Smoky Fire Protection",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-119.764865,39.183224,-119.764865,39.183224],
+  "bbox": [
+    -119.764865,
+    39.183224,
+    -119.764865,
+    39.183224
+],
   "geometry": {"coordinates":[-119.764865,39.183224],"type":"Point"}
 }

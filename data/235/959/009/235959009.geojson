@@ -2,13 +2,14 @@
   "id": 235959009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225317,36.08711,-115.225317,36.08711",
     "geom:latitude":36.08711,
     "geom:longitude":-115.225317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5693 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235959009,
-    "wof:lastmodified":1449008580,
+    "wof:lastmodified":1466704247,
     "wof:name":"Tax Wizards",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-115.225317,36.08711,-115.225317,36.08711],
+  "bbox": [
+    -115.225317,
+    36.08711,
+    -115.225317,
+    36.08711
+],
   "geometry": {"coordinates":[-115.225317,36.08711],"type":"Point"}
 }

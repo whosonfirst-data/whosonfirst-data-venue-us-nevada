@@ -2,13 +2,14 @@
   "id": 370309553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751833,39.543053,-119.751833,39.543053",
     "geom:latitude":39.543053,
     "geom:longitude":-119.751833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 H St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":370309553,
-    "wof:lastmodified":1449029848,
+    "wof:lastmodified":1466704648,
     "wof:name":"Allstate Insurance Company - Mark Kerber",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "renter"
     ]
 },
-  "bbox": [-119.751833,39.543053,-119.751833,39.543053],
+  "bbox": [
+    -119.751833,
+    39.543053,
+    -119.751833,
+    39.543053
+],
   "geometry": {"coordinates":[-119.751833,39.543053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219203353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163226,36.152141,-115.163226,36.152141",
     "geom:latitude":36.152141,
     "geom:longitude":-115.163226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219203353,
-    "wof:lastmodified":1449071963,
+    "wof:lastmodified":1466702084,
     "wof:name":"King's Spy Inc",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-115.163226,36.152141,-115.163226,36.152141],
-  "geometry": {"coordinates":[-115.163226,36.152141],"type":"Point"}
+  "bbox": [
+    -115.163226,
+    36.152141,
+    -115.163226,
+    36.152141
+],
+  "geometry": {"coordinates":[-115.16322599999999,36.152141],"type":"Point"}
 }

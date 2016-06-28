@@ -2,13 +2,14 @@
   "id": 236140977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.339062,36.128092,-115.339062,36.128092",
     "geom:latitude":36.128092,
     "geom:longitude":-115.339062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11258 Rising Ridge Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236140977,
-    "wof:lastmodified":1449002034,
+    "wof:lastmodified":1466702359,
     "wof:name":"Nomadic Display",
     "wof:parent_id":85865281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-115.339062,36.128092,-115.339062,36.128092],
+  "bbox": [
+    -115.339062,
+    36.128092,
+    -115.339062,
+    36.128092
+],
   "geometry": {"coordinates":[-115.339062,36.128092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219378157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77584,39.587724,-119.77584,39.587724",
     "geom:latitude":39.587724,
     "geom:longitude":-119.77584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5389 Leon Dr",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219378157,
-    "wof:lastmodified":1449072772,
+    "wof:lastmodified":1466703511,
     "wof:name":"Tom's Hauling & Cleanup",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-119.77584,39.587724,-119.77584,39.587724],
+  "bbox": [
+    -119.77584,
+    39.587724,
+    -119.77584,
+    39.587724
+],
   "geometry": {"coordinates":[-119.77584,39.587724],"type":"Point"}
 }

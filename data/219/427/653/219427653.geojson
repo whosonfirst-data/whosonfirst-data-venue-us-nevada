@@ -2,13 +2,14 @@
   "id": 219427653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.155849,36.026488,-115.155849,36.026488",
     "geom:latitude":36.026488,
     "geom:longitude":-115.155849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Barletta Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219427653,
-    "wof:lastmodified":1449071461,
+    "wof:lastmodified":1466703768,
     "wof:name":"Ingersoll-Dresser Pumps",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-115.155849,36.026488,-115.155849,36.026488],
+  "bbox": [
+    -115.155849,
+    36.026488,
+    -115.155849,
+    36.026488
+],
   "geometry": {"coordinates":[-115.155849,36.026488],"type":"Point"}
 }

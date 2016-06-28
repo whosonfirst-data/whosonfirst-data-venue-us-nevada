@@ -2,13 +2,14 @@
   "id": 370311259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716687,39.550923,-119.716687,39.550923",
     "geom:latitude":39.550923,
     "geom:longitude":-119.716687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2082 Sycamore Glen Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370311259,
-    "wof:lastmodified":1449029885,
+    "wof:lastmodified":1466704665,
     "wof:name":"Radio Amateur Wbvuq",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-119.716687,39.550923,-119.716687,39.550923],
-  "geometry": {"coordinates":[-119.716687,39.550923],"type":"Point"}
+  "bbox": [
+    -119.716687,
+    39.550923,
+    -119.716687,
+    39.550923
+],
+  "geometry": {"coordinates":[-119.71668699999999,39.550923],"type":"Point"}
 }

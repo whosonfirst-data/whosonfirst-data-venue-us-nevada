@@ -2,13 +2,14 @@
   "id": 219225437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.003511,36.034239,-115.003511,36.034239",
     "geom:latitude":36.034239,
     "geom:longitude":-115.003511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Industrial Park Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219225437,
-    "wof:lastmodified":1449071494,
+    "wof:lastmodified":1466702272,
     "wof:name":"Pacific Water Consultant",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-115.003511,36.034239,-115.003511,36.034239],
+  "bbox": [
+    -115.003511,
+    36.034239,
+    -115.003511,
+    36.034239
+],
   "geometry": {"coordinates":[-115.003511,36.034239],"type":"Point"}
 }

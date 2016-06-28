@@ -2,13 +2,14 @@
   "id": 203316807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.730078,39.514578,-119.730078,39.514578",
     "geom:latitude":39.514578,
     "geom:longitude":-119.730078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Spice Islands Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203316807,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1466702959,
     "wof:name":"Maryann Decker Interior Dsgn",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.730078,39.514578,-119.730078,39.514578],
-  "geometry": {"coordinates":[-119.730078,39.514578],"type":"Point"}
+  "bbox": [
+    -119.730078,
+    39.514578,
+    -119.730078,
+    39.514578
+],
+  "geometry": {"coordinates":[-119.73007800000001,39.514578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370324373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806672,39.492939,-119.806672,39.492939",
     "geom:latitude":39.492939,
     "geom:longitude":-119.806672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3368 Lakeside Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370324373,
-    "wof:lastmodified":1449031050,
+    "wof:lastmodified":1466704784,
     "wof:name":"Artisans International",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "galleries"
     ]
 },
-  "bbox": [-119.806672,39.492939,-119.806672,39.492939],
-  "geometry": {"coordinates":[-119.806672,39.492939],"type":"Point"}
+  "bbox": [
+    -119.806672,
+    39.492939,
+    -119.806672,
+    39.492939
+],
+  "geometry": {"coordinates":[-119.80667200000001,39.492939],"type":"Point"}
 }

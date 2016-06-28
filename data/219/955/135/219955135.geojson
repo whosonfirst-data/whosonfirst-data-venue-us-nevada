@@ -2,13 +2,14 @@
   "id": 219955135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.836987,39.505989,-119.836987,39.505989",
     "geom:latitude":39.505989,
     "geom:longitude":-119.836987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1695 Wilbur Pl",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219955135,
-    "wof:lastmodified":1449072841,
+    "wof:lastmodified":1466705832,
     "wof:name":"Dorothy Y Kosich Consultants",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.836987,39.505989,-119.836987,39.505989],
-  "geometry": {"coordinates":[-119.836987,39.505989],"type":"Point"}
+  "bbox": [
+    -119.836987,
+    39.505989,
+    -119.836987,
+    39.505989
+],
+  "geometry": {"coordinates":[-119.83698699999999,39.505989],"type":"Point"}
 }

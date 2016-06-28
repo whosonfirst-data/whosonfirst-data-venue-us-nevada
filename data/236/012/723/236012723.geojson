@@ -2,13 +2,14 @@
   "id": 236012723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759967,39.523422,-119.759967,39.523422",
     "geom:latitude":39.523422,
     "geom:longitude":-119.759967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236012723,
-    "wof:lastmodified":1449004845,
+    "wof:lastmodified":1466703828,
     "wof:name":"Holdens Cycle Works",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-119.759967,39.523422,-119.759967,39.523422],
+  "bbox": [
+    -119.759967,
+    39.523422,
+    -119.759967,
+    39.523422
+],
   "geometry": {"coordinates":[-119.759967,39.523422],"type":"Point"}
 }

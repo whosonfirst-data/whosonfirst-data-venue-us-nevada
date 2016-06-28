@@ -2,13 +2,14 @@
   "id": 219948797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.714278,39.552769,-119.714278,39.552769",
     "geom:latitude":39.552769,
     "geom:longitude":-119.714278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2488 Hermosa Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219948797,
-    "wof:lastmodified":1449073202,
+    "wof:lastmodified":1466705767,
     "wof:name":"Precision Flooring",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.714278,39.552769,-119.714278,39.552769],
-  "geometry": {"coordinates":[-119.714278,39.552769],"type":"Point"}
+  "bbox": [
+    -119.714278,
+    39.552769,
+    -119.714278,
+    39.552769
+],
+  "geometry": {"coordinates":[-119.71427799999999,39.552769],"type":"Point"}
 }

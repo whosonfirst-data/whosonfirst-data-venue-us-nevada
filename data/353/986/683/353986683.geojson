@@ -2,13 +2,14 @@
   "id": 353986683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.993668,36.070303,-114.993668,36.070303",
     "geom:latitude":36.070303,
     "geom:longitude":-114.993668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 Pabco Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353986683,
-    "wof:lastmodified":1449020328,
+    "wof:lastmodified":1466701493,
     "wof:name":"Crux Subsurface",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.993668,36.070303,-114.993668,36.070303],
+  "bbox": [
+    -114.993668,
+    36.070303,
+    -114.993668,
+    36.070303
+],
   "geometry": {"coordinates":[-114.993668,36.070303],"type":"Point"}
 }

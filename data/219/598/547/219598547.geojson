@@ -2,13 +2,14 @@
   "id": 219598547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.987308,36.042057,-114.987308,36.042057",
     "geom:latitude":36.042057,
     "geom:longitude":-114.987308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Brown St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219598547,
-    "wof:lastmodified":1449070564,
+    "wof:lastmodified":1466702882,
     "wof:name":"Clipper Enterprises Inc",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.987308,36.042057,-114.987308,36.042057],
+  "bbox": [
+    -114.987308,
+    36.042057,
+    -114.987308,
+    36.042057
+],
   "geometry": {"coordinates":[-114.987308,36.042057],"type":"Point"}
 }

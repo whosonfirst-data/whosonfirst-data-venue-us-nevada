@@ -2,13 +2,14 @@
   "id": 236388167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.780368,39.581472,-119.780368,39.581472",
     "geom:latitude":39.581472,
     "geom:longitude":-119.780368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5195 Sun Valley Blvd",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":236388167,
-    "wof:lastmodified":1449001773,
+    "wof:lastmodified":1466705264,
     "wof:name":"Hobey's Restaurant & Casino",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.780368,39.581472,-119.780368,39.581472],
+  "bbox": [
+    -119.780368,
+    39.581472,
+    -119.780368,
+    39.581472
+],
   "geometry": {"coordinates":[-119.780368,39.581472],"type":"Point"}
 }

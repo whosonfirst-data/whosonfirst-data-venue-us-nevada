@@ -2,13 +2,14 @@
   "id": 203284207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.85562,39.253178,-114.85562,39.253178",
     "geom:latitude":39.253178,
     "geom:longitude":-114.85562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 E 16th St",
     "sg:city":"Ely",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203284207,
-    "wof:lastmodified":1449026126,
+    "wof:lastmodified":1466702716,
     "wof:name":"Carol's Country Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.85562,39.253178,-114.85562,39.253178],
+  "bbox": [
+    -114.85562,
+    39.253178,
+    -114.85562,
+    39.253178
+],
   "geometry": {"coordinates":[-114.85562,39.253178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354158923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.188559,36.115596,-115.188559,36.115596",
     "geom:latitude":36.115596,
     "geom:longitude":-115.188559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Rio 3700 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354158923,
-    "wof:lastmodified":1449067109,
+    "wof:lastmodified":1466704766,
     "wof:name":"Hamada of Japan",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "buffet"
     ]
 },
-  "bbox": [-115.188559,36.115596,-115.188559,36.115596],
+  "bbox": [
+    -115.188559,
+    36.115596,
+    -115.188559,
+    36.115596
+],
   "geometry": {"coordinates":[-115.188559,36.115596],"type":"Point"}
 }

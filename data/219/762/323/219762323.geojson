@@ -2,13 +2,14 @@
   "id": 219762323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.825219,39.510965,-119.825219,39.510965",
     "geom:latitude":39.510965,
     "geom:longitude":-119.825219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Brown St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219762323,
-    "wof:lastmodified":1449072888,
+    "wof:lastmodified":1466704708,
     "wof:name":"Victor G Drakulich",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.825219,39.510965,-119.825219,39.510965],
+  "bbox": [
+    -119.825219,
+    39.510965,
+    -119.825219,
+    39.510965
+],
   "geometry": {"coordinates":[-119.825219,39.510965],"type":"Point"}
 }

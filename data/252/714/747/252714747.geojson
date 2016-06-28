@@ -2,13 +2,14 @@
   "id": 252714747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.790818,39.516707,-119.790818,39.516707",
     "geom:latitude":39.516707,
     "geom:longitude":-119.790818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Cordone Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252714747,
-    "wof:lastmodified":1449005946,
+    "wof:lastmodified":1466701617,
     "wof:name":"Elynloy Home Care",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.790818,39.516707,-119.790818,39.516707],
+  "bbox": [
+    -119.790818,
+    39.516707,
+    -119.790818,
+    39.516707
+],
   "geometry": {"coordinates":[-119.790818,39.516707],"type":"Point"}
 }

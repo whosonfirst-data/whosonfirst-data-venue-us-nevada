@@ -2,13 +2,14 @@
   "id": 219349435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.484068,36.598981,-114.484068,36.598981",
     "geom:latitude":36.598981,
     "geom:longitude":-114.484068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 N Moapa Valley Blvd",
     "sg:city":"Logandale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219349435,
-    "wof:lastmodified":1449071723,
+    "wof:lastmodified":1466703395,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.484068,36.598981,-114.484068,36.598981],
-  "geometry": {"coordinates":[-114.484068,36.598981],"type":"Point"}
+  "bbox": [
+    -114.484068,
+    36.598981,
+    -114.484068,
+    36.598981
+],
+  "geometry": {"coordinates":[-114.48406799999999,36.598981],"type":"Point"}
 }

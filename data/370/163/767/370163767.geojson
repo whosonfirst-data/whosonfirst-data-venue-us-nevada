@@ -2,13 +2,14 @@
   "id": 370163767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251197,36.230398,-115.251197,36.230398",
     "geom:latitude":36.230398,
     "geom:longitude":-115.251197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7132 Yacht Landing Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370163767,
-    "wof:lastmodified":1449032392,
+    "wof:lastmodified":1466701866,
     "wof:name":"Wise Guy Bail Bonds Summerlin",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.251197,36.230398,-115.251197,36.230398],
+  "bbox": [
+    -115.251197,
+    36.230398,
+    -115.251197,
+    36.230398
+],
   "geometry": {"coordinates":[-115.251197,36.230398],"type":"Point"}
 }

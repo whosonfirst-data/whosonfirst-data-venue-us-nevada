@@ -2,13 +2,14 @@
   "id": 220120717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071173,36.014261,-115.071173,36.014261",
     "geom:latitude":36.014261,
     "geom:longitude":-115.071173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1876 Whispering Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220120717,
-    "wof:lastmodified":1449074757,
+    "wof:lastmodified":1466702538,
     "wof:name":"John P Barrett CPA",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.071173,36.014261,-115.071173,36.014261],
+  "bbox": [
+    -115.071173,
+    36.014261,
+    -115.071173,
+    36.014261
+],
   "geometry": {"coordinates":[-115.071173,36.014261],"type":"Point"}
 }

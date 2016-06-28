@@ -2,13 +2,14 @@
   "id": 219258467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.304068,36.189982,-115.304068,36.189982",
     "geom:latitude":36.189982,
     "geom:longitude":-115.304068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2075 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219258467,
-    "wof:lastmodified":1449073211,
+    "wof:lastmodified":1466702630,
     "wof:name":"Primas & Assoc Inc",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [-115.304068,36.189982,-115.304068,36.189982],
+  "bbox": [
+    -115.304068,
+    36.189982,
+    -115.304068,
+    36.189982
+],
   "geometry": {"coordinates":[-115.304068,36.189982],"type":"Point"}
 }

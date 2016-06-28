@@ -2,13 +2,14 @@
   "id": 236515141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.076766,36.223074,-115.076766,36.223074",
     "geom:latitude":36.223074,
     "geom:longitude":-115.076766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4458 Crystal Peak Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236515141,
-    "wof:lastmodified":1449002253,
+    "wof:lastmodified":1466705890,
     "wof:name":"Sven J Nilsson",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-115.076766,36.223074,-115.076766,36.223074],
-  "geometry": {"coordinates":[-115.076766,36.223074],"type":"Point"}
+  "bbox": [
+    -115.076766,
+    36.223074,
+    -115.076766,
+    36.223074
+],
+  "geometry": {"coordinates":[-115.07676600000001,36.223074],"type":"Point"}
 }

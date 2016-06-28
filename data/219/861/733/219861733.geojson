@@ -2,13 +2,14 @@
   "id": 219861733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.277491,36.159156,-115.277491,36.159156",
     "geom:latitude":36.159156,
     "geom:longitude":-115.277491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8450 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219861733,
-    "wof:lastmodified":1449073885,
+    "wof:lastmodified":1466705548,
     "wof:name":"Campbell's Custodial Svc",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.277491,36.159156,-115.277491,36.159156],
+  "bbox": [
+    -115.277491,
+    36.159156,
+    -115.277491,
+    36.159156
+],
   "geometry": {"coordinates":[-115.277491,36.159156],"type":"Point"}
 }

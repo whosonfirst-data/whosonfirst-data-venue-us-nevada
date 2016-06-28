@@ -2,13 +2,14 @@
   "id": 354234585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172791,36.111584,-115.172791,36.111584",
     "geom:latitude":36.111584,
     "geom:longitude":-115.172791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3667 S Las Vegas Blvd #325",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354234585,
-    "wof:lastmodified":1449067582,
+    "wof:lastmodified":1466705138,
     "wof:name":"Lucky Brand Jeans",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.172791,36.111584,-115.172791,36.111584],
+  "bbox": [
+    -115.172791,
+    36.111584,
+    -115.172791,
+    36.111584
+],
   "geometry": {"coordinates":[-115.172791,36.111584],"type":"Point"}
 }

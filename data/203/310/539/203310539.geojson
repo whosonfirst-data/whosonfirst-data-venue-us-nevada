@@ -2,13 +2,14 @@
   "id": 203310539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.806161,39.52571,-119.806161,39.52571",
     "geom:latitude":39.52571,
     "geom:longitude":-119.806161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203310539,
-    "wof:lastmodified":1449026107,
+    "wof:lastmodified":1466702921,
     "wof:name":"Restart Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.806161,39.52571,-119.806161,39.52571],
+  "bbox": [
+    -119.806161,
+    39.52571,
+    -119.806161,
+    39.52571
+],
   "geometry": {"coordinates":[-119.806161,39.52571],"type":"Point"}
 }

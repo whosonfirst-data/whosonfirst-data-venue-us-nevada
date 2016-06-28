@@ -2,13 +2,14 @@
   "id": 236431153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102205,36.161397,-115.102205,36.161397",
     "geom:latitude":36.161397,
     "geom:longitude":-115.102205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Spectrum Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236431153,
-    "wof:lastmodified":1449002009,
+    "wof:lastmodified":1466705408,
     "wof:name":"Hoseks Architectural Studio",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-115.102205,36.161397,-115.102205,36.161397],
+  "bbox": [
+    -115.102205,
+    36.161397,
+    -115.102205,
+    36.161397
+],
   "geometry": {"coordinates":[-115.102205,36.161397],"type":"Point"}
 }

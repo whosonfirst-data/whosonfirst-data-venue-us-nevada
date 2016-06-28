@@ -2,13 +2,14 @@
   "id": 370346063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757221,39.124897,-119.757221,39.124897",
     "geom:latitude":39.124897,
     "geom:longitude":-119.757221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 E Appion Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370346063,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1466705012,
     "wof:name":"Stay Green Tree Service",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [-119.757221,39.124897,-119.757221,39.124897],
+  "bbox": [
+    -119.757221,
+    39.124897,
+    -119.757221,
+    39.124897
+],
   "geometry": {"coordinates":[-119.757221,39.124897],"type":"Point"}
 }

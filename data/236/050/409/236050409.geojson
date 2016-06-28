@@ -2,13 +2,14 @@
   "id": 236050409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116449,36.227558,-115.116449,36.227558",
     "geom:latitude":36.227558,
     "geom:longitude":-115.116449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3744 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236050409,
-    "wof:lastmodified":1449003480,
+    "wof:lastmodified":1466703968,
     "wof:name":"Advanced Cyber Solutions Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cable"
     ]
 },
-  "bbox": [-115.116449,36.227558,-115.116449,36.227558],
+  "bbox": [
+    -115.116449,
+    36.227558,
+    -115.116449,
+    36.227558
+],
   "geometry": {"coordinates":[-115.116449,36.227558],"type":"Point"}
 }

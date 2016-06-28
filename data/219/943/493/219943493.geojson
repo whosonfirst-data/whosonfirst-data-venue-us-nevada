@@ -2,13 +2,14 @@
   "id": 219943493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.837157,35.978204,-114.837157,35.978204",
     "geom:latitude":35.978204,
     "geom:longitude":-114.837157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219943493,
-    "wof:lastmodified":1449071333,
+    "wof:lastmodified":1466705856,
     "wof:name":"Boulder City Chamber Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commerce"
     ]
 },
-  "bbox": [-114.837157,35.978204,-114.837157,35.978204],
+  "bbox": [
+    -114.837157,
+    35.978204,
+    -114.837157,
+    35.978204
+],
   "geometry": {"coordinates":[-114.837157,35.978204],"type":"Point"}
 }

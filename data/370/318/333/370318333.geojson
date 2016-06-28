@@ -2,13 +2,14 @@
   "id": 370318333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781132,39.505874,-119.781132,39.505874",
     "geom:latitude":39.505874,
     "geom:longitude":-119.781132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 E Plumb Ln",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":370318333,
-    "wof:lastmodified":1449029846,
+    "wof:lastmodified":1466704710,
     "wof:name":"Service West",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.781132,39.505874,-119.781132,39.505874],
+  "bbox": [
+    -119.781132,
+    39.505874,
+    -119.781132,
+    39.505874
+],
   "geometry": {"coordinates":[-119.781132,39.505874],"type":"Point"}
 }

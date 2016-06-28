@@ -2,13 +2,14 @@
   "id": 236718277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.719874,39.630663,-119.719874,39.630663",
     "geom:latitude":39.630663,
     "geom:longitude":-119.719874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Spring Mountain Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236718277,
-    "wof:lastmodified":1449002209,
+    "wof:lastmodified":1466706502,
     "wof:name":"Advantage Inspection Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-119.719874,39.630663,-119.719874,39.630663],
+  "bbox": [
+    -119.719874,
+    39.630663,
+    -119.719874,
+    39.630663
+],
   "geometry": {"coordinates":[-119.719874,39.630663],"type":"Point"}
 }

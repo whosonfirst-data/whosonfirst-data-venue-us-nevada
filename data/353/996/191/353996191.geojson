@@ -2,13 +2,14 @@
   "id": 353996191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086929,36.070219,-115.086929,36.070219",
     "geom:latitude":36.070219,
     "geom:longitude":-115.086929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6531 Annie Oakley Drive",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353996191,
-    "wof:lastmodified":1449018950,
+    "wof:lastmodified":1466701755,
     "wof:name":"Creative Kids Learning Center",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-115.086929,36.070219,-115.086929,36.070219],
+  "bbox": [
+    -115.086929,
+    36.070219,
+    -115.086929,
+    36.070219
+],
   "geometry": {"coordinates":[-115.086929,36.070219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219609509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.688609,39.632419,-119.688609,39.632419",
     "geom:latitude":39.632419,
     "geom:longitude":-119.688609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 Rama Ct",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219609509,
-    "wof:lastmodified":1449071698,
+    "wof:lastmodified":1466703083,
     "wof:name":"Northern Nev Document Signing",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.688609,39.632419,-119.688609,39.632419],
+  "bbox": [
+    -119.688609,
+    39.632419,
+    -119.688609,
+    39.632419
+],
   "geometry": {"coordinates":[-119.688609,39.632419],"type":"Point"}
 }

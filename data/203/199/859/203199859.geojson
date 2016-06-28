@@ -2,13 +2,14 @@
   "id": 203199859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.151492,39.582262,-119.151492,39.582262",
     "geom:latitude":39.582262,
     "geom:longitude":-119.151492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 Farm District Rd",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203199859,
-    "wof:lastmodified":1449025131,
+    "wof:lastmodified":1466702051,
     "wof:name":"Crossroads Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.151492,39.582262,-119.151492,39.582262],
+  "bbox": [
+    -119.151492,
+    39.582262,
+    -119.151492,
+    39.582262
+],
   "geometry": {"coordinates":[-119.151492,39.582262],"type":"Point"}
 }

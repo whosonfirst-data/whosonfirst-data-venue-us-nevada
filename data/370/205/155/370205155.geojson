@@ -2,13 +2,14 @@
   "id": 370205155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243063,36.050332,-115.243063,36.050332",
     "geom:latitude":36.050332,
     "geom:longitude":-115.243063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7537 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370205155,
-    "wof:lastmodified":1449031129,
+    "wof:lastmodified":1466702647,
     "wof:name":"Pacific Tan",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.243063,36.050332,-115.243063,36.050332],
-  "geometry": {"coordinates":[-115.243063,36.050332],"type":"Point"}
+  "bbox": [
+    -115.243063,
+    36.050332,
+    -115.243063,
+    36.050332
+],
+  "geometry": {"coordinates":[-115.24306300000001,36.050332],"type":"Point"}
 }

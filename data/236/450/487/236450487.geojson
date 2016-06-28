@@ -2,13 +2,14 @@
   "id": 236450487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255181,36.189859,-115.255181,36.189859",
     "geom:latitude":36.189859,
     "geom:longitude":-115.255181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1633 Olive Palm Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236450487,
-    "wof:lastmodified":1449004641,
+    "wof:lastmodified":1466705709,
     "wof:name":"Leisure Time Sports & Apparel",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "order"
     ]
 },
-  "bbox": [-115.255181,36.189859,-115.255181,36.189859],
-  "geometry": {"coordinates":[-115.255181,36.189859],"type":"Point"}
+  "bbox": [
+    -115.255181,
+    36.189859,
+    -115.255181,
+    36.189859
+],
+  "geometry": {"coordinates":[-115.25518099999999,36.189859],"type":"Point"}
 }

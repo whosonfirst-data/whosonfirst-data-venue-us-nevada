@@ -2,13 +2,14 @@
   "id": 219242119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.247324,36.143698,-115.247324,36.143698",
     "geom:latitude":36.143698,
     "geom:longitude":-115.247324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 Montessouri St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219242119,
-    "wof:lastmodified":1449073506,
+    "wof:lastmodified":1466702478,
     "wof:name":"Red Rock Guidance Ctr",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-115.247324,36.143698,-115.247324,36.143698],
-  "geometry": {"coordinates":[-115.247324,36.143698],"type":"Point"}
+  "bbox": [
+    -115.247324,
+    36.143698,
+    -115.247324,
+    36.143698
+],
+  "geometry": {"coordinates":[-115.24732400000001,36.143698],"type":"Point"}
 }

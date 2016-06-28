@@ -2,13 +2,14 @@
   "id": 219516929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.856226,35.97178,-114.856226,35.97178",
     "geom:latitude":35.97178,
     "geom:longitude":-114.856226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Foothill Dr",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219516929,
-    "wof:lastmodified":1449071067,
+    "wof:lastmodified":1466701601,
     "wof:name":"Ramm It Compaction Specialist",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.856226,35.97178,-114.856226,35.97178],
-  "geometry": {"coordinates":[-114.856226,35.97178],"type":"Point"}
+  "bbox": [
+    -114.856226,
+    35.97178,
+    -114.856226,
+    35.97178
+],
+  "geometry": {"coordinates":[-114.85622600000001,35.97178],"type":"Point"}
 }

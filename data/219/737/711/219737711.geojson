@@ -2,13 +2,14 @@
   "id": 219737711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.237269,39.400088,-119.237269,39.400088",
     "geom:latitude":39.400088,
     "geom:longitude":-119.237269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Cypress St",
     "sg:city":"Silver Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219737711,
-    "wof:lastmodified":1449071189,
+    "wof:lastmodified":1466704664,
     "wof:name":"Richard Johnson Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.237269,39.400088,-119.237269,39.400088],
+  "bbox": [
+    -119.237269,
+    39.400088,
+    -119.237269,
+    39.400088
+],
   "geometry": {"coordinates":[-119.237269,39.400088],"type":"Point"}
 }

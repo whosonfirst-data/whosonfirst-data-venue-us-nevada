@@ -2,13 +2,14 @@
   "id": 370206753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199147,36.042241,-115.199147,36.042241",
     "geom:latitude":36.042241,
     "geom:longitude":-115.199147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8175 Arville Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370206753,
-    "wof:lastmodified":1449031374,
+    "wof:lastmodified":1466702694,
     "wof:name":"Las Vegas Motor Coach Resort",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.199147,36.042241,-115.199147,36.042241],
+  "bbox": [
+    -115.199147,
+    36.042241,
+    -115.199147,
+    36.042241
+],
   "geometry": {"coordinates":[-115.199147,36.042241],"type":"Point"}
 }

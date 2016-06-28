@@ -2,13 +2,14 @@
   "id": 219645033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.880695,39.521516,-119.880695,39.521516",
     "geom:latitude":39.521516,
     "geom:longitude":-119.880695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 Bankside Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219645033,
-    "wof:lastmodified":1449070741,
+    "wof:lastmodified":1466703728,
     "wof:name":"Party Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-119.880695,39.521516,-119.880695,39.521516],
+  "bbox": [
+    -119.880695,
+    39.521516,
+    -119.880695,
+    39.521516
+],
   "geometry": {"coordinates":[-119.880695,39.521516],"type":"Point"}
 }

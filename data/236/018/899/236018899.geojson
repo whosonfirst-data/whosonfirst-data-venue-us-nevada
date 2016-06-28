@@ -2,13 +2,14 @@
   "id": 236018899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.804836,39.535682,-119.804836,39.535682",
     "geom:latitude":39.535682,
     "geom:longitude":-119.804836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Eureka Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236018899,
-    "wof:lastmodified":1449003264,
+    "wof:lastmodified":1466703855,
     "wof:name":"Charlotte Hunter Arley",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.804836,39.535682,-119.804836,39.535682],
-  "geometry": {"coordinates":[-119.804836,39.535682],"type":"Point"}
+  "bbox": [
+    -119.804836,
+    39.535682,
+    -119.804836,
+    39.535682
+],
+  "geometry": {"coordinates":[-119.80483599999999,39.535682],"type":"Point"}
 }

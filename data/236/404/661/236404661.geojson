@@ -2,13 +2,14 @@
   "id": 236404661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747367,39.556889,-119.747367,39.556889",
     "geom:latitude":39.556889,
     "geom:longitude":-119.747367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Lenwood Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236404661,
-    "wof:lastmodified":1449003922,
+    "wof:lastmodified":1466705384,
     "wof:name":"Dirt Patrol",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.747367,39.556889,-119.747367,39.556889],
+  "bbox": [
+    -119.747367,
+    39.556889,
+    -119.747367,
+    39.556889
+],
   "geometry": {"coordinates":[-119.747367,39.556889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219995601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.297401,36.096189,-115.297401,36.096189",
     "geom:latitude":36.096189,
     "geom:longitude":-115.297401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5035 S Fort Apache Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219995601,
-    "wof:lastmodified":1449073529,
+    "wof:lastmodified":1466706089,
     "wof:name":"Kpro LLC",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.297401,36.096189,-115.297401,36.096189],
-  "geometry": {"coordinates":[-115.297401,36.096189],"type":"Point"}
+  "bbox": [
+    -115.297401,
+    36.096189,
+    -115.297401,
+    36.096189
+],
+  "geometry": {"coordinates":[-115.29740099999999,36.096189],"type":"Point"}
 }

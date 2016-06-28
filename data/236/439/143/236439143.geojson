@@ -2,13 +2,14 @@
   "id": 236439143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238953,36.046298,-115.238953,36.046298",
     "geom:latitude":36.046298,
     "geom:longitude":-115.238953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7825 Tidal Pool Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236439143,
-    "wof:lastmodified":1449002377,
+    "wof:lastmodified":1466705554,
     "wof:name":"Royal Masters",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.238953,36.046298,-115.238953,36.046298],
+  "bbox": [
+    -115.238953,
+    36.046298,
+    -115.238953,
+    36.046298
+],
   "geometry": {"coordinates":[-115.238953,36.046298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236445185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136588,36.169078,-115.136588,36.169078",
     "geom:latitude":36.169078,
     "geom:longitude":-115.136588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 E Ogden Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236445185,
-    "wof:lastmodified":1449002006,
+    "wof:lastmodified":1466705572,
     "wof:name":"Health Express",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-115.136588,36.169078,-115.136588,36.169078],
+  "bbox": [
+    -115.136588,
+    36.169078,
+    -115.136588,
+    36.169078
+],
   "geometry": {"coordinates":[-115.136588,36.169078],"type":"Point"}
 }

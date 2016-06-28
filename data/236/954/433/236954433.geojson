@@ -2,13 +2,14 @@
   "id": 236954433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.784586,40.837554,-115.784586,40.837554",
     "geom:latitude":40.837554,
     "geom:longitude":-115.784586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Spruce Rd",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236954433,
-    "wof:lastmodified":1449004736,
+    "wof:lastmodified":1466706936,
     "wof:name":"Lodging Enterprises",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.784586,40.837554,-115.784586,40.837554],
+  "bbox": [
+    -115.784586,
+    40.837554,
+    -115.784586,
+    40.837554
+],
   "geometry": {"coordinates":[-115.784586,40.837554],"type":"Point"}
 }

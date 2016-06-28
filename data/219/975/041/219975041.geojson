@@ -2,13 +2,14 @@
   "id": 219975041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813826,39.477403,-119.813826,39.477403",
     "geom:latitude":39.477403,
     "geom:longitude":-119.813826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 E Lakeridge Ter",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219975041,
-    "wof:lastmodified":1449073426,
+    "wof:lastmodified":1466706072,
     "wof:name":"Richter Lacy Bell CSB",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.813826,39.477403,-119.813826,39.477403],
-  "geometry": {"coordinates":[-119.813826,39.477403],"type":"Point"}
+  "bbox": [
+    -119.813826,
+    39.477403,
+    -119.813826,
+    39.477403
+],
+  "geometry": {"coordinates":[-119.81382600000001,39.477403],"type":"Point"}
 }

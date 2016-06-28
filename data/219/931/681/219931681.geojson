@@ -2,13 +2,14 @@
   "id": 219931681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752095,39.161242,-119.752095,39.161242",
     "geom:latitude":39.161242,
     "geom:longitude":-119.752095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 E 5th St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219931681,
-    "wof:lastmodified":1449073603,
+    "wof:lastmodified":1466705947,
     "wof:name":"Community Council On Youth",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prevention"
     ]
 },
-  "bbox": [-119.752095,39.161242,-119.752095,39.161242],
+  "bbox": [
+    -119.752095,
+    39.161242,
+    -119.752095,
+    39.161242
+],
   "geometry": {"coordinates":[-119.752095,39.161242],"type":"Point"}
 }

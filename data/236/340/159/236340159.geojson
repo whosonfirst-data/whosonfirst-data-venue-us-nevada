@@ -2,13 +2,14 @@
   "id": 236340159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.089202,36.168831,-115.089202,36.168831",
     "geom:latitude":36.168831,
     "geom:longitude":-115.089202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Sandhill Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236340159,
-    "wof:lastmodified":1449004339,
+    "wof:lastmodified":1466704966,
     "wof:name":"Catagnus & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-115.089202,36.168831,-115.089202,36.168831],
+  "bbox": [
+    -115.089202,
+    36.168831,
+    -115.089202,
+    36.168831
+],
   "geometry": {"coordinates":[-115.089202,36.168831],"type":"Point"}
 }

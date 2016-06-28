@@ -2,13 +2,14 @@
   "id": 236005397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.729934,38.930454,-119.729934,38.930454",
     "geom:latitude":38.930454,
     "geom:longitude":-119.729934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Industrial Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236005397,
-    "wof:lastmodified":1449004928,
+    "wof:lastmodified":1466703783,
     "wof:name":"Reid Dental Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-119.729934,38.930454,-119.729934,38.930454],
+  "bbox": [
+    -119.729934,
+    38.930454,
+    -119.729934,
+    38.930454
+],
   "geometry": {"coordinates":[-119.729934,38.930454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236456347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168152,36.213867,-115.168152,36.213867",
     "geom:latitude":36.213867,
     "geom:longitude":-115.168152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 W Brooks Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236456347,
-    "wof:lastmodified":1449002460,
+    "wof:lastmodified":1466705614,
     "wof:name":"Break-Em Excavation",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.168152,36.213867,-115.168152,36.213867],
-  "geometry": {"coordinates":[-115.168152,36.213867],"type":"Point"}
+  "bbox": [
+    -115.168152,
+    36.213867,
+    -115.168152,
+    36.213867
+],
+  "geometry": {"coordinates":[-115.16815200000001,36.213867],"type":"Point"}
 }

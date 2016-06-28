@@ -2,13 +2,14 @@
   "id": 219231539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761304,39.523302,-119.761304,39.523302",
     "geom:latitude":39.523302,
     "geom:longitude":-119.761304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 Greg St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219231539,
-    "wof:lastmodified":1449072190,
+    "wof:lastmodified":1466702306,
     "wof:name":"Air America Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.761304,39.523302,-119.761304,39.523302],
+  "bbox": [
+    -119.761304,
+    39.523302,
+    -119.761304,
+    39.523302
+],
   "geometry": {"coordinates":[-119.761304,39.523302],"type":"Point"}
 }

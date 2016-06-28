@@ -2,13 +2,14 @@
   "id": 219397103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789081,39.492934,-119.789081,39.492934",
     "geom:latitude":39.492934,
     "geom:longitude":-119.789081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219397103,
-    "wof:lastmodified":1449071793,
+    "wof:lastmodified":1466704248,
     "wof:name":"Car-Tunes",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-119.789081,39.492934,-119.789081,39.492934],
+  "bbox": [
+    -119.789081,
+    39.492934,
+    -119.789081,
+    39.492934
+],
   "geometry": {"coordinates":[-119.789081,39.492934],"type":"Point"}
 }

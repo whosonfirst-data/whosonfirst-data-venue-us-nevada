@@ -2,13 +2,14 @@
   "id": 354330397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.261316,36.181942,-115.261316,36.181942",
     "geom:latitude":36.181942,
     "geom:longitude":-115.261316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6965 Rainbow Blvd Ste 105",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":354330397,
-    "wof:lastmodified":1449066779,
+    "wof:lastmodified":1466705899,
     "wof:name":"Hazels Chair At Pigtails And Pompadours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.261316,36.181942,-115.261316,36.181942],
-  "geometry": {"coordinates":[-115.261316,36.181942],"type":"Point"}
+  "bbox": [
+    -115.261316,
+    36.181942,
+    -115.261316,
+    36.181942
+],
+  "geometry": {"coordinates":[-115.26131599999999,36.181942],"type":"Point"}
 }

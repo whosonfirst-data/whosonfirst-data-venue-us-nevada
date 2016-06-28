@@ -2,13 +2,14 @@
   "id": 354176267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.151233,36.152652,-115.151233,36.152652",
     "geom:latitude":36.152652,
     "geom:longitude":-115.151233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354176267,
-    "wof:lastmodified":1449067086,
+    "wof:lastmodified":1466704883,
     "wof:name":"Lv Ink Inc",
     "wof:parent_id":85892665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.151233,36.152652,-115.151233,36.152652],
+  "bbox": [
+    -115.151233,
+    36.152652,
+    -115.151233,
+    36.152652
+],
   "geometry": {"coordinates":[-115.151233,36.152652],"type":"Point"}
 }

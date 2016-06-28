@@ -2,13 +2,14 @@
   "id": 236417395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248531,36.15904,-115.248531,36.15904",
     "geom:latitude":36.15904,
     "geom:longitude":-115.248531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7185 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236417395,
-    "wof:lastmodified":1449002918,
+    "wof:lastmodified":1466705443,
     "wof:name":"Scottie's Food Products",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-115.248531,36.15904,-115.248531,36.15904],
+  "bbox": [
+    -115.248531,
+    36.15904,
+    -115.248531,
+    36.15904
+],
   "geometry": {"coordinates":[-115.248531,36.15904],"type":"Point"}
 }

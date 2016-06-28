@@ -2,13 +2,14 @@
   "id": 236546521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.760476,39.133764,-119.760476,39.133764",
     "geom:latitude":39.133764,
     "geom:longitude":-119.760476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"779 Koontz Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236546521,
-    "wof:lastmodified":1449001673,
+    "wof:lastmodified":1466705914,
     "wof:name":"Migs Handyman",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.760476,39.133764,-119.760476,39.133764],
+  "bbox": [
+    -119.760476,
+    39.133764,
+    -119.760476,
+    39.133764
+],
   "geometry": {"coordinates":[-119.760476,39.133764],"type":"Point"}
 }

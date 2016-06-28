@@ -2,13 +2,14 @@
   "id": 236316909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119226,36.11209,-115.119226,36.11209",
     "geom:latitude":36.11209,
     "geom:longitude":-115.119226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4161 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236316909,
-    "wof:lastmodified":1449003973,
+    "wof:lastmodified":1466704824,
     "wof:name":"Clinica Santa Maria",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-115.119226,36.11209,-115.119226,36.11209],
+  "bbox": [
+    -115.119226,
+    36.11209,
+    -115.119226,
+    36.11209
+],
   "geometry": {"coordinates":[-115.119226,36.11209],"type":"Point"}
 }

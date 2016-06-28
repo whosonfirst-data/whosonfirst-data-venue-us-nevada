@@ -2,13 +2,14 @@
   "id": 219774965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.073202,36.07815,-115.073202,36.07815",
     "geom:latitude":36.07815,
     "geom:longitude":-115.073202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1999 Whitney Mesa Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219774965,
-    "wof:lastmodified":1449071760,
+    "wof:lastmodified":1466705042,
     "wof:name":"All American Designers",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "deck"
     ]
 },
-  "bbox": [-115.073202,36.07815,-115.073202,36.07815],
-  "geometry": {"coordinates":[-115.073202,36.07815],"type":"Point"}
+  "bbox": [
+    -115.073202,
+    36.07815,
+    -115.073202,
+    36.07815
+],
+  "geometry": {"coordinates":[-115.07320199999999,36.07815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236844273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766669,39.557099,-119.766669,39.557099",
     "geom:latitude":39.557099,
     "geom:longitude":-119.766669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4255 Wedekind Rd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236844273,
-    "wof:lastmodified":1449002993,
+    "wof:lastmodified":1466706713,
     "wof:name":"Village At Wildcreek",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "luxury"
     ]
 },
-  "bbox": [-119.766669,39.557099,-119.766669,39.557099],
-  "geometry": {"coordinates":[-119.766669,39.557099],"type":"Point"}
+  "bbox": [
+    -119.766669,
+    39.557099,
+    -119.766669,
+    39.557099
+],
+  "geometry": {"coordinates":[-119.76666899999999,39.557099],"type":"Point"}
 }

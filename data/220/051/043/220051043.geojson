@@ -2,13 +2,14 @@
   "id": 220051043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.821128,39.95937,-119.821128,39.95937",
     "geom:latitude":39.95937,
     "geom:longitude":-119.821128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15000 Winnemucca Ranch Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220051043,
-    "wof:lastmodified":1449074534,
+    "wof:lastmodified":1466702039,
     "wof:name":"Air Sailing Glider Port",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.821128,39.95937,-119.821128,39.95937],
+  "bbox": [
+    -119.821128,
+    39.95937,
+    -119.821128,
+    39.95937
+],
   "geometry": {"coordinates":[-119.821128,39.95937],"type":"Point"}
 }

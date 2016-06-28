@@ -2,13 +2,14 @@
   "id": 236183213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.69951,39.187893,-119.69951,39.187893",
     "geom:latitude":39.187893,
     "geom:longitude":-119.69951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5835 Sheep Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236183213,
-    "wof:lastmodified":1449003423,
+    "wof:lastmodified":1466703243,
     "wof:name":"Champion Water Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-119.69951,39.187893,-119.69951,39.187893],
+  "bbox": [
+    -119.69951,
+    39.187893,
+    -119.69951,
+    39.187893
+],
   "geometry": {"coordinates":[-119.69951,39.187893],"type":"Point"}
 }

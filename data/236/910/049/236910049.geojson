@@ -2,13 +2,14 @@
   "id": 236910049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.829828,35.969016,-114.829828,35.969016",
     "geom:latitude":35.969016,
     "geom:longitude":-114.829828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Adams Blvd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236910049,
-    "wof:lastmodified":1449002953,
+    "wof:lastmodified":1466706910,
     "wof:name":"ABC Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-114.829828,35.969016,-114.829828,35.969016],
-  "geometry": {"coordinates":[-114.829828,35.969016],"type":"Point"}
+  "bbox": [
+    -114.829828,
+    35.969016,
+    -114.829828,
+    35.969016
+],
+  "geometry": {"coordinates":[-114.82982800000001,35.969016],"type":"Point"}
 }

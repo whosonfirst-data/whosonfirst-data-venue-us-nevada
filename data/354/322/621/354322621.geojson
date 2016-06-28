@@ -2,13 +2,14 @@
   "id": 354322621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184795,36.084851,-115.184795,36.084851",
     "geom:latitude":36.084851,
     "geom:longitude":-115.184795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354322621,
-    "wof:lastmodified":1449065914,
+    "wof:lastmodified":1466705868,
     "wof:name":"Holiday Inn Express Hotel Las Vegas - South",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.184795,36.084851,-115.184795,36.084851],
-  "geometry": {"coordinates":[-115.184795,36.084851],"type":"Point"}
+  "bbox": [
+    -115.184795,
+    36.084851,
+    -115.184795,
+    36.084851
+],
+  "geometry": {"coordinates":[-115.18479499999999,36.084851],"type":"Point"}
 }

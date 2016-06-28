@@ -2,13 +2,14 @@
   "id": 203301397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283402,36.137989,-115.283402,36.137989",
     "geom:latitude":36.137989,
     "geom:longitude":-115.283402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3048 Yankee Clipper Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203301397,
-    "wof:lastmodified":1449025401,
+    "wof:lastmodified":1466702830,
     "wof:name":"Las Vegas Jobs Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-115.283402,36.137989,-115.283402,36.137989],
+  "bbox": [
+    -115.283402,
+    36.137989,
+    -115.283402,
+    36.137989
+],
   "geometry": {"coordinates":[-115.283402,36.137989],"type":"Point"}
 }

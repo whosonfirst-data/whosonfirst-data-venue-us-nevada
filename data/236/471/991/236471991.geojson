@@ -2,13 +2,14 @@
   "id": 236471991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190735,36.084418,-115.190735,36.084418",
     "geom:latitude":36.084418,
     "geom:longitude":-115.190735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4045 W Quail Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236471991,
-    "wof:lastmodified":1449002887,
+    "wof:lastmodified":1466705828,
     "wof:name":"Canyon Ridge Communications",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "pager"
     ]
 },
-  "bbox": [-115.190735,36.084418,-115.190735,36.084418],
+  "bbox": [
+    -115.190735,
+    36.084418,
+    -115.190735,
+    36.084418
+],
   "geometry": {"coordinates":[-115.190735,36.084418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236056459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122827,36.119696,-115.122827,36.119696",
     "geom:latitude":36.119696,
     "geom:longitude":-115.122827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2076 Mohigan Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236056459,
-    "wof:lastmodified":1449002416,
+    "wof:lastmodified":1466703984,
     "wof:name":"Best Rock",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rock"
     ]
 },
-  "bbox": [-115.122827,36.119696,-115.122827,36.119696],
+  "bbox": [
+    -115.122827,
+    36.119696,
+    -115.122827,
+    36.119696
+],
   "geometry": {"coordinates":[-115.122827,36.119696],"type":"Point"}
 }

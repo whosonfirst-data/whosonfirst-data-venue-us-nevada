@@ -2,13 +2,14 @@
   "id": 236268109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.673866,39.218078,-119.673866,39.218078",
     "geom:latitude":39.218078,
     "geom:longitude":-119.673866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Red Rock Rd",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236268109,
-    "wof:lastmodified":1449003539,
+    "wof:lastmodified":1466704476,
     "wof:name":"Aero Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-119.673866,39.218078,-119.673866,39.218078],
+  "bbox": [
+    -119.673866,
+    39.218078,
+    -119.673866,
+    39.218078
+],
   "geometry": {"coordinates":[-119.673866,39.218078],"type":"Point"}
 }

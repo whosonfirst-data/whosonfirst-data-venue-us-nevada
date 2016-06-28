@@ -2,13 +2,14 @@
   "id": 236330075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.324782,36.242816,-115.324782,36.242816",
     "geom:latitude":36.242816,
     "geom:longitude":-115.324782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4536 Yellow Harbor St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236330075,
-    "wof:lastmodified":1449003266,
+    "wof:lastmodified":1466704903,
     "wof:name":"Randi Orzoff",
     "wof:parent_id":85892689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-115.324782,36.242816,-115.324782,36.242816],
+  "bbox": [
+    -115.324782,
+    36.242816,
+    -115.324782,
+    36.242816
+],
   "geometry": {"coordinates":[-115.324782,36.242816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219204923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072021,36.027207,-115.072021,36.027207",
     "geom:latitude":36.027207,
     "geom:longitude":-115.072021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Tarryall Ter",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219204923,
-    "wof:lastmodified":1449074036,
+    "wof:lastmodified":1466702109,
     "wof:name":"L T D Builders",
     "wof:parent_id":85878087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.072021,36.027207,-115.072021,36.027207],
-  "geometry": {"coordinates":[-115.072021,36.027207],"type":"Point"}
+  "bbox": [
+    -115.072021,
+    36.027207,
+    -115.072021,
+    36.027207
+],
+  "geometry": {"coordinates":[-115.07202100000001,36.027207],"type":"Point"}
 }

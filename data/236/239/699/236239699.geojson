@@ -2,13 +2,14 @@
   "id": 236239699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.716392,39.525866,-119.716392,39.525866",
     "geom:latitude":39.525866,
     "geom:longitude":-119.716392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Kleppe Ln",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236239699,
-    "wof:lastmodified":1449001913,
+    "wof:lastmodified":1466704325,
     "wof:name":"Sierra Converting Corporation",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "converter"
     ]
 },
-  "bbox": [-119.716392,39.525866,-119.716392,39.525866],
+  "bbox": [
+    -119.716392,
+    39.525866,
+    -119.716392,
+    39.525866
+],
   "geometry": {"coordinates":[-119.716392,39.525866],"type":"Point"}
 }

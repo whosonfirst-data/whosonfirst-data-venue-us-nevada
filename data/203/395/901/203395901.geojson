@@ -2,13 +2,14 @@
   "id": 203395901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.824949,35.997684,-114.824949,35.997684",
     "geom:latitude":35.997684,
     "geom:longitude":-114.824949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Sea Breeze Ln",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203395901,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466703315,
     "wof:name":"Patrick Nash Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.824949,35.997684,-114.824949,35.997684],
+  "bbox": [
+    -114.824949,
+    35.997684,
+    -114.824949,
+    35.997684
+],
   "geometry": {"coordinates":[-114.824949,35.997684],"type":"Point"}
 }

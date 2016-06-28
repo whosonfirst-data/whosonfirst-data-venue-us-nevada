@@ -2,13 +2,14 @@
   "id": 370243807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242749,36.141218,-115.242749,36.141218",
     "geom:latitude":36.141218,
     "geom:longitude":-115.242749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370243807,
-    "wof:lastmodified":1449030192,
+    "wof:lastmodified":1466703546,
     "wof:name":"The Realty Group Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.242749,36.141218,-115.242749,36.141218],
+  "bbox": [
+    -115.242749,
+    36.141218,
+    -115.242749,
+    36.141218
+],
   "geometry": {"coordinates":[-115.242749,36.141218],"type":"Point"}
 }

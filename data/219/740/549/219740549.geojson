@@ -2,13 +2,14 @@
   "id": 219740549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.03521,36.036202,-115.03521,36.036202",
     "geom:latitude":36.036202,
     "geom:longitude":-115.03521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Corporate Park Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219740549,
-    "wof:lastmodified":1449071996,
+    "wof:lastmodified":1466704548,
     "wof:name":"Shower Sealer Inc",
     "wof:parent_id":85892621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-115.03521,36.036202,-115.03521,36.036202],
-  "geometry": {"coordinates":[-115.03521,36.036202],"type":"Point"}
+  "bbox": [
+    -115.03521,
+    36.036202,
+    -115.03521,
+    36.036202
+],
+  "geometry": {"coordinates":[-115.03521000000001,36.036202],"type":"Point"}
 }

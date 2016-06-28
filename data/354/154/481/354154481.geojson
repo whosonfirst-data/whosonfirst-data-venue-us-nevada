@@ -2,13 +2,14 @@
   "id": 354154481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211221,36.108986,-115.211221,36.108986",
     "geom:latitude":36.108986,
     "geom:longitude":-115.211221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5141 Indian River Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354154481,
-    "wof:lastmodified":1449067683,
+    "wof:lastmodified":1466704842,
     "wof:name":"The Pointes",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.211221,36.108986,-115.211221,36.108986],
-  "geometry": {"coordinates":[-115.211221,36.108986],"type":"Point"}
+  "bbox": [
+    -115.211221,
+    36.108986,
+    -115.211221,
+    36.108986
+],
+  "geometry": {"coordinates":[-115.21122099999999,36.108986],"type":"Point"}
 }

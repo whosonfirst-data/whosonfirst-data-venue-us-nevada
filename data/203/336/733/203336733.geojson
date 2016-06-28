@@ -2,13 +2,14 @@
   "id": 203336733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.005041,36.057163,-115.005041,36.057163",
     "geom:latitude":36.057163,
     "geom:longitude":-115.005041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Max Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203336733,
-    "wof:lastmodified":1449024907,
+    "wof:lastmodified":1466703077,
     "wof:name":"R J Equipment Repair",
     "wof:parent_id":85878107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-115.005041,36.057163,-115.005041,36.057163],
-  "geometry": {"coordinates":[-115.005041,36.057163],"type":"Point"}
+  "bbox": [
+    -115.005041,
+    36.057163,
+    -115.005041,
+    36.057163
+],
+  "geometry": {"coordinates":[-115.00504100000001,36.057163],"type":"Point"}
 }

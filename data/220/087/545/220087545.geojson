@@ -2,13 +2,14 @@
   "id": 220087545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.720057,38.906166,-119.720057,38.906166",
     "geom:latitude":38.906166,
     "geom:longitude":-119.720057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Meadow View Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220087545,
-    "wof:lastmodified":1449074389,
+    "wof:lastmodified":1466702309,
     "wof:name":"Servantes Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-119.720057,38.906166,-119.720057,38.906166],
+  "bbox": [
+    -119.720057,
+    38.906166,
+    -119.720057,
+    38.906166
+],
   "geometry": {"coordinates":[-119.720057,38.906166],"type":"Point"}
 }

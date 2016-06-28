@@ -2,13 +2,14 @@
   "id": 203413551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.750492,39.137722,-119.750492,39.137722",
     "geom:latitude":39.137722,
     "geom:longitude":-119.750492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 Halleck Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203413551,
-    "wof:lastmodified":1449025229,
+    "wof:lastmodified":1466703377,
     "wof:name":"Softeck Services",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.750492,39.137722,-119.750492,39.137722],
-  "geometry": {"coordinates":[-119.750492,39.137722],"type":"Point"}
+  "bbox": [
+    -119.750492,
+    39.137722,
+    -119.750492,
+    39.137722
+],
+  "geometry": {"coordinates":[-119.75049199999999,39.137722],"type":"Point"}
 }

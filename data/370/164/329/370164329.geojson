@@ -2,13 +2,14 @@
   "id": 370164329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284609,36.218686,-115.284609,36.218686",
     "geom:latitude":36.218686,
     "geom:longitude":-115.284609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8670 W Cheyenne Ave Ste 205",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370164329,
-    "wof:lastmodified":1449029489,
+    "wof:lastmodified":1466701878,
     "wof:name":"Van Dyke Robert J DDS",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.284609,36.218686,-115.284609,36.218686],
+  "bbox": [
+    -115.284609,
+    36.218686,
+    -115.284609,
+    36.218686
+],
   "geometry": {"coordinates":[-115.284609,36.218686],"type":"Point"}
 }

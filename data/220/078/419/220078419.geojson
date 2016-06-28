@@ -2,13 +2,14 @@
   "id": 220078419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.707198,39.640909,-119.707198,39.640909",
     "geom:latitude":39.640909,
     "geom:longitude":-119.707198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Rockwell Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220078419,
-    "wof:lastmodified":1449074748,
+    "wof:lastmodified":1466702255,
     "wof:name":"Faddisphere",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-119.707198,39.640909,-119.707198,39.640909],
-  "geometry": {"coordinates":[-119.707198,39.640909],"type":"Point"}
+  "bbox": [
+    -119.707198,
+    39.640909,
+    -119.707198,
+    39.640909
+],
+  "geometry": {"coordinates":[-119.70719800000001,39.640909],"type":"Point"}
 }

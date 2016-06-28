@@ -2,13 +2,14 @@
   "id": 354016209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.994013,36.036189,-114.994013,36.036189",
     "geom:latitude":36.036189,
     "geom:longitude":-114.994013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 W Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354016209,
-    "wof:lastmodified":1449066234,
+    "wof:lastmodified":1466701913,
     "wof:name":"PetSmart",
     "wof:parent_id":85878131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sitting"
     ]
 },
-  "bbox": [-114.994013,36.036189,-114.994013,36.036189],
+  "bbox": [
+    -114.994013,
+    36.036189,
+    -114.994013,
+    36.036189
+],
   "geometry": {"coordinates":[-114.994013,36.036189],"type":"Point"}
 }

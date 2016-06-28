@@ -2,13 +2,14 @@
   "id": 219294879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.753546,39.351079,-118.753546,39.351079",
     "geom:latitude":39.351079,
     "geom:longitude":-118.753546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9295 Pasture Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219294879,
-    "wof:lastmodified":1449072911,
+    "wof:lastmodified":1466703040,
     "wof:name":"Charlie O Whitaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-118.753546,39.351079,-118.753546,39.351079],
+  "bbox": [
+    -118.753546,
+    39.351079,
+    -118.753546,
+    39.351079
+],
   "geometry": {"coordinates":[-118.753546,39.351079],"type":"Point"}
 }

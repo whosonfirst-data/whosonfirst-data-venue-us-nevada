@@ -2,13 +2,14 @@
   "id": 219670985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.037302,36.20382,-116.037302,36.20382",
     "geom:latitude":36.20382,
     "geom:longitude":-116.037302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 State Hwy 372",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219670985,
-    "wof:lastmodified":1449070916,
+    "wof:lastmodified":1466704271,
     "wof:name":"4 Day Mattress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "order"
     ]
 },
-  "bbox": [-116.037302,36.20382,-116.037302,36.20382],
+  "bbox": [
+    -116.037302,
+    36.20382,
+    -116.037302,
+    36.20382
+],
   "geometry": {"coordinates":[-116.037302,36.20382],"type":"Point"}
 }

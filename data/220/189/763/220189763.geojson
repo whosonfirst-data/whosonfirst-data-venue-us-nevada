@@ -2,13 +2,14 @@
   "id": 220189763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.070771,36.108151,-115.070771,36.108151",
     "geom:latitude":36.108151,
     "geom:longitude":-115.070771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4470 el Oro St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220189763,
-    "wof:lastmodified":1449074619,
+    "wof:lastmodified":1466703028,
     "wof:name":"Lindsley Enterprises",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-115.070771,36.108151,-115.070771,36.108151],
-  "geometry": {"coordinates":[-115.070771,36.108151],"type":"Point"}
+  "bbox": [
+    -115.070771,
+    36.108151,
+    -115.070771,
+    36.108151
+],
+  "geometry": {"coordinates":[-115.07077099999999,36.108151],"type":"Point"}
 }

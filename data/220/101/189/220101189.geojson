@@ -2,13 +2,14 @@
   "id": 220101189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.196916,36.177439,-115.196916,36.177439",
     "geom:latitude":36.177439,
     "geom:longitude":-115.196916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4008 W Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220101189,
-    "wof:lastmodified":1449074466,
+    "wof:lastmodified":1466702371,
     "wof:name":"D & M One Stop Cycle School",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-115.196916,36.177439,-115.196916,36.177439],
+  "bbox": [
+    -115.196916,
+    36.177439,
+    -115.196916,
+    36.177439
+],
   "geometry": {"coordinates":[-115.196916,36.177439],"type":"Point"}
 }

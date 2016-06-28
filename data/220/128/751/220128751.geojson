@@ -2,13 +2,14 @@
   "id": 220128751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121234,36.079021,-115.121234,36.079021",
     "geom:latitude":36.079021,
     "geom:longitude":-115.121234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 E Patrick Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220128751,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466702583,
     "wof:name":"Coffee Cat Coffee Service",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.121234,36.079021,-115.121234,36.079021],
+  "bbox": [
+    -115.121234,
+    36.079021,
+    -115.121234,
+    36.079021
+],
   "geometry": {"coordinates":[-115.121234,36.079021],"type":"Point"}
 }

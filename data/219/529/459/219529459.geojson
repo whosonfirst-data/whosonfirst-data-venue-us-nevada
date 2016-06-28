@@ -2,13 +2,14 @@
   "id": 219529459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136585,36.159991,-115.136585,36.159991",
     "geom:latitude":36.159991,
     "geom:longitude":-115.136585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Bonneville Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219529459,
-    "wof:lastmodified":1449071935,
+    "wof:lastmodified":1466701847,
     "wof:name":"Keith A Grimes & Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.136585,36.159991,-115.136585,36.159991],
+  "bbox": [
+    -115.136585,
+    36.159991,
+    -115.136585,
+    36.159991
+],
   "geometry": {"coordinates":[-115.136585,36.159991],"type":"Point"}
 }

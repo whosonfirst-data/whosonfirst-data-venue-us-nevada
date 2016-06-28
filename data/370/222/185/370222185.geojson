@@ -2,13 +2,14 @@
   "id": 370222185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.280009,36.160884,-115.280009,36.160884",
     "geom:latitude":36.160884,
     "geom:longitude":-115.280009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 S Durango Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":370222185,
-    "wof:lastmodified":1449031341,
+    "wof:lastmodified":1466703097,
     "wof:name":"Calico Corners",
     "wof:parent_id":85866211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "store"
     ]
 },
-  "bbox": [-115.280009,36.160884,-115.280009,36.160884],
-  "geometry": {"coordinates":[-115.280009,36.160884],"type":"Point"}
+  "bbox": [
+    -115.280009,
+    36.160884,
+    -115.280009,
+    36.160884
+],
+  "geometry": {"coordinates":[-115.28000900000001,36.160884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203329139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.231739,36.159092,-115.231739,36.159092",
     "geom:latitude":36.159092,
     "geom:longitude":-115.231739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6375 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203329139,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466703010,
     "wof:name":"Blindconnect Inc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-115.231739,36.159092,-115.231739,36.159092],
+  "bbox": [
+    -115.231739,
+    36.159092,
+    -115.231739,
+    36.159092
+],
   "geometry": {"coordinates":[-115.231739,36.159092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236498323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766973,39.153737,-119.766973,39.153737",
     "geom:latitude":39.153737,
     "geom:longitude":-119.766973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236498323,
-    "wof:lastmodified":1449004281,
+    "wof:lastmodified":1466705778,
     "wof:name":"Too Charming Italian Charms",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-119.766973,39.153737,-119.766973,39.153737],
-  "geometry": {"coordinates":[-119.766973,39.153737],"type":"Point"}
+  "bbox": [
+    -119.766973,
+    39.153737,
+    -119.766973,
+    39.153737
+],
+  "geometry": {"coordinates":[-119.76697299999999,39.153737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354319327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190002,36.091202,-115.190002,36.091202",
     "geom:latitude":36.091202,
     "geom:longitude":-115.190002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354319327,
-    "wof:lastmodified":1449066610,
+    "wof:lastmodified":1466705843,
     "wof:name":"Fresh Point of Las Vegas",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veggie"
     ]
 },
-  "bbox": [-115.190002,36.091202,-115.190002,36.091202],
-  "geometry": {"coordinates":[-115.190002,36.091202],"type":"Point"}
+  "bbox": [
+    -115.190002,
+    36.091202,
+    -115.190002,
+    36.091202
+],
+  "geometry": {"coordinates":[-115.19000200000001,36.091202],"type":"Point"}
 }

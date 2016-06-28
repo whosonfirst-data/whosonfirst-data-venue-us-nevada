@@ -2,13 +2,14 @@
   "id": 236216005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.994107,36.220267,-115.994107,36.220267",
     "geom:latitude":36.220267,
     "geom:longitude":-115.994107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 S Frontage Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236216005,
-    "wof:lastmodified":1449004794,
+    "wof:lastmodified":1466703893,
     "wof:name":"Tlaquepaque Custom Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-115.994107,36.220267,-115.994107,36.220267],
+  "bbox": [
+    -115.994107,
+    36.220267,
+    -115.994107,
+    36.220267
+],
   "geometry": {"coordinates":[-115.994107,36.220267],"type":"Point"}
 }

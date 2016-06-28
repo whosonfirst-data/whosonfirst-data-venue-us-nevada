@@ -2,13 +2,14 @@
   "id": 236403245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.956202,36.085792,-114.956202,36.085792",
     "geom:latitude":36.085792,
     "geom:longitude":-114.956202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Sandsprings St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236403245,
-    "wof:lastmodified":1449004687,
+    "wof:lastmodified":1466705486,
     "wof:name":"Aquatic Fitness Programs",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-114.956202,36.085792,-114.956202,36.085792],
+  "bbox": [
+    -114.956202,
+    36.085792,
+    -114.956202,
+    36.085792
+],
   "geometry": {"coordinates":[-114.956202,36.085792],"type":"Point"}
 }

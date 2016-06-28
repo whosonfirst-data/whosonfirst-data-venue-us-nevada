@@ -2,13 +2,14 @@
   "id": 370341149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.751857,39.150136,-119.751857,39.150136",
     "geom:latitude":39.150136,
     "geom:longitude":-119.751857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Fairview Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370341149,
-    "wof:lastmodified":1449032320,
+    "wof:lastmodified":1466704839,
     "wof:name":"PHD Motorcycle Service",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"
     ]
 },
-  "bbox": [-119.751857,39.150136,-119.751857,39.150136],
+  "bbox": [
+    -119.751857,
+    39.150136,
+    -119.751857,
+    39.150136
+],
   "geometry": {"coordinates":[-119.751857,39.150136],"type":"Point"}
 }

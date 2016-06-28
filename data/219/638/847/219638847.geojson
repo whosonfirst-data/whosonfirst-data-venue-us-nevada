@@ -2,13 +2,14 @@
   "id": 219638847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.774935,39.535354,-119.774935,39.535354",
     "geom:latitude":39.535354,
     "geom:longitude":-119.774935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Victorian Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219638847,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1466703620,
     "wof:name":"Jack's Coffee Shop",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.774935,39.535354,-119.774935,39.535354],
+  "bbox": [
+    -119.774935,
+    39.535354,
+    -119.774935,
+    39.535354
+],
   "geometry": {"coordinates":[-119.774935,39.535354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203195373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.781032,39.490227,-119.781032,39.490227",
     "geom:latitude":39.490227,
     "geom:longitude":-119.781032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Virbel Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203195373,
-    "wof:lastmodified":1449026229,
+    "wof:lastmodified":1466702011,
     "wof:name":"J K & S Cleaning Co",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.781032,39.490227,-119.781032,39.490227],
+  "bbox": [
+    -119.781032,
+    39.490227,
+    -119.781032,
+    39.490227
+],
   "geometry": {"coordinates":[-119.781032,39.490227],"type":"Point"}
 }

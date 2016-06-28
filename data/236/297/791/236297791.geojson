@@ -2,13 +2,14 @@
   "id": 236297791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.007906,38.853819,-115.007906,38.853819",
     "geom:latitude":38.853819,
     "geom:longitude":-115.007906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Main St",
     "sg:city":"Austin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236297791,
-    "wof:lastmodified":1449003809,
+    "wof:lastmodified":1466704697,
     "wof:name":"Gridley Store Museum",
     "wof:parent_id":85816263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-115.007906,38.853819,-115.007906,38.853819],
-  "geometry": {"coordinates":[-115.007906,38.853819],"type":"Point"}
+  "bbox": [
+    -115.007906,
+    38.853819,
+    -115.007906,
+    38.853819
+],
+  "geometry": {"coordinates":[-115.00790600000001,38.853819],"type":"Point"}
 }

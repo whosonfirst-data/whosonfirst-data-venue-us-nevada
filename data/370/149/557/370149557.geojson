@@ -2,13 +2,14 @@
   "id": 370149557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.260764,36.185572,-115.260764,36.185572",
     "geom:latitude":36.185572,
     "geom:longitude":-115.260764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370149557,
-    "wof:lastmodified":1449029073,
+    "wof:lastmodified":1466701517,
     "wof:name":"ASAP Locksmith",
     "wof:parent_id":85866213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-115.260764,36.185572,-115.260764,36.185572],
-  "geometry": {"coordinates":[-115.260764,36.185572],"type":"Point"}
+  "bbox": [
+    -115.260764,
+    36.185572,
+    -115.260764,
+    36.185572
+],
+  "geometry": {"coordinates":[-115.26076399999999,36.185572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220189699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.72018,39.666821,-119.72018,39.666821",
     "geom:latitude":39.666821,
     "geom:longitude":-119.72018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Soar Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220189699,
-    "wof:lastmodified":1449074614,
+    "wof:lastmodified":1466703021,
     "wof:name":"Horizon's Accounting/Tax Svc",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-119.72018,39.666821,-119.72018,39.666821],
+  "bbox": [
+    -119.72018,
+    39.666821,
+    -119.72018,
+    39.666821
+],
   "geometry": {"coordinates":[-119.72018,39.666821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354386215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104683,36.115347,-115.104683,36.115347",
     "geom:latitude":36.115347,
     "geom:longitude":-115.104683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 E Flamingo Rd Frnt",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354386215,
-    "wof:lastmodified":1449066832,
+    "wof:lastmodified":1466706333,
     "wof:name":"Food 4 Less",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-115.104683,36.115347,-115.104683,36.115347],
-  "geometry": {"coordinates":[-115.104683,36.115347],"type":"Point"}
+  "bbox": [
+    -115.104683,
+    36.115347,
+    -115.104683,
+    36.115347
+],
+  "geometry": {"coordinates":[-115.10468299999999,36.115347],"type":"Point"}
 }

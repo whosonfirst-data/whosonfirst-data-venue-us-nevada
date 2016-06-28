@@ -2,13 +2,14 @@
   "id": 236833277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201612,36.158298,-115.201612,36.158298",
     "geom:latitude":36.158298,
     "geom:longitude":-115.201612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4730 Faircenter",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236833277,
-    "wof:lastmodified":1449001992,
+    "wof:lastmodified":1466706814,
     "wof:name":"Anna's Linens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-115.201612,36.158298,-115.201612,36.158298],
+  "bbox": [
+    -115.201612,
+    36.158298,
+    -115.201612,
+    36.158298
+],
   "geometry": {"coordinates":[-115.201612,36.158298],"type":"Point"}
 }

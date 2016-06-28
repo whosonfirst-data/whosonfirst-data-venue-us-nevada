@@ -2,13 +2,14 @@
   "id": 354312037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209771,36.246672,-115.209771,36.246672",
     "geom:latitude":36.246672,
     "geom:longitude":-115.209771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4894 Lone Mountain Ave Ste178",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354312037,
-    "wof:lastmodified":1449066786,
+    "wof:lastmodified":1466705768,
     "wof:name":"Allen Empire Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.209771,36.246672,-115.209771,36.246672],
+  "bbox": [
+    -115.209771,
+    36.246672,
+    -115.209771,
+    36.246672
+],
   "geometry": {"coordinates":[-115.209771,36.246672],"type":"Point"}
 }

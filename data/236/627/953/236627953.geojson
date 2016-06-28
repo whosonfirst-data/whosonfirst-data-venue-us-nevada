@@ -2,13 +2,14 @@
   "id": 236627953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.775619,40.84998,-115.775619,40.84998",
     "geom:latitude":40.84998,
     "geom:longitude":-115.775619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Barrington Ave",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236627953,
-    "wof:lastmodified":1449005334,
+    "wof:lastmodified":1466706470,
     "wof:name":"Jtn Consulting",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.775619,40.84998,-115.775619,40.84998],
-  "geometry": {"coordinates":[-115.775619,40.84998],"type":"Point"}
+  "bbox": [
+    -115.775619,
+    40.84998,
+    -115.775619,
+    40.84998
+],
+  "geometry": {"coordinates":[-115.77561900000001,40.84998],"type":"Point"}
 }

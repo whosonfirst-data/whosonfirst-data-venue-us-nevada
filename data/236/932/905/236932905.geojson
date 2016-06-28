@@ -2,13 +2,14 @@
   "id": 236932905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.845853,39.53493,-119.845853,39.53493",
     "geom:latitude":39.53493,
     "geom:longitude":-119.845853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1254 Saint Alberts Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236932905,
-    "wof:lastmodified":1449002763,
+    "wof:lastmodified":1466706920,
     "wof:name":"Kings Row Residence",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.845853,39.53493,-119.845853,39.53493],
-  "geometry": {"coordinates":[-119.845853,39.53493],"type":"Point"}
+  "bbox": [
+    -119.845853,
+    39.53493,
+    -119.845853,
+    39.53493
+],
+  "geometry": {"coordinates":[-119.84585300000001,39.53493],"type":"Point"}
 }

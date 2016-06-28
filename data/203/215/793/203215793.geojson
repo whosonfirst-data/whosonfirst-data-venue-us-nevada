@@ -2,13 +2,14 @@
   "id": 203215793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.133427,36.158809,-115.133427,36.158809",
     "geom:latitude":36.158809,
     "geom:longitude":-115.133427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203215793,
-    "wof:lastmodified":1449026510,
+    "wof:lastmodified":1466702198,
     "wof:name":"LA Fayette Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parks"
     ]
 },
-  "bbox": [-115.133427,36.158809,-115.133427,36.158809],
+  "bbox": [
+    -115.133427,
+    36.158809,
+    -115.133427,
+    36.158809
+],
   "geometry": {"coordinates":[-115.133427,36.158809],"type":"Point"}
 }

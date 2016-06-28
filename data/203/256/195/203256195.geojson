@@ -2,13 +2,14 @@
   "id": 203256195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753209,39.132076,-119.753209,39.132076",
     "geom:latitude":39.132076,
     "geom:longitude":-119.753209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Valley View Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203256195,
-    "wof:lastmodified":1449026391,
+    "wof:lastmodified":1466702536,
     "wof:name":"Kerry Kilgore Wallpaper Hang",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wallpaper"
     ]
 },
-  "bbox": [-119.753209,39.132076,-119.753209,39.132076],
+  "bbox": [
+    -119.753209,
+    39.132076,
+    -119.753209,
+    39.132076
+],
   "geometry": {"coordinates":[-119.753209,39.132076],"type":"Point"}
 }

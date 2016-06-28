@@ -2,13 +2,14 @@
   "id": 203250979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733901,39.527239,-119.733901,39.527239",
     "geom:latitude":39.527239,
     "geom:longitude":-119.733901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203250979,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1466702505,
     "wof:name":"Flips Gymnastics Corp",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-119.733901,39.527239,-119.733901,39.527239],
+  "bbox": [
+    -119.733901,
+    39.527239,
+    -119.733901,
+    39.527239
+],
   "geometry": {"coordinates":[-119.733901,39.527239],"type":"Point"}
 }

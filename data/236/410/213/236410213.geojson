@@ -2,13 +2,14 @@
   "id": 236410213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104696,36.185276,-115.104696,36.185276",
     "geom:latitude":36.185276,
     "geom:longitude":-115.104696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Sattes St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236410213,
-    "wof:lastmodified":1449001712,
+    "wof:lastmodified":1466705499,
     "wof:name":"Fashion & Perfume Consulao",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fashion"
     ]
 },
-  "bbox": [-115.104696,36.185276,-115.104696,36.185276],
+  "bbox": [
+    -115.104696,
+    36.185276,
+    -115.104696,
+    36.185276
+],
   "geometry": {"coordinates":[-115.104696,36.185276],"type":"Point"}
 }

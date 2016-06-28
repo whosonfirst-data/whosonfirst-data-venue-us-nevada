@@ -2,13 +2,14 @@
   "id": 220066657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.755996,39.146233,-119.755996,39.146233",
     "geom:latitude":39.146233,
     "geom:longitude":-119.755996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2371 Meadowbrook Ln",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220066657,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466702183,
     "wof:name":"Randy Boggs Construction",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.755996,39.146233,-119.755996,39.146233],
+  "bbox": [
+    -119.755996,
+    39.146233,
+    -119.755996,
+    39.146233
+],
   "geometry": {"coordinates":[-119.755996,39.146233],"type":"Point"}
 }

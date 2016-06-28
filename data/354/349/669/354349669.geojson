@@ -2,13 +2,14 @@
   "id": 354349669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.18,36.072701,-115.18,36.072701",
     "geom:latitude":36.072701,
     "geom:longitude":-115.18,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6333 Ensworth St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354349669,
-    "wof:lastmodified":1449066560,
+    "wof:lastmodified":1466706002,
     "wof:name":"Bonanza Beverage Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.18,36.072701,-115.18,36.072701],
-  "geometry": {"coordinates":[-115.18,36.072701],"type":"Point"}
+  "bbox": [
+    -115.18,
+    36.072701,
+    -115.18,
+    36.072701
+],
+  "geometry": {"coordinates":[-115.18000000000001,36.072701],"type":"Point"}
 }

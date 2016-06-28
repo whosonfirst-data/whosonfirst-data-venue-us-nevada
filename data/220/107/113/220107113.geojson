@@ -2,13 +2,14 @@
   "id": 220107113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115594,35.966922,-115.115594,35.966922",
     "geom:latitude":35.966922,
     "geom:longitude":-115.115594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1664 Wellington Springs Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220107113,
-    "wof:lastmodified":1449074068,
+    "wof:lastmodified":1466702423,
     "wof:name":"S F Rubin & Associates",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-115.115594,35.966922,-115.115594,35.966922],
+  "bbox": [
+    -115.115594,
+    35.966922,
+    -115.115594,
+    35.966922
+],
   "geometry": {"coordinates":[-115.115594,35.966922],"type":"Point"}
 }

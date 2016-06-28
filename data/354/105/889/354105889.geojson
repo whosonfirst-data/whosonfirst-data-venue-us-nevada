@@ -2,13 +2,14 @@
   "id": 354105889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.190374,36.1336,-115.190374,36.1336",
     "geom:latitude":36.1336,
     "geom:longitude":-115.190374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3111 S Valley View Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354105889,
-    "wof:lastmodified":1449066565,
+    "wof:lastmodified":1466704212,
     "wof:name":"Bangkok Boom Thai & Chinese Cuisine",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "thai"
     ]
 },
-  "bbox": [-115.190374,36.1336,-115.190374,36.1336],
-  "geometry": {"coordinates":[-115.190374,36.1336],"type":"Point"}
+  "bbox": [
+    -115.190374,
+    36.1336,
+    -115.190374,
+    36.1336
+],
+  "geometry": {"coordinates":[-115.19037400000001,36.1336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219992897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.733675,40.971286,-117.733675,40.971286",
     "geom:latitude":40.971286,
     "geom:longitude":-117.733675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Melarkey St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219992897,
-    "wof:lastmodified":1449072055,
+    "wof:lastmodified":1466706151,
     "wof:name":"E-Z Out Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-117.733675,40.971286,-117.733675,40.971286],
-  "geometry": {"coordinates":[-117.733675,40.971286],"type":"Point"}
+  "bbox": [
+    -117.733675,
+    40.971286,
+    -117.733675,
+    40.971286
+],
+  "geometry": {"coordinates":[-117.73367500000001,40.971286],"type":"Point"}
 }

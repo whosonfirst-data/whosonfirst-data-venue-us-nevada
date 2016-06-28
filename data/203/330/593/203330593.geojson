@@ -2,13 +2,14 @@
   "id": 203330593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.653021,39.229482,-119.653021,39.229482",
     "geom:latitude":39.229482,
     "geom:longitude":-119.653021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Industrial Pkwy",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203330593,
-    "wof:lastmodified":1449025879,
+    "wof:lastmodified":1466703020,
     "wof:name":"Canyon Creek Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.653021,39.229482,-119.653021,39.229482],
+  "bbox": [
+    -119.653021,
+    39.229482,
+    -119.653021,
+    39.229482
+],
   "geometry": {"coordinates":[-119.653021,39.229482],"type":"Point"}
 }

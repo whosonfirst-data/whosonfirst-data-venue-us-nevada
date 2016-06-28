@@ -2,13 +2,14 @@
   "id": 370299841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154032,36.127347,-115.154032,36.127347",
     "geom:latitude":36.127347,
     "geom:longitude":-115.154032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Renaissance Las Vegas 3400 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370299841,
-    "wof:lastmodified":1449029954,
+    "wof:lastmodified":1466704601,
     "wof:name":"ENVY The Steakhouse",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "brunch"
     ]
 },
-  "bbox": [-115.154032,36.127347,-115.154032,36.127347],
+  "bbox": [
+    -115.154032,
+    36.127347,
+    -115.154032,
+    36.127347
+],
   "geometry": {"coordinates":[-115.154032,36.127347],"type":"Point"}
 }

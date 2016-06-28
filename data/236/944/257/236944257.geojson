@@ -2,13 +2,14 @@
   "id": 236944257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725287,39.555915,-119.725287,39.555915",
     "geom:latitude":39.555915,
     "geom:longitude":-119.725287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2651 Fargo Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236944257,
-    "wof:lastmodified":1449003274,
+    "wof:lastmodified":1466706928,
     "wof:name":"Fargo Educare",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-119.725287,39.555915,-119.725287,39.555915],
-  "geometry": {"coordinates":[-119.725287,39.555915],"type":"Point"}
+  "bbox": [
+    -119.725287,
+    39.555915,
+    -119.725287,
+    39.555915
+],
+  "geometry": {"coordinates":[-119.72528699999999,39.555915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236723387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.302673,36.21728,-115.302673,36.21728",
     "geom:latitude":36.21728,
     "geom:longitude":-115.302673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9429 Villa Ridge Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236723387,
-    "wof:lastmodified":1449003604,
+    "wof:lastmodified":1466706373,
     "wof:name":"International Student Housing",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.302673,36.21728,-115.302673,36.21728],
+  "bbox": [
+    -115.302673,
+    36.21728,
+    -115.302673,
+    36.21728
+],
   "geometry": {"coordinates":[-115.302673,36.21728],"type":"Point"}
 }

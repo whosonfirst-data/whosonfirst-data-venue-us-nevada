@@ -2,13 +2,14 @@
   "id": 354012563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.962525,36.031761,-114.962525,36.031761",
     "geom:latitude":36.031761,
     "geom:longitude":-114.962525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Papaya Pl",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354012563,
-    "wof:lastmodified":1449067501,
+    "wof:lastmodified":1466701808,
     "wof:name":"ServPro of Central Las Vegas",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.962525,36.031761,-114.962525,36.031761],
+  "bbox": [
+    -114.962525,
+    36.031761,
+    -114.962525,
+    36.031761
+],
   "geometry": {"coordinates":[-114.962525,36.031761],"type":"Point"}
 }

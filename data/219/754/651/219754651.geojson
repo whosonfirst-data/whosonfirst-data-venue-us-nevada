@@ -2,13 +2,14 @@
   "id": 219754651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.204862,39.072645,-119.204862,39.072645",
     "geom:latitude":39.072645,
     "geom:longitude":-119.204862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 E Loop Rd",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219754651,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466704804,
     "wof:name":"Yerington Paiute Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "operator"
     ]
 },
-  "bbox": [-119.204862,39.072645,-119.204862,39.072645],
-  "geometry": {"coordinates":[-119.204862,39.072645],"type":"Point"}
+  "bbox": [
+    -119.204862,
+    39.072645,
+    -119.204862,
+    39.072645
+],
+  "geometry": {"coordinates":[-119.20486200000001,39.072645],"type":"Point"}
 }

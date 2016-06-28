@@ -2,13 +2,14 @@
   "id": 354004197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.045955,36.058165,-115.045955,36.058165",
     "geom:latitude":36.058165,
     "geom:longitude":-115.045955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Stephanie Street",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354004197,
-    "wof:lastmodified":1449066537,
+    "wof:lastmodified":1466701563,
     "wof:name":"Compusa",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.045955,36.058165,-115.045955,36.058165],
-  "geometry": {"coordinates":[-115.045955,36.058165],"type":"Point"}
+  "bbox": [
+    -115.045955,
+    36.058165,
+    -115.045955,
+    36.058165
+],
+  "geometry": {"coordinates":[-115.04595500000001,36.058165],"type":"Point"}
 }

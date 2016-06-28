@@ -2,13 +2,14 @@
   "id": 354023997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.129291,36.221151,-115.129291,36.221151",
     "geom:latitude":36.221151,
     "geom:longitude":-115.129291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Colton Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354023997,
-    "wof:lastmodified":1449067508,
+    "wof:lastmodified":1466702099,
     "wof:name":"A-1 Budget Self Storage",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-115.129291,36.221151,-115.129291,36.221151],
-  "geometry": {"coordinates":[-115.129291,36.221151],"type":"Point"}
+  "bbox": [
+    -115.129291,
+    36.221151,
+    -115.129291,
+    36.221151
+],
+  "geometry": {"coordinates":[-115.12929099999999,36.221151],"type":"Point"}
 }

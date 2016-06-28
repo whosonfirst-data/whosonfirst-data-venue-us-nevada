@@ -2,13 +2,14 @@
   "id": 203235225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.759227,39.295906,-119.759227,39.295906",
     "geom:latitude":39.295906,
     "geom:longitude":-119.759227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Sparrow Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203235225,
-    "wof:lastmodified":1449025269,
+    "wof:lastmodified":1466702394,
     "wof:name":"Hope Realty",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.759227,39.295906,-119.759227,39.295906],
+  "bbox": [
+    -119.759227,
+    39.295906,
+    -119.759227,
+    39.295906
+],
   "geometry": {"coordinates":[-119.759227,39.295906],"type":"Point"}
 }

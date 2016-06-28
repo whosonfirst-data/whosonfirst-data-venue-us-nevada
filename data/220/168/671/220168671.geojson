@@ -2,13 +2,14 @@
   "id": 220168671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209728,36.136524,-115.209728,36.136524",
     "geom:latitude":36.136524,
     "geom:longitude":-115.209728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4976 Stampa Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220168671,
-    "wof:lastmodified":1449074459,
+    "wof:lastmodified":1466702874,
     "wof:name":"Aristocrat Blinds",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-115.209728,36.136524,-115.209728,36.136524],
+  "bbox": [
+    -115.209728,
+    36.136524,
+    -115.209728,
+    36.136524
+],
   "geometry": {"coordinates":[-115.209728,36.136524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219435451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.757785,40.831664,-115.757785,40.831664",
     "geom:latitude":40.831664,
     "geom:longitude":-115.757785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 S 7th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219435451,
-    "wof:lastmodified":1449073593,
+    "wof:lastmodified":1466703805,
     "wof:name":"Sea Horse Aquarium",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-115.757785,40.831664,-115.757785,40.831664],
+  "bbox": [
+    -115.757785,
+    40.831664,
+    -115.757785,
+    40.831664
+],
   "geometry": {"coordinates":[-115.757785,40.831664],"type":"Point"}
 }

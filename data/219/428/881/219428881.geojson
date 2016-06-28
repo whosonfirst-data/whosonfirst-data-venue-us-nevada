@@ -2,13 +2,14 @@
   "id": 219428881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.28453,36.246963,-115.28453,36.246963",
     "geom:latitude":36.246963,
     "geom:longitude":-115.28453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8686 Rising Rock Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219428881,
-    "wof:lastmodified":1449073666,
+    "wof:lastmodified":1466703783,
     "wof:name":"Madodah",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.28453,36.246963,-115.28453,36.246963],
+  "bbox": [
+    -115.28453,
+    36.246963,
+    -115.28453,
+    36.246963
+],
   "geometry": {"coordinates":[-115.28453,36.246963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354196369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17163,36.163345,-115.17163,36.163345",
     "geom:latitude":36.163345,
     "geom:longitude":-115.17163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Rancho Dr Ste D34",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354196369,
-    "wof:lastmodified":1449066310,
+    "wof:lastmodified":1466704880,
     "wof:name":"Richter Lawson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.17163,36.163345,-115.17163,36.163345],
-  "geometry": {"coordinates":[-115.17163,36.163345],"type":"Point"}
+  "bbox": [
+    -115.17163,
+    36.163345,
+    -115.17163,
+    36.163345
+],
+  "geometry": {"coordinates":[-115.17162999999999,36.163345],"type":"Point"}
 }

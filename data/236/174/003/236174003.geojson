@@ -2,13 +2,14 @@
   "id": 236174003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.146155,36.034804,-115.146155,36.034804",
     "geom:latitude":36.034804,
     "geom:longitude":-115.146155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Garnet Point Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236174003,
-    "wof:lastmodified":1449002013,
+    "wof:lastmodified":1466703058,
     "wof:name":"Tech Noir Landscapes Inc",
     "wof:parent_id":85879703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.146155,36.034804,-115.146155,36.034804],
-  "geometry": {"coordinates":[-115.146155,36.034804],"type":"Point"}
+  "bbox": [
+    -115.146155,
+    36.034804,
+    -115.146155,
+    36.034804
+],
+  "geometry": {"coordinates":[-115.14615499999999,36.034804],"type":"Point"}
 }

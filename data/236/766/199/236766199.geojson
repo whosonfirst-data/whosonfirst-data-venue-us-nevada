@@ -2,13 +2,14 @@
   "id": 236766199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.818008,39.417184,-119.818008,39.417184",
     "geom:latitude":39.417184,
     "geom:longitude":-119.818008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3477 Forest View Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236766199,
-    "wof:lastmodified":1449001644,
+    "wof:lastmodified":1466706464,
     "wof:name":"Wheaton Apn Services Jean",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.818008,39.417184,-119.818008,39.417184],
-  "geometry": {"coordinates":[-119.818008,39.417184],"type":"Point"}
+  "bbox": [
+    -119.818008,
+    39.417184,
+    -119.818008,
+    39.417184
+],
+  "geometry": {"coordinates":[-119.81800800000001,39.417184],"type":"Point"}
 }

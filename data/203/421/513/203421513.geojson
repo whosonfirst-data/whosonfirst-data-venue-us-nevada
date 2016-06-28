@@ -2,13 +2,14 @@
   "id": 203421513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.099128,36.135573,-115.099128,36.135573",
     "geom:latitude":36.135573,
     "geom:longitude":-115.099128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"470 Las Casitas Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203421513,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466703409,
     "wof:name":"Cruise Discounters",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.099128,36.135573,-115.099128,36.135573],
-  "geometry": {"coordinates":[-115.099128,36.135573],"type":"Point"}
+  "bbox": [
+    -115.099128,
+    36.135573,
+    -115.099128,
+    36.135573
+],
+  "geometry": {"coordinates":[-115.09912799999999,36.135573],"type":"Point"}
 }

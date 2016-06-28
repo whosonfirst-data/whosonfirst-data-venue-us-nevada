@@ -2,13 +2,14 @@
   "id": 220124341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.165443,36.214041,-115.165443,36.214041",
     "geom:latitude":36.214041,
     "geom:longitude":-115.165443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 W Brooks Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220124341,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466702559,
     "wof:name":"Nevada Concrete Svc",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.165443,36.214041,-115.165443,36.214041],
+  "bbox": [
+    -115.165443,
+    36.214041,
+    -115.165443,
+    36.214041
+],
   "geometry": {"coordinates":[-115.165443,36.214041],"type":"Point"}
 }

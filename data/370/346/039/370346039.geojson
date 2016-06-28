@@ -2,13 +2,14 @@
   "id": 370346039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757004,39.160944,-119.757004,39.160944",
     "geom:latitude":39.160944,
     "geom:longitude":-119.757004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E Fifth St Apt 9",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370346039,
-    "wof:lastmodified":1449029048,
+    "wof:lastmodified":1466705159,
     "wof:name":"Terrace Gardens Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.757004,39.160944,-119.757004,39.160944],
-  "geometry": {"coordinates":[-119.757004,39.160944],"type":"Point"}
+  "bbox": [
+    -119.757004,
+    39.160944,
+    -119.757004,
+    39.160944
+],
+  "geometry": {"coordinates":[-119.75700399999999,39.160944],"type":"Point"}
 }

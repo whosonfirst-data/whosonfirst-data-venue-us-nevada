@@ -2,13 +2,14 @@
   "id": 236191035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082735,36.029219,-115.082735,36.029219",
     "geom:latitude":36.029219,
     "geom:longitude":-115.082735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2175 Fountain Springs Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236191035,
-    "wof:lastmodified":1449003693,
+    "wof:lastmodified":1466703388,
     "wof:name":"Pro Dry",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-115.082735,36.029219,-115.082735,36.029219],
+  "bbox": [
+    -115.082735,
+    36.029219,
+    -115.082735,
+    36.029219
+],
   "geometry": {"coordinates":[-115.082735,36.029219],"type":"Point"}
 }

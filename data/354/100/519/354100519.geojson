@@ -2,13 +2,14 @@
   "id": 354100519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161003,36.1502,-115.161003,36.1502",
     "geom:latitude":36.1502,
     "geom:longitude":-115.161003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354100519,
-    "wof:lastmodified":1449067218,
+    "wof:lastmodified":1466704134,
     "wof:name":"Tiberti J A Construction",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.161003,36.1502,-115.161003,36.1502],
-  "geometry": {"coordinates":[-115.161003,36.1502],"type":"Point"}
+  "bbox": [
+    -115.161003,
+    36.1502,
+    -115.161003,
+    36.1502
+],
+  "geometry": {"coordinates":[-115.16100299999999,36.1502],"type":"Point"}
 }

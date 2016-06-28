@@ -2,13 +2,14 @@
   "id": 219936965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.036501,36.069975,-115.036501,36.069975",
     "geom:latitude":36.069975,
     "geom:longitude":-115.036501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Marks St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219936965,
-    "wof:lastmodified":1449071572,
+    "wof:lastmodified":1466705830,
     "wof:name":"David's Bridal",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-115.036501,36.069975,-115.036501,36.069975],
+  "bbox": [
+    -115.036501,
+    36.069975,
+    -115.036501,
+    36.069975
+],
   "geometry": {"coordinates":[-115.036501,36.069975],"type":"Point"}
 }

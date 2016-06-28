@@ -2,13 +2,14 @@
   "id": 219867803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761954,39.16707,-119.761954,39.16707",
     "geom:latitude":39.16707,
     "geom:longitude":-119.761954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Robinson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219867803,
-    "wof:lastmodified":1449071915,
+    "wof:lastmodified":1466705361,
     "wof:name":"Custom Floor Care Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-119.761954,39.16707,-119.761954,39.16707],
+  "bbox": [
+    -119.761954,
+    39.16707,
+    -119.761954,
+    39.16707
+],
   "geometry": {"coordinates":[-119.761954,39.16707],"type":"Point"}
 }

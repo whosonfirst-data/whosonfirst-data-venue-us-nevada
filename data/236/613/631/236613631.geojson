@@ -2,13 +2,14 @@
   "id": 236613631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197676,36.100966,-115.197676,36.100966",
     "geom:latitude":36.100966,
     "geom:longitude":-115.197676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 W Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236613631,
-    "wof:lastmodified":1449003135,
+    "wof:lastmodified":1466706161,
     "wof:name":"Gmk Auto Transport",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-115.197676,36.100966,-115.197676,36.100966],
+  "bbox": [
+    -115.197676,
+    36.100966,
+    -115.197676,
+    36.100966
+],
   "geometry": {"coordinates":[-115.197676,36.100966],"type":"Point"}
 }

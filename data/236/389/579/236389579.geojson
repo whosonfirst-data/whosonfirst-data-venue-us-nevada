@@ -2,13 +2,14 @@
   "id": 236389579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.264714,36.208398,-115.264714,36.208398",
     "geom:latitude":36.208398,
     "geom:longitude":-115.264714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7868 Surfcrest",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236389579,
-    "wof:lastmodified":1449004436,
+    "wof:lastmodified":1466705189,
     "wof:name":"Solaarr Inc",
     "wof:parent_id":85892703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-115.264714,36.208398,-115.264714,36.208398],
+  "bbox": [
+    -115.264714,
+    36.208398,
+    -115.264714,
+    36.208398
+],
   "geometry": {"coordinates":[-115.264714,36.208398],"type":"Point"}
 }

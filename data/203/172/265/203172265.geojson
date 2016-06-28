@@ -2,13 +2,14 @@
   "id": 203172265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.066448,36.803954,-114.066448,36.803954",
     "geom:latitude":36.803954,
     "geom:longitude":-114.066448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 E Mesquite Blvd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203172265,
-    "wof:lastmodified":1449025681,
+    "wof:lastmodified":1466701748,
     "wof:name":"Virgin River Cinemas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-114.066448,36.803954,-114.066448,36.803954],
-  "geometry": {"coordinates":[-114.066448,36.803954],"type":"Point"}
+  "bbox": [
+    -114.066448,
+    36.803954,
+    -114.066448,
+    36.803954
+],
+  "geometry": {"coordinates":[-114.06644799999999,36.803954],"type":"Point"}
 }

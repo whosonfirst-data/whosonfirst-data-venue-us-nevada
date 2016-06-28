@@ -2,13 +2,14 @@
   "id": 236114157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.711553,39.547068,-119.711553,39.547068",
     "geom:latitude":39.547068,
     "geom:longitude":-119.711553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 Wabash Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236114157,
-    "wof:lastmodified":1449002950,
+    "wof:lastmodified":1466701817,
     "wof:name":"April Fresh Janitorial Svc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-119.711553,39.547068,-119.711553,39.547068],
-  "geometry": {"coordinates":[-119.711553,39.547068],"type":"Point"}
+  "bbox": [
+    -119.711553,
+    39.547068,
+    -119.711553,
+    39.547068
+],
+  "geometry": {"coordinates":[-119.71155299999999,39.547068],"type":"Point"}
 }

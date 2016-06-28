@@ -2,13 +2,14 @@
   "id": 236196887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.756436,40.848695,-115.756436,40.848695",
     "geom:latitude":40.848695,
     "geom:longitude":-115.756436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Sequoia Dr",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236196887,
-    "wof:lastmodified":1449002240,
+    "wof:lastmodified":1466703500,
     "wof:name":"A & L Office Complex",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-115.756436,40.848695,-115.756436,40.848695],
-  "geometry": {"coordinates":[-115.756436,40.848695],"type":"Point"}
+  "bbox": [
+    -115.756436,
+    40.848695,
+    -115.756436,
+    40.848695
+],
+  "geometry": {"coordinates":[-115.75643599999999,40.848695],"type":"Point"}
 }

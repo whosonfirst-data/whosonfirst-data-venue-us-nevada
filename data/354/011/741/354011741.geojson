@@ -2,13 +2,14 @@
   "id": 354011741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.981684,36.031479,-114.981684,36.031479",
     "geom:latitude":36.031479,
     "geom:longitude":-114.981684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Water St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354011741,
-    "wof:lastmodified":1449067328,
+    "wof:lastmodified":1466701784,
     "wof:name":"The Lotus",
     "wof:parent_id":85878137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-114.981684,36.031479,-114.981684,36.031479],
+  "bbox": [
+    -114.981684,
+    36.031479,
+    -114.981684,
+    36.031479
+],
   "geometry": {"coordinates":[-114.981684,36.031479],"type":"Point"}
 }

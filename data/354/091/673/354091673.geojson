@@ -2,13 +2,14 @@
   "id": 354091673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.139065,36.159204,-115.139065,36.159204",
     "geom:latitude":36.159204,
     "geom:longitude":-115.139065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Garces Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354091673,
-    "wof:lastmodified":1449066098,
+    "wof:lastmodified":1466703909,
     "wof:name":"Haines & Krieger, Attorneys At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"
     ]
 },
-  "bbox": [-115.139065,36.159204,-115.139065,36.159204],
+  "bbox": [
+    -115.139065,
+    36.159204,
+    -115.139065,
+    36.159204
+],
   "geometry": {"coordinates":[-115.139065,36.159204],"type":"Point"}
 }

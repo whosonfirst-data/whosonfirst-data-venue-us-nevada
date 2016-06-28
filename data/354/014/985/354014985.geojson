@@ -2,13 +2,14 @@
   "id": 354014985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.976976,36.043292,-114.976976,36.043292",
     "geom:latitude":36.043292,
     "geom:longitude":-114.976976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284C E Mead Lake Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354014985,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466701881,
     "wof:name":"Bugsy Towing",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-114.976976,36.043292,-114.976976,36.043292],
-  "geometry": {"coordinates":[-114.976976,36.043292],"type":"Point"}
+  "bbox": [
+    -114.976976,
+    36.043292,
+    -114.976976,
+    36.043292
+],
+  "geometry": {"coordinates":[-114.97697599999999,36.043292],"type":"Point"}
 }

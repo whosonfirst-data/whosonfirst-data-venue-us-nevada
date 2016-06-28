@@ -2,13 +2,14 @@
   "id": 236201051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21717,36.256146,-115.21717,36.256146",
     "geom:latitude":36.256146,
     "geom:longitude":-115.21717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Langston Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236201051,
-    "wof:lastmodified":1449004715,
+    "wof:lastmodified":1466703589,
     "wof:name":"Tina Gish Realtor",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.21717,36.256146,-115.21717,36.256146],
+  "bbox": [
+    -115.21717,
+    36.256146,
+    -115.21717,
+    36.256146
+],
   "geometry": {"coordinates":[-115.21717,36.256146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235971843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123175,36.237263,-115.123175,36.237263",
     "geom:latitude":36.237263,
     "geom:longitude":-115.123175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Aerojet Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235971843,
-    "wof:lastmodified":1449008426,
+    "wof:lastmodified":1466703629,
     "wof:name":"Genco Distribution System Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.123175,36.237263,-115.123175,36.237263],
+  "bbox": [
+    -115.123175,
+    36.237263,
+    -115.123175,
+    36.237263
+],
   "geometry": {"coordinates":[-115.123175,36.237263],"type":"Point"}
 }

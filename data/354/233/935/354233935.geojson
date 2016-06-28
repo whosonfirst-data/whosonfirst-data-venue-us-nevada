@@ -2,13 +2,14 @@
   "id": 354233935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136817,36.137484,-115.136817,36.137484",
     "geom:latitude":36.137484,
     "geom:longitude":-115.136817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2870 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":354233935,
-    "wof:lastmodified":1449067685,
+    "wof:lastmodified":1466705129,
     "wof:name":"Jacobs & Modaber Md's Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "internal"
     ]
 },
-  "bbox": [-115.136817,36.137484,-115.136817,36.137484],
-  "geometry": {"coordinates":[-115.136817,36.137484],"type":"Point"}
+  "bbox": [
+    -115.136817,
+    36.137484,
+    -115.136817,
+    36.137484
+],
+  "geometry": {"coordinates":[-115.13681699999999,36.137484],"type":"Point"}
 }

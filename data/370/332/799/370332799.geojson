@@ -2,13 +2,14 @@
   "id": 370332799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.756945,39.431556,-119.756945,39.431556",
     "geom:latitude":39.431556,
     "geom:longitude":-119.756945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10375 Professional Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370332799,
-    "wof:lastmodified":1449030950,
+    "wof:lastmodified":1466704767,
     "wof:name":"Employers Holdings, Inc.",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "compensation"
     ]
 },
-  "bbox": [-119.756945,39.431556,-119.756945,39.431556],
+  "bbox": [
+    -119.756945,
+    39.431556,
+    -119.756945,
+    39.431556
+],
   "geometry": {"coordinates":[-119.756945,39.431556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354065621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113103,36.28352,-115.113103,36.28352",
     "geom:latitude":36.28352,
     "geom:longitude":-115.113103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 E Deer Springs Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354065621,
-    "wof:lastmodified":1449067662,
+    "wof:lastmodified":1466703189,
     "wof:name":"Preserve Apartments",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.113103,36.28352,-115.113103,36.28352],
+  "bbox": [
+    -115.113103,
+    36.28352,
+    -115.113103,
+    36.28352
+],
   "geometry": {"coordinates":[-115.113103,36.28352],"type":"Point"}
 }

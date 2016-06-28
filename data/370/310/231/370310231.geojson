@@ -2,13 +2,14 @@
   "id": 370310231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.75708,39.532871,-119.75708,39.532871",
     "geom:latitude":39.532871,
     "geom:longitude":-119.75708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Nugget Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -83,10 +84,11 @@
         }
     ],
     "wof:id":370310231,
-    "wof:lastmodified":1449031173,
+    "wof:lastmodified":1466704667,
     "wof:name":"John Ascuaga's Nugget",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "chapel"
     ]
 },
-  "bbox": [-119.75708,39.532871,-119.75708,39.532871],
+  "bbox": [
+    -119.75708,
+    39.532871,
+    -119.75708,
+    39.532871
+],
   "geometry": {"coordinates":[-119.75708,39.532871],"type":"Point"}
 }

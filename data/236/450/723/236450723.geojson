@@ -2,13 +2,14 @@
   "id": 236450723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.914895,39.631203,-119.914895,39.631203",
     "geom:latitude":39.631203,
     "geom:longitude":-119.914895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8248 Anchor Pt Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236450723,
-    "wof:lastmodified":1449004640,
+    "wof:lastmodified":1466705711,
     "wof:name":"A Little Bit of Everything",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-119.914895,39.631203,-119.914895,39.631203],
+  "bbox": [
+    -119.914895,
+    39.631203,
+    -119.914895,
+    39.631203
+],
   "geometry": {"coordinates":[-119.914895,39.631203],"type":"Point"}
 }

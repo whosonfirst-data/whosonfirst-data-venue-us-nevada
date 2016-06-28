@@ -2,13 +2,14 @@
   "id": 219195269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.775517,39.471265,-119.775517,39.471265",
     "geom:latitude":39.471265,
     "geom:longitude":-119.775517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5650 Riggins Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219195269,
-    "wof:lastmodified":1449072705,
+    "wof:lastmodified":1466702028,
     "wof:name":"Northern Nevada Regional",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.775517,39.471265,-119.775517,39.471265],
-  "geometry": {"coordinates":[-119.775517,39.471265],"type":"Point"}
+  "bbox": [
+    -119.775517,
+    39.471265,
+    -119.775517,
+    39.471265
+],
+  "geometry": {"coordinates":[-119.77551699999999,39.471265],"type":"Point"}
 }

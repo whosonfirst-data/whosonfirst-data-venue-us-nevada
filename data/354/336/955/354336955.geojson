@@ -2,13 +2,14 @@
   "id": 354336955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166699,36.057018,-115.166699,36.057018",
     "geom:latitude":36.057018,
     "geom:longitude":-115.166699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Warm Springs Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354336955,
-    "wof:lastmodified":1449065900,
+    "wof:lastmodified":1466705954,
     "wof:name":"Pcl Construction Services",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.166699,36.057018,-115.166699,36.057018],
-  "geometry": {"coordinates":[-115.166699,36.057018],"type":"Point"}
+  "bbox": [
+    -115.166699,
+    36.057018,
+    -115.166699,
+    36.057018
+],
+  "geometry": {"coordinates":[-115.16669899999999,36.057018],"type":"Point"}
 }

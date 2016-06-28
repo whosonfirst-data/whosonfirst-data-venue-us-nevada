@@ -2,13 +2,14 @@
   "id": 370348591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768997,39.1698,-119.768997,39.1698",
     "geom:latitude":39.1698,
     "geom:longitude":-119.768997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Division St Ste 100",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370348591,
-    "wof:lastmodified":1449029217,
+    "wof:lastmodified":1466705038,
     "wof:name":"Spinal Institute of Nevada",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-119.768997,39.1698,-119.768997,39.1698],
+  "bbox": [
+    -119.768997,
+    39.1698,
+    -119.768997,
+    39.1698
+],
   "geometry": {"coordinates":[-119.768997,39.1698],"type":"Point"}
 }

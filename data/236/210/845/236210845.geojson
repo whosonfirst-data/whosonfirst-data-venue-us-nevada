@@ -2,13 +2,14 @@
   "id": 236210845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.110553,35.94748,-115.110553,35.94748",
     "geom:latitude":35.94748,
     "geom:longitude":-115.110553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2189 Magnolia Pond Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236210845,
-    "wof:lastmodified":1449002632,
+    "wof:lastmodified":1466703785,
     "wof:name":"August Printing Inc",
     "wof:parent_id":85878073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "offset"
     ]
 },
-  "bbox": [-115.110553,35.94748,-115.110553,35.94748],
+  "bbox": [
+    -115.110553,
+    35.94748,
+    -115.110553,
+    35.94748
+],
   "geometry": {"coordinates":[-115.110553,35.94748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236465155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.270883,36.13356,-115.270883,36.13356",
     "geom:latitude":36.13356,
     "geom:longitude":-115.270883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8209 Shell Beach Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236465155,
-    "wof:lastmodified":1449003950,
+    "wof:lastmodified":1466705649,
     "wof:name":"Toms Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.270883,36.13356,-115.270883,36.13356],
+  "bbox": [
+    -115.270883,
+    36.13356,
+    -115.270883,
+    36.13356
+],
   "geometry": {"coordinates":[-115.270883,36.13356],"type":"Point"}
 }

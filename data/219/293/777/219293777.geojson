@@ -2,13 +2,14 @@
   "id": 219293777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053789,36.074091,-115.053789,36.074091",
     "geom:latitude":36.074091,
     "geom:longitude":-115.053789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Tree Top Ct",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219293777,
-    "wof:lastmodified":1449071087,
+    "wof:lastmodified":1466703028,
     "wof:name":"Rittoff 5 LLC",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-115.053789,36.074091,-115.053789,36.074091],
-  "geometry": {"coordinates":[-115.053789,36.074091],"type":"Point"}
+  "bbox": [
+    -115.053789,
+    36.074091,
+    -115.053789,
+    36.074091
+],
+  "geometry": {"coordinates":[-115.05378899999999,36.074091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354288793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.278938,36.129704,-115.278938,36.129704",
     "geom:latitude":36.129704,
     "geom:longitude":-115.278938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3385 S Durango Dr Ste J",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354288793,
-    "wof:lastmodified":1449066114,
+    "wof:lastmodified":1466705657,
     "wof:name":"PrinciPessa Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "groomers"
     ]
 },
-  "bbox": [-115.278938,36.129704,-115.278938,36.129704],
+  "bbox": [
+    -115.278938,
+    36.129704,
+    -115.278938,
+    36.129704
+],
   "geometry": {"coordinates":[-115.278938,36.129704],"type":"Point"}
 }

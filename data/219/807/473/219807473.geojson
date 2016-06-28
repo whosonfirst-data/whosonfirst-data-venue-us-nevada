@@ -2,13 +2,14 @@
   "id": 219807473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.180661,36.136345,-115.180661,36.136345",
     "geom:latitude":36.136345,
     "geom:longitude":-115.180661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 Meade Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219807473,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466705242,
     "wof:name":"Audasis",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.180661,36.136345,-115.180661,36.136345],
+  "bbox": [
+    -115.180661,
+    36.136345,
+    -115.180661,
+    36.136345
+],
   "geometry": {"coordinates":[-115.180661,36.136345],"type":"Point"}
 }

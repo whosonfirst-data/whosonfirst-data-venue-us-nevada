@@ -2,13 +2,14 @@
   "id": 220144103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.071313,36.076392,-115.071313,36.076392",
     "geom:latitude":36.076392,
     "geom:longitude":-115.071313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Ramrod Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220144103,
-    "wof:lastmodified":1449074638,
+    "wof:lastmodified":1466702725,
     "wof:name":"Mountain Vista Mini Storage",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-115.071313,36.076392,-115.071313,36.076392],
+  "bbox": [
+    -115.071313,
+    36.076392,
+    -115.071313,
+    36.076392
+],
   "geometry": {"coordinates":[-115.071313,36.076392],"type":"Point"}
 }

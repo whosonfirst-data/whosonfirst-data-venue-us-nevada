@@ -2,13 +2,14 @@
   "id": 236188021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130051,36.213873,-115.130051,36.213873",
     "geom:latitude":36.213873,
     "geom:longitude":-115.130051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236188021,
-    "wof:lastmodified":1449003258,
+    "wof:lastmodified":1466703334,
     "wof:name":"Thatcher Craft Cabinets LLC",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-115.130051,36.213873,-115.130051,36.213873],
-  "geometry": {"coordinates":[-115.130051,36.213873],"type":"Point"}
+  "bbox": [
+    -115.130051,
+    36.213873,
+    -115.130051,
+    36.213873
+],
+  "geometry": {"coordinates":[-115.13005099999999,36.213873],"type":"Point"}
 }

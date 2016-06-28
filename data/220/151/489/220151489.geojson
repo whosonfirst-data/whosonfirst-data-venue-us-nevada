@@ -2,13 +2,14 @@
   "id": 220151489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.53552,39.303367,-119.53552,39.303367",
     "geom:latitude":39.303367,
     "geom:longitude":-119.53552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Gordon Ln",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220151489,
-    "wof:lastmodified":1449074070,
+    "wof:lastmodified":1466702774,
     "wof:name":"Christines Clubhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.53552,39.303367,-119.53552,39.303367],
-  "geometry": {"coordinates":[-119.53552,39.303367],"type":"Point"}
+  "bbox": [
+    -119.53552,
+    39.303367,
+    -119.53552,
+    39.303367
+],
+  "geometry": {"coordinates":[-119.53552000000001,39.303367],"type":"Point"}
 }

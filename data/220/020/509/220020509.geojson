@@ -2,13 +2,14 @@
   "id": 220020509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778742,39.448349,-119.778742,39.448349",
     "geom:latitude":39.448349,
     "geom:longitude":-119.778742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Len Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220020509,
-    "wof:lastmodified":1449074394,
+    "wof:lastmodified":1466701675,
     "wof:name":"Advantage Fitness Products",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "exercise"
     ]
 },
-  "bbox": [-119.778742,39.448349,-119.778742,39.448349],
-  "geometry": {"coordinates":[-119.778742,39.448349],"type":"Point"}
+  "bbox": [
+    -119.778742,
+    39.448349,
+    -119.778742,
+    39.448349
+],
+  "geometry": {"coordinates":[-119.77874199999999,39.448349],"type":"Point"}
 }

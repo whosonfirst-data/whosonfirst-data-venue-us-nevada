@@ -2,13 +2,14 @@
   "id": 219769751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137086,36.146462,-115.137086,36.146462",
     "geom:latitude":36.146462,
     "geom:longitude":-115.137086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219769751,
-    "wof:lastmodified":1449071566,
+    "wof:lastmodified":1466704791,
     "wof:name":"Ivocad",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-115.137086,36.146462,-115.137086,36.146462],
+  "bbox": [
+    -115.137086,
+    36.146462,
+    -115.137086,
+    36.146462
+],
   "geometry": {"coordinates":[-115.137086,36.146462],"type":"Point"}
 }

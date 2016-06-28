@@ -2,13 +2,14 @@
   "id": 354000723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082167,36.068739,-115.082167,36.068739",
     "geom:latitude":36.068739,
     "geom:longitude":-115.082167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 N Green Valley Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":354000723,
-    "wof:lastmodified":1449066203,
+    "wof:lastmodified":1466704277,
     "wof:name":"Montessori Children's Academy",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "elementary"
     ]
 },
-  "bbox": [-115.082167,36.068739,-115.082167,36.068739],
+  "bbox": [
+    -115.082167,
+    36.068739,
+    -115.082167,
+    36.068739
+],
   "geometry": {"coordinates":[-115.082167,36.068739],"type":"Point"}
 }

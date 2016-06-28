@@ -2,13 +2,14 @@
   "id": 236300221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.19032,36.134235,-115.19032,36.134235",
     "geom:latitude":36.134235,
     "geom:longitude":-115.19032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3036 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236300221,
-    "wof:lastmodified":1449003522,
+    "wof:lastmodified":1466704703,
     "wof:name":"United Service Alliance LLC",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [-115.19032,36.134235,-115.19032,36.134235],
+  "bbox": [
+    -115.19032,
+    36.134235,
+    -115.19032,
+    36.134235
+],
   "geometry": {"coordinates":[-115.19032,36.134235],"type":"Point"}
 }

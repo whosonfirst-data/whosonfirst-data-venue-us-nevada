@@ -2,13 +2,14 @@
   "id": 236116403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147697,36.049039,-115.147697,36.049039",
     "geom:latitude":36.049039,
     "geom:longitude":-115.147697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7755 Lofty Hill",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236116403,
-    "wof:lastmodified":1449002037,
+    "wof:lastmodified":1466701863,
     "wof:name":"Shopcart",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.147697,36.049039,-115.147697,36.049039],
-  "geometry": {"coordinates":[-115.147697,36.049039],"type":"Point"}
+  "bbox": [
+    -115.147697,
+    36.049039,
+    -115.147697,
+    36.049039
+],
+  "geometry": {"coordinates":[-115.14769699999999,36.049039],"type":"Point"}
 }

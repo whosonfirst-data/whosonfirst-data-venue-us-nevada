@@ -2,13 +2,14 @@
   "id": 203242971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.120873,36.119451,-115.120873,36.119451",
     "geom:latitude":36.119451,
     "geom:longitude":-115.120873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3836 Pima Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203242971,
-    "wof:lastmodified":1449026640,
+    "wof:lastmodified":1466702462,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [-115.120873,36.119451,-115.120873,36.119451],
+  "bbox": [
+    -115.120873,
+    36.119451,
+    -115.120873,
+    36.119451
+],
   "geometry": {"coordinates":[-115.120873,36.119451],"type":"Point"}
 }

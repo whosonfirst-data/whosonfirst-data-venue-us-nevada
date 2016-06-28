@@ -2,13 +2,14 @@
   "id": 236439445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.068987,36.015017,-115.068987,36.015017",
     "geom:latitude":36.015017,
     "geom:longitude":-115.068987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 Country Meadows Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236439445,
-    "wof:lastmodified":1449002374,
+    "wof:lastmodified":1466705557,
     "wof:name":"A Wright Janitorial Carpet Cln",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.068987,36.015017,-115.068987,36.015017],
-  "geometry": {"coordinates":[-115.068987,36.015017],"type":"Point"}
+  "bbox": [
+    -115.068987,
+    36.015017,
+    -115.068987,
+    36.015017
+],
+  "geometry": {"coordinates":[-115.06898700000001,36.015017],"type":"Point"}
 }

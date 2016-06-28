@@ -2,13 +2,14 @@
   "id": 354245379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128998,36.129902,-115.128998,36.129902",
     "geom:latitude":36.129902,
     "geom:longitude":-115.128998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354245379,
-    "wof:lastmodified":1449067620,
+    "wof:lastmodified":1466705285,
     "wof:name":"Orbis Financial Group",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.128998,36.129902,-115.128998,36.129902],
+  "bbox": [
+    -115.128998,
+    36.129902,
+    -115.128998,
+    36.129902
+],
   "geometry": {"coordinates":[-115.128998,36.129902],"type":"Point"}
 }

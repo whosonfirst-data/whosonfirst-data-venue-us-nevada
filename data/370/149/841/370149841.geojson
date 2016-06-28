@@ -2,13 +2,14 @@
   "id": 370149841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.248844,36.211946,-115.248844,36.211946",
     "geom:latitude":36.211946,
     "geom:longitude":-115.248844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7180 Cascade Valley Ct Ste 200",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370149841,
-    "wof:lastmodified":1449029069,
+    "wof:lastmodified":1466701525,
     "wof:name":"Jamie Lee Metz Advanced Aesthetics",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laser"
     ]
 },
-  "bbox": [-115.248844,36.211946,-115.248844,36.211946],
-  "geometry": {"coordinates":[-115.248844,36.211946],"type":"Point"}
+  "bbox": [
+    -115.248844,
+    36.211946,
+    -115.248844,
+    36.211946
+],
+  "geometry": {"coordinates":[-115.24884400000001,36.211946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236293439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.140349,39.590185,-119.140349,39.590185",
     "geom:latitude":39.590185,
     "geom:longitude":-119.140349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Wedge Ln",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236293439,
-    "wof:lastmodified":1449002162,
+    "wof:lastmodified":1466704525,
     "wof:name":"Joe Muncy Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.140349,39.590185,-119.140349,39.590185],
+  "bbox": [
+    -119.140349,
+    39.590185,
+    -119.140349,
+    39.590185
+],
   "geometry": {"coordinates":[-119.140349,39.590185],"type":"Point"}
 }

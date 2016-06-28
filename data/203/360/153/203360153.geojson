@@ -2,13 +2,14 @@
   "id": 203360153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.765259,39.17041,-119.765259,39.17041",
     "geom:latitude":39.17041,
     "geom:longitude":-119.765259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E William St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203360153,
-    "wof:lastmodified":1449026398,
+    "wof:lastmodified":1466703174,
     "wof:name":"Silver Eagle Bail Bonds",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-119.765259,39.17041,-119.765259,39.17041],
+  "bbox": [
+    -119.765259,
+    39.17041,
+    -119.765259,
+    39.17041
+],
   "geometry": {"coordinates":[-119.765259,39.17041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236969281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.950234,36.174539,-115.950234,36.174539",
     "geom:latitude":36.174539,
     "geom:longitude":-115.950234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3163 Rainbow Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236969281,
-    "wof:lastmodified":1449002274,
+    "wof:lastmodified":1466706952,
     "wof:name":"Nevada Dental Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.950234,36.174539,-115.950234,36.174539],
-  "geometry": {"coordinates":[-115.950234,36.174539],"type":"Point"}
+  "bbox": [
+    -115.950234,
+    36.174539,
+    -115.950234,
+    36.174539
+],
+  "geometry": {"coordinates":[-115.95023399999999,36.174539],"type":"Point"}
 }

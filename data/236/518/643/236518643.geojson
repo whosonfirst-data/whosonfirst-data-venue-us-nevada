@@ -2,13 +2,14 @@
   "id": 236518643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.102655,36.000995,-115.102655,36.000995",
     "geom:latitude":36.000995,
     "geom:longitude":-115.102655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2654 W Horizon Ridge Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236518643,
-    "wof:lastmodified":1449003531,
+    "wof:lastmodified":1466705899,
     "wof:name":"T Brothers Tile LLC",
     "wof:parent_id":85878127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.102655,36.000995,-115.102655,36.000995],
+  "bbox": [
+    -115.102655,
+    36.000995,
+    -115.102655,
+    36.000995
+],
   "geometry": {"coordinates":[-115.102655,36.000995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220191971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.908356,36.106698,-114.908356,36.106698",
     "geom:latitude":36.106698,
     "geom:longitude":-114.908356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Ave Fiori",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220191971,
-    "wof:lastmodified":1449074523,
+    "wof:lastmodified":1466703039,
     "wof:name":"Leydecker Family Trust",
     "wof:parent_id":85878101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-114.908356,36.106698,-114.908356,36.106698],
+  "bbox": [
+    -114.908356,
+    36.106698,
+    -114.908356,
+    36.106698
+],
   "geometry": {"coordinates":[-114.908356,36.106698],"type":"Point"}
 }

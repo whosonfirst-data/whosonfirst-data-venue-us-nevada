@@ -2,13 +2,14 @@
   "id": 220024777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.158958,36.143786,-115.158958,36.143786",
     "geom:latitude":36.143786,
     "geom:longitude":-115.158958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220024777,
-    "wof:lastmodified":1449074409,
+    "wof:lastmodified":1466701753,
     "wof:name":"Attention Sign Co",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-115.158958,36.143786,-115.158958,36.143786],
+  "bbox": [
+    -115.158958,
+    36.143786,
+    -115.158958,
+    36.143786
+],
   "geometry": {"coordinates":[-115.158958,36.143786],"type":"Point"}
 }

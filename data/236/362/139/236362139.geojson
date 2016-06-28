@@ -2,13 +2,14 @@
   "id": 236362139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284036,36.165242,-115.284036,36.165242",
     "geom:latitude":36.165242,
     "geom:longitude":-115.284036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8621 Trianon Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236362139,
-    "wof:lastmodified":1449003851,
+    "wof:lastmodified":1466705129,
     "wof:name":"Jjr Consulting Inc",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.284036,36.165242,-115.284036,36.165242],
+  "bbox": [
+    -115.284036,
+    36.165242,
+    -115.284036,
+    36.165242
+],
   "geometry": {"coordinates":[-115.284036,36.165242],"type":"Point"}
 }

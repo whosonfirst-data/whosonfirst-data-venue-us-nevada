@@ -2,13 +2,14 @@
   "id": 236265815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.29807,36.140086,-115.29807,36.140086",
     "geom:latitude":36.140086,
     "geom:longitude":-115.29807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 Deep Water Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236265815,
-    "wof:lastmodified":1449002635,
+    "wof:lastmodified":1466704601,
     "wof:name":"Muruato Concrete Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.29807,36.140086,-115.29807,36.140086],
+  "bbox": [
+    -115.29807,
+    36.140086,
+    -115.29807,
+    36.140086
+],
   "geometry": {"coordinates":[-115.29807,36.140086],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236361911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206058,36.157919,-115.206058,36.157919",
     "geom:latitude":36.157919,
     "geom:longitude":-115.206058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236361911,
-    "wof:lastmodified":1449004171,
+    "wof:lastmodified":1466704989,
     "wof:name":"Tuesday Morning 194",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.206058,36.157919,-115.206058,36.157919],
+  "bbox": [
+    -115.206058,
+    36.157919,
+    -115.206058,
+    36.157919
+],
   "geometry": {"coordinates":[-115.206058,36.157919],"type":"Point"}
 }

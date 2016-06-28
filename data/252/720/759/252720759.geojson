@@ -2,13 +2,14 @@
   "id": 252720759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.696089,39.180179,-119.696089,39.180179",
     "geom:latitude":39.180179,
     "geom:longitude":-119.696089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 N Deer Run Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":252720759,
-    "wof:lastmodified":1449005684,
+    "wof:lastmodified":1466701745,
     "wof:name":"Sharp Reporting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-119.696089,39.180179,-119.696089,39.180179],
+  "bbox": [
+    -119.696089,
+    39.180179,
+    -119.696089,
+    39.180179
+],
   "geometry": {"coordinates":[-119.696089,39.180179],"type":"Point"}
 }

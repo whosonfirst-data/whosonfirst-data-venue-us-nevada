@@ -2,13 +2,14 @@
   "id": 354283241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.053927,36.241665,-115.053927,36.241665",
     "geom:latitude":36.241665,
     "geom:longitude":-115.053927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 Las Vegas Blvd N Ste C",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354283241,
-    "wof:lastmodified":1449066412,
+    "wof:lastmodified":1466705497,
     "wof:name":"Blueberry Hill Family Restaurant",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-115.053927,36.241665,-115.053927,36.241665],
+  "bbox": [
+    -115.053927,
+    36.241665,
+    -115.053927,
+    36.241665
+],
   "geometry": {"coordinates":[-115.053927,36.241665],"type":"Point"}
 }

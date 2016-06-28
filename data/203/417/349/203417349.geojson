@@ -2,13 +2,14 @@
   "id": 203417349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.930426,39.518364,-119.930426,39.518364",
     "geom:latitude":39.518364,
     "geom:longitude":-119.930426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10390 Nighthawk Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203417349,
-    "wof:lastmodified":1449025698,
+    "wof:lastmodified":1466703394,
     "wof:name":"Stencil Plus By Sharon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-119.930426,39.518364,-119.930426,39.518364],
+  "bbox": [
+    -119.930426,
+    39.518364,
+    -119.930426,
+    39.518364
+],
   "geometry": {"coordinates":[-119.930426,39.518364],"type":"Point"}
 }

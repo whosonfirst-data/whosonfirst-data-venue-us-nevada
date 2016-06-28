@@ -2,13 +2,14 @@
   "id": 219813459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.963457,41.110574,-114.963457,41.110574",
     "geom:latitude":41.110574,
     "geom:longitude":-114.963457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 6th St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219813459,
-    "wof:lastmodified":1449071306,
+    "wof:lastmodified":1466705156,
     "wof:name":"Robert Supp's Insurance",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.963457,41.110574,-114.963457,41.110574],
-  "geometry": {"coordinates":[-114.963457,41.110574],"type":"Point"}
+  "bbox": [
+    -114.963457,
+    41.110574,
+    -114.963457,
+    41.110574
+],
+  "geometry": {"coordinates":[-114.96345700000001,41.110574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236778653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.796337,39.50084,-119.796337,39.50084",
     "geom:latitude":39.50084,
     "geom:longitude":-119.796337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 E Grove St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236778653,
-    "wof:lastmodified":1449001725,
+    "wof:lastmodified":1466706620,
     "wof:name":"Chocolate Walrus",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-119.796337,39.50084,-119.796337,39.50084],
-  "geometry": {"coordinates":[-119.796337,39.50084],"type":"Point"}
+  "bbox": [
+    -119.796337,
+    39.50084,
+    -119.796337,
+    39.50084
+],
+  "geometry": {"coordinates":[-119.79633699999999,39.50084],"type":"Point"}
 }

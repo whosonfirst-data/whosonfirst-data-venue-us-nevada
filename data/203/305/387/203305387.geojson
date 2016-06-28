@@ -2,13 +2,14 @@
   "id": 203305387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.757616,39.19445,-119.757616,39.19445",
     "geom:latitude":39.19445,
     "geom:longitude":-119.757616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 Mark Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203305387,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466702888,
     "wof:name":"Lyles Studio",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plaque"
     ]
 },
-  "bbox": [-119.757616,39.19445,-119.757616,39.19445],
+  "bbox": [
+    -119.757616,
+    39.19445,
+    -119.757616,
+    39.19445
+],
   "geometry": {"coordinates":[-119.757616,39.19445],"type":"Point"}
 }

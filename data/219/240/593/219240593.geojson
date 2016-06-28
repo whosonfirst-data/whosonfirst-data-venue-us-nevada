@@ -2,13 +2,14 @@
   "id": 219240593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.177636,36.174537,-115.177636,36.174537",
     "geom:latitude":36.174537,
     "geom:longitude":-115.177636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Narcissus Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219240593,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1466702436,
     "wof:name":"Vida Dulce",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.177636,36.174537,-115.177636,36.174537],
-  "geometry": {"coordinates":[-115.177636,36.174537],"type":"Point"}
+  "bbox": [
+    -115.177636,
+    36.174537,
+    -115.177636,
+    36.174537
+],
+  "geometry": {"coordinates":[-115.17763600000001,36.174537],"type":"Point"}
 }

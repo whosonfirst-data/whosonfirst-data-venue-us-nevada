@@ -2,13 +2,14 @@
   "id": 219882081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303248,36.187378,-115.303248,36.187378",
     "geom:latitude":36.187378,
     "geom:longitude":-115.303248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9501 Hillwood Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219882081,
-    "wof:lastmodified":1449071025,
+    "wof:lastmodified":1466705434,
     "wof:name":"Lvi Travel",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.303248,36.187378,-115.303248,36.187378],
+  "bbox": [
+    -115.303248,
+    36.187378,
+    -115.303248,
+    36.187378
+],
   "geometry": {"coordinates":[-115.303248,36.187378],"type":"Point"}
 }

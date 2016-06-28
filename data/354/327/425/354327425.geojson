@@ -2,13 +2,14 @@
   "id": 354327425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.191561,36.084374,-115.191561,36.084374",
     "geom:latitude":36.084374,
     "geom:longitude":-115.191561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 W Quail Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354327425,
-    "wof:lastmodified":1449066056,
+    "wof:lastmodified":1466705784,
     "wof:name":"Bomel Construction",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.191561,36.084374,-115.191561,36.084374],
-  "geometry": {"coordinates":[-115.191561,36.084374],"type":"Point"}
+  "bbox": [
+    -115.191561,
+    36.084374,
+    -115.191561,
+    36.084374
+],
+  "geometry": {"coordinates":[-115.19156099999999,36.084374],"type":"Point"}
 }

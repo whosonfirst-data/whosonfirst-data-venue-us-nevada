@@ -2,13 +2,14 @@
   "id": 236460351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768639,39.183487,-119.768639,39.183487",
     "geom:latitude":39.183487,
     "geom:longitude":-119.768639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236460351,
-    "wof:lastmodified":1449005025,
+    "wof:lastmodified":1466705636,
     "wof:name":"Quik Internet",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-119.768639,39.183487,-119.768639,39.183487],
-  "geometry": {"coordinates":[-119.768639,39.183487],"type":"Point"}
+  "bbox": [
+    -119.768639,
+    39.183487,
+    -119.768639,
+    39.183487
+],
+  "geometry": {"coordinates":[-119.76863899999999,39.183487],"type":"Point"}
 }

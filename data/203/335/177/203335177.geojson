@@ -2,13 +2,14 @@
   "id": 203335177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.044305,36.124365,-115.044305,36.124365",
     "geom:latitude":36.124365,
     "geom:longitude":-115.044305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5932 Swan Point Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203335177,
-    "wof:lastmodified":1449026234,
+    "wof:lastmodified":1466703060,
     "wof:name":"El Visible Design",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-115.044305,36.124365,-115.044305,36.124365],
-  "geometry": {"coordinates":[-115.044305,36.124365],"type":"Point"}
+  "bbox": [
+    -115.044305,
+    36.124365,
+    -115.044305,
+    36.124365
+],
+  "geometry": {"coordinates":[-115.04430499999999,36.124365],"type":"Point"}
 }

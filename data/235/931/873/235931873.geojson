@@ -2,13 +2,14 @@
   "id": 235931873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153131,36.042398,-115.153131,36.042398",
     "geom:latitude":36.042398,
     "geom:longitude":-115.153131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Windmill Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":235931873,
-    "wof:lastmodified":1449008580,
+    "wof:lastmodified":1466703456,
     "wof:name":"Sin City K-9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dog"
     ]
 },
-  "bbox": [-115.153131,36.042398,-115.153131,36.042398],
+  "bbox": [
+    -115.153131,
+    36.042398,
+    -115.153131,
+    36.042398
+],
   "geometry": {"coordinates":[-115.153131,36.042398],"type":"Point"}
 }

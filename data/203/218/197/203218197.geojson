@@ -2,13 +2,14 @@
   "id": 203218197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.755854,36.906298,-116.755854,36.906298",
     "geom:latitude":36.906298,
     "geom:longitude":-116.755854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Amargosa St",
     "sg:city":"Beatty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203218197,
-    "wof:lastmodified":1449026173,
+    "wof:lastmodified":1466702215,
     "wof:name":"Janda Ribbons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trophy"
     ]
 },
-  "bbox": [-116.755854,36.906298,-116.755854,36.906298],
+  "bbox": [
+    -116.755854,
+    36.906298,
+    -116.755854,
+    36.906298
+],
   "geometry": {"coordinates":[-116.755854,36.906298],"type":"Point"}
 }

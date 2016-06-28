@@ -2,13 +2,14 @@
   "id": 236603477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.752943,39.539628,-119.752943,39.539628",
     "geom:latitude":39.539628,
     "geom:longitude":-119.752943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Pyramid Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236603477,
-    "wof:lastmodified":1449004633,
+    "wof:lastmodified":1466706266,
     "wof:name":"Bgk Enterprises LLC",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-119.752943,39.539628,-119.752943,39.539628],
+  "bbox": [
+    -119.752943,
+    39.539628,
+    -119.752943,
+    39.539628
+],
   "geometry": {"coordinates":[-119.752943,39.539628],"type":"Point"}
 }

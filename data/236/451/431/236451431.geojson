@@ -2,13 +2,14 @@
   "id": 236451431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766193,39.530038,-119.766193,39.530038",
     "geom:latitude":39.530038,
     "geom:longitude":-119.766193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236451431,
-    "wof:lastmodified":1449003027,
+    "wof:lastmodified":1466705594,
     "wof:name":"Harlan Fricke Consulting",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.766193,39.530038,-119.766193,39.530038],
+  "bbox": [
+    -119.766193,
+    39.530038,
+    -119.766193,
+    39.530038
+],
   "geometry": {"coordinates":[-119.766193,39.530038],"type":"Point"}
 }

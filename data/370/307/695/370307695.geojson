@@ -2,13 +2,14 @@
   "id": 370307695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.557029,38.732663,-119.557029,38.732663",
     "geom:latitude":38.732663,
     "geom:longitude":-119.557029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 US Highway 395 N",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370307695,
-    "wof:lastmodified":1449029972,
+    "wof:lastmodified":1466704640,
     "wof:name":"Radio Frequency Systems, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-119.557029,38.732663,-119.557029,38.732663],
+  "bbox": [
+    -119.557029,
+    38.732663,
+    -119.557029,
+    38.732663
+],
   "geometry": {"coordinates":[-119.557029,38.732663],"type":"Point"}
 }

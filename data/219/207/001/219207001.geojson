@@ -2,13 +2,14 @@
   "id": 219207001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.137077,36.151686,-115.137077,36.151686",
     "geom:latitude":36.151686,
     "geom:longitude":-115.137077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219207001,
-    "wof:lastmodified":1449072861,
+    "wof:lastmodified":1466704205,
     "wof:name":"Personnel Development Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-115.137077,36.151686,-115.137077,36.151686],
-  "geometry": {"coordinates":[-115.137077,36.151686],"type":"Point"}
+  "bbox": [
+    -115.137077,
+    36.151686,
+    -115.137077,
+    36.151686
+],
+  "geometry": {"coordinates":[-115.13707700000001,36.151686],"type":"Point"}
 }

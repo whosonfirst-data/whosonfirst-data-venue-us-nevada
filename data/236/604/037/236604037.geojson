@@ -2,13 +2,14 @@
   "id": 236604037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.725194,39.527224,-119.725194,39.527224",
     "geom:latitude":39.527224,
     "geom:longitude":-119.725194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236604037,
-    "wof:lastmodified":1449004786,
+    "wof:lastmodified":1466706146,
     "wof:name":"R R Donnelley Logistics",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-119.725194,39.527224,-119.725194,39.527224],
+  "bbox": [
+    -119.725194,
+    39.527224,
+    -119.725194,
+    39.527224
+],
   "geometry": {"coordinates":[-119.725194,39.527224],"type":"Point"}
 }

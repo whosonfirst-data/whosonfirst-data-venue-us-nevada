@@ -2,13 +2,14 @@
   "id": 220113923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764483,39.168519,-119.764483,39.168519",
     "geom:latitude":39.168519,
     "geom:longitude":-119.764483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Washington St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220113923,
-    "wof:lastmodified":1449074808,
+    "wof:lastmodified":1466702484,
     "wof:name":"Rudy's Bail Bonds",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-119.764483,39.168519,-119.764483,39.168519],
+  "bbox": [
+    -119.764483,
+    39.168519,
+    -119.764483,
+    39.168519
+],
   "geometry": {"coordinates":[-119.764483,39.168519],"type":"Point"}
 }

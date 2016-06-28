@@ -2,13 +2,14 @@
   "id": 236574177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766825,39.525281,-119.766825,39.525281",
     "geom:latitude":39.525281,
     "geom:longitude":-119.766825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 S Rock Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236574177,
-    "wof:lastmodified":1449001661,
+    "wof:lastmodified":1466706320,
     "wof:name":"Rainbo Bread",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-119.766825,39.525281,-119.766825,39.525281],
+  "bbox": [
+    -119.766825,
+    39.525281,
+    -119.766825,
+    39.525281
+],
   "geometry": {"coordinates":[-119.766825,39.525281],"type":"Point"}
 }

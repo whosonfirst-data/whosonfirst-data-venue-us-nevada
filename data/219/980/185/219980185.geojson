@@ -2,13 +2,14 @@
   "id": 219980185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.733492,40.973014,-117.733492,40.973014",
     "geom:latitude":40.973014,
     "geom:longitude":-117.733492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E 4th St",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219980185,
-    "wof:lastmodified":1449070617,
+    "wof:lastmodified":1466705968,
     "wof:name":"Michael Shurtz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-117.733492,40.973014,-117.733492,40.973014],
+  "bbox": [
+    -117.733492,
+    40.973014,
+    -117.733492,
+    40.973014
+],
   "geometry": {"coordinates":[-117.733492,40.973014],"type":"Point"}
 }

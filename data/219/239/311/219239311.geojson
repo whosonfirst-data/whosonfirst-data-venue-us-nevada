@@ -2,13 +2,14 @@
   "id": 219239311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.990423,36.000311,-114.990423,36.000311",
     "geom:latitude":36.000311,
     "geom:longitude":-114.990423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Voltaire Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219239311,
-    "wof:lastmodified":1449070729,
+    "wof:lastmodified":1466702427,
     "wof:name":"Palm Hills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.990423,36.000311,-114.990423,36.000311],
-  "geometry": {"coordinates":[-114.990423,36.000311],"type":"Point"}
+  "bbox": [
+    -114.990423,
+    36.000311,
+    -114.990423,
+    36.000311
+],
+  "geometry": {"coordinates":[-114.99042300000001,36.000311],"type":"Point"}
 }

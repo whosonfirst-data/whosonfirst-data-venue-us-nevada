@@ -2,13 +2,14 @@
   "id": 219635873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.097782,36.029467,-115.097782,36.029467",
     "geom:latitude":36.029467,
     "geom:longitude":-115.097782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 Furnace Creek Ave",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219635873,
-    "wof:lastmodified":1449071914,
+    "wof:lastmodified":1466703566,
     "wof:name":"On Guard Safety & Loss Control",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-115.097782,36.029467,-115.097782,36.029467],
+  "bbox": [
+    -115.097782,
+    36.029467,
+    -115.097782,
+    36.029467
+],
   "geometry": {"coordinates":[-115.097782,36.029467],"type":"Point"}
 }

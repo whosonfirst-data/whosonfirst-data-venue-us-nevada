@@ -2,13 +2,14 @@
   "id": 219544547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.267305,36.228338,-115.267305,36.228338",
     "geom:latitude":36.228338,
     "geom:longitude":-115.267305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7925 McDowell Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219544547,
-    "wof:lastmodified":1449073909,
+    "wof:lastmodified":1466702131,
     "wof:name":"Swecker Medical Management",
     "wof:parent_id":85892655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-115.267305,36.228338,-115.267305,36.228338],
-  "geometry": {"coordinates":[-115.267305,36.228338],"type":"Point"}
+  "bbox": [
+    -115.267305,
+    36.228338,
+    -115.267305,
+    36.228338
+],
+  "geometry": {"coordinates":[-115.26730499999999,36.228338],"type":"Point"}
 }

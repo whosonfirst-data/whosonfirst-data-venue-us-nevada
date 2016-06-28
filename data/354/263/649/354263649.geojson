@@ -2,13 +2,14 @@
   "id": 354263649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147003,36.124599,-115.147003,36.124599",
     "geom:latitude":36.124599,
     "geom:longitude":-115.147003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 N Royal Crest Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354263649,
-    "wof:lastmodified":1449067630,
+    "wof:lastmodified":1466705462,
     "wof:name":"Alexander Villas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.147003,36.124599,-115.147003,36.124599],
+  "bbox": [
+    -115.147003,
+    36.124599,
+    -115.147003,
+    36.124599
+],
   "geometry": {"coordinates":[-115.147003,36.124599],"type":"Point"}
 }

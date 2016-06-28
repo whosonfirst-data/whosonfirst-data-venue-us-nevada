@@ -2,13 +2,14 @@
   "id": 219197267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801881,39.533186,-119.801881,39.533186",
     "geom:latitude":39.533186,
     "geom:longitude":-119.801881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Morrill Ave",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219197267,
-    "wof:lastmodified":1449073475,
+    "wof:lastmodified":1466702045,
     "wof:name":"Desert Auto Upholstery",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-119.801881,39.533186,-119.801881,39.533186],
-  "geometry": {"coordinates":[-119.801881,39.533186],"type":"Point"}
+  "bbox": [
+    -119.801881,
+    39.533186,
+    -119.801881,
+    39.533186
+],
+  "geometry": {"coordinates":[-119.80188099999999,39.533186],"type":"Point"}
 }

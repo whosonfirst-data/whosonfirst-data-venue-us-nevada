@@ -2,13 +2,14 @@
   "id": 203398507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777701,39.545549,-119.777701,39.545549",
     "geom:latitude":39.545549,
     "geom:longitude":-119.777701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Oddie Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203398507,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466703317,
     "wof:name":"Woody's Chicago Style",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.777701,39.545549,-119.777701,39.545549],
-  "geometry": {"coordinates":[-119.777701,39.545549],"type":"Point"}
+  "bbox": [
+    -119.777701,
+    39.545549,
+    -119.777701,
+    39.545549
+],
+  "geometry": {"coordinates":[-119.77770099999999,39.545549],"type":"Point"}
 }

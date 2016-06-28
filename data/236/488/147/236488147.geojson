@@ -2,13 +2,14 @@
   "id": 236488147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.781601,39.47385,-118.781601,39.47385",
     "geom:latitude":39.47385,
     "geom:longitude":-118.781601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Taylor St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236488147,
-    "wof:lastmodified":1449005149,
+    "wof:lastmodified":1466705624,
     "wof:name":"Sunshine Child Care & Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.781601,39.47385,-118.781601,39.47385],
-  "geometry": {"coordinates":[-118.781601,39.47385],"type":"Point"}
+  "bbox": [
+    -118.781601,
+    39.47385,
+    -118.781601,
+    39.47385
+],
+  "geometry": {"coordinates":[-118.78160099999999,39.47385],"type":"Point"}
 }

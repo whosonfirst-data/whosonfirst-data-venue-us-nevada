@@ -2,13 +2,14 @@
   "id": 219202787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.833316,39.558575,-119.833316,39.558575",
     "geom:latitude":39.558575,
     "geom:longitude":-119.833316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3341 Adler Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219202787,
-    "wof:lastmodified":1449073455,
+    "wof:lastmodified":1466702087,
     "wof:name":"Right Stuff of Tahoe Inc",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-119.833316,39.558575,-119.833316,39.558575],
+  "bbox": [
+    -119.833316,
+    39.558575,
+    -119.833316,
+    39.558575
+],
   "geometry": {"coordinates":[-119.833316,39.558575],"type":"Point"}
 }

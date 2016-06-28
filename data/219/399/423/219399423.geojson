@@ -2,13 +2,14 @@
   "id": 219399423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.972434,39.255805,-119.972434,39.255805",
     "geom:latitude":39.255805,
     "geom:longitude":-119.972434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Lariat Cir",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219399423,
-    "wof:lastmodified":1449071015,
+    "wof:lastmodified":1466703624,
     "wof:name":"Sagebrush Executive Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-119.972434,39.255805,-119.972434,39.255805],
-  "geometry": {"coordinates":[-119.972434,39.255805],"type":"Point"}
+  "bbox": [
+    -119.972434,
+    39.255805,
+    -119.972434,
+    39.255805
+],
+  "geometry": {"coordinates":[-119.97243400000001,39.255805],"type":"Point"}
 }

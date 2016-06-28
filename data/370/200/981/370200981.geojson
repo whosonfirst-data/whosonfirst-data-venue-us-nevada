@@ -2,13 +2,14 @@
   "id": 370200981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.317806,36.158869,-115.317806,36.158869",
     "geom:latitude":36.158869,
     "geom:longitude":-115.317806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10247 West Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370200981,
-    "wof:lastmodified":1449030439,
+    "wof:lastmodified":1466702530,
     "wof:name":"Canine Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "groomers"
     ]
 },
-  "bbox": [-115.317806,36.158869,-115.317806,36.158869],
+  "bbox": [
+    -115.317806,
+    36.158869,
+    -115.317806,
+    36.158869
+],
   "geometry": {"coordinates":[-115.317806,36.158869],"type":"Point"}
 }

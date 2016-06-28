@@ -2,13 +2,14 @@
   "id": 236260401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.747462,39.525463,-119.747462,39.525463",
     "geom:latitude":39.525463,
     "geom:longitude":-119.747462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Freeport Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236260401,
-    "wof:lastmodified":1449002087,
+    "wof:lastmodified":1466704437,
     "wof:name":"First Solutions",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-119.747462,39.525463,-119.747462,39.525463],
+  "bbox": [
+    -119.747462,
+    39.525463,
+    -119.747462,
+    39.525463
+],
   "geometry": {"coordinates":[-119.747462,39.525463],"type":"Point"}
 }

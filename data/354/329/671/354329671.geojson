@@ -2,13 +2,14 @@
   "id": 354329671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20806,36.090962,-115.20806,36.090962",
     "geom:latitude":36.090962,
     "geom:longitude":-115.20806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5445 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354329671,
-    "wof:lastmodified":1449066377,
+    "wof:lastmodified":1466706051,
     "wof:name":"AGRwindshields.com",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "installation"
     ]
 },
-  "bbox": [-115.20806,36.090962,-115.20806,36.090962],
+  "bbox": [
+    -115.20806,
+    36.090962,
+    -115.20806,
+    36.090962
+],
   "geometry": {"coordinates":[-115.20806,36.090962],"type":"Point"}
 }

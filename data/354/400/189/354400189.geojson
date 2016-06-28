@@ -2,13 +2,14 @@
   "id": 354400189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172232,36.024056,-115.172232,36.024056",
     "geom:latitude":36.024056,
     "geom:longitude":-115.172232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9145 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354400189,
-    "wof:lastmodified":1449066096,
+    "wof:lastmodified":1466706276,
     "wof:name":"Asian Express",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chinese"
     ]
 },
-  "bbox": [-115.172232,36.024056,-115.172232,36.024056],
-  "geometry": {"coordinates":[-115.172232,36.024056],"type":"Point"}
+  "bbox": [
+    -115.172232,
+    36.024056,
+    -115.172232,
+    36.024056
+],
+  "geometry": {"coordinates":[-115.17223199999999,36.024056],"type":"Point"}
 }

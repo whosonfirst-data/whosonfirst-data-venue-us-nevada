@@ -2,13 +2,14 @@
   "id": 236427573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777546,38.955192,-119.777546,38.955192",
     "geom:latitude":38.955192,
     "geom:longitude":-119.777546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Library Ln",
     "sg:city":"Stateline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236427573,
-    "wof:lastmodified":1449002476,
+    "wof:lastmodified":1466705362,
     "wof:name":"Douglas County Juvenile Prbtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.777546,38.955192,-119.777546,38.955192],
+  "bbox": [
+    -119.777546,
+    38.955192,
+    -119.777546,
+    38.955192
+],
   "geometry": {"coordinates":[-119.777546,38.955192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219215983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.192593,36.161511,-115.192593,36.161511",
     "geom:latitude":36.161511,
     "geom:longitude":-115.192593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219215983,
-    "wof:lastmodified":1449073312,
+    "wof:lastmodified":1466702218,
     "wof:name":"Stained Glass Overlay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artist"
     ]
 },
-  "bbox": [-115.192593,36.161511,-115.192593,36.161511],
+  "bbox": [
+    -115.192593,
+    36.161511,
+    -115.192593,
+    36.161511
+],
   "geometry": {"coordinates":[-115.192593,36.161511],"type":"Point"}
 }

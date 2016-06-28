@@ -2,13 +2,14 @@
   "id": 203376621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.782451,39.082791,-119.782451,39.082791",
     "geom:latitude":39.082791,
     "geom:longitude":-119.782451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Amador Cir",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203376621,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466703238,
     "wof:name":"D's Custom Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.782451,39.082791,-119.782451,39.082791],
-  "geometry": {"coordinates":[-119.782451,39.082791],"type":"Point"}
+  "bbox": [
+    -119.782451,
+    39.082791,
+    -119.782451,
+    39.082791
+],
+  "geometry": {"coordinates":[-119.78245099999999,39.082791],"type":"Point"}
 }

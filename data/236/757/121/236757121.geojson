@@ -2,13 +2,14 @@
   "id": 236757121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269025,36.262563,-115.269025,36.262563",
     "geom:latitude":36.262563,
     "geom:longitude":-115.269025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 Painted Rock Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236757121,
-    "wof:lastmodified":1449003528,
+    "wof:lastmodified":1466706568,
     "wof:name":"Nationwide Appraisal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-115.269025,36.262563,-115.269025,36.262563],
+  "bbox": [
+    -115.269025,
+    36.262563,
+    -115.269025,
+    36.262563
+],
   "geometry": {"coordinates":[-115.269025,36.262563],"type":"Point"}
 }

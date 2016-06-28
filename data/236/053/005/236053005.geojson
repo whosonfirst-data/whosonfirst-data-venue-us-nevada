@@ -2,13 +2,14 @@
   "id": 236053005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.244234,36.164182,-115.244234,36.164182",
     "geom:latitude":36.164182,
     "geom:longitude":-115.244234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236053005,
-    "wof:lastmodified":1449002144,
+    "wof:lastmodified":1466703968,
     "wof:name":"ABC Lumber Jacks Inc",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.244234,36.164182,-115.244234,36.164182],
-  "geometry": {"coordinates":[-115.244234,36.164182],"type":"Point"}
+  "bbox": [
+    -115.244234,
+    36.164182,
+    -115.244234,
+    36.164182
+],
+  "geometry": {"coordinates":[-115.24423400000001,36.164182],"type":"Point"}
 }

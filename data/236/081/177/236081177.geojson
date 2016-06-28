@@ -2,13 +2,14 @@
   "id": 236081177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266241,36.238933,-115.266241,36.238933",
     "geom:latitude":36.238933,
     "geom:longitude":-115.266241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7860 Helena Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236081177,
-    "wof:lastmodified":1449002514,
+    "wof:lastmodified":1466704100,
     "wof:name":"Mitchell Space Engineering",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-115.266241,36.238933,-115.266241,36.238933],
-  "geometry": {"coordinates":[-115.266241,36.238933],"type":"Point"}
+  "bbox": [
+    -115.266241,
+    36.238933,
+    -115.266241,
+    36.238933
+],
+  "geometry": {"coordinates":[-115.26624099999999,36.238933],"type":"Point"}
 }

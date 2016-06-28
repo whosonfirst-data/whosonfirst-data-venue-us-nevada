@@ -2,13 +2,14 @@
   "id": 337301359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.624668,38.521355,-118.624668,38.521355",
     "geom:latitude":38.521355,
     "geom:longitude":-118.624668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 E St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337301359,
-    "wof:lastmodified":1449027136,
+    "wof:lastmodified":1466701763,
     "wof:name":"Hawthorne Utilities Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-118.624668,38.521355,-118.624668,38.521355],
+  "bbox": [
+    -118.624668,
+    38.521355,
+    -118.624668,
+    38.521355
+],
   "geometry": {"coordinates":[-118.624668,38.521355],"type":"Point"}
 }

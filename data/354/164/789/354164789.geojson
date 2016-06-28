@@ -2,13 +2,14 @@
   "id": 354164789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.10541,36.159027,-115.10541,36.159027",
     "geom:latitude":36.159027,
     "geom:longitude":-115.10541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 E Charleston Blvd Ste 114",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354164789,
-    "wof:lastmodified":1449066136,
+    "wof:lastmodified":1466704657,
     "wof:name":"Andrea Shoes",
     "wof:parent_id":85892659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.10541,36.159027,-115.10541,36.159027],
-  "geometry": {"coordinates":[-115.10541,36.159027],"type":"Point"}
+  "bbox": [
+    -115.10541,
+    36.159027,
+    -115.10541,
+    36.159027
+],
+  "geometry": {"coordinates":[-115.10541000000001,36.159027],"type":"Point"}
 }

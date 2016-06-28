@@ -2,13 +2,14 @@
   "id": 354185661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154999,36.159698,-115.154999,36.159698",
     "geom:latitude":36.159698,
     "geom:longitude":-115.154999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S Commerce St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":354185661,
-    "wof:lastmodified":1449066217,
+    "wof:lastmodified":1466704922,
     "wof:name":"Tres Amigos Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-115.154999,36.159698,-115.154999,36.159698],
+  "bbox": [
+    -115.154999,
+    36.159698,
+    -115.154999,
+    36.159698
+],
   "geometry": {"coordinates":[-115.154999,36.159698],"type":"Point"}
 }

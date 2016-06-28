@@ -2,13 +2,14 @@
   "id": 220169451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154579,36.06496,-115.154579,36.06496",
     "geom:latitude":36.06496,
     "geom:longitude":-115.154579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6855 Bermuda Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220169451,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466702874,
     "wof:name":"To Snack & More",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.154579,36.06496,-115.154579,36.06496],
+  "bbox": [
+    -115.154579,
+    36.06496,
+    -115.154579,
+    36.06496
+],
   "geometry": {"coordinates":[-115.154579,36.06496],"type":"Point"}
 }

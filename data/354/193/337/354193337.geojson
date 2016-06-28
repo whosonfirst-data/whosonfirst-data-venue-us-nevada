@@ -2,13 +2,14 @@
   "id": 354193337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17288,36.164388,-115.17288,36.164388",
     "geom:latitude":36.164388,
     "geom:longitude":-115.17288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Rancho Dr Ste 103",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354193337,
-    "wof:lastmodified":1449066212,
+    "wof:lastmodified":1466704982,
     "wof:name":"Matt Smith Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.17288,36.164388,-115.17288,36.164388],
-  "geometry": {"coordinates":[-115.17288,36.164388],"type":"Point"}
+  "bbox": [
+    -115.17288,
+    36.164388,
+    -115.17288,
+    36.164388
+],
+  "geometry": {"coordinates":[-115.17288000000001,36.164388],"type":"Point"}
 }

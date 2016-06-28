@@ -2,13 +2,14 @@
   "id": 220047041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.115706,36.155556,-115.115706,36.155556",
     "geom:latitude":36.155556,
     "geom:longitude":-115.115706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2433 Clifford Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220047041,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466701944,
     "wof:name":"Atlantic Limetree Apartments",
     "wof:parent_id":85892711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.115706,36.155556,-115.115706,36.155556],
+  "bbox": [
+    -115.115706,
+    36.155556,
+    -115.115706,
+    36.155556
+],
   "geometry": {"coordinates":[-115.115706,36.155556],"type":"Point"}
 }

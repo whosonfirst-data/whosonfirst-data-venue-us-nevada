@@ -2,13 +2,14 @@
   "id": 219903461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.801425,39.525643,-119.801425,39.525643",
     "geom:latitude":39.525643,
     "geom:longitude":-119.801425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219903461,
-    "wof:lastmodified":1449070593,
+    "wof:lastmodified":1466705562,
     "wof:name":"Neveda Medical Consultants",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.801425,39.525643,-119.801425,39.525643],
-  "geometry": {"coordinates":[-119.801425,39.525643],"type":"Point"}
+  "bbox": [
+    -119.801425,
+    39.525643,
+    -119.801425,
+    39.525643
+],
+  "geometry": {"coordinates":[-119.80142499999999,39.525643],"type":"Point"}
 }

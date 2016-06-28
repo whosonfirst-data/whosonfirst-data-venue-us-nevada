@@ -2,13 +2,14 @@
   "id": 219970119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.813781,39.532647,-119.813781,39.532647",
     "geom:latitude":39.532647,
     "geom:longitude":-119.813781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Center St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219970119,
-    "wof:lastmodified":1449073853,
+    "wof:lastmodified":1466705913,
     "wof:name":"Shamrock Inn Motel",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.813781,39.532647,-119.813781,39.532647],
-  "geometry": {"coordinates":[-119.813781,39.532647],"type":"Point"}
+  "bbox": [
+    -119.813781,
+    39.532647,
+    -119.813781,
+    39.532647
+],
+  "geometry": {"coordinates":[-119.81378100000001,39.532647],"type":"Point"}
 }

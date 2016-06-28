@@ -2,13 +2,14 @@
   "id": 235964757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.080251,36.181533,-115.080251,36.181533",
     "geom:latitude":36.181533,
     "geom:longitude":-115.080251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N Lamb Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235964757,
-    "wof:lastmodified":1449008517,
+    "wof:lastmodified":1466703596,
     "wof:name":"Villa Borega",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-115.080251,36.181533,-115.080251,36.181533],
+  "bbox": [
+    -115.080251,
+    36.181533,
+    -115.080251,
+    36.181533
+],
   "geometry": {"coordinates":[-115.080251,36.181533],"type":"Point"}
 }

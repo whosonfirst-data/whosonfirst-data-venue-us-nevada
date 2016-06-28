@@ -2,13 +2,14 @@
   "id": 354046657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.085503,36.021591,-115.085503,36.021591",
     "geom:latitude":36.021591,
     "geom:longitude":-115.085503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Village Walk Dr # 175",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":354046657,
-    "wof:lastmodified":1449066885,
+    "wof:lastmodified":1466702680,
     "wof:name":"D'Mustard",
     "wof:parent_id":85878091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "dog"
     ]
 },
-  "bbox": [-115.085503,36.021591,-115.085503,36.021591],
+  "bbox": [
+    -115.085503,
+    36.021591,
+    -115.085503,
+    36.021591
+],
   "geometry": {"coordinates":[-115.085503,36.021591],"type":"Point"}
 }

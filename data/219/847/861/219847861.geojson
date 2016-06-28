@@ -2,13 +2,14 @@
   "id": 219847861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116604,36.233807,-115.116604,36.233807",
     "geom:latitude":36.233807,
     "geom:longitude":-115.116604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219847861,
-    "wof:lastmodified":1449071677,
+    "wof:lastmodified":1466705343,
     "wof:name":"Technicom Services Inc",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "voltage"
     ]
 },
-  "bbox": [-115.116604,36.233807,-115.116604,36.233807],
+  "bbox": [
+    -115.116604,
+    36.233807,
+    -115.116604,
+    36.233807
+],
   "geometry": {"coordinates":[-115.116604,36.233807],"type":"Point"}
 }

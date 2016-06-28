@@ -2,13 +2,14 @@
   "id": 219613417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.76693,39.157155,-119.76693,39.157155",
     "geom:latitude":39.157155,
     "geom:longitude":-119.76693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219613417,
-    "wof:lastmodified":1449072039,
+    "wof:lastmodified":1466703156,
     "wof:name":"Med Direct Urgent Care",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-119.76693,39.157155,-119.76693,39.157155],
+  "bbox": [
+    -119.76693,
+    39.157155,
+    -119.76693,
+    39.157155
+],
   "geometry": {"coordinates":[-119.76693,39.157155],"type":"Point"}
 }

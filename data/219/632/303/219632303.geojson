@@ -2,13 +2,14 @@
   "id": 219632303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.478853,40.174174,-118.478853,40.174174",
     "geom:latitude":40.174174,
     "geom:longitude":-118.478853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Cornell Ave",
     "sg:city":"Lovelock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219632303,
-    "wof:lastmodified":1449072634,
+    "wof:lastmodified":1466703499,
     "wof:name":"Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-118.478853,40.174174,-118.478853,40.174174],
+  "bbox": [
+    -118.478853,
+    40.174174,
+    -118.478853,
+    40.174174
+],
   "geometry": {"coordinates":[-118.478853,40.174174],"type":"Point"}
 }

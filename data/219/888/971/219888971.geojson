@@ -2,13 +2,14 @@
   "id": 219888971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072961,36.109949,-115.072961,36.109949",
     "geom:latitude":36.109949,
     "geom:longitude":-115.072961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4790 Plata del Sol Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219888971,
-    "wof:lastmodified":1449072596,
+    "wof:lastmodified":1466705483,
     "wof:name":"Kelley's Tree Care & Landscpg",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.072961,36.109949,-115.072961,36.109949],
-  "geometry": {"coordinates":[-115.072961,36.109949],"type":"Point"}
+  "bbox": [
+    -115.072961,
+    36.109949,
+    -115.072961,
+    36.109949
+],
+  "geometry": {"coordinates":[-115.07296100000001,36.109949],"type":"Point"}
 }

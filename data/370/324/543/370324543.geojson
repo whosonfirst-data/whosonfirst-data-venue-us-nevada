@@ -2,13 +2,14 @@
   "id": 370324543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.805191,39.49118,-119.805191,39.49118",
     "geom:latitude":39.49118,
     "geom:longitude":-119.805191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Warren Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":370324543,
-    "wof:lastmodified":1449031051,
+    "wof:lastmodified":1466704787,
     "wof:name":"Kinders Meats Deli & BBQ",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "caterer"
     ]
 },
-  "bbox": [-119.805191,39.49118,-119.805191,39.49118],
-  "geometry": {"coordinates":[-119.805191,39.49118],"type":"Point"}
+  "bbox": [
+    -119.805191,
+    39.49118,
+    -119.805191,
+    39.49118
+],
+  "geometry": {"coordinates":[-119.80519099999999,39.49118],"type":"Point"}
 }

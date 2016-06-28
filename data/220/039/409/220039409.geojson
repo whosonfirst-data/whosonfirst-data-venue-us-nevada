@@ -2,13 +2,14 @@
   "id": 220039409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.047132,36.028317,-115.047132,36.028317",
     "geom:latitude":36.028317,
     "geom:longitude":-115.047132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 S Stephanie St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220039409,
-    "wof:lastmodified":1449074772,
+    "wof:lastmodified":1466701893,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85878105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bagel"
     ]
 },
-  "bbox": [-115.047132,36.028317,-115.047132,36.028317],
+  "bbox": [
+    -115.047132,
+    36.028317,
+    -115.047132,
+    36.028317
+],
   "geometry": {"coordinates":[-115.047132,36.028317],"type":"Point"}
 }

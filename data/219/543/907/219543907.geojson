@@ -2,13 +2,14 @@
   "id": 219543907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.119962,36.176289,-115.119962,36.176289",
     "geom:latitude":36.176289,
     "geom:longitude":-115.119962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 N 22nd St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219543907,
-    "wof:lastmodified":1449071085,
+    "wof:lastmodified":1466702119,
     "wof:name":"Investment Encounters Inc",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.119962,36.176289,-115.119962,36.176289],
+  "bbox": [
+    -115.119962,
+    36.176289,
+    -115.119962,
+    36.176289
+],
   "geometry": {"coordinates":[-115.119962,36.176289],"type":"Point"}
 }

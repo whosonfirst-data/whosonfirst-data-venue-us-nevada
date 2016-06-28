@@ -2,13 +2,14 @@
   "id": 354002691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082136,36.070549,-115.082136,36.070549",
     "geom:latitude":36.070549,
     "geom:longitude":-115.082136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 N Green Valley Parkway",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354002691,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1466701518,
     "wof:name":"Desert Art Supplies",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.082136,36.070549,-115.082136,36.070549],
-  "geometry": {"coordinates":[-115.082136,36.070549],"type":"Point"}
+  "bbox": [
+    -115.082136,
+    36.070549,
+    -115.082136,
+    36.070549
+],
+  "geometry": {"coordinates":[-115.08213600000001,36.070549],"type":"Point"}
 }

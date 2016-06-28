@@ -2,13 +2,14 @@
   "id": 219510879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069627,36.231467,-115.069627,36.231467",
     "geom:latitude":36.231467,
     "geom:longitude":-115.069627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 Las Vegas Blvd N",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219510879,
-    "wof:lastmodified":1449072513,
+    "wof:lastmodified":1466701492,
     "wof:name":"Sonlight Productions",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.069627,36.231467,-115.069627,36.231467],
+  "bbox": [
+    -115.069627,
+    36.231467,
+    -115.069627,
+    36.231467
+],
   "geometry": {"coordinates":[-115.069627,36.231467],"type":"Point"}
 }

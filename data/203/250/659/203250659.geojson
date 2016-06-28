@@ -2,13 +2,14 @@
   "id": 203250659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.163152,36.152165,-115.163152,36.152165",
     "geom:latitude":36.152165,
     "geom:longitude":-115.163152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203250659,
-    "wof:lastmodified":1449026033,
+    "wof:lastmodified":1466702497,
     "wof:name":"Zee Medical Service Company",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.163152,36.152165,-115.163152,36.152165],
+  "bbox": [
+    -115.163152,
+    36.152165,
+    -115.163152,
+    36.152165
+],
   "geometry": {"coordinates":[-115.163152,36.152165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236462335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.34052,36.197646,-115.34052,36.197646",
     "geom:latitude":36.197646,
     "geom:longitude":-115.34052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Sun Cliffs St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236462335,
-    "wof:lastmodified":1449005094,
+    "wof:lastmodified":1466705763,
     "wof:name":"Arnold K Webster Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-115.34052,36.197646,-115.34052,36.197646],
+  "bbox": [
+    -115.34052,
+    36.197646,
+    -115.34052,
+    36.197646
+],
   "geometry": {"coordinates":[-115.34052,36.197646],"type":"Point"}
 }

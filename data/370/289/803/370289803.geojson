@@ -2,13 +2,14 @@
   "id": 370289803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127808,36.130214,-115.127808,36.130214",
     "geom:latitude":36.130214,
     "geom:longitude":-115.127808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":370289803,
-    "wof:lastmodified":1449031905,
+    "wof:lastmodified":1466704519,
     "wof:name":"Rudnitsky Benjamin MD",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-115.127808,36.130214,-115.127808,36.130214],
+  "bbox": [
+    -115.127808,
+    36.130214,
+    -115.127808,
+    36.130214
+],
   "geometry": {"coordinates":[-115.127808,36.130214],"type":"Point"}
 }

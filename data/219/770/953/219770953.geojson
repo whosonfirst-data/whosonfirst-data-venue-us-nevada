@@ -2,13 +2,14 @@
   "id": 219770953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.823002,39.523369,-119.823002,39.523369",
     "geom:latitude":39.523369,
     "geom:longitude":-119.823002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Winter St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219770953,
-    "wof:lastmodified":1449073994,
+    "wof:lastmodified":1466705032,
     "wof:name":"Massmedia",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-119.823002,39.523369,-119.823002,39.523369],
+  "bbox": [
+    -119.823002,
+    39.523369,
+    -119.823002,
+    39.523369
+],
   "geometry": {"coordinates":[-119.823002,39.523369],"type":"Point"}
 }

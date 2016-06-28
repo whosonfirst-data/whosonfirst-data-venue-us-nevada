@@ -2,13 +2,14 @@
   "id": 236432031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.735549,39.541949,-119.735549,39.541949",
     "geom:latitude":39.541949,
     "geom:longitude":-119.735549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Prater Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236432031,
-    "wof:lastmodified":1449001633,
+    "wof:lastmodified":1466705618,
     "wof:name":"Nevada State Bank",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.735549,39.541949,-119.735549,39.541949],
-  "geometry": {"coordinates":[-119.735549,39.541949],"type":"Point"}
+  "bbox": [
+    -119.735549,
+    39.541949,
+    -119.735549,
+    39.541949
+],
+  "geometry": {"coordinates":[-119.73554900000001,39.541949],"type":"Point"}
 }

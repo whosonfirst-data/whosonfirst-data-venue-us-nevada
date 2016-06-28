@@ -2,13 +2,14 @@
   "id": 236100133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.879158,39.526442,-119.879158,39.526442",
     "geom:latitude":39.526442,
     "geom:longitude":-119.879158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5860 Blue Horizon Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236100133,
-    "wof:lastmodified":1449004217,
+    "wof:lastmodified":1466701541,
     "wof:name":"Consulting & Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hospital"
     ]
 },
-  "bbox": [-119.879158,39.526442,-119.879158,39.526442],
+  "bbox": [
+    -119.879158,
+    39.526442,
+    -119.879158,
+    39.526442
+],
   "geometry": {"coordinates":[-119.879158,39.526442],"type":"Point"}
 }

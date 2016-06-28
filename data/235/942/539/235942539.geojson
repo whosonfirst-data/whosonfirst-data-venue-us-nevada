@@ -2,13 +2,14 @@
   "id": 235942539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.185589,36.112889,-115.185589,36.112889",
     "geom:latitude":36.112889,
     "geom:longitude":-115.185589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4343 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235942539,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466703489,
     "wof:name":"Terracon Consultants Inc",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-115.185589,36.112889,-115.185589,36.112889],
-  "geometry": {"coordinates":[-115.185589,36.112889],"type":"Point"}
+  "bbox": [
+    -115.185589,
+    36.112889,
+    -115.185589,
+    36.112889
+],
+  "geometry": {"coordinates":[-115.18558899999999,36.112889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236506989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.087064,36.075195,-115.087064,36.075195",
     "geom:latitude":36.075195,
     "geom:longitude":-115.087064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6225 Annie Oakley Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236506989,
-    "wof:lastmodified":1449001734,
+    "wof:lastmodified":1466705848,
     "wof:name":"Medco Health Solutions Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-115.087064,36.075195,-115.087064,36.075195],
+  "bbox": [
+    -115.087064,
+    36.075195,
+    -115.087064,
+    36.075195
+],
   "geometry": {"coordinates":[-115.087064,36.075195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219878215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.716225,40.970507,-117.716225,40.970507",
     "geom:latitude":40.970507,
     "geom:longitude":-117.716225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1692 Lahontan Ave",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219878215,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466705527,
     "wof:name":"McCoy Stanley Gen Bldg Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-117.716225,40.970507,-117.716225,40.970507],
-  "geometry": {"coordinates":[-117.716225,40.970507],"type":"Point"}
+  "bbox": [
+    -117.716225,
+    40.970507,
+    -117.716225,
+    40.970507
+],
+  "geometry": {"coordinates":[-117.71622499999999,40.970507],"type":"Point"}
 }

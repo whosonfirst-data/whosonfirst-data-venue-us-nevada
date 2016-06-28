@@ -2,13 +2,14 @@
   "id": 220009867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.252207,36.206286,-115.252207,36.206286",
     "geom:latitude":36.206286,
     "geom:longitude":-115.252207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7371 Prairie Falcon Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220009867,
-    "wof:lastmodified":1449074863,
+    "wof:lastmodified":1466701535,
     "wof:name":"Sylvester & Polednak",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.252207,36.206286,-115.252207,36.206286],
+  "bbox": [
+    -115.252207,
+    36.206286,
+    -115.252207,
+    36.206286
+],
   "geometry": {"coordinates":[-115.252207,36.206286],"type":"Point"}
 }

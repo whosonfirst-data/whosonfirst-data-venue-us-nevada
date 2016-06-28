@@ -2,13 +2,14 @@
   "id": 219161505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167009,36.018304,-115.167009,36.018304",
     "geom:latitude":36.018304,
     "geom:longitude":-115.167009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Trout Creek Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219161505,
-    "wof:lastmodified":1449071782,
+    "wof:lastmodified":1466701595,
     "wof:name":"Monroe Williams & Assoc Inc",
     "wof:parent_id":85879721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-115.167009,36.018304,-115.167009,36.018304],
-  "geometry": {"coordinates":[-115.167009,36.018304],"type":"Point"}
+  "bbox": [
+    -115.167009,
+    36.018304,
+    -115.167009,
+    36.018304
+],
+  "geometry": {"coordinates":[-115.16700899999999,36.018304],"type":"Point"}
 }

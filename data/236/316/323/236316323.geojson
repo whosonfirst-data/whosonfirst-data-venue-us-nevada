@@ -2,13 +2,14 @@
   "id": 236316323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084424,36.163669,-115.084424,36.163669",
     "geom:latitude":36.163669,
     "geom:longitude":-115.084424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Chelseann St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236316323,
-    "wof:lastmodified":1449003972,
+    "wof:lastmodified":1466704815,
     "wof:name":"Glubis Ochipinti Clean Up Svc",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-115.084424,36.163669,-115.084424,36.163669],
+  "bbox": [
+    -115.084424,
+    36.163669,
+    -115.084424,
+    36.163669
+],
   "geometry": {"coordinates":[-115.084424,36.163669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219203609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.316553,36.102264,-115.316553,36.102264",
     "geom:latitude":36.102264,
     "geom:longitude":-115.316553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10268 Santo Nina Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219203609,
-    "wof:lastmodified":1449071963,
+    "wof:lastmodified":1466702087,
     "wof:name":"Jrw Investments",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-115.316553,36.102264,-115.316553,36.102264],
+  "bbox": [
+    -115.316553,
+    36.102264,
+    -115.316553,
+    36.102264
+],
   "geometry": {"coordinates":[-115.316553,36.102264],"type":"Point"}
 }

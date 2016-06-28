@@ -2,13 +2,14 @@
   "id": 220129357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.100401,35.965919,-115.100401,35.965919",
     "geom:latitude":35.965919,
     "geom:longitude":-115.100401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2597 Evening Sky Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220129357,
-    "wof:lastmodified":1449074687,
+    "wof:lastmodified":1466702583,
     "wof:name":"Roldan Properties LLC",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-115.100401,35.965919,-115.100401,35.965919],
-  "geometry": {"coordinates":[-115.100401,35.965919],"type":"Point"}
+  "bbox": [
+    -115.100401,
+    35.965919,
+    -115.100401,
+    35.965919
+],
+  "geometry": {"coordinates":[-115.10040100000001,35.965919],"type":"Point"}
 }

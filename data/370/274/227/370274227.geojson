@@ -2,13 +2,14 @@
   "id": 370274227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.269997,36.262798,-115.269997,36.262798",
     "geom:latitude":36.262798,
     "geom:longitude":-115.269997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5591 N Cimarron Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370274227,
-    "wof:lastmodified":1449029503,
+    "wof:lastmodified":1466704307,
     "wof:name":"Cimarron Rose Track Break",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "team"
     ]
 },
-  "bbox": [-115.269997,36.262798,-115.269997,36.262798],
+  "bbox": [
+    -115.269997,
+    36.262798,
+    -115.269997,
+    36.262798
+],
   "geometry": {"coordinates":[-115.269997,36.262798],"type":"Point"}
 }

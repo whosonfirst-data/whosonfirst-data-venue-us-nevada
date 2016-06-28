@@ -2,13 +2,14 @@
   "id": 219253263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.721541,39.575107,-119.721541,39.575107",
     "geom:latitude":39.575107,
     "geom:longitude":-119.721541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4388 Whitney Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219253263,
-    "wof:lastmodified":1449073484,
+    "wof:lastmodified":1466702586,
     "wof:name":"Pampered Chef Ltd",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-119.721541,39.575107,-119.721541,39.575107],
+  "bbox": [
+    -119.721541,
+    39.575107,
+    -119.721541,
+    39.575107
+],
   "geometry": {"coordinates":[-119.721541,39.575107],"type":"Point"}
 }

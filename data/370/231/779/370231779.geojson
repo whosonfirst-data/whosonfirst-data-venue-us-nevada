@@ -2,13 +2,14 @@
   "id": 370231779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243573,36.129094,-115.243573,36.129094",
     "geom:latitude":36.129094,
     "geom:longitude":-115.243573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 S Rainbow Blvd Ste 135",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370231779,
-    "wof:lastmodified":1449030810,
+    "wof:lastmodified":1466703294,
     "wof:name":"Millionaire Corporation",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-115.243573,36.129094,-115.243573,36.129094],
+  "bbox": [
+    -115.243573,
+    36.129094,
+    -115.243573,
+    36.129094
+],
   "geometry": {"coordinates":[-115.243573,36.129094],"type":"Point"}
 }

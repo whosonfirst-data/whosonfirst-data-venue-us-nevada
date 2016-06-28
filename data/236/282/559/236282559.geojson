@@ -2,13 +2,14 @@
   "id": 236282559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.850799,35.971283,-114.850799,35.971283",
     "geom:latitude":35.971283,
     "geom:longitude":-114.850799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236282559,
-    "wof:lastmodified":1449003769,
+    "wof:lastmodified":1466704569,
     "wof:name":"Carpet Crafters",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.850799,35.971283,-114.850799,35.971283],
-  "geometry": {"coordinates":[-114.850799,35.971283],"type":"Point"}
+  "bbox": [
+    -114.850799,
+    35.971283,
+    -114.850799,
+    35.971283
+],
+  "geometry": {"coordinates":[-114.85079899999999,35.971283],"type":"Point"}
 }

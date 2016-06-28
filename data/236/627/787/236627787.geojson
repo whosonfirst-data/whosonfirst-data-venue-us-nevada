@@ -2,13 +2,14 @@
   "id": 236627787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762576,39.489337,-119.762576,39.489337",
     "geom:latitude":39.489337,
     "geom:longitude":-119.762576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4674 Aircenter Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236627787,
-    "wof:lastmodified":1449005330,
+    "wof:lastmodified":1466706469,
     "wof:name":"Maurice Sptg Gds Distrs Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sport"
     ]
 },
-  "bbox": [-119.762576,39.489337,-119.762576,39.489337],
+  "bbox": [
+    -119.762576,
+    39.489337,
+    -119.762576,
+    39.489337
+],
   "geometry": {"coordinates":[-119.762576,39.489337],"type":"Point"}
 }

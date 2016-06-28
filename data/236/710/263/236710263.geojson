@@ -2,13 +2,14 @@
   "id": 236710263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118583,36.01887,-115.118583,36.01887",
     "geom:latitude":36.01887,
     "geom:longitude":-115.118583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9310 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236710263,
-    "wof:lastmodified":1449001832,
+    "wof:lastmodified":1466706661,
     "wof:name":"Spa Depot Of Nevada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-115.118583,36.01887,-115.118583,36.01887],
+  "bbox": [
+    -115.118583,
+    36.01887,
+    -115.118583,
+    36.01887
+],
   "geometry": {"coordinates":[-115.118583,36.01887],"type":"Point"}
 }

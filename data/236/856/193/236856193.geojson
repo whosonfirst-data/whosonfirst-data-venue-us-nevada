@@ -2,13 +2,14 @@
   "id": 236856193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208765,36.264747,-115.208765,36.264747",
     "geom:latitude":36.264747,
     "geom:longitude":-115.208765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5745 Typan St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236856193,
-    "wof:lastmodified":1449002405,
+    "wof:lastmodified":1466706735,
     "wof:name":"Villones Lawn Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.208765,36.264747,-115.208765,36.264747],
+  "bbox": [
+    -115.208765,
+    36.264747,
+    -115.208765,
+    36.264747
+],
   "geometry": {"coordinates":[-115.208765,36.264747],"type":"Point"}
 }

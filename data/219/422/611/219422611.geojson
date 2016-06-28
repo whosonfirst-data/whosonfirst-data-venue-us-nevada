@@ -2,13 +2,14 @@
   "id": 219422611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.963261,36.030063,-114.963261,36.030063",
     "geom:latitude":36.030063,
     "geom:longitude":-114.963261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Palo Verde Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219422611,
-    "wof:lastmodified":1449070634,
+    "wof:lastmodified":1466703760,
     "wof:name":"Catholic Charities-Marian Res",
     "wof:parent_id":85878075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-114.963261,36.030063,-114.963261,36.030063],
+  "bbox": [
+    -114.963261,
+    36.030063,
+    -114.963261,
+    36.030063
+],
   "geometry": {"coordinates":[-114.963261,36.030063],"type":"Point"}
 }

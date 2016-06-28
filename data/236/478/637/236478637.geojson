@@ -2,13 +2,14 @@
   "id": 236478637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172794,36.137605,-115.172794,36.137605",
     "geom:latitude":36.137605,
     "geom:longitude":-115.172794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 S Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236478637,
-    "wof:lastmodified":1449001761,
+    "wof:lastmodified":1466705726,
     "wof:name":"Mc Clure Stainless Co",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-115.172794,36.137605,-115.172794,36.137605],
+  "bbox": [
+    -115.172794,
+    36.137605,
+    -115.172794,
+    36.137605
+],
   "geometry": {"coordinates":[-115.172794,36.137605],"type":"Point"}
 }

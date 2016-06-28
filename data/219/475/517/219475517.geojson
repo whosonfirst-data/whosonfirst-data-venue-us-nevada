@@ -2,13 +2,14 @@
   "id": 219475517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.127992,36.212567,-115.127992,36.212567",
     "geom:latitude":36.212567,
     "geom:longitude":-115.127992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219475517,
-    "wof:lastmodified":1449071852,
+    "wof:lastmodified":1466704052,
     "wof:name":"Cylinder Maintenance",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cylinder"
     ]
 },
-  "bbox": [-115.127992,36.212567,-115.127992,36.212567],
-  "geometry": {"coordinates":[-115.127992,36.212567],"type":"Point"}
+  "bbox": [
+    -115.127992,
+    36.212567,
+    -115.127992,
+    36.212567
+],
+  "geometry": {"coordinates":[-115.12799200000001,36.212567],"type":"Point"}
 }

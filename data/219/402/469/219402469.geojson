@@ -2,13 +2,14 @@
   "id": 219402469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.733998,39.173739,-119.733998,39.173739",
     "geom:latitude":39.173739,
     "geom:longitude":-119.733998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 Airport Rd",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219402469,
-    "wof:lastmodified":1449071530,
+    "wof:lastmodified":1466703642,
     "wof:name":"Nevada State Trapshooting Assn",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-119.733998,39.173739,-119.733998,39.173739],
+  "bbox": [
+    -119.733998,
+    39.173739,
+    -119.733998,
+    39.173739
+],
   "geometry": {"coordinates":[-119.733998,39.173739],"type":"Point"}
 }

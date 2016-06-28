@@ -2,13 +2,14 @@
   "id": 220048325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.936033,40.631528,-116.936033,40.631528",
     "geom:latitude":40.631528,
     "geom:longitude":-116.936033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Gold Creek Ave",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220048325,
-    "wof:lastmodified":1449074297,
+    "wof:lastmodified":1466701957,
     "wof:name":"Ascendant Pipe and Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "piping"
     ]
 },
-  "bbox": [-116.936033,40.631528,-116.936033,40.631528],
-  "geometry": {"coordinates":[-116.936033,40.631528],"type":"Point"}
+  "bbox": [
+    -116.936033,
+    40.631528,
+    -116.936033,
+    40.631528
+],
+  "geometry": {"coordinates":[-116.93603299999999,40.631528],"type":"Point"}
 }

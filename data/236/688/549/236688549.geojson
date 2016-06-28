@@ -2,13 +2,14 @@
   "id": 236688549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.255141,36.203464,-115.255141,36.203464",
     "geom:latitude":36.203464,
     "geom:longitude":-115.255141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7398 Smoke Ranch Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236688549,
-    "wof:lastmodified":1449002771,
+    "wof:lastmodified":1466706457,
     "wof:name":"Specialized Pain Management",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.255141,36.203464,-115.255141,36.203464],
-  "geometry": {"coordinates":[-115.255141,36.203464],"type":"Point"}
+  "bbox": [
+    -115.255141,
+    36.203464,
+    -115.255141,
+    36.203464
+],
+  "geometry": {"coordinates":[-115.25514099999999,36.203464],"type":"Point"}
 }

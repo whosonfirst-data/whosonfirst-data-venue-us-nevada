@@ -2,13 +2,14 @@
   "id": 236309569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.741358,39.041153,-119.741358,39.041153",
     "geom:latitude":39.041153,
     "geom:longitude":-119.741358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Stephanie Way",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236309569,
-    "wof:lastmodified":1449002228,
+    "wof:lastmodified":1466704888,
     "wof:name":"Grant's Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.741358,39.041153,-119.741358,39.041153],
-  "geometry": {"coordinates":[-119.741358,39.041153],"type":"Point"}
+  "bbox": [
+    -119.741358,
+    39.041153,
+    -119.741358,
+    39.041153
+],
+  "geometry": {"coordinates":[-119.74135800000001,39.041153],"type":"Point"}
 }

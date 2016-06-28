@@ -2,13 +2,14 @@
   "id": 203279059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.043178,36.239105,-115.043178,36.239105",
     "geom:latitude":36.239105,
     "geom:longitude":-115.043178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4551 Devlin Dr",
     "sg:city":"Nellis Afb",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203279059,
-    "wof:lastmodified":1449025778,
+    "wof:lastmodified":1466702682,
     "wof:name":"US Army Corps Of Engineers",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-115.043178,36.239105,-115.043178,36.239105],
+  "bbox": [
+    -115.043178,
+    36.239105,
+    -115.043178,
+    36.239105
+],
   "geometry": {"coordinates":[-115.043178,36.239105],"type":"Point"}
 }

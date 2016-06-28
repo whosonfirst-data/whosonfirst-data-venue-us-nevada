@@ -2,13 +2,14 @@
   "id": 354104535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.195307,36.13735,-115.195307,36.13735",
     "geom:latitude":36.13735,
     "geom:longitude":-115.195307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Pennwood Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354104535,
-    "wof:lastmodified":1449066624,
+    "wof:lastmodified":1466704201,
     "wof:name":"Bel Aire Apartments",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.195307,36.13735,-115.195307,36.13735],
+  "bbox": [
+    -115.195307,
+    36.13735,
+    -115.195307,
+    36.13735
+],
   "geometry": {"coordinates":[-115.195307,36.13735],"type":"Point"}
 }

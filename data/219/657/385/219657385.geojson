@@ -2,13 +2,14 @@
   "id": 219657385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.136103,36.03809,-115.136103,36.03809",
     "geom:latitude":36.03809,
     "geom:longitude":-115.136103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8250 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219657385,
-    "wof:lastmodified":1449070783,
+    "wof:lastmodified":1466703951,
     "wof:name":"Silverado Self Storage III LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.136103,36.03809,-115.136103,36.03809],
-  "geometry": {"coordinates":[-115.136103,36.03809],"type":"Point"}
+  "bbox": [
+    -115.136103,
+    36.03809,
+    -115.136103,
+    36.03809
+],
+  "geometry": {"coordinates":[-115.13610300000001,36.03809],"type":"Point"}
 }

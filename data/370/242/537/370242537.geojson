@@ -2,13 +2,14 @@
   "id": 370242537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243119,36.141321,-115.243119,36.141321",
     "geom:latitude":36.141321,
     "geom:longitude":-115.243119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 S Rainbow Blvd Ste 310",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370242537,
-    "wof:lastmodified":1449032078,
+    "wof:lastmodified":1466703520,
     "wof:name":"Brighten Lending Co",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.243119,36.141321,-115.243119,36.141321],
-  "geometry": {"coordinates":[-115.243119,36.141321],"type":"Point"}
+  "bbox": [
+    -115.243119,
+    36.141321,
+    -115.243119,
+    36.141321
+],
+  "geometry": {"coordinates":[-115.24311899999999,36.141321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236915673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135313,36.140879,-115.135313,36.140879",
     "geom:latitude":36.140879,
     "geom:longitude":-115.135313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Karen Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":236915673,
-    "wof:lastmodified":1449005211,
+    "wof:lastmodified":1466706838,
     "wof:name":"Nevada Cash Register",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.135313,36.140879,-115.135313,36.140879],
+  "bbox": [
+    -115.135313,
+    36.140879,
+    -115.135313,
+    36.140879
+],
   "geometry": {"coordinates":[-115.135313,36.140879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236567967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.992361,36.279247,-115.992361,36.279247",
     "geom:latitude":36.279247,
     "geom:longitude":-115.992361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 E Simkins Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236567967,
-    "wof:lastmodified":1449005281,
+    "wof:lastmodified":1466706166,
     "wof:name":"Water Rock Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-115.992361,36.279247,-115.992361,36.279247],
+  "bbox": [
+    -115.992361,
+    36.279247,
+    -115.992361,
+    36.279247
+],
   "geometry": {"coordinates":[-115.992361,36.279247],"type":"Point"}
 }

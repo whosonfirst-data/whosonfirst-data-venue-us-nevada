@@ -2,13 +2,14 @@
   "id": 219719107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.852818,39.519356,-119.852818,39.519356",
     "geom:latitude":39.519356,
     "geom:longitude":-119.852818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Sky Valley Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219719107,
-    "wof:lastmodified":1449070846,
+    "wof:lastmodified":1466704573,
     "wof:name":"On Soku Motorsports",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.852818,39.519356,-119.852818,39.519356],
+  "bbox": [
+    -119.852818,
+    39.519356,
+    -119.852818,
+    39.519356
+],
   "geometry": {"coordinates":[-119.852818,39.519356],"type":"Point"}
 }

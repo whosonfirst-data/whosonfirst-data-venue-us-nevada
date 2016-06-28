@@ -2,13 +2,14 @@
   "id": 203244551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764807,38.953804,-119.764807,38.953804",
     "geom:latitude":38.953804,
     "geom:longitude":-119.764807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Esmeralda Ave",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203244551,
-    "wof:lastmodified":1449025667,
+    "wof:lastmodified":1466702464,
     "wof:name":"R O Anderson Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-119.764807,38.953804,-119.764807,38.953804],
+  "bbox": [
+    -119.764807,
+    38.953804,
+    -119.764807,
+    38.953804
+],
   "geometry": {"coordinates":[-119.764807,38.953804],"type":"Point"}
 }

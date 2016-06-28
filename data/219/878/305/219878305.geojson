@@ -2,13 +2,14 @@
   "id": 219878305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.069855,36.240333,-115.069855,36.240333",
     "geom:latitude":36.240333,
     "geom:longitude":-115.069855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 E Craig Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219878305,
-    "wof:lastmodified":1449072227,
+    "wof:lastmodified":1466705530,
     "wof:name":"Base Finance",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-115.069855,36.240333,-115.069855,36.240333],
+  "bbox": [
+    -115.069855,
+    36.240333,
+    -115.069855,
+    36.240333
+],
   "geometry": {"coordinates":[-115.069855,36.240333],"type":"Point"}
 }

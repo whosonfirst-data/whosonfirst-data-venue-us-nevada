@@ -2,13 +2,14 @@
   "id": 236429111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.935615,40.633011,-116.935615,40.633011",
     "geom:latitude":40.633011,
     "geom:longitude":-116.935615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Wilson St",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236429111,
-    "wof:lastmodified":1449005039,
+    "wof:lastmodified":1466705492,
     "wof:name":"Kids Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.935615,40.633011,-116.935615,40.633011],
+  "bbox": [
+    -116.935615,
+    40.633011,
+    -116.935615,
+    40.633011
+],
   "geometry": {"coordinates":[-116.935615,40.633011],"type":"Point"}
 }

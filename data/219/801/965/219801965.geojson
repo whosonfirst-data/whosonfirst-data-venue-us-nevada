@@ -2,13 +2,14 @@
   "id": 219801965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.767879,40.83571,-115.767879,40.83571",
     "geom:latitude":40.83571,
     "geom:longitude":-115.767879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 5th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219801965,
-    "wof:lastmodified":1449073302,
+    "wof:lastmodified":1466705112,
     "wof:name":"Intermountain Consulting Grp",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-115.767879,40.83571,-115.767879,40.83571],
-  "geometry": {"coordinates":[-115.767879,40.83571],"type":"Point"}
+  "bbox": [
+    -115.767879,
+    40.83571,
+    -115.767879,
+    40.83571
+],
+  "geometry": {"coordinates":[-115.76787899999999,40.83571],"type":"Point"}
 }

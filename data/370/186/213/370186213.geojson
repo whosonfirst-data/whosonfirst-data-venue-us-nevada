@@ -2,13 +2,14 @@
   "id": 370186213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.209702,36.246871,-115.209702,36.246871",
     "geom:latitude":36.246871,
     "geom:longitude":-115.209702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 W Lone Mountain Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370186213,
-    "wof:lastmodified":1449031743,
+    "wof:lastmodified":1466702210,
     "wof:name":"Rainbow Medical Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "internal"
     ]
 },
-  "bbox": [-115.209702,36.246871,-115.209702,36.246871],
-  "geometry": {"coordinates":[-115.209702,36.246871],"type":"Point"}
+  "bbox": [
+    -115.209702,
+    36.246871,
+    -115.209702,
+    36.246871
+],
+  "geometry": {"coordinates":[-115.20970199999999,36.246871],"type":"Point"}
 }

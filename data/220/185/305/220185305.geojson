@@ -2,13 +2,14 @@
   "id": 220185305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.084834,36.096717,-115.084834,36.096717",
     "geom:latitude":36.096717,
     "geom:longitude":-115.084834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4090 E Reno Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220185305,
-    "wof:lastmodified":1449074171,
+    "wof:lastmodified":1466702983,
     "wof:name":"Parrales Day Care",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-115.084834,36.096717,-115.084834,36.096717],
+  "bbox": [
+    -115.084834,
+    36.096717,
+    -115.084834,
+    36.096717
+],
   "geometry": {"coordinates":[-115.084834,36.096717],"type":"Point"}
 }

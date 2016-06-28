@@ -2,13 +2,14 @@
   "id": 354339409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.17263,36.069408,-115.17263,36.069408",
     "geom:latitude":36.069408,
     "geom:longitude":-115.17263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6593 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354339409,
-    "wof:lastmodified":1449066672,
+    "wof:lastmodified":1466706089,
     "wof:name":"Clark's Shoes",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-115.17263,36.069408,-115.17263,36.069408],
+  "bbox": [
+    -115.17263,
+    36.069408,
+    -115.17263,
+    36.069408
+],
   "geometry": {"coordinates":[-115.17263,36.069408],"type":"Point"}
 }

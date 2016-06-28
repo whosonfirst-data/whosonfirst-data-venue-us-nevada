@@ -2,13 +2,14 @@
   "id": 236844577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731763,39.527174,-119.731763,39.527174",
     "geom:latitude":39.527174,
     "geom:longitude":-119.731763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236844577,
-    "wof:lastmodified":1449002995,
+    "wof:lastmodified":1466706817,
     "wof:name":"Rocket Factory LLC",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-119.731763,39.527174,-119.731763,39.527174],
+  "bbox": [
+    -119.731763,
+    39.527174,
+    -119.731763,
+    39.527174
+],
   "geometry": {"coordinates":[-119.731763,39.527174],"type":"Point"}
 }

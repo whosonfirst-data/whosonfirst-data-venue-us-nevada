@@ -2,13 +2,14 @@
   "id": 219989271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.225423,36.145753,-115.225423,36.145753",
     "geom:latitude":36.145753,
     "geom:longitude":-115.225423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2375 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219989271,
-    "wof:lastmodified":1449072991,
+    "wof:lastmodified":1466706266,
     "wof:name":"St Martin Of Tours CEC",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.225423,36.145753,-115.225423,36.145753],
-  "geometry": {"coordinates":[-115.225423,36.145753],"type":"Point"}
+  "bbox": [
+    -115.225423,
+    36.145753,
+    -115.225423,
+    36.145753
+],
+  "geometry": {"coordinates":[-115.22542300000001,36.145753],"type":"Point"}
 }

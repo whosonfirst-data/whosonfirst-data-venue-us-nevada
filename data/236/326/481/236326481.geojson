@@ -2,13 +2,14 @@
   "id": 236326481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.854327,39.485476,-118.854327,39.485476",
     "geom:latitude":39.485476,
     "geom:longitude":-118.854327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 Reno Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236326481,
-    "wof:lastmodified":1449002989,
+    "wof:lastmodified":1466704877,
     "wof:name":"R & M Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-118.854327,39.485476,-118.854327,39.485476],
+  "bbox": [
+    -118.854327,
+    39.485476,
+    -118.854327,
+    39.485476
+],
   "geometry": {"coordinates":[-118.854327,39.485476],"type":"Point"}
 }

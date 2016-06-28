@@ -2,13 +2,14 @@
   "id": 219660391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295178,36.139435,-115.295178,36.139435",
     "geom:latitude":36.139435,
     "geom:longitude":-115.295178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Whispering Wind Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219660391,
-    "wof:lastmodified":1449073556,
+    "wof:lastmodified":1466704005,
     "wof:name":"Land By The Sea Of Cortez Inc",
     "wof:parent_id":85852057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-115.295178,36.139435,-115.295178,36.139435],
-  "geometry": {"coordinates":[-115.295178,36.139435],"type":"Point"}
+  "bbox": [
+    -115.295178,
+    36.139435,
+    -115.295178,
+    36.139435
+],
+  "geometry": {"coordinates":[-115.29517800000001,36.139435],"type":"Point"}
 }

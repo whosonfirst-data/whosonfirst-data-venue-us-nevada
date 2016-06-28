@@ -2,13 +2,14 @@
   "id": 203191997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.776943,39.474474,-118.776943,39.474474",
     "geom:latitude":39.474474,
     "geom:longitude":-118.776943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 S Maine St",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203191997,
-    "wof:lastmodified":1449026085,
+    "wof:lastmodified":1466701981,
     "wof:name":"Fallon Fraternal Hall Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-118.776943,39.474474,-118.776943,39.474474],
+  "bbox": [
+    -118.776943,
+    39.474474,
+    -118.776943,
+    39.474474
+],
   "geometry": {"coordinates":[-118.776943,39.474474],"type":"Point"}
 }

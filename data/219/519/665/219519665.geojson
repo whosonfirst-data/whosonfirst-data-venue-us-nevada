@@ -2,13 +2,14 @@
   "id": 219519665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.121762,35.986065,-115.121762,35.986065",
     "geom:latitude":35.986065,
     "geom:longitude":-115.121762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Seven Hills Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219519665,
-    "wof:lastmodified":1449073670,
+    "wof:lastmodified":1466701655,
     "wof:name":"Palermo Homeowner's Assoc",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.121762,35.986065,-115.121762,35.986065],
+  "bbox": [
+    -115.121762,
+    35.986065,
+    -115.121762,
+    35.986065
+],
   "geometry": {"coordinates":[-115.121762,35.986065],"type":"Point"}
 }

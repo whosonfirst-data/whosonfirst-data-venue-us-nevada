@@ -2,13 +2,14 @@
   "id": 354057447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086136,36.029407,-115.086136,36.029407",
     "geom:latitude":36.029407,
     "geom:longitude":-115.086136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354057447,
-    "wof:lastmodified":1449066764,
+    "wof:lastmodified":1466702971,
     "wof:name":"Mr Hot Dog",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dog"
     ]
 },
-  "bbox": [-115.086136,36.029407,-115.086136,36.029407],
+  "bbox": [
+    -115.086136,
+    36.029407,
+    -115.086136,
+    36.029407
+],
   "geometry": {"coordinates":[-115.086136,36.029407],"type":"Point"}
 }

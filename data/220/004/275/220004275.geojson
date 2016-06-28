@@ -2,13 +2,14 @@
   "id": 220004275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172037,36.150625,-115.172037,36.150625",
     "geom:latitude":36.150625,
     "geom:longitude":-115.172037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 Bonnie Brae Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220004275,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466701462,
     "wof:name":"Webagenic",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.172037,36.150625,-115.172037,36.150625],
+  "bbox": [
+    -115.172037,
+    36.150625,
+    -115.172037,
+    36.150625
+],
   "geometry": {"coordinates":[-115.172037,36.150625],"type":"Point"}
 }

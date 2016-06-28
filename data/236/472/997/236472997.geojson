@@ -2,13 +2,14 @@
   "id": 236472997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203759,36.126218,-115.203759,36.126218",
     "geom:latitude":36.126218,
     "geom:longitude":-115.203759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4631 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236472997,
-    "wof:lastmodified":1449001868,
+    "wof:lastmodified":1466705704,
     "wof:name":"DPN Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-115.203759,36.126218,-115.203759,36.126218],
-  "geometry": {"coordinates":[-115.203759,36.126218],"type":"Point"}
+  "bbox": [
+    -115.203759,
+    36.126218,
+    -115.203759,
+    36.126218
+],
+  "geometry": {"coordinates":[-115.20375900000001,36.126218],"type":"Point"}
 }

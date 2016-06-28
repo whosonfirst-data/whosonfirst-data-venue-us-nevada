@@ -2,13 +2,14 @@
   "id": 219763873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.942783,39.2395,-119.942783,39.2395",
     "geom:latitude":39.2395,
     "geom:longitude":-119.942783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Country Club Dr",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219763873,
-    "wof:lastmodified":1449073900,
+    "wof:lastmodified":1466704851,
     "wof:name":"W H Smith 624",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.942783,39.2395,-119.942783,39.2395],
-  "geometry": {"coordinates":[-119.942783,39.2395],"type":"Point"}
+  "bbox": [
+    -119.942783,
+    39.2395,
+    -119.942783,
+    39.2395
+],
+  "geometry": {"coordinates":[-119.94278300000001,39.2395],"type":"Point"}
 }

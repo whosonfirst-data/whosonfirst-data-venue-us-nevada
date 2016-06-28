@@ -2,13 +2,14 @@
   "id": 220123111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217924,36.191893,-115.217924,36.191893",
     "geom:latitude":36.191893,
     "geom:longitude":-115.217924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 Carl Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220123111,
-    "wof:lastmodified":1449074258,
+    "wof:lastmodified":1466702551,
     "wof:name":"Handyman Services By Jeff",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-115.217924,36.191893,-115.217924,36.191893],
+  "bbox": [
+    -115.217924,
+    36.191893,
+    -115.217924,
+    36.191893
+],
   "geometry": {"coordinates":[-115.217924,36.191893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219788501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.974667,36.04574,-114.974667,36.04574",
     "geom:latitude":36.04574,
     "geom:longitude":-114.974667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219788501,
-    "wof:lastmodified":1449072202,
+    "wof:lastmodified":1466704998,
     "wof:name":"Gizmo Wireless",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-114.974667,36.04574,-114.974667,36.04574],
+  "bbox": [
+    -114.974667,
+    36.04574,
+    -114.974667,
+    36.04574
+],
   "geometry": {"coordinates":[-114.974667,36.04574],"type":"Point"}
 }

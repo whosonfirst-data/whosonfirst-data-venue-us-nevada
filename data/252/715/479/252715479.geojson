@@ -2,13 +2,14 @@
   "id": 252715479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.7428,39.5285,-119.7428,39.5285",
     "geom:latitude":39.5285,
     "geom:longitude":-119.7428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Glen Carran Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252715479,
-    "wof:lastmodified":1449006282,
+    "wof:lastmodified":1466701633,
     "wof:name":"Intec Solutions",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.7428,39.5285,-119.7428,39.5285],
+  "bbox": [
+    -119.7428,
+    39.5285,
+    -119.7428,
+    39.5285
+],
   "geometry": {"coordinates":[-119.7428,39.5285],"type":"Point"}
 }

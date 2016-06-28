@@ -2,13 +2,14 @@
   "id": 219186173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761814,39.440395,-119.761814,39.440395",
     "geom:latitude":39.440395,
     "geom:longitude":-119.761814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9790 Gateway Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219186173,
-    "wof:lastmodified":1449073162,
+    "wof:lastmodified":1466701979,
     "wof:name":"Employers Insurance Co Nev",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-119.761814,39.440395,-119.761814,39.440395],
+  "bbox": [
+    -119.761814,
+    39.440395,
+    -119.761814,
+    39.440395
+],
   "geometry": {"coordinates":[-119.761814,39.440395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236282785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.093425,36.796561,-114.093425,36.796561",
     "geom:latitude":36.796561,
     "geom:longitude":-114.093425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Riverside Rd",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236282785,
-    "wof:lastmodified":1449003768,
+    "wof:lastmodified":1466704419,
     "wof:name":"Malibu Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-114.093425,36.796561,-114.093425,36.796561],
+  "bbox": [
+    -114.093425,
+    36.796561,
+    -114.093425,
+    36.796561
+],
   "geometry": {"coordinates":[-114.093425,36.796561],"type":"Point"}
 }

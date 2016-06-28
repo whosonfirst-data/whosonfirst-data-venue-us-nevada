@@ -2,13 +2,14 @@
   "id": 236877637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.247143,36.12576,-115.247143,36.12576",
     "geom:latitude":36.12576,
     "geom:longitude":-115.247143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7017 Spring Mountain Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236877637,
-    "wof:lastmodified":1449004069,
+    "wof:lastmodified":1466706882,
     "wof:name":"Singular Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.247143,36.12576,-115.247143,36.12576],
-  "geometry": {"coordinates":[-115.247143,36.12576],"type":"Point"}
+  "bbox": [
+    -115.247143,
+    36.12576,
+    -115.247143,
+    36.12576
+],
+  "geometry": {"coordinates":[-115.24714299999999,36.12576],"type":"Point"}
 }

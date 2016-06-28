@@ -2,13 +2,14 @@
   "id": 219241419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.789051,39.500837,-119.789051,39.500837",
     "geom:latitude":39.500837,
     "geom:longitude":-119.789051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219241419,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466702444,
     "wof:name":"Nancy Birch Skin Care",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-119.789051,39.500837,-119.789051,39.500837],
+  "bbox": [
+    -119.789051,
+    39.500837,
+    -119.789051,
+    39.500837
+],
   "geometry": {"coordinates":[-119.789051,39.500837],"type":"Point"}
 }

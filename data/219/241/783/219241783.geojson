@@ -2,13 +2,14 @@
   "id": 219241783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.23948,39.563474,-119.23948,39.563474",
     "geom:latitude":39.563474,
     "geom:longitude":-119.23948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 US Hwy 95 Alt",
     "sg:city":"Fernley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219241783,
-    "wof:lastmodified":1449073815,
+    "wof:lastmodified":1466702453,
     "wof:name":"Royal Oak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.23948,39.563474,-119.23948,39.563474],
+  "bbox": [
+    -119.23948,
+    39.563474,
+    -119.23948,
+    39.563474
+],
   "geometry": {"coordinates":[-119.23948,39.563474],"type":"Point"}
 }

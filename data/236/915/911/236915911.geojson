@@ -2,13 +2,14 @@
   "id": 236915911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777065,39.488119,-119.777065,39.488119",
     "geom:latitude":39.488119,
     "geom:longitude":-119.777065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3875 Rewana Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236915911,
-    "wof:lastmodified":1449005213,
+    "wof:lastmodified":1466706914,
     "wof:name":"Ray Mitschke Company",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-119.777065,39.488119,-119.777065,39.488119],
-  "geometry": {"coordinates":[-119.777065,39.488119],"type":"Point"}
+  "bbox": [
+    -119.777065,
+    39.488119,
+    -119.777065,
+    39.488119
+],
+  "geometry": {"coordinates":[-119.77706499999999,39.488119],"type":"Point"}
 }

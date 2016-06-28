@@ -2,13 +2,14 @@
   "id": 354228563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.169699,36.120994,-115.169699,36.120994",
     "geom:latitude":36.120994,
     "geom:longitude":-115.169699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Shoppes at Palazzo 3355 Las Vegas Boulevard South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354228563,
-    "wof:lastmodified":1449066440,
+    "wof:lastmodified":1466705202,
     "wof:name":"Michael Kors",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-115.169699,36.120994,-115.169699,36.120994],
-  "geometry": {"coordinates":[-115.169699,36.120994],"type":"Point"}
+  "bbox": [
+    -115.169699,
+    36.120994,
+    -115.169699,
+    36.120994
+],
+  "geometry": {"coordinates":[-115.16969899999999,36.120994],"type":"Point"}
 }

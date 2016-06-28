@@ -2,13 +2,14 @@
   "id": 203152453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.773032,39.542019,-119.773032,39.542019",
     "geom:latitude":39.542019,
     "geom:longitude":-119.773032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Jessie Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203152453,
-    "wof:lastmodified":1449026393,
+    "wof:lastmodified":1466701523,
     "wof:name":"Judd Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.773032,39.542019,-119.773032,39.542019],
+  "bbox": [
+    -119.773032,
+    39.542019,
+    -119.773032,
+    39.542019
+],
   "geometry": {"coordinates":[-119.773032,39.542019],"type":"Point"}
 }

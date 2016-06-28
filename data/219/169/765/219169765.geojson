@@ -2,13 +2,14 @@
   "id": 219169765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.947941,39.253338,-119.947941,39.253338",
     "geom:latitude":39.253338,
     "geom:longitude":-119.947941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Northwood Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219169765,
-    "wof:lastmodified":1449072574,
+    "wof:lastmodified":1466701712,
     "wof:name":"Club Tahoe Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-119.947941,39.253338,-119.947941,39.253338],
+  "bbox": [
+    -119.947941,
+    39.253338,
+    -119.947941,
+    39.253338
+],
   "geometry": {"coordinates":[-119.947941,39.253338],"type":"Point"}
 }

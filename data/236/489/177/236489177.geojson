@@ -2,13 +2,14 @@
   "id": 236489177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.626616,38.526246,-118.626616,38.526246",
     "geom:latitude":38.526246,
     "geom:longitude":-118.626616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 C St",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236489177,
-    "wof:lastmodified":1449003466,
+    "wof:lastmodified":1466705870,
     "wof:name":"St Philip-Desert Episcopal Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-118.626616,38.526246,-118.626616,38.526246],
+  "bbox": [
+    -118.626616,
+    38.526246,
+    -118.626616,
+    38.526246
+],
   "geometry": {"coordinates":[-118.626616,38.526246],"type":"Point"}
 }

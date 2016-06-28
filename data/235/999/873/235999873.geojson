@@ -2,13 +2,14 @@
   "id": 235999873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.812794,39.522427,-119.812794,39.522427",
     "geom:latitude":39.522427,
     "geom:longitude":-119.812794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 S Sierra St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235999873,
-    "wof:lastmodified":1449008565,
+    "wof:lastmodified":1466703755,
     "wof:name":"Scissors & Comb Barber-Beauty",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.812794,39.522427,-119.812794,39.522427],
+  "bbox": [
+    -119.812794,
+    39.522427,
+    -119.812794,
+    39.522427
+],
   "geometry": {"coordinates":[-119.812794,39.522427],"type":"Point"}
 }

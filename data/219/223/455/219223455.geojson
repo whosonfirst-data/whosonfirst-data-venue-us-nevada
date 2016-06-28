@@ -2,13 +2,14 @@
   "id": 219223455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243172,36.150692,-115.243172,36.150692",
     "geom:latitude":36.150692,
     "geom:longitude":-115.243172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219223455,
-    "wof:lastmodified":1449070627,
+    "wof:lastmodified":1466702261,
     "wof:name":"Affordable Hearing Ctr",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-115.243172,36.150692,-115.243172,36.150692],
+  "bbox": [
+    -115.243172,
+    36.150692,
+    -115.243172,
+    36.150692
+],
   "geometry": {"coordinates":[-115.243172,36.150692],"type":"Point"}
 }

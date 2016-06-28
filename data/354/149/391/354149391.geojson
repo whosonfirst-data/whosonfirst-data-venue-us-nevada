@@ -2,13 +2,14 @@
   "id": 354149391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.238007,36.114757,-115.238007,36.114757",
     "geom:latitude":36.114757,
     "geom:longitude":-115.238007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6680 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354149391,
-    "wof:lastmodified":1449065930,
+    "wof:lastmodified":1466704647,
     "wof:name":"Texas Bbq Cafe",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-115.238007,36.114757,-115.238007,36.114757],
+  "bbox": [
+    -115.238007,
+    36.114757,
+    -115.238007,
+    36.114757
+],
   "geometry": {"coordinates":[-115.238007,36.114757],"type":"Point"}
 }

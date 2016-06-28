@@ -2,13 +2,14 @@
   "id": 219461475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.990726,36.205146,-115.990726,36.205146",
     "geom:latitude":36.205146,
     "geom:longitude":-115.990726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Pahrump Valley Blvd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219461475,
-    "wof:lastmodified":1449071720,
+    "wof:lastmodified":1466703963,
     "wof:name":"Nevada Home Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-115.990726,36.205146,-115.990726,36.205146],
+  "bbox": [
+    -115.990726,
+    36.205146,
+    -115.990726,
+    36.205146
+],
   "geometry": {"coordinates":[-115.990726,36.205146],"type":"Point"}
 }

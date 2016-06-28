@@ -2,13 +2,14 @@
   "id": 354173909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.13704,36.157902,-115.13704,36.157902",
     "geom:latitude":36.157902,
     "geom:longitude":-115.13704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354173909,
-    "wof:lastmodified":1449066257,
+    "wof:lastmodified":1466704740,
     "wof:name":"Havana Nigths Cuban Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cuban"
     ]
 },
-  "bbox": [-115.13704,36.157902,-115.13704,36.157902],
+  "bbox": [
+    -115.13704,
+    36.157902,
+    -115.13704,
+    36.157902
+],
   "geometry": {"coordinates":[-115.13704,36.157902],"type":"Point"}
 }

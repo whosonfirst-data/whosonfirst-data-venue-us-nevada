@@ -2,13 +2,14 @@
   "id": 354333227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204165,36.087868,-115.204165,36.087868",
     "geom:latitude":36.087868,
     "geom:longitude":-115.204165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5615 Cameron Ste 1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354333227,
-    "wof:lastmodified":1449067559,
+    "wof:lastmodified":1466706055,
     "wof:name":"Interior Designs Inc.",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-115.204165,36.087868,-115.204165,36.087868],
+  "bbox": [
+    -115.204165,
+    36.087868,
+    -115.204165,
+    36.087868
+],
   "geometry": {"coordinates":[-115.204165,36.087868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236912483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.753926,39.519453,-119.753926,39.519453",
     "geom:latitude":39.519453,
     "geom:longitude":-119.753926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Marietta Way",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236912483,
-    "wof:lastmodified":1449003245,
+    "wof:lastmodified":1466706833,
     "wof:name":"Salas Plastering Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "concrete"
     ]
 },
-  "bbox": [-119.753926,39.519453,-119.753926,39.519453],
-  "geometry": {"coordinates":[-119.753926,39.519453],"type":"Point"}
+  "bbox": [
+    -119.753926,
+    39.519453,
+    -119.753926,
+    39.519453
+],
+  "geometry": {"coordinates":[-119.75392600000001,39.519453],"type":"Point"}
 }

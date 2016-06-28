@@ -2,13 +2,14 @@
   "id": 354035501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184288,36.261533,-115.184288,36.261533",
     "geom:latitude":36.261533,
     "geom:longitude":-115.184288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3275 W Ann Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354035501,
-    "wof:lastmodified":1449067315,
+    "wof:lastmodified":1466702425,
     "wof:name":"Pancit Adobo",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filipino"
     ]
 },
-  "bbox": [-115.184288,36.261533,-115.184288,36.261533],
+  "bbox": [
+    -115.184288,
+    36.261533,
+    -115.184288,
+    36.261533
+],
   "geometry": {"coordinates":[-115.184288,36.261533],"type":"Point"}
 }

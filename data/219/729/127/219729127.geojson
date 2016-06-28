@@ -2,13 +2,14 @@
   "id": 219729127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809482,39.48118,-119.809482,39.48118",
     "geom:latitude":39.48118,
     "geom:longitude":-119.809482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 Lakewood Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219729127,
-    "wof:lastmodified":1449072161,
+    "wof:lastmodified":1466704766,
     "wof:name":"Robert E Lyle Law Offices",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.809482,39.48118,-119.809482,39.48118],
+  "bbox": [
+    -119.809482,
+    39.48118,
+    -119.809482,
+    39.48118
+],
   "geometry": {"coordinates":[-119.809482,39.48118],"type":"Point"}
 }

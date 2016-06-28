@@ -2,13 +2,14 @@
   "id": 370266359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.283197,36.054817,-115.283197,36.054817",
     "geom:latitude":36.054817,
     "geom:longitude":-115.283197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8785 W Warm Springs Rd Ste 108",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370266359,
-    "wof:lastmodified":1449029167,
+    "wof:lastmodified":1466704109,
     "wof:name":"Preferred Family Dentistry",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.283197,36.054817,-115.283197,36.054817],
+  "bbox": [
+    -115.283197,
+    36.054817,
+    -115.283197,
+    36.054817
+],
   "geometry": {"coordinates":[-115.283197,36.054817],"type":"Point"}
 }

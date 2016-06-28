@@ -2,13 +2,14 @@
   "id": 236003075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.761903,39.544368,-119.761903,39.544368",
     "geom:latitude":39.544368,
     "geom:longitude":-119.761903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 15th St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236003075,
-    "wof:lastmodified":1449004940,
+    "wof:lastmodified":1466704254,
     "wof:name":"Gift Shop Shop",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.761903,39.544368,-119.761903,39.544368],
+  "bbox": [
+    -119.761903,
+    39.544368,
+    -119.761903,
+    39.544368
+],
   "geometry": {"coordinates":[-119.761903,39.544368],"type":"Point"}
 }

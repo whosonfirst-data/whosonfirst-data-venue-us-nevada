@@ -2,13 +2,14 @@
   "id": 236654655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.086104,36.028551,-115.086104,36.028551",
     "geom:latitude":36.028551,
     "geom:longitude":-115.086104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236654655,
-    "wof:lastmodified":1449002612,
+    "wof:lastmodified":1466706582,
     "wof:name":"Winchells Donut House",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.086104,36.028551,-115.086104,36.028551],
-  "geometry": {"coordinates":[-115.086104,36.028551],"type":"Point"}
+  "bbox": [
+    -115.086104,
+    36.028551,
+    -115.086104,
+    36.028551
+],
+  "geometry": {"coordinates":[-115.08610400000001,36.028551],"type":"Point"}
 }

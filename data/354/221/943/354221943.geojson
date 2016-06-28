@@ -2,13 +2,14 @@
   "id": 354221943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218128,36.208045,-115.218128,36.208045",
     "geom:latitude":36.208045,
     "geom:longitude":-115.218128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5575 Madre Mesa Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354221943,
-    "wof:lastmodified":1449066662,
+    "wof:lastmodified":1466705257,
     "wof:name":"Art Vision Studio",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.218128,36.208045,-115.218128,36.208045],
-  "geometry": {"coordinates":[-115.218128,36.208045],"type":"Point"}
+  "bbox": [
+    -115.218128,
+    36.208045,
+    -115.218128,
+    36.208045
+],
+  "geometry": {"coordinates":[-115.21812799999999,36.208045],"type":"Point"}
 }

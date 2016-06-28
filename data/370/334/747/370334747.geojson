@@ -2,13 +2,14 @@
   "id": 370334747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.866703,39.533544,-119.866703,39.533544",
     "geom:latitude":39.533544,
     "geom:longitude":-119.866703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5150 Mae Anne Ave Ste 205",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370334747,
-    "wof:lastmodified":1449030092,
+    "wof:lastmodified":1466704887,
     "wof:name":"Lucky Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.866703,39.533544,-119.866703,39.533544],
+  "bbox": [
+    -119.866703,
+    39.533544,
+    -119.866703,
+    39.533544
+],
   "geometry": {"coordinates":[-119.866703,39.533544],"type":"Point"}
 }

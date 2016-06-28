@@ -2,13 +2,14 @@
   "id": 236923743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.762844,39.138938,-119.762844,39.138938",
     "geom:latitude":39.138938,
     "geom:longitude":-119.762844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3147 Heaton Way",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236923743,
-    "wof:lastmodified":1449005115,
+    "wof:lastmodified":1466706915,
     "wof:name":"Snack Attack Vending",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.762844,39.138938,-119.762844,39.138938],
+  "bbox": [
+    -119.762844,
+    39.138938,
+    -119.762844,
+    39.138938
+],
   "geometry": {"coordinates":[-119.762844,39.138938],"type":"Point"}
 }

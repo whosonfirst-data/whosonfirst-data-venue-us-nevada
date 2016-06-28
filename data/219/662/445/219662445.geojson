@@ -2,13 +2,14 @@
   "id": 219662445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.443335,36.542859,-114.443335,36.542859",
     "geom:latitude":36.542859,
     "geom:longitude":-114.443335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 S Moapa Valley Blvd",
     "sg:city":"Overton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219662445,
-    "wof:lastmodified":1449072773,
+    "wof:lastmodified":1466704043,
     "wof:name":"Checks-N-Mail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-114.443335,36.542859,-114.443335,36.542859],
+  "bbox": [
+    -114.443335,
+    36.542859,
+    -114.443335,
+    36.542859
+],
   "geometry": {"coordinates":[-114.443335,36.542859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235986033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312423,36.129415,-115.312423,36.129415",
     "geom:latitude":36.129415,
     "geom:longitude":-115.312423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3351 Lark Bunting St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235986033,
-    "wof:lastmodified":1449008532,
+    "wof:lastmodified":1466704251,
     "wof:name":"A-Ok Technologies",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-115.312423,36.129415,-115.312423,36.129415],
+  "bbox": [
+    -115.312423,
+    36.129415,
+    -115.312423,
+    36.129415
+],
   "geometry": {"coordinates":[-115.312423,36.129415],"type":"Point"}
 }

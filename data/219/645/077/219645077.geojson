@@ -2,13 +2,14 @@
   "id": 219645077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.783161,40.847636,-115.783161,40.847636",
     "geom:latitude":40.847636,
     "geom:longitude":-115.783161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Cindy Cir",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219645077,
-    "wof:lastmodified":1449070743,
+    "wof:lastmodified":1466703728,
     "wof:name":"Hogi Yogi & Teryaki Sticks",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.783161,40.847636,-115.783161,40.847636],
-  "geometry": {"coordinates":[-115.783161,40.847636],"type":"Point"}
+  "bbox": [
+    -115.783161,
+    40.847636,
+    -115.783161,
+    40.847636
+],
+  "geometry": {"coordinates":[-115.78316100000001,40.847636],"type":"Point"}
 }

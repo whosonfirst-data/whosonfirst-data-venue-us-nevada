@@ -2,13 +2,14 @@
   "id": 236723437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.147402,36.16358,-115.147402,36.16358",
     "geom:latitude":36.16358,
     "geom:longitude":-115.147402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 S 3rd St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236723437,
-    "wof:lastmodified":1449003602,
+    "wof:lastmodified":1466706519,
     "wof:name":"Charles Lybarger Law Offices",
     "wof:parent_id":85896911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.147402,36.16358,-115.147402,36.16358],
+  "bbox": [
+    -115.147402,
+    36.16358,
+    -115.147402,
+    36.16358
+],
   "geometry": {"coordinates":[-115.147402,36.16358],"type":"Point"}
 }

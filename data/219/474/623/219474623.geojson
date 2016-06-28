@@ -2,13 +2,14 @@
   "id": 219474623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.2349,36.242194,-115.2349,36.242194",
     "geom:latitude":36.242194,
     "geom:longitude":-115.2349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4590 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219474623,
-    "wof:lastmodified":1449070523,
+    "wof:lastmodified":1466704052,
     "wof:name":"Dtsvegascom Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-115.2349,36.242194,-115.2349,36.242194],
+  "bbox": [
+    -115.2349,
+    36.242194,
+    -115.2349,
+    36.242194
+],
   "geometry": {"coordinates":[-115.2349,36.242194],"type":"Point"}
 }

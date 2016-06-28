@@ -2,13 +2,14 @@
   "id": 236915333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.21395,35.984774,-115.21395,35.984774",
     "geom:latitude":35.984774,
     "geom:longitude":-115.21395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5296 Esparon Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236915333,
-    "wof:lastmodified":1449005213,
+    "wof:lastmodified":1466706830,
     "wof:name":"D & D Video Productions",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-115.21395,35.984774,-115.21395,35.984774],
+  "bbox": [
+    -115.21395,
+    35.984774,
+    -115.21395,
+    35.984774
+],
   "geometry": {"coordinates":[-115.21395,35.984774],"type":"Point"}
 }

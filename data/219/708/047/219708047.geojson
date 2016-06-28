@@ -2,13 +2,14 @@
   "id": 219708047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.856823,35.973645,-114.856823,35.973645",
     "geom:latitude":35.973645,
     "geom:longitude":-114.856823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Yucca St",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219708047,
-    "wof:lastmodified":1449070943,
+    "wof:lastmodified":1466704313,
     "wof:name":"Fradella Ironworks",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-114.856823,35.973645,-114.856823,35.973645],
-  "geometry": {"coordinates":[-114.856823,35.973645],"type":"Point"}
+  "bbox": [
+    -114.856823,
+    35.973645,
+    -114.856823,
+    35.973645
+],
+  "geometry": {"coordinates":[-114.85682300000001,35.973645],"type":"Point"}
 }

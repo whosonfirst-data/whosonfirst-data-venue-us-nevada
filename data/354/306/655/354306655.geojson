@@ -2,13 +2,14 @@
   "id": 354306655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.245718,36.143629,-115.245718,36.143629",
     "geom:latitude":36.143629,
     "geom:longitude":-115.245718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7035 W Sahara Ave Ste 400B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354306655,
-    "wof:lastmodified":1449067596,
+    "wof:lastmodified":1466705882,
     "wof:name":"S.W.A.T Motorsports",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "part"
     ]
 },
-  "bbox": [-115.245718,36.143629,-115.245718,36.143629],
+  "bbox": [
+    -115.245718,
+    36.143629,
+    -115.245718,
+    36.143629
+],
   "geometry": {"coordinates":[-115.245718,36.143629],"type":"Point"}
 }

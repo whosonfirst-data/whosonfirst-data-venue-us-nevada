@@ -2,13 +2,14 @@
   "id": 219184763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135146,36.058425,-115.135146,36.058425",
     "geom:latitude":36.058425,
     "geom:longitude":-115.135146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7252 Wichita Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219184763,
-    "wof:lastmodified":1449070987,
+    "wof:lastmodified":1466701978,
     "wof:name":"Gopher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-115.135146,36.058425,-115.135146,36.058425],
-  "geometry": {"coordinates":[-115.135146,36.058425],"type":"Point"}
+  "bbox": [
+    -115.135146,
+    36.058425,
+    -115.135146,
+    36.058425
+],
+  "geometry": {"coordinates":[-115.13514600000001,36.058425],"type":"Point"}
 }

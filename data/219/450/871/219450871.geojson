@@ -2,13 +2,14 @@
   "id": 219450871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.12571,36.158788,-115.12571,36.158788",
     "geom:latitude":36.158788,
     "geom:longitude":-115.12571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219450871,
-    "wof:lastmodified":1449073366,
+    "wof:lastmodified":1466703890,
     "wof:name":"Sharon's Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-115.12571,36.158788,-115.12571,36.158788],
+  "bbox": [
+    -115.12571,
+    36.158788,
+    -115.12571,
+    36.158788
+],
   "geometry": {"coordinates":[-115.12571,36.158788],"type":"Point"}
 }

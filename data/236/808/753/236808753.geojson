@@ -2,13 +2,14 @@
   "id": 236808753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187932,36.128192,-115.187932,36.128192",
     "geom:latitude":36.128192,
     "geom:longitude":-115.187932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Procyon St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236808753,
-    "wof:lastmodified":1449001795,
+    "wof:lastmodified":1466706763,
     "wof:name":"Complete Millwork Services",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.187932,36.128192,-115.187932,36.128192],
+  "bbox": [
+    -115.187932,
+    36.128192,
+    -115.187932,
+    36.128192
+],
   "geometry": {"coordinates":[-115.187932,36.128192],"type":"Point"}
 }

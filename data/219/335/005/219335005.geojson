@@ -2,13 +2,14 @@
   "id": 219335005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.205922,36.238456,-115.205922,36.238456",
     "geom:latitude":36.238456,
     "geom:longitude":-115.205922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 San Diego St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219335005,
-    "wof:lastmodified":1449072714,
+    "wof:lastmodified":1466704239,
     "wof:name":"Mystic Chimes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.205922,36.238456,-115.205922,36.238456],
+  "bbox": [
+    -115.205922,
+    36.238456,
+    -115.205922,
+    36.238456
+],
   "geometry": {"coordinates":[-115.205922,36.238456],"type":"Point"}
 }

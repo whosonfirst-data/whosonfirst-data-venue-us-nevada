@@ -2,13 +2,14 @@
   "id": 370254853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.312378,36.115674,-115.312378,36.115674",
     "geom:latitude":36.115674,
     "geom:longitude":-115.312378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10082 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370254853,
-    "wof:lastmodified":1449031404,
+    "wof:lastmodified":1466703773,
     "wof:name":"Lindo Michoacan West",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.312378,36.115674,-115.312378,36.115674],
+  "bbox": [
+    -115.312378,
+    36.115674,
+    -115.312378,
+    36.115674
+],
   "geometry": {"coordinates":[-115.312378,36.115674],"type":"Point"}
 }

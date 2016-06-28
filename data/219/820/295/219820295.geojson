@@ -2,13 +2,14 @@
   "id": 219820295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.251543,36.264624,-115.251543,36.264624",
     "geom:latitude":36.264624,
     "geom:longitude":-115.251543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Sky Pointe Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219820295,
-    "wof:lastmodified":1449072203,
+    "wof:lastmodified":1466705191,
     "wof:name":"Stop N Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.251543,36.264624,-115.251543,36.264624],
+  "bbox": [
+    -115.251543,
+    36.264624,
+    -115.251543,
+    36.264624
+],
   "geometry": {"coordinates":[-115.251543,36.264624],"type":"Point"}
 }

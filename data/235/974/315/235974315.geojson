@@ -2,13 +2,14 @@
   "id": 235974315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.072391,36.189049,-115.072391,36.189049",
     "geom:latitude":36.189049,
     "geom:longitude":-115.072391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4562 Baby Bird Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235974315,
-    "wof:lastmodified":1449008560,
+    "wof:lastmodified":1466703635,
     "wof:name":"Sussys Cleaning Service",
     "wof:parent_id":85892727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-115.072391,36.189049,-115.072391,36.189049],
+  "bbox": [
+    -115.072391,
+    36.189049,
+    -115.072391,
+    36.189049
+],
   "geometry": {"coordinates":[-115.072391,36.189049],"type":"Point"}
 }

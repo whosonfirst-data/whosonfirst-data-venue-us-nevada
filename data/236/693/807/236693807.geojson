@@ -2,13 +2,14 @@
   "id": 236693807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.778376,39.17603,-119.778376,39.17603",
     "geom:latitude":39.17603,
     "geom:longitude":-119.778376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Chaparral Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236693807,
-    "wof:lastmodified":1449001818,
+    "wof:lastmodified":1466706595,
     "wof:name":"Stephen Davidson Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "it"
     ]
 },
-  "bbox": [-119.778376,39.17603,-119.778376,39.17603],
-  "geometry": {"coordinates":[-119.778376,39.17603],"type":"Point"}
+  "bbox": [
+    -119.778376,
+    39.17603,
+    -119.778376,
+    39.17603
+],
+  "geometry": {"coordinates":[-119.77837599999999,39.17603],"type":"Point"}
 }

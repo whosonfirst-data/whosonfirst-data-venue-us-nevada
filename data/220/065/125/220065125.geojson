@@ -2,13 +2,14 @@
   "id": 220065125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.947372,36.070952,-114.947372,36.070952",
     "geom:latitude":36.070952,
     "geom:longitude":-114.947372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Kiel St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220065125,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466702168,
     "wof:name":"Espinoza Interiors",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-114.947372,36.070952,-114.947372,36.070952],
+  "bbox": [
+    -114.947372,
+    36.070952,
+    -114.947372,
+    36.070952
+],
   "geometry": {"coordinates":[-114.947372,36.070952],"type":"Point"}
 }

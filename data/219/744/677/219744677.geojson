@@ -2,13 +2,14 @@
   "id": 219744677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111348,36.030305,-115.111348,36.030305",
     "geom:latitude":36.030305,
     "geom:longitude":-115.111348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Prairie Dog Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219744677,
-    "wof:lastmodified":1449071663,
+    "wof:lastmodified":1466704855,
     "wof:name":"Bird Supply & More",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.111348,36.030305,-115.111348,36.030305],
-  "geometry": {"coordinates":[-115.111348,36.030305],"type":"Point"}
+  "bbox": [
+    -115.111348,
+    36.030305,
+    -115.111348,
+    36.030305
+],
+  "geometry": {"coordinates":[-115.11134800000001,36.030305],"type":"Point"}
 }

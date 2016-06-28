@@ -2,13 +2,14 @@
   "id": 219565831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.728594,39.555824,-119.728594,39.555824",
     "geom:latitude":39.555824,
     "geom:longitude":-119.728594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Glen Meadow Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219565831,
-    "wof:lastmodified":1449073607,
+    "wof:lastmodified":1466702498,
     "wof:name":"World Wide Protection Group",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.728594,39.555824,-119.728594,39.555824],
+  "bbox": [
+    -119.728594,
+    39.555824,
+    -119.728594,
+    39.555824
+],
   "geometry": {"coordinates":[-119.728594,39.555824],"type":"Point"}
 }

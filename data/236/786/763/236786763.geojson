@@ -2,13 +2,14 @@
   "id": 236786763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.886094,40.579467,-116.886094,40.579467",
     "geom:latitude":40.579467,
     "geom:longitude":-116.886094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1486 Hilltop Rd",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236786763,
-    "wof:lastmodified":1449002000,
+    "wof:lastmodified":1466706633,
     "wof:name":"Lock Doc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.886094,40.579467,-116.886094,40.579467],
+  "bbox": [
+    -116.886094,
+    40.579467,
+    -116.886094,
+    40.579467
+],
   "geometry": {"coordinates":[-116.886094,40.579467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220025499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.03897,36.067257,-115.03897,36.067257",
     "geom:latitude":36.067257,
     "geom:longitude":-115.03897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Mall Ring Cir",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220025499,
-    "wof:lastmodified":1449074730,
+    "wof:lastmodified":1466701764,
     "wof:name":"Old Spaghetti Factory",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-115.03897,36.067257,-115.03897,36.067257],
-  "geometry": {"coordinates":[-115.03897,36.067257],"type":"Point"}
+  "bbox": [
+    -115.03897,
+    36.067257,
+    -115.03897,
+    36.067257
+],
+  "geometry": {"coordinates":[-115.03897000000001,36.067257],"type":"Point"}
 }

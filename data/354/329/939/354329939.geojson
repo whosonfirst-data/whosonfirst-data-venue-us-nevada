@@ -2,13 +2,14 @@
   "id": 354329939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.104943,36.071487,-115.104943,36.071487",
     "geom:latitude":36.071487,
     "geom:longitude":-115.104943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 Sunset Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354329939,
-    "wof:lastmodified":1449066377,
+    "wof:lastmodified":1466705914,
     "wof:name":"Proglasses Wholesale Optical",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesale"
     ]
 },
-  "bbox": [-115.104943,36.071487,-115.104943,36.071487],
-  "geometry": {"coordinates":[-115.104943,36.071487],"type":"Point"}
+  "bbox": [
+    -115.104943,
+    36.071487,
+    -115.104943,
+    36.071487
+],
+  "geometry": {"coordinates":[-115.10494300000001,36.071487],"type":"Point"}
 }

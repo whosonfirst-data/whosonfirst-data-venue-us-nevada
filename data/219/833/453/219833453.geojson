@@ -2,13 +2,14 @@
   "id": 219833453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.153504,36.144594,-115.153504,36.144594",
     "geom:latitude":36.144594,
     "geom:longitude":-115.153504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Santa Clara Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219833453,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466705119,
     "wof:name":"Imagenes of Las Vegas",
     "wof:parent_id":85892639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-115.153504,36.144594,-115.153504,36.144594],
+  "bbox": [
+    -115.153504,
+    36.144594,
+    -115.153504,
+    36.144594
+],
   "geometry": {"coordinates":[-115.153504,36.144594],"type":"Point"}
 }

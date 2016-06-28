@@ -2,13 +2,14 @@
   "id": 236906027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.82378,39.499848,-119.82378,39.499848",
     "geom:latitude":39.499848,
     "geom:longitude":-119.82378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Queen Ann Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236906027,
-    "wof:lastmodified":1449002797,
+    "wof:lastmodified":1466706909,
     "wof:name":"Warm Springs Development Co",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.82378,39.499848,-119.82378,39.499848],
+  "bbox": [
+    -119.82378,
+    39.499848,
+    -119.82378,
+    39.499848
+],
   "geometry": {"coordinates":[-119.82378,39.499848],"type":"Point"}
 }

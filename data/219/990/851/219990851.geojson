@@ -2,13 +2,14 @@
   "id": 219990851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.791048,39.482628,-119.791048,39.482628",
     "geom:latitude":39.482628,
     "geom:longitude":-119.791048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Kietzke Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":219990851,
-    "wof:lastmodified":1449072752,
+    "wof:lastmodified":1466706269,
     "wof:name":"Enviroscientists Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-119.791048,39.482628,-119.791048,39.482628],
+  "bbox": [
+    -119.791048,
+    39.482628,
+    -119.791048,
+    39.482628
+],
   "geometry": {"coordinates":[-119.791048,39.482628],"type":"Point"}
 }

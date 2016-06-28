@@ -2,13 +2,14 @@
   "id": 236758759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.79366,39.52362,-119.79366,39.52362",
     "geom:latitude":39.52362,
     "geom:longitude":-119.79366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Mill St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236758759,
-    "wof:lastmodified":1449002483,
+    "wof:lastmodified":1466706679,
     "wof:name":"Collections",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-119.79366,39.52362,-119.79366,39.52362],
+  "bbox": [
+    -119.79366,
+    39.52362,
+    -119.79366,
+    39.52362
+],
   "geometry": {"coordinates":[-119.79366,39.52362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219368693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.135373,36.158953,-115.135373,36.158953",
     "geom:latitude":36.158953,
     "geom:longitude":-115.135373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219368693,
-    "wof:lastmodified":1449071199,
+    "wof:lastmodified":1466703480,
     "wof:name":"Excellent Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [-115.135373,36.158953,-115.135373,36.158953],
+  "bbox": [
+    -115.135373,
+    36.158953,
+    -115.135373,
+    36.158953
+],
   "geometry": {"coordinates":[-115.135373,36.158953],"type":"Point"}
 }

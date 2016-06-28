@@ -2,13 +2,14 @@
   "id": 219941455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.125815,36.158788,-115.125815,36.158788",
     "geom:latitude":36.158788,
     "geom:longitude":-115.125815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219941455,
-    "wof:lastmodified":1449072495,
+    "wof:lastmodified":1466705708,
     "wof:name":"Sponsor Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promotional"
     ]
 },
-  "bbox": [-115.125815,36.158788,-115.125815,36.158788],
+  "bbox": [
+    -115.125815,
+    36.158788,
+    -115.125815,
+    36.158788
+],
   "geometry": {"coordinates":[-115.125815,36.158788],"type":"Point"}
 }

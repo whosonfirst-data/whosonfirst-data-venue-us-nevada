@@ -2,13 +2,14 @@
   "id": 236711409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771351,38.954534,-119.771351,38.954534",
     "geom:latitude":38.954534,
     "geom:longitude":-119.771351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1697 County Rd",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236711409,
-    "wof:lastmodified":1449004518,
+    "wof:lastmodified":1466706505,
     "wof:name":"Dance Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-119.771351,38.954534,-119.771351,38.954534],
+  "bbox": [
+    -119.771351,
+    38.954534,
+    -119.771351,
+    38.954534
+],
   "geometry": {"coordinates":[-119.771351,38.954534],"type":"Point"}
 }

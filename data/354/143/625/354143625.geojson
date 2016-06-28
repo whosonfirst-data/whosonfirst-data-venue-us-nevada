@@ -2,13 +2,14 @@
   "id": 354143625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.226215,36.099825,-115.226215,36.099825",
     "geom:latitude":36.099825,
     "geom:longitude":-115.226215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 W Tropicana Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354143625,
-    "wof:lastmodified":1449067363,
+    "wof:lastmodified":1466704572,
     "wof:name":"Tropicana Smoke Shop",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.226215,36.099825,-115.226215,36.099825],
+  "bbox": [
+    -115.226215,
+    36.099825,
+    -115.226215,
+    36.099825
+],
   "geometry": {"coordinates":[-115.226215,36.099825],"type":"Point"}
 }

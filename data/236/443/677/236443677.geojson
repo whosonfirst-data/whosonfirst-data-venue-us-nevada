@@ -2,13 +2,14 @@
   "id": 236443677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.837604,39.358677,-119.837604,39.358677",
     "geom:latitude":39.358677,
     "geom:longitude":-119.837604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Austrian Pine Rd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236443677,
-    "wof:lastmodified":1449004514,
+    "wof:lastmodified":1466705682,
     "wof:name":"Howard Putman Enterprises",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.837604,39.358677,-119.837604,39.358677],
+  "bbox": [
+    -119.837604,
+    39.358677,
+    -119.837604,
+    39.358677
+],
   "geometry": {"coordinates":[-119.837604,39.358677],"type":"Point"}
 }

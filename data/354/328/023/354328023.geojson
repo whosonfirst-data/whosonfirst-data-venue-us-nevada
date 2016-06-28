@@ -2,13 +2,14 @@
   "id": 354328023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.242658,36.079107,-115.242658,36.079107",
     "geom:latitude":36.079107,
     "geom:longitude":-115.242658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6030 S Rainbow Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354328023,
-    "wof:lastmodified":1449066948,
+    "wof:lastmodified":1466705893,
     "wof:name":"Humphries Stephanie Pt",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "physical"
     ]
 },
-  "bbox": [-115.242658,36.079107,-115.242658,36.079107],
-  "geometry": {"coordinates":[-115.242658,36.079107],"type":"Point"}
+  "bbox": [
+    -115.242658,
+    36.079107,
+    -115.242658,
+    36.079107
+],
+  "geometry": {"coordinates":[-115.24265800000001,36.079107],"type":"Point"}
 }

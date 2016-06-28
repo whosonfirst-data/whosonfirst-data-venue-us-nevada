@@ -2,13 +2,14 @@
   "id": 370340383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731608,39.176986,-119.731608,39.176986",
     "geom:latitude":39.176986,
     "geom:longitude":-119.731608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3173 US Highway 50 E",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370340383,
-    "wof:lastmodified":1449031712,
+    "wof:lastmodified":1466705092,
     "wof:name":"Bobby Page's Cleaners",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.731608,39.176986,-119.731608,39.176986],
-  "geometry": {"coordinates":[-119.731608,39.176986],"type":"Point"}
+  "bbox": [
+    -119.731608,
+    39.176986,
+    -119.731608,
+    39.176986
+],
+  "geometry": {"coordinates":[-119.73160799999999,39.176986],"type":"Point"}
 }

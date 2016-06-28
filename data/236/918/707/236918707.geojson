@@ -2,13 +2,14 @@
   "id": 236918707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.844517,35.974507,-114.844517,35.974507",
     "geom:latitude":35.974507,
     "geom:longitude":-114.844517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236918707,
-    "wof:lastmodified":1449003986,
+    "wof:lastmodified":1466706840,
     "wof:name":"Boulder City Marine Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-114.844517,35.974507,-114.844517,35.974507],
+  "bbox": [
+    -114.844517,
+    35.974507,
+    -114.844517,
+    35.974507
+],
   "geometry": {"coordinates":[-114.844517,35.974507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236563943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.331918,36.180609,-115.331918,36.180609",
     "geom:latitude":36.180609,
     "geom:longitude":-115.331918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Cypress Meadows Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236563943,
-    "wof:lastmodified":1449001716,
+    "wof:lastmodified":1466706155,
     "wof:name":"Potter Computers",
     "wof:parent_id":85892721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-115.331918,36.180609,-115.331918,36.180609],
+  "bbox": [
+    -115.331918,
+    36.180609,
+    -115.331918,
+    36.180609
+],
   "geometry": {"coordinates":[-115.331918,36.180609],"type":"Point"}
 }

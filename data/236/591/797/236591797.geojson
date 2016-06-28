@@ -2,13 +2,14 @@
   "id": 236591797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168361,36.174099,-115.168361,36.174099",
     "geom:latitude":36.174099,
     "geom:longitude":-115.168361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Granite Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":236591797,
-    "wof:lastmodified":1449003416,
+    "wof:lastmodified":1466706248,
     "wof:name":"McLeod Painting & Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.168361,36.174099,-115.168361,36.174099],
+  "bbox": [
+    -115.168361,
+    36.174099,
+    -115.168361,
+    36.174099
+],
   "geometry": {"coordinates":[-115.168361,36.174099],"type":"Point"}
 }

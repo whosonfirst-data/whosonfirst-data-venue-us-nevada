@@ -2,13 +2,14 @@
   "id": 354106039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194588,36.129773,-115.194588,36.129773",
     "geom:latitude":36.129773,
     "geom:longitude":-115.194588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Wynn Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354106039,
-    "wof:lastmodified":1449065909,
+    "wof:lastmodified":1466704523,
     "wof:name":"Train 2 Excel",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.194588,36.129773,-115.194588,36.129773],
+  "bbox": [
+    -115.194588,
+    36.129773,
+    -115.194588,
+    36.129773
+],
   "geometry": {"coordinates":[-115.194588,36.129773],"type":"Point"}
 }

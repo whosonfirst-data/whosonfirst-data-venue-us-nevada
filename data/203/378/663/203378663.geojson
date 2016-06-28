@@ -2,13 +2,14 @@
   "id": 203378663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.731855,39.527323,-119.731855,39.527323",
     "geom:latitude":39.527323,
     "geom:longitude":-119.731855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 E Glendale Ave",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203378663,
-    "wof:lastmodified":1449026257,
+    "wof:lastmodified":1466703251,
     "wof:name":"Mupac",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-119.731855,39.527323,-119.731855,39.527323],
+  "bbox": [
+    -119.731855,
+    39.527323,
+    -119.731855,
+    39.527323
+],
   "geometry": {"coordinates":[-119.731855,39.527323],"type":"Point"}
 }

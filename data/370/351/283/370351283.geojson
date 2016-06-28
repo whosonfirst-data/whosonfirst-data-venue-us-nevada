@@ -2,13 +2,14 @@
   "id": 370351283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771795,39.186506,-119.771795,39.186506",
     "geom:latitude":39.186506,
     "geom:longitude":-119.771795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 W Nye Ln Ste 203",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370351283,
-    "wof:lastmodified":1449031959,
+    "wof:lastmodified":1466705053,
     "wof:name":"Skin Cancer & Dermatology Institute",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"
     ]
 },
-  "bbox": [-119.771795,39.186506,-119.771795,39.186506],
+  "bbox": [
+    -119.771795,
+    39.186506,
+    -119.771795,
+    39.186506
+],
   "geometry": {"coordinates":[-119.771795,39.186506],"type":"Point"}
 }

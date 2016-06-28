@@ -2,13 +2,14 @@
   "id": 219419659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161838,36.187428,-115.161838,36.187428",
     "geom:latitude":36.187428,
     "geom:longitude":-115.161838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Sharon Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219419659,
-    "wof:lastmodified":1449073846,
+    "wof:lastmodified":1466703745,
     "wof:name":"A Rosey Svc",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-115.161838,36.187428,-115.161838,36.187428],
+  "bbox": [
+    -115.161838,
+    36.187428,
+    -115.161838,
+    36.187428
+],
   "geometry": {"coordinates":[-115.161838,36.187428],"type":"Point"}
 }

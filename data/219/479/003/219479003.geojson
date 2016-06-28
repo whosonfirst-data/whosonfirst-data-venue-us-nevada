@@ -2,13 +2,14 @@
   "id": 219479003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772628,39.423193,-119.772628,39.423193",
     "geom:latitude":39.423193,
     "geom:longitude":-119.772628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12310 Westridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219479003,
-    "wof:lastmodified":1449072804,
+    "wof:lastmodified":1466704263,
     "wof:name":"Stuart H Penrose",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.772628,39.423193,-119.772628,39.423193],
+  "bbox": [
+    -119.772628,
+    39.423193,
+    -119.772628,
+    39.423193
+],
   "geometry": {"coordinates":[-119.772628,39.423193],"type":"Point"}
 }

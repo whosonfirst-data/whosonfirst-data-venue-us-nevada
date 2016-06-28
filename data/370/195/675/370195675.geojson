@@ -2,13 +2,14 @@
   "id": 370195675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.295074,36.211572,-115.295074,36.211572",
     "geom:latitude":36.211572,
     "geom:longitude":-115.295074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 Del Webb Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370195675,
-    "wof:lastmodified":1449031301,
+    "wof:lastmodified":1466702405,
     "wof:name":"Palm Valley Golf Club-Sun City Summerlin",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.295074,36.211572,-115.295074,36.211572],
+  "bbox": [
+    -115.295074,
+    36.211572,
+    -115.295074,
+    36.211572
+],
   "geometry": {"coordinates":[-115.295074,36.211572],"type":"Point"}
 }

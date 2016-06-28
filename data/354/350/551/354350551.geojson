@@ -2,13 +2,14 @@
   "id": 354350551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.162632,36.070365,-115.162632,36.070365",
     "geom:latitude":36.070365,
     "geom:longitude":-115.162632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Via Antonia Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354350551,
-    "wof:lastmodified":1449066792,
+    "wof:lastmodified":1466706114,
     "wof:name":"Panevino Deli",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-115.162632,36.070365,-115.162632,36.070365],
+  "bbox": [
+    -115.162632,
+    36.070365,
+    -115.162632,
+    36.070365
+],
   "geometry": {"coordinates":[-115.162632,36.070365],"type":"Point"}
 }

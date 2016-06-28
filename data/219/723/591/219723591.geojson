@@ -2,13 +2,14 @@
   "id": 219723591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.107638,36.137868,-115.107638,36.137868",
     "geom:latitude":36.137868,
     "geom:longitude":-115.107638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Congress Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219723591,
-    "wof:lastmodified":1449072446,
+    "wof:lastmodified":1466704460,
     "wof:name":"Ace TV Svc Ctr",
     "wof:parent_id":85867063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-115.107638,36.137868,-115.107638,36.137868],
-  "geometry": {"coordinates":[-115.107638,36.137868],"type":"Point"}
+  "bbox": [
+    -115.107638,
+    36.137868,
+    -115.107638,
+    36.137868
+],
+  "geometry": {"coordinates":[-115.10763799999999,36.137868],"type":"Point"}
 }

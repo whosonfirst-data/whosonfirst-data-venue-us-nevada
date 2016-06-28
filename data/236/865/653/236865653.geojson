@@ -2,13 +2,14 @@
   "id": 236865653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.111889,36.110894,-115.111889,36.110894",
     "geom:latitude":36.110894,
     "geom:longitude":-115.111889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4380 Flandes St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236865653,
-    "wof:lastmodified":1449004270,
+    "wof:lastmodified":1466706755,
     "wof:name":"American Express Travel Rltd",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-115.111889,36.110894,-115.111889,36.110894],
-  "geometry": {"coordinates":[-115.111889,36.110894],"type":"Point"}
+  "bbox": [
+    -115.111889,
+    36.110894,
+    -115.111889,
+    36.110894
+],
+  "geometry": {"coordinates":[-115.11188900000001,36.110894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220156653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.849572,39.484045,-119.849572,39.484045",
     "geom:latitude":39.484045,
     "geom:longitude":-119.849572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3691 Glen Echo Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220156653,
-    "wof:lastmodified":1449074199,
+    "wof:lastmodified":1466702808,
     "wof:name":"Oppio Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-119.849572,39.484045,-119.849572,39.484045],
-  "geometry": {"coordinates":[-119.849572,39.484045],"type":"Point"}
+  "bbox": [
+    -119.849572,
+    39.484045,
+    -119.849572,
+    39.484045
+],
+  "geometry": {"coordinates":[-119.84957199999999,39.484045],"type":"Point"}
 }

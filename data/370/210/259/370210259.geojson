@@ -2,13 +2,14 @@
   "id": 370210259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.232396,36.055466,-115.232396,36.055466",
     "geom:latitude":36.055466,
     "geom:longitude":-115.232396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7337 Burnt Umber Street",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370210259,
-    "wof:lastmodified":1449030247,
+    "wof:lastmodified":1466702801,
     "wof:name":"Roadrunner Food Delivery",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "courier"
     ]
 },
-  "bbox": [-115.232396,36.055466,-115.232396,36.055466],
-  "geometry": {"coordinates":[-115.232396,36.055466],"type":"Point"}
+  "bbox": [
+    -115.232396,
+    36.055466,
+    -115.232396,
+    36.055466
+],
+  "geometry": {"coordinates":[-115.23239599999999,36.055466],"type":"Point"}
 }

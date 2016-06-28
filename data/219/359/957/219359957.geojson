@@ -2,13 +2,14 @@
   "id": 219359957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.086154,36.800008,-114.086154,36.800008",
     "geom:latitude":36.800008,
     "geom:longitude":-114.086154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Garnet Ln",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219359957,
-    "wof:lastmodified":1449070332,
+    "wof:lastmodified":1466703434,
     "wof:name":"I Can See Clearly Now",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-114.086154,36.800008,-114.086154,36.800008],
-  "geometry": {"coordinates":[-114.086154,36.800008],"type":"Point"}
+  "bbox": [
+    -114.086154,
+    36.800008,
+    -114.086154,
+    36.800008
+],
+  "geometry": {"coordinates":[-114.08615399999999,36.800008],"type":"Point"}
 }

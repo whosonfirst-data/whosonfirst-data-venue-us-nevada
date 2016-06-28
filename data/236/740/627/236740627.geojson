@@ -2,13 +2,14 @@
   "id": 236740627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257558,36.150547,-115.257558,36.150547",
     "geom:latitude":36.150547,
     "geom:longitude":-115.257558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Myrtle Island Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236740627,
-    "wof:lastmodified":1449003090,
+    "wof:lastmodified":1466706556,
     "wof:name":"Dab Row Radio Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-115.257558,36.150547,-115.257558,36.150547],
+  "bbox": [
+    -115.257558,
+    36.150547,
+    -115.257558,
+    36.150547
+],
   "geometry": {"coordinates":[-115.257558,36.150547],"type":"Point"}
 }

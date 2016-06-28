@@ -2,13 +2,14 @@
   "id": 219251009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.844417,40.910261,-117.844417,40.910261",
     "geom:latitude":40.910261,
     "geom:longitude":-117.844417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7595 W Rose Creek Rd",
     "sg:city":"Winnemucca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219251009,
-    "wof:lastmodified":1449070435,
+    "wof:lastmodified":1466702546,
     "wof:name":"Friends-The City County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.844417,40.910261,-117.844417,40.910261],
-  "geometry": {"coordinates":[-117.844417,40.910261],"type":"Point"}
+  "bbox": [
+    -117.844417,
+    40.910261,
+    -117.844417,
+    40.910261
+],
+  "geometry": {"coordinates":[-117.84441700000001,40.910261],"type":"Point"}
 }

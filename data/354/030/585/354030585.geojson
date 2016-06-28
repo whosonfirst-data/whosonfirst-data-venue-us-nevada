@@ -2,13 +2,14 @@
   "id": 354030585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.128261,36.217837,-115.128261,36.217837",
     "geom:latitude":36.217837,
     "geom:longitude":-115.128261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Cheyenne Ave",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354030585,
-    "wof:lastmodified":1449066540,
+    "wof:lastmodified":1466702293,
     "wof:name":"Roberto's Taco Shop",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.128261,36.217837,-115.128261,36.217837],
-  "geometry": {"coordinates":[-115.128261,36.217837],"type":"Point"}
+  "bbox": [
+    -115.128261,
+    36.217837,
+    -115.128261,
+    36.217837
+],
+  "geometry": {"coordinates":[-115.12826099999999,36.217837],"type":"Point"}
 }

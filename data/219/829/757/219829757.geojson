@@ -2,13 +2,14 @@
   "id": 219829757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082319,36.069409,-115.082319,36.069409",
     "geom:latitude":36.069409,
     "geom:longitude":-115.082319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2706 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219829757,
-    "wof:lastmodified":1449073675,
+    "wof:lastmodified":1466705229,
     "wof:name":"Agave",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.082319,36.069409,-115.082319,36.069409],
+  "bbox": [
+    -115.082319,
+    36.069409,
+    -115.082319,
+    36.069409
+],
   "geometry": {"coordinates":[-115.082319,36.069409],"type":"Point"}
 }

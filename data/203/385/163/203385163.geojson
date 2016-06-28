@@ -2,13 +2,14 @@
   "id": 203385163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.118796,36.156678,-115.118796,36.156678",
     "geom:latitude":36.156678,
     "geom:longitude":-115.118796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203385163,
-    "wof:lastmodified":1449026075,
+    "wof:lastmodified":1466703270,
     "wof:name":"Envios Relapago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transfer"
     ]
 },
-  "bbox": [-115.118796,36.156678,-115.118796,36.156678],
+  "bbox": [
+    -115.118796,
+    36.156678,
+    -115.118796,
+    36.156678
+],
   "geometry": {"coordinates":[-115.118796,36.156678],"type":"Point"}
 }

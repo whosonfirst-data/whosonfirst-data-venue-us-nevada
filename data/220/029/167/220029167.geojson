@@ -2,13 +2,14 @@
   "id": 220029167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.656459,39.228813,-119.656459,39.228813",
     "geom:latitude":39.228813,
     "geom:longitude":-119.656459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Stokes Dr",
     "sg:city":"Mound House",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220029167,
-    "wof:lastmodified":1449074378,
+    "wof:lastmodified":1466701794,
     "wof:name":"Western Nevada Bullets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ammunition"
     ]
 },
-  "bbox": [-119.656459,39.228813,-119.656459,39.228813],
+  "bbox": [
+    -119.656459,
+    39.228813,
+    -119.656459,
+    39.228813
+],
   "geometry": {"coordinates":[-119.656459,39.228813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219641673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.168431,36.145179,-115.168431,36.145179",
     "geom:latitude":36.145179,
     "geom:longitude":-115.168431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 Highland Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219641673,
-    "wof:lastmodified":1449073083,
+    "wof:lastmodified":1466703667,
     "wof:name":"Thermal Cold",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.168431,36.145179,-115.168431,36.145179],
+  "bbox": [
+    -115.168431,
+    36.145179,
+    -115.168431,
+    36.145179
+],
   "geometry": {"coordinates":[-115.168431,36.145179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354351883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.166575,36.069852,-115.166575,36.069852",
     "geom:latitude":36.069852,
     "geom:longitude":-115.166575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Sunset Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":354351883,
-    "wof:lastmodified":1449067394,
+    "wof:lastmodified":1466705868,
     "wof:name":"Soirees",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "caterer"
     ]
 },
-  "bbox": [-115.166575,36.069852,-115.166575,36.069852],
-  "geometry": {"coordinates":[-115.166575,36.069852],"type":"Point"}
+  "bbox": [
+    -115.166575,
+    36.069852,
+    -115.166575,
+    36.069852
+],
+  "geometry": {"coordinates":[-115.16657499999999,36.069852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203295329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.293794,36.127242,-115.293794,36.127242",
     "geom:latitude":36.127242,
     "geom:longitude":-115.293794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9315 Horizon Vis",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203295329,
-    "wof:lastmodified":1449025687,
+    "wof:lastmodified":1466702795,
     "wof:name":"Design4u",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.293794,36.127242,-115.293794,36.127242],
-  "geometry": {"coordinates":[-115.293794,36.127242],"type":"Point"}
+  "bbox": [
+    -115.293794,
+    36.127242,
+    -115.293794,
+    36.127242
+],
+  "geometry": {"coordinates":[-115.29379400000001,36.127242],"type":"Point"}
 }

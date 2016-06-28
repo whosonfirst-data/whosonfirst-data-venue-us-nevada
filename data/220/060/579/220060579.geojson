@@ -2,13 +2,14 @@
   "id": 220060579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.254545,36.196014,-115.254545,36.196014",
     "geom:latitude":36.196014,
     "geom:longitude":-115.254545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220060579,
-    "wof:lastmodified":1449074803,
+    "wof:lastmodified":1466702142,
     "wof:name":"Park Place Clrs & Shirt Ldry",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drycleaning"
     ]
 },
-  "bbox": [-115.254545,36.196014,-115.254545,36.196014],
-  "geometry": {"coordinates":[-115.254545,36.196014],"type":"Point"}
+  "bbox": [
+    -115.254545,
+    36.196014,
+    -115.254545,
+    36.196014
+],
+  "geometry": {"coordinates":[-115.25454499999999,36.196014],"type":"Point"}
 }

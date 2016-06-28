@@ -2,13 +2,14 @@
   "id": 236165065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.287966,36.114831,-115.287966,36.114831",
     "geom:latitude":36.114831,
     "geom:longitude":-115.287966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8855 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236165065,
-    "wof:lastmodified":1449005258,
+    "wof:lastmodified":1466702876,
     "wof:name":"Custom Bed Source",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "decorator"
     ]
 },
-  "bbox": [-115.287966,36.114831,-115.287966,36.114831],
+  "bbox": [
+    -115.287966,
+    36.114831,
+    -115.287966,
+    36.114831
+],
   "geometry": {"coordinates":[-115.287966,36.114831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219361963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.310366,36.130623,-115.310366,36.130623",
     "geom:latitude":36.130623,
     "geom:longitude":-115.310366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Atterberry Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219361963,
-    "wof:lastmodified":1449072971,
+    "wof:lastmodified":1466703436,
     "wof:name":"Luis Poire",
     "wof:parent_id":85896907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-115.310366,36.130623,-115.310366,36.130623],
+  "bbox": [
+    -115.310366,
+    36.130623,
+    -115.310366,
+    36.130623
+],
   "geometry": {"coordinates":[-115.310366,36.130623],"type":"Point"}
 }

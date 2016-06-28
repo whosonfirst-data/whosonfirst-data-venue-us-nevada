@@ -2,13 +2,14 @@
   "id": 220023727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.816552,39.526303,-119.816552,39.526303",
     "geom:latitude":39.526303,
     "geom:longitude":-119.816552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220023727,
-    "wof:lastmodified":1449074796,
+    "wof:lastmodified":1466701750,
     "wof:name":"Seven Eleven Motor Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.816552,39.526303,-119.816552,39.526303],
+  "bbox": [
+    -119.816552,
+    39.526303,
+    -119.816552,
+    39.526303
+],
   "geometry": {"coordinates":[-119.816552,39.526303],"type":"Point"}
 }

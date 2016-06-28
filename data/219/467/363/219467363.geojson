@@ -2,13 +2,14 @@
   "id": 219467363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204506,35.997106,-115.204506,35.997106",
     "geom:latitude":35.997106,
     "geom:longitude":-115.204506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10621 Casa Bianca St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219467363,
-    "wof:lastmodified":1449073175,
+    "wof:lastmodified":1466704027,
     "wof:name":"Newport Uniform Inc",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.204506,35.997106,-115.204506,35.997106],
-  "geometry": {"coordinates":[-115.204506,35.997106],"type":"Point"}
+  "bbox": [
+    -115.204506,
+    35.997106,
+    -115.204506,
+    35.997106
+],
+  "geometry": {"coordinates":[-115.20450599999999,35.997106],"type":"Point"}
 }

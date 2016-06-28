@@ -2,13 +2,14 @@
   "id": 236558865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.155472,36.146762,-115.155472,36.146762",
     "geom:latitude":36.146762,
     "geom:longitude":-115.155472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236558865,
-    "wof:lastmodified":1449002360,
+    "wof:lastmodified":1466706028,
     "wof:name":"Hysteria Inc",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "event"
     ]
 },
-  "bbox": [-115.155472,36.146762,-115.155472,36.146762],
+  "bbox": [
+    -115.155472,
+    36.146762,
+    -115.155472,
+    36.146762
+],
   "geometry": {"coordinates":[-115.155472,36.146762],"type":"Point"}
 }

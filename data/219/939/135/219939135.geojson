@@ -2,13 +2,14 @@
   "id": 219939135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.758238,40.830734,-115.758238,40.830734",
     "geom:latitude":40.830734,
     "geom:longitude":-115.758238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S 6th St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219939135,
-    "wof:lastmodified":1449071441,
+    "wof:lastmodified":1466705949,
     "wof:name":"Top Gun Auto Body Shop",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-115.758238,40.830734,-115.758238,40.830734],
-  "geometry": {"coordinates":[-115.758238,40.830734],"type":"Point"}
+  "bbox": [
+    -115.758238,
+    40.830734,
+    -115.758238,
+    40.830734
+],
+  "geometry": {"coordinates":[-115.75823800000001,40.830734],"type":"Point"}
 }

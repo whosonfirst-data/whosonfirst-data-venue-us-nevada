@@ -2,13 +2,14 @@
   "id": 203405453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224099,36.260513,-115.224099,36.260513",
     "geom:latitude":36.260513,
     "geom:longitude":-115.224099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 Gulf Spring Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203405453,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466703342,
     "wof:name":"Typing & More",
     "wof:parent_id":85892667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typing"
     ]
 },
-  "bbox": [-115.224099,36.260513,-115.224099,36.260513],
+  "bbox": [
+    -115.224099,
+    36.260513,
+    -115.224099,
+    36.260513
+],
   "geometry": {"coordinates":[-115.224099,36.260513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235957427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.122911,35.976709,-115.122911,35.976709",
     "geom:latitude":35.976709,
     "geom:longitude":-115.122911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 European Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":235957427,
-    "wof:lastmodified":1449008545,
+    "wof:lastmodified":1466703560,
     "wof:name":"Bill Miller Photography",
     "wof:parent_id":85866205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.122911,35.976709,-115.122911,35.976709],
+  "bbox": [
+    -115.122911,
+    35.976709,
+    -115.122911,
+    35.976709
+],
   "geometry": {"coordinates":[-115.122911,35.976709],"type":"Point"}
 }

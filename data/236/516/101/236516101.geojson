@@ -2,13 +2,14 @@
   "id": 236516101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.199252,36.087321,-115.199252,36.087321",
     "geom:latitude":36.087321,
     "geom:longitude":-115.199252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":236516101,
-    "wof:lastmodified":1449002151,
+    "wof:lastmodified":1466706043,
     "wof:name":"Sandlin Lumber Co Inc",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-115.199252,36.087321,-115.199252,36.087321],
+  "bbox": [
+    -115.199252,
+    36.087321,
+    -115.199252,
+    36.087321
+],
   "geometry": {"coordinates":[-115.199252,36.087321],"type":"Point"}
 }

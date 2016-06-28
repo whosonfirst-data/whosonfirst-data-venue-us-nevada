@@ -2,13 +2,14 @@
   "id": 235941145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.842221,35.973916,-114.842221,35.973916",
     "geom:latitude":35.973916,
     "geom:longitude":-114.842221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Nevada Hwy",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235941145,
-    "wof:lastmodified":1449008450,
+    "wof:lastmodified":1466703475,
     "wof:name":"Bank Of America",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.842221,35.973916,-114.842221,35.973916],
+  "bbox": [
+    -114.842221,
+    35.973916,
+    -114.842221,
+    35.973916
+],
   "geometry": {"coordinates":[-114.842221,35.973916],"type":"Point"}
 }

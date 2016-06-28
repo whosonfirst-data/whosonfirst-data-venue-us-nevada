@@ -2,13 +2,14 @@
   "id": 203348021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.116887,36.250152,-115.116887,36.250152",
     "geom:latitude":36.250152,
     "geom:longitude":-115.116887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4948 Losee Rd",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203348021,
-    "wof:lastmodified":1449025038,
+    "wof:lastmodified":1466703130,
     "wof:name":"Extreme Chicks",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-115.116887,36.250152,-115.116887,36.250152],
-  "geometry": {"coordinates":[-115.116887,36.250152],"type":"Point"}
+  "bbox": [
+    -115.116887,
+    36.250152,
+    -115.116887,
+    36.250152
+],
+  "geometry": {"coordinates":[-115.11688700000001,36.250152],"type":"Point"}
 }

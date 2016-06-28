@@ -2,13 +2,14 @@
   "id": 353986203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.975204,36.034067,-114.975204,36.034067",
     "geom:latitude":36.034067,
     "geom:longitude":-114.975204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 90924",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353986203,
-    "wof:lastmodified":1449020330,
+    "wof:lastmodified":1466701478,
     "wof:name":"Annette Hall CPA PC",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-114.975204,36.034067,-114.975204,36.034067],
-  "geometry": {"coordinates":[-114.975204,36.034067],"type":"Point"}
+  "bbox": [
+    -114.975204,
+    36.034067,
+    -114.975204,
+    36.034067
+],
+  "geometry": {"coordinates":[-114.97520400000001,36.034067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370157073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.245798,36.203449,-115.245798,36.203449",
     "geom:latitude":36.203449,
     "geom:longitude":-115.245798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6950 Smoke Ranch Rd Ste #200",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370157073,
-    "wof:lastmodified":1449031987,
+    "wof:lastmodified":1466701710,
     "wof:name":"Nevada Oral & Facial Surgery",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oral"
     ]
 },
-  "bbox": [-115.245798,36.203449,-115.245798,36.203449],
-  "geometry": {"coordinates":[-115.245798,36.203449],"type":"Point"}
+  "bbox": [
+    -115.245798,
+    36.203449,
+    -115.245798,
+    36.203449
+],
+  "geometry": {"coordinates":[-115.24579799999999,36.203449],"type":"Point"}
 }

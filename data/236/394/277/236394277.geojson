@@ -2,13 +2,14 @@
   "id": 236394277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.771851,39.121109,-119.771851,39.121109",
     "geom:latitude":39.121109,
     "geom:longitude":-119.771851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236394277,
-    "wof:lastmodified":1449002157,
+    "wof:lastmodified":1466705311,
     "wof:name":"Timeless Sculptures",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-119.771851,39.121109,-119.771851,39.121109],
+  "bbox": [
+    -119.771851,
+    39.121109,
+    -119.771851,
+    39.121109
+],
   "geometry": {"coordinates":[-119.771851,39.121109],"type":"Point"}
 }

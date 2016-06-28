@@ -2,13 +2,14 @@
   "id": 219920897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.606908,40.739684,-115.606908,40.739684",
     "geom:latitude":40.739684,
     "geom:longitude":-115.606908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Flora Pl",
     "sg:city":"Spring Creek",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219920897,
-    "wof:lastmodified":1449073135,
+    "wof:lastmodified":1466705622,
     "wof:name":"Mountain Slope Enterprise",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-115.606908,40.739684,-115.606908,40.739684],
+  "bbox": [
+    -115.606908,
+    40.739684,
+    -115.606908,
+    40.739684
+],
   "geometry": {"coordinates":[-115.606908,40.739684],"type":"Point"}
 }

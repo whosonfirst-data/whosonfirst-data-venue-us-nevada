@@ -2,13 +2,14 @@
   "id": 370190531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.223804,36.311381,-115.223804,36.311381",
     "geom:latitude":36.311381,
     "geom:longitude":-115.223804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 Sedona Flats St Suite 140",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370190531,
-    "wof:lastmodified":1449032251,
+    "wof:lastmodified":1466702286,
     "wof:name":"Double X Construction",
     "wof:parent_id":85892675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.223804,36.311381,-115.223804,36.311381],
+  "bbox": [
+    -115.223804,
+    36.311381,
+    -115.223804,
+    36.311381
+],
   "geometry": {"coordinates":[-115.223804,36.311381],"type":"Point"}
 }

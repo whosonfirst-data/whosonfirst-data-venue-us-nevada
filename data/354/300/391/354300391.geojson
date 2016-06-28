@@ -2,13 +2,14 @@
   "id": 354300391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.308608,36.143473,-115.308608,36.143473",
     "geom:latitude":36.143473,
     "geom:longitude":-115.308608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S Grand Canyon #2133",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354300391,
-    "wof:lastmodified":1449066910,
+    "wof:lastmodified":1466705711,
     "wof:name":"Bond Heating And Air Condition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-115.308608,36.143473,-115.308608,36.143473],
-  "geometry": {"coordinates":[-115.308608,36.143473],"type":"Point"}
+  "bbox": [
+    -115.308608,
+    36.143473,
+    -115.308608,
+    36.143473
+],
+  "geometry": {"coordinates":[-115.30860800000001,36.143473],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219163897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.718461,39.574452,-119.718461,39.574452",
     "geom:latitude":39.574452,
     "geom:longitude":-119.718461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4462 Scott Peak Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219163897,
-    "wof:lastmodified":1449073835,
+    "wof:lastmodified":1466701626,
     "wof:name":"High Sierra Elevator Spec",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-119.718461,39.574452,-119.718461,39.574452],
+  "bbox": [
+    -119.718461,
+    39.574452,
+    -119.718461,
+    39.574452
+],
   "geometry": {"coordinates":[-119.718461,39.574452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219410265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114144,35.964831,-115.114144,35.964831",
     "geom:latitude":35.964831,
     "geom:longitude":-115.114144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Baton Rouge St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219410265,
-    "wof:lastmodified":1449070416,
+    "wof:lastmodified":1466703694,
     "wof:name":"Quest Travel",
     "wof:parent_id":85878085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-115.114144,35.964831,-115.114144,35.964831],
+  "bbox": [
+    -115.114144,
+    35.964831,
+    -115.114144,
+    35.964831
+],
   "geometry": {"coordinates":[-115.114144,35.964831],"type":"Point"}
 }

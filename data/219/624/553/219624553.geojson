@@ -2,13 +2,14 @@
   "id": 219624553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.143443,36.129844,-115.143443,36.129844",
     "geom:latitude":36.129844,
     "geom:longitude":-115.143443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Desert Inn Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219624553,
-    "wof:lastmodified":1449072808,
+    "wof:lastmodified":1466703367,
     "wof:name":"Active Again Employment",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-115.143443,36.129844,-115.143443,36.129844],
+  "bbox": [
+    -115.143443,
+    36.129844,
+    -115.143443,
+    36.129844
+],
   "geometry": {"coordinates":[-115.143443,36.129844],"type":"Point"}
 }

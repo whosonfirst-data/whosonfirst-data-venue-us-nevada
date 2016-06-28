@@ -2,13 +2,14 @@
   "id": 219406037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.194144,35.993875,-115.194144,35.993875",
     "geom:latitude":35.993875,
     "geom:longitude":-115.194144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10734 Palliser Bay Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219406037,
-    "wof:lastmodified":1449072271,
+    "wof:lastmodified":1466703657,
     "wof:name":"Dignity Healthcare",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.194144,35.993875,-115.194144,35.993875],
-  "geometry": {"coordinates":[-115.194144,35.993875],"type":"Point"}
+  "bbox": [
+    -115.194144,
+    35.993875,
+    -115.194144,
+    35.993875
+],
+  "geometry": {"coordinates":[-115.19414399999999,35.993875],"type":"Point"}
 }

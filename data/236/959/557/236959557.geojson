@@ -2,13 +2,14 @@
   "id": 236959557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.852169,39.460027,-118.852169,39.460027",
     "geom:latitude":39.460027,
     "geom:longitude":-118.852169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4950 Sheckler Rd",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":236959557,
-    "wof:lastmodified":1449004851,
+    "wof:lastmodified":1466706807,
     "wof:name":"River Village Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.852169,39.460027,-118.852169,39.460027],
+  "bbox": [
+    -118.852169,
+    39.460027,
+    -118.852169,
+    39.460027
+],
   "geometry": {"coordinates":[-118.852169,39.460027],"type":"Point"}
 }

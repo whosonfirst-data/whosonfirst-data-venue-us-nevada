@@ -2,13 +2,14 @@
   "id": 236413807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.068932,36.82336,-114.068932,36.82336",
     "geom:latitude":36.82336,
     "geom:longitude":-114.068932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Palmer Ln",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236413807,
-    "wof:lastmodified":1449002064,
+    "wof:lastmodified":1466705277,
     "wof:name":"Mesquite Vistas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.068932,36.82336,-114.068932,36.82336],
+  "bbox": [
+    -114.068932,
+    36.82336,
+    -114.068932,
+    36.82336
+],
   "geometry": {"coordinates":[-114.068932,36.82336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220183801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.056574,36.807699,-114.056574,36.807699",
     "geom:latitude":36.807699,
     "geom:longitude":-114.056574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Cottonwood Dr",
     "sg:city":"Mesquite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220183801,
-    "wof:lastmodified":1449074478,
+    "wof:lastmodified":1466702977,
     "wof:name":"Blue Diamond Bike Outpost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.056574,36.807699,-114.056574,36.807699],
+  "bbox": [
+    -114.056574,
+    36.807699,
+    -114.056574,
+    36.807699
+],
   "geometry": {"coordinates":[-114.056574,36.807699],"type":"Point"}
 }

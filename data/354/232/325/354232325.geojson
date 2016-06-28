@@ -2,13 +2,14 @@
   "id": 354232325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.170157,36.123973,-115.170157,36.123973",
     "geom:latitude":36.123973,
     "geom:longitude":-115.170157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"The Shoppes At The Palazzo 3327 Las Vegas Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354232325,
-    "wof:lastmodified":1449066463,
+    "wof:lastmodified":1466705355,
     "wof:name":"Fresh",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.170157,36.123973,-115.170157,36.123973],
+  "bbox": [
+    -115.170157,
+    36.123973,
+    -115.170157,
+    36.123973
+],
   "geometry": {"coordinates":[-115.170157,36.123973],"type":"Point"}
 }

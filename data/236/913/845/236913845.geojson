@@ -2,13 +2,14 @@
   "id": 236913845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.773507,40.825773,-115.773507,40.825773",
     "geom:latitude":40.825773,
     "geom:longitude":-115.773507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 W Silver St",
     "sg:city":"Elko",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236913845,
-    "wof:lastmodified":1449002826,
+    "wof:lastmodified":1466706837,
     "wof:name":"Elko County Sheriff-Civil Svc",
     "wof:parent_id":85804355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-115.773507,40.825773,-115.773507,40.825773],
+  "bbox": [
+    -115.773507,
+    40.825773,
+    -115.773507,
+    40.825773
+],
   "geometry": {"coordinates":[-115.773507,40.825773],"type":"Point"}
 }

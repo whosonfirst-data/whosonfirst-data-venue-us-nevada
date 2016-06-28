@@ -2,13 +2,14 @@
   "id": 370328069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.795883,39.400134,-119.795883,39.400134",
     "geom:latitude":39.400134,
     "geom:longitude":-119.795883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14295 W Windriver Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":370328069,
-    "wof:lastmodified":1449031069,
+    "wof:lastmodified":1466704826,
     "wof:name":"Silver Sage Center For Family Medicine",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "sport"
     ]
 },
-  "bbox": [-119.795883,39.400134,-119.795883,39.400134],
+  "bbox": [
+    -119.795883,
+    39.400134,
+    -119.795883,
+    39.400134
+],
   "geometry": {"coordinates":[-119.795883,39.400134],"type":"Point"}
 }

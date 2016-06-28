@@ -2,13 +2,14 @@
   "id": 354317691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.212323,36.086154,-115.212323,36.086154",
     "geom:latitude":36.086154,
     "geom:longitude":-115.212323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6795 Edmond Str 3rd Fl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354317691,
-    "wof:lastmodified":1449066687,
+    "wof:lastmodified":1466705836,
     "wof:name":"WorldMark by Wyndham",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vacation"
     ]
 },
-  "bbox": [-115.212323,36.086154,-115.212323,36.086154],
+  "bbox": [
+    -115.212323,
+    36.086154,
+    -115.212323,
+    36.086154
+],
   "geometry": {"coordinates":[-115.212323,36.086154],"type":"Point"}
 }

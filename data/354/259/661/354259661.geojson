@@ -2,13 +2,14 @@
   "id": 354259661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172978,36.113942,-115.172978,36.113942",
     "geom:latitude":36.113942,
     "geom:longitude":-115.172978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Bellagio 3600 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354259661,
-    "wof:lastmodified":1449066322,
+    "wof:lastmodified":1466705435,
     "wof:name":"Petrossian Bar",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-115.172978,36.113942,-115.172978,36.113942],
+  "bbox": [
+    -115.172978,
+    36.113942,
+    -115.172978,
+    36.113942
+],
   "geometry": {"coordinates":[-115.172978,36.113942],"type":"Point"}
 }

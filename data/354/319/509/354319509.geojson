@@ -2,13 +2,14 @@
   "id": 354319509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.224649,36.059628,-115.224649,36.059628",
     "geom:latitude":36.059628,
     "geom:longitude":-115.224649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7070 S Jones Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354319509,
-    "wof:lastmodified":1449066610,
+    "wof:lastmodified":1466705968,
     "wof:name":"Tire Works Total Car Care",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.224649,36.059628,-115.224649,36.059628],
+  "bbox": [
+    -115.224649,
+    36.059628,
+    -115.224649,
+    36.059628
+],
   "geometry": {"coordinates":[-115.224649,36.059628],"type":"Point"}
 }

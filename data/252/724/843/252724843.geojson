@@ -2,13 +2,14 @@
   "id": 252724843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.807417,39.511652,-119.807417,39.511652",
     "geom:latitude":39.511652,
     "geom:longitude":-119.807417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 W Arroyo St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252724843,
-    "wof:lastmodified":1449006474,
+    "wof:lastmodified":1466701825,
     "wof:name":"Dunseath Key Co Inc",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-119.807417,39.511652,-119.807417,39.511652],
+  "bbox": [
+    -119.807417,
+    39.511652,
+    -119.807417,
+    39.511652
+],
   "geometry": {"coordinates":[-119.807417,39.511652],"type":"Point"}
 }

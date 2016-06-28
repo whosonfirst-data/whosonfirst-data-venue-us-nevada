@@ -2,13 +2,14 @@
   "id": 354278729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.279015,36.048451,-115.279015,36.048451",
     "geom:latitude":36.048451,
     "geom:longitude":-115.279015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7345 S Durango Drive Suite 116",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354278729,
-    "wof:lastmodified":1449066883,
+    "wof:lastmodified":1466705678,
     "wof:name":"Washington Federal Savings",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.279015,36.048451,-115.279015,36.048451],
+  "bbox": [
+    -115.279015,
+    36.048451,
+    -115.279015,
+    36.048451
+],
   "geometry": {"coordinates":[-115.279015,36.048451],"type":"Point"}
 }

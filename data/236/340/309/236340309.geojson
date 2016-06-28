@@ -2,13 +2,14 @@
   "id": 236340309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.768841,39.432369,-119.768841,39.432369",
     "geom:latitude":39.432369,
     "geom:longitude":-119.768841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12010 Stoneybrook Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236340309,
-    "wof:lastmodified":1449004341,
+    "wof:lastmodified":1466704842,
     "wof:name":"Vision Co Op",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-119.768841,39.432369,-119.768841,39.432369],
-  "geometry": {"coordinates":[-119.768841,39.432369],"type":"Point"}
+  "bbox": [
+    -119.768841,
+    39.432369,
+    -119.768841,
+    39.432369
+],
+  "geometry": {"coordinates":[-119.76884099999999,39.432369],"type":"Point"}
 }

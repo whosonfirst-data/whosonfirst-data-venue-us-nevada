@@ -2,13 +2,14 @@
   "id": 219701711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265635,36.226787,-115.265635,36.226787",
     "geom:latitude":36.226787,
     "geom:longitude":-115.265635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3658 Mooncrest Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219701711,
-    "wof:lastmodified":1449073191,
+    "wof:lastmodified":1466704268,
     "wof:name":"C D Enterprises LLC",
     "wof:parent_id":85892693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.265635,36.226787,-115.265635,36.226787],
+  "bbox": [
+    -115.265635,
+    36.226787,
+    -115.265635,
+    36.226787
+],
   "geometry": {"coordinates":[-115.265635,36.226787],"type":"Point"}
 }

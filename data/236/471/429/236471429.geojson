@@ -2,13 +2,14 @@
   "id": 236471429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.050444,36.219624,-116.050444,36.219624",
     "geom:latitude":36.219624,
     "geom:longitude":-116.050444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 N Leslie St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236471429,
-    "wof:lastmodified":1449002889,
+    "wof:lastmodified":1466705693,
     "wof:name":"Crewel World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-116.050444,36.219624,-116.050444,36.219624],
+  "bbox": [
+    -116.050444,
+    36.219624,
+    -116.050444,
+    36.219624
+],
   "geometry": {"coordinates":[-116.050444,36.219624],"type":"Point"}
 }

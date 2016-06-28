@@ -2,13 +2,14 @@
   "id": 370196945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.30437,36.190893,-115.30437,36.190893",
     "geom:latitude":36.190893,
     "geom:longitude":-115.30437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2035 Village Center Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370196945,
-    "wof:lastmodified":1449029857,
+    "wof:lastmodified":1466702443,
     "wof:name":"Summerlin Medical Group",
     "wof:parent_id":85866217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-115.30437,36.190893,-115.30437,36.190893],
-  "geometry": {"coordinates":[-115.30437,36.190893],"type":"Point"}
+  "bbox": [
+    -115.30437,
+    36.190893,
+    -115.30437,
+    36.190893
+],
+  "geometry": {"coordinates":[-115.30437000000001,36.190893],"type":"Point"}
 }

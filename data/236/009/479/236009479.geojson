@@ -2,13 +2,14 @@
   "id": 236009479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.923624,36.000171,-114.923624,36.000171",
     "geom:latitude":36.000171,
     "geom:longitude":-114.923624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 Tumbleweed Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236009479,
-    "wof:lastmodified":1449005167,
+    "wof:lastmodified":1466703803,
     "wof:name":"Randel Enterprises Inc",
     "wof:parent_id":85878111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-114.923624,36.000171,-114.923624,36.000171],
+  "bbox": [
+    -114.923624,
+    36.000171,
+    -114.923624,
+    36.000171
+],
   "geometry": {"coordinates":[-114.923624,36.000171],"type":"Point"}
 }

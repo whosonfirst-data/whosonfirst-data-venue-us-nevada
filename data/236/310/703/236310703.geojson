@@ -2,13 +2,14 @@
   "id": 236310703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.062917,36.138338,-115.062917,36.138338",
     "geom:latitude":36.138338,
     "geom:longitude":-115.062917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Saffron Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":236310703,
-    "wof:lastmodified":1449003723,
+    "wof:lastmodified":1466704624,
     "wof:name":"Guss Appliances",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.062917,36.138338,-115.062917,36.138338],
+  "bbox": [
+    -115.062917,
+    36.138338,
+    -115.062917,
+    36.138338
+],
   "geometry": {"coordinates":[-115.062917,36.138338],"type":"Point"}
 }

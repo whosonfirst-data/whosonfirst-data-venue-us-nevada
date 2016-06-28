@@ -2,13 +2,14 @@
   "id": 236774919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.236414,36.222812,-115.236414,36.222812",
     "geom:latitude":36.222812,
     "geom:longitude":-115.236414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3431 Ranch View St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236774919,
-    "wof:lastmodified":1449002834,
+    "wof:lastmodified":1466706620,
     "wof:name":"Check It Out Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-115.236414,36.222812,-115.236414,36.222812],
+  "bbox": [
+    -115.236414,
+    36.222812,
+    -115.236414,
+    36.222812
+],
   "geometry": {"coordinates":[-115.236414,36.222812],"type":"Point"}
 }

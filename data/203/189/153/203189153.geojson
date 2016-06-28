@@ -2,13 +2,14 @@
   "id": 203189153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.805523,39.492565,-119.805523,39.492565",
     "geom:latitude":39.492565,
     "geom:longitude":-119.805523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Kauai Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203189153,
-    "wof:lastmodified":1449026305,
+    "wof:lastmodified":1466701913,
     "wof:name":"Reno Housing",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-119.805523,39.492565,-119.805523,39.492565],
-  "geometry": {"coordinates":[-119.805523,39.492565],"type":"Point"}
+  "bbox": [
+    -119.805523,
+    39.492565,
+    -119.805523,
+    39.492565
+],
+  "geometry": {"coordinates":[-119.80552299999999,39.492565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354368667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.113735,36.072552,-115.113735,36.072552",
     "geom:latitude":36.072552,
     "geom:longitude":-115.113735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2660 E. Sunset Rd.",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354368667,
-    "wof:lastmodified":1449066324,
+    "wof:lastmodified":1466705966,
     "wof:name":"CT Rose Salon and Day Spa",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-115.113735,36.072552,-115.113735,36.072552],
-  "geometry": {"coordinates":[-115.113735,36.072552],"type":"Point"}
+  "bbox": [
+    -115.113735,
+    36.072552,
+    -115.113735,
+    36.072552
+],
+  "geometry": {"coordinates":[-115.11373500000001,36.072552],"type":"Point"}
 }

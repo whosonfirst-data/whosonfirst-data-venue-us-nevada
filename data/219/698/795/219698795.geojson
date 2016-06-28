@@ -2,13 +2,14 @@
   "id": 219698795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.325276,36.197029,-115.325276,36.197029",
     "geom:latitude":36.197029,
     "geom:longitude":-115.325276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 Emery St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219698795,
-    "wof:lastmodified":1449073693,
+    "wof:lastmodified":1466704433,
     "wof:name":"Pollock Family Trust",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-115.325276,36.197029,-115.325276,36.197029],
+  "bbox": [
+    -115.325276,
+    36.197029,
+    -115.325276,
+    36.197029
+],
   "geometry": {"coordinates":[-115.325276,36.197029],"type":"Point"}
 }

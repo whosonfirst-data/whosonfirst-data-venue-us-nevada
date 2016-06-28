@@ -2,13 +2,14 @@
   "id": 236678827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.266646,36.079056,-115.266646,36.079056",
     "geom:latitude":36.079056,
     "geom:longitude":-115.266646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8055 Villa Avada Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236678827,
-    "wof:lastmodified":1449003201,
+    "wof:lastmodified":1466706591,
     "wof:name":"TWT Enterprise Inc",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "e"
     ]
 },
-  "bbox": [-115.266646,36.079056,-115.266646,36.079056],
-  "geometry": {"coordinates":[-115.266646,36.079056],"type":"Point"}
+  "bbox": [
+    -115.266646,
+    36.079056,
+    -115.266646,
+    36.079056
+],
+  "geometry": {"coordinates":[-115.26664599999999,36.079056],"type":"Point"}
 }

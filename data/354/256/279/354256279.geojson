@@ -2,13 +2,14 @@
   "id": 354256279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.171478,36.121942,-115.171478,36.121942",
     "geom:latitude":36.121942,
     "geom:longitude":-115.171478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354256279,
-    "wof:lastmodified":1449067236,
+    "wof:lastmodified":1466705518,
     "wof:name":"Bags To Go - Venetian",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.171478,36.121942,-115.171478,36.121942],
-  "geometry": {"coordinates":[-115.171478,36.121942],"type":"Point"}
+  "bbox": [
+    -115.171478,
+    36.121942,
+    -115.171478,
+    36.121942
+],
+  "geometry": {"coordinates":[-115.17147799999999,36.121942],"type":"Point"}
 }

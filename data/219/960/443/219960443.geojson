@@ -2,13 +2,14 @@
   "id": 219960443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.265203,36.299462,-115.265203,36.299462",
     "geom:latitude":36.299462,
     "geom:longitude":-115.265203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7640 Natures Song St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219960443,
-    "wof:lastmodified":1449072941,
+    "wof:lastmodified":1466706012,
     "wof:name":"Mavericksworld",
     "wof:parent_id":85892725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-115.265203,36.299462,-115.265203,36.299462],
+  "bbox": [
+    -115.265203,
+    36.299462,
+    -115.265203,
+    36.299462
+],
   "geometry": {"coordinates":[-115.265203,36.299462],"type":"Point"}
 }

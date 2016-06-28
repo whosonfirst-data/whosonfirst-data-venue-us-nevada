@@ -2,13 +2,14 @@
   "id": 354044479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.206017,36.238823,-115.206017,36.238823",
     "geom:latitude":36.238823,
     "geom:longitude":-115.206017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 W Craig Road",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354044479,
-    "wof:lastmodified":1449066821,
+    "wof:lastmodified":1466702628,
     "wof:name":"Tire Works Total Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-115.206017,36.238823,-115.206017,36.238823],
+  "bbox": [
+    -115.206017,
+    36.238823,
+    -115.206017,
+    36.238823
+],
   "geometry": {"coordinates":[-115.206017,36.238823],"type":"Point"}
 }

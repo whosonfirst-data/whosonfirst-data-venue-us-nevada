@@ -2,13 +2,14 @@
   "id": 252718817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.971268,36.029985,-114.971268,36.029985",
     "geom:latitude":36.029985,
     "geom:longitude":-114.971268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 S Boulder Hwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252718817,
-    "wof:lastmodified":1449005659,
+    "wof:lastmodified":1466701705,
     "wof:name":"Chatterbox Wireless Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-114.971268,36.029985,-114.971268,36.029985],
-  "geometry": {"coordinates":[-114.971268,36.029985],"type":"Point"}
+  "bbox": [
+    -114.971268,
+    36.029985,
+    -114.971268,
+    36.029985
+],
+  "geometry": {"coordinates":[-114.97126799999999,36.029985],"type":"Point"}
 }

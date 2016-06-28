@@ -2,13 +2,14 @@
   "id": 219918365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.792967,39.472115,-119.792967,39.472115",
     "geom:latitude":39.472115,
     "geom:longitude":-119.792967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Hammill Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219918365,
-    "wof:lastmodified":1449072783,
+    "wof:lastmodified":1466705735,
     "wof:name":"Nevada Republican Party",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.792967,39.472115,-119.792967,39.472115],
+  "bbox": [
+    -119.792967,
+    39.472115,
+    -119.792967,
+    39.472115
+],
   "geometry": {"coordinates":[-119.792967,39.472115],"type":"Point"}
 }

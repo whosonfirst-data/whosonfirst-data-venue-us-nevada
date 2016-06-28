@@ -2,13 +2,14 @@
   "id": 219531441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.850289,39.543969,-119.850289,39.543969",
     "geom:latitude":39.543969,
     "geom:longitude":-119.850289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Sunray Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219531441,
-    "wof:lastmodified":1449071224,
+    "wof:lastmodified":1466701879,
     "wof:name":"Walsh Masonry",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-119.850289,39.543969,-119.850289,39.543969],
+  "bbox": [
+    -119.850289,
+    39.543969,
+    -119.850289,
+    39.543969
+],
   "geometry": {"coordinates":[-119.850289,39.543969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354019331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.003569,36.033864,-115.003569,36.033864",
     "geom:latitude":36.033864,
     "geom:longitude":-115.003569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Industrial Park Road",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354019331,
-    "wof:lastmodified":1449066929,
+    "wof:lastmodified":1466701998,
     "wof:name":"Rcbb",
     "wof:parent_id":85892619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.003569,36.033864,-115.003569,36.033864],
+  "bbox": [
+    -115.003569,
+    36.033864,
+    -115.003569,
+    36.033864
+],
   "geometry": {"coordinates":[-115.003569,36.033864],"type":"Point"}
 }

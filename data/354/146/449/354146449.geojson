@@ -2,13 +2,14 @@
   "id": 354146449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.201402,36.112867,-115.201402,36.112867",
     "geom:latitude":36.112867,
     "geom:longitude":-115.201402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Fidus Dr. Suite 201",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354146449,
-    "wof:lastmodified":1449066630,
+    "wof:lastmodified":1466704484,
     "wof:name":"Smith & Wesson? Security Services of NV",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-115.201402,36.112867,-115.201402,36.112867],
+  "bbox": [
+    -115.201402,
+    36.112867,
+    -115.201402,
+    36.112867
+],
   "geometry": {"coordinates":[-115.201402,36.112867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236623803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.218069,36.018729,-115.218069,36.018729",
     "geom:latitude":36.018729,
     "geom:longitude":-115.218069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5745 W Meranto Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236623803,
-    "wof:lastmodified":1449004069,
+    "wof:lastmodified":1466706322,
     "wof:name":"Advanced Home Automation",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automation"
     ]
 },
-  "bbox": [-115.218069,36.018729,-115.218069,36.018729],
+  "bbox": [
+    -115.218069,
+    36.018729,
+    -115.218069,
+    36.018729
+],
   "geometry": {"coordinates":[-115.218069,36.018729],"type":"Point"}
 }

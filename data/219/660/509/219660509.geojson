@@ -2,13 +2,14 @@
   "id": 219660509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.109747,36.180362,-115.109747,36.180362",
     "geom:latitude":36.180362,
     "geom:longitude":-115.109747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Grand Cir",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219660509,
-    "wof:lastmodified":1449073553,
+    "wof:lastmodified":1466704008,
     "wof:name":"Vescor Capital Corp",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.109747,36.180362,-115.109747,36.180362],
+  "bbox": [
+    -115.109747,
+    36.180362,
+    -115.109747,
+    36.180362
+],
   "geometry": {"coordinates":[-115.109747,36.180362],"type":"Point"}
 }

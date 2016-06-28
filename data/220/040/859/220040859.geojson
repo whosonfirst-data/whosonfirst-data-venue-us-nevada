@@ -2,13 +2,14 @@
   "id": 220040859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.203857,36.093605,-115.203857,36.093605",
     "geom:latitude":36.093605,
     "geom:longitude":-115.203857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 Cameron St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220040859,
-    "wof:lastmodified":1449074850,
+    "wof:lastmodified":1466701910,
     "wof:name":"3 J Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.203857,36.093605,-115.203857,36.093605],
+  "bbox": [
+    -115.203857,
+    36.093605,
+    -115.203857,
+    36.093605
+],
   "geometry": {"coordinates":[-115.203857,36.093605],"type":"Point"}
 }

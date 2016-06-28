@@ -2,13 +2,14 @@
   "id": 252740155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.74205,38.897441,-119.74205,38.897441",
     "geom:latitude":38.897441,
     "geom:longitude":-119.74205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"795 Tillman Ln",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252740155,
-    "wof:lastmodified":1449005912,
+    "wof:lastmodified":1466702131,
     "wof:name":"Northern Nevada Pony Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-119.74205,38.897441,-119.74205,38.897441],
-  "geometry": {"coordinates":[-119.74205,38.897441],"type":"Point"}
+  "bbox": [
+    -119.74205,
+    38.897441,
+    -119.74205,
+    38.897441
+],
+  "geometry": {"coordinates":[-119.74205000000001,38.897441],"type":"Point"}
 }

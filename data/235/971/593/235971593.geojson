@@ -2,13 +2,14 @@
   "id": 235971593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301205,36.080038,-115.301205,36.080038",
     "geom:latitude":36.080038,
     "geom:longitude":-115.301205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5973 Early Grace St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235971593,
-    "wof:lastmodified":1449008429,
+    "wof:lastmodified":1466703624,
     "wof:name":"Droopy Dog",
     "wof:parent_id":85864297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.301205,36.080038,-115.301205,36.080038],
+  "bbox": [
+    -115.301205,
+    36.080038,
+    -115.301205,
+    36.080038
+],
   "geometry": {"coordinates":[-115.301205,36.080038],"type":"Point"}
 }

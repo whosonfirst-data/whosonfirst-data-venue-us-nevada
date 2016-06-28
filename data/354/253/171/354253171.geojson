@@ -2,13 +2,14 @@
   "id": 354253171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.161003,36.132401,-115.161003,36.132401",
     "geom:latitude":36.132401,
     "geom:longitude":-115.161003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Convention Center Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354253171,
-    "wof:lastmodified":1449067458,
+    "wof:lastmodified":1466705362,
     "wof:name":"Vegas Indoor Skydiving",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-115.161003,36.132401,-115.161003,36.132401],
-  "geometry": {"coordinates":[-115.161003,36.132401],"type":"Point"}
+  "bbox": [
+    -115.161003,
+    36.132401,
+    -115.161003,
+    36.132401
+],
+  "geometry": {"coordinates":[-115.16100299999999,36.132401],"type":"Point"}
 }

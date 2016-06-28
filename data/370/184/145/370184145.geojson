@@ -2,13 +2,14 @@
   "id": 370184145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.197954,36.201346,-115.197954,36.201346",
     "geom:latitude":36.201346,
     "geom:longitude":-115.197954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2219 N Rancho Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":370184145,
-    "wof:lastmodified":1449029657,
+    "wof:lastmodified":1466702185,
     "wof:name":"Budget Suites of America",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-115.197954,36.201346,-115.197954,36.201346],
+  "bbox": [
+    -115.197954,
+    36.201346,
+    -115.197954,
+    36.201346
+],
   "geometry": {"coordinates":[-115.197954,36.201346],"type":"Point"}
 }

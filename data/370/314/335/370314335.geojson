@@ -2,13 +2,14 @@
   "id": 370314335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.809311,39.518261,-119.809311,39.518261",
     "geom:latitude":39.518261,
     "geom:longitude":-119.809311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Virginia St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370314335,
-    "wof:lastmodified":1449032327,
+    "wof:lastmodified":1466704679,
     "wof:name":"Coco Boom",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "night"
     ]
 },
-  "bbox": [-119.809311,39.518261,-119.809311,39.518261],
-  "geometry": {"coordinates":[-119.809311,39.518261],"type":"Point"}
+  "bbox": [
+    -119.809311,
+    39.518261,
+    -119.809311,
+    39.518261
+],
+  "geometry": {"coordinates":[-119.80931099999999,39.518261],"type":"Point"}
 }

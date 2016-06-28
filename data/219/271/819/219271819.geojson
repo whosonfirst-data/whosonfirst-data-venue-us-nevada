@@ -2,13 +2,14 @@
   "id": 219271819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.227623,36.151697,-115.227623,36.151697",
     "geom:latitude":36.151697,
     "geom:longitude":-115.227623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 W Oakey Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219271819,
-    "wof:lastmodified":1449072230,
+    "wof:lastmodified":1466702752,
     "wof:name":"Newport Cove Apartment No 7",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-115.227623,36.151697,-115.227623,36.151697],
-  "geometry": {"coordinates":[-115.227623,36.151697],"type":"Point"}
+  "bbox": [
+    -115.227623,
+    36.151697,
+    -115.227623,
+    36.151697
+],
+  "geometry": {"coordinates":[-115.22762299999999,36.151697],"type":"Point"}
 }

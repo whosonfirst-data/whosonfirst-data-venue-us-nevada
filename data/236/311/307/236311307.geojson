@@ -2,13 +2,14 @@
   "id": 236311307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.850858,39.487835,-118.850858,39.487835",
     "geom:latitude":39.487835,
     "geom:longitude":-118.850858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Grand Ave",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236311307,
-    "wof:lastmodified":1449002260,
+    "wof:lastmodified":1466704630,
     "wof:name":"Uncle Bruce's Skate-Way 50",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rink"
     ]
 },
-  "bbox": [-118.850858,39.487835,-118.850858,39.487835],
+  "bbox": [
+    -118.850858,
+    39.487835,
+    -118.850858,
+    39.487835
+],
   "geometry": {"coordinates":[-118.850858,39.487835],"type":"Point"}
 }

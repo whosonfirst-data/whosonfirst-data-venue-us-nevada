@@ -2,13 +2,14 @@
   "id": 337289707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082404,36.200743,-115.082404,36.200743",
     "geom:latitude":36.200743,
     "geom:longitude":-115.082404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Moonlite Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337289707,
-    "wof:lastmodified":1449027606,
+    "wof:lastmodified":1466701483,
     "wof:name":"Petes Express Filing",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.082404,36.200743,-115.082404,36.200743],
+  "bbox": [
+    -115.082404,
+    36.200743,
+    -115.082404,
+    36.200743
+],
   "geometry": {"coordinates":[-115.082404,36.200743],"type":"Point"}
 }

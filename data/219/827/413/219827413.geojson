@@ -2,13 +2,14 @@
   "id": 219827413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.187517,36.149462,-115.187517,36.149462",
     "geom:latitude":36.149462,
     "geom:longitude":-115.187517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 Cll de Corrida",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219827413,
-    "wof:lastmodified":1449071654,
+    "wof:lastmodified":1466705338,
     "wof:name":"Labrum Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-115.187517,36.149462,-115.187517,36.149462],
+  "bbox": [
+    -115.187517,
+    36.149462,
+    -115.187517,
+    36.149462
+],
   "geometry": {"coordinates":[-115.187517,36.149462],"type":"Point"}
 }

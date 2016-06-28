@@ -2,13 +2,14 @@
   "id": 354062911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.090742,36.244664,-115.090742,36.244664",
     "geom:latitude":36.244664,
     "geom:longitude":-115.090742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4635 Andrews St",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":354062911,
-    "wof:lastmodified":1449067553,
+    "wof:lastmodified":1466703110,
     "wof:name":"Innovative Property Services",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-115.090742,36.244664,-115.090742,36.244664],
-  "geometry": {"coordinates":[-115.090742,36.244664],"type":"Point"}
+  "bbox": [
+    -115.090742,
+    36.244664,
+    -115.090742,
+    36.244664
+],
+  "geometry": {"coordinates":[-115.09074200000001,36.244664],"type":"Point"}
 }

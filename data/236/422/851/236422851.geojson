@@ -2,13 +2,14 @@
   "id": 236422851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167726,36.164333,-115.167726,36.164333",
     "geom:latitude":36.164333,
     "geom:longitude":-115.167726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Rose St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236422851,
-    "wof:lastmodified":1449001849,
+    "wof:lastmodified":1466705474,
     "wof:name":"Southern Nevada Women's Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-115.167726,36.164333,-115.167726,36.164333],
+  "bbox": [
+    -115.167726,
+    36.164333,
+    -115.167726,
+    36.164333
+],
   "geometry": {"coordinates":[-115.167726,36.164333],"type":"Point"}
 }

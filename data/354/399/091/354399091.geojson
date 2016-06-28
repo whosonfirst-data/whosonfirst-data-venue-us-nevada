@@ -2,13 +2,14 @@
   "id": 354399091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.130949,36.042414,-115.130949,36.042414",
     "geom:latitude":36.042414,
     "geom:longitude":-115.130949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 E Windmill Ln Ste 201",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354399091,
-    "wof:lastmodified":1449066236,
+    "wof:lastmodified":1466706363,
     "wof:name":"Nielson Jason H MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"
     ]
 },
-  "bbox": [-115.130949,36.042414,-115.130949,36.042414],
+  "bbox": [
+    -115.130949,
+    36.042414,
+    -115.130949,
+    36.042414
+],
   "geometry": {"coordinates":[-115.130949,36.042414],"type":"Point"}
 }

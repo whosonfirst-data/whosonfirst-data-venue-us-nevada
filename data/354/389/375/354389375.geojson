@@ -2,13 +2,14 @@
   "id": 354389375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.114139,36.099893,-115.114139,36.099893",
     "geom:latitude":36.099893,
     "geom:longitude":-115.114139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 E Tropicana Ave Ste 1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354389375,
-    "wof:lastmodified":1449067281,
+    "wof:lastmodified":1466706216,
     "wof:name":"Vegas Liquors",
     "wof:parent_id":85879717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-115.114139,36.099893,-115.114139,36.099893],
-  "geometry": {"coordinates":[-115.114139,36.099893],"type":"Point"}
+  "bbox": [
+    -115.114139,
+    36.099893,
+    -115.114139,
+    36.099893
+],
+  "geometry": {"coordinates":[-115.11413899999999,36.099893],"type":"Point"}
 }

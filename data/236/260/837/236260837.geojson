@@ -2,13 +2,14 @@
   "id": 236260837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.20807,36.228777,-115.20807,36.228777",
     "geom:latitude":36.228777,
     "geom:longitude":-115.20807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Sunking St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236260837,
-    "wof:lastmodified":1449002086,
+    "wof:lastmodified":1466704448,
     "wof:name":"King Production",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-115.20807,36.228777,-115.20807,36.228777],
-  "geometry": {"coordinates":[-115.20807,36.228777],"type":"Point"}
+  "bbox": [
+    -115.20807,
+    36.228777,
+    -115.20807,
+    36.228777
+],
+  "geometry": {"coordinates":[-115.20807000000001,36.228777],"type":"Point"}
 }

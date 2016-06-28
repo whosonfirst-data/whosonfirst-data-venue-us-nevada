@@ -2,13 +2,14 @@
   "id": 370205483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243164,36.051552,-115.243164,36.051552",
     "geom:latitude":36.051552,
     "geom:longitude":-115.243164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7537 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370205483,
-    "wof:lastmodified":1449031130,
+    "wof:lastmodified":1466702656,
     "wof:name":"Roberto's Taco Shop",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-115.243164,36.051552,-115.243164,36.051552],
-  "geometry": {"coordinates":[-115.243164,36.051552],"type":"Point"}
+  "bbox": [
+    -115.243164,
+    36.051552,
+    -115.243164,
+    36.051552
+],
+  "geometry": {"coordinates":[-115.24316399999999,36.051552],"type":"Point"}
 }

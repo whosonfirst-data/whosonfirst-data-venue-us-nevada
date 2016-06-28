@@ -2,13 +2,14 @@
   "id": 220005435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.088532,36.076739,-115.088532,36.076739",
     "geom:latitude":36.076739,
     "geom:longitude":-115.088532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3874 Silvestri Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220005435,
-    "wof:lastmodified":1449074817,
+    "wof:lastmodified":1466701482,
     "wof:name":"Johnson Electric Inc",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-115.088532,36.076739,-115.088532,36.076739],
+  "bbox": [
+    -115.088532,
+    36.076739,
+    -115.088532,
+    36.076739
+],
   "geometry": {"coordinates":[-115.088532,36.076739],"type":"Point"}
 }

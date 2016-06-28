@@ -2,13 +2,14 @@
   "id": 370343329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769535,39.143933,-119.769535,39.143933",
     "geom:latitude":39.143933,
     "geom:longitude":-119.769535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2590 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":370343329,
-    "wof:lastmodified":1449031493,
+    "wof:lastmodified":1466704991,
     "wof:name":"Carson City Toyota",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-119.769535,39.143933,-119.769535,39.143933],
+  "bbox": [
+    -119.769535,
+    39.143933,
+    -119.769535,
+    39.143933
+],
   "geometry": {"coordinates":[-119.769535,39.143933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203373815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777446,39.469649,-119.777446,39.469649",
     "geom:latitude":39.469649,
     "geom:longitude":-119.777446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 Delucchi Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203373815,
-    "wof:lastmodified":1449025910,
+    "wof:lastmodified":1466703241,
     "wof:name":"A-Advanced Immigration Law",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-119.777446,39.469649,-119.777446,39.469649],
+  "bbox": [
+    -119.777446,
+    39.469649,
+    -119.777446,
+    39.469649
+],
   "geometry": {"coordinates":[-119.777446,39.469649],"type":"Point"}
 }

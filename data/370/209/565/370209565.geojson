@@ -2,13 +2,14 @@
   "id": 370209565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.202363,36.030023,-115.202363,36.030023",
     "geom:latitude":36.030023,
     "geom:longitude":-115.202363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8787 Log Creek Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370209565,
-    "wof:lastmodified":1449032119,
+    "wof:lastmodified":1466702778,
     "wof:name":"Colonial Property Management",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-115.202363,36.030023,-115.202363,36.030023],
-  "geometry": {"coordinates":[-115.202363,36.030023],"type":"Point"}
+  "bbox": [
+    -115.202363,
+    36.030023,
+    -115.202363,
+    36.030023
+],
+  "geometry": {"coordinates":[-115.20236300000001,36.030023],"type":"Point"}
 }

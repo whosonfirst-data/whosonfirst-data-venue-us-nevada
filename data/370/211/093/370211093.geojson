@@ -2,13 +2,14 @@
   "id": 370211093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.061847,36.158844,-115.061847,36.158844",
     "geom:latitude":36.158844,
     "geom:longitude":-115.061847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5111 E Charleston Blvd Ste B",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370211093,
-    "wof:lastmodified":1449029928,
+    "wof:lastmodified":1466702827,
     "wof:name":"Hawaiian Smoke Shop",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.061847,36.158844,-115.061847,36.158844],
+  "bbox": [
+    -115.061847,
+    36.158844,
+    -115.061847,
+    36.158844
+],
   "geometry": {"coordinates":[-115.061847,36.158844],"type":"Point"}
 }

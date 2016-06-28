@@ -2,13 +2,14 @@
   "id": 236252361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.717802,39.549449,-119.717802,39.549449",
     "geom:latitude":39.549449,
     "geom:longitude":-119.717802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Burnside Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236252361,
-    "wof:lastmodified":1449002001,
+    "wof:lastmodified":1466704406,
     "wof:name":"Stainles Resources Inc",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-119.717802,39.549449,-119.717802,39.549449],
-  "geometry": {"coordinates":[-119.717802,39.549449],"type":"Point"}
+  "bbox": [
+    -119.717802,
+    39.549449,
+    -119.717802,
+    39.549449
+],
+  "geometry": {"coordinates":[-119.71780200000001,39.549449],"type":"Point"}
 }

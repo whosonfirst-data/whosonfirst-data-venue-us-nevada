@@ -2,13 +2,14 @@
   "id": 236845185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.846277,39.538388,-119.846277,39.538388",
     "geom:latitude":39.538388,
     "geom:longitude":-119.846277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Van Buren Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236845185,
-    "wof:lastmodified":1449002080,
+    "wof:lastmodified":1466706712,
     "wof:name":"Delouse Creations",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.846277,39.538388,-119.846277,39.538388],
+  "bbox": [
+    -119.846277,
+    39.538388,
+    -119.846277,
+    39.538388
+],
   "geometry": {"coordinates":[-119.846277,39.538388],"type":"Point"}
 }

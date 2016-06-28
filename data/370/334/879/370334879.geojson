@@ -2,13 +2,14 @@
   "id": 370334879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.860112,39.520672,-119.860112,39.520672",
     "geom:latitude":39.520672,
     "geom:longitude":-119.860112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4880 Summit Ridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370334879,
-    "wof:lastmodified":1449030094,
+    "wof:lastmodified":1466704889,
     "wof:name":"Atria Summit Ridge",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inn"
     ]
 },
-  "bbox": [-119.860112,39.520672,-119.860112,39.520672],
+  "bbox": [
+    -119.860112,
+    39.520672,
+    -119.860112,
+    39.520672
+],
   "geometry": {"coordinates":[-119.860112,39.520672],"type":"Point"}
 }

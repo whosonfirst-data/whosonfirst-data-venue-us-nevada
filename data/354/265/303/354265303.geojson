@@ -2,13 +2,14 @@
   "id": 354265303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.167505,36.127002,-115.167505,36.127002",
     "geom:latitude":36.127002,
     "geom:longitude":-115.167505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Wynn 3131 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":354265303,
-    "wof:lastmodified":1449066488,
+    "wof:lastmodified":1466705473,
     "wof:name":"The Wynn Collection",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.167505,36.127002,-115.167505,36.127002],
-  "geometry": {"coordinates":[-115.167505,36.127002],"type":"Point"}
+  "bbox": [
+    -115.167505,
+    36.127002,
+    -115.167505,
+    36.127002
+],
+  "geometry": {"coordinates":[-115.16750500000001,36.127002],"type":"Point"}
 }

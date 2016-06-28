@@ -2,13 +2,14 @@
   "id": 220083787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875566,39.635525,-119.875566,39.635525",
     "geom:latitude":39.635525,
     "geom:longitude":-119.875566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9925 Brightridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220083787,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466702293,
     "wof:name":"Aragon Artworks",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mural"
     ]
 },
-  "bbox": [-119.875566,39.635525,-119.875566,39.635525],
-  "geometry": {"coordinates":[-119.875566,39.635525],"type":"Point"}
+  "bbox": [
+    -119.875566,
+    39.635525,
+    -119.875566,
+    39.635525
+],
+  "geometry": {"coordinates":[-119.87556600000001,39.635525],"type":"Point"}
 }

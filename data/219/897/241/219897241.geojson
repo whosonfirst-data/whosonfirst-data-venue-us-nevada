@@ -2,13 +2,14 @@
   "id": 219897241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.286044,36.123913,-115.286044,36.123913",
     "geom:latitude":36.123913,
     "geom:longitude":-115.286044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3622 Chicopee St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219897241,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466705621,
     "wof:name":"Dalco Industries Inc",
     "wof:parent_id":85896923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-115.286044,36.123913,-115.286044,36.123913],
+  "bbox": [
+    -115.286044,
+    36.123913,
+    -115.286044,
+    36.123913
+],
   "geometry": {"coordinates":[-115.286044,36.123913],"type":"Point"}
 }

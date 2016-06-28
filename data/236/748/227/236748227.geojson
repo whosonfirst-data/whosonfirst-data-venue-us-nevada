@@ -2,13 +2,14 @@
   "id": 236748227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.184251,36.143361,-115.184251,36.143361",
     "geom:latitude":36.143361,
     "geom:longitude":-115.184251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 Alcoa Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236748227,
-    "wof:lastmodified":1449004252,
+    "wof:lastmodified":1466706558,
     "wof:name":"Pringles Wholesale Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.184251,36.143361,-115.184251,36.143361],
+  "bbox": [
+    -115.184251,
+    36.143361,
+    -115.184251,
+    36.143361
+],
   "geometry": {"coordinates":[-115.184251,36.143361],"type":"Point"}
 }

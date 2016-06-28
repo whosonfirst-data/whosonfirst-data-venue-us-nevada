@@ -2,13 +2,14 @@
   "id": 354317915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.204002,36.091202,-115.204002,36.091202",
     "geom:latitude":36.091202,
     "geom:longitude":-115.204002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 Cameron St Ste 101",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354317915,
-    "wof:lastmodified":1449066691,
+    "wof:lastmodified":1466705709,
     "wof:name":"Servicemaster by Rebel",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-115.204002,36.091202,-115.204002,36.091202],
+  "bbox": [
+    -115.204002,
+    36.091202,
+    -115.204002,
+    36.091202
+],
   "geometry": {"coordinates":[-115.204002,36.091202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236335233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.772809,39.130515,-119.772809,39.130515",
     "geom:latitude":39.130515,
     "geom:longitude":-119.772809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Cochise St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236335233,
-    "wof:lastmodified":1449003904,
+    "wof:lastmodified":1466704945,
     "wof:name":"K-W Western Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-119.772809,39.130515,-119.772809,39.130515],
+  "bbox": [
+    -119.772809,
+    39.130515,
+    -119.772809,
+    39.130515
+],
   "geometry": {"coordinates":[-119.772809,39.130515],"type":"Point"}
 }

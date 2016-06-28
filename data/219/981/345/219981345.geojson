@@ -2,13 +2,14 @@
   "id": 219981345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.217993,36.160146,-115.217993,36.160146",
     "geom:latitude":36.160146,
     "geom:longitude":-115.217993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 Alpine Pl",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219981345,
-    "wof:lastmodified":1449073992,
+    "wof:lastmodified":1466706105,
     "wof:name":"Equity Relief Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.217993,36.160146,-115.217993,36.160146],
-  "geometry": {"coordinates":[-115.217993,36.160146],"type":"Point"}
+  "bbox": [
+    -115.217993,
+    36.160146,
+    -115.217993,
+    36.160146
+],
+  "geometry": {"coordinates":[-115.21799300000001,36.160146],"type":"Point"}
 }

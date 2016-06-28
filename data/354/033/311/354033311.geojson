@@ -2,13 +2,14 @@
   "id": 354033311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189011,36.244196,-115.189011,36.244196",
     "geom:latitude":36.244196,
     "geom:longitude":-115.189011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 Wedo Way",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354033311,
-    "wof:lastmodified":1449066282,
+    "wof:lastmodified":1466702373,
     "wof:name":"Hvr Builders",
     "wof:parent_id":85896913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.189011,36.244196,-115.189011,36.244196],
-  "geometry": {"coordinates":[-115.189011,36.244196],"type":"Point"}
+  "bbox": [
+    -115.189011,
+    36.244196,
+    -115.189011,
+    36.244196
+],
+  "geometry": {"coordinates":[-115.18901099999999,36.244196],"type":"Point"}
 }

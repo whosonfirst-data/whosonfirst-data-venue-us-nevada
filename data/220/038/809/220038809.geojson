@@ -2,13 +2,14 @@
   "id": 220038809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.183389,38.984687,-119.183389,38.984687",
     "geom:latitude":38.984687,
     "geom:longitude":-119.183389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bulk Plant Rd",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220038809,
-    "wof:lastmodified":1449074570,
+    "wof:lastmodified":1466701891,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-119.183389,38.984687,-119.183389,38.984687],
-  "geometry": {"coordinates":[-119.183389,38.984687],"type":"Point"}
+  "bbox": [
+    -119.183389,
+    38.984687,
+    -119.183389,
+    38.984687
+],
+  "geometry": {"coordinates":[-119.18338900000001,38.984687],"type":"Point"}
 }

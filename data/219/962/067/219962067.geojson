@@ -2,13 +2,14 @@
   "id": 219962067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.767791,39.531148,-119.767791,39.531148",
     "geom:latitude":39.531148,
     "geom:longitude":-119.767791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S 18th St",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219962067,
-    "wof:lastmodified":1449072455,
+    "wof:lastmodified":1466706121,
     "wof:name":"Bramco Construction Corp",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.767791,39.531148,-119.767791,39.531148],
+  "bbox": [
+    -119.767791,
+    39.531148,
+    -119.767791,
+    39.531148
+],
   "geometry": {"coordinates":[-119.767791,39.531148],"type":"Point"}
 }

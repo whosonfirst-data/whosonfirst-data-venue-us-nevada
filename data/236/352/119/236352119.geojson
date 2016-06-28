@@ -2,13 +2,14 @@
   "id": 236352119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.71859,39.170169,-119.71859,39.170169",
     "geom:latitude":39.170169,
     "geom:longitude":-119.71859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4191 Pheasant Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":236352119,
-    "wof:lastmodified":1449003721,
+    "wof:lastmodified":1466705039,
     "wof:name":"Pheasant Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.71859,39.170169,-119.71859,39.170169],
-  "geometry": {"coordinates":[-119.71859,39.170169],"type":"Point"}
+  "bbox": [
+    -119.71859,
+    39.170169,
+    -119.71859,
+    39.170169
+],
+  "geometry": {"coordinates":[-119.71859000000001,39.170169],"type":"Point"}
 }

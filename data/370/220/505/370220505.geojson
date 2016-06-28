@@ -2,13 +2,14 @@
   "id": 370220505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.315637,36.161132,-115.315637,36.161132",
     "geom:latitude":36.161132,
     "geom:longitude":-115.315637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10091 Park Run Drive Suite 130",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370220505,
-    "wof:lastmodified":1449032352,
+    "wof:lastmodified":1466703062,
     "wof:name":"Swarts & Swarts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-115.315637,36.161132,-115.315637,36.161132],
+  "bbox": [
+    -115.315637,
+    36.161132,
+    -115.315637,
+    36.161132
+],
   "geometry": {"coordinates":[-115.315637,36.161132],"type":"Point"}
 }

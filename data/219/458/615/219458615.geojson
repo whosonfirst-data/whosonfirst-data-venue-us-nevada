@@ -2,13 +2,14 @@
   "id": 219458615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.696714,39.589889,-119.696714,39.589889",
     "geom:latitude":39.589889,
     "geom:longitude":-119.696714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5506 Spandrell Cir",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219458615,
-    "wof:lastmodified":1449072910,
+    "wof:lastmodified":1466703958,
     "wof:name":"Vista Ridge",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-119.696714,39.589889,-119.696714,39.589889],
+  "bbox": [
+    -119.696714,
+    39.589889,
+    -119.696714,
+    39.589889
+],
   "geometry": {"coordinates":[-119.696714,39.589889],"type":"Point"}
 }

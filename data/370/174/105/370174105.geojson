@@ -2,13 +2,14 @@
   "id": 370174105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.211998,36.216702,-115.211998,36.216702",
     "geom:latitude":36.216702,
     "geom:longitude":-115.211998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 N Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370174105,
-    "wof:lastmodified":1449029558,
+    "wof:lastmodified":1466702038,
     "wof:name":"Vegas Smoke Shop",
     "wof:parent_id":85817027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.211998,36.216702,-115.211998,36.216702],
-  "geometry": {"coordinates":[-115.211998,36.216702],"type":"Point"}
+  "bbox": [
+    -115.211998,
+    36.216702,
+    -115.211998,
+    36.216702
+],
+  "geometry": {"coordinates":[-115.21199799999999,36.216702],"type":"Point"}
 }

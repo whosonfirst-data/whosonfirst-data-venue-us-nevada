@@ -2,13 +2,14 @@
   "id": 203362301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.811919,39.201864,-119.811919,39.201864",
     "geom:latitude":39.201864,
     "geom:longitude":-119.811919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Reds Grade",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203362301,
-    "wof:lastmodified":1449026200,
+    "wof:lastmodified":1466703182,
     "wof:name":"Fred Dugger & Co",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-119.811919,39.201864,-119.811919,39.201864],
+  "bbox": [
+    -119.811919,
+    39.201864,
+    -119.811919,
+    39.201864
+],
   "geometry": {"coordinates":[-119.811919,39.201864],"type":"Point"}
 }

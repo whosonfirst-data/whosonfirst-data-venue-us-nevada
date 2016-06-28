@@ -2,13 +2,14 @@
   "id": 219958697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.076435,36.211,-116.076435,36.211",
     "geom:latitude":36.211,
     "geom:longitude":-116.076435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Murphy St",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219958697,
-    "wof:lastmodified":1449073157,
+    "wof:lastmodified":1466705861,
     "wof:name":"Thermotek Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "laundry"
     ]
 },
-  "bbox": [-116.076435,36.211,-116.076435,36.211],
+  "bbox": [
+    -116.076435,
+    36.211,
+    -116.076435,
+    36.211
+],
   "geometry": {"coordinates":[-116.076435,36.211],"type":"Point"}
 }

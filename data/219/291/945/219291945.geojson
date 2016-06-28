@@ -2,13 +2,14 @@
   "id": 219291945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.906898,39.505551,-119.906898,39.505551",
     "geom:latitude":39.505551,
     "geom:longitude":-119.906898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 River Flow Dr",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219291945,
-    "wof:lastmodified":1449071482,
+    "wof:lastmodified":1466703017,
     "wof:name":"River Flow Manor 1 & 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-119.906898,39.505551,-119.906898,39.505551],
+  "bbox": [
+    -119.906898,
+    39.505551,
+    -119.906898,
+    39.505551
+],
   "geometry": {"coordinates":[-119.906898,39.505551],"type":"Point"}
 }

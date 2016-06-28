@@ -2,13 +2,14 @@
   "id": 219656785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.766612,39.471615,-119.766612,39.471615",
     "geom:latitude":39.471615,
     "geom:longitude":-119.766612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Longley Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219656785,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466703941,
     "wof:name":"Quantech Consulting Inc",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-119.766612,39.471615,-119.766612,39.471615],
-  "geometry": {"coordinates":[-119.766612,39.471615],"type":"Point"}
+  "bbox": [
+    -119.766612,
+    39.471615,
+    -119.766612,
+    39.471615
+],
+  "geometry": {"coordinates":[-119.76661199999999,39.471615],"type":"Point"}
 }

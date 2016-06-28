@@ -2,13 +2,14 @@
   "id": 203331093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.301936,36.244555,-115.301936,36.244555",
     "geom:latitude":36.244555,
     "geom:longitude":-115.301936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4691 N Tee Pee Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203331093,
-    "wof:lastmodified":1449026092,
+    "wof:lastmodified":1466703028,
     "wof:name":"Browne Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-115.301936,36.244555,-115.301936,36.244555],
+  "bbox": [
+    -115.301936,
+    36.244555,
+    -115.301936,
+    36.244555
+],
   "geometry": {"coordinates":[-115.301936,36.244555],"type":"Point"}
 }

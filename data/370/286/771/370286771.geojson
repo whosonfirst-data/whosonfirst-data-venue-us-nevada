@@ -2,13 +2,14 @@
   "id": 370286771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.154913,36.118446,-115.154913,36.118446",
     "geom:latitude":36.118446,
     "geom:longitude":-115.154913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Paradise Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370286771,
-    "wof:lastmodified":1449029987,
+    "wof:lastmodified":1466704470,
     "wof:name":"Tri-Star Realty",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.154913,36.118446,-115.154913,36.118446],
-  "geometry": {"coordinates":[-115.154913,36.118446],"type":"Point"}
+  "bbox": [
+    -115.154913,
+    36.118446,
+    -115.154913,
+    36.118446
+],
+  "geometry": {"coordinates":[-115.15491299999999,36.118446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354195411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.172747,36.166194,-115.172747,36.166194",
     "geom:latitude":36.166194,
     "geom:longitude":-115.172747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Rancho Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354195411,
-    "wof:lastmodified":1449067094,
+    "wof:lastmodified":1466705145,
     "wof:name":"Ramchand Ranai MD",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.172747,36.166194,-115.172747,36.166194],
+  "bbox": [
+    -115.172747,
+    36.166194,
+    -115.172747,
+    36.166194
+],
   "geometry": {"coordinates":[-115.172747,36.166194],"type":"Point"}
 }

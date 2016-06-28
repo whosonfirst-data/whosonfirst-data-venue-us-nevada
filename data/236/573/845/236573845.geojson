@@ -2,13 +2,14 @@
   "id": 236573845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.951488,36.190406,-115.951488,36.190406",
     "geom:latitude":36.190406,
     "geom:longitude":-115.951488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3261 Winery Rd",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236573845,
-    "wof:lastmodified":1449004202,
+    "wof:lastmodified":1466706177,
     "wof:name":"Desert Palm Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-115.951488,36.190406,-115.951488,36.190406],
+  "bbox": [
+    -115.951488,
+    36.190406,
+    -115.951488,
+    36.190406
+],
   "geometry": {"coordinates":[-115.951488,36.190406],"type":"Point"}
 }

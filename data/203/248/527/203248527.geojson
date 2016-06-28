@@ -2,13 +2,14 @@
   "id": 203248527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.189927,36.089705,-115.189927,36.089705",
     "geom:latitude":36.089705,
     "geom:longitude":-115.189927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5585 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203248527,
-    "wof:lastmodified":1449025988,
+    "wof:lastmodified":1466702482,
     "wof:name":"Full House Cabinetry",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-115.189927,36.089705,-115.189927,36.089705],
+  "bbox": [
+    -115.189927,
+    36.089705,
+    -115.189927,
+    36.089705
+],
   "geometry": {"coordinates":[-115.189927,36.089705],"type":"Point"}
 }

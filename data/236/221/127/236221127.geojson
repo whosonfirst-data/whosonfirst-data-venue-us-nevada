@@ -2,13 +2,14 @@
   "id": 236221127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.73113,39.556469,-119.73113,39.556469",
     "geom:latitude":39.556469,
     "geom:longitude":-119.73113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Baring Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236221127,
-    "wof:lastmodified":1449003042,
+    "wof:lastmodified":1466703998,
     "wof:name":"Shears 2U",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-119.73113,39.556469,-119.73113,39.556469],
-  "geometry": {"coordinates":[-119.73113,39.556469],"type":"Point"}
+  "bbox": [
+    -119.73113,
+    39.556469,
+    -119.73113,
+    39.556469
+],
+  "geometry": {"coordinates":[-119.73112999999999,39.556469],"type":"Point"}
 }

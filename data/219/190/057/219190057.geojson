@@ -2,13 +2,14 @@
   "id": 219190057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.000629,39.498595,-119.000629,39.498595",
     "geom:latitude":39.498595,
     "geom:longitude":-119.000629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12096 Carson Hwy",
     "sg:city":"Fallon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219190057,
-    "wof:lastmodified":1449073684,
+    "wof:lastmodified":1466702003,
     "wof:name":"Ray's Honey Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beekeeper"
     ]
 },
-  "bbox": [-119.000629,39.498595,-119.000629,39.498595],
+  "bbox": [
+    -119.000629,
+    39.498595,
+    -119.000629,
+    39.498595
+],
   "geometry": {"coordinates":[-119.000629,39.498595],"type":"Point"}
 }

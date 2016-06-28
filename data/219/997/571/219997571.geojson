@@ -2,13 +2,14 @@
   "id": 219997571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.23931,36.231771,-115.23931,36.231771",
     "geom:latitude":36.231771,
     "geom:longitude":-115.23931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6561 Canyon Cove Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219997571,
-    "wof:lastmodified":1449073297,
+    "wof:lastmodified":1466706101,
     "wof:name":"Aztec Environmental Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.23931,36.231771,-115.23931,36.231771],
+  "bbox": [
+    -115.23931,
+    36.231771,
+    -115.23931,
+    36.231771
+],
   "geometry": {"coordinates":[-115.23931,36.231771],"type":"Point"}
 }

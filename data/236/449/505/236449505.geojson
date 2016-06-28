@@ -2,13 +2,14 @@
   "id": 236449505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77037,39.13085,-119.77037,39.13085",
     "geom:latitude":39.13085,
     "geom:longitude":-119.77037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4251 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236449505,
-    "wof:lastmodified":1449004963,
+    "wof:lastmodified":1466705593,
     "wof:name":"V C M Collision Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-119.77037,39.13085,-119.77037,39.13085],
+  "bbox": [
+    -119.77037,
+    39.13085,
+    -119.77037,
+    39.13085
+],
   "geometry": {"coordinates":[-119.77037,39.13085],"type":"Point"}
 }

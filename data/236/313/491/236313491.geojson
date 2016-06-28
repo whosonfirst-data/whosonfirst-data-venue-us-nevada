@@ -2,13 +2,14 @@
   "id": 236313491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.656095,38.934239,-119.656095,38.934239",
     "geom:latitude":38.934239,
     "geom:longitude":-119.656095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Myers Dr",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236313491,
-    "wof:lastmodified":1449001750,
+    "wof:lastmodified":1466704645,
     "wof:name":"Construction Clean Up Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.656095,38.934239,-119.656095,38.934239],
-  "geometry": {"coordinates":[-119.656095,38.934239],"type":"Point"}
+  "bbox": [
+    -119.656095,
+    38.934239,
+    -119.656095,
+    38.934239
+],
+  "geometry": {"coordinates":[-119.65609499999999,38.934239],"type":"Point"}
 }

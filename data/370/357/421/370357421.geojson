@@ -2,13 +2,14 @@
   "id": 370357421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764,39.1796,-119.764,39.1796",
     "geom:latitude":39.1796,
     "geom:longitude":-119.764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Lone Mountain Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370357421,
-    "wof:lastmodified":1449032060,
+    "wof:lastmodified":1466705062,
     "wof:name":"Sierra Madre Apartments",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-119.764,39.1796,-119.764,39.1796],
+  "bbox": [
+    -119.764,
+    39.1796,
+    -119.764,
+    39.1796
+],
   "geometry": {"coordinates":[-119.764,39.1796],"type":"Point"}
 }

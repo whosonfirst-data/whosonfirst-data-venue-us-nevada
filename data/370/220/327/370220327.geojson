@@ -2,13 +2,14 @@
   "id": 370220327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.318294,36.159528,-115.318294,36.159528",
     "geom:latitude":36.159528,
     "geom:longitude":-115.318294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Indigo Dr Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370220327,
-    "wof:lastmodified":1449032350,
+    "wof:lastmodified":1466703058,
     "wof:name":"Advanced Client Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.318294,36.159528,-115.318294,36.159528],
-  "geometry": {"coordinates":[-115.318294,36.159528],"type":"Point"}
+  "bbox": [
+    -115.318294,
+    36.159528,
+    -115.318294,
+    36.159528
+],
+  "geometry": {"coordinates":[-115.31829399999999,36.159528],"type":"Point"}
 }

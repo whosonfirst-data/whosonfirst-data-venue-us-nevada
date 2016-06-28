@@ -2,13 +2,14 @@
   "id": 236488443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.687659,39.201707,-119.687659,39.201707",
     "geom:latitude":39.201707,
     "geom:longitude":-119.687659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236488443,
-    "wof:lastmodified":1449005148,
+    "wof:lastmodified":1466705750,
     "wof:name":"Account Ware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-119.687659,39.201707,-119.687659,39.201707],
+  "bbox": [
+    -119.687659,
+    39.201707,
+    -119.687659,
+    39.201707
+],
   "geometry": {"coordinates":[-119.687659,39.201707],"type":"Point"}
 }

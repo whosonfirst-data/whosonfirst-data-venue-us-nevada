@@ -2,13 +2,14 @@
   "id": 236858271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.700155,39.187721,-119.700155,39.187721",
     "geom:latitude":39.187721,
     "geom:longitude":-119.700155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5852 Sheep Dr",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":236858271,
-    "wof:lastmodified":1449001920,
+    "wof:lastmodified":1466706858,
     "wof:name":"Carson Overhead Door Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-119.700155,39.187721,-119.700155,39.187721],
+  "bbox": [
+    -119.700155,
+    39.187721,
+    -119.700155,
+    39.187721
+],
   "geometry": {"coordinates":[-119.700155,39.187721],"type":"Point"}
 }

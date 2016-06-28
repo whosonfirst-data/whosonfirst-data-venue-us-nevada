@@ -2,13 +2,14 @@
   "id": 235965323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769814,39.133662,-119.769814,39.133662",
     "geom:latitude":39.133662,
     "geom:longitude":-119.769814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3693 S Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235965323,
-    "wof:lastmodified":1449008480,
+    "wof:lastmodified":1466703595,
     "wof:name":"Jeffrey D Ferris Od",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769814,39.133662,-119.769814,39.133662],
+  "bbox": [
+    -119.769814,
+    39.133662,
+    -119.769814,
+    39.133662
+],
   "geometry": {"coordinates":[-119.769814,39.133662],"type":"Point"}
 }

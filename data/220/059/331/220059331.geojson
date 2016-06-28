@@ -2,13 +2,14 @@
   "id": 220059331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.243436,36.152945,-115.243436,36.152945",
     "geom:latitude":36.152945,
     "geom:longitude":-115.243436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220059331,
-    "wof:lastmodified":1449074238,
+    "wof:lastmodified":1466702126,
     "wof:name":"GC Wallace Holdings Inc",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surveying"
     ]
 },
-  "bbox": [-115.243436,36.152945,-115.243436,36.152945],
+  "bbox": [
+    -115.243436,
+    36.152945,
+    -115.243436,
+    36.152945
+],
   "geometry": {"coordinates":[-115.243436,36.152945],"type":"Point"}
 }

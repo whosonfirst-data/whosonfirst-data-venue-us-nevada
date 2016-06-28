@@ -2,13 +2,14 @@
   "id": 219458441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.846075,35.974018,-114.846075,35.974018",
     "geom:latitude":35.974018,
     "geom:longitude":-114.846075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Buchanan Blvd",
     "sg:city":"Boulder City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219458441,
-    "wof:lastmodified":1449072910,
+    "wof:lastmodified":1466703955,
     "wof:name":"American Pool & Spa",
     "wof:parent_id":85878109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-114.846075,35.974018,-114.846075,35.974018],
+  "bbox": [
+    -114.846075,
+    35.974018,
+    -114.846075,
+    35.974018
+],
   "geometry": {"coordinates":[-114.846075,35.974018],"type":"Point"}
 }

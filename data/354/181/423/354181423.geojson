@@ -2,13 +2,14 @@
   "id": 354181423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.141998,36.1441,-115.141998,36.1441",
     "geom:latitude":36.1441,
     "geom:longitude":-115.141998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354181423,
-    "wof:lastmodified":1449066978,
+    "wof:lastmodified":1466704904,
     "wof:name":"First Public Mortgage Co Llc",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-115.141998,36.1441,-115.141998,36.1441],
+  "bbox": [
+    -115.141998,
+    36.1441,
+    -115.141998,
+    36.1441
+],
   "geometry": {"coordinates":[-115.141998,36.1441],"type":"Point"}
 }

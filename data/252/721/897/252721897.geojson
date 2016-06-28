@@ -2,13 +2,14 @@
   "id": 252721897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.926374,39.857744,-119.926374,39.857744",
     "geom:latitude":39.857744,
     "geom:longitude":-119.926374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Horseshoe Cir",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252721897,
-    "wof:lastmodified":1449006514,
+    "wof:lastmodified":1466701767,
     "wof:name":"Carroll Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sales"
     ]
 },
-  "bbox": [-119.926374,39.857744,-119.926374,39.857744],
+  "bbox": [
+    -119.926374,
+    39.857744,
+    -119.926374,
+    39.857744
+],
   "geometry": {"coordinates":[-119.926374,39.857744],"type":"Point"}
 }

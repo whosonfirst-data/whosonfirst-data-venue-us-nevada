@@ -2,13 +2,14 @@
   "id": 235974027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.208161,36.128196,-115.208161,36.128196",
     "geom:latitude":36.128196,
     "geom:longitude":-115.208161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235974027,
-    "wof:lastmodified":1449008554,
+    "wof:lastmodified":1466703628,
     "wof:name":"Painters Auto Land Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.208161,36.128196,-115.208161,36.128196],
+  "bbox": [
+    -115.208161,
+    36.128196,
+    -115.208161,
+    36.128196
+],
   "geometry": {"coordinates":[-115.208161,36.128196],"type":"Point"}
 }

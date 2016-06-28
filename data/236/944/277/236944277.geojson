@@ -2,13 +2,14 @@
   "id": 236944277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.872512,39.634433,-119.872512,39.634433",
     "geom:latitude":39.634433,
     "geom:longitude":-119.872512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9735 Stone Vista Ct",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236944277,
-    "wof:lastmodified":1449003275,
+    "wof:lastmodified":1466706928,
     "wof:name":"Maitlands Archery",
     "wof:parent_id":85880173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.872512,39.634433,-119.872512,39.634433],
+  "bbox": [
+    -119.872512,
+    39.634433,
+    -119.872512,
+    39.634433
+],
   "geometry": {"coordinates":[-119.872512,39.634433],"type":"Point"}
 }

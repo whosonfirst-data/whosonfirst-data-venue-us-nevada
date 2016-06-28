@@ -2,13 +2,14 @@
   "id": 354271015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.058462,36.166151,-115.058462,36.166151",
     "geom:latitude":36.166151,
     "geom:longitude":-115.058462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Sturgeon Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354271015,
-    "wof:lastmodified":1449066825,
+    "wof:lastmodified":1466705600,
     "wof:name":"Anthony Phillips",
     "wof:parent_id":85864299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.058462,36.166151,-115.058462,36.166151],
-  "geometry": {"coordinates":[-115.058462,36.166151],"type":"Point"}
+  "bbox": [
+    -115.058462,
+    36.166151,
+    -115.058462,
+    36.166151
+],
+  "geometry": {"coordinates":[-115.05846200000001,36.166151],"type":"Point"}
 }

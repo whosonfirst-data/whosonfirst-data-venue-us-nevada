@@ -2,13 +2,14 @@
   "id": 219518567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.257753,36.24248,-115.257753,36.24248",
     "geom:latitude":36.24248,
     "geom:longitude":-115.257753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7420 Alcove Glen Ct",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219518567,
-    "wof:lastmodified":1449072373,
+    "wof:lastmodified":1466701633,
     "wof:name":"First Choice Vending",
     "wof:parent_id":85892729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-115.257753,36.24248,-115.257753,36.24248],
-  "geometry": {"coordinates":[-115.257753,36.24248],"type":"Point"}
+  "bbox": [
+    -115.257753,
+    36.24248,
+    -115.257753,
+    36.24248
+],
+  "geometry": {"coordinates":[-115.25775299999999,36.24248],"type":"Point"}
 }

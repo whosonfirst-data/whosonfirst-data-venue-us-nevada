@@ -2,13 +2,14 @@
   "id": 219299287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.983442,36.219692,-115.983442,36.219692",
     "geom:latitude":36.219692,
     "geom:longitude":-115.983442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 E Basin Ave",
     "sg:city":"Pahrump",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219299287,
-    "wof:lastmodified":1449071292,
+    "wof:lastmodified":1466703070,
     "wof:name":"VIP Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.983442,36.219692,-115.983442,36.219692],
+  "bbox": [
+    -115.983442,
+    36.219692,
+    -115.983442,
+    36.219692
+],
   "geometry": {"coordinates":[-115.983442,36.219692],"type":"Point"}
 }

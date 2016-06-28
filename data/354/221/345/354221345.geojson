@@ -2,13 +2,14 @@
   "id": 354221345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.24246,36.218427,-115.24246,36.218427",
     "geom:latitude":36.218427,
     "geom:longitude":-115.24246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 W Cheyenne Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354221345,
-    "wof:lastmodified":1449066667,
+    "wof:lastmodified":1466705153,
     "wof:name":"AA Hawaiian Bbq",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-115.24246,36.218427,-115.24246,36.218427],
-  "geometry": {"coordinates":[-115.24246,36.218427],"type":"Point"}
+  "bbox": [
+    -115.24246,
+    36.218427,
+    -115.24246,
+    36.218427
+],
+  "geometry": {"coordinates":[-115.24245999999999,36.218427],"type":"Point"}
 }

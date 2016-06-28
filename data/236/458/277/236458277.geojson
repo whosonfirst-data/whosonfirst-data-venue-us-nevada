@@ -2,13 +2,14 @@
   "id": 236458277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.77334,39.112956,-119.77334,39.112956",
     "geom:latitude":39.112956,
     "geom:longitude":-119.77334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3690 US Hwy 395 S",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236458277,
-    "wof:lastmodified":1449004100,
+    "wof:lastmodified":1466705629,
     "wof:name":"Fountainhead Foursquare Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-119.77334,39.112956,-119.77334,39.112956],
+  "bbox": [
+    -119.77334,
+    39.112956,
+    -119.77334,
+    39.112956
+],
   "geometry": {"coordinates":[-119.77334,39.112956],"type":"Point"}
 }

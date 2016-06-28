@@ -2,13 +2,14 @@
   "id": 219815039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.163325,38.99381,-119.163325,38.99381",
     "geom:latitude":38.99381,
     "geom:longitude":-119.163325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 US Hwy 95 Alt",
     "sg:city":"Yerington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219815039,
-    "wof:lastmodified":1449072104,
+    "wof:lastmodified":1466705149,
     "wof:name":"Ifa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-119.163325,38.99381,-119.163325,38.99381],
+  "bbox": [
+    -119.163325,
+    38.99381,
+    -119.163325,
+    38.99381
+],
   "geometry": {"coordinates":[-119.163325,38.99381],"type":"Point"}
 }

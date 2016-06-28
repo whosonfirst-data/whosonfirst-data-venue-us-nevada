@@ -2,13 +2,14 @@
   "id": 219554039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.838497,40.57127,-116.838497,40.57127",
     "geom:latitude":40.57127,
     "geom:longitude":-116.838497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 John Tyler Ave",
     "sg:city":"Battle Mountain",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219554039,
-    "wof:lastmodified":1449071125,
+    "wof:lastmodified":1466702298,
     "wof:name":"Bob Monahan Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-116.838497,40.57127,-116.838497,40.57127],
+  "bbox": [
+    -116.838497,
+    40.57127,
+    -116.838497,
+    40.57127
+],
   "geometry": {"coordinates":[-116.838497,40.57127],"type":"Point"}
 }

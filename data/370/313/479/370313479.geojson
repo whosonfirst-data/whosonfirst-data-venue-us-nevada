@@ -2,13 +2,14 @@
   "id": 370313479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.764325,38.894233,-119.764325,38.894233",
     "geom:latitude":38.894233,
     "geom:longitude":-119.764325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Rojo Way",
     "sg:city":"Gardnerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370313479,
-    "wof:lastmodified":1449029164,
+    "wof:lastmodified":1466704810,
     "wof:name":"Tellerrock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-119.764325,38.894233,-119.764325,38.894233],
+  "bbox": [
+    -119.764325,
+    38.894233,
+    -119.764325,
+    38.894233
+],
   "geometry": {"coordinates":[-119.764325,38.894233],"type":"Point"}
 }

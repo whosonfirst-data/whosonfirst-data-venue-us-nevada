@@ -2,13 +2,14 @@
   "id": 354013679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.945886,36.020528,-114.945886,36.020528",
     "geom:latitude":36.020528,
     "geom:longitude":-114.945886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1046 Beaver Crest Ter",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354013679,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1466701840,
     "wof:name":"Silver State Technologies",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-114.945886,36.020528,-114.945886,36.020528],
+  "bbox": [
+    -114.945886,
+    36.020528,
+    -114.945886,
+    36.020528
+],
   "geometry": {"coordinates":[-114.945886,36.020528],"type":"Point"}
 }

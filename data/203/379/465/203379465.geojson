@@ -2,13 +2,14 @@
   "id": 203379465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.777795,39.553919,-119.777795,39.553919",
     "geom:latitude":39.553919,
     "geom:longitude":-119.777795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 Wedekind Rd",
     "sg:city":"Sparks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203379465,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466703249,
     "wof:name":"Spectrem Sleep Medicine Center",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diagnostics"
     ]
 },
-  "bbox": [-119.777795,39.553919,-119.777795,39.553919],
+  "bbox": [
+    -119.777795,
+    39.553919,
+    -119.777795,
+    39.553919
+],
   "geometry": {"coordinates":[-119.777795,39.553919],"type":"Point"}
 }

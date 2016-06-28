@@ -2,13 +2,14 @@
   "id": 236745267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.815715,39.525956,-119.815715,39.525956",
     "geom:latitude":39.525956,
     "geom:longitude":-119.815715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 West St",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236745267,
-    "wof:lastmodified":1449005072,
+    "wof:lastmodified":1466706549,
     "wof:name":"G Spot",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-119.815715,39.525956,-119.815715,39.525956],
+  "bbox": [
+    -119.815715,
+    39.525956,
+    -119.815715,
+    39.525956
+],
   "geometry": {"coordinates":[-119.815715,39.525956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236031917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769489,39.135559,-119.769489,39.135559",
     "geom:latitude":39.135559,
     "geom:longitude":-119.769489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3481 US Hwy 50",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236031917,
-    "wof:lastmodified":1449002760,
+    "wof:lastmodified":1466703920,
     "wof:name":"Fairl's Country Saloon",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-119.769489,39.135559,-119.769489,39.135559],
-  "geometry": {"coordinates":[-119.769489,39.135559],"type":"Point"}
+  "bbox": [
+    -119.769489,
+    39.135559,
+    -119.769489,
+    39.135559
+],
+  "geometry": {"coordinates":[-119.76948899999999,39.135559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354009615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.082434,36.073245,-115.082434,36.073245",
     "geom:latitude":36.073245,
     "geom:longitude":-115.082434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354009615,
-    "wof:lastmodified":1449067650,
+    "wof:lastmodified":1466701718,
     "wof:name":"Sumo Sushi Bar",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "japanese"
     ]
 },
-  "bbox": [-115.082434,36.073245,-115.082434,36.073245],
-  "geometry": {"coordinates":[-115.082434,36.073245],"type":"Point"}
+  "bbox": [
+    -115.082434,
+    36.073245,
+    -115.082434,
+    36.073245
+],
+  "geometry": {"coordinates":[-115.08243400000001,36.073245],"type":"Point"}
 }

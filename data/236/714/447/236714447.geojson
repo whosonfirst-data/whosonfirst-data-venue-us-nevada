@@ -2,13 +2,14 @@
   "id": 236714447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.123581,36.217847,-115.123581,36.217847",
     "geom:latitude":36.217847,
     "geom:longitude":-115.123581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3424 Las Vegas Fwy",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236714447,
-    "wof:lastmodified":1449003243,
+    "wof:lastmodified":1466706504,
     "wof:name":"Edith's Beauty Salon",
     "wof:parent_id":85854449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.123581,36.217847,-115.123581,36.217847],
+  "bbox": [
+    -115.123581,
+    36.217847,
+    -115.123581,
+    36.217847
+],
   "geometry": {"coordinates":[-115.123581,36.217847],"type":"Point"}
 }

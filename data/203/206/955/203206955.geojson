@@ -2,13 +2,14 @@
   "id": 203206955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.822052,39.611485,-119.822052,39.611485",
     "geom:latitude":39.611485,
     "geom:longitude":-119.822052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9075 Rain Dance Way",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203206955,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466702116,
     "wof:name":"Morrow Hay Co",
     "wof:parent_id":85843679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.822052,39.611485,-119.822052,39.611485],
+  "bbox": [
+    -119.822052,
+    39.611485,
+    -119.822052,
+    39.611485
+],
   "geometry": {"coordinates":[-119.822052,39.611485],"type":"Point"}
 }

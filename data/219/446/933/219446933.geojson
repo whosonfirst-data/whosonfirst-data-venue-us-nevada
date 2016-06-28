@@ -2,13 +2,14 @@
   "id": 219446933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.340476,38.733839,-119.340476,38.733839",
     "geom:latitude":38.733839,
     "geom:longitude":-119.340476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Wellington Cutoff",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219446933,
-    "wof:lastmodified":1449073619,
+    "wof:lastmodified":1466703866,
     "wof:name":"Highway Maintenance Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-119.340476,38.733839,-119.340476,38.733839],
+  "bbox": [
+    -119.340476,
+    38.733839,
+    -119.340476,
+    38.733839
+],
   "geometry": {"coordinates":[-119.340476,38.733839],"type":"Point"}
 }

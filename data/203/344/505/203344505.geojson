@@ -2,13 +2,14 @@
   "id": 203344505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.303421,36.215594,-115.303421,36.215594",
     "geom:latitude":36.215594,
     "geom:longitude":-115.303421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 Billy Casper Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203344505,
-    "wof:lastmodified":1449025046,
+    "wof:lastmodified":1466703115,
     "wof:name":"Andys Engraving",
     "wof:parent_id":85892723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-115.303421,36.215594,-115.303421,36.215594],
+  "bbox": [
+    -115.303421,
+    36.215594,
+    -115.303421,
+    36.215594
+],
   "geometry": {"coordinates":[-115.303421,36.215594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219805581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.144981,36.166979,-115.144981,36.166979",
     "geom:latitude":36.166979,
     "geom:longitude":-115.144981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S 3rd St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":219805581,
-    "wof:lastmodified":1449071575,
+    "wof:lastmodified":1466705132,
     "wof:name":"A & Busa MAIL Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-115.144981,36.166979,-115.144981,36.166979],
+  "bbox": [
+    -115.144981,
+    36.166979,
+    -115.144981,
+    36.166979
+],
   "geometry": {"coordinates":[-115.144981,36.166979],"type":"Point"}
 }

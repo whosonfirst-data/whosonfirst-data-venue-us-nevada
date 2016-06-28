@@ -2,13 +2,14 @@
   "id": 236348801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.769448,39.162006,-119.769448,39.162006",
     "geom:latitude":39.162006,
     "geom:longitude":-119.769448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 S Division St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236348801,
-    "wof:lastmodified":1449001786,
+    "wof:lastmodified":1466705010,
     "wof:name":"Zbs Radio Associates Ltd",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.769448,39.162006,-119.769448,39.162006],
+  "bbox": [
+    -119.769448,
+    39.162006,
+    -119.769448,
+    39.162006
+],
   "geometry": {"coordinates":[-119.769448,39.162006],"type":"Point"}
 }

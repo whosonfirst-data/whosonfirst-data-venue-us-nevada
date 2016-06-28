@@ -2,13 +2,14 @@
   "id": 219517849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.972238,36.048616,-114.972238,36.048616",
     "geom:latitude":36.048616,
     "geom:longitude":-114.972238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 E Lake Mead Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":219517849,
-    "wof:lastmodified":1449072392,
+    "wof:lastmodified":1466701621,
     "wof:name":"Child & Family Svc Div",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "institution"
     ]
 },
-  "bbox": [-114.972238,36.048616,-114.972238,36.048616],
+  "bbox": [
+    -114.972238,
+    36.048616,
+    -114.972238,
+    36.048616
+],
   "geometry": {"coordinates":[-114.972238,36.048616],"type":"Point"}
 }

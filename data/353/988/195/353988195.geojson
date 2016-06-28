@@ -2,13 +2,14 @@
   "id": 353988195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.967565,36.073844,-114.967565,36.073844",
     "geom:latitude":36.073844,
     "geom:longitude":-114.967565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Olivia Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353988195,
-    "wof:lastmodified":1449019140,
+    "wof:lastmodified":1466701538,
     "wof:name":"Tuscany Recreation Center",
     "wof:parent_id":85868463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "team"
     ]
 },
-  "bbox": [-114.967565,36.073844,-114.967565,36.073844],
-  "geometry": {"coordinates":[-114.967565,36.073844],"type":"Point"}
+  "bbox": [
+    -114.967565,
+    36.073844,
+    -114.967565,
+    36.073844
+],
+  "geometry": {"coordinates":[-114.96756499999999,36.073844],"type":"Point"}
 }

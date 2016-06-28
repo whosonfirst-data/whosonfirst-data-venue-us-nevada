@@ -2,13 +2,14 @@
   "id": 219545713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.284077,36.102266,-115.284077,36.102266",
     "geom:latitude":36.102266,
     "geom:longitude":-115.284077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4752 Lomas Santa Fe St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219545713,
-    "wof:lastmodified":1449071246,
+    "wof:lastmodified":1466702151,
     "wof:name":"IMC Consulting Inc",
     "wof:parent_id":85866207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.284077,36.102266,-115.284077,36.102266],
+  "bbox": [
+    -115.284077,
+    36.102266,
+    -115.284077,
+    36.102266
+],
   "geometry": {"coordinates":[-115.284077,36.102266],"type":"Point"}
 }

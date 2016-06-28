@@ -2,13 +2,14 @@
   "id": 219749291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.98092,39.249732,-119.98092,39.249732",
     "geom:latitude":39.249732,
     "geom:longitude":-119.98092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Lakeshore Blvd",
     "sg:city":"Incline Village",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219749291,
-    "wof:lastmodified":1449071412,
+    "wof:lastmodified":1466704599,
     "wof:name":"Steinberg Alvin RE Brk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.98092,39.249732,-119.98092,39.249732],
+  "bbox": [
+    -119.98092,
+    39.249732,
+    -119.98092,
+    39.249732
+],
   "geometry": {"coordinates":[-119.98092,39.249732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370340247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.748006,39.172931,-119.748006,39.172931",
     "geom:latitude":39.172931,
     "geom:longitude":-119.748006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 US Highway 50 E Ste 13",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370340247,
-    "wof:lastmodified":1449031714,
+    "wof:lastmodified":1466705090,
     "wof:name":"Rand Avenue Convenience Store",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-119.748006,39.172931,-119.748006,39.172931],
+  "bbox": [
+    -119.748006,
+    39.172931,
+    -119.748006,
+    39.172931
+],
   "geometry": {"coordinates":[-119.748006,39.172931],"type":"Point"}
 }
