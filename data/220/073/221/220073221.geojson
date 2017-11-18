@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.768639,39.183487,-119.768639,39.183487",
     "geom:latitude":39.183487,
     "geom:longitude":-119.768639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2533 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0RY4CzDgA2unvCji4TBCmj_39.183487_-119.768639@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4487eeed4ed3dfc07149df4450c25093",
+    "wof:geomhash":"12eb835872b5d8346f90d6b939e32457",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220073221,
-    "wof:lastmodified":1466702222,
+    "wof:lastmodified":1510942321,
     "wof:name":"Aventine LTD",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236449769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

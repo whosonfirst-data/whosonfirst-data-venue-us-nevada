@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.115997,36.172798,-115.115997,36.172798",
     "geom:latitude":36.172798,
     "geom:longitude":-115.115997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"574 N Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435339,
-    "wof:geomhash":"7690fd8b282c02437ef427d73af02ec6",
+    "wof:geomhash":"24442d302bc2b1272e80b73495c4b1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":823460767,
-    "wof:lastmodified":1466702165,
+    "wof:lastmodified":1510941613,
     "wof:name":"Bonanza Discount Center Inc",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219965205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

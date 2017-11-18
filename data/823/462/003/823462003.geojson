@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169679,36.119496,-115.169679,36.119496",
     "geom:latitude":36.119496,
     "geom:longitude":-115.169679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3475 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435395,
-    "wof:geomhash":"73c1da0fcd076c665868b3ccfb5c929e",
+    "wof:geomhash":"05d1b36b46dd51b61b804d8dcfd47ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823462003,
-    "wof:lastmodified":1466702489,
+    "wof:lastmodified":1510941994,
     "wof:name":"Panda Express",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354251537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

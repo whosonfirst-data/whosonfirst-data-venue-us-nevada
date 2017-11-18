@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.223061,36.114673,-115.223061,36.114673",
     "geom:latitude":36.114673,
     "geom:longitude":-115.223061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6080 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6ctJlqq8tpwLdcYEljI8al_36.114673_-115.223061@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"20239a8fc4b8ab7fbd23bbc396dc5d1e",
+    "wof:geomhash":"6ba60fb3b3495781d9e4ada4078bd07c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":203198863,
-    "wof:lastmodified":1466702041,
+    "wof:lastmodified":1510943247,
     "wof:name":"7-Eleven",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354150849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

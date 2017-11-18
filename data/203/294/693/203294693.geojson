@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172273,36.05511,-115.172273,36.05511",
     "geom:latitude":36.05511,
     "geom:longitude":-115.172273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1NJSdWQRvIw3c9v4twWkVE_36.055110_-115.172273@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0a7e4c102ee19093e5e251c276a209f",
+    "wof:geomhash":"1257c309b6b17878483266e77dc9b01d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":203294693,
-    "wof:lastmodified":1466702798,
+    "wof:lastmodified":1510944097,
     "wof:name":"Rocky's Philly Cheese Steaks",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354398345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

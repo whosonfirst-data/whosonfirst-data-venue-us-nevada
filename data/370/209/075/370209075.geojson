@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.183365,36.04039,-115.183365,36.04039",
     "geom:latitude":36.04039,
     "geom:longitude":-115.183365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3333 Blue Diamond Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0Ihb5cUozz6PzNoX5TJrcL_36.040390_-115.183365@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"14d1e4ff1f4e9a356f30d4327f4657fc",
+    "wof:geomhash":"3c27ec3aada9deb2cb839537847e9351",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":370209075,
-    "wof:lastmodified":1466702763,
+    "wof:lastmodified":1510941428,
     "wof:name":"Silverton Casino",
     "wof:parent_id":85896925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370208731
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

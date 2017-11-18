@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.792458,39.527469,-119.792458,39.527469",
     "geom:latitude":39.527469,
     "geom:longitude":-119.792458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 E 2nd St Ste 103",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1ZQKGTBPLKvD8m8bqQxGmD_39.527469_-119.792458@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f849e929cc9500f4b24eb029eecc266",
+    "wof:geomhash":"819933ab074a3c02f8fbbc73409fffc6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":370318443,
-    "wof:lastmodified":1466704712,
+    "wof:lastmodified":1510944055,
     "wof:name":"Sierra Pediatrics",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219902569
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

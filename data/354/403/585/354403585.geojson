@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.117484,36.019346,-115.117484,36.019346",
     "geom:latitude":36.019346,
     "geom:longitude":-115.117484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9310 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1SuDS5qcoADCxdkZqn6UMh_36.019346_-115.117484@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6c48afd7c4ba249cac3cde90f60f087",
+    "wof:geomhash":"9ea9f081290b9f5c97a967693bdb1d90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354403585,
-    "wof:lastmodified":1466706374,
+    "wof:lastmodified":1510943062,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219749565
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

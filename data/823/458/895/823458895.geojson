@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.157997,36.116798,-115.157997,36.116798",
     "geom:latitude":36.116798,
     "geom:longitude":-115.157997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3960 Howard Hughes Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435226,
-    "wof:geomhash":"f6a1edca302e209a6aca0ac287b18325",
+    "wof:geomhash":"d6b1849d98aab8ce20968c3244a58fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":823458895,
-    "wof:lastmodified":1466701669,
+    "wof:lastmodified":1510941209,
     "wof:name":"Pacific Shore Funding",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370297075
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage",

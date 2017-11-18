@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.085521,36.026424,-115.085521,36.026424",
     "geom:latitude":36.026424,
     "geom:longitude":-115.085521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2yvpDWh4RpD04mdQYKgn21_36.026424_-115.085521@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"60dacd2f745df3277e84cde12f59001c",
+    "wof:geomhash":"5a6e6a8dcb6d2e8a4f66a85626573913",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203300447,
-    "wof:lastmodified":1466702831,
+    "wof:lastmodified":1510943016,
     "wof:name":"Physicians Medical Ctr",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354054383
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

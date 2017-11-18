@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.247463,36.205502,-115.247463,36.205502",
     "geom:latitude":36.205502,
     "geom:longitude":-115.247463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7200 Cathedral Rock Dr Ste 220",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7lfVyTN3HHCvpPqprRBkYc_36.205502_-115.247463@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"58d578cb4abc8d68c71dcd167d79dd1a",
+    "wof:geomhash":"cf72c44c105c8e92839bf7eca11ff29e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +52,17 @@
         }
     ],
     "wof:id":370159525,
-    "wof:lastmodified":1466701776,
+    "wof:lastmodified":1510942361,
     "wof:name":"Pulmonary Associates",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219477459
+    ],
+    "wof:supersedes":[
+        370154497
+    ],
     "wof:tags":[]
 },
   "bbox": [

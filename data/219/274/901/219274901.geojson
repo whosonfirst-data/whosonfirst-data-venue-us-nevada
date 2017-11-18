@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172667,36.159803,-115.172667,36.159803",
     "geom:latitude":36.159803,
     "geom:longitude":-115.172667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 S Rancho Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Z9ydtQ2dJPVTcg6mcj0WI_36.159803_-115.172667@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a9002a0614edafb125e38c6e50292de",
+    "wof:geomhash":"165fac5c7a8a44f5d7343d8cd57dfbb7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":219274901,
-    "wof:lastmodified":1466702780,
+    "wof:lastmodified":1510944094,
     "wof:name":"Signature Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354191911
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

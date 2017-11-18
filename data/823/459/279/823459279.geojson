@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.768997,39.183201,-119.768997,39.183201",
     "geom:latitude":39.183201,
     "geom:longitude":-119.768997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2533 N Carson St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435253,
-    "wof:geomhash":"d98753cee14814f7857569c250b493e6",
+    "wof:geomhash":"17178f3c23a11e69fa8b6f96ffb7c5d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823459279,
-    "wof:lastmodified":1466701770,
+    "wof:lastmodified":1510943969,
     "wof:name":"It Professional Inc",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370360657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

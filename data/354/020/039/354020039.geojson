@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.962413,36.019829,-114.962413,36.019829",
     "geom:latitude":36.019829,
     "geom:longitude":-114.962413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 College Drive",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_64XhG1l401g9DAO4QILVwO_36.019829_-114.962413@1303263131"
     },
     "wof:country":"US",
-    "wof:geomhash":"a85a3724fff0bb2ebf7dc7fca254386f",
+    "wof:geomhash":"0ce2f1b0fd2ddf7fb29c158be8a9316e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354020039,
-    "wof:lastmodified":1466702020,
+    "wof:lastmodified":1510943860,
     "wof:name":"VCA Black Mountain Animal Hospital",
     "wof:parent_id":85878097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219748513
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.275907,36.218503,-115.275907,36.218503",
     "geom:latitude":36.218503,
     "geom:longitude":-115.275907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8370 W Cheyenne Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_6eegBEeqo5jHFjwM9DukrJ_36.218503_-115.275907@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"81577c82edb041c6683a205ad4bd7fc7",
+    "wof:geomhash":"afaa0b93a949791a00478a0f4f895884",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":370169491,
-    "wof:lastmodified":1466701972,
+    "wof:lastmodified":1510941654,
     "wof:name":"People's Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236744535
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

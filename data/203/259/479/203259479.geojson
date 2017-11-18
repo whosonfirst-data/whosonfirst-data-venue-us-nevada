@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-115.1447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"953 E Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":203259479,
-    "wof:lastmodified":1510613307,
+    "wof:lastmodified":1510942422,
     "wof:name":"Asian Market",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354181343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

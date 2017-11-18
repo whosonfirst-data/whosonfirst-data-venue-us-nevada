@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.119081,36.115377,-115.119081,36.115377",
     "geom:latitude":36.115377,
     "geom:longitude":-115.119081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4055 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_66vXdRbbcZQRg1PzAT0jKk_36.115377_-115.119081@1303263138"
     },
     "wof:country":"US",
-    "wof:geomhash":"9182aa1364d50c4136ab723325693d47",
+    "wof:geomhash":"cfe609d8500fb591eb619cb0f634b00f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":354346085,
-    "wof:lastmodified":1466705972,
+    "wof:lastmodified":1510943845,
     "wof:name":"7-Eleven",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236494165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

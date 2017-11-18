@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.190002,36.133598,-115.190002,36.133598",
     "geom:latitude":36.133598,
     "geom:longitude":-115.190002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 S Valley View Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_30amkYgbwYCKMisaPzHKjT_36.133598_-115.190002@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"92aaa4bf103ee89ee3776d15414e014f",
+    "wof:geomhash":"07f50eaba8efec1a43d3683b138371ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":354113099,
-    "wof:lastmodified":1466704353,
+    "wof:lastmodified":1510942910,
     "wof:name":"Harsch Investment Properties",
     "wof:parent_id":85892683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219907805
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

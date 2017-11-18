@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.175122,36.102123,-115.175122,36.102123",
     "geom:latitude":36.102123,
     "geom:longitude":-115.175122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"New York New York Hotel 3790 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4eru6ru3mU6uZicm2NHq5p_36.102123_-115.175122@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"bde2e6cbfe1753dc84e38d09b2925df6",
+    "wof:geomhash":"09c7376cd3df97a1e4f5de731fd5a5bd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354231179,
-    "wof:lastmodified":1466705350,
+    "wof:lastmodified":1510942901,
     "wof:name":"Chin Chin Chinese Restaurant",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236671021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"

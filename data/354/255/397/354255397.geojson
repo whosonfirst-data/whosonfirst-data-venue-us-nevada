@@ -11,7 +11,7 @@
     "geom:longitude":-115.170364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"The Mirage 3400 Las Vegas Blvd South",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -42,6 +42,7 @@
     "wof:brand_id":1125149421,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":180744428,
         "sg:id":"SG_3WTyuFzsVKJWo1qVRGIE0x_36.124010_-115.170364@1303263136"
     },
     "wof:country":"US",
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":354255397,
-    "wof:lastmodified":1510876528,
+    "wof:lastmodified":1510942964,
     "wof:name":"California Pizza Kitchen",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823462109
+    ],
     "wof:tags":[
         "new",
         "american",

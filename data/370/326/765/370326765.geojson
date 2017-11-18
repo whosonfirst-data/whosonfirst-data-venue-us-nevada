@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.796986,39.476738,-119.796986,39.476738",
     "geom:latitude":39.476738,
     "geom:longitude":-119.796986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6490 S Mccarran Blvd # 44",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
         "sg:id":"SG_2OwWji87ZhntV0WUE7HkPq_39.476738_-119.796986@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0ea1a3400341749f4711a49660dfda3",
+    "wof:geomhash":"5d449c7ad7d0a39d1ce0ddc60d0817cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":370326765,
-    "wof:lastmodified":1466704670,
+    "wof:lastmodified":1510941779,
     "wof:name":"First Wall Street",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236626701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

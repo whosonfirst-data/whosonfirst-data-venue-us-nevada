@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.240933,36.091164,-115.240933,36.091164",
     "geom:latitude":36.091164,
     "geom:longitude":-115.240933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5380 S Rainbow Blvd Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1lFr3YeMuwEUgCM3tsnkT8_36.091164_-115.240933@1303263138"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fdfe01298599a523edea4332ed7f27c",
+    "wof:geomhash":"a6c33730018f62162bcf062a6c087743",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":354327443,
-    "wof:lastmodified":1466705786,
+    "wof:lastmodified":1510944178,
     "wof:name":"Diagnostic Center of Medicine",
     "wof:parent_id":85803409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        354327683
+    ],
+    "wof:supersedes":[
+        236386691
+    ],
     "wof:tags":[
         "medicine",
         "internal"

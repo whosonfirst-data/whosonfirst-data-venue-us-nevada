@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.061996,36.239498,-115.061996,36.239498",
     "geom:latitude":36.239498,
     "geom:longitude":-115.061996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4350 N Nellis Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5eLIIjaU6H1iirh5xnIr30_36.239498_-115.061996@1303263137"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b7f3da52fcc944e81c9762639bcb5c9",
+    "wof:geomhash":"bbfef4ae06102393e6b4b517c464c660",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354280261,
-    "wof:lastmodified":1466705583,
+    "wof:lastmodified":1510943585,
     "wof:name":"First National Bank of Nevada",
     "wof:parent_id":85896905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354281177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

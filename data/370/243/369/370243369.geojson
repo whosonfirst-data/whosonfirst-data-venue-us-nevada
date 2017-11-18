@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.242996,36.135601,-115.242996,36.135601",
     "geom:latitude":36.135601,
     "geom:longitude":-115.242996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2980 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6mCYzbGFrDzh7S3jvyq2xV_36.135601_-115.242996@1303263142"
     },
     "wof:country":"US",
-    "wof:geomhash":"28b872376c28fb2f838db7eea35ffe92",
+    "wof:geomhash":"811a3ec1d74722e123486b5697dfb4ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370243369,
-    "wof:lastmodified":1466703537,
+    "wof:lastmodified":1510943393,
     "wof:name":"Premier Business Systems",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236087935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

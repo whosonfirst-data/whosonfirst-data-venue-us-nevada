@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169348,36.125551,-115.169348,36.125551",
     "geom:latitude":36.125551,
     "geom:longitude":-115.169348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4qP9ZZhWBSEgXHnY1HemXd_36.125551_-115.169348@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9a03dedd75ab1e31281f85e3888f0f2",
+    "wof:geomhash":"502cad3f58ba65d227902ea2f3f5a81a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354228689,
-    "wof:lastmodified":1466705202,
+    "wof:lastmodified":1510942125,
     "wof:name":"Fashion Eye Care",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219822797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.185447,36.106046,-115.185447,36.106046",
     "geom:latitude":36.106046,
     "geom:longitude":-115.185447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4680 Polaris Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_28QG9rH0gGIr2bwKc4LKgr_36.106046_-115.185447@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe94eed4cc251c37cba743b11187beaa",
+    "wof:geomhash":"357859cb94bcefe1b935e657d7a85f9f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236121729,
-    "wof:lastmodified":1466701970,
+    "wof:lastmodified":1510944182,
     "wof:name":"Y & Z Co",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354161405
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"

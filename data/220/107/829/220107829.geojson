@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.163016,36.158795,-115.163016,36.158795",
     "geom:latitude":36.158795,
     "geom:longitude":-115.163016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5kVOSXcxQBCJ7llRJBgi8I_36.158795_-115.163016@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"523dd2c9c8652909801808ca9bb54970",
+    "wof:geomhash":"07adcabc4f9c44a3c8f1a1b0b61595bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":220107829,
-    "wof:lastmodified":1466702435,
+    "wof:lastmodified":1510941619,
     "wof:name":"Harmony Healthcare",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354132949
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

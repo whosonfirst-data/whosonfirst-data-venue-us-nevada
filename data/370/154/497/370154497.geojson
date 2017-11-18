@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.247376,36.205411,-115.247376,36.205411",
     "geom:latitude":36.205411,
     "geom:longitude":-115.247376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7200 Cathedral Rock Drive",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5gt2zWVJmasIZLZEsKmbt3_36.205411_-115.247376@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"b24937cad578aa257c34f0b9a6cdb510",
+    "wof:geomhash":"e9862680b44c9dd22aaa74778b4d78b9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":370154497,
-    "wof:lastmodified":1466701643,
+    "wof:lastmodified":1510942361,
     "wof:name":"Pulmonary Associates",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219477459,
+        370159525
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.077708,36.100358,-115.077708,36.100358",
     "geom:latitude":36.100358,
     "geom:longitude":-115.077708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4440 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1TV9LHKI363z7FEcHsVpXT_36.100358_-115.077708@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"54eb1071eebeb6f7a05a693d0b3c3c61",
+    "wof:geomhash":"316a36ff2d32ec25aeb550df86bcc48a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236434227,
-    "wof:lastmodified":1466705521,
+    "wof:lastmodified":1510942941,
     "wof:name":"Angel's",
     "wof:parent_id":85816519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354384361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cosmetic",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.16691,36.129091,-115.16691,36.129091",
     "geom:latitude":36.129091,
     "geom:longitude":-115.16691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3131 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_38ydbu6QYIOXfkheMZEecw_36.129091_-115.166910@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4390e8ca9c1aa93adaab66b0dc02afa4",
+    "wof:geomhash":"ac1c6712cbbc6c68bb282db86eb6b076",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":235977365,
-    "wof:lastmodified":1466703642,
+    "wof:lastmodified":1510943035,
     "wof:name":"Wynn Las Vegas",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354257969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"

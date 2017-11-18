@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.102141,36.0423,-115.102141,36.0423",
     "geom:latitude":36.0423,
     "geom:longitude":-115.102141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2657 Windmill Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5Wr3gYPKbmL32sIGvocG6A_36.042300_-115.102141@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1905180b7122e5a33f9663e4d73877c",
+    "wof:geomhash":"2ce9b9ba2e404741313dbc67ef8dc473",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":219208141,
-    "wof:lastmodified":1466702132,
+    "wof:lastmodified":1510943075,
     "wof:name":"LTD Builders",
     "wof:parent_id":85866203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354049267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

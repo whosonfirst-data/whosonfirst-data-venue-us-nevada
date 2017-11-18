@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.249514,36.212281,-115.249514,36.212281",
     "geom:latitude":36.212281,
     "geom:longitude":-115.249514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2921 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_49BFWqm4CZVFFEQ1thSi9P_36.212281_-115.249514@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"88c807e982ee89f5ed1e3b93851ad2a0",
+    "wof:geomhash":"352d592c90485728490d4ad7cd9c1d75",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236202029,
-    "wof:lastmodified":1466703611,
+    "wof:lastmodified":1510942851,
     "wof:name":"C I T Small Business Funding",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354416515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"

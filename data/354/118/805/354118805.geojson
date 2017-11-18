@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.197959,36.158976,-115.197959,36.158976",
     "geom:latitude":36.158976,
     "geom:longitude":-115.197959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4241 W Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7YgGvZz9HWlexdS1Wu33Ha_36.158976_-115.197959@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"71c928fc499a25bb0b3971927415351a",
+    "wof:geomhash":"a5fc07218b012afd75d6ed409ecaf5bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354118805,
-    "wof:lastmodified":1466704405,
+    "wof:lastmodified":1510942184,
     "wof:name":"Bill's Auto Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219827293
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stereo",

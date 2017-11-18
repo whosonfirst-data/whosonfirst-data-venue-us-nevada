@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.116113,36.19586,-115.116113,36.19586",
     "geom:latitude":36.19586,
     "geom:longitude":-115.116113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2509 E Lake Mead Boulevard",
     "sg:city":"North Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1TchcdMTT1KUtN05NOy87b_36.195860_-115.116113@1303263131"
     },
     "wof:country":"US",
-    "wof:geomhash":"04fe7a0d4e651607d74f2b5f879df73d",
+    "wof:geomhash":"66495cfc7e1bcf01998f3bd777df3430",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354030125,
-    "wof:lastmodified":1466702278,
+    "wof:lastmodified":1510942230,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85837765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823461497
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

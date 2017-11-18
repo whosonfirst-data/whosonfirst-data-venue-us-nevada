@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172771,36.114256,-115.172771,36.114256",
     "geom:latitude":36.114256,
     "geom:longitude":-115.172771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3655 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_4AgULIRmegO64sVnyc3HeB_36.114256_-115.172771@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"49ad54b529f141c3dc0c41b44037e2ad",
+    "wof:geomhash":"71b723f49d0e72ef03279222880cd489",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":203192443,
-    "wof:lastmodified":1466701971,
+    "wof:lastmodified":1510943802,
     "wof:name":"Lunettes Paris",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354238593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sun",

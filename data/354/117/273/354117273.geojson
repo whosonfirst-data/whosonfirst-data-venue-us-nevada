@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.197998,36.159,-115.197998,36.159",
     "geom:latitude":36.159,
     "geom:longitude":-115.197998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4241 W Charleston Blvd Ste D",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_4nD2W2499AZmDwFuyIDGjn_36.159000_-115.197998@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c041355ed420b8b4b28d349a0f49db5",
+    "wof:geomhash":"cd51382191c57800e74d944d4c101396",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354117273,
-    "wof:lastmodified":1466704230,
+    "wof:lastmodified":1510944107,
     "wof:name":"A Dog's Best Friend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219327857
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "boarding/pet",

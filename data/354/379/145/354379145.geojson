@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.108256,36.099922,-115.108256,36.099922",
     "geom:latitude":36.099922,
     "geom:longitude":-115.108256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3075 E Tropicana Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
         "sg:id":"SG_1NceVzlv3p0UPXOvODwb4U_36.099922_-115.108256@1303263139"
     },
     "wof:country":"US",
-    "wof:geomhash":"109f357579b946ed4a0c771c7e2c16fe",
+    "wof:geomhash":"91ebe41120f44fdec23c3c635fde0704",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":354379145,
-    "wof:lastmodified":1466706163,
+    "wof:lastmodified":1510943273,
     "wof:name":"Walmart",
     "wof:parent_id":85896921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        354391881
+    ],
+    "wof:supersedes":[
+        236463159
+    ],
     "wof:tags":[]
 },
   "bbox": [

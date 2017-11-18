@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.242451,36.143364,-115.242451,36.143364",
     "geom:latitude":36.143364,
     "geom:longitude":-115.242451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2550 S Rainbow Blvd Ste W1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_1DwrqsrV35YY8iUEvhtN1Q_36.143364_-115.242451@1303263142"
     },
     "wof:country":"US",
-    "wof:geomhash":"504e5d2f8a30e393136e112cf0647c9f",
+    "wof:geomhash":"0847488309a72dd5ee4a3c27fff62e5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":370231021,
-    "wof:lastmodified":1466703281,
+    "wof:lastmodified":1510943842,
     "wof:name":"Opa Restaurant",
     "wof:parent_id":85867067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219989103
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "greek",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.983104,36.038868,-114.983104,36.038868",
     "geom:latitude":36.038868,
     "geom:longitude":-114.983104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"98 E Lake Mead Parkway Suite 102",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2TJ0CZDXD4Ddw6bVIflac2_36.038868_-114.983104@1303263131"
     },
     "wof:country":"US",
-    "wof:geomhash":"407a713a0ce2657e62b3c1fe20b663b0",
+    "wof:geomhash":"2fc97e39db6dc7ae074a12d6fab56242",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354013923,
-    "wof:lastmodified":1466701848,
+    "wof:lastmodified":1510941710,
     "wof:name":"Hernia Center of Henderson",
     "wof:parent_id":85878133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203412839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

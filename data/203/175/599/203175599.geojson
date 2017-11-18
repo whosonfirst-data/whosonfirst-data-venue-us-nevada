@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.117726,36.174034,-115.117726,36.174034",
     "geom:latitude":36.174034,
     "geom:longitude":-115.117726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2431 E Bonanza Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_72yXSJ6dEKJjm6P3K0hVPP_36.174034_-115.117726@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"3e1b31a7320e2114085076554b3555ba",
+    "wof:geomhash":"f3151652af4d751dfb125a96e2728e90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":203175599,
-    "wof:lastmodified":1466701786,
+    "wof:lastmodified":1510942682,
     "wof:name":"7-Eleven",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354078817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

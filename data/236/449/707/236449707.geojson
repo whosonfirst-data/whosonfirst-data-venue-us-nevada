@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.122901,36.100789,-115.122901,36.100789",
     "geom:latitude":36.100789,
     "geom:longitude":-115.122901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2215 Renaissance Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_0zvvTrukdrfA9cash6P9bp_36.100789_-115.122901@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2d4772ea1ff0a9dfd35dd440c3e0b5e",
+    "wof:geomhash":"c8467fb6707fe1e609c865b2d6db9ee5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":236449707,
-    "wof:lastmodified":1466705596,
+    "wof:lastmodified":1510943299,
     "wof:name":"Con AM Management Corp",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354358297
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment",

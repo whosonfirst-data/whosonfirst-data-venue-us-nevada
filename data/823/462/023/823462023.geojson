@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169796,36.109117,-115.169796,36.109117",
     "geom:latitude":36.109117,
     "geom:longitude":-115.169796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3663 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435395,
-    "wof:geomhash":"7fb3cf6927c43709ce85ae1f00880d25",
+    "wof:geomhash":"c4a8bc083b476bfe5b393262160e15ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823462023,
-    "wof:lastmodified":1466702494,
+    "wof:lastmodified":1510942392,
     "wof:name":"Earl of Sandwich",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354235731
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169417,36.158969,-115.169417,36.158969",
     "geom:latitude":36.158969,
     "geom:longitude":-115.169417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2040 W Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5jV4x3ta0jTfho9GnjJKoV_36.158969_-115.169417@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"70534e75d76e83a7c128333c9221b156",
+    "wof:geomhash":"8f31324995b6d8427644938dd6a9fbf6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":220079301,
-    "wof:lastmodified":1466702257,
+    "wof:lastmodified":1510943594,
     "wof:name":"Farwig Katrina Ms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354129085
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

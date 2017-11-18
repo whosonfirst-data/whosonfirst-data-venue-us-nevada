@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.212997,36.1446,-115.212997,36.1446",
     "geom:latitude":36.1446,
     "geom:longitude":-115.212997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5300 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2cVU0YIaB6GcRzcAecuUSI_36.144600_-115.212997@1303263142"
     },
     "wof:country":"US",
-    "wof:geomhash":"bad99365bb18e8983e0810249d00a0f2",
+    "wof:geomhash":"421d9169e1c28695fda1fa932f859b6a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":370243441,
-    "wof:lastmodified":1466703539,
+    "wof:lastmodified":1510942364,
     "wof:name":"Kamaania Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219396443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

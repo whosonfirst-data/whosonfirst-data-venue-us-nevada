@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.167251,36.140445,-115.167251,36.140445",
     "geom:latitude":36.140445,
     "geom:longitude":-115.167251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3025 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0IsWlanlBwq7RcFxgTl4rX_36.140445_-115.167251@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"7986509b4ee04c257d16df47194b790c",
+    "wof:geomhash":"a77b8dc2a9b8a28f4312d5a7aab7dabf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":203404375,
-    "wof:lastmodified":1466703336,
+    "wof:lastmodified":1510941437,
     "wof:name":"Sapphire Gentlemen's Club",
     "wof:parent_id":85892705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354248695
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"

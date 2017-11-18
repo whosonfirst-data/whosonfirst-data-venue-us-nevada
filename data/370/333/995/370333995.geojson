@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.859767,39.52067,-119.859767,39.52067",
     "geom:latitude":39.52067,
     "geom:longitude":-119.859767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4871 Summit Ridge Dr",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_4tJrPCQtAyYFUaKAQs5mm0_39.520670_-119.859767@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f3c633200203c7486f7785079f49d2a",
+    "wof:geomhash":"a274c8aa8429ccc23211fd784332a7b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":370333995,
-    "wof:lastmodified":1466705004,
+    "wof:lastmodified":1510943446,
     "wof:name":"Community Animal Hospital",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236849379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

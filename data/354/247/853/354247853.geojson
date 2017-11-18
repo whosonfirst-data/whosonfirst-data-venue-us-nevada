@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172799,36.111146,-115.172799,36.111146",
     "geom:latitude":36.111146,
     "geom:longitude":-115.172799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3663 Las Vegas Boulevard S Suite 400",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0d5XpaOhKcaWgntauBX1rs_36.111146_-115.172799@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"066e6d2d3a698e7912a0dde7b6844109",
+    "wof:geomhash":"6f361808802465597a487af107ad07dd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354247853,
-    "wof:lastmodified":1466705219,
+    "wof:lastmodified":1510941663,
     "wof:name":"Images of Nature",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236572979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

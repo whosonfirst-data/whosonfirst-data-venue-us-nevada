@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169789,36.161692,-115.169789,36.161692",
     "geom:latitude":36.161692,
     "geom:longitude":-115.169789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2010 Goldring Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6CT6Yvardy68IBNgc8Xr4N_36.161692_-115.169789@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"20737bbba2744f6dfea0a38ac3906a7a",
+    "wof:geomhash":"16d352367219be5c13ef99515b86692d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220129435,
-    "wof:lastmodified":1466702585,
+    "wof:lastmodified":1510942848,
     "wof:name":"Gastroenterology",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354198039
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

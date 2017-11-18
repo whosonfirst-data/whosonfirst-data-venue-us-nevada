@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.255831,36.196013,-115.255831,36.196013",
     "geom:latitude":36.196013,
     "geom:longitude":-115.255831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7469 W Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_1FjLoDBHL4TAl5h4bm3MqW_36.196013_-115.255831@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d792f1a8dc1fb5a5cb954d1028c3afa",
+    "wof:geomhash":"dd207c146a3d536b027feed3f3a81693",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370149693,
-    "wof:lastmodified":1466701521,
+    "wof:lastmodified":1510942096,
     "wof:name":"Pipe Restoration Technologies",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219165257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

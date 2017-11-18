@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172655,36.112853,-115.172655,36.112853",
     "geom:latitude":36.112853,
     "geom:longitude":-115.172655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3645 Las Vegas Boulevard S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_6wGBpc86k4zIPUCWgVB1XH_36.112853_-115.172655@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc33772fce0a29061d85a69c1f7c6d8d",
+    "wof:geomhash":"b899f97bed8bf2030340163ee511e1d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":354252597,
-    "wof:lastmodified":1466705375,
+    "wof:lastmodified":1510942187,
     "wof:name":"Harley Davidson",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219745657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

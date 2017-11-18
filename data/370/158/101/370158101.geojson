@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.250226,36.195972,-115.250226,36.195972",
     "geom:latitude":36.195972,
     "geom:longitude":-115.250226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7251 W Lake Mead Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5BduackGEp0Sf3Vanln1ln_36.195972_-115.250226@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"66c31f775d381fbd701bc39610a46930",
+    "wof:geomhash":"abccbb1daf3a3f1aec4bcfe5ee4b31e2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":370158101,
-    "wof:lastmodified":1466701736,
+    "wof:lastmodified":1510943521,
     "wof:name":"Weide & Miller Ltd",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236768241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

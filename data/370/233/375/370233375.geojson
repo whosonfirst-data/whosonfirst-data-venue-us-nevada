@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.237198,36.143993,-115.237198,36.143993",
     "geom:latitude":36.143993,
     "geom:longitude":-115.237198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6655 W Sahara Avenue Suite A211",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0qiuMQCnqP6VYJKEbKf7lg_36.143993_-115.237198@1303263142"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4e6951fa2000d91e2a3d3c9ef53147a",
+    "wof:geomhash":"8040fcc566de2d6bae2fc4489a64854b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370233375,
-    "wof:lastmodified":1466703323,
+    "wof:lastmodified":1510942584,
     "wof:name":"Deli Planet",
     "wof:parent_id":85892645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236385059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

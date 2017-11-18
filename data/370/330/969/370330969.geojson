@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.793705,39.544082,-119.793705,39.544082",
     "geom:latitude":39.544082,
     "geom:longitude":-119.793705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1625 Haddock Dr",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3bobd0cUgp46TukccHMEmI_39.544082_-119.793705@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"d837d3e3ffb4d528172ec9e03ae670a4",
+    "wof:geomhash":"59c2391f84f50878226c519479de766d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":370330969,
-    "wof:lastmodified":1466704858,
+    "wof:lastmodified":1510941865,
     "wof:name":"Support Dogs",
     "wof:parent_id":85880175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236308897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

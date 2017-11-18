@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.79487,39.49195,-119.79487,39.49195",
     "geom:latitude":39.49195,
     "geom:longitude":-119.79487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"294 E Moana Ln Ste 22",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_0LhPTitQhMSy6KUm4VH8Tv_39.491950_-119.794870@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fb80cbfefb6ec79113f5b86028683d0",
+    "wof:geomhash":"9051cff9fafa0a4144d78ebbbde931aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":370317819,
-    "wof:lastmodified":1466704706,
+    "wof:lastmodified":1510941362,
     "wof:name":"Laser & Cateract Center",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219770009
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.149084,36.098708,-115.149084,36.098708",
     "geom:latitude":36.098708,
     "geom:longitude":-115.149084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5030 Paradise Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4yGI5lS2pb3dshv0IxLTjZ_36.098708_-115.149084@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c19adaf0dc0b2d4a894e9509d0feae8",
+    "wof:geomhash":"c4041524f7b13f0d793d53cbd99685b1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":337296445,
-    "wof:lastmodified":1466701636,
+    "wof:lastmodified":1510943252,
     "wof:name":"Aladdin Rent A Car",
     "wof:parent_id":85840429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        354353403
+    ],
+    "wof:supersedes":[
+        235941029
+    ],
     "wof:tags":[
         "passenger",
         "car"

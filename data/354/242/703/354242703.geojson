@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172978,36.113942,-115.172978,36.113942",
     "geom:latitude":36.113942,
     "geom:longitude":-115.172978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"The Bellagio 3600 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5iKTLH5QDh4ewwpCNK0OS4_36.113942_-115.172978@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"50b1ffd02dcbc93ddfc1a832dcadfb3d",
+    "wof:geomhash":"89db9d432d134a4f2fd6f08519b256f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":354242703,
-    "wof:lastmodified":1466705290,
+    "wof:lastmodified":1510942413,
     "wof:name":"Hermes of Paris",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236812205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "men's",

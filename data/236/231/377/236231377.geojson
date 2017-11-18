@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.136942,36.131986,-115.136942,36.131986",
     "geom:latitude":36.131986,
     "geom:longitude":-115.136942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3201 S Maryland Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6WRZguMTPYQK6zF6AY7Nys_36.131986_-115.136942@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6e37228ed20f13677df19b876256cd4",
+    "wof:geomhash":"16429b8c26a3229b53adfbf401cfb5fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236231377,
-    "wof:lastmodified":1466704276,
+    "wof:lastmodified":1510943505,
     "wof:name":"Mahon Eye Ctr",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354237409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

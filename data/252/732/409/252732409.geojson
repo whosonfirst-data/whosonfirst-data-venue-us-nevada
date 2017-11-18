@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.249378,36.195971,-115.249378,36.195971",
     "geom:latitude":36.195971,
     "geom:longitude":-115.249378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7201 W Lake Mead Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6K5sdIGhAiXycR1PgLn4ym_36.195971_-115.249378@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"1dfbb62abff2e3444fd505a5e201a6fd",
+    "wof:geomhash":"6732bfacb6cde537e080237b1da55757",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":252732409,
-    "wof:lastmodified":1466701972,
+    "wof:lastmodified":1510941901,
     "wof:name":"Cassady Law Offices",
     "wof:parent_id":85892635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370154125
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

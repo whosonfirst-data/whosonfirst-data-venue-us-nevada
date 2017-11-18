@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.072938,36.075422,-115.072938,36.075422",
     "geom:latitude":36.075422,
     "geom:longitude":-115.072938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6250 Mountain Vista St Ste B",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5oI1Lp8gtIQM5gosSz17Zp_36.075422_-115.072938@1303263130"
     },
     "wof:country":"US",
-    "wof:geomhash":"ede06b3e4f67f01a68e32a63c01b5f3e",
+    "wof:geomhash":"ede95155553b5df53fbeb2e68299253a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354001981,
-    "wof:lastmodified":1466701497,
+    "wof:lastmodified":1510942034,
     "wof:name":"Lucky Joe's Saloon",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236637445
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"

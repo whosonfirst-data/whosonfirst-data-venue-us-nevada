@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.118233,36.039004,-115.118233,36.039004",
     "geom:latitude":36.039004,
     "geom:longitude":-115.118233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8275 S Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2Hdy3Rx7FnD99XChrMOi1K_36.039004_-115.118233@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c76838af8e68ad8f737b2aba9499d89",
+    "wof:geomhash":"32a2bb4d2d5fbfa49814ed4b305d08e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354412805,
-    "wof:lastmodified":1466706221,
+    "wof:lastmodified":1510942412,
     "wof:name":"Bridge Capital",
     "wof:parent_id":85879751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219977817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172997,36.166199,-115.172997,36.166199",
     "geom:latitude":36.166199,
     "geom:longitude":-115.172997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 S Rancho Dr Ste A1",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_3ywo8AchYZT2wZDgzi6qAo_36.166199_-115.172997@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a139738c5fd1c3e4e1a4fc49cdbca49",
+    "wof:geomhash":"eb28cc17f1510b079bcef717edc7c6fc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +52,17 @@
         }
     ],
     "wof:id":354186787,
-    "wof:lastmodified":1466704933,
+    "wof:lastmodified":1510944121,
     "wof:name":"Red Rock Chiropractic",
     "wof:parent_id":85892699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219905021
+    ],
+    "wof:supersedes":[
+        354197033
+    ],
     "wof:tags":[]
 },
   "bbox": [

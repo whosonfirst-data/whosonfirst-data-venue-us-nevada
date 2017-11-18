@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.769574,39.166541,-119.769574,39.166541",
     "geom:latitude":39.166541,
     "geom:longitude":-119.769574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"502 N Division St",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6AapJDrz69DyTA4tHoatiQ_39.166541_-119.769574@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"0416ccb0c02f94eef94b3f29e2deacaf",
+    "wof:geomhash":"5166fad7ab5176c56e4834d490c7dd83",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":219219051,
-    "wof:lastmodified":1466702227,
+    "wof:lastmodified":1510942886,
     "wof:name":"Saric Corporation",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236712147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

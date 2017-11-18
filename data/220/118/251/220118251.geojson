@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.085994,36.027565,-115.085994,36.027565",
     "geom:latitude":36.027565,
     "geom:longitude":-115.085994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7CVM0XClJ2L5zLvuJ58u1a_36.027565_-115.085994@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f6288cf2b0c77516ddad5a8547398ff",
+    "wof:geomhash":"8b01fc8bb08b11489c43da3d97c43e5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220118251,
-    "wof:lastmodified":1466702516,
+    "wof:lastmodified":1510941231,
     "wof:name":"MCH Mortgage",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354056509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

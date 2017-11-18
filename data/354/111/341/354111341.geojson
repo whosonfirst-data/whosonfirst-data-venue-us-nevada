@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.164192,36.158667,-115.164192,36.158667",
     "geom:latitude":36.158667,
     "geom:longitude":-115.164192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1707 W Charleston Blvd Ste 120",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5bSiIriitZP5SbJ2fgJqja_36.158667_-115.164192@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"caac1df38bfc964a90c40e1624cd60ba",
+    "wof:geomhash":"ef9dee4c3a335b2010aafa2ff55ec593",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,15 @@
         }
     ],
     "wof:id":354111341,
-    "wof:lastmodified":1466704215,
+    "wof:lastmodified":1510943516,
     "wof:name":"University of Nevada School of Medicine",
     "wof:parent_id":85892709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354113677,
+        354126119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

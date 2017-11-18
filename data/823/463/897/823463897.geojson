@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.267616,36.270902,-115.267616,36.270902",
     "geom:latitude":36.270902,
     "geom:longitude":-115.267616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7920 W Tropical Pkwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -43,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1463435471,
-    "wof:geomhash":"3120459b0ffa8eb02670248093e135ed",
+    "wof:geomhash":"b0b9fa78e69ade44253cfd75e7b78de3",
     "wof:hierarchy":[],
     "wof:id":823463897,
-    "wof:lastmodified":1466702987,
+    "wof:lastmodified":1510943545,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370276885
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

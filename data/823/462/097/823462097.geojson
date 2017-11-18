@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.171498,36.111946,-115.171498,36.111946",
     "geom:latitude":36.111946,
     "geom:longitude":-115.171498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3655 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435398,
-    "wof:geomhash":"0dec9096f8b7995608494c8b20a6d427",
+    "wof:geomhash":"069ecd173eb72713ed6b69183f44bedd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,15 @@
         }
     ],
     "wof:id":823462097,
-    "wof:lastmodified":1466702515,
+    "wof:lastmodified":1510943223,
     "wof:name":"Ortanique Restaurant",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236591017,
+        354247603
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

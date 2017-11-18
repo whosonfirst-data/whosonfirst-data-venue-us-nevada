@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.125454,36.144446,-115.125454,36.144446",
     "geom:latitude":36.144446,
     "geom:longitude":-115.125454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_05lDdhGZWWebI1R0wm7KzU_36.144446_-115.125454@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9e4e1ee67c0eaffa375659c667b07bf",
+    "wof:geomhash":"50607c24f3ce4c13cf55f28108e50a17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":354177665,
-    "wof:lastmodified":1466705006,
+    "wof:lastmodified":1510942008,
     "wof:name":"Sun Best Packing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219821847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veggie"

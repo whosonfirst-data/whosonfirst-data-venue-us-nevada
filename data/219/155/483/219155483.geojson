@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172983,36.111267,-115.172983,36.111267",
     "geom:latitude":36.111267,
     "geom:longitude":-115.172983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3600 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3GUUL6LrgVmJPEOvbNIFcT_36.111267_-115.172983@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2d2c2c2edae0f1f88e85944a42420a9",
+    "wof:geomhash":"f21ced65354f82cb555ee119542c17bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":219155483,
-    "wof:lastmodified":1466701486,
+    "wof:lastmodified":1510942535,
     "wof:name":"Yves St Laurent",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354252839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

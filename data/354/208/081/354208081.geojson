@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.241997,36.180199,-115.241997,36.180199",
     "geom:latitude":36.180199,
     "geom:longitude":-115.241997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"777 N Rainbow Blvd Ste 350",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1noFkO9dm5nCGkbsfonMfS_36.180199_-115.241997@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"a19b014e63b4b8a6e3ee2d8ba3656ac3",
+    "wof:geomhash":"3cb394615de920f882d18896f1d393ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354208081,
-    "wof:lastmodified":1466705207,
+    "wof:lastmodified":1510942468,
     "wof:name":"Maskall Aurora M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236906989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

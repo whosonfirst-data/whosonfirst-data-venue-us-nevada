@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.171173,36.12403,-115.171173,36.12403",
     "geom:latitude":36.12403,
     "geom:longitude":-115.171173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0U854rsd2wW0byx79ak6Eo_36.124030_-115.171173@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"2049d21fb37a0d9d685643cc8fcde2b9",
+    "wof:geomhash":"c32e46fced2532d7cf558cf7dd21e0d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370204905,
-    "wof:lastmodified":1466702641,
+    "wof:lastmodified":1510943618,
     "wof:name":"ISLA Mexican Kitchen & Tequila Bar",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354231399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

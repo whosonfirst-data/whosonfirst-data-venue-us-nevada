@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.749213,39.547411,-119.749213,39.547411",
     "geom:latitude":39.547411,
     "geom:longitude":-119.749213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 Greenbrae Dr",
     "sg:city":"Sparks",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_1KoJdDGs8USF7GWCea80M4_39.547411_-119.749213@1303263143"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3844c4a026ee5308cc2da5901de18cf",
+    "wof:geomhash":"0940f9ac4e78af3b93a1787ba58c2929",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":370309161,
-    "wof:lastmodified":1466704528,
+    "wof:lastmodified":1510943777,
     "wof:name":"Sparks Christian Fellowship",
     "wof:parent_id":85838135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236896817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

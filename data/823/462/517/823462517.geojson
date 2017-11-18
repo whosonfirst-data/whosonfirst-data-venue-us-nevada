@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.062752,36.111142,-115.062752,36.111142",
     "geom:latitude":36.111142,
     "geom:longitude":-115.062752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5198 Boulder Hwy",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -35,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1463435413,
-    "wof:geomhash":"007c0a76ad31fba5a3d0bf147cacc5ad",
+    "wof:geomhash":"b32574c880b274fdc41cdc5cbac9ed4b",
     "wof:hierarchy":[],
     "wof:id":823462517,
-    "wof:lastmodified":1466702627,
+    "wof:lastmodified":1510944085,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354394807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

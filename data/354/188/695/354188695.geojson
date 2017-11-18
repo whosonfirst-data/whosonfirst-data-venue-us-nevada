@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172611,36.162276,-115.172611,36.162276",
     "geom:latitude":36.162276,
     "geom:longitude":-115.172611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 S Rancho Drive Suite E6",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1rXMw5ektQcRhoVOgvUm8u_36.162276_-115.172611@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"15f8e366744f5a93184bf22cda711f19",
+    "wof:geomhash":"3854514fd0b2c23d05a944508ab6cc71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":354188695,
-    "wof:lastmodified":1466704945,
+    "wof:lastmodified":1510943489,
     "wof:name":"Kafoury Armstrong & Company.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236352525
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

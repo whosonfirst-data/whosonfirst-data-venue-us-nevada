@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.141485,36.143664,-115.141485,36.143664",
     "geom:latitude":36.143664,
     "geom:longitude":-115.141485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"953 E Sahara Ave Ste D18",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_12VSTKwhShlcyMnu6jugcB_36.143664_-115.141485@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6d1ed444f0e96a3bc36590712d3d8b7",
+    "wof:geomhash":"f123fa61d1cf408b1cf7e1d35e37155f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354179915,
-    "wof:lastmodified":1466704893,
+    "wof:lastmodified":1510944035,
     "wof:name":"University Church Institute",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236425783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

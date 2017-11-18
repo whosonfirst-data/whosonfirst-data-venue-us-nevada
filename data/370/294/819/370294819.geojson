@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.157863,36.120473,-115.157863,36.120473",
     "geom:latitude":36.120473,
     "geom:longitude":-115.157863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3773 Howard Hughes Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_0xODQycM30y8CDO6XXZAVG_36.120473_-115.157863@1303263143"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a7eefb1fcebc407c93063bf7a8835ec",
+    "wof:geomhash":"f1eada3b5a55a46f602f281c306bb883",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":370294819,
-    "wof:lastmodified":1466704542,
+    "wof:lastmodified":1510943303,
     "wof:name":"Jones Vargas",
     "wof:parent_id":85879713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236242067
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

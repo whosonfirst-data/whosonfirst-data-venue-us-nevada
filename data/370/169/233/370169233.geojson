@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.261732,36.218299,-115.261732,36.218299",
     "geom:latitude":36.218299,
     "geom:longitude":-115.261732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7660 W Cheyenne Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_5LrgnWZOJJPymw82Qo8zAs_36.218299_-115.261732@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"46f839bbab1b0605917c1111948b3720",
+    "wof:geomhash":"37cc441333969bcd5621da9b54cdbe16",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":370169233,
-    "wof:lastmodified":1466701966,
+    "wof:lastmodified":1510942366,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823462631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.199266,36.091776,-115.199266,36.091776",
     "geom:latitude":36.091776,
     "geom:longitude":-115.199266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5333 Arville St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_59DEc6xk7eSIB7jfBQAULm_36.091776_-115.199266@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2544b14ea3d8b1c41d0b393a5d81313",
+    "wof:geomhash":"d2323dd9ebb081c7923a31bd40c5eeba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":235963315,
-    "wof:lastmodified":1466703581,
+    "wof:lastmodified":1510943476,
     "wof:name":"Sonny Sushi Co",
     "wof:parent_id":85806789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354323753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sushi",

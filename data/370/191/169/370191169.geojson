@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.27884,36.3066,-115.27884,36.3066",
     "geom:latitude":36.3066,
     "geom:longitude":-115.27884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8001 N Durango Dr Ste 110",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_3UYRPJJOgbKYLJrnncgxHZ_36.306600_-115.278840@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"3999c708d3a637196af057ac36894986",
+    "wof:geomhash":"837299165ce4f87d138c6af5cec07e46",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":370191169,
-    "wof:lastmodified":1466702300,
+    "wof:lastmodified":1510943965,
     "wof:name":"Rosatis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370203533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

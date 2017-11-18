@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.126282,36.158893,-115.126282,36.158893",
     "geom:latitude":36.158893,
     "geom:longitude":-115.126282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1765 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2BfO91uwFIUh9IerPINX02_36.158893_-115.126282@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"74974417d8cefb6308201c352e1525ae",
+    "wof:geomhash":"4d09c96bc4aece949391f6b2619081b2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":354174575,
-    "wof:lastmodified":1466704860,
+    "wof:lastmodified":1510942510,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85892669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354174883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

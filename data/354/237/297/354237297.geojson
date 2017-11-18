@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.136978,36.134095,-115.136978,36.134095",
     "geom:latitude":36.134095,
     "geom:longitude":-115.136978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3186 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5i96OjMNmsdCvpElNPx32C_36.134095_-115.136978@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ac8a60f40554b7ba400a2b47e0ce90b",
+    "wof:geomhash":"bda58f5512abb77ba97a6a9a7391374e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354237297,
-    "wof:lastmodified":1466705262,
+    "wof:lastmodified":1510942404,
     "wof:name":"Emergency Medical Center Sunrise",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219824893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

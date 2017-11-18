@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.075987,36.158898,-115.075987,36.158898",
     "geom:latitude":36.158898,
     "geom:longitude":-115.075987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4530 E Charleston Boulevard",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_4McptgnJnNgjRRTr4SyFKM_36.158898_-115.075987@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd19b4c2eeb177035495731ae4012cc4",
+    "wof:geomhash":"6afd88b8e81f015357ac2971299e5b34",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":354174223,
-    "wof:lastmodified":1466704857,
+    "wof:lastmodified":1510942837,
     "wof:name":"Lizette's Fashion",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236430611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.141495,36.159217,-115.141495,36.159217",
     "geom:latitude":36.159217,
     "geom:longitude":-115.141495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"704 S 9th St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_2dqxydhoRXeEC6ws2BZTez_36.159217_-115.141495@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"888a712161df67e43564f09a6f2bd089",
+    "wof:geomhash":"9597a1c61d277f3c891c6b9a2d19deee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":236041615,
-    "wof:lastmodified":1466703942,
+    "wof:lastmodified":1510943532,
     "wof:name":"Segerblom Richard Atty-At-Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354086243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

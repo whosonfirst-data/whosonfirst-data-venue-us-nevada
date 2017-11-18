@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.165463,36.163857,-115.165463,36.163857",
     "geom:latitude":36.163857,
     "geom:longitude":-115.165463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"620 Shadow Ln",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,10 +40,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":130590865,
         "sg:id":"SG_04CKZ1fuFGn30WIszYJkIo_36.163857_-115.165463@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"603a1d2ffd129a9f6efdd743cbce7a76",
+    "wof:geomhash":"3f498cd58b6662ed04663ce65783fad6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +57,19 @@
         }
     ],
     "wof:id":354185309,
-    "wof:lastmodified":1466704797,
+    "wof:lastmodified":1510943449,
     "wof:name":"Valley Hospital Medical Center",
     "wof:parent_id":85892735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        236254801,
+        354197687
+    ],
+    "wof:supersedes":[
+        354197687,
+        236254801
+    ],
     "wof:tags":[
         "medical"
     ]

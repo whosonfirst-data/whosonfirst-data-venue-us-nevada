@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.136979,36.127961,-115.136979,36.127961",
     "geom:latitude":36.127961,
     "geom:longitude":-115.136979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3405 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_7asoVUBGzLokV5ZLYyBj6O_36.127961_-115.136979@1303263143"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf040c85433c0aaabea7c0ea05fe2217",
+    "wof:geomhash":"ea712d20c6a70867f932bd21b834a654",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370290241,
-    "wof:lastmodified":1466704287,
+    "wof:lastmodified":1510943523,
     "wof:name":"Nevada Jobconnect",
     "wof:parent_id":85858129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354267435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

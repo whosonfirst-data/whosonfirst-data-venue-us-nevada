@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.141067,36.143965,-115.141067,36.143965",
     "geom:latitude":36.143965,
     "geom:longitude":-115.141067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"953 E Sahara Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_3CVq7zvTktjg9t658v33cW_36.143965_-115.141067@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"38adf2c1e939c9ea47f680bb2e73eb4e",
+    "wof:geomhash":"facff0d0206b6d35284ebff17fc5dd89",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354176653,
-    "wof:lastmodified":1466704891,
+    "wof:lastmodified":1510944082,
     "wof:name":"Asian Video",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219804941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "game",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.181314,36.095445,-115.181314,36.095445",
     "geom:latitude":36.095445,
     "geom:longitude":-115.181314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5115 Industrial Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4kOHZBqbusfr4IJYCkiFQ7_36.095445_-115.181314@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"2284a3ee3d848d665b134d556acdb982",
+    "wof:geomhash":"d7f553e03f4313b25522b69e076e3eee",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":236317109,
-    "wof:lastmodified":1466704809,
+    "wof:lastmodified":1510943852,
     "wof:name":"M & B Auto Haus",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354321679,
+        219764045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.078197,36.159037,-115.078197,36.159037",
     "geom:latitude":36.159037,
     "geom:longitude":-115.078197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4550 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2PpJQnCsQJn26HNLNNEwhY_36.159037_-115.078197@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"2629f1ed8f0716243313da803ff081e0",
+    "wof:geomhash":"41e7e2ad124b9606785428bada5e08ce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":203347663,
-    "wof:lastmodified":1466703137,
+    "wof:lastmodified":1510942480,
     "wof:name":"Family Medical Group",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354179381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

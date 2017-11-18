@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.208,36.151199,-115.208,36.151199",
     "geom:latitude":36.151199,
     "geom:longitude":-115.208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1717 S Decatur Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_1bWkit4YNvPcvFeLYr36Yc_36.151199_-115.208000@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c998825385dd04c949af6cf47e0a768",
+    "wof:geomhash":"755a4a1d4473109be2fdaef9a38fb97d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":354107989,
-    "wof:lastmodified":1466704333,
+    "wof:lastmodified":1510943563,
     "wof:name":"Two-Gether Leather",
     "wof:parent_id":85892687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236891869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169149,36.054929,-115.169149,36.054929",
     "geom:latitude":36.054929,
     "geom:longitude":-115.169149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Las Vegas Blvd S Ste 69",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_5gqDY8BTDU4WwVsqcQ4cq9_36.054929_-115.169149@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4a9c6866ecee2448a183f17821adf42",
+    "wof:geomhash":"7973c8bdcebd74bb3f2e5c89d8e92adb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":354406101,
-    "wof:lastmodified":1466706303,
+    "wof:lastmodified":1510943223,
     "wof:name":"Vitamin World",
     "wof:parent_id":85879739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236547453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-115.176457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3770 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":823461999,
-    "wof:lastmodified":1510697193,
+    "wof:lastmodified":1510943069,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354265323
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

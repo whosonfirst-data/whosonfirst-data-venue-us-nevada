@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.121103,36.098236,-115.121103,36.098236",
     "geom:latitude":36.098236,
     "geom:longitude":-115.121103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4988 Jeffreys St",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_1N8cq0tnRiiriSk6PsXHdU_36.098236_-115.121103@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2c58ccb9e6318a6ca6a47744902fbe9",
+    "wof:geomhash":"4be352fe40420e78e598e4a914ed3514",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":219524123,
-    "wof:lastmodified":1466701743,
+    "wof:lastmodified":1510941216,
     "wof:name":"Mc Farland Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354364033
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

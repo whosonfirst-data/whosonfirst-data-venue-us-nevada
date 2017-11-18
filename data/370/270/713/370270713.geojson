@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.29533,36.070237,-115.29533,36.070237",
     "geom:latitude":36.070237,
     "geom:longitude":-115.29533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9280 W Sunset Road Suite 200",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2MiUYEXtrYAmlKvmWqUp05_36.070237_-115.295330@1303263143"
     },
     "wof:country":"US",
-    "wof:geomhash":"443f13047df2380d088f6765717779fa",
+    "wof:geomhash":"3b30e20e4fc73bd311cb7af23f693975",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370270713,
-    "wof:lastmodified":1466704304,
+    "wof:lastmodified":1510942511,
     "wof:name":"Lung Center of Nevada",
     "wof:parent_id":85896915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219413471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

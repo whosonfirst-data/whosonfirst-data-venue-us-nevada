@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.190513,36.133593,-115.190513,36.133593",
     "geom:latitude":36.133593,
     "geom:longitude":-115.190513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 S Valley View Blvd Ste E102",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_7Ki6v02oTJan15JSNyqNXh_36.133593_-115.190513@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"5cd7204f5c50116d06c1a85cbda01962",
+    "wof:geomhash":"d253b720a97ecc414b61a8caa6b3ddff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354126623,
-    "wof:lastmodified":1466704469,
+    "wof:lastmodified":1510941721,
     "wof:name":"Evo Inc",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219712997
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "vintage",

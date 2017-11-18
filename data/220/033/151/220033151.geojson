@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.118975,36.096721,-115.118975,36.096721",
     "geom:latitude":36.096721,
     "geom:longitude":-115.118975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5025 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_02zyzSeGsJg8lURmwgFoU3_36.096721_-115.118975@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad75581cd83bc4340a2b459152e43cc0",
+    "wof:geomhash":"55ff0ab0c5a55052692009225069ebf4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":220033151,
-    "wof:lastmodified":1466701818,
+    "wof:lastmodified":1510942001,
     "wof:name":"Putter's At Eastern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354357555
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

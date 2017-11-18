@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.161474,36.199281,-115.161474,36.199281",
     "geom:latitude":36.199281,
     "geom:longitude":-115.161474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1555 Balzar Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0DdRNx7eftkm5wcnG0hbmo_36.199281_-115.161474@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"470a08bfb95b35937e3a18d742ae8b0c",
+    "wof:geomhash":"ad8760a1da2df68c02a7094af76468fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":235977505,
-    "wof:lastmodified":1466703643,
+    "wof:lastmodified":1510941668,
     "wof:name":"Sunset Park Appartments",
     "wof:parent_id":85853543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354194507
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

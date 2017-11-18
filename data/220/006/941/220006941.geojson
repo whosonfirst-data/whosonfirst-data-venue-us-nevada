@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.121747,36.103645,-115.121747,36.103645",
     "geom:latitude":36.103645,
     "geom:longitude":-115.121747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2325 Renaissance Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_14TvmnVJU2QcvnouasWbpu_36.103645_-115.121747@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"ab65479b0f6c100b9c310263505e9467",
+    "wof:geomhash":"7111b88e17b3cb189a356b3dc4280cb3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":220006941,
-    "wof:lastmodified":1466701495,
+    "wof:lastmodified":1510942794,
     "wof:name":"Agl Capital Corporation",
     "wof:parent_id":85879697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219807025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

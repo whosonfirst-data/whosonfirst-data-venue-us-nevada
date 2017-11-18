@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-115.040623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1301 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":823461307,
-    "wof:lastmodified":1510876604,
+    "wof:lastmodified":1510943112,
     "wof:name":"Hooters",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236196681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

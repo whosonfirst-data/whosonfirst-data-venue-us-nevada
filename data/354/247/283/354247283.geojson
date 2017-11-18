@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.162683,36.137276,-115.162683,36.137276",
     "geom:latitude":36.137276,
     "geom:longitude":-115.162683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2880 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_4fcUnjHAiDAiAIxEpSGGEc_36.137276_-115.162683@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"42456da0e87817823207838d19ed95a0",
+    "wof:geomhash":"f96ff398a70d1a86c00a954ef66d652b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354247283,
-    "wof:lastmodified":1466705318,
+    "wof:lastmodified":1510942587,
     "wof:name":"Adventuredome Theme Park",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354241213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

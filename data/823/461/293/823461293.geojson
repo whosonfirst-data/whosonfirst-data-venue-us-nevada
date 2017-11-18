@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-115.041501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1300 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":823461293,
-    "wof:lastmodified":1510695233,
+    "wof:lastmodified":1510941603,
     "wof:name":"HOT DOG ON A STICK",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354003519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

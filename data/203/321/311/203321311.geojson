@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.050881,36.063613,-115.050881,36.063613",
     "geom:latitude":36.063613,
     "geom:longitude":-115.050881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1533 W Sunset Rd",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6yNFd0ryBuUAUhqbyTpdI8_36.063613_-115.050881@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cc19e1fe806d693f0e9ebfe3b741885",
+    "wof:geomhash":"3dcede27a6f784532e1472ebc2860e07",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":203321311,
-    "wof:lastmodified":1466702972,
+    "wof:lastmodified":1510941696,
     "wof:name":"Cingular Wireless",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354004491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telephone",

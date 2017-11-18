@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.17265,36.111044,-115.17265,36.111044",
     "geom:latitude":36.111044,
     "geom:longitude":-115.17265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3663 Las Vegas Blvd S Ste 380",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0B72DXfyJP5tNSHCo9MhUL_36.111044_-115.172650@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b40d686f32789640b13f803a632c9f0",
+    "wof:geomhash":"791698c2eea2774d23b6db2f999789c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354228523,
-    "wof:lastmodified":1466705074,
+    "wof:lastmodified":1510941758,
     "wof:name":"Lasalsa Cantina Mexican Fare",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236799367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

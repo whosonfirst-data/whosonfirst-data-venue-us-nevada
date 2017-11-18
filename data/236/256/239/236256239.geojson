@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.108416,36.071635,-115.108416,36.071635",
     "geom:latitude":36.071635,
     "geom:longitude":-115.108416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3068 E Sunset Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_0dG0p59Mvtnv6nlCMd1nLA_36.071635_-115.108416@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"d3d5732d4d4a239ef6ffd004f65af0e3",
+    "wof:geomhash":"729c5ec0a7a6d8d2b7dc4833259f1d5c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236256239,
-    "wof:lastmodified":1466704418,
+    "wof:lastmodified":1510942088,
     "wof:name":"Colonial Property Management",
     "wof:parent_id":85878089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354374599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

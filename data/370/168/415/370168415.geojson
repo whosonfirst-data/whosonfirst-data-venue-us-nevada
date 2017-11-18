@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.254147,36.218238,-115.254147,36.218238",
     "geom:latitude":36.218238,
     "geom:longitude":-115.254147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7350 W Cheyenne Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_1LpqJnCZNEpWcW25nVOflm_36.218238_-115.254147@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"c04cae58c9fdee85c4413971ed9f9dc2",
+    "wof:geomhash":"ce101baf3befc8e6b9f058a4eee109ba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":370168415,
-    "wof:lastmodified":1466701952,
+    "wof:lastmodified":1510942846,
     "wof:name":"Grooming by Darcy",
     "wof:parent_id":85866215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219541965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

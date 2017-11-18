@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.186535,36.144459,-115.186535,36.144459",
     "geom:latitude":36.144459,
     "geom:longitude":-115.186535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3320 W Sahara Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_00MoYYr5gooDeOmPhnLdEH_36.144459_-115.186535@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"bdf6eee9d51dac726c2232e58f3d136e",
+    "wof:geomhash":"26c6c7596872646660dc75fd67484f5f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236136779,
-    "wof:lastmodified":1466702263,
+    "wof:lastmodified":1510943014,
     "wof:name":"Kolesar & Leatham Chtd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354115805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

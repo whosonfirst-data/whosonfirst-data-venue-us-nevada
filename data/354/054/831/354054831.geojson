@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.084999,36.025501,-115.084999,36.025501",
     "geom:latitude":36.025501,
     "geom:longitude":-115.084999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N Green Valley Pkwy",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3rYEYIuyWq7RJqWxzbb8pQ_36.025501_-115.084999@1303263132"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ed9743d5c0377f9cb987b62a6c4f5b3",
+    "wof:geomhash":"c0ccd90b12e1ba4bc7e8fed9c8cf50c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354054831,
-    "wof:lastmodified":1466702901,
+    "wof:lastmodified":1510941702,
     "wof:name":"Academic Dermatology",
     "wof:parent_id":85878095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236148305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatologist"

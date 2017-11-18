@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.188318,36.115552,-115.188318,36.115552",
     "geom:latitude":36.115552,
     "geom:longitude":-115.188318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3700 W Flamingo Rd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7hQ7cNqhZ0lIonvHCv5Zrm_36.115552_-115.188318@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"f51afdb831b4a91ba7004deaadb725cf",
+    "wof:geomhash":"6fd67d01ff26cd91114c1d34456c3f78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":236064289,
-    "wof:lastmodified":1466703997,
+    "wof:lastmodified":1510941441,
     "wof:name":"Cashman's Photo Magic",
     "wof:parent_id":85879709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354161751
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"

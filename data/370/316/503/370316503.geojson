@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.785371,39.492968,-119.785371,39.492968",
     "geom:latitude":39.492968,
     "geom:longitude":-119.785371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"795 E Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_39qH6DVZTyLA70uJFZ6xhR_39.492968_-119.785371@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"a249de8e988b5b1f99d3f9237b60f164",
+    "wof:geomhash":"65c5f5511f2039027cf999ece40c0599",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":370316503,
-    "wof:lastmodified":1466704830,
+    "wof:lastmodified":1510942441,
     "wof:name":"American Auto Air",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236541509
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

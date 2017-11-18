@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.198096,36.110882,-115.198096,36.110882",
     "geom:latitude":36.110882,
     "geom:longitude":-115.198096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4350 Arville St Ste 15",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_69GVNDUs4glwKtlZc8cIIj_36.110882_-115.198096@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a887c33d4f798e198166197bdd82623",
+    "wof:geomhash":"8344a62b7cc86c14746775976170338d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354152235,
-    "wof:lastmodified":1466704546,
+    "wof:lastmodified":1510943623,
     "wof:name":"Farrington Productions Inc",
     "wof:parent_id":85806967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236552871
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "costume"

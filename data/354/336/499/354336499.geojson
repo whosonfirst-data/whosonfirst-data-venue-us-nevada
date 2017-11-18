@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.137515,36.119485,-115.137515,36.119485",
     "geom:latitude":36.119485,
     "geom:longitude":-115.137515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3825 S Maryland Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_0QV2XxXfRA43hVB24slhnJ_36.119485_-115.137515@1303263138"
     },
     "wof:country":"US",
-    "wof:geomhash":"29c2cd85a5c1fb1614aca4ab130ed3a5",
+    "wof:geomhash":"0c43b90af9687af96d3e5482c4c83ad7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":354336499,
-    "wof:lastmodified":1466705829,
+    "wof:lastmodified":1510942836,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85879699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219654377
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

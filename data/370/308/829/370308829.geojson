@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.733836,39.540413,-119.733836,39.540413",
     "geom:latitude":39.540413,
     "geom:longitude":-119.733836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 N Mccarran Blvd",
     "sg:city":"Sparks",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_7NFf8ojBn1AzMn18U8lf4r_39.540413_-119.733836@1303263143"
     },
     "wof:country":"US",
-    "wof:geomhash":"02e99b434412a22c5d55ec01e288a2c3",
+    "wof:geomhash":"3ae0f190df82868317e168b5b8b13323",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":370308829,
-    "wof:lastmodified":1466704798,
+    "wof:lastmodified":1510941601,
     "wof:name":"Bank Of America",
     "wof:parent_id":85853987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219769571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

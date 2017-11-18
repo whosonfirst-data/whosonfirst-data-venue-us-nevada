@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.169679,36.119495,-115.169679,36.119495",
     "geom:latitude":36.119495,
     "geom:longitude":-115.169679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3475 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_0gDI4jVmOGCX13S9G0hfTg_36.119495_-115.169679@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"25ad074700248421213fc828e3e8384f",
+    "wof:geomhash":"c52f666ffc5c57fccade7919d4d265ef",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,13 +52,17 @@
         }
     ],
     "wof:id":354251143,
-    "wof:lastmodified":1466705359,
+    "wof:lastmodified":1510943570,
     "wof:name":"Harrah's Las Vegas",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        252715879
+    ],
+    "wof:supersedes":[
+        252715879
+    ],
     "wof:tags":[]
 },
   "bbox": [

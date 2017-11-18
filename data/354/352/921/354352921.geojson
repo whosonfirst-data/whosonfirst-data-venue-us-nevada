@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.133095,36.100865,-115.133095,36.100865",
     "geom:latitude":36.100865,
     "geom:longitude":-115.133095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1455 E Tropicana Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6a08M3IDDqHQSiyl5Qtojq_36.100865_-115.133095@1303263138"
     },
     "wof:country":"US",
-    "wof:geomhash":"78f381d9bff22f970428fed7a93af135",
+    "wof:geomhash":"ee3d10e5cb4c157d1b52c066b593e440",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":354352921,
-    "wof:lastmodified":1466706018,
+    "wof:lastmodified":1510941816,
     "wof:name":"Knews Am 970",
     "wof:parent_id":85879743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236858617
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

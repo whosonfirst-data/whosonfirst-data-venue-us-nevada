@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.115876,36.172392,-115.115876,36.172392",
     "geom:latitude":36.172392,
     "geom:longitude":-115.115876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"574 N Eastern Avenue",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_6lJLJhiTUUd49rkIFhZVsN_36.172392_-115.115876@1303263132"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0884dc6100b8da5203febd2e23b0248",
+    "wof:geomhash":"c5083688cce12435a0a10fae90d4abdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354084451,
-    "wof:lastmodified":1466703714,
+    "wof:lastmodified":1510941667,
     "wof:name":"C & G Beauty Supply",
     "wof:parent_id":85892629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236177409
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"

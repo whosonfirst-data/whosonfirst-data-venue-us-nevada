@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.144308,36.163809,-115.144308,36.163809",
     "geom:latitude":36.163809,
     "geom:longitude":-115.144308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"530 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_6jlUD739RYjHNlbm21DplP_36.163809_-115.144308@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"cd7ae5bdf3a29d89dbffa5de4df9afea",
+    "wof:geomhash":"81ad019c415209859905ef7d4dfbdb3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":203222329,
-    "wof:lastmodified":1466702310,
+    "wof:lastmodified":1510941971,
     "wof:name":"First Security Bank Of Nevada",
     "wof:parent_id":85896899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354073785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

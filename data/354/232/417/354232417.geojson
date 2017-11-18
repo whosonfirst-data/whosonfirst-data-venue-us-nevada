@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.164063,36.113146,-115.164063,36.113146",
     "geom:latitude":36.113146,
     "geom:longitude":-115.164063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4158 Koval Lane",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_4A9gV6Mr5tYDtwmkuZtFuP_36.113146_-115.164063@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4e40e3a441877c0bd7170f31313a188",
+    "wof:geomhash":"d0acffbe5f79c4c1fe9a4fd4851618ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":354232417,
-    "wof:lastmodified":1466705236,
+    "wof:lastmodified":1510942288,
     "wof:name":"7-Eleven",
     "wof:parent_id":85866197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236973971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

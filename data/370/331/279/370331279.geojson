@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.858487,39.5075,-119.858487,39.5075",
     "geom:latitude":39.5075,
     "geom:longitude":-119.858487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3882 Mayberry Dr",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5msidOpe8NqlkShCKIMOVT_39.507500_-119.858487@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"89942cc0d2cf772fa1f0e5d637c16804",
+    "wof:geomhash":"a0b190ef98079477c858ff2c37d15488",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":370331279,
-    "wof:lastmodified":1466704861,
+    "wof:lastmodified":1510943141,
     "wof:name":"Devonwoods",
     "wof:parent_id":85856223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236581743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

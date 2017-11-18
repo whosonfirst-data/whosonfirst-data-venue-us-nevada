@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.141148,36.143676,-115.141148,36.143676",
     "geom:latitude":36.143676,
     "geom:longitude":-115.141148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"953 E Sahara Ave Ste E14",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_37C5fqGVoG03ntaeEnMWOm_36.143676_-115.141148@1303263134"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e3970724ffb2fab7e636c9a0ab1a393",
+    "wof:geomhash":"208988e66712efcc6efddac920ab1f7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":354167341,
-    "wof:lastmodified":1466704804,
+    "wof:lastmodified":1510944130,
     "wof:name":"Tokyo Japanese Restaurant",
     "wof:parent_id":85892717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236788945
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sushi",

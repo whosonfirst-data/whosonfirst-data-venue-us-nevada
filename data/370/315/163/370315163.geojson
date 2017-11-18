@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.814832,39.526643,-119.814832,39.526643",
     "geom:latitude":39.526643,
     "geom:longitude":-119.814832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"118 W 2nd St",
     "sg:city":"Reno",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_31Kwz6ExUHkS87huFEeVNm_39.526643_-119.814832@1303263144"
     },
     "wof:country":"US",
-    "wof:geomhash":"de178d5def2fe7dbb15d19f23d430b60",
+    "wof:geomhash":"ede6fadb6800b77f01cf821f96bdae79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":370315163,
-    "wof:lastmodified":1466704548,
+    "wof:lastmodified":1510943086,
     "wof:name":"West Second Street Bar",
     "wof:parent_id":85880179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219782553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

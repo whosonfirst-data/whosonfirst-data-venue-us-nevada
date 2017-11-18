@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.168967,36.121621,-115.168967,36.121621",
     "geom:latitude":36.121621,
     "geom:longitude":-115.168967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3355 Las Vegas Blvd S",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435399,
-    "wof:geomhash":"26edc85e7edc1f204d2d89d91e9ed2d8",
+    "wof:geomhash":"c7c77271e50cdef5c106c91c941c8075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823462133,
-    "wof:lastmodified":1466702525,
+    "wof:lastmodified":1510942870,
     "wof:name":"Delmonico Steakhouse",
     "wof:parent_id":85896919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354259399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.792424,39.492589,-119.792424,39.492589",
     "geom:latitude":39.492589,
     "geom:longitude":-119.792424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"294 E Moana Ln",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2iSfW2USlPz3zsjIfbDS2o_39.492589_-119.792424@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4986662db9782c92cdcc3cb3321d219",
+    "wof:geomhash":"67260765e872ee3be5ba9237d48f26d9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":220108933,
-    "wof:lastmodified":1466702454,
+    "wof:lastmodified":1510942396,
     "wof:name":"Sushi Club",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823463193
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

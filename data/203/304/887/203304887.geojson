@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.244205,36.163816,-115.244205,36.163816",
     "geom:latitude":36.163816,
     "geom:longitude":-115.244205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"885 S Rainbow Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_6yFWTtqkoeIeJv8lNsRAYl_36.163816_-115.244205@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4cb3414cd450d1a471dd7b036e2c50c9",
+    "wof:geomhash":"f2c7fd544c9147389f8f687a5d666539",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":203304887,
-    "wof:lastmodified":1466702891,
+    "wof:lastmodified":1510941772,
     "wof:name":"Sign-A-Rama",
     "wof:parent_id":85892651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370220489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "painter",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.747639,39.484709,-119.747639,39.484709",
     "geom:latitude":39.484709,
     "geom:longitude":-119.747639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3308 S Mccarran Blvd",
     "sg:city":"Reno",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435442,
-    "wof:geomhash":"823271be8b6192c96234018f9865c2dc",
+    "wof:geomhash":"28a9de33e91a51acf58d2160694ed7c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":823463227,
-    "wof:lastmodified":1466702812,
+    "wof:lastmodified":1510941370,
     "wof:name":"McDonald's",
     "wof:parent_id":85885341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236333183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

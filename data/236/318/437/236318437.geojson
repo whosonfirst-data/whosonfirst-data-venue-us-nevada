@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.118706,36.081757,-115.118706,36.081757",
     "geom:latitude":36.081757,
     "geom:longitude":-115.118706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6000 S Eastern Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4EEM3Qy1mlXxJdcKCKFtbR_36.081757_-115.118706@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"f9878ab323a757dc24c397bdea56269e",
+    "wof:geomhash":"996451fe4e9e665583a468ba1274e12c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":236318437,
-    "wof:lastmodified":1466704825,
+    "wof:lastmodified":1510942618,
     "wof:name":"Dave's Automotive",
     "wof:parent_id":85879715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354350055
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

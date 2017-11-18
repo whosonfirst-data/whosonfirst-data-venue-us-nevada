@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.064049,36.144155,-115.064049,36.144155",
     "geom:latitude":36.144155,
     "geom:longitude":-115.064049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5061 E Sahara Ave Ste 115",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4gKsG5PogY9FdQ11fw9Y6F_36.144155_-115.064049@1303263141"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe68a4483c1c9ebb080126461f65dc4b",
+    "wof:geomhash":"f86bdb0a8bafb7dab304deb83bb27ae3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":370210859,
-    "wof:lastmodified":1466702823,
+    "wof:lastmodified":1510943316,
     "wof:name":"Subway",
     "wof:parent_id":85896917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823462739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

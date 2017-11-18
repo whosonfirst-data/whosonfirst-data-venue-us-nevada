@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.259836,36.177634,-115.259836,36.177634",
     "geom:latitude":36.177634,
     "geom:longitude":-115.259836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"311 N Buffalo Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5f3B8db68UsT7cBVdkqQS8_36.177634_-115.259836@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"441f1b9678c69d5c280f7209243f6ecd",
+    "wof:geomhash":"1c250e03d6982aff9897b2a917bf2805",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":220071675,
-    "wof:lastmodified":1466702221,
+    "wof:lastmodified":1510942364,
     "wof:name":"Southwest Dermatology Inst LTD",
     "wof:parent_id":85892623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        370225877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

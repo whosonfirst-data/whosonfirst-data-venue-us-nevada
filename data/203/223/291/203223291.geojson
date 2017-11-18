@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.123926,36.114206,-115.123926,36.114206",
     "geom:latitude":36.114206,
     "geom:longitude":-115.123926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4275 Burnham Ave",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_2510WxlRaQDpKVEVFxcR7y_36.114206_-115.123926@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"0289d4444fb25229ded5976aec5003c9",
+    "wof:geomhash":"a221708e043611b2a7170f48a5261cd2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203223291,
-    "wof:lastmodified":1466702318,
+    "wof:lastmodified":1510942028,
     "wof:name":"American Academy Of Urology",
     "wof:parent_id":85879747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354341469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.155409,36.167607,-115.155409,36.167607",
     "geom:latitude":36.167607,
     "geom:longitude":-115.155409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"495 S Grand Central Parkway",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_65jeGTxTRT4uUv77PbLALa_36.167607_-115.155409@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"e99b156b20c054d21590347d198ac45f",
+    "wof:geomhash":"6e96f683cc39a52ee5dc1e411cfa1636",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354193343,
-    "wof:lastmodified":1466704982,
+    "wof:lastmodified":1510943285,
     "wof:name":"Klaussner Furniture",
     "wof:parent_id":85892701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236239923
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.184865,36.126232,-115.184865,36.126232",
     "geom:latitude":36.126232,
     "geom:longitude":-115.184865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3355 Spring Mountain Road",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_1LWTERDOL6VYaUc7HUc90L_36.126232_-115.184865@1303263133"
     },
     "wof:country":"US",
-    "wof:geomhash":"757c100949008627ffca5847f70fb2d8",
+    "wof:geomhash":"b20114eee2767ca24f7391255110d34b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354102077,
-    "wof:lastmodified":1466704160,
+    "wof:lastmodified":1510941729,
     "wof:name":"Ch Home Owners Acceptance Corporation",
     "wof:parent_id":85879733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219641633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

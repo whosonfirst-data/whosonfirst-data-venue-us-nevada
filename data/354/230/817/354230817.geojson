@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.172739,36.103356,-115.172739,36.103356",
     "geom:latitude":36.103356,
     "geom:longitude":-115.172739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3785 Las Vegas Blvd S Ste 10",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -58,7 +61,7 @@
         "sg:id":"SG_6JaSxc7UDgSoDPIwEVxDIL_36.103356_-115.172739@1303263136"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebf568540619f8966fee0c3233ecd528",
+    "wof:geomhash":"a01dff1aed225985e0cdec3c3fbe5ff5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":354230817,
-    "wof:lastmodified":1466705227,
+    "wof:lastmodified":1510941850,
     "wof:name":"M & M's World",
     "wof:parent_id":85879735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236419221
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

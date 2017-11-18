@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.075996,36.158901,-115.075996,36.158901",
     "geom:latitude":36.158901,
     "geom:longitude":-115.075996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4530 E Charleston Blvd",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_7fugtWJ9bdFkhCxoVHaYwm_36.158901_-115.075996@1303263135"
     },
     "wof:country":"US",
-    "wof:geomhash":"c4206eb0b9bbef4ba1cb05e1b1cc7561",
+    "wof:geomhash":"92fe9464b2d14062d74f572326809bcf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":354178423,
-    "wof:lastmodified":1466705003,
+    "wof:lastmodified":1510943563,
     "wof:name":"S & H Sportswear & Embroidery",
     "wof:parent_id":85892719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236240893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

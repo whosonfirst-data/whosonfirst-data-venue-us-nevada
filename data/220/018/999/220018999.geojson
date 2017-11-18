@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.162861,36.144609,-115.162861,36.144609",
     "geom:latitude":36.144609,
     "geom:longitude":-115.162861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2409 Tam Dr",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -37,7 +40,7 @@
         "sg:id":"SG_3PxguCpzL2N9lrko95ZtVE_36.144609_-115.162861@1294173222"
     },
     "wof:country":"US",
-    "wof:geomhash":"4970258692bdcb308a8f564448c16644",
+    "wof:geomhash":"74847c2649f98c1616dc347b63a9dd66",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":220018999,
-    "wof:lastmodified":1466701667,
+    "wof:lastmodified":1510944170,
     "wof:name":"7-Eleven",
     "wof:parent_id":85892695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354103303
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

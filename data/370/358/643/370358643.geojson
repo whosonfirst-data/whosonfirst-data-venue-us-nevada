@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.769997,39.185699,-119.769997,39.185699",
     "geom:latitude":39.185699,
     "geom:longitude":-119.769997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2874 N Carson St Ste 230",
     "sg:city":"Carson City",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2vZSkqpAJ7rffj5EOimy9W_39.185699_-119.769997@1303263145"
     },
     "wof:country":"US",
-    "wof:geomhash":"96439808cad47ffcc36efe2463ca21be",
+    "wof:geomhash":"d31ef68bfe503d4beaffc565082557c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370358643,
-    "wof:lastmodified":1466705067,
+    "wof:lastmodified":1510941569,
     "wof:name":"Eagle Spine & Pain Center",
     "wof:parent_id":85809673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219435517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

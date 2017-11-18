@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.051136,36.064175,-115.051136,36.064175",
     "geom:latitude":36.064175,
     "geom:longitude":-115.051136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Whitney Ranch Dr Ste B6",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6Ol3OURPu8zutSwtlovyiv_36.064175_-115.051136@1303263130"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba3f47fa0da86a45a4b765e9a8718c28",
+    "wof:geomhash":"dad8b54916d55408a690ae639a714a5b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":354003947,
-    "wof:lastmodified":1466701557,
+    "wof:lastmodified":1510943517,
     "wof:name":"Summit Medical Group",
     "wof:parent_id":85878143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        236300831
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

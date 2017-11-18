@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.249382,36.216207,-115.249382,36.216207",
     "geom:latitude":36.216207,
     "geom:longitude":-115.249382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3150 N Tenaya Way",
     "sg:city":"Las Vegas",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_2hqDpYdFSF6kCJRiNuRqF7_36.216207_-115.249382@1303263140"
     },
     "wof:country":"US",
-    "wof:geomhash":"2357c309bb198babd321b477527719a1",
+    "wof:geomhash":"e5aa52f8b9d0afc5999abf4c2eb05d23",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":370157091,
-    "wof:lastmodified":1466701711,
+    "wof:lastmodified":1510943266,
     "wof:name":"Mountain View Dental Care",
     "wof:parent_id":85892685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        219552919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
